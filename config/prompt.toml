@@ -1,0 +1,16 @@
+[query]
+RESUME_PARSER_TEMPLATE = """
+Convert the following resume text into a structured JSON CV format. Follow this schema exactly, leaving unspecified fields empty and refraining from adding anything not mentioned in the text. Return only the JSON output without any additional information.
+     - If a field is not explicitly mentioned in the resume, leave it empty.   
+     - Return only the JSON object without additional text or commentary
+Schema: {resume_schema}
+
+Resume Text: {resume_text}
+"""
+
+[translate]
+LANGUAGE_TRANSLATE_TEMPLATE = """
+Translate the following text into English. Maintain the original meaning and tone of the text as accurately as possible. Do not include any explanations or additional information—only return the translated English text.
+
+Text: {resume_text}
+"""

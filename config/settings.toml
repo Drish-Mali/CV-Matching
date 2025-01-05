@@ -1,0 +1,14 @@
+[default]
+MODEL_NAME = "gpt-4o-mini"
+TEMPERATURE = 0
+
+[model_parameters]
+MODEL_NAME = "gpt-4o"
+TEMPERATURE = 0
+TOP_P_VALUE = 0.0
+TOP_K_VALUE = 1.2
+PRESENCE_PENALTY = 0
+FREQUENCY_PENALTY = 0
+MAX_TOKENS_TO_GENERATE = 4069
+STOPWORDS = ["Human", "Instruction:", "</s>"]
+
