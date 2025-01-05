@@ -38,8 +38,8 @@ python src/app.py
 ├── requirements.txt                                    # List of dependencies
 ├── .gitignore                                          # Files to ignore in Git
 ├── data                                                # Directory for data files
-│── app.py                                              # Scripts to run Fast API end points : extract_top_k_job,extract_top_k_cv 
-│── language_handler.py                                 # Scripts to detct langauge used and transalte to english               
+│── app.py                                              # scripts to run Fast API end points : extract_top_k_job,extract_top_k_cv 
+│── language_handler.py                                 # scripts to detct langauge used and transalte to english               
 ├── notebooks                                           # Jupyter notebooks
 │       ├── 1-dm-data-preperation-cv.ipynb              # Notebook to create json files from CV pdfs
 │       └── 2-dm-data-extract-csv.ipynb                 # Notebook to create csv from json file of CV
@@ -51,11 +51,12 @@ python src/app.py
 ├── Dockerfile                                          # Docker file to expose FastAPI endpoint
 ├── output                                              # Directory to save top cv and jobs reccomendation jsons
 ├── output_json                                         # Directory to save json from notebook 2
-├── pipeliens                                           # Scripts to setup data extraction from CV
-│       ├── base.py                                     # Script to definebase class for creating and managing of chains 
+├── pipeliens                                           # scripts to setup data extraction from CV
+│       ├── base.py                                     # script to definebase class for creating and managing of chains 
 │       └── langauge_translator.py                      # script to provide a method to translate
 │       └── resume_parser.py                            # script to parse the resume using langchain
-├── schemas                                             # Scripts  defines two Pydantic models, Message and PostData
+├── schemas                                             # scripts  defines two Pydantic models, Message and PostData
+├── API_documentation.md                                # Detail doument about API
 ├── scripts                                             # scripts to generate top job decscription or CV
 │       ├── get_top_candidate_cv.py                     # scripts to generate and save to top candidate CV
 │       └── get_top_jobs.py                             # scripts to generate and save to top jobs
