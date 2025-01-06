@@ -251,11 +251,11 @@ The provided Dockerfile creates a slim Python environment to run the FastAPI app
   - 2. extract_top_k_job
   ```bash
    curl -X 'POST' \
-  'http://localhost:8000/extract_top_k_cv' \
+  'http://localhost:8000/extract_top_k_job' \
   -H 'accept: application/json' \
   -H 'Content-Type: application/json' \
   -d '{
-    "job_description": "bachelors degree or equivalent practical experience years of experience in saas or productivity tools businessexperience managing enterprise accounts with sales cycles",
+    "pdf_path": "abc.pdf",
     "top_k": 3
    }'
    ```
