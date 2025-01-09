@@ -4,12 +4,20 @@ from dotenv import load_dotenv
 import os
 load_dotenv()
 
+# db_config = {
+#     "dbname": os.getenv("DBNAME"),
+#     "user": os.getenv("USER"),
+#     "password": os.getenv("PASSWORD"),
+#     "host": os.getenv("HOST"),
+#     "port": os.getenv("PORT")
+# }
+
 db_config = {
-    "dbname": os.getenv("DBNAME"),
-    "user": os.getenv("USER"),
-    "password": os.getenv("PASSWORD"),
-    "host": os.getenv("HOST"),
-    "port": os.getenv("PORT")
+    "dbname": "vector_db",
+    "user": "postgres",
+    "password": "pass123",
+    "host": "db",
+    "port": 5432,
 }
 
 
@@ -38,9 +46,10 @@ SQL_COMMANDS = [
 ]
 
 def execute_sql_commands():
+    conn = psycopg2.connect(**db_config)
     try:
 
-        conn = psycopg2.connect(**db_config)
+        
         conn.autocommit = True
         cursor = conn.cursor()
 

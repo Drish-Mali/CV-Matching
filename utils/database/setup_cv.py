@@ -46,12 +46,20 @@ def insert_job_data_from_df(cv_df, db_config):
 
 
 # Database configuration
+# db_config = {
+#     "dbname": os.getenv("DBNAME"),
+#     "user": os.getenv("USER"),
+#     "password": os.getenv("PASSWORD"),
+#     "host": os.getenv("HOST"),
+#     "port": os.getenv("PORT")
+# }
+
 db_config = {
-    "dbname": os.getenv("DBNAME"),
-    "user": os.getenv("USER"),
-    "password": os.getenv("PASSWORD"),
-    "host": os.getenv("HOST"),
-    "port": os.getenv("PORT")
+    "dbname": "vector_db",
+    "user": "postgres",
+    "password": "pass123",
+    "host": "db",
+    "port": 5432,
 }
 
 if __name__=="__main__":
