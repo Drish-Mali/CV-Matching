@@ -1,0 +1,108 @@
+{
+  "basics": {
+    "name": "Centralized Administrative Support",
+    "label": "Administrative Specialist",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Determined and proactive Administrative Specialist who works with a sense of urgency to anticipate the needs of senior-level executives. Thrives in a fast paced, dynamic environment.",
+    "location": {
+      "address": "Unknown",
+      "postalCode": "",
+      "city": "Unknown",
+      "countryCode": "Unknown",
+      "region": "Unknown"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Centralized Administrative Support",
+      "url": "",
+      "startDate": "2016-03",
+      "endDate": "Current",
+      "summary": "Scheduling appointments, maintaining calendars, managing email communication preparation, equipment, etc. Order supplies and equipment for leaders. Follow protocol in handling confidential and sensitive information. Run dashboard summary reports for Sales Leader.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Data Entry Clerk",
+      "url": "",
+      "startDate": "2015-10",
+      "endDate": "2015-12",
+      "summary": "Verified that information in the computer system was up-to-date and accurate. Identified and resolved system and account issues. Used great attention to details skills to provide quick and accurate labor for a long-term assignment. Maintained data entry requirements by following data program techniques and procedures.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Tutor Counselor",
+      "url": "",
+      "startDate": "2015-06",
+      "endDate": "2015-07",
+      "summary": "Used great attention to details skills to provide quick and accurate labor for a long-term assignment. Maintained data entry requirements by following data program techniques and procedures. Created timeline and goals to complete assignments. Verified that information in the computer system was up-to-date and accurate.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Executive Assistant/Special Events",
+      "url": "",
+      "startDate": "2006-08",
+      "endDate": "2015-05",
+      "summary": "Responsible for direct customer service, worksite direction, food preparation and serving, and creative direction for a catering company servicing a diverse clientele and broad range of events...",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Jackson State University",
+      "url": "",
+      "area": "Health Education and General Science",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "2015",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "MS Office Suite",
+      "level": "Advanced",
+      "keywords": [
+        "Excel",
+        "Word",
+        "Outlook",
+        "PowerPoint"
+      ]
+    },
+    {
+      "name": "Problem Solving",
+      "level": "",
+      "keywords": ["Resourceful", "Strong problem solver"]
+    },
+    {
+      "name": "Communication",
+      "level": "Excellent",
+      "keywords": ["Critical Thinking", "Decision Making", "Communication skills"]
+    }
+  ],
+  "languages": [],
+  "interests": [
+    {
+      "name": "Community service",
+      "keywords": []
+    },
+    {
+      "name": "Networking organization events",
+      "keywords": []
+    }
+  ],
+  "references": [],
+  "projects": []
+}

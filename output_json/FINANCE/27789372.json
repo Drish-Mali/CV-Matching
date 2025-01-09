@@ -1,0 +1,115 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Finance Director",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Finance Director with experience in strategic planning, budgeting and accounting.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "US",
+      "region": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Finance Director",
+      "url": "",
+      "startDate": "2012-05-01",
+      "endDate": "Current",
+      "summary": "Implemented new Accounting procedures within Quickbooks. Prepare company payroll and submit to ADP bimonthly. Work daily with Microsoft Excel in creating worksheets when needed. Prepare monthly Payroll Financial Statements for the Corporation. Review Financial Statements within Quickbooks. Work Directly with HR Director, Standards Compliance Coordinator, Treasurer and CEO.",
+      "highlights": [
+        "Implemented new Accounting procedures within Quickbooks",
+        "Prepare company payroll and submit to ADP bimonthly",
+        "Work daily with Microsoft Excel in creating worksheets when needed",
+        "Prepare monthly Payroll Financial Statements for the Corporation",
+        "Review Financial Statements within Quickbooks",
+        "Work Directly with HR Director, Standards Compliance Coordinator, Treasurer and CEO"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Systems Manager",
+      "url": "",
+      "startDate": "2011-07-01",
+      "endDate": "2012-05-01",
+      "summary": "Process all Medicaid Claims as well as billing errors, denials and payments. Entered new Medicaid patient Enrollment papers into Medical Program Daily. Analyze patient accounts daily for errors. Assist Financial Director daily with various tasks. Process and post Medicaid billing daily. Developed work with data entry including: Customer and Patient Satisfaction, Clinical Monthly Packets as well as the Employee Census.",
+      "highlights": [
+        "Process all Medicaid Claims as well as billing errors, denials and payments",
+        "Entered new Medicaid patient Enrollment papers into Medical Program Daily",
+        "Analyze patient accounts daily for errors",
+        "Assist Financial Director daily with various tasks",
+        "Process and post Medicaid billing daily",
+        "Developed work with data entry"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Staff Accountant",
+      "url": "",
+      "startDate": "2008-06-01",
+      "endDate": "2010-03-01",
+      "summary": "Analyzed financial and accounting records. Used Accounting and Auditing Sox procedures to evaluate information and review compliances. Conducted payroll audits and inventory counts. Assisted with internal audits. Applied cash deposits against accounts receivables daily. Reviewed Journal Entries and monthly Landowner Statements to pass Sox compliance.",
+      "highlights": [
+        "Analyzed financial and accounting records",
+        "Used Accounting and Auditing Sox procedures to evaluate information and review compliances",
+        "Conducted payroll audits and inventory counts",
+        "Assisted with internal audits",
+        "Applied cash deposits against accounts receivables daily",
+        "Reviewed Journal Entries and monthly Landowner Statements to pass Sox compliance"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Youngstown State University",
+      "url": "",
+      "area": "Business Administration",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "2008-01-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Microsoft Excel",
+      "level": "Intermediate",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Acess",
+      "level": "Basic",
+      "keywords": []
+    },
+    {
+      "name": "Quickbooks",
+      "level": "",
+      "keywords": [
+        "3 years experience"
+      ]
+    },
+    {
+      "name": "ADP Payroll System",
+      "level": "",
+      "keywords": [
+        "3 years experience"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

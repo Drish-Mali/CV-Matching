@@ -1,0 +1,84 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Family Advocate",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "[Job Title] adept at identifying and documenting cases of child abuse. Skilled at finding and implementing the best possible solutions.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Family Advocate",
+      "url": "",
+      "startDate": "04/2011",
+      "endDate": "Current",
+      "summary": "Recruit in neighborhoods that are close to the Head Start/Early Head Start centers that are below poverty level, in social services agencies, homeless shelters, resource events for children and families to make aware of free government child care services for low income families. Assist forty to fifty-five eligible families in applying for Head Start/Early Head Start child care services. Meet with families to find out their needs and goals, and refer families to services to successfully meet needs and goals...",
+      "highlights": ["Managed a caseload of more than� fifty to forty-five� clients at any given time."]
+    },
+    {
+      "name": "Company Name",
+      "position": "Family Care Manager",
+      "url": "",
+      "startDate": "09/2005",
+      "endDate": "02/2009",
+      "summary": "Handled ten dependency cases in the state of Florida and five dependency cases out of state. Conducted evaluations on homes of parents, relatives, and non-relatives for safe placement of children. Performed monthly home visits at children's current residence to monitor wellbeing of children...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Sales Associate",
+      "url": "",
+      "startDate": "08/2004",
+      "endDate": "06/2005",
+      "summary": "Assisted customers in locating items in the department. Recognized for bringing in most sales in the department. Cleaned fitting rooms.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Student Assistant/Building Manager",
+      "url": "",
+      "startDate": "09/2002",
+      "endDate": "05/2004",
+      "summary": "Signed in customers to play pool. Collected money for pool usage. Promoted to Building Manager for displaying hard work and performing well on assigned work task.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Western Connecticut State University",
+      "url": "",
+      "area": "Social Work",
+      "studyType": "Bachelor's",
+      "startDate": "",
+      "endDate": "2004",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Family Advocacy",
+      "level": "",
+      "keywords": ["child care", "Council", "government", "Meetings", "money", "progress", "sales", "social services", "staffing"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

@@ -1,0 +1,86 @@
+{
+  "basics": {
+    "name": "Not Provided",
+    "label": "Culinary Arts Instructor",
+    "image": "",
+    "email": "Not Provided",
+    "phone": "Not Provided",
+    "url": "Not Provided",
+    "summary": "A culinary professional with over 16 years of experience in teaching, supervision, training, and problem-solving. Skilled in managing high volume kitchen environments with proficiency in SAP and Microsoft Office.",
+    "location": {
+      "address": "Not Provided",
+      "postalCode": "Not Provided",
+      "city": "Not Provided",
+      "countryCode": "Not Provided",
+      "region": "Not Provided"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Not Provided",
+      "position": "Culinary Arts Instructor",
+      "url": "Not Provided",
+      "startDate": "2015-01-01",
+      "endDate": "Current",
+      "summary": "Prepare lesson plans, develop programs curriculum, evaluate students' progress, and maintain all required documentations and administrative reports",
+      "highlights": []
+    },
+    {
+      "name": "Not Provided",
+      "position": "Director of Dining Services",
+      "url": "Not Provided",
+      "startDate": "2014-01-01",
+      "endDate": "Current",
+      "summary": "Manage the operations of Dining Services, uphold corporate standards and meet the financial expectations of departments. Prepare special meals for dietary needs and events",
+      "highlights": ["Increased sales from 25% to 50%", "Managed food cost, budgeting, production, sales, inventory, marketing and advertising"]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Queens College CUNY",
+      "url": "Not Provided",
+      "area": "Family and Consumer Science",
+      "studyType": "Master of Science",
+      "startDate": "Not Provided",
+      "endDate": "2012",
+      "score": "Not Provided",
+      "courses": []
+    },
+    {
+      "institution": "Le Cordon Bleu College",
+      "url": "Not Provided",
+      "area": "Culinary Arts",
+      "studyType": "Associate of Science",
+      "startDate": "Not Provided",
+      "endDate": "2007",
+      "score": "Not Provided",
+      "courses": []
+    },
+    {
+      "institution": "Southampton College of Long Island University",
+      "url": "Not Provided",
+      "area": "Marketing/Management",
+      "studyType": "Bachelor of Science",
+      "startDate": "Not Provided",
+      "endDate": "1995",
+      "score": "Not Provided",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Administrative Skills",
+      "level": "Not Provided",
+      "keywords": ["SAP System Knowledge", "Microsoft Office", "Inventory Control", "Quality Control", "Strong Leadership Skills", "Teaching", "Coaching", "Motivating"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

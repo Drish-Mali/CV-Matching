@@ -1,0 +1,105 @@
+{
+  "basics": {
+    "name": "Anonymous",
+    "label": "Claims Subject Matter Expert",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "summary": "Experienced Customer Service Representative with over 10 years of experience. Worked in Healthcare Industry for over 8 years with Humana, Passport and Excellus BCBS of NY. Successfully trained seasonal associates for Open Enrollment and worked as a Client Subject Matter Expert for SHPS, Inc.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": [
+  
+    ]
+  },
+  "work": [
+    {
+      "name": "",
+      "position": "Claims Subject Matter Expert",
+      "startDate": "2016-09",
+      "endDate": "2016-12",
+      "summary": "Worked any other special projects assigned by management. Responsible for meeting claims production goal of 200 claims per day. Worked as a claims subject matter expert for Banner Health.",
+
+      "highlights": [
+        "Processed professional HCFA 1500 ambulance",
+        "Responsible for claims processing for the Medicaid plans for HMO 7 University Health and HMO 9 AHCSS",
+        "Managed high call volume with tact and professionalism."
+      ]
+    },
+    {
+      "position": "Benefit Plan Admin./Client Service Expert",
+      "startDate": "2016-05",
+      "endDate": "2016-09",
+      "summary": "Responsible for duties in fall departmental efficiencies as assigned by management support o. Scheduled refills per the patients' plan benefit."
+    },
+    {
+      "position": "Patient Access Rep I",
+      "startDate": "2015-07",
+      "endDate": "2016-03",
+      "summary": "Responsible for duties in support of departmental efficiencies which may include: but not limited to performing scheduling, registration, patient pre-admission and admission, reception and discharge functions."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Ashworth College",
+      "area": "Medical Coding",
+      "studyType": "Certification",
+      "startDate": "",
+      "endDate": "2017-05",
+      "score": ""
+    },
+    {
+      "institution": "Liberty University",
+      "area": "Psychology/ Christian Counseling",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "",
+      "score": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Insurance and Billing",
+      "level": "Expert",
+      "keywords": [
+        "HCPCS Coding Guidelines",
+        "ICD-10 (International Classification of Disease Systems)",
+        "Familiar with commercial and private insurance carrier",
+        "Insurance and collections procedures",
+        "Understands insurance benefits",
+        "Ambulance coding familiarity",
+        "Insurance and collections procedures",
+        "DRG and PC grouping",
+        "Understands insurance benefits",
+        "Research and data analysis",
+        "Medical terminology expert",
+        "Billing and collection procedures expert"
+      ]
+    },
+    {
+      "name": "Office Operations",
+      "level": "Expert",
+      "keywords": [
+        "Office support (phones, faxing, filing)",
+        "Records management professional",
+        "Office management professional"
+      ]
+    },
+    {
+      "name": "Interpersonal Skills",
+      "level": "Master",
+      "keywords": [
+        "Composed and professional demeanor",
+        "Resourceful and reliable worker",
+        "Excellent problem solver",
+        "Close attention to detail",
+        "Excellent verbal communication"
+      ]
+    }
+  ]
+}

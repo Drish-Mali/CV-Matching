@@ -1,0 +1,129 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Finance Manager",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Skilled Finance Leader experienced in budgeting, strategic planning, product analysis, cost allocation, sales plan design and administration. Developed product report and pricing framework driving decisions regarding minimum pricing and product margins. Partnered with Human Resources and Business Leaders to redesign sales plans to reduce sales cost and improving alignment with sales activity. Streamlined finance support with improved consistency and service levels while reducing staff.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Finance Manager",
+      "url": "",
+      "startDate": "10/2007",
+      "endDate": "Current",
+      "summary": "Manage forecasting, outlook, reporting and sales compensation process for Structured Product Services Group of Corporate Trust. Support business objectives related to expense reduction goals and Manage team of 6-7 Consultants.",
+      "highlights": [ "Improved service level", "Reduced staff" ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Finance Manager/Director",
+      "url": "",
+      "startDate": "12/2005",
+      "endDate": "10/2007",
+      "summary": "Managed team responsible for the weekly 90 day cash forecasting process during time of significant market/liquidity stress. Recommended adjustments to 90 day cash forecast.",
+      "highlights": []
+    },
+   {
+      "name": "Company Name",
+      "position": "Finance Manager/Senior Analyst",
+      "url": "",
+      "startDate": "04/2003",
+      "endDate": "12/2005",
+      "summary": "Completed monthly and quarterly forecasts and annual operating plan and reporting for the $45 billion residential mortgage financing portfolio. Developed portfolio and deal level yield analytics.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Financial Consultant",
+      "url": "",
+      "startDate": "05/2002",
+      "endDate": "04/2003",
+      "summary": "Tracked indicative pricing and secondary fixed rate spread levels for Corporate debt issuance and peer group. Analyzed consolidated liquidity and balance sheet trends for funding purposes.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Finance Manager",
+      "url": "",
+      "startDate": "04/2001",
+      "endDate": "05/2002",
+      "summary": "Directed early estimate, month-end close, variance analysis, budgeting and forecasting processes. Developed and implemented new internal expense allocation methodology.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Senior/Lead Analyst",
+      "url": "",
+      "startDate": "02/1998",
+      "endDate": "04/2001",
+      "summary": "Directed final finance integration of 22 Employee Benefit offices/states. Identified issues, implemented policy changes and conducted training for the general ledger conversion. Led department automation project for financial reporting and development of budget model. Implemented new Trust Operations cost allocation methodology and actual versus plan volume tracking.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Bemidji State University",
+      "url": "",
+      "area": "Accounting",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "May 1992",
+      "score": "3.9",
+      "courses": []
+    },
+    {
+      "institution": "Carlson School of Management, University of Minnesota",
+      "url": "",
+      "area": "Finance & Strategic Management",
+      "studyType": "MBA",
+      "startDate": "",
+      "endDate": "July 2001",
+      "score": "3.9",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "CPA RFC",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Finance Management",
+      "level": "",
+      "keywords": [
+        "Finance",
+        "Forecasting", 
+        "Loans", 
+        "Mortgage", 
+        "Pricing",
+        "Excel",
+        "Process Improvement", 
+        "Strategic Planning", 
+        "MBA"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

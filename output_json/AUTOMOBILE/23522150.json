@@ -1,0 +1,116 @@
+{
+  "basics": {
+    "name": "Recruiter",
+    "label": "Professional Administrative Assistant",
+    "summary": "Mature and professional administrative assistant with over 8 years of experience seeking an employment opportunity where my skills and versatility can be utilized.",
+    "location": {
+      "city": "Not provided",
+      "countryCode": "Not provided",
+      "region": "Not provided"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Recruiter",
+      "startDate": "02/2012",
+      "summary": "Communicated the duties, compensation, benefits and working conditions to all potential candidates. Employed multiple feedback mechanisms and analysis to continuously improve the recruiting process. Maintained an accurate candidate tracking system. Contacted all job applicants to inform them of their application status."
+    },
+    {
+      "name": "Company Name",
+      "position": "pastry decorator",
+      "startDate": "10/2014",
+      "endDate": "02/2015",
+      "summary": "Completed assigned tasks, working overtime as needed. Documentation Ensured charting accuracy through precise documentation. Researched, calmed and rapidly resolved client conflicts to prevent loss of key accounts. Prepared ingredients to make different icing."
+    },
+    {
+      "name": "Company Name",
+      "position": "Catering associate and specialty chef",
+      "startDate": "10/2012",
+      "endDate": "04/2013",
+      "summary": "Assisted customers, mainly large businesses, in the planning of the menu of the event. Prepared the desserts for the restaurant every morning and for the different party platters for the appropriate number of guests at the event. Cleaned and prepared various foods for cooking or serving. Managed preparation and presentation of the desserts for all catered events. Checked the quantity and quality of received products"
+    },
+    {
+      "name": "Company Name",
+      "position": "Automobile Salesperson",
+      "startDate": "01/2008",
+      "endDate": "01/2009",
+      "summary": "Participated in various incentive programs and contests designed to support achievement of production goals. Developed tool to track and monitor personal sales opportunities, deals in progress and finished contracts."
+    },
+    {
+      "name": "Company Name",
+      "position": "Personal Banker",
+      "startDate": "04/2006",
+      "endDate": "12/2006",
+      "summary": "Developed highly empathetic client relationships and earned reputation for exceeding sales goals.Cross-trained and provided back-up for other customer service representatives when needed.Maintained up-to-date knowledge of bank products and services."
+    },
+    {
+      "name": "Company Name",
+      "position": "Administrative Assistant and Medical Transcriptionist",
+      "startDate": "08/1998",
+      "endDate": "06/2002",
+      "summary": "Wrote reports and correspondence from dictation and handwritten notes.Made copies, sent faxes and handled all incoming and outgoing correspondence.Designed electronic file systems and maintained electronic and paper files."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Pilgrim High School",
+      "area": "English",
+      "studyType": "High School Diploma",
+      "startDate": "Not provided",
+      "endDate": "1987"
+    },
+    {
+      "institution": "University of RI",
+      "area": "General Studies",
+      "studyType": "Not provided"
+    },
+    {
+      "institution": "Collin County Community College",
+      "area": "Mathematics and English Literature",
+      "studyType": "Not provided"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Professional Skills",
+      "level": "Not provided",
+      "keywords": [
+        "Microsoft Office proficiency",
+        "Telecommunication skills",
+        "Excellent communication skills",
+        "Telephone inquiries specialist",
+        "Persuasive communication expertise",
+        "Customer service expert",
+        "Goal-oriented",
+        "Strong work ethic",
+        "Professional and mature",
+        "Good written communication",
+        "Meticulous attention to detail",
+        "Self-directed",
+        "Professional and friendly",
+        "Careful and active listener",
+        "Multi-tasking",
+        "neat",
+        "organizational skills",
+        "problem solver",
+        "quick",
+        "reception",
+        "sales",
+        "Self-starter",
+        "tandem",
+        "Telecommunication",
+        "phone",
+        "time management"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "awards": [],
+  "certificates": [],
+  "publications": []
+}

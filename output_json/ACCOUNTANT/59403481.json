@@ -1,0 +1,64 @@
+{
+  "basics": {
+    "name": "Accountant",
+    "label": "Professional Accountant",
+    "summary": "I am an enthusiastic, honest, dedicated and professional individual who has integrity and an ambition to succeed in any given environment...",
+    "skills": ["Accounting operations", "Customer relations", "Financial reporting", "Analytical reasoning", "QuickBooks proficient", "Exceptional organization","Certified Billing / Coding Specialist", "Strong in MS Access and Excel", "Strong communication skills", "Physician billing", "Superior attention to detail", "CMS-1500 billing forms", "Account reconciliation specialist", "HIPAA compliance", "Self-motivated professional", "International Classification of Diseases (ICD.9CM)", "AR/AP", "Medical bill auditing", "Account reconciliation"]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Accountant",
+      "startDate": "2014-02-01",
+      "endDate": "Current",
+      "summary": "Maintained integrity of general ledger, including the chart of accounts. Analyzed monthly balance sheet accounts for corporate reporting..."
+    },
+    {
+      "name": "Company Name",
+      "position": "Accountant / Executive Assistant",
+      "startDate": "2010-09-01",
+      "endDate": "2013-12-01",
+      "summary": "Supported management through risk identification, control testing and process improvement procedures. Analyzed and reviewed cost reports and communicated final results to suppliers..."
+    },
+    {
+      "name": "Company Name",
+      "position": "Accountant / Medical Billing & Collections Supervisor",
+      "startDate": "2008-01-01",
+      "endDate": "2010-09-01",
+      "summary": "Supervised a medical collection team of 15 employees. Performed complex general accounting functions, including preparation of journal entries, account analysis and balance sheet reconciliations..."
+    },
+    {
+      "name": "Company Name",
+      "position": "Accountant / Executive Assistant",
+      "startDate": "2005-01-01",
+      "endDate": "2007-12-01",
+      "summary": "Complete accounting, bookkeeping, company payroll and office management, for a Bio Medical Research firm..."
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Phoenix",
+      "area": "Accounting",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "2013",
+      "courses": []
+    },
+    {
+      "institution": "At Home Professions, Ft. Collins, CO",
+      "area": "Medical Claims Billing / Coding",
+      "studyType": "Certified Medical Billing / Coding Specialist",
+      "startDate": "",
+      "endDate": "",
+      "courses": []
+    },
+    {
+      "institution": "Jenks High School",
+      "area": "",
+      "studyType": "High School Diploma",
+      "startDate": "",
+      "endDate": "1997",
+      "courses": []
+    }
+  ]
+}

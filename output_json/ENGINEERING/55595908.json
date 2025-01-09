@@ -1,0 +1,102 @@
+{
+  "basics": {
+    "name": "Site Engineering",
+    "label": "Information Technology & Energy Specialist",
+    "summary": "10+ years total information technology experience both locally and internationally with major information Technology and energy companies.",
+    "skills": [
+      {
+        "name": "Manufacturing Quality",
+        "level": "Expert"
+      },
+      {
+        "name": "Controls and Instrumentation",
+        "level": "Expert"
+      },
+      {
+        "name": "Equipment Maintenance",
+        "level": "Expert"
+      },
+      {
+        "name": "Manufacturing Experience",
+        "level": "Expert"
+      },
+      {
+        "name": "Mechanical Inspection Tools",
+        "level": "Expert"
+      },
+      {
+        "name": "Problem Solving",
+        "level": "Expert"
+      },
+      {
+        "name": "Judgment",
+        "level": "Expert"
+      },
+      {
+        "name": "Job Knowledge",
+        "level": "Expert"
+      },
+      {
+        "name": "Inventory Control",
+        "level": "Expert"
+      },
+      {
+        "name": "Data Entry",
+        "level": "Expert"
+      },
+      {
+        "name": "Assembler",
+        "level": "Expert"
+      },
+      {
+        "name": "Mass Storage methods",
+        "level": "Expert"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Technical Test and WIP Auditor",
+      "startDate": "2011-01-01",
+      "endDate": "Current",
+      "summary": "Responsible for performing assemblies, conducting material inspections, reducing operator error, and developing standard working methods."
+    },
+    {
+      "name": "Company Name",
+      "position": "Assembly Process and Device Manufacturing",
+      "startDate": "2009-10-01",
+      "endDate": "2011-08-01",
+      "summary": "Performed diversified assembly operations to assemble intricate or large apparatus, machines, or equipment."
+    },
+    {
+      "name": "Company Name",
+      "position": "Site Engineering",
+      "startDate": "2003-08-01",
+      "endDate": "2005-10-01",
+      "summary": "Experience in crimp, stake, screw, bolt, rivet, weld, cement, press fits, or similar operations"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Military College",
+	  "area": "Military science engineering",
+	  "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "2002-01-01"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Technical Skills",
+      "level": "Expert",
+      "keywords": [
+        "3G 7.2 Assembly",
+        "Cabling",
+        "Customer Service",
+        "Data Entry",
+        "HP Servers"
+      ]
+    }
+  ]
+}

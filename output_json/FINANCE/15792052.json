@@ -1,0 +1,107 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Student Finance Consultant",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Customer service oriented individual with relevant work experience and integrity looking to further my career within the accounting industry. Over four years of work experience within student finance. Excellent communication skills including listening, telephone, written, and interpersonal. In-depth knowledge of financial aid/ financial analyst/ account management policies and procedures. Experience working with internal and external auditors in auditing, accounting, and regulatory compliance projects.",
+    "location": {},
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Student Finance Consultant",
+      "url": "",
+      "startDate": "2014-07",
+      "endDate": "Current",
+      "summary": "Providing information, advice, and assistance regarding various types of financial aid available to students. Managed and maintained accurate student files without error. Performed heavy customer contact regarding past due or delinquent account balances.",
+      "highlights": ["Brought the student default rate down at the OmniTech Institute by updating contact information", "Maintained accurate student accounts files and spreadsheets without error"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Financial Aid Reporting Analyst",
+      "url": "",
+      "startDate": "2013-06",
+      "endDate": "2014-06",
+      "summary": "Conducted research and analysis of student financial data. Accurately forecasted and assessed financial need(s) of students. Reviewed financial aid and/or loan applications according to institution guidelines."
+    },
+    {
+      "name": "Company Name",
+      "position": "Financial Aid Officer/Student Accounts",
+      "url": "",
+      "startDate": "2009-09",
+      "endDate": "2012-11",
+      "summary": "Provided information, advice, and assistance regarding various types of financial aid available to students. Managed large paperwork caseloads. Prepared billing statements and informed current and former students of their financial obligations."
+    },
+    {
+      "name": "Company Name",
+      "position": "Assistant Store Manager",
+      "url": "",
+      "startDate": "2007-08",
+      "endDate": "2009-09",
+      "summary": "Aassisted the store manager in daily operation of the store. Managed and maintained a full staff of sales floor, stock room, and overnight associates. Ensured the provision of customer service on the sales floor."
+    },
+    {
+      "name": "Company Name",
+      "position": "Front Desk Receptionist",
+      "url": "",
+      "startDate": "2007-01",
+      "endDate": "2007-08",
+      "summary": "Handled guest check-ins and check-outs. Operated hotel switchboard, took calls and provided information and transferred calls. Balanced cash at the end of the shift and generated accounting reports."
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Atlanta Metropolitan College",
+      "url": "",
+      "area": "Microsoft Office Suite",
+      "studyType": "Course Completion Certificate",
+      "startDate": "2015-01-01",
+      "endDate": "2015-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Clark Atlanta University",
+      "url": "",
+      "area": "Communications",
+      "studyType": "Bachelors of Arts",
+      "startDate": "",
+      "endDate": "2006-12-31",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Customer Service",
+      "level": "Advanced",
+      "keywords": ["Communication Skills", "Listening", "Telephone", "Written", "Interpersonal"]
+    },
+    {
+      "name": "Accounting",
+      "level": "Advanced",
+      "keywords": ["Financial Aid", "Financial Analyst", "Account Management", "Auditing", "Accounting", "Regulatory Compliance"]
+    },
+    {
+      "name": "Data Entry",
+      "level": "Advanced",
+      "keywords": ["Billing", "Invoicing", "Account Reconciliation"]
+    },{
+      "name": "Computer Skills",
+      "level": "Intermediate",
+      "keywords": ["Microsoft Office Suite"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

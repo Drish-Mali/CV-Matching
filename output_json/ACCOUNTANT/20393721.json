@@ -1,0 +1,116 @@
+{
+  "basics": {
+    "name": "Anonymous",
+    "label": "Accountant",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Accountant",
+      "url": "",
+      "startDate": "2016-01-01",
+      "endDate": "Current",
+      "summary": "Responsible for both cash and accrual basis accounting for various items. Perform financial statement analysis in the evaluation of business operations in the preparation of financial statements. Resolved of tax issues, notices, engagements in compliance of IRS regulations, procedures, and codes. Filing federal and state corporate tax returns.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Retail and Wholesale Clothing Merchandiser Accounting Assistant",
+      "url": "",
+      "startDate": "2015-02-01",
+      "endDate": "2016-01-01",
+      "summary": "Oversaw various accounting tasks under the accrual basis of accounting. Performed administrative duties by filing, opening and sorting mail, scanning, printing, and copying documents. Implemented corporate, sales, and payroll taxes in accordance with federal and state compliance. Coordinated with clients and vendors in accordance to the A/R and A/P subsidiary ledgers aging schedule.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Stock Clerk",
+      "url": "",
+      "startDate": "2010-05-01",
+      "endDate": "2011-08-31",
+      "summary": "Worked as a stocker on a three month probationary period refilling the shelves. Promoted to delivery helper with duties include loading/unloading inventories, picking/packing orders, maintained customer relations and reconciling all errors of clients' orders. Provided customer satisfaction with proven track record of increased sales of approximately 10% through product knowledge and various suggested recipes.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Restaurant Operations Manager",
+      "url": "",
+      "startDate": "1996-09-01",
+      "endDate": "2004-03-31",
+      "summary": "Managed business operations in overseeing the workforce through various processes.  Increased revenue by up to 20% through social networking with customers and resolving any issues by meeting their demands promptly. Maintained hybrid accounting for various items and restated any errors to accounts immediately upon discovery and analysis.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "LIU",
+      "url": "",
+      "area": "Taxation",
+      "studyType": "Master of Science",
+      "startDate": "2018-01-01",
+      "endDate": "Present",
+      "score": "",
+      "courses": [
+        "Insurance and Qualified Employee Benefit", "Employee Benefit and Retirement Planning", "Advanced Corporate Taxation", "Tax Research"
+      ]
+    },
+    {
+      "institution": "Hunter College",
+      "url": "",
+      "area": "Accounting",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": [
+        "Accounting Principles I & II", "Computer Information Systems (Microsoft Office Suites)", "Accounting Applications on Microcomputers (QuickBooks)", "Cost Accounting I", "Introduction to Business", "Intermediate Accounting I & II", "Managerial Accounting", "Advanced Accounting I & II", "Auditing", "Corporate Finance", "Business Organization", "Microeconomics", "Macroeconomics", "Economic statistics", "Economic Development", "Federal Income Taxation", "Corporate Taxation", "Business Law I & II"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "General Skills",
+      "level": "",
+      "keywords": [
+         "QuickBooks", "Sage", "Lacerte", "Intuit ProSeries", "Microsoft Suite (Advanced)", "Excel (Formulas, Vlookups, Pivot tables, Data Analysis & Management)", "Power Pivot", "CalBench", "FASB & GAAP Standards (Accounting Standards Codification)","Sarbanes-Oxley","GAAS/SAS No."
+      ]
+    }
+  ],
+  "languages": [],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Internal Revenue Service VITA/TCE Certificate",
+      "date": "2015-01-01",
+      "issuer": "Internal Revenue Service",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "volunteer": [
+    {
+      "organization": "",
+      "position": "Volunteer Tutor for Accounting",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [ ]
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "basics": {
+    "name": "Unknown",
+    "label": "Freelance Production Manager - Men's & Women's Wovens/Knits",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Creative Development and Production Manager with a strong background in Men's and Women's Wovens, Denim, Knits, and Graphics. Passion to expand upon current skill sets and areas of expertise. Sets and maintains high personal and professional standards. Creative strategic thinker; strong ability to quickly identify, analyze, and resolve challenges to achieve the most effective outcome.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Freelance Production Manager - Men's & Women's Wovens/Knits",
+      "url": "",
+      "startDate": "July 2015",
+      "endDate": "Current",
+      "summary": "Daily overseas communication with multiple factories regarding status of fit. Managed the costing and negotiation process for 50% of the total business with overseas vendors in Hong Kong, Vietnam, Cambodia, and India to ensure 80% target margin was achieved.",
+      "highlights": [
+        "Extensive print knowledge",
+        "Strong cost negotiation skills",
+        "Wash development",
+        "Superior communication skills",
+        "WebPDM and PLM"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Associate Pre-Production Manager - Men's and Women's Graphics",
+      "url": "",
+      "startDate": "October 2014",
+      "endDate": "June 2015",
+      "summary": "Managed the design and development cycle for numerous styles and skus per season. Created reference library and standardized all graphic print techniques to ensure brand aesthetic was met across all vendors.",
+      "highlights": ["PLM implementation task force"]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+        "institution": "Parson's School of Design",
+        "url": "",
+        "area": "Design and Management",
+        "studyType": "BBA",
+        "startDate": "",
+        "endDate": "",
+        "score": "",
+        "courses": [
+            "Marketing, Public Relations, Advertising, International Business, Entrepreneurship, and Fashion Illustration"
+        ]
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Production Management",
+      "level": "",
+      "keywords": [
+        "Business Strategies",
+        "Budget Maintenance",
+        "Costing",
+        "Vendor Negotiations",
+        "Fabric Development",
+        "Trim/Hardware Development",
+        "Print Development",
+        "Packaging Development",
+        "Quality Control",
+        "Merchandising",
+        "Inventory Management",
+        "WebPDM",
+        "PLM",
+        "Illustrator",
+        "Microsoft Office",
+        "SAGE"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

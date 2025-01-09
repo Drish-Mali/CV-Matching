@@ -1,0 +1,89 @@
+{
+  "basics": {
+    "name": "Not Provided",
+    "label": "Director",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Forward thinker with expertise in marketing, partner acquisition, contract negotiation, communications, project management, collaboration and consensus building, combined with a Master's Degree in Business Administration.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": [
+    ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Director",
+      "url": "",
+      "startDate": "1999-02-01",
+      "endDate": "Current",
+      "summary": "Currently lead key discounts initiatives involving technology, branding, marketing, strategy development and the evaluation of new member benefit programs: Collaborate with clubs to ensure consensus on partner marketing, branding, technology efforts, contract negotiations and partner acquisition Actively lead club work teams including the Discounts Task Force, the Member Data Capture Team, the Member Offer Database group and the Discounts and Rewards Re-Branding Team...",
+      "highlights": [
+        "Led club discussions that resulted in an unprecedented association-wide promotional commitment for discount partners",
+        "In charge of staff efforts for the timely and successful evaluation and selection of vendors for the discounts technology solution",
+        "Oversee the development of multi-channel program marketing materials for club use"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Internet Development Project Manager",
+      "url": "",
+      "startDate": "1997-09-01",
+      "endDate": "1999-02-28",
+      "summary": "Promoted to position. Managed overall Internet project and technical development of AAA.com functionality for online travel bookings, routings, travel material requests and TourBook look-up...",
+      "highlights": [
+        "Managed staff of four developers and directed the work of Internet designers"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Stetson University",
+      "url": "",
+      "area": "Business Administration",
+      "studyType": "Masters",
+      "startDate": "",
+      "endDate": "1984-01-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Florida Southern College",
+      "url": "",
+      "area": "Journalism and Business",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "1981-01-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Marketing",
+      "level": "Master",
+      "keywords": [
+        "America Online",
+        "AOL",
+        "Auto Repair",
+        "branding",
+        "contract negotiations",
+        "delivery"
+      ]
+    }
+   ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

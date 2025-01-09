@@ -1,0 +1,85 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Vice President/Owner",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "A self-motivated professional highly proficient in developing creative solutions and implementing objective decision making. Maintains positive attitude and works hard to build team relationships. Senior Loan Officer offering collections, debt consolidation and customer service experience. Organized Senior Loan Officer who effectively identifies and resolves complex financial issues.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "",
+      "region": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Vice President/Owner",
+      "url": "",
+      "startDate": "2002-09",
+      "endDate": "",
+      "summary": "Responsibilities included meeting with clients, loan applications, reviewing loan applications for approval, determination of best loan product for the customer, preparations of loan documents, process and follow up of customer loan file, adherence to all federal and state compliance guidelines relative to mortgage lending, Continuing education every year.",
+      "highlights": ["Received USDA Million dollar producer for the East Tennessee region for several years."]
+    },
+    {
+      "name": "Company Name",
+      "position": "Legal Secretary",
+      "url": "",
+      "startDate": "1998-08",
+      "endDate": "1999-06",
+      "summary": "Responsibilities included mailing and arranging for legal correspondence, maintaining law libraries, documents and case files, processing and distributing invoices to bill clients, coordinating meetings and telephone conferences.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Human Resources/Office Manager",
+      "url": "",
+      "startDate": "1997-05",
+      "endDate": "1998-08",
+      "summary": "Managed all aspects of production payroll for all 100 employees and all clerical duties, handling employee disputes, managed and filed any unemployment claims for all employees.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Capstone Institute",
+      "url": "",
+      "area": "Mortgage Loan Originator",
+      "studyType": "Certificate",
+      "startDate": "2008",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Calyx Point LOS",
+      "level": "Expert",
+      "keywords": []
+    },
+    {
+      "name": "Client Bookkeeping Software",
+      "level": "Expert",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft word, PowerPoint and Publisher",
+      "level": "Efficient",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

@@ -1,0 +1,129 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Banking Officer",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "An adaptable and responsible IT Savvy seeking an mid-level position in the Finance, Technology or Fintech market. BA in Economics with a master's degree in Management and my current job as a Banking Officer has provided me with a well-rounded background and enabled me to develop an analytical/logical approach to tasks, software skills, and the ability to work under pressure.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Banking Officer",
+      "url": "",
+      "startDate": "10/2018",
+      "endDate": "Current",
+      "summary": "Analyzed customer profiles to identify appropriate products and provide value-added approaches to client issues. Complied with regulatory requirements, including the bank Secrecy Act, Anti Money Laundering & OFAC, etc. Top 3 Loan Sales producer and Top 1 Mortgage originator in North Denver market.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Director of Finance",
+      "url": "",
+      "startDate": "05/2019",
+      "endDate": "Current",
+      "summary": "Assessed budget plans and present costs to forecast trends and recommend changes. Executed financial due diligence tasks on daily basis to maintain optimal organization finances. Planned and designed product and pricing strategy for membership, increasing membership by 200%.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Marketing Specialist",
+      "url": "",
+      "startDate": "08/2017",
+      "endDate": "09/2018",
+      "summary": "Created, improved, developed marketing strategic plans on the company's website and social media.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Retail Store Manager",
+      "url": "",
+      "startDate": "08/2014",
+      "endDate": "07/2015",
+      "summary": "Improved sales process and track with the implementation of a new point of sale (POS) system.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Asian Pacific Development Center",
+      "position": "Volunteer",
+      "url": "",
+      "startDate": "2019",
+      "endDate": "Current",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Colorado State University",
+      "url": "",
+      "area": "Business Management",
+      "studyType": "Master",
+      "startDate": "",
+      "endDate": "05/2017",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "National University of Kaohsiung",
+      "url": "",
+      "area": "Applied Economics",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "05/2013",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Finance",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Marketing Strategy",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Project Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Strategic Planning",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Business Development",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "Mandarin",
+      "fluency": "Bilingual"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

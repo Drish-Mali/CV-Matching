@@ -1,0 +1,114 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Finance Manager",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Skilled Operations Manager talented at improving team performance through innovative management techniques. Offers thoughtful, comprehensive and constructive feedback to staff members to promote productivity and company loyalty.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Finance Manager",
+      "url": "",
+      "startDate": "2016-03-01",
+      "endDate": "Current",
+      "summary": "Partner with Product Management and Purchasing Team in determining financial impact due to product cost reductions, new product roll out, etc. Performed financial statement audits of security broker dealers for purposes of SEC/FINRA purposes. Completed monthly, quarterly and annual bank reconciliations for 11 small companies. Spearheaded fundamentals under OHSAS 18001, understand and fully support OHSAS 18001 system.",
+      "highlights": [
+        "Increased output by 32% through reorganization of locations to maximize efficiency.",
+        "Reduced staff turnover by 45% in one year by implementing several well-received team and morale-building programs.",
+        "Qualified location for 2 million dollar remodel by increasing sales 30% through retraining sales team.",
+        "Created critical KPIs to track and improve on-time delivery, customer issues and safety statistics.",
+        "Boosted customer satisfaction ratings by 40% in under 4 months."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "District Manager",
+      "url": "",
+      "startDate": "2013-02-01",
+      "endDate": "2016-03-01",
+      "summary": "Determine hiring needs of the store, successfully interviewed prospects, and bring on board store associates that would work courteously, efficiently, and effectively to meet the store's operational goals. Developed and managed annual operating budgets for 4 locations in the division. Successfully recruited, hired and trained 20 new employees for District Management and Store Management.",
+      "highlights": ["Ensure operational policies and procedures are adhered to by all store personnel"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Operations Manager",
+      "url": "",
+      "startDate": "2010-06-01",
+      "endDate": "2012-11-01",
+      "summary": "Enhance operational procedure, systems and principles in the areas of information flow, management, business processes and enhanced management reporting. Improve efficiency support services by improving functions and coordinating communication between businesses and support functions. Play a significant role in long-term planning and establishment initiatives aimed at operational excellence. Supervise overall planning systems, financial management and control as well as organize company budget in collaboration with the director.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "General Manager",
+      "url": "",
+      "startDate": "2001-06-01",
+      "endDate": "2010-06-01",
+      "summary": "Increased profits by 20% in first year, resulting in one of the best possible ROI's. Decreased cost of goods sold by 13% by negotiating lower freight rates and increasing standards of product quality.",
+      "highlights": ["Recognized need for comprehensive business management solutions.","Developed training program for new employees that company implemented nationwide"]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Grand Valley State University",
+      "url": "",
+      "area": "Political Science",
+      "studyType": "Bachelor of Arts",
+      "startDate": "2008-01-01",
+      "endDate": "2008-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Duke University Law School",
+      "url": "",
+      "area": "Criminal Law",
+      "studyType": "J.D.",
+      "startDate": "2012-01-01",
+      "endDate": "2012-12-31",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Finance",
+      "level": "",
+      "keywords": [
+        "Operations Management",
+        "Customer Relations",
+        "Purchasing & Procurement",
+        "Fleet Management",
+        "Budgeting & Forecasting",
+        "Audits",
+        "Logistics",
+        "Accounting",
+        "P&L Management",
+        "Business Development",
+        "Quality Assurance & Control",
+        "Collection Management",
+        "Proficient in MS Excel, MS Access, MS Project, Quicken, MS PowerPoint, Inoviswork, SAP, Oracle ERP, Kronos"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

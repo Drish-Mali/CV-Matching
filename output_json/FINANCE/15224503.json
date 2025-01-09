@@ -1,0 +1,96 @@
+{
+    "basics": {
+        "name": "",
+        "label": "Senior Manager - National Sales Finance",
+        "image": "",
+        "email": "",
+        "phone": "",
+        "url": "",
+        "summary": "Ambitious Senior Manager who creates strategic alliances with organization leaders to effectively align with and support key business initiatives. Builds and retains high performance teams by hiring, developing and motivating skilled professionals.",
+        "location": {
+            "address": "",
+            "postalCode": "",
+            "city": "",
+            "countryCode": "",
+            "region": ""
+        },
+        "profiles": []
+    },
+    "work": [
+        {
+            "name": "Company Name",
+            "position": "Senior Manager -National Sales Finance",
+            "url": "",
+            "startDate": "2005-04-01",
+            "endDate": "Current",
+            "summary": "Manage Consulting Services Group Money Manager reconciliations. Control National Sales revenue & expense accruals and deferral. Manage Litigation reserves and Legal accruals. Supervise month end close, balance sheet reconciliations, variance analysis and audit requests.",
+            "highlights": ["Manage Financial Advisor Trainee Compensation", "Managed team of 3 of professionals"]
+        },
+        {
+            "name": "Company Name",
+            "position": "Vice President-Wealth Management Controllers",
+            "url": "",
+            "startDate": "2010-01-01",
+            "endDate": "Current",
+            "summary": "Strengthened company's controls by managing the implementation of introducing broker to single broker dealer."
+        },
+        {
+            "name": "Company Name",
+            "position": "Senior FC Compensation Specialist",
+            "url": "",
+            "startDate": "1997-10-01",
+            "endDate": "2005-03-01",
+            "summary": "Review Amortization entries processed for Special Compensation & Deferred Compensation Programs. Balance sheet review and sign-off for Special Compensation loans & Deferred Compensation awards"
+        }
+    ],
+    "volunteer": [],
+    "education": [
+        {
+            "institution": "Pace University",
+            "url": "",
+            "area": "Accounting",
+            "studyType": "Business Administration",
+            "startDate": "",
+            "endDate": "1998-12-01",
+            "score": "3.60",
+            "courses": []
+        }
+    ],
+    "awards": [],
+    "certificates": [
+        {
+            "name": "Series 7",
+            "date": "",
+            "issuer": "",
+            "url": ""
+        },
+        {
+            "name": "Series 63",
+            "date": "",
+            "issuer": "",
+            "url": ""
+        }
+    ],
+    "publications": [],
+    "skills": [
+        {
+            "name": "Office software",
+            "level": "",
+            "keywords": ["MS Word", "Excel", "PowerPoint", "Access"]
+        },
+        {
+            "name": "Systems",
+            "level": "",
+            "keywords": ["Solar", "Business Objects", "PC Links General Ledger", "FCI", "FC Links", "FEC", "CORE", "SAM"]
+        },
+        {
+            "name": "Additional Skills",
+            "level": "Professional",
+            "keywords": ["Compensation", "Sales", "Balance Sheet", "General Ledger", "Audit", "National Sales", "Account Executive", "Accountant", "Executive Compensation"]
+        }
+    ],
+    "languages": [],
+    "interests": [],
+    "references": [],
+    "projects": []
+}

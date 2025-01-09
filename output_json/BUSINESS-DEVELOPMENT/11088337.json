@@ -1,0 +1,161 @@
+{
+  "basics": {
+    "name": "John Doe",
+    "label": "Business Development Manager",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Experienced Business Development Manager with expertise in growing businesses, managing partnerships, and developing new strategic initiatives.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Business Development Manager",
+      "url": "",
+      "startDate": "2014-01-01",
+      "endDate": "",
+      "summary": "Platform for video content and targeted native video ads. Reported to COO and CRO with new business initiatives and business strategies for publishers and advertisers.",
+      "highlights": [
+        "Launched Cinema6's first campaigns, with a premium spirits brand and athletic brand resulting in 100% profit",
+        "Negotiated contracts with 3rd party vendors (Jun Group, Veeseo, Adblade, Bidtellect).",
+        "Added clients to partner with by phone, email and meetings resulting in the creation of a pipeline for Cinema6",
+        "Composed weekly reports on new business, campaigns and other daily tasks."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Sales and Service Desk Specialist",
+      "url": "",
+      "startDate": "2013-01-01",
+      "endDate": "2014-01-01",
+      "summary": "Private Wealth Management - Alternative Investments. Supported and managed relationships with Financial Advisors in the Pacific Northwest and Mid-America regions, as well as throughout the country and internationally.",
+      "highlights": [
+        "Educated Financial Advisors on specific Alternative Investment products.",
+        "Identified as the Sales and Service Desk Specialist with the highest and most consistent call record.",
+        "Developed and helped launch the Best Practitioner program for Financial Advisors.",
+        "Awarded 2013 Alternative Investments Most Net Sales to Budget for the Pacific Northwest Region."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "New Business Director",
+      "url": "",
+      "startDate": "2010-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Provided financial solutions for clients that reduced cash flow expenditures and realized losses on assets by utilizing underperforming assets to offset media expenditures.",
+      "highlights": [
+        "Introduced ORION Trading to 75-150 accounts with annual media budgets.",
+        "Responsible for sourcing and brokering new business with clients.",
+        "Produced monthly newsletters for ORION clients and employees."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Sales Manager",
+      "url": "",
+      "startDate": "2008-01-01",
+      "endDate": "2009-01-01",
+      "summary": "Maximized Showtime Networks subscriber growth and revenue in affiliate customer service centers.",
+      "highlights": [
+        "Managed 10 accounts in the cable industry sector.",
+        "Led on-site training and motivated affiliated Customer Contact Personnel.",
+        "Led new business development initiatives in Seneca, SC and Seattle, WA."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Summer Analyst",
+      "url": "",
+      "startDate": "2006-07-01",
+      "endDate": "",
+      "summary": "Conducted research for Portfolio Managers on portfolio investments. Tracked the trading volume and prices of key stocks for institutional and private clients.",
+      "highlights": [
+        "Assisted the trading desk with market database analysis on prospective trades."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Hobart College",
+      "url": "",
+      "area": "English",
+      "studyType": "Bachelor of Arts",
+      "startDate": "",
+      "endDate": "2007-05-01",
+      "score": "",
+      "courses": [
+        "Media and Society"
+      ]
+    },
+    {
+      "institution": "The Delbarton School",
+      "url": "",
+      "area": "",
+      "studyType": "High School",
+      "startDate": "1999-01-01",
+      "endDate": "2003-01-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "New Jersey Hockey Hall of Fame inductee",
+      "date": "2014-01-01",
+      "awarder": "New Jersey Hockey Hall of Fame",
+      "summary": "Inducted into the New Jersey Hockey Hall of Fame."
+    }
+  ],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Business Development",
+      "level": "Master",
+      "keywords": [
+        "ads",
+        "advertising",
+        "budgeting",
+        "business strategies",
+        "customer service",
+        "database analysis",
+        "financial investments",
+        "market research",
+        "meeting facilitation",
+        "Microsoft Excel",
+        "Microsoft Word",
+        "new business development",
+        "partner relationship management",
+        "profit maximization",
+        "sales"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [
+    {
+      "name": "Hockey",
+      "keywords": [
+        "Club Ice Hockey"
+      ]
+    },
+    {
+      "name": "Political Activism",
+      "keywords": [
+        "Voter registration drives"
+      ]
+    }
+  ],
+  "references": [],
+  "projects": []
+}

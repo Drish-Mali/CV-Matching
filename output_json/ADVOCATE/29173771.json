@@ -1,0 +1,134 @@
+
+{
+  "basics": {
+    "name": "",
+    "label": "Center Director/Head Start Family Advocate",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Organized and dependable candidate successful at managing multiple priorities with a positive attitude. Offering excellent communication and good judgment. Conscientious individual with the ability to multitask and liaise between families and programs to build relationships that support ongoing development and education.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Center Director/Head Start Family Advocate",
+      "url": "",
+      "startDate": "2020-01-01",
+      "endDate": "Current",
+      "summary": "Collaborated with families to assist in growth, development and education to increase potential. Identified community resources and programs for families of disabled children. Observed security measures to maintain confidentiality and restrict access to unauthorized individuals. Managed 14 Employees.",
+      "highlights": [
+        "Supervised daily operations.",
+        "Conducted regular staff meetings to obtain feedback on important issues."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Head Start Family Advocate",
+      "url": "",
+      "startDate": "2014-10-01",
+      "endDate": "2019-07-01",
+      "summary": "Collaborated with families to assist in growth, development and education to increase potential. Identified community resources and programs for families of disabled children. Documented data and completed accurate updates to case records.",
+      "highlights": [ "Completed home welfare checks to align with state and program guidelines." ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Assistant Teacher",
+      "url": "",
+      "startDate": "2009-08-01",
+      "endDate": "2014-10-01",
+      "summary": "Kept students on-task with proactive behavior modification and positive reinforcement strategies. Assisted teachers with classroom management and document coordination to maintain positive learning environment.",
+      "highlights": [ "Performed staff monitoring duties such as overseeing recess, lunch and daily student intake and dismissal." ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Online/Coach Based",
+      "url": "",
+      "area": "Child Development",
+      "studyType": "CDA",
+      "startDate": "2014-01-01",
+      "endDate": "2014-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Mcalester High School",
+      "url": "",
+      "area": "",
+      "studyType": "High School",
+      "startDate": "1981-01-01",
+      "endDate": "1981-05-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Director's Credential",
+      "level": "Master",
+      "keywords": []
+    },
+    {
+      "name": "Family services",
+      "level": "Master",
+      "keywords": []
+    },
+    {
+      "name": "Leadership",
+      "level": "Master",
+      "keywords": []
+    },
+    {
+      "name": "Relationship building",
+      "level": "Master",
+      "keywords": []
+    },
+    {
+      "name": "Planning and Coordination",
+      "level": "Master",
+      "keywords": []
+    },
+    {
+      "name": "Parental training",
+      "level": "Master",
+      "keywords": []
+    },
+    {
+      "name": "Good listening skills",
+      "level": "Master",
+      "keywords": []
+    },
+    {
+      "name": "Effective communication",
+      "level": "Master",
+      "keywords": []
+    },
+    {
+      "name": "Community Resources",
+      "level": "Master",
+      "keywords": []
+    },
+    {
+      "name": "Family advocacy",
+      "level": "Master",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

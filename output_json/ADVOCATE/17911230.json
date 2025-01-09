@@ -1,0 +1,90 @@
+{
+  "basics": {
+    "name": "Corporate Facilitator, Performance Coach and Developer",
+    "label": "Corporate Facilitator",
+    "email": "",
+    "phone": "",
+    "summary": "Over 25 years of business experience including 18 years of training...",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Corporate Facilitator, Performance Coach and Developer",
+      "url": "",
+      "startDate": "2005-01-01",
+      "endDate": "Current",
+      "summary": "Collaborate with senior leadership team to tailor training...",
+      "highlights": [
+        "Facilitated $ 65 million in innovated cost savings for clients",
+        "Facilitated $500,000 of training revenue (2012)"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Health Coach and Corporate Health Educator",
+      "url": "",
+      "startDate": "2010-01-01",
+      "endDate": "2014-01-01",
+      "summary": "Coached patients using motivational interviewing skills to guide them in the direction of their unique goals...",
+      "highlights": [
+        "Regarded as one of the top 5% of the coaching staff",
+        "Mentoring responsibility for 15 monthly peer health coaches"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Robert Morris University",
+      "url": "",
+      "area": "Business Administration/Information Technology",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "1981",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Dale Carnegie Chicago \"Above And Beyond The Call\" Award",
+      "date": "2009",
+      "awarder": "Dale Carnegie Chicago",
+      "summary": ""
+    },
+    {
+      "title": "Who's Who Among Executive and Professional Women - Cambridge \"Honors Edition\"",
+      "date": "2008-2009",
+      "awarder": "Cambridge",
+      "summary": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Active participation",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Active listening skills",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Excellent classroom management",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

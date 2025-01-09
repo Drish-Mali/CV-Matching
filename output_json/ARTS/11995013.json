@@ -1,0 +1,132 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Line Attendant",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Results-oriented Supervisor with diverse background in management and customer service. Dedicated to providing excellent customer service and making operational and procedural improvements.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "",
+      "region": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Line Attendant",
+      "url": "",
+      "startDate": "2009-11",
+      "endDate": "2014-09",
+      "summary": "Directed and supervised employees engage in sales, inventory-taking and reconciling cash receipts, or in performing services for customers. Offered exceptional customer service to differentiate and promote the company brand. Assigned employees to specific duties, scheduled break, assuring they go on time accordingly. Monitored sales activities to ensure that customers receive satisfactory service and quality goods.",
+      "highlights": [
+        "Performed competitive analysis to make recommendations for future company growth.",
+        "Maintain current knowledge of sales, promotions, payment and exchange policies, and security practices."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Crew Leader",
+      "url": "",
+      "startDate": "2009-04",
+      "endDate": "2010-02",
+      "summary": "Cooked and prepared food for customers according to the corporate guidelines. Used an electronic temperature gauge to ensure food is cooked to the FDA guidelines. Packaged food, places the food in a bag and delivers the food to the customer. Ensured quality assurance in reference to food and customer service standards.",
+      "highlights": [
+        "Directed storage, preparation and serving of refreshments by other workers at Restaurant."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Medical Assistant Externship",
+      "url": "",
+      "startDate": "2008-08",
+      "endDate": "2008-09",
+      "summary": "Performed general office duties such as answering telephones, taking dictation and completing insurance forms and making appointments. Showed patients to examination rooms and prepared them for the physician. Cleaned and sterilized instruments and disposed of contaminated supplies. Interviewed patients to obtain medical information and measure their vital signs, weight, and height.",
+      "highlights": [
+        "Recorded patients' medical history, vital statistics and information such as test results in medical records.",
+        "Collected blood, tissue and other laboratory specimens, logged the specimens, and prepared them for testing."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Sanford-Brown Institute",
+      "url": "",
+      "area": "Medical",
+      "studyType": "Diploma",
+      "startDate": "2007-08",
+      "endDate": "2008-09",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Medical Assistant Diploma",
+      "date": "",
+      "issuer": "Sanford-Brown Institute",
+      "url": ""
+    },
+    {
+      "name": "CPR Certification",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "OSHA Certificate",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Leadership skills",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Word Experience",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Excel Experience",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Cash handling accuracy",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Strong communication skills",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Talent in obtaining/charting vital signs",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "CPR/First Aid Certification",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

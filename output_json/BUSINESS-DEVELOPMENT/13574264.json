@@ -1,0 +1,110 @@
+{
+  "basics": {
+    "name": "Business Development Director",
+    "label": "Business Development Director",
+    "email": "",
+    "phone": "",
+    "summary": "ACCOMPLISHED SALES & BUSINESS DEVELOPMENT LEADER BUILDS & LEADS STRONG TEAMS / TOP REVENUE PRODUCER / EXCELS IN CLIENT RELATIONSHIP MANAGEMENT",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "State",
+      "region": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Business Development Director",
+      "url": "",
+      "startDate": "2010-01-01",
+      "endDate": "Current",
+      "summary": "Leads vision, strategy, and execution for all facets of operations and business development at a $45MM automotive dealership, with accountability for the success of 52 employees.",
+      "highlights": [
+        "Credited with improving the effectiveness of the business through strong leadership and the hiring of personnel with talent and experience in customer service, finance, and business development, yielding increases in profit and lower costs.",
+        "Implemented formal daily training and professional development on sales and service principles that improved the accuracy and focus ofsales efforts while building leadership capabilities in managers; driving revenue growth 25%.",
+        "Maintains a daily inventory of $7.5MM in new vehicles and $1.4MM in used vehicles.",
+        "Championed the adoption of DealerSocket as the company's CRM tool, empowering 100% of the sales force to manage the pipeline of leads and opportunities while documenting engagements with clients and prospects; directly Impacting sales revenue increase of over $1MM."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Sales Manager",
+      "url": "",
+      "startDate": "2004-01-01",
+      "endDate": "2010-01-01",
+      "summary": "Launched a website and adopted secondary financing and other relationships to spark online lead generation; additionally, expanded the dealership's marketing strategies to include digital elements that included SEO, SEM, YouTube advertising and Google AdWords while increasing the frequency of television ads; shifting digital advertising to 50% of $1MM yearly budget.",
+      "highlights": [
+        "Outstanding results, boosting new car profit by 37% in the first year, coupled with significant increases in Net Promoter Score with a 100% customer issue resolution rate; recipient of the President's Award in 2011, 2012, 2014, and 2015.",
+        "Recognized as the top sales leader in the district, outperforming 14 dealerships throughout Western and Central New York.",
+        "Pioneered a shift in the business model at a leading Ford dealership from new car sales to sales of previously-owned vehicles, positioning the company as the top-ranked dealership for Ford vehicles in the Rochester area.",
+        "Expanded the employee base from four team members to eight.",
+        "Skyrocketed annual revenue from $3.2MM to $10.8MM, translating to growth in sales volume from 15 vehicles per month to over 50.",
+        "In command of $1MM inventory acquisition and product management.",
+        "Implemented and managed 3rd party digital marketing partners; fostering increased sales over 100% in first year."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "EDINBORO UNIVERSITY OF PENNSYLVANIA",
+      "url": "",
+      "area": "Business Administration and Management",
+      "studyType": "Bachelor of Arts Degree",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "General Skills",
+      "level": "",
+      "keywords": [
+        "Account Management",
+        "ads",
+        "advertising",
+        "automotive",
+        "budget",
+        "business development",
+        "closing",
+        "Competitive",
+        "CRM",
+        "clients",
+        "customer service",
+        "Driving",
+        "finance",
+        "financing",
+        "focus",
+        "hiring",
+        "inventory",
+        "leadership",
+        "Managing",
+        "marketing strategies",
+        "marketing",
+        "Mentoring",
+        "Online Marketing",
+        "personnel",
+        "positioning",
+        "product management",
+        "Profit",
+        "Sales",
+        "Strategy",
+        "television",
+        "translating",
+        "vision",
+        "website"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

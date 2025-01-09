@@ -1,0 +1,103 @@
+{
+    "basics": {
+        "name": "[Name not provided]",
+        "label": "Business Development & IT Solution Architect",
+        "email": "[Email not provided]",
+        "phone": "[Phone not provided]",
+        "image": "",
+        "location": {
+            "city": "[City not provided]",
+            "region": "[Region not provided]",
+            "countryCode": "[Country code not provided]"
+        },
+        "profiles": []
+    },
+    "work": [
+        {
+            "name": "Company Name",
+            "position": "Business Development",
+            "startDate": "2013-01-01",
+            "endDate": "2014-01-01",
+            "summary": "Worked as business development and principal solution architect consultent for Elevate Technology Solutions - Federal Practice.",
+            "highlights": []
+        },
+        {
+            "name": "Company Name",
+            "position": "Senior vArchitect (Senior Solution Architect)",
+            "startDate": "2012-01-01",
+            "endDate": "2013-01-01",
+            "summary": "Worked directly internal, parent and partner Program Capture and Business Development teams responding to RFI, RFQ, RFP and unsolicited proposals.",
+            "highlights": []
+        },
+        {
+            "name": "Company Name",
+            "position": "Principal Business Architect Leader",
+            "startDate": "2009-01-01",
+            "endDate": "2012-01-01",
+            "summary": "Identified business targets, gathered, assessed and qualified requirements for new business Public Sector opportunities.",
+            "highlights": []
+        },
+        {
+            "name": "Company Name",
+            "position": "Senior Sales Engineer",
+            "startDate": "2007-01-01",
+            "endDate": "2009-01-01",
+            "summary": "Effectively demonstrated product solutions through presentations and marketing campaigns for over 200 diverse accounts.",
+            "highlights": []
+        },
+        {
+            "name": "Company Name",
+            "position": "Senior Information Technology Consultant",
+            "startDate": "2002-01-01",
+            "endDate": "2007-01-01",
+            "summary": "Managed portfolio of projects and developed technical solutions based on ITIL and Six Sigma standards.",
+            "highlights": []
+        },
+        {
+            "name": "Company Name",
+            "position": "Systems Engineer",
+            "startDate": "1999-01-01",
+            "endDate": "2002-01-01",
+            "summary": "Worked on configuration and maintenance of Windows NT Server & Win2k for corporate, production, and test environments.",
+            "highlights": []
+        },
+        {
+            "name": "Company Name",
+            "position": "Regional Account Manager",
+            "startDate": "1997-01-01",
+            "endDate": "1999-01-01",
+            "summary": "Established relationships with new accounts in multi-regional territory.",
+            "highlights": ["Received \"President's Club Award\" for two consecutive years."]
+        }
+    ],
+    "education": [
+        {
+            "institution": "Strayer University",
+            "area": "Information Systems",
+            "studyType": "Bachelor",
+            "startDate": "[Start date not provided]",
+            "endDate": "[End date not provided]",
+            "courses": []
+        }
+    ],
+    "skills": [
+        {
+            "name": "[Skill name not provided]",
+            "level": "[Skill level not provided]",
+            "keywords": [
+                "A+",
+                "Architect",
+                "Business development",
+                "Cisco",
+                "Disaster Recovery",
+                "Government",
+                "ITIL",
+                "Lockheed Martin",
+                "Network",
+                "Project management and leadership",
+                "Sales",
+                "Six Sigma"
+            ]
+        }
+    ]
+}

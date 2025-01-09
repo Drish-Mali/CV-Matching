@@ -1,0 +1,116 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Patient Care Coordinator, Construction Laborer, Supply Chain Specialist",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Responsible professional enthusiastic about supporting best practices in hospital operations, compliance and healthcare management. Demonstrated strengths in multi-area management, quality assurance and service. Resourceful professional and collaborative team player.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Construction Laborer",
+      "url": "",
+      "startDate": "2014-02-01",
+      "endDate": "2017-11-01",
+      "summary": "Consistently assumed additional responsibilities and worked extended hours to meet project deadlines. Monitored inventory and reported items to be restocked for each job. Prepared and cleaned construction sites by removing debris. Loaded and unloaded building materials used for construction. Operated equipment",
+      "highlights": [
+        "Prepared and cleaned construction sites by removing debris",
+        "Loaded and unloaded building materials used for construction",
+        "Operated equipment"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Supply Chain Specialist",
+      "url": "",
+      "startDate": "2013-08-01",
+      "endDate": "2017-03-01",
+      "summary": "Conducted analysis and incorporated findings. Supervised a team of area managers and associates. Established project control procedures such as project forecasts and cash flow projections. Helped earn the company customer satisfaction ratings on by action taken",
+      "highlights": [
+        "Conducted analysis and incorporated findings",
+        "Supervised a team of area managers and associates",
+        "Established project control procedures such as project forecasts and cash flow projections"
+       ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Patient Care Assistant",
+      "url": "",
+      "startDate": "2013-08-01",
+      "endDate": "2017-03-01",
+      "summary": "Measured effectiveness with team and implemented recommendations for long term improvements. Maintained confidentiality and compliance standards at all times. Evaluated effectiveness of current strategies with interdisciplinary team and utilized recommendations to make permanent improvements to care standards. Upheld confidentiality requirements and regulatory compliance guidelines in all areas.",
+      "highlights": [
+        "Measured effectiveness with team and implemented recommendations for long term improvements",
+        "Evaluated effectiveness of current strategies with interdisciplinary team and utilized recommendations to make permanent improvements to care standards",
+        "Upheld confidentiality requirements and regulatory compliance guidelines in all areas"
+     ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Lamar High School",
+      "url": "",
+      "area": "",
+      "studyType": "High School Diploma",
+      "startDate": "2007-01-01",
+      "endDate": "2007-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Houston Community College - Coleman College for Health Sciences",
+      "url": "",
+      "area": "health care",
+      "studyType": "certification CNA",
+      "startDate": "2012-01-01",
+      "endDate": "2012-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Houston Launch Pad",
+      "url": "",
+      "area": "Construction and Health Safety",
+      "studyType": "heavy equipment operator, OSHA 10, NCCER, Construction site safety, Core Curriculum, Core Curriculum:Introductory Craft skills",
+      "startDate": "2017-01-01",
+      "endDate": "2017-12-31",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Professional Skills",
+      "level": "",
+      "keywords": [
+        "Compliance Management",
+        "Credit",
+        "DC",
+        "Mail",
+        "Office",
+        "word",
+        "reporting",
+        "Supervision"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

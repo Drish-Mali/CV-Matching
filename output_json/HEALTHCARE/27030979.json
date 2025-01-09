@@ -1,0 +1,133 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Healthcare Documentation Services Delivery Manager",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "A dependable and motivated professional experienced in managing multiple projects in a fast-paced deadline-driven environment. Possess strong organizational and communication skills. Strong technical proficiency that includes working knowledge of Microsoft Office Word, Excel, Access and Outlook. Ability to quickly learn new technology and software applications. Works well independently, prioritizes and multitasks efficiently with minimal supervision.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Healthcare Documentation Services Delivery Manager",
+      "url": "",
+      "startDate": "2009-01-01",
+      "endDate": "2014-01-01",
+      "summary": "Directly responsible for customer satisfaction in clinical document turnaround time and quality. Trained medical records staff and providers on transcription applications, document search engines, and dictation machines. Initiated new transcriptionists paperwork, scheduled training, provided daily support to new hires, and managed training room bookings.",
+      "highlights": [
+        "Eliminated document turnaround time and quality penalties by driving the consistent achievement of 97% document turnaround time and 95% document quality.",
+        "Received many high scoring customer surveys and resigned contacts",
+        "Reduced overtime costs by 25% by improving production performance",
+        "Hosted monthly team quality webinars to provide guidance, expectations and training"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Customer Care Manager",
+      "url": "",
+      "startDate": "2005-01-01",
+      "endDate": "2009-01-01",
+      "summary": "First point of contact for all day-to-day issues, projects, or concerns. Conducted customer touch base calls to review account performance, goals reached, and expected metrics. Involved in all new go lives and implementations.",
+      "highlights": [
+        "Achieved over 98% of customer contract renewals",
+        "Introduced new products to existing customers"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Work Flow Coordinator",
+      "url": "",
+      "startDate": "1995-01-01",
+      "endDate": "2005-01-01",
+      "summary": "Oversaw transcription workflow process of three office locations in Southern California. Hired, supervised, and traineda large staff of Work Flow personnel. Directed all incoming work flow department client calls to the appropriate recipient.",
+      "highlights": [
+        "Maintained all dictated reports to ensure compliance with service level agreements",
+        "Reduced overtime costs by improving performance and accuracy"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Rowland High School",
+      "url": "",
+      "area": "High School Diploma",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "East San Gabriel Valley Occupational Program",
+      "url": "",
+      "area": "Microsoft Office Specialist Course",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": [
+        "Microsoft Word",
+        "Excel",
+        "Access",
+        "PowerPoint",
+        "Outlook"
+      ]
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Schedule management",
+      "level": "Expert",
+      "keywords": []
+    },
+    {
+      "name": "Staff training and development",
+      "level": "Advanced",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Office Suite",
+      "level": "Advanced",
+      "keywords": [
+        "Word",
+        "Excel",
+        "Access",
+        "PowerPoint",
+        "Outlook"
+      ]
+    },
+    {
+      "name": "Communication Proficiency",
+      "level": "Advanced",
+      "keywords": []
+    },
+    {
+      "name": "Time Management",
+      "level": "Expert",
+      "keywords": []
+    },
+    {
+      "name": "HR policies and procedures expertise",
+      "level": "Advanced",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

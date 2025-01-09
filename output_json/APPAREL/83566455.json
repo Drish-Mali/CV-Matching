@@ -1,0 +1,89 @@
+{
+  "basics": {
+    "name": "",
+    "label": "SOURCING & MERCHANDISING ANALYST",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Sourcing and Merchandising Analyst committed to staying current on market trends and consumer interests. Collaborates with manufacturers to create the best product plans and boost sales revenue.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "SOURCING & MERCHANDISING ANALYST",
+      "url": "",
+      "startDate": "2014-02-01",
+      "endDate": "current",
+      "summary": "Shop the market find new products that fill current voids in the product mix. Analyze sales to determine categories to expand or reduce. Set pricing based on margin goals while being mindful of market prices for similar products. Develop new products with vendors as well internal engineering departments based on specifications acquired during research. Source new products from overseas vendors while assuring that our specifications and quality requirements are met. Create marketing plans to present my vision for the products to be shown on the website. Collaborate with several internal departments to assure that we are optimizing our web presence to increase sales. Report on Key Performance Indicators (KPIs) to upper management.",
+      "highlights": [
+        "Retail Buying Sourcing",
+        "Purchasing Negotiating",
+        "Inventory Control Detail Oriented",
+        "Product Development Analyitical"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "CONTRACTS REPRESENTATIVE II",
+      "url": "",
+      "startDate": "2008-05-01",
+      "endDate": "2014-01-01",
+      "summary": "Managed the contract lifecycle from the Request for Purchase (RFP) through closeout. Negotiated Terms and Conditions(T's & C's) and pricing for contracts. Reviewed and negotiated terms of Non-Disclosure and Teaming Agreements. Audited internal systems for contract compliance. Entered and maintained information in various contracts related systems. Developed compliant proposals with the Project Managers.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "SALVE REGINA UNIVERSITY",
+      "url": "",
+      "area": "Business",
+      "studyType": "Masters",
+      "startDate": "2011-05-01",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "UNIVERSITY OF RHODE ISLAND",
+      "url": "",
+      "area": "Textiles, Fashion Merchandising, and Design Business Administration",
+      "studyType": "BS",
+      "startDate": "1996-05-01",
+      "endDate": "",
+      "score": "",
+      "courses": [
+        "Minor in Business Administration",
+        "MBA"
+      ]
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Key Skills",
+      "level": "",
+      "keywords": [
+        "MS Office", 
+        "MRP/ERP Systems", 
+        "PO Systems", 
+        "Data Warehouses"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

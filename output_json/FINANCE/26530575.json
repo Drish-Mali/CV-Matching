@@ -1,0 +1,118 @@
+{
+  "basics": {
+    "name": "Finance Manager Finance Manager",
+    "label": "Finance Manager",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Financial Manager focused on fostering trust and cultivating partnerships based on accountability and transparency.",
+    "location": {},
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "OPG Group",
+      "position": "Finance Manager",
+      "url": "",
+      "startDate": "2012-01-01",
+      "endDate": "2012-01-01",
+      "summary": "Managed the financial operations of OPG Group, developed the virtual electronic On-Boarding Training Tool for OhioHealth Physician Group and improved accounting procedures for net patient revenue accruals derived from EPIC electronic health records system",
+      "highlights": [
+        "Formally recognized for excellence achieved in financial analysis, budgeting, and forecasting"
+      ]
+    },
+    {
+      "name": "PWC",
+      "position": "State Supervising Auditor",
+      "url": "",
+      "startDate": "2003-01-01",
+      "endDate": "2004-01-01",
+      "summary": "Delivered quality service to top-tier clients within the PWC Assurance and Business Advisory Services practice",
+      "highlights": []
+    },
+    {
+      "name": "Loeb & Troper",
+      "position": "Supervising Senior Auditor",
+      "url": "",
+      "startDate": "1999-01-01",
+      "endDate": "2003-01-01",
+      "summary": "Prepared financial statements for various healthcare and social services organizations",
+      "highlights": []
+    },
+    {
+      "name": "The New 42nd Street, Inc.",
+      "position": "Financial Controller",
+      "url": "",
+      "startDate": "2006-01-01",
+      "endDate": "2012-01-01",
+      "summary": "Managed all accounting operations, prepared financial statements and regulatory reports, Managed finance staff of three and worked as a project manager during the company-wide system conversion",
+      "highlights": []
+    },
+    {
+      "name": "Columbia University",
+      "position": "Internal Auditor",
+      "url": "",
+      "startDate": "2004-01-01",
+      "endDate": "2006-01-01",
+      "summary": "Performed complex operational and financial audits, coordinated audit projects with external auditors and led meetings with key finance executives and audit team",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Keller Graduate School of Management",
+      "url": "",
+      "area": "Business Administration",
+      "studyType": "MBA",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Queens College, City University of New York",
+      "url": "",
+      "area": "Accounting",
+      "studyType": "B.A",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Certified Public Accountant (New York) License",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "Chartered Global Management Accountant",
+      "date": "",
+      "issuer": "American Institute of Certified Public Accountant 1",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Financial Management",
+      "level": "",
+      "keywords": [
+        "Contract negotiation",
+        "Accounting",
+        "Budgeting",
+        "Business Development",
+        "Compliance audits"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

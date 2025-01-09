@@ -1,0 +1,101 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Head Chef",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Energetic culinary professional with a blend of creativity, passion for food and exceptional cooking skills. Works well as a dynamic leader in high-pressure settings. Expert in managing kitchen staff and preparing foods at reduced cost without compromising quality and taste.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Head Chef",
+      "url": "",
+      "startDate": "2016-04-01",
+      "endDate": "Current",
+      "summary": "Identify opportunities to increase revenue, decrease kitchen expenses and maximize departmental productivity without compromising guest satisfaction. Regularly develop new recipes in accordance with consumer tastes, nutritional needs, and budgetary considerations. Consistently produce exceptional menu items that regularly garnered diners' praise.",
+      "highlights": [
+        "Ensure smooth kitchen operation",
+        "Oversee daily product inventory, purchasing, and receiving",
+        "Follow proper food handling methods and maintain correct temperature of all food products"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Executive Chef/Director",
+      "url": "",
+      "startDate": "2006-05-01",
+      "endDate": "2016-01-01",
+      "summary": "In charge of food costing and liquor. Responsible for all food and beverage ordering and inventory controls. Planning for restaurant and event venue. Coordinated multiple parties in various locations of the premises at overlapping times.",
+      "highlights": [
+        "Worked closely with ownership on lowering cost and increasing profit",
+        "Actively involved in cost control, sanitation, menu development, training, recruitment, private dining and catering",
+        "Achieved and exceeded performance, budget and team goals"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Sous Chef",
+      "url": "",
+      "startDate": "2004-03-01",
+      "endDate": "2005-10-01",
+      "summary": "Working chef in charge of labor and food cost projections, menu design, training, promotional ideas, recipe design, ordering, quality control and portion control for a 120 person restaurant.",
+      "highlights": [
+        "Verified proper portion sizes and consistently attained high food quality standards",
+        "Instructed new staff in proper food preparation, food storage, use of kitchen equipment and utensils, sanitation and safety issues"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Florida Culinary Institute",
+      "url": "",
+      "area": "Culinary Arts",
+      "studyType": "Associate of Arts",
+      "startDate": "",
+      "endDate": "2002-03-01",
+      "score": "",
+      "courses": ""
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Culinary Arts Certificate",
+      "date": "2002",
+      "issuer": "Florida Culinary Institute",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Culinary",
+      "level": "Expert",
+      "keywords": [
+        "Contemporary sauce work",
+        "Inventory management familiarity",
+        "High volume production capability",
+        "ServSafe certified",
+        "Focus on portion and cost control",
+        "Strong butchery skills",
+        "Well-tuned palette"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

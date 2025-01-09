@@ -1,0 +1,105 @@
+{
+  "basics": {
+    "name": "Director Finance and FP&A",
+    "label": "Senior Finance Leader",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "A senior finance leader who thrives when working closely with the executive team in removing obstacles to directing the company beyond targeted growth. Early in my career I learned the value of looking beyond how things are currently done in order to continually search for how we can do things better. Working in cooperation with senior leadership throughout the organization, my finance teams are built with this focus and the results are enhanced analytics and dynamic reporting tools.",
+    "location": {"address": "", "postalCode": "", "city": "", "countryCode": "", "region": "" },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "A.T. Cross",
+      "position": "Director Finance and FP&A",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "I developed an enhanced global budget tool that delivered budget on time and at the product sku level utilizing advanced MS Access and improved the consolidation process from a five week to a five day close.",
+      "highlights": ["Developed enhanced global budget tool", "Improved consolidation process from five week to five day close"]
+    },
+    {
+      "name": "",
+      "position": "Senior Finance Consultant",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Even with robust ERP systems in place at Staples, the need to bridge various stand-alone systems was identified and I created an inventory database to track existing store assets while enabling real-time \"what-if\" analysis and cost planning related to proposed changes improving",
+      "highlights": ["Created inventory database to track existing store assets", "Increased analytical capabilities and key metric analysis"]
+    },
+    {
+      "name": "",
+      "position": "Senior Finance Director",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Balancing the push and pull between sales efforts and maintaining margins was the focus of the Request for Proposal (RfP) tracking and analysis tool I developed to manage the contract review and approval process.",
+      "highlights": ["Developed RfP tracking and analysis tool", "Created a circuit inventory tracking database"]
+    },
+    {
+      "name": "",
+      "position": "Global Engagement & Mobility Solutions Manager",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "",
+      "position": "Worldwide Director of Finance",
+      "url": "",
+      "startDate": "January 2005",
+      "endDate": "January 2006",
+      "summary": "I built and led finance function supporting deployment of more than 4,000 consulting resources across international borders to serve global clients, driving compliance with international immigration, income and social tax laws.",
+      "highlights": ["Led finance function supporting global clients", "Ensured compliance with international immigration, income and social tax laws"]
+    },
+    {
+      "name": "",
+      "position": "Director of Finance",
+      "url": "",
+      "startDate": "January 1997",
+      "endDate": "January 2005",
+      "summary": "Originally hired as an Assistant Controller, I experienced substantial professional growth achieving three promotions culminating in overseeing the global finance team including accounting, financial reporting and analysis while working closely with the Executive management team.",
+      "highlights": ["Oversee global finance team", "Work closely with Executive management team"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Massachusetts",
+      "url": "",
+      "area": "Finance",
+      "studyType": "Master of Business Administration",
+      "startDate": "",
+      "endDate": "2016",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Michigan State University",
+      "url": "",
+      "area": "Accounting",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Finance",
+      "level": "",
+      "keywords": ["3Com", "4D", "Accounting", "AccPac", "Acquisitions", "billing system", "billing systems", "Budget", "Business Objects", "closing", "consulting", "contract review", "Controller", "cost analysis", "Cost Control", "costing", "clients", "data warehouse", "database", "driving", "equity", "ERP", "Essbase", "Excel and VBA", "Executive management", "senior management", "FileMaker", "finance", "Financial", "Financial Planning", "financial reporting", "Financial Analysis / Reporting", "focus", "Forecasting", "Functional", "government", "Hyperion", "inventory", "Lawson", "Team Building", "Leadership", "Legal", "regulatory compliance", "Mergers", "MS Access", "MS Excel", "MS PowerPoint", "MS Word", "Minitab", "modeling", "Monarch", "Enterprise", "network", "networking", "Networks", "next", "Operations Management", "Oracle", "Payroll", "PeopleSoft", "pricing", "process design", "processes", "Process Improvement", "improve product", "producing", "Project Management", "Proposal", "QuickBooks", "real-time", "reporting", "RfP", "Sage", "sales", "SAP", "SQL", "Strategic", "Sun", "Supply Chain", "tax laws", "Tax", "Telecommunications", "WordPerfect"]
+    }
+  ],
+  "volunteer": [],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

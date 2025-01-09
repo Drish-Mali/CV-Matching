@@ -1,0 +1,168 @@
+{
+  "basics": {
+    "name": "Not Provided",
+    "label": "Certified Nurse Assistant",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "I am a motivated individual with highly effective communication skills as well as a level-headed health professional who remains calm and effective in extremely difficult and stressful situations. Seeking a job in the Medical field in a Clinical position that will enable me to grow as a knowledgeable professional and enhance my current abilities.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    }
+  },
+  "work": [
+    {
+      "company": {
+        "name": "Company Name",
+        "position": "Certified Nurse Assistant",
+        "url": "",
+        "startDate": "2009-04-01",
+        "endDate": "2012-10-01",
+        "summary": "Identifies/responds to critical changes in patients and reports to RN/LVN. Repositions patient for maximum comfort & hygiene measures and gives general hygiene to patients.",
+        "highlights": [
+          "(Various tasks related to patient care)",
+          "Monitored vital signs such as blood pressure and pulse"
+        ]
+      }
+    },
+    {
+      "company": {
+        "name": "Company Name",
+        "position": "Box Office Aid",
+        "url": "",
+        "startDate": "2007-01-01",
+        "endDate": "2011-08-01",
+        "summary": "(Various tasks related to office assistance)",
+        "highlights": [
+          "Answered an average of [number] calls per day by addressing customer inquiries",
+          "Polite assistance to customers in person and over the phone"
+        ]
+      }
+    },
+    {
+      "company": {
+        "name": "Company Name",
+        "position": "Telephone Interviewer",
+        "url": "",
+        "startDate": "2005-09-01",
+        "endDate": "2006-05-01",
+        "summary": "Survey Interviewer for Bank of America and Scion.",
+        "highlights": [
+          "Administered questionnaires and recorded responses"
+        ]
+      }
+    }
+  ],
+  "education": [
+    {
+      "institution": "Downey Adult School",
+      "url": "",
+      "area": "Medical Assisting",
+      "studyType": "Diploma",
+      "startDate": "",
+      "endDate": "2012-01-01",
+      "score": "",
+      "courses": [
+        "Medical Terminology",
+        "Basic billing",
+        "CPT and ICD-9 Coding"
+      ]
+    },
+    {
+      "institution": "Cypress College",
+      "url": "",
+      "area": "General Education",
+      "studyType": "Pre-requisites for Nursing Program",
+      "startDate": "",
+      "endDate": "2011-12-01",
+      "score": "",
+      "courses": [
+        "Knowledge of Body Systems/ Basic Anatomy and Physiology"
+      ]
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Medical Assistant Diploma",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "Certified Nurse Assistant",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "American Heart Association Healthcare Provider (BLS) for CPR and AED",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "Nonviolent Crisis Intervention (CPI)",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "HIPAA/OSHA Diploma",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Healthcare",
+      "level": "",
+      "keywords": [
+        "Medical Terminology",
+        "Billing",
+        "Chating",
+        "Communication",
+        "ICD-9",
+        "Keyboarding"
+      ]
+    },
+    {
+      "name": "Administration",
+      "level": "",
+      "keywords": [
+        "Office duties",
+        "Microsoft Word",
+        "Phone handling"
+      ]
+    }
+  ],
+  "interests": [
+    {
+      "name": "",
+      "keywords": [
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "",
+      "reference": ""
+    }
+  ],
+  "projects": [
+    {
+      "name": "",
+      "startDate": "",
+      "endDate": "",
+      "description": "",
+      "highlights": [
+      ],
+      "url": ""
+    }
+  ]
+}

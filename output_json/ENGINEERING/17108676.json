@@ -1,0 +1,84 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Mechanical Engineering Intern",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Highly motivated mechanical engineering student (EIT) interested in pursuing an engaging position in the corporate setting. A dedicated student with problem-solving, leadership, and communication skills along with the capability to build relationships and work in a team-oriented environment.",
+    "location": {},
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Mechanical Engineering Intern",
+      "url": "",
+      "startDate": "09/2015",
+      "endDate": "Current",
+      "summary": "Worked with a team of four to build a mobile robot in UCSD's MAE 3 class. Evaluated robot parts and estimated energy transfer. Used AutoCAD to develop drawings and implement them into the Lasercamm (Laser Cutter). Acted as an Academic Employee (Grader) for UCSD's MAE 105.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Systems Engineering Intern",
+      "url": "",
+      "startDate": "05/2014",
+      "endDate": "03/2015",
+      "summary": "Operations of crystallization robotics and compound management. Assisted daily order fulfillment using research compounds. Prepared stock solutions.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Dong Shin Presbyterian Church",
+      "position": "Teaching Assistant",
+      "url": "",
+      "startDate": "2011",
+      "endDate": "Current",
+      "summary": "Supervise about 20 kindergartens every Sunday. Coordinate activities such as games, birthday parties, and field trips.",
+      "highlights": []
+    },
+    {
+      "organization": "Partners at Learning Program",
+      "position": "",
+      "url": "",
+      "startDate": "2014",
+      "endDate": "",
+      "summary": "Academic mentoring of third grade students at El Toyon Elementary. Assisted the children with academic support and moral encouragement.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of California",
+      "url": "",
+      "area": "Mechanical Engineering",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Mechanical Engineering",
+      "level": "",
+      "keywords": ["SolidWorks", "AutoCAD", "Engineering graphics and design", "Microsoft Word", "Fluid Mechanics", "Microsoft PowerPoint", "Thermal Analysis", "Project management", "Heat Transfer", "Time management skills", "Statics/Dynamics", "Written and verbal communication skills", "Material Science", "Engineering Probability and Statistics"]
+    }
+  ],
+  "languages": [],
+  "interests": [
+    {
+      "name": "Teaching",
+      "keywords": ["Children", "Early Education", "Mentoring"]
+    }
+  ],
+  "references": [],
+  "projects": []
+}

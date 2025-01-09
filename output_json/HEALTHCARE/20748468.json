@@ -1,0 +1,91 @@
+{
+  "basics": {
+    "name": "None Provided",
+    "label": "HEALTHCARE ADMINISTRATOR/OPERATIONAL AND STAFF REORG",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "High-energy Manager, Analyst, and Executive Assistant. Successful in building and motivating dynamic teams, streamlining costs, boosting company morale and revenue through innovative management techniques, including all forms of social media.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Healthcare Administrator/Operational and Staff Reorg",
+      "url": "",
+      "startDate": "Oct 2006",
+      "endDate": "Apr 2007",
+      "summary": "Responsible for all staff which included office clerks, surgeons, remote transcriptionists, part-time students, medical assistants, in-house biller, and in-house transcriptionist.",
+      "highlights": [
+        "Negotiated all terms of new contract to carve out 95% of in-house billing to an off-site medical billing company.",
+        "Liaison between SDHS and 47 vendors like IT specialists, all credentialed hospitals, medical supply vendors, OSHA Reps, etc.",
+        "Created a comprehensive project plan for total relocation of the practice."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Project Manager/Project Analyst/Executive Assistant",
+      "url": "",
+      "startDate": "Oct 2004",
+      "endDate": "Oct 2006",
+      "summary": "Performed as Project Manager on 3 large compliance-related controls regarding a new database developed for Risk Solutions Team.",
+      "highlights": [
+        "Assisted compliance questions from fulfillment field reps regarding business unit procedures.",
+        "Used strong communication skills and developed solid relationships with all teams."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Southern California",
+      "url": "",
+      "area": "Psychology",
+      "studyType": "Bachelor of Arts",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": ["None Provided"]
+    },
+    {
+      "institution": "Long Beach City College",
+      "url": "",
+      "area": "Social Sciences",
+      "studyType": "Associate of Arts",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": ["None Provided"]
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Reorganization",
+      "level": "",
+      "keywords": [
+        "Procedural Evaluations",
+        "Ability to collect/analyze/report data",
+        "Can easily work as team or independently",
+        "Lower costs/increase efficiency",
+        "MS Project, MS Office, all Windows OS, all Mac OS, Visio",
+        "Advanced coding in fbml, css, html",
+        "Databases design: LBMMC- OBStat, WARS and NEC - PreLoad DB"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

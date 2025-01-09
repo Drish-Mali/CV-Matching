@@ -1,0 +1,132 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Senior Accountant",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Capable Accountant successful at managing multiple projects and consistently meeting deadlines under pressure. Extensive knowledge of accounting software and processes.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Senior Accountant",
+      "url": "",
+      "startDate": "2014-09-01",
+      "endDate": "Current",
+      "summary": "Accounting roles at various levels. Employed critical thinking skills to examine issues and develop best practice solutions. Currently working towards becoming a CPA.",
+      "highlights": [
+        "Prepared financial statements for different projects on monthly, quarterly basis",
+        "Directly responsible for coordinating and managing payroll for over 50 employees on bi-weekly basis including resolving problems and issues with the payroll manager ADP."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Project Accountant",
+      "url": "",
+      "startDate": "2013-04-01",
+      "endDate": "2014-09-01",
+      "summary": "Budget forecasting and preparation, journal entries related to prepaid expenses, adjustments, accruals and inter-company transactions.",
+      "highlights": [
+        "Reconciliation of inventory, supplies, payroll and cash",
+        "Preparation and reconciliation of monthly financial statements"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Staff Accountant",
+      "url": "",
+      "startDate": "2010-09-01",
+      "endDate": "2013-03-01",
+      "summary": "Maintained full accounting records for service, wholesale, and retail industries. Computed taxes and ensured compliance with tax requirements.",
+      "highlights": [
+        "Handled responsibilities of analyzing month-end financial reports",
+        "Performed posting checks, tracking General Ledger accounts, posting Journal entries"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Texas at Dallas- Naveen Jindal School of Management",
+      "url": "",
+      "area": "Accounting and Information Management",
+      "studyType": "Masters",
+      "startDate": "",
+      "endDate": "2012-01-01",
+      "score": "3.7/4.0",
+      "courses": []
+    },
+    {
+      "institution": "",
+      "url": "",
+      "area": "Accounting and Information Management",
+      "studyType": "Bachelors",
+      "startDate": "",
+      "endDate": "2010-01-01",
+      "score": "3.8/4.0",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Accounting",
+      "level": "Senior",
+      "keywords": [
+        "Account reconciliations",
+        "Accounting software",
+        "Accounts payable",
+        "Bank Reconciliations",
+        "Filing",
+        "Financial reports",
+        "Financial Statement Preparation",
+        "Financial statements",
+        "Forecasting",
+        "General Ledger",
+        "General Ledger accounts",
+        "General Ledger Accounting",
+        "Month end closing",
+        "Quick Books",
+        "Sales",
+        "Tax returns",
+        "Monthly variance analysis"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [
+    {
+      "name": "Professional Accounting",
+      "keywords": [
+        "The Professional Program in Accounting"
+      ]
+    },
+    {
+      "name": "Community Service",
+      "keywords": [
+        "YMCA"
+      ]
+    },
+    {
+      "name": "Professional Associations",
+      "keywords": [
+        "Beta Alpha Psi",
+        "Alpha Kappa Psi (Mu Rho Chapter)"
+      ]
+    }
+  ],
+  "references": [],
+  "projects": []
+}

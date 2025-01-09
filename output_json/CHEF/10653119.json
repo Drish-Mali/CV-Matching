@@ -1,0 +1,83 @@
+{
+  "basics": {
+    "name": "John Doe",
+    "label": "Executive Chef /Chef Manager",
+    "email": "",
+    "phone": "",
+    "summary": "Skilled, creative, dedicated Executive Chef/Chef Manager with extensive culinary experience and knowledge in varied dining concepts and a large range of cuisines. Focused and efficient with a strong knowledge in food safety and sanitation guidelines. Adept at food purchasing, inventory and controlling food cost. Talented kitchen leader and team motivator successful at maintaining staff focus, efficiency and productivity.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "State",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Executive Chef /Chef Manager",
+      "url": "",
+      "startDate": "01/2014",
+      "endDate": "01/2019",
+      "summary": "Developed restaurant concept, menu, and recipes and oversaw daily restaurant operations for 100% gluten free corporate style cafe. Created daily specials and rotating prepared food selections based on seasonal availability and customer demand. Hired and managed all back of house staff and front of house staff. Ensured personnel safety, kitchen sanitation and proper food handling and storage. Purchased food and cultivated strong vendor relationships. Coordinated and organized all restaurant inventory. Planned and executed catered events. Considered seasonal product pricing and availability in development of promotional dishes and menu selections. Modified standard recipes to account for ingredient issues or customer requests, including allergen concerns. Assured customer satisfaction in front of house. Financial management including food cost & labor.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Chef /Banquet Chef",
+      "url": "",
+      "startDate": "01/2006",
+      "endDate": "01/2014",
+      "summary": "Prepared various a la carte menu items and seasonal specialties for 150 + seat country club. Planned, organized, and oversaw food preparation of all banquet and catering events including weddings and golf tournaments for 75 - 275 people. Ensured and maintained five-star quality of food preparation from planning, purchasing, preparing, to plating. Interacted with Club members when preparing food at remote locations such as outside grilling, pasta nights, clam bakes, etc. Planned promotional menu additions based on seasonal pricing and product availability. Supply ordering and inventory. Hired, trained, scheduled and managed kitchen staff of 8-12. Monitored line processes to maintain consistency in quality, quantity and presentation.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Johnson & Wales University",
+      "url": "",
+      "area": "Culinary Arts",
+      "studyType": "Associate of Science",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Certified Food Safety Manager",
+      "date": "",
+      "issuer": "National Registry of Food Safety Professionals",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Culinary Skills",
+      "level": "",
+      "keywords": [
+        "Hands on knowledge of all phases of food preparation from casual to fine dining and catering",
+        "Food & Labor Cost Control",
+        "Banquet and catering menu planning, development, and service",
+        "Recipe development and standardization",
+        "Gluten Free food preparation",
+        "Certified Food Safety Manager",
+        "Food procurement, inventory and inventory control",
+        "Knowledge of P & L accountability",
+        "Kitchen equipment maintenance and repair",
+        "Customer service orientated",
+        "Employee hiring & training"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

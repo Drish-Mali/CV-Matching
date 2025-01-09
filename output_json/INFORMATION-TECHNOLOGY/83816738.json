@@ -1,0 +1,149 @@
+{
+  "basics": {
+    "name": "Sagun Pandey",
+    "label": "Information Technology Intern (Test Automation Engineer)",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "https://sagunpandey.com",
+    "summary": "Over 3 years of experience serving as a key contributor across all software development life cycle phases including analysis, architectural design, prototyping, development, and testing of applications using Java/J2EE technologies in various domains.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "sagunpandey",
+        "url": "https://linkedin.com/in/sagunpandey"
+      },
+      {
+        "network": "GitHub",
+        "username": "sagunpandey",
+        "url": "https://github.com/sagunpandey"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "ExtremeTix (Ticketing Solution Company)",
+      "position": "Information Technology Intern (Test Automation Engineer)",
+      "url": "",
+      "startDate": "2017-05-01",
+      "endDate": "2017-08-01",
+      "summary": "",
+      "highlights": [
+        "Created 'Test Automation Framework' for automation test scripts.",
+        "Converted manual test cases into automation smoke and regression suites.",
+        "Worked with the QA team in writing concise documentation to help configure the framework."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Java Full Stack Developer",
+      "url": "",
+      "startDate": "2014-05-01",
+      "endDate": "2016-06-01",
+      "summary": "",
+      "highlights": [
+        "Coded and debugged multi-tiered Java-based applications to provide enterprise solutions.",
+        "Developed a Java-based SDK and driver software for a card reader.",
+        "Fixed bugs and implemented improvement features using Java and J2EE on large scale projects."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Java Developer Intern",
+      "url": "",
+      "startDate": "2014-03-01",
+      "endDate": "2014-05-01",
+      "summary": "",
+      "highlights": [
+        "Core Java programming with Multithreading Exception Handling, File Handling, IO, Generics, and Java Collections.",
+        "Developed the entire MRP (Machine Readable Passport) Reading Module both backend and frontend."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Software Developer Intern",
+      "url": "",
+      "startDate": "2013-01-01",
+      "endDate": "2013-10-01",
+      "summary": "",
+      "highlights": [
+        "Designed and developed applications using Scrum methodology.",
+        "Developed CMS like system majorly based on PHP and MYSQL.",
+        "Responsible for implementing and hosting of prototype systems on test servers."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Lamar University",
+      "url": "",
+      "area": "Computer Science",
+      "studyType": "Master of Science",
+      "startDate": "",
+      "endDate": "2017",
+      "score": "4.0",
+      "courses": []
+    },
+    {
+      "institution": "Tribhuvan University",
+      "url": "",
+      "area": "Electronics and Communication Engineering",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "",
+      "endDate": "2013",
+      "score": "3.94",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Winner of National Robotics Competition, 'Yantra 1.0'",
+      "date": "2012-07-01",
+      "awarder": "Robotics Association of Nepal (RAN)",
+      "summary": ""
+    },
+    {
+      "title": "Outstanding Student Award",
+      "date": "2017-Fall",
+      "awarder": "Lamar University",
+      "summary": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Java/J2EE",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JavaScript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Web Development",
+      "level": "",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "AngularJS",
+        "ReactJS"
+      ]
+    },
+    {
+      "name": "Agile/Scrum",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": []
+}

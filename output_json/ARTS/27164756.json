@@ -1,0 +1,108 @@
+{
+  "basics": {
+    "name": "CO-FOUNDER/THERAPIST AND TEACHING ARTIST",
+    "label": "Mental Health Counselor",
+    "summary": "Mental Health Counselor specializing in Art and Play Therapies. Responsible self-starter who communicates well and is dedicated to improving the well-being of clients.",
+    "location": {
+      "city": "",
+      "countryCode": "United States"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Co- Founder/Therapist and Teaching Artist",
+      "startDate": "August 2014",
+      "endDate": "October 2015",
+      "summary": "Served as lead clinician for patients with bipolar, depression, anxiety and personality disorders. Referenced and used various therapy techniques, including psychodynamic, family systems, cognitive behavioral and lifespan integration psychotherapy."
+    },
+    {
+      "name": "Company Name",
+      "position": "CPS Specialist III",
+      "startDate": "June 2012",
+      "endDate": "March 2014",
+      "summary": "Effectively managed time and caseloads based on 50� sessions per week."
+    },
+    {
+      "name": "Company Name",
+      "position": "Therapist",
+      "startDate": "August 2008",
+      "endDate": "May 2011",
+      "summary": "Effectively managed time and caseloads based on 50� sessions per week."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Northcentral University",
+      "area": "Education Specialization in Special Education",
+      "startDate": "",
+      "endDate": "2020"
+    },
+    {
+      "institution": "Colorado Technical University",
+      "area": "Master of Science: Homeland Security",
+      "startDate": "",
+      "endDate": "2017"
+    },
+    {
+      "institution": "University of Southern California",
+      "area": "Master of Arts: Teaching",
+      "startDate": "",
+      "endDate": "2012"
+    },
+    {
+      "institution": "University of Pennsylvania",
+      "area": "Masters of: Social Work Specializations in Developmental Disabilities, Macro, and School",
+      "startDate": "",
+      "endDate": "2008"
+    },
+    {
+      "institution": "Rutgers University",
+      "area": "Bachelor of Arts: Urban Studies",
+      "startDate": "",
+      "endDate": "2006"
+    }
+  ],
+  "awards": [
+    {
+      "title": "James M. Gaffney Award",
+      "date": "2006",
+      "awarder": "",
+      "summary": "Received the James M. Gaffney Award."
+    }
+  ],
+  "certificates": [],
+  "publications": [
+    {
+      "name": "Saxon Mathematics and its Effects on Learning",
+      "publisher": "Rossier School of Education, University of Southern California",
+      "releaseDate": "2012",
+      "summary": "M.A.T. Dissertation."
+    },
+    {
+      "name": "Developing the Youth of Londonderry",
+      "publisher": "College of Arts and Sciences, Rutgers University",
+      "releaseDate": "2006",
+      "summary": "Undergraduate Dissertation"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Therapist Skills",
+      "keywords": [
+        "Suicide risk assessments",
+        "Knowledge of the ins and outs of Child Protective Services",
+        "Superior communication skills",
+        "Clinical documentation mastery",
+        "Parenting skills educator",
+        "Suicide precautions expertise",
+        "Dual diagnosis expertise"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

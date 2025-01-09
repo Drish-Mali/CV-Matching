@@ -1,0 +1,103 @@
+{
+  "basics": {
+    "name": "Anand Chikkegowdappa",
+    "label": "Services Engineer",
+    "email": "",
+    "phone": "+234-8123177630",
+    "url": "",
+    "summary": "Seeking a challenging and exciting job in a growth oriented industry were my potential for hard work and skills will be fully utilized",
+    "location": {
+      "address": "35,11TH cross road Kurubarahalli road, Muneshwara layout Laggere",
+      "postalCode": "560058",
+      "city": "Bangalore",
+      "countryCode": "IN",
+      "region": "Karnataka"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "COSCHARIS Group",
+      "position": "Services Engineer",
+      "url": "",
+      "startDate": "2010-01",
+      "endDate": "2013-03",
+      "summary": "Working as the Head General Goods. Started as a Technical for TVS Motorbikes. Service Centre manager looking after bike repair and servicing, spare parts, and customer service.",
+      "highlights": ["Headed the General Goods Division handling Motorbikes, air conditioners, television."]
+    },
+    {
+      "name": "Nirma International (U) LTD",
+      "position": "Services Centre Manager",
+      "url": "",
+      "startDate": "1994-01",
+      "endDate": "2007-01",
+      "summary": "Managed repair and servicing of TVS Motorbikes. Handled spare parts and customer service. Managed workshop activities and service certificates.",
+      "highlights": []
+    },
+    {
+      "name": "Zen Motors",
+      "position": "Services Engineer",
+      "url": "",
+      "startDate": "1990-01",
+      "endDate": "1994-01",
+      "summary": "Worked in the Service Department of the Company looking after the Services before and after the Sales of TVS Company Motorbikes. Looked after the Sales of TVS Motorbikes in addition to Services. Also, was looking after the Spares of TVS Motorbikes.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "F. B. INTERNATIONAL Computer School",
+      "url": "",
+      "area": "Computer Applications",
+      "studyType": "Diploma",
+      "startDate": "2002",
+      "endDate": "2002",
+      "courses": []
+    },
+    {
+      "institution": "KARANATAKA INFOTEK",
+      "url": "",
+      "area": "Data Entry",
+      "studyType": "Course",
+      "startDate": "1995",
+      "endDate": "1995",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Engineering",
+      "keywords": ["Agency", "consultation", "Clients", "Data Entry", "Engineer", "English", "Hindi", "lathe", "Repairs", "Sales", "Supervision", "television", "wiring"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": ""
+    },
+    {
+      "language": "Hindi",
+      "fluency": ""
+    },
+    {
+      "language": "Kannada",
+      "fluency": ""
+    },
+    {
+      "language": "Tamil",
+      "fluency": ""
+    },
+    {
+      "language": "Luganda",
+      "fluency": "African Language spoken in Uganda"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Professional Interest",
+      "keywords": []
+    }
+  ],
+  "references": [],
+  "projects": []
+}

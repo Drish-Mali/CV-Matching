@@ -1,0 +1,131 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Sous Chef",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Current General Manager of Jersey Mike's in Boca Park. I strive to make every business I'm employed by succeed beyond expectations. Sous chef 7 of the 11 years of cooking with experience managing my own lunches, my staff members under me. Successful at consistently delivering the highest quality food and service. I go the extra mile for any employer I work for.",
+    "location": {
+    },
+    "profiles": [
+    ]
+  },
+  "work": [
+    {
+      "name": "Jersey Mike's",
+      "position": "General Manager",
+      "url": "",
+      "startDate": "15 months ago",
+      "endDate": "",
+      "summary": "Increased sales by over 30%.",
+      "highlights": [
+        "Successfully grew current business by increasing sales over 30%."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Sous Chef",
+      "url": "",
+      "startDate": "06/2012",
+      "endDate": "08/2013",
+      "summary": "Carried out responsibilities of opening daily, preparing unique lunch specials, overseen operations to ensure productivity and success.",
+      "highlights": [
+        "Worked for this employer for a period of 4 years.",
+        "Never been fired in my life, I take pride in that.",
+        "Worked under Julius Kalman who was recently the Executive Chef of the Crown Plaza in San Antonio."
+      ]
+    }
+  ],
+  "volunteer": [
+   ],
+  "education": [
+    {
+      "institution": "Appalachian State University",
+      "url": "",
+      "area": "Business Administration",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "2008",
+      "score": "",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Hibriten High School",
+      "url": "",
+      "area": "General Studies",
+      "studyType": "High School Diploma",
+      "startDate": "",
+      "endDate": "2003",
+      "score": "",
+      "courses": [
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "3rd place - 2013 NC Fire on the Rock - Team Canyons",
+      "date": "2013",
+      "awarder": "",
+      "summary": "Cross-state competition of chefs/sous' from different restaurants on a cook off containing secret North Carolina local ingredients."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "ServSafe certified",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "TAM Card",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "Food Handler's Card",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "publications": [
+  ],
+  "skills": [
+    {
+      "name": "Leadership Skills",
+      "level": "",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Communication Skills",
+      "level": "",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Customer Relations",
+      "level": "",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Operations Management",
+      "level": "",
+      "keywords": [
+      ]
+    }
+  ],
+  "languages": [
+  ],
+  "interests": [
+  ],
+  "references": [
+  ],
+  "projects": [
+  ]
+}

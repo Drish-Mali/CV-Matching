@@ -1,0 +1,84 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Business Development Consultant",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Experienced in all aspects of sales cycle from business development, prospect pipeline building, lead creation, and close.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Business Development Consultant",
+      "url": "",
+      "startDate": "2015-07-01",
+      "endDate": "Current",
+      "summary": "Initiated and closed sales for a large independent insurance agency in Western Wisconsin. Used consultative selling skills to identify exposure to risk and tailored insurance policies to address those concerns. Managed customer accounts, built lasting relationships with customers, and grew account base within territory.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "P&C Producer and Sales Agent",
+      "url": "",
+      "startDate": "2010-07-01",
+      "endDate": "2015-07-01",
+      "summary": "Initiated and closed sales for a large independent insurance agency in Western Wisconsin. Used consultative selling skills to identify exposure to risk and tailored insurance policies to address those concerns. Managed customer accounts, built lasting relationships with customers, and grew account base within territory.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Sales Representative",
+      "url": "",
+      "startDate": "2006-07-01",
+      "endDate": "2010-07-01",
+      "summary": "Initiated and closed sales for a commercial and residential roofing contractor. Established positive relations with customers and developed a timeline for project completion. Arranged delivery of materials, availability of labor, and managed projects through completion.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "UNIVERSITY OF MINNESOTA DULUTH",
+      "url": "",
+      "area": "Liberal Arts Environmental Studies Geography",
+      "studyType": "Bachelor of Arts",
+      "startDate": "",
+      "endDate": "2006-05-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Skills",
+      "level": "",
+      "keywords": [
+        "agency",
+        "delivery",
+        "insurance",
+        "materials",
+        "policies",
+        "roofing",
+        "selling",
+        "sales"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

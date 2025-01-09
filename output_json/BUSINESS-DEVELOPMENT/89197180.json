@@ -1,0 +1,103 @@
+{
+  "basics": {
+    "name": "",
+    "label": "International Business Development",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Results-oriented International Sales and Customer Service professional with diverse background in management, international sales, marketing, logistics and customer service. Dedicated to providing excellent customer service and making operational and procedural improvements.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "",
+      "region": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "International Business Development",
+      "url": "",
+      "startDate": "2013-11-01",
+      "endDate": "Current",
+      "summary": "Contacted new and existing customers to discuss how specific products could meet their needs. Identified issues with existing marketing material to drive process improvements.",
+      "highlights": [
+        "Identified, coordinated and participated in client relationship-building activities and meetings", 
+        "Answered customer questions regarding products, prices and availability", 
+        "Successfully prepared product and packaging for export readiness."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [ 
+    { 
+      "institution": "Irvine Valley College", 
+      "url": "", 
+      "area": "Managerial Finance and Accounting", 
+      "studyType": "Associate of Arts", 
+      "startDate": "", 
+      "endDate": "", 
+      "score": "", 
+      "courses": []
+    },
+    { 
+      "institution": "Autonomous University of Guadalajara", 
+      "url": "", 
+      "area": "Accounting", 
+      "studyType": "Bachelor of Arts", 
+      "startDate": "", 
+      "endDate": "", 
+      "score": "", 
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Inventory Control and Order Data Entry",
+      "date": "",
+      "issuer": "State of the Arts Business Works",
+      "url": ""
+    },
+    {
+      "name": "Selling to Walmart Mexico and Central America",
+      "date": "",
+      "issuer": "8th and Walton",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "International Business Development",
+      "level": "",
+      "keywords": [
+        "Professional Ethics",
+        "Work flow analysis",
+        "Negotiation skills",
+        "Product development",
+        "Staff training and development",
+        "International Sales and Foreign Trade",
+        "Project management",
+        "Food and Beverage Industry Experience",
+        "Territory forecasting"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "French",
+      "fluency": "Reading competency"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

@@ -1,0 +1,116 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Executive Chef",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Talented executive chef with 22 years of experience running a quality kitchen. Train and manage kitchen personnel and coordinate all related culinary activities, including estimating food consumption and purchasing food, selecting and developing recipes, standardizing recipes for consistent quality, establishing presentation and quality standards, and ensuring proper safety and sanitation in the kitchen. Recognized as an effective leader with strong strategic planning, communication, and staff management skills.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": [
+    ]
+  },
+"work": [
+  {
+    "name": "Company Name",
+    "position": "Executive Chef",
+    "url": "",
+    "startDate": "07/2014",
+    "endDate": "Current",
+    "summary": "Manage the daily operations of a restaurant with a staff of 35 that generates $5 million per year in revenue. Supervise training new hires and retraining existing staff on food presentation techniques. Oversee staff schedules and quality control. Regulate inventory controls, food cost (32%) labor cost (8%) and kitchen sanitation. Ensure excellence in guest satisfaction through effective training of staff."
+
+  },
+  {
+    "name": "Company Name",
+    "position": "Executive Chef",
+    "url": "",
+    "startDate": "12/2013",
+    "endDate": "05/2014",
+    "summary": "Opened a new operation with a staff of 50, maintained a labor cost of 8.5% and food cost of 33%. Implemented a training schedule for all new kitchen staff."
+  }
+],
+"volunteer": [
+],
+"education": [
+  {
+    "institution": "Sullivan University",
+    "url": "",
+    "area": "Culinary Arts",
+    "studyType": "Associate of Arts",
+    "startDate": "",
+    "endDate": "",
+    "score": "",
+    "courses": [
+      "Food Preparation, Kitchen Management, Patisserie and Confectionery, International Cuisine"
+    ]
+  },
+  {
+    "institution": "Indiana University",
+    "url": "",
+    "area": "",
+    "studyType": "",
+    "startDate": "",
+    "endDate": "",
+    "score": "",
+    "courses": [
+    ]
+  }
+],
+"awards": [
+],
+"skills": [
+  {
+    "name": "Butchery",
+    "level": "High",
+    "keywords": [
+    ]
+  },
+  {
+    "name": "High volume production capability",
+    "level": "High",
+    "keywords": [
+    ]
+  },
+  {
+    "name": "Microsoft Excel",
+    "level": "High",
+    "keywords": [
+    ]
+  },
+  {
+    "name": "Five years of experience with R.S.I.",
+    "level": "High",
+    "keywords": [
+    ]
+  },
+  {
+    "name": "Proficient in MenuLink and ShiftNote",
+    "level": "High",
+    "keywords": [
+    ]
+  }
+],
+"languages": [
+  {
+    "language": "English",
+    "fluency": "Native speaker"
+  },
+  {
+    "language": "Spanish",
+    "fluency": "Fluent"
+  }
+],
+"interests": [
+],
+"references": [
+],
+"projects": [
+]
+}

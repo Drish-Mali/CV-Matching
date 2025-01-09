@@ -1,0 +1,152 @@
+{
+  "basics": {
+    "name": "Information Technology Bureau Deputy Director",
+    "label": "Senior Information Technology Professional",
+    "email": "",
+    "phone": "",
+    "summary": "Senior Information Technology Professional with more than fifteen years of experience directing and managing large and complex IT Operations and Data Center.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Information Technology Bureau Deputy Director",
+      "startDate": "January 2010",
+      "endDate": "Current",
+      "summary": "Oversee and lead the Infrastructure & Operations IT Service, 24x7.",
+      "highlights": [
+        "Oversees a department of 140 contractors and employees.",
+        "Manages infrastructure data network of 9,300 users, 250 sites.",
+        "Evaluates direct cutting edge technology solutions for the implementation of 53 IT projects."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Information Technology Director",
+      "startDate": "October 2009",
+      "endDate": "January 2010",
+      "summary": "Provided technical leadership to a data center and technical supervision of analysts, programmers, database administrators, and network as well as the support personnel.",
+      "highlights": [
+        "Managed Data Center for 900 employees.",
+        "Developed an innovation and technological portfolio of IT projects in Vocational Rehabilitation Administration.",
+        "Supported department documentation digitalization initiatives at the Department of Labor."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Senior IT Project Manager",
+      "startDate": "July 2004",
+      "endDate": "August 2009",
+      "summary": "Delivered technical direction for a multimillion dollar Monitoring and Controlling System.",
+      "highlights": [
+        "The total amount managed was 185 plants of filtration water and sewer water treatment with 1,540 facilities through the PR Island.",
+        "SCADA - Supervisory Control and Data Acquisition. Technical supervised the software analyst, programmers and database administrators during the software development and implementations of Department of Health compliance systems."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Capella University",
+      "area": "Organization and Management",
+      "studyType": "Ph.D.",
+      "startDate": "unknown",
+      "endDate": "unknown",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Inter American University",
+      "area": "Educational Computing",
+      "studyType": "unknown",
+      "startDate": "unknown",
+      "endDate": "unknown",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "University of Puerto Rico",
+      "area": "Finance & Computers",
+      "studyType": "BSBA",
+      "startDate": "unknown",
+      "endDate": "unknown",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Computerworld Honors Award Laureate Medal",
+      "date": "April 2001",
+      "awarder": "California",
+      "summary": "Awarded for IT achievements"
+    },
+    {
+      "title": "Achievement Award",
+      "date": "June 2000",
+      "awarder": "Chamber of Representatives of Puerto Rico",
+      "summary": "Awarded for IT achievements"
+    },
+    {
+      "title": "AITP Distinguished Information Science Award in the Government Sector",
+      "date": "October 2000",
+      "awarder": "Association of Information Technology Professionals, Puerto Rico Chapter",
+      "summary": "Awarded for IT achievements"
+    }
+  ],
+  "skills": [
+    {
+      "name": "IBM Enterprise z System & x Servers Microsoft Windows",
+      "level": "",
+      "keywords": [
+        "IBM",
+        "Enterprise",
+        "z System",
+        "x Servers",
+        "Microsoft Windows"
+      ]
+    },
+    {
+      "name": "Operating Systems (Microsoft Windows, z/OS, zVM, AIX, SUSE Linux)",
+      "level": "",
+      "keywords": [
+        "Microsoft Windows",
+        "z/OS",
+        "zVM",
+        "AIX",
+        "SUSE Linux"
+      ]
+    },
+    {
+      "name": "Communication & Security",
+      "level": "",
+      "keywords": [
+        "Frame Relay",
+        "MPLS",
+        "FCIP",
+        "Enterasys",
+        "CISCO",
+        "Fortinet"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Bilingual"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Bilingual"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

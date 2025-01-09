@@ -1,0 +1,84 @@
+{
+  "basics": {
+    "name": "FirstName LastName",
+    "email": "",
+    "phone": "",
+    "summary": "Recent graduate with BA in Business Administration looking to obtain a position as an Administrative Assistant in which my organizational abilities can be fully utilized. Hard working and goal-oriented professional with four years of experience seeking a to achieve career growth where I will get an opportunity to utilize my skills and abilities in handling the clerical and administrative support work, and activities.",
+    "location": {
+      "city": "City",
+      "region": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Enumerator",
+      "startDate": "2016-04-01",
+      "summary": "Collect demographic, economic and housing data on behalf of the U.S. Census Bureau. Responsible for canvassing neighborhoods, then documenting and reporting the information. Conducts surveys about the U.S. population, economy, governments and communities. Responsible for verifying household addresses and ensuring that all maps and address lists are correct. All collected census information, as well as documentation of hours, miles and expenses encountered Assist residents by reading forms and answering questions about the census.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Healthcare Advocate",
+      "startDate": "2015-10-01",
+      "endDate": "2016-03-01",
+      "summary": "see source for full data",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Receptionist II",
+      "startDate": "2013-02-01",
+      "endDate": "2015-10-01",
+      "summary": "Performed varies administrative tasks requiring the exercise of discretion and judgment and provided administrative support to faculty and staff in the Critical Care Department...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Front office Assistant",
+      "startDate": "2012-11-01",
+      "endDate": "2013-01-01",
+      "summary": "Greeted patients. Answering multi-line phone and route to appropriate department. Scheduling and conforming the appointments...",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "American InterContinental University",
+      "area": "Healthcare Management",
+      "studyType": "Bachelor of Business Administration",
+      "startDate": "2013-01-01",
+      "endDate": "2016-05-01"
+    },
+    {
+      "institution": "Sanford Brown College",
+      "area": "Medical Billing and Coding",
+      "studyType": "Certificate",
+      "endDate": "2011-04-01"
+    },
+    {
+      "institution": "Aids for Home and Healthcare",
+      "area": "Nursing Assistant",
+      "studyType": "Certificate",
+      "endDate": "2010-06-01"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Administrative Support",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Customer Service",
+      "level": "Advanced"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": []
+}

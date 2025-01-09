@@ -1,0 +1,113 @@
+{
+  "basics": {
+    "name": "Freelance IT Consultant",
+    "label": "Information Technology Specialist/Consultant",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Highly skilled, results-driven Information Technology Specialist/Consultant with experience in business operations, infrastructure management, software/hardware support, high/low end PC and Microsoft Server administration, and software development.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "US",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Freelance IT Consultant",
+      "position": "",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Worked closely with technology vendors and distributors. Designed and implemented PC and laptop re-imaging process. Provided technical support and problem resolution.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Information Technology Specialist",
+      "url": "",
+      "startDate": "2012-04-01",
+      "endDate": "current",
+      "summary": "Acting as liaison between departments, developing and managing project plans, increasing efficiency of technologies and processes, executing business plan, training employees, upgrading network hardware, advising and assisting in IT infrastructure etc.",
+      "highlights": []
+    },
+    {
+      "name": "City",
+      "position": "Information Technology Consultant Network Solution/Owner",
+      "url": "",
+      "startDate": "2007-04-01",
+      "endDate": "2012-12-01",
+      "summary": "Provided consultation for business software and hardware solutions. Acted as liaison between clients, vendors and product distributors. Configured LAN's and WLAN's. Designed, tested, installed and monitored client networks etc.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Help Desk Specialist",
+      "url": "",
+      "startDate": "2011-08-01",
+      "endDate": "2012-04-01",
+      "summary": "Provided technical support for all network applications. Served as an operating system expert. Improved reliability of education software, systems and databases etc.",
+      "highlights": []
+    } 
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Minnesota School of Business",
+      "url": "",
+      "area": "Computer Science",
+      "studyType": "Associate of Applied Science",
+      "startDate": "",
+      "endDate": "2012",
+      "score": "",
+      "courses": ["Application Development Android", "C++", "C#", "Java", "PHP", "SQL and Visual Basic development", "Business Management and Development", "Microsoft Network Administration", "Microsoft Office 2010"]
+    } 
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Active Directory",
+      "level": "High",
+      "keywords": []
+    },
+    {
+      "name": "Application Development",
+      "level": "High",
+      "keywords": []
+    },
+    {
+      "name": "Business Management and Development",
+      "level": "High",
+      "keywords": []
+    },
+    {
+      "name": "Consulting",
+      "level": "High",
+      "keywords": []
+    },
+    {
+      "name": "Network Administration",
+      "level": "High",
+      "keywords": []
+    },
+    {
+      "name": "MS SQL",
+      "level": "High",
+      "keywords": []
+    },
+    {
+      "name": "Technical Support",
+      "level": "High",
+      "keywords": []
+    } 
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

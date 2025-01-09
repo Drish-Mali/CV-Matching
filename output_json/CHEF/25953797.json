@@ -1,0 +1,55 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Head Chef",
+    "email": "",
+    "phone": "",
+    "summary": "Culinary professional seeking employment in a professional kitchen to utilize education and further experience. 4+ years� experience, dedicated, and passionate worker determined to help contribute as a member of the culinary staff.", 
+    "location": {
+      "address": "",
+      "city": "",
+      "region": "",
+      "postalCode": "",
+      "countryCode": ""
+    }
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Head Chef",
+      "startDate": "2014-09",
+      "endDate": "2016-01",
+      "summary": "Developed menus, took monthly inventory, made weekly kitchen schedule, responsible for all ordering."
+    },
+    {
+      "name": "Company Name",
+      "position": "Line Cook",
+      "startDate": "2011-05",
+      "endDate": "2014-09"
+    },
+    {
+      "position": "Intern",
+      "startDate": "2011-02",
+      "endDate": "2011-04",
+      "summary": "Worked as part of a team preparing ingredients and dishes to be served at a reputable restaurant."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Robert Morris University",
+      "area": "Culinary Arts",
+      "studyType": "Associate of Applied Science Degree",
+      "startDate": "2011-03",
+      "endDate": "2011-05",
+      "score": "3.87",
+      "courses": ["Food Service Sanitation ServSafe ServSafe Certification"]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Cooking Skills",
+      "level": "",
+      "keywords": ["Arts", "Inventory"]
+    }
+  ]
+}

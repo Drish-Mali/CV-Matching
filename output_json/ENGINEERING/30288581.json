@@ -1,0 +1,95 @@
+{
+  "basics": {
+    "name": "Mechanical Engineering Tutor",
+    "label": "Mechanical Engineer with Tutoring Experience",
+    "email": "",
+    "phone": "",
+    "summary": "Driven and a self-motivated Mechanical Engineer with experience teaching Mechanical Engineering courses to undergraduate students. Seeking opportunities to use those concepts in the field of Construction and Management.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Mechanical Engineering Tutor",
+      "startDate": "2014-09-01",
+      "endDate": "2015-09-01",
+      "summary": "Tutored Mechanics, Probability and Statistics, MATLAB, Operations Research, Calculus"
+    },
+    {
+      "name": "Company Name",
+      "position": "Assistant Professor",
+      "startDate": "2013-07-01",
+      "endDate": "2014-04-01",
+      "summary": "Developed coursework and took lectures for 120 undergraduate students. Subjects taught Heat and Mass Transfer, Strength of Materials."
+    },
+    {
+      "name": "Company Name",
+      "position": "Intern",
+      "startDate": "2010-04-01",
+      "endDate": "2013-08-01",
+      "summary": "Worked on design project of central chilled water plant system layout for a 45000sq.ft. Retail outlet. Studied the project life cycle management of the System. Headed the Intern team and presented weekly progress reports to the Lead Design Engineer"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Akanksha Foundation",
+      "position": "Volunteer Teacher",
+      "startDate": "2008-05-01",
+      "endDate": "2013-08-01",
+      "summary": "Helped students from the underprivileged sections of the society to understand basic concepts of Mathematics. Coach for their Cricket and Field Hockey teams"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Arizona State University",
+      "area": "Industrial Engineering",
+      "studyType": "Master",
+      "startDate": "",
+      "endDate": "2016-05-01",
+      "score": "3.15",
+      "courses": []
+    },
+    {
+      "institution": "University of Mumbai",
+      "area": "Mechanical Engineering",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "2011-05-01",
+      "score": "3.9",
+      "courses": ["Sustainable Energy Sources", "Project Life Cycle Management", "Design of Engineering Experiments", "Probability and Statistics", "Heat and Mass Transfer"]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Mechanical Enginering",
+      "level": "",
+      "keywords": [
+        "AutoCad",
+        "MATLAB",
+        "MS Office",
+        "MySQL",
+        "Optimization",
+        "Physics",
+        "Research",
+        "Statistics",
+        "VBA"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [
+    {
+      "name": "Volunteering",
+      "keywords": ["Teaching", "Cricket", "Field Hockey"]
+    }
+  ],
+  "references": [],
+  "projects": []
+}

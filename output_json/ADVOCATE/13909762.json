@@ -1,0 +1,133 @@
+{
+"basics": {
+    "name": "",
+    "label": "Client Relations Advocate",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Seeking a challenging and rewarding career in Customer Service that would utilize acquired knowledge, training , and skills to achieve career growth potential and advancement. Dedicated Customer Service Representative motivated to maintain customer satisfaction and contribute to company success.",
+    "location": {
+      "city": "City",
+      "countryCode": "US"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Client Relations Advocate",
+      "startDate": "2009-10",
+      "endDate": "2015-03",
+      "summary": "Answer telephones and give information to callers, take messages, or transfer calls to appropriate individuals."
+    },
+    {
+      "name": "Company Name",
+      "position": "Respite Care Provider",
+      "startDate": "2005-04",
+      "endDate": "2011-02",
+      "summary": "Provide care for mentally disturbed, delinquent, or handicapped children. Operate in-house day-care centers within businesses."
+    },
+    {
+      "name": "Company Name",
+      "position": "Customer Service",
+      "startDate": "2000-05",
+      "endDate": "2006-10",
+      "summary": "Direct and coordinate activities of businesses or departments concerned with the production, pricing, sales, or distribution of products."
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Maric College",
+      "url": "",
+      "area": "Medical Coding and Billing",
+      "studyType": "Certificate",
+      "startDate": "",
+      "endDate": "2007-09",
+      "courses": []
+    },
+    {
+      "institution": "C. Crawford Senior High School",
+      "url": "",
+      "area": "",
+      "studyType": "High School Diploma",
+      "startDate": "",
+"endDate": "2000-06",
+      "courses": []
+    },
+    {
+      "institution": "San Diego Job Corps",
+      "url": "",
+      "area": "Office Business",
+      "studyType": "Certificate",
+      "startDate": "",
+      "endDate": "2002-06",
+      "courses": []
+    },
+    {
+      "institution": "South Western College",
+      "url": "",
+      "area": "Child Development",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Medical Coding and Billing Certificate",
+      "date": "2007-09",
+      "issuer": "Maric College",
+      "url": ""
+    },
+    {
+      "name": "Office Business Certificate",
+      "date": "2002-06",
+      "issuer": "San Diego Job Corps",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Customer Service",
+      "level": "Proficient",
+      "keywords": [
+        "Greet",
+        "Telephone Customer Service",
+        "Cash",
+        "Credit",
+        "Sales",
+        "Vouchers",
+        "Optical",
+        "Payments",
+        "Training",
+        "Inventory",
+        "Billing",
+        "Forecasts",
+        "Client Relations",
+        "Correspondence",
+        "Databases",
+        "Filing",
+        "Telephones",
+        "ScheduleAppointments",
+        "Scheduling",
+        "Switchboard",
+        "Coding",
+        "Medical Coding"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Bilingual English/Spanish written and Spoken"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

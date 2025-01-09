@@ -1,0 +1,127 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Banking Professional",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Hands-on, client-oriented banking professional who implements creative investment strategies and is dedicated to continuous improvement. Entry level banking focused on applying excellent research skills and writing ability to a position in business management. Enthusiastic business major with excellent communication skills and strong motivation to succeed.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Banking",
+      "url": "",
+      "startDate": "2016-11-01",
+      "endDate": "",
+      "summary": "Opened new customer accounts, including checking, savings and lines of credit. Balanced daily cash deposits and bank vault inventory with a zero error rate. Processed cash withdrawals. Researched and resolved customer issues on personal savings, checking and lines of credit accounts. Delivered prompt, accurate and excellent customer service. Researched banking guidelines and statutory requirements to stay updated on new laws and applications.",
+      "highlights": [
+        "Collaborated with prospective clients to prepare efficient product marketing strategies and drive business development."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Banking Employee",
+      "url": "",
+      "startDate": "2014-05-01",
+      "endDate": "2015-08-01",
+      "summary": "Opened new customer accounts, including checking, savings and lines of credit. Balanced daily cash deposits and bank vault inventory with a zero error rate. Processed cash withdrawals. Researched and resolved customer issues on personal savings, checking and lines of credit accounts. Delivered prompt, accurate and excellent customer service. Researched banking guidelines and statutory requirements to stay updated on new laws and applications.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Intern",
+      "url": "",
+      "startDate": "2013-06-01",
+      "endDate": "2013-09-01",
+      "summary": "Managing and editing the company's online area and the educative software (Moodle). Developing and preparing accounting, statistics and Office subject papers (Word, Excel,PowerPoint).",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Banking Intern",
+      "url": "",
+      "startDate": "2012-06-01",
+      "endDate": "2012-09-01",
+      "summary": "Opened new customer accounts, including checking, savings and lines of credit. Balanced daily cash deposits and bank vault inventory with a zero error rate. Processed cash withdrawals. Researched and resolved customer issues on personal savings, checking and lines of credit accounts. Delivered prompt, accurate and excellent customer service. Researched banking guidelines and statutory requirements to stay updated on new laws and applications.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Universidad Carlos III de Madrid",
+      "url": "",
+      "area": "International Trade",
+      "studyType": "Master of Science",
+      "startDate": "2014",
+      "endDate": "",
+      "score": "",
+      "courses": ["International Trade Policies", "International trade laws"]
+    },
+    {
+      "institution": "Universidad P�blica de Navarra",
+      "url": "",
+      "area": "Business Administration and Direction",
+      "studyType": "Bachelor of Science",
+      "startDate": "2013",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Banking",
+      "level": "",
+      "keywords": [
+        "Cash handling",
+        "Financial analysis",
+        "Spanish speaking",
+        "MS Excel expert",
+        "MS Office proficiency",
+        "Analytical",
+        "Team leadership",
+        "Financial reporting",
+        "Excellent communication skills",
+        "Loan operations",
+        "Strong lead development skills",
+        "Managing multiple priorities",
+        "Business negotiation",
+        "Identifying risks",
+        "Client Interface"
+      ]
+    },
+    {
+      "name": "Sales Software",
+      "level": "",
+      "keywords": ["Salesforce.com", "TapScan"]
+    },
+    {
+      "name": "Public Relations Software",
+      "level": "",
+      "keywords": ["Bacon's Mediasource", "Factiva"]
+    },
+    {
+      "name": "Desktop Publishing Software",
+      "level": "",
+      "keywords": ["Photoshop", "Illustrator", "HTML"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

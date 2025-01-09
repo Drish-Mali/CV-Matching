@@ -1,0 +1,97 @@
+{
+  "basics": {
+    "name": "Director Business Development",
+    "label": "Sales and Business Development",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Specializing in sales related business, global account management and new business development. Provide proven results-based and relationship-building skills to a dynamic sales organization and combine entrepreneurial drive with business-management skills to propel gains in revenue, market share and profit performance. Employ extensive International experience and in-depth knowledge of Aerospace & Defense, Computing, Industrial and Telecom markets. Cultivate excellent relationships with existing customers and new prospects.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "US",
+      "region": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Director Business Development",
+      "startDate": "2007-12",
+      "endDate": "2014-08",
+      "summary": "Generated several new accounts by implementing effective networking and marketing strategies increasing sales to $120M while maintaining targeted profit metrics. Developed innovative business plans to expand vertical products offerings. Implemented account plans to assure JDM/ODM computing business positioning company for $100M new market growth. Developed global account strategy for key Aerospace and Defense accounts.",
+      "highlights": [
+        "Managed key Computing & Storage accounts resulting in revenue increase from $120M to $480M while exceeding 4% profitability targets.",
+         "Achieved key customer Supplier of the year and Strategic Partnership awards for 2 consecutive years.", 
+         "Developed key strategies to expand market share by utilizing end to end vertical integration solutions."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Regional Account Manager",
+      "startDate": "2001-12",
+      "endDate": "2007-12",
+      "summary": "Developed several new accounts and provided regional sales leadership of the System Development Group. Directed activity to assure new customer development and financial sales target were achieved. Developed 5 new customers and increased revenue from $10M to $350 annually and significantly exceeded profitability targets.",
+      "highlights": [
+        "Achieved Club 1 sales award which recognized top 5% of company sales representatives."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Director of Sales",
+      "startDate": "1991-07",
+      "endDate": "2001-11",
+      "summary": "Developed the initial sales strategy to propel new revenue at 20% year over year growth rate for the Interconnect and Systems Solution divisions while maintaining 8% profit targets. Directed North America sales staff and developed annual operating to support 10X increase in new customer. Provide annual budget sales input and maintain customer forecast planning and service targets. Team leader for PCB Fab acquisition strategy.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Quality Manager",
+      "startDate": "1981-05",
+      "endDate": "1991-05",
+      "summary": "Managed the quality assurance staff for PCB and Interconnect products. Maintained budgets and cost of quality targets. Set up the statistical process control procedures and quality assurance programs in compliance to Telecom standards. Created the initial vendor qualification process for outsourcing of the printed circuit board product. Developed Procurement quality strategy for PCB outsourcing.",
+      "highlights": []
+    }
+  ],
+ "volunteer": [],
+ "education": [
+    {
+      "institution": "California University",
+      "area": "Industrial Education",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Sales Transformation - Certificate of Achievement",
+      "date": "",
+      "issuer": "CRM Training and Certification (SalesForce.com)",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Sales",
+      "level": "",
+      "keywords": [
+        "Pcb", 
+        "Increase", 
+        "Account Manager", 
+        "New Accounts", 
+        "Budget"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

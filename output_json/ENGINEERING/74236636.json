@@ -1,0 +1,146 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Engineering Intern",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "To contribute my skills and experience to the further the development of an organization and achieve growth in my professional career path.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "State",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Engineering Intern",
+      "url": "",
+      "startDate": "2015-09",
+      "endDate": "Current",
+      "summary": "Performs complex engineering designs for the preparation of preliminary and final engineering plans...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Preload Supervisor",
+      "url": "",
+      "startDate": "2011-04",
+      "endDate": "2015-09",
+      "summary": "Managed department resources to ensure maximum output...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Journeyman Plumber/Pipefitter- Commercial",
+      "url": "",
+      "startDate": "2007-02",
+      "endDate": "2010-06",
+      "summary": "Installed proper plumbing and pipefitting installation on The City Center Project...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Journeyman Plumber/Pipefitter",
+      "url": "",
+      "startDate": "2004-04",
+      "endDate": "2007-02",
+      "summary": "Preformed proper installation of plumbing/pipefitting installation on The Blue Green Club 36 Time Share...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Helper Plumber",
+      "url": "",
+      "startDate": "2002-01",
+      "endDate": "2004-04",
+      "summary": "Aided in the installation of underground, 2nd rough and finish trim with the direction of a Journeymen level Plumber...",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "San Diego State University",
+      "url": "",
+      "area": "Civil Engineering",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "2017",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "PMP Institute",
+      "url": "",
+      "area": "Project Management",
+      "studyType": "Professional Project Manager BootCamp",
+      "startDate": "2008",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Local 525 Plumbing Apprenticeship Hall",
+      "url": "",
+      "area": "Plumbing/Pipe Fitting",
+      "studyType": "Journeyman License",
+      "startDate": "2004",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Vincennes University/Purdue University ATC",
+      "url": "",
+      "area": "Power Plant",
+      "studyType": "Associate of Science",
+      "startDate": "",
+      "endDate": "2002",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "NITC Plumbing/Pipe Fitting Journeyman License",
+      "date": "2004",
+      "issuer": "Local 525 Plumbing Apprenticeship Hall",
+      "url": ""
+    },
+    {
+      "name": "Med-Gas Certified",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Proficient in Microsoft Word, Excel, Spreadsheet",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Ability to type in a excess of 50+ WPM with minimal error",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Working knowledge of AutoCad 2015 with 3D rendering and Micro station",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

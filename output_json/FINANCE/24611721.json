@@ -1,0 +1,99 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Human Resource / Finance Analyst",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Human Resource Professional: Seeking a challenging position that will allow me to grow professionally, which requires me to utilize my strong educational, organization, and excellent interpersonal skills.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Human Resource/ Finance Analyst",
+      "url": "",
+      "startDate": "2013-06-01",
+      "endDate": "Current",
+      "summary": "Provide support to Columbia University community... Provide accurate trending data; representing the university factually and professionally. Knowledgeable of Columbia University's Human Resource policies, Hiring and recruiting, Workplace notices, Labor Laws, and other essential information.",
+      "highlights": ["Microsoft Office Suite (PeopleSoft, Outlook,Word, Excel, Power Point, Publisher)"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Human Resource Supervisor/Hiring Specialist",
+      "url": "",
+      "startDate": "2011-06-01",
+      "endDate": "2013-04-01",
+      "summary": "Responsible for supervising a group of over 120 employees and clients... Maintained accurate client files and personnel files. Processed and filed documentation accurately... oversaw and tracked the company benefits plans and researched new benefit plans. Assisted with administrative duties as directed by the Director.",
+      "highlights": ["Recruitment of employees, contractors, per-diem and interns", "Employee development and relations", "Keeping up with state, federal and local employment legislation laws", "Handling the duties of accounts payable, accounts receivable, and duties of payroll department"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Case Manager/ Counselor",
+      "url": "",
+      "startDate": "2009-06-01",
+      "endDate": "2011-06-01",
+      "summary": "In charge of 80+ cases for women and families in the homeless shelter system... Worked with Dress to Success to help clients dress properly for job interviews. Responsible for overseeing specific investigative cases... Provided immediate crisis response services on call 24/7.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "DeVry University",
+      "url": "",
+      "area": "Human Resource Management",
+      "studyType": "Masters",
+      "startDate": "",
+      "endDate": "2015",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Le Moyne College",
+      "url": "",
+      "area": "Spanish Communications",
+      "studyType": "Bachelor of Arts",
+      "startDate": "",
+      "endDate": "2009",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Technical Skills",
+      "level": "",
+      "keywords": ["Microsoft Office Suite", "PeopleSoft", "Outlook", "Excel", "Power Point", "Publisher", "Accounts Payable", "Accounts Receivable", "Human Resource Policies", "Hiring and Recruiting"]
+    },
+    {
+      "name": "Interpersonal Skills",
+      "level": "",
+      "keywords": ["Customer Service", "Conflict Resolution"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "volunteer": []
+}

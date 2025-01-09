@@ -1,0 +1,80 @@
+{
+  "basics": {
+    "name": "Anonymous",
+    "label": "Occupational Therapist",
+    "summary": "Highly motivated and accomplished Business Professional with 10+ years' experience in providing leadership and management to diverse teams while facilitating strategies for growth and profitability.",
+    "skills": ["Operational Management", "Computer Skills", "Client Development", "Project Management", "Program Development", "Finance Analysis", "Training & Development", "Customer Service", "Organizational Development", "Presentation Skills", "Excellent Communication Skills", "Business Management skills", "Computer Expertise", "Problem Solving", "Management by Mentoring", "Business Operations", "Customer & Personal Service"]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Occupational Therapist",
+      "startDate": "2014-02-01",
+      "summary": "Prescribing and implementing occupational therapy services to pediatric population of 0-21 yrs. Administering and interpreting evaluation needed for treatment of fine, oral, and gross motor skills and sensory dysfunction. Prescribing, Fitting, and training of medical devices for disabled persons."
+    },
+    {
+      "name": "Company Name",
+      "position": "Senior Director of Operations",
+      "startDate": "2008-07-01",
+      "endDate": "2013-09-01",
+      "summary": "Responsible for the operational oversight of ancillary services product line; including home health, outpatient rehabilitation, private duty nursing, skilled nursing, and premium programs, within multiple regions encompassing direct supervision of regional directors of operations, home health administrators, sales and marketing, recruitment teams, compliance, and in direct supervision of over 200 plus employees."
+    },
+    {
+      "name": "Company Name",
+      "position": "Healthcare Coordinator",
+      "startDate": "2004-01-01",
+      "endDate": "2008-01-01",
+      "summary": "Prescribing and implementing occupational therapy services to adult and geriatric population. Administering and interpreting evaluation needed for treatment of overall wellness, physical dysfunction, gross motor, endurance, memory, muscular, and sensory dysfunction. Management of staffing, team building, caseload development, integrations, and compliance."
+    },
+    {
+      "name": "Building Bridges Therapy and Learning Centers",
+      "position": "Co-Owner, Therapy Director, and Occupational Therapist",
+      "summary": "Created strategies to enhance company deliverables for clinicians, generating additional revenue streams to capture new customers, increase market share and increase customer satisfaction."
+    },
+    {
+      "name": "Anonymous",
+      "position": "Regional Director",
+      "summary": "Responsible for all operational, philosophical, and technical training and program development in Home Health, Outpatient, Hospice, and Skilled Nursing settings."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Midwestern University",
+      "area": "Occupational Therapy",
+      "studyType": "Bachelor of Science",
+      "startDate": "2000-01-01",
+      "endDate": "2004-05-01",
+      "score": "3.6",
+      "courses": ["Occupational Therapy"]
+    },
+    {
+      "institution": "University of Phoenix",
+      "area": "Healthcare Management",
+      "studyType": "Masters of Business Administration",
+      "startDate": "2012-01-01",
+      "endDate": "2014-06-01",
+      "score": "3.89",
+      "courses": ["Healthcare Management"]
+    },
+    {
+      "institution": "Unknown",
+      "area": "Accounting/CPA",
+      "studyType": "Graduate Certificate",
+      "startDate": "2014-07-01",
+      "endDate": "2015-03-01",
+      "courses": ["Accounting/CPA"]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Occupational Therapy",
+      "level": "Expert",
+      "keywords": ["Pediatric", "Adult", "Geriatric", "Fine Motor Skills", "Gross Motor Skills", "Sensory Dysfunction"]
+    },
+    {
+      "name": "Management",
+      "level": "Expert",
+      "keywords": ["Operation oversight", "Ancillary services", "Home health", "Outpatient rehabilitation", "Private duty nursing", "Skilled nursing"]
+    }
+  ]
+}

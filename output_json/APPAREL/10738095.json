@@ -1,0 +1,107 @@
+{
+  "basics": {
+    "name": "",
+    "label": "INDEPENDENT BEAUTY ADVISOR",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "To gain an entry-level position in the customer service industry with room for growth and advancement that will lead to a lasting relationship.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Independent Beauty Advisor",
+      "url": "",
+      "startDate": "2013-10",
+      "endDate": "2022-12-30",
+      "summary": "Provide individualized client facials and product profiles. Fill customer beauty product orders. Recruit new potential beauty advisors.",
+      "highlights": [
+        
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Lone Star College Montgomery",
+      "url": "",
+      "area": "Business Administration and Organizational Development",
+      "studyType": "Associate of Arts",
+      "startDate": "unknown-date",
+      "endDate": "unknown-date",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Who's Who Among American High School Students 2000",
+      "date": "2000-11-01",
+      "awarder": "",
+      "summary": ""
+    },
+    {
+      "title": "Outstanding student award: Dean's List Lonestar College Montgomery Campus Fall 2011",
+      "date": "2011-11-01",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Casualty and Property P&C Insurance License",
+      "date": "2011-11-07",
+      "issuer": "Not mentioned",
+      "url": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Customer service expert",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "10-Key",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Account Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Active Learning",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Calendaring",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Client Relations",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Computer Proficiency",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

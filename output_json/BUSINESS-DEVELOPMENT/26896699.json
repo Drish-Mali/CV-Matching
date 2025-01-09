@@ -1,0 +1,84 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Business Development Manager",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Business Development Manager",
+      "url": "",
+      "startDate": "2010-07-01",
+      "endDate": "Current",
+      "summary": "Sales and marketing of utility engineering and design services including staff augmentation to mid-sized companies and investor-owned utilities. Launched a new turn-key energy saving business segment in January 2012 resulting in $500,000 in new business within 7 months.",
+      "highlights": [
+        "Double digit increase in sales by developing strong relationships with clients, staff, partners, and management.",
+        "Selling ROI to C-Suite and building owners.",
+        "Achieved goal of $1,000,000 + in pipeline in 180 days.",
+        "$1,056,737 in quoted business for 22 new clients."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Account Executive",
+      "url": "",
+      "startDate": "2009-11-01",
+      "endDate": "2010-06-01",
+      "summary": "Sales and marketing of Lean Six Sigma Consulting services to small and mid-sized companies.",
+      "highlights": [
+        "Consulting and solution skills applied for marketing to small-to-mid-sized companies.",
+        "Green Belt Training in Lean Six Sigma."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Kentucky",
+      "url": "",
+      "area": "Mechanical Engineering",
+      "studyType": "B.S",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Microsoft Office Suite, Outlook",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Salesforce.com CRM (Customer Relationship Management)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Virtual and cloud computing environment",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

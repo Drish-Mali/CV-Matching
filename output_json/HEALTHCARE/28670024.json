@@ -1,0 +1,242 @@
+{
+  "basics": {
+    "name": "User's Name",
+    "label": "Healthcare Provider",
+    "email": "Not provided",
+    "phone": "Not provided",
+    "url": "Not provided",
+    "location": {
+      "address": "Not provided",
+      "postalCode": "Not provided",
+      "city": "Not provided",
+      "countryCode": "Not provided",
+      "region": "Not provided"
+    },
+    "profiles": [
+      {
+        "network": "Not provided",
+        "username": "Not provided",
+        "url": "Not provided"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Healthcare Provider",
+      "url": "Not provided",
+      "startDate": "2015-08-01",
+      "endDate": "Current",
+      "summary": "Worked to improve and enhance patient lives through effective and compassionate care. Administered medication as directed by physician. Completed household management tasks for clients within private home settings, including companionship and personal care assistance...etc.",
+      "highlights": [
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Online English Tutor",
+      "url": "Not provided",
+      "startDate": "2018-09-01",
+      "endDate": "2020-07-01",
+      "summary": "Analyzed student progress to adjust lesson planning for improvement...etc.",
+      "highlights": [
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Radiologic Technology Student Intern",
+      "url": "Not provided",
+      "startDate": "2016-07-01",
+      "endDate": "2016-11-01",
+      "summary": "Managed patient treatment and care by coordinating...etc.",
+      "highlights": [
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Office Assistant",
+      "url": "Not provided",
+      "startDate": "2013-05-01",
+      "endDate": "2014-05-01",
+      "summary": "Delivered clerical support...etc.",
+      "highlights": [
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Cash Service Representative",
+      "url": "Not provided",
+      "startDate": "2006-06-01",
+      "endDate": "2007-03-01",
+      "summary": "Adhered to policies and facilitated safe...etc.",
+      "highlights": [
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Sales Associate",
+      "url": "Not provided",
+      "startDate": "2004-10-01",
+      "endDate": "2006-02-01",
+      "summary": "Worked alongside retail...etc.",
+      "highlights": [
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Arizona Global Campus",
+      "area": "Health Informatics and Analytics",
+      "studyType": "MBA",
+      "startDate": "Expected in 02/2022",
+      "endDate": "Not provided",
+      "score": "Not provided",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Loma Linda University",
+      "area": "Radiography",
+      "studyType": "Certificate of Completion in Radiologic Technology",
+      "startDate": "11/2016",
+      "endDate": "Not provided",
+      "score": "Not provided",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "University of Perpetual Help-System DALTA",
+      "area": "Radiologic Technology",
+      "studyType": "Bachelor of Science",
+      "startDate": "04/2011",
+      "endDate": "Not provided",
+      "score": "Not provided",
+      "courses": [
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Flexible & Adaptable",
+      "level": "Not provided",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Responsible",
+      "level": "Not provided",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Verbal and written communication",
+      "level": "Not provided",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Computer proficiency",
+      "level": "Not provided",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Adaptability",
+      "level": "Not provided",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Customer service",
+      "level": "Not provided",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Professional telephone demeanor",
+      "level": "Not provided",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Account management",
+      "level": "Not provided",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Technical Support",
+      "level": "Not provided",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Social media knowledge",
+      "level": "Not provided",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Strategic Planning",
+      "level": "Not provided",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Compassion",
+      "level": "Not provided",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Self-motivated professional",
+      "level": "Not provided",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Cultural awareness",
+      "level": "Not provided",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Analytical skills",
+      "level": "Not provided",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Good listening skills",
+      "level": "Not provided",
+      "keywords": [
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Not provided"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Not provided",
+      "keywords": [
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Not provided",
+      "reference": "Not provided"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Not provided",
+      "date": "Not provided",
+      "awarder": "Not provided",
+      "summary": "Not provided"
+    }
+  ]
+}

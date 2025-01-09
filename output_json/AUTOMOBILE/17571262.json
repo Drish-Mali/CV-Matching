@@ -1,0 +1,203 @@
+{
+
+  "basics": {
+    "name": "",
+    "label": "SECRETARY II",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Energetic management professional with over seven years of experience in high-level executive support and accounting roles. Organized and dedicated professional who excels at prioritizing and completing multiple tasks simultaneously and following through to achieve all project goals.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Secretary II",
+      "url": "",
+      "startDate": "2014-12-01",
+      "endDate": "2016-06-01",
+      "summary": "Served as the primary support channel to five sales executive in the Albuquerque East, Albuquerque West, Santa Fe/Southern Colorado, Central Utah, and Northern Utah territories. Created and maintained computer- and paper-based filing and organization systems for records and reports. Maintained 100% adherence to budget/finance goals, approved travel expenses, and reimbursement requests.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Director of Operations",
+      "url": "",
+      "startDate": "2007-10-01",
+      "endDate": "2014-08-01",
+      "summary": "Implemented complete accounting system transisition from Peachtree for Manufacturing to Quickbooks Pro which increased revenue at year end due to better tracking of expenses and income. Direct manager of a staff of 3-15 employees Supervised all aspects of day-to-day business in the Dallas, TX office from employees to all operations while coordinating reports, budgets, and information with the satellite Houston, TX office. Developed policies and procedures responsible for trimming down operating budgets by eliminating excess spending and inventory mismanagement and boosting productivity.",
+      "highlights": ["Managed production schedules and order status reports for a network of over 30 franchise stores Point of contact for all escalated order related issues of customer service via phone call, email, and website correspondence. Assisted in the design, implementation, and launch of four websites directed at positioning the company on the worldwide web to help compete in the industry. Managed all new product development and launch. Served as primary point of contact for the design and functionality of a custom proprietary inventory management software which boosted revenue by identifying unaccounted for inventory and missed sales opportunities."]
+    },
+    {
+      "name": "Company Name",
+      "position": "Marketing Director/Executive Assistant",
+      "url": "",
+      "startDate": "2003-01-01",
+      "endDate": "2007-10-01",
+      "summary": "Responsible for implementing an online marketing strategy that helped increase property listings by 42%. Monitored all areas of the media to make sure that our real estate agent's present marketing strategies were ahead of customer and client demands. Maintained all IT operations including any updates and demands from purchasing new equipment like desktops and laptops to maintaining existing equipment from software updates to decommissioning obsolete equipment and disposal.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Telco Engineer/Upper Tier Escalations",
+      "url": "",
+      "startDate": "2002-01-01",
+      "endDate": "2003-01-01",
+      "summary": "Consistently maintained 92% timely completion on all circuit install escalations. Utilized provisioning/implementation skills and background to aid in field completion scenarios to maintain a 90% close ratio of all pending escalation orders.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Associate Relocation Consultant/Property Management Coordinator",
+      "url": "",
+      "startDate": "2001-01-01",
+      "endDate": "2002-01-01",
+      "summary": "Maintained a portfolio of over 75 residential properties placed into property management for employees working abroad by Ericsson Electronics and acted as the sole point of contact for all property management clients. Associate to the Head of Ericsson Electronics relocation contract team using high multitasking to ensure all client/customer issues completed to 100% satisfaction. Implemented a new reporting system and computer database assuring all pertinent information is captured, as well as maintained and assured complete and accurate file and renter information for all properties managed and sold.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Assistant Community Sales Associate",
+      "url": "",
+      "startDate": "1998-05-01",
+      "endDate": "2001-09-01",
+      "summary": "Communicated recommendations to the builder of home phase construction. Created and maintained customer files and implemented a computer tracking system for status updates. Demonstrated homes, assisted with the selection of floor plans and options while resolving customer service related issues. Maintained or exceeded 100% adherence to new home sales goals.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Phoenix",
+      "url": "",
+      "area": "Business Management",
+      "studyType": "Associate of Arts",
+      "startDate": "",
+      "endDate": "2010",
+      "score": "3.69",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Account Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Accounts Payable/Receivable",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Adobe",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Bookkeeping",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Customer Service",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Database management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Expense Reports",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Hiring and Human Resources",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Inventory Management and Control",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Marketing Strategies",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Meeting Planning",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "New product development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Office Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Online marketing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Peachtree Accounting",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Policies and Procedures",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Property Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Purchasing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Quickbooks Pro",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Real Estate",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Production Scheduling",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

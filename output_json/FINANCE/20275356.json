@@ -1,0 +1,143 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Assistant Director of Finance",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Skilled accounting professional",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Assistant Director of Finance",
+      "url": "",
+      "startDate": "2013-05-01",
+      "endDate": "current",
+      "summary": "Assist in oversight of the month end close for the Select Managed hotels and the Genpact team, including validation of the payroll journal and other areas. Review and assist hotel General Managers with preparation of annual budgets. Manage the relationship with the owner of 10 of our managed hotels, including reporting, forecasting and month end close related questions.",
+      "highlights": ["Created reports to roll up data for review by the Director of Finance and other Assistant Directors of Finance."]
+    },
+    {
+      "name": "Company Name",
+      "position": "Planning and Analysis Manager",
+      "url": "",
+      "startDate": "2010-09-01",
+      "endDate": "2013-05-01",
+      "summary": "Maintained and updated a Daily Revenue report for the Select Managed and Franchised hotels. Created a weekly and monthly roll up of Smith Travel data for all North America Full Service and Select Service hotels.",
+      "highlights": ["Prepared annual budget for the Full Service and Select Service Franchise hotels.", "Converted data for 22 acquired hotels to be formatted and loaded into our systems."]
+    },
+    {
+      "name": "Company Name",
+      "position": "Senior Analyst",
+      "url": "",
+      "startDate": "2008-06-01",
+      "endDate": "2010-09-01",
+      "summary": "Assisted in preparation of the Corporate Management Review package. Prepared monthly Balance Sheet and P&L analysis on the Lodging Segment for the Consolidations team. Worked closely with the Corporate Accounting team to manage the close and review of monthly financials.",
+      "highlights": ["Worked with RVPs on finalizing pre-opening budgets and spend on Full Service hotels."]
+    },
+    {
+      "name": "Company Name",
+      "position": "Senior Consolidations Accountant",
+      "url": "",
+      "startDate": "2006-01-01",
+      "endDate": "2008-07-01",
+      "summary": "Consolidations contact person for regional offices that head operations in EAME, ASPAC and Latin America. Responsible for the coordination and clean up of the international entities' consolidations processes. Coordinate the project of setting up over twenty international entities' ledgers to automatically feed into the Hyperion.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "General Ledger Accountant",
+      "url": "",
+      "startDate": "2003-05-01",
+      "endDate": "2006-01-01",
+      "summary": "Responsible for monthly billings to all Domestic hotels for various expenses paid by the parent company. Reconcile outstanding unbilled balances and coordinate with appropriate individuals for the preparation of hotel allocations of the expenses paid on their behalf.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "DePaul University",
+      "url": "",
+      "area": "Accounting",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "2002-06-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Budgeting and forecasting",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Team leadership",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Analytical skills",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Organizational skills",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Self-motivated professional",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Hyperion",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Oracle",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "CPA",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Excel",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "PowerPoint",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Word",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

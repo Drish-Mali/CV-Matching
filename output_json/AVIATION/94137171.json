@@ -1,0 +1,75 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Plant Fulfillment Leader",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Dedicated leader with comprehension manufacturing, materials, and inventory experience. Demonstrated the ability to train, manage, and motivate team members to achieve organizational goals and objectives.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "",
+      "region": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Plant Fulfillment Leader",
+      "url": "",
+      "startDate": "11/2015",
+      "endDate": "Current",
+      "summary": "Provide manufacturing leadership in the developing, planning, and implementing of the master schedule...",
+      "highlights": ["Strategic Planning", "Regulatory Compliance", "Lean Manufacturing Practices", "Training and Development","Site Safety Procurement and Inventory Control","Operational Management Budgeting and Cost Reduction"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Production Specialist: Large Combustors & Rotating Parts",
+      "url": "",
+      "startDate": "12/2011",
+      "endDate": "10/2015",
+      "summary": "Controlled raw material, ensured the minimization of excess/obsolete inventory, oversaw lean manufacturing processes... ",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Payer Relations Coordinator",
+      "url": "",
+      "startDate": "10/2008",
+      "endDate": "11/2011",
+      "summary": "Served as the BWPO central contact for the quarterly submission of International Accounts... ",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Curry College",
+      "url": "",
+      "area": "Business Management",
+      "studyType": "Bachelor of Arts",
+      "startDate": "2008",
+      "endDate": "2008",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Skills",
+      "level": "",
+      "keywords": ["APS", "CAS/IMPACT", "CSF", "Aviation Supply Chain", "Lean Manufacturing", "Materials","Microsoft Excel", "Office", "PowerPoint", "Word", "Inventory levels"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

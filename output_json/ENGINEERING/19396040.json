@@ -1,0 +1,104 @@
+{
+  "basics": {
+    "name": "Not Provided",
+    "label": "Industrial Engineering Intern",
+    "image": "",
+    "email": "Not Provided",
+    "phone": "Not Provided",
+    "url": "Not Provided",
+    "summary": "Seeking for full time position where I can apply my technical knowledge & skills for continuous improvement. I have 26 months of experience in Lean Manufacturing, Production Planning and Supply Chain Management. Excellent computer and analytical skills.",
+    "location": {
+      "address": "Not Provided",
+      "postalCode": "Not Provided",
+      "city": "Not Provided",
+      "countryCode": "Not Provided",
+      "region": "Not Provided"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Industrial Engineering Intern",
+      "url": "Not Provided",
+      "startDate": "2015-05-01",
+      "endDate": "2016-01-01",
+      "summary": "Conduct Time Study & perform analysis on data to determine hourly production scheduling, non value adding activities, reduce cycle time by 32% & lead time by 48%. Line balancing to achieve required takt time and reduce work in process (WIP) inventory. Implement Lean manufacturing such as Kaizen, 5S etc. Developed material picking charts and writing SOP for various process in entire plant.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Junior Engineer",
+      "url": "Not Provided",
+      "startDate": "2013-07-01",
+      "endDate": "2014-06-01",
+      "summary": "Managed assembly line for traction and induction motors. Responsible for supervising 4 Inspectors and 24 team members, generating a production schedule and Process Planning. Participate in monthly cost team projects and manage quality, day to day production, labor efficiency.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Intern",
+      "url": "Not Provided",
+      "startDate": "2012-11-01",
+      "endDate": "2013-05-01",
+      "summary": "Developed the inspection process for motor accessories. Managed the outsourced manufacturing of necessary tools, gauges or fixtures. Worked in PM and QM modules of SAP R/3 to enter or retrieve data.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Texas",
+      "url": "Not Provided",
+      "area": "Industrial Engineering Production & Inventory management",
+      "studyType": "Masters",
+      "startDate": "Not Provided",
+      "endDate": "2016-05-01",
+      "score": "3.5",
+      "courses": []
+    },
+    {
+      "institution": "Mumbai University India",
+      "url": "Not Provided",
+      "area": "Production Engineering Manufacturing, Planning and Supply Chain",
+      "studyType": "Bachelor",
+      "startDate": "Not Provided",
+      "endDate": "2013-07-01",
+      "score": "3.5",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Software Skills",
+      "level": "Experienced",
+      "keywords": [
+        "MS Office", "Minitab", "PowerPoint", "Excel", "Solid works", "AutoCAD", "Pro E", "MS Access", "SAP",
+        "Java", "C", "C++", "Visual Basic", "R", "Python"
+      ]
+    },
+    {
+      "name": "Manufacturing Skills",
+      "level": "Experienced",
+      "keywords": [
+        "Lean Manufacturing", "Production Planning", "Supply Chain Management", "Quality Control", "Metrics & Measurements",
+        "Project Management", "Production & Inventory Control", "Facility Planning"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": [
+    {
+      "name": "Underwater Robot",
+      "startDate": "Not Provided",
+      "endDate": "Not Provided",
+      "description": "Worked at IIT-Bombay workshop to make an underwater robot. The robot was assembled using sensors, switches and motors for maneuvering the robot.",
+      "highlights": [],
+      "url": "Not Provided"
+    }
+  ]
+}

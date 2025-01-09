@@ -1,0 +1,111 @@
+{
+  "basics": {
+    "name": "Anonymous",
+    "label": "Head, Information Technology and Information Center",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Visionary leader of IT organizations during a 20+ year career at Fortune 500 companies.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Head, Information Technology and Information Center",
+      "startDate": "2015-03-01",
+      "endDate": "",
+      "summary": "Provide leadership and direction to the GMS Information Center - a collection of data scientists and analysts dedicated to the production of high-value analytics to support manufacturing.",
+      "highlights": [
+        "Established the GMS Information Center"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Director, Supply Chain and Logistics Information Technology",
+      "startDate": "2010-10-01",
+      "endDate": "2015-03-01",
+      "summary": "Established supply chain technology direction for global manufacturing organization.",
+      "highlights": [
+        "Established the GMS Information Center"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Senior Director, COMET Program",
+      "startDate": "2009-11-01",
+      "endDate": "2010-10-01",
+      "summary": "Responsible for managing the delivery efforts for the global COMET program",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Director, SAP Center of Excellence",
+      "startDate": "2005-05-01",
+      "endDate": "2009-11-01",
+      "summary": "Responsible for a $15MM annual budget; 75 FTEs and 30+ offshore.",
+      "highlights": []
+    }
+  ],
+  "education": [
+     {
+       "institution": "University of Maryland",
+       "area": "Business Administration",
+       "studyType": "Master Degree",
+       "startDate": "",
+       "endDate": "2003-01-01",
+       "score": "",
+       "courses": []
+     },
+     {
+       "institution": "New Jersey Institute of Technology",
+       "area": "Computer Science",
+       "studyType": "Master of Science",
+       "startDate": "",
+       "endDate": "1994-01-01",
+       "score": "",
+       "courses": []
+     },
+     {
+       "institution": "New Jersey Institute of Technology",
+       "area": "Computer Science",
+       "studyType": "Bachelor of Science",
+       "startDate": "",
+       "endDate": "1990-01-01",
+       "score": "",
+       "courses": []
+     }
+  ],
+  "skills": [
+    {
+      "name": "SAP",
+      "level": "Expert",
+      "keywords": []
+    },
+    {
+      "name": "Business Process Design",
+      "level": "Expert",
+      "keywords": []
+    },
+    {
+      "name": "Dispersed Team Management",
+      "level": "Expert",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "volunteer": []
+}

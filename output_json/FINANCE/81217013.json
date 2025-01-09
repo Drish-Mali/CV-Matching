@@ -1,0 +1,173 @@
+{
+  "basics": {
+    "name": "Anonymous",
+    "label": "Director, Finance Operations",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Motivated executive professional with 20 years of progressive experience in Publishing and Non-Profit environments, including extensive experience in project management, budgeting and financial administration.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Unknown",
+      "position": "Director, Finance Operations",
+      "url": "",
+      "startDate": "2015-08-01",
+      "endDate": "Current",
+      "summary": "After many years of successfully managing the budget/forecast process of a 100 million dollar national multi-state non-profit, I was asked to lead the areas of gift processing, banking and risk management areas.",
+      "highlights": [
+        "Streamlined gift processing",
+        "Implemented risk management allocation process",
+        "Consolidated banking relationships"
+      ]
+    },
+    {
+      "name": "Unknown",
+      "position": "Director of Business Management and Field Solutions",
+      "url": "",
+      "startDate": "2009-10-01",
+      "endDate": "2015-07-01",
+      "summary": "Team leader of 3 professionals whose goal was to be the liaison between the programs and the central office.",
+      "highlights": [
+        "Led budget process",
+        "Created various financial reports"
+      ]
+    },
+    {
+      "name": "Unknown",
+      "position": "Director of Budgets",
+      "url": "",
+      "startDate": "2003-05-01",
+      "endDate": "2009-10-01",
+      "summary": "Overhauled the the operating and capital budget process by implementing a more formal structured process.",
+      "highlights": [
+        "Implemented ABM for budget process",
+        "Assisted with year end process"
+      ]
+    },
+    {
+      "name": "Unknown",
+      "position": "Budget Manager",
+      "url": "",
+      "startDate": "2000-01-01",
+      "endDate": "2003-05-01",
+      "summary": "Promoted to Audubon's first Budget Directors position.",
+      "highlights": [
+        "Oversaw capital and budget process",
+        "Led transition to monthly budget tracking"
+      ]
+    },{
+      "name": "Unknown",
+      "position": "Business Manager",
+      "url": "",
+      "startDate": "1999-07-01",
+      "endDate": "2000-01-01",
+      "summary": "As Business Manager of Audubon magazine, my role was to manage all financial aspect of the publication and membership program.",
+      "highlights": [
+        "Managed financial aspects of Audubon magazine",
+        "Implemented cost reduction measures"
+      ]
+    },{
+      "name": "Unknown",
+      "position": "Senior Financial Analyst",
+      "url": "",
+      "startDate": "1997-02-01",
+      "endDate": "1999-07-01",
+      "summary": "Handle all budget processes.",
+      "highlights": [
+         "Managed budgeting process",
+         "Supported company growth through acquisitions and start ups"
+      ]
+    },{
+      "name": "Unknown",
+      "position": "Financial Analyst",
+      "url": "",
+      "startDate": "1995-08-01",
+      "endDate": "1997-02-01",
+      "summary": "Worked with the operations manager to prepare the company's annual budget.",
+      "highlights": []
+    },{
+      "name": "Unknown",
+      "position": "Billing Coordinator",
+      "url": "",
+      "startDate": "1994-11-01",
+      "endDate": "1995-08-01",
+      "summary": "Join Audubon as a billing coordinator for the Optical division.",
+      "highlights": [
+        "Implemented changes for billing processing"
+      ]
+    },{
+      "name": "Unknown",
+      "position": "Accounting Clerk",
+      "url": "",
+      "startDate": "1991-02-01",
+      "endDate": "1994-10-01",
+      "summary": "Worked in a bond counsel law firm on wall street. Handled segments such as accounts payable, receivables, cash management and payroll.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Wagner College",
+      "url": "",
+      "area": "Finance",
+      "studyType": "MBA",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },{
+      "institution": "Bernard M. Baruch College, CUNY",
+      "url": "",
+      "area": "Operations Management",
+      "studyType": "BBA",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": ["Minor in Accounting Skills"]
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Negotiations",
+      "level": "Expert",
+      "keywords": []
+    },
+    {
+      "name": "Risk Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Analytical Skills",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Leadership/communication skills",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft office suite",
+      "level": "Proficient",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

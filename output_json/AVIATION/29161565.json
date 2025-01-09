@@ -1,0 +1,120 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Radiological Control Technician",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Dynamic college student with over 3 years of nuclear experience working as a qualified radiological control technician working in the radiological control department in a variety of areas including limited facility decommissioning, and aircraft carrier Refueling on the CVN-72. Highly enthusiastic, self- motivating and resourceful professional.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "",
+        "username": "",
+        "url": ""
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Radiological Control Technician",
+      "url": "",
+      "startDate": "2016-01-01",
+      "endDate": "Current",
+      "summary": "Provide radiological controls oversight of the deconstruction and remediation activities. Perform daily monitoring of radiological work, radiological surveying, environment sampling and evaluation, and aiding in the preparation of documents that support the transfer of materials and equipment for disposal or release. Provide radiological oversight and leadership for all crew personnel to ensure the highest radiological standards are kept. DOE L Clearance.",
+      "highlights": [""]
+    },
+    {
+      "name": "Company Name",
+      "position": "Radiological Control Technician",
+      "url": "",
+      "startDate": "2012-04-01",
+      "endDate": "2015-10-31",
+      "summary": "Provided work coverage and oversight for maintenance, operational and routine work that involved radioactive material. Provided monitoring for radiation, contamination and airborne radioactivity in the work place. Ensured ALARA principles are followed during work and respond to radiological emergencies as required, survey waste material, excess materials, vehicles, areas and other materials. Maintained proficiency and qualifications through completion of work, self-study and training activities. Obtained a confidential clearance.",
+      "highlights": [""]
+    },
+    {
+      "name": "Company Name",
+      "position": "Aviation Ordnancemen",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Professionally and thoroughly trained in the areas of explosive, ordnance handling, and blasters maintained troubleshooting and repair on all weapons elevators onboard. Specialized in servicing, inspecting and handling of all types of weapons and ammunition carried on Navy aircraft. Obtained a secret clearance.",
+      "highlights": [""]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Thomas Edison State University",
+      "url": "",
+      "area": "Nuclear Engineering Technology",
+      "studyType": "Bachelor",
+      "startDate": "2016",
+      "endDate": "2017",
+      "score": "",
+      "courses": [
+        "Engineering",
+        "Nuclear Energy Engineering Technology"
+      ]
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "108 Qualified",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "DOE Core Card",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "Aviation Ordnancemen Certification",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Radiological Control Technician Skills",
+      "level": "Master",
+      "keywords": [
+        "Quick learner",
+        "Self- disciplined",
+        "Adept multi-tasker",
+        "Team Player",
+        "Microsoft Word",
+        "Excel",
+        "PowerPoint"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "fluent"
+    },
+    {
+      "language": "English",
+      "fluency": "fluent"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

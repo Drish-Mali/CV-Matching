@@ -1,0 +1,71 @@
+{
+  "basics": {
+    "name": "Not given",
+    "label": "Accountant",
+    "image": "",
+    "email": "Not given",
+    "phone": "Not given",
+    "url": "Not given",
+    "summary": "To pursue excellence in the dynamic business world by obtaining a placement allowing me to perform in an environment where honesty, sincerity & a positive attitude would be valued. I would like to take up a challenging job to nourish my qualification, expertise & experience within a reputed organization & further enhance my performance. I adapt seamlessly to constantly evolving accounting processes and technologies.",
+    "location": {
+      "address": "Not given",
+      "postalCode": "Not given",
+      "city": "City",
+      "countryCode": "State",
+      "region": "Not given"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Accountant",
+      "url": "Not given",
+      "startDate": "October 2011",
+      "endDate": "August 2015",
+      "summary": "Prepared monthly and annual expense forecasts, including any necessary recommended action required to manage costs to achieve budget. I performed debit, credit and total accounts on computer spreadsheets/databases, using specialized accounting software. I was responsible to ensure that receivables are timely collected.",
+      "highlights": [
+        "Maintained accurate accounts including cash, inventory, prepaid, fixed assets, accounts payable, accrued expenses and line of credit transactions."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Vidyasagar University",
+      "url": "Not given",
+      "area": "Finance",
+      "studyType": "MBA",
+      "startDate": "Not given",
+      "endDate": "2006",
+      "score": "Not given",
+      "courses": []
+    },
+    {
+      "institution": "Mohan Lal Sukhadia University",
+      "url": "Not given",
+      "area": "Not given",
+      "studyType": "Not given",
+      "startDate": "Not given",
+      "endDate": "2000",
+      "score": "Not given",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Accounting",
+      "level": "Not given",
+      "keywords": [
+        "Dos", "Windows 9.x", "XP", "MS Office", "Oracle", "Tally", "Adobe Photoshop", "Adobe Illustrator", "Pagemaker", "3d Inifnative", "Account", "Audio Editing", "Video Editing", "Macro Media Director", "Oracle 8I", "Developer 2000", "reconciliations"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

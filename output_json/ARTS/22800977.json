@@ -1,0 +1,172 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Assistant Principal",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Assistant Principal with 12 years in education and exceptional people skills. Create and monitor positive safe school cultural environment that ensures growth of both students and staff. Inspire motivation to learn, skilled at building secure relationships between communities, parents, students and teachers.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Assistant Principal",
+      "url": "",
+      "startDate": "2013-08-01",
+      "endDate": "",
+      "summary": "Supervises staff, assists Principal with staff matters, serves as student mentor and counselor, leads communication with parents, supervises various school events, ensures school safety.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Art Teacher",
+      "url": "",
+      "startDate": "2007-08-01",
+      "endDate": "2013-07-01",
+      "summary": "Taught art grades 6-8, collaborated with staff, Administration and V.I.P.S. to support school events.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Fine Arts Director",
+      "url": "",
+      "startDate": "2001-08-01",
+      "endDate": "2007-07-01",
+      "summary": "Taught art grades 6-12, developed and reviewed Fine Arts curriculum, facilitated training for Fine Arts teachers, established and coordinated Professional Development.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Prairie View A & M University",
+      "url": "",
+      "area": "Educational Administration",
+      "studyType": "Master's",
+      "startDate": "",
+      "endDate": "2011",
+      "score": "4.0",
+      "courses": []
+    },
+    {
+      "institution": "Wentworth Institute of Technology",
+      "url": "",
+      "area": "Industrial Design Technology",
+      "studyType": "Bachelor's",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Women's Technical Institute",
+      "url": "",
+      "area": "Mechanical Engineering Technology",
+      "studyType": "Associate's",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Principal Certification/Mid Management",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "Art-EC-12",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "Technology Applications-EC-12",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "Teacher-Highly Qualified",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "Teen Leadership",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "Communication Application",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "Gifted & Talented",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "Certificate of Recognition for Exemplary Contribution to Harmony",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "Certificate - Mechanical and Electrical Drafting (CAD)",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Computer Proficiency",
+      "level": "",
+      "keywords": [
+        "Microsoft Office Suite",
+        "Adobe: InDesign",
+        "Adobe Photoshop",
+        "Adobe Illustrator",
+        "CAD",
+        "Quark Xpress",
+        "Prezi",
+        "Goggle Share Documents"
+      ]
+    },
+    {
+      "name": "Mentor Experience",
+      "level": "10 years",
+      "keywords": [
+        "Motivating students",
+        "Behavior Modification",
+        "Learning style assessment",
+        "Building Relations",
+        "Goal Setting",
+        "Team Building",
+        "Problem Solver"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

@@ -1,0 +1,92 @@
+{
+  "basics": {
+    "name": "Not Specified",
+    "label": "Sleep Technologist, RPSGT",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Healthcare professional with more than ten years' experience seeking an opportunity where I can utilize my skills and knowledge in multiple healthcare settings to have a positive impact on patient outcomes. Looking for a work setting in health information management and technology where my previous training in HIPPA Privacy and Security, performance improvement and quality assurance will help position me for career advancement.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Sleep Technologist, RPSGT",
+      "url": "",
+      "startDate": "2015-12-01",
+      "endDate": "Present",
+      "summary": "Polysomnogram preparation and set up, diagnostic testing, PAP and oxygen titration studies, monitoring and scoring complete patient studies using AASM standards, Interscore Reliability Testing 92% average (expected 85%), CPR certified, data transfers, Windows OS, work diligently with minimal supervision in a 1:2 technologist to patient ratio.",
+      "highlights": ["Interscore Relability Testing 92% average (expected 85%)."]
+    },
+    {
+      "name": "Company Name",
+      "position": "Neurophysiology Technician, RPSGT",
+      "url": "",
+      "startDate": "2009-01-01",
+      "endDate": "2015-11-30",
+      "summary": "Performing EEG and LTM, measuring in 10-20, patient preparation and education, monitor and note abnormalities. Sleep study preparation & set up, prepare & calibrate equipment prior to testing, following AASM protocol for MSLT, MWT, PAP and oxygen studies, assist with scoring sleep studies, fluent communication skills, sharp critical thinking skills, diligently work with minimal supervision. Billing patients in outpatient sleep center.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Healthcare Specialist, CRT",
+      "url": "",
+      "startDate": "2005-09-01",
+      "endDate": "2008-12-31",
+      "summary": "Clinical patient evaluation in home setting, implement disease management programs, respiratory & sleep equipment set up and education, fluent communication skills, sharp critical thinking skills, diligently work with minimal supervision.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Hannibal La-Grange University",
+      "url": "",
+      "area": "Respiratory Therapy",
+      "studyType": "Associates Degree of Science",
+      "startDate": "",
+      "endDate": "2000-05-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "University of Wisconsin",
+      "url": "",
+      "area": "Healthcare Information Management & Technology",
+      "studyType": "Bachelor of Science",
+      "startDate": "1999-01-01",
+      "endDate": "2017-12-31",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Registered Polysomnographic Technologist license",
+      "date": "2015-01-01",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Work Proficiency",
+      "level": "",
+      "keywords": ["Minimal supervision", "Fluent communication skills", "CPR certified", "Critical thinking", "Disease management", "Inventory control", "Medical terminology", "Windows OS", "Patient evaluation", "Patient preparation", "Problem solving", "Strategic planning", "Oxygen education and therapy", "Equipment troubleshooting"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

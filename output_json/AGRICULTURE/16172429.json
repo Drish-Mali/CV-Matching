@@ -1,0 +1,119 @@
+{
+  "basics": {
+    "name": "",
+    "label": "FINANCIAL INSTITUTION EXAMINER",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Commissioned bank examiner with over five years of experience with the FDIC. Strong analytical skills and technical background in credit review, financial statement analysis, and intermediate accounting work...",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "",
+      "region": "State"
+    },
+    "profiles": [
+    ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "FINANCIAL INSTITUTION EXAMINER",
+      "url": "",
+      "startDate": "01/2010",
+      "endDate": "Current",
+      "summary": "Collaborate with examiners, specialists, and assistants to evaluate the safety...",
+      "highlights": [
+        "Served as acting examiner-in-charge of an examination of a $700 million bank",
+        "Supervised the activities of loan review team as asset manager at a $4.4 billion mutual savings institution",
+        "Designated as one of the national training instructors for division-wide rollout of new proprietary Examination Tool Suites (ETS)"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "STUDENT INTERN, Rural Electric Infrastructure Loan & Loan Guarantee Program",
+      "url": "",
+      "startDate": "05/2008",
+      "endDate": "01/2010",
+      "summary": "Processed loan applications from rural electric utility cooperatives, and prepared underwriting memos...",
+      "highlights": [
+        "Recommended loan approvals to the loan committee, resulting in a 100% approval rate and the disbursement of over $30 million"
+      ]
+    }
+    ],
+  "volunteer": [
+  ],
+  "education": [
+    {
+      "institution": "UNIVERSITY OF MARYLAND, COLLEGE PARK",
+      "url": "",
+      "area": "Finance",
+      "studyType": "B.S",
+      "startDate": "",
+      "endDate": "May 2010",
+      "score": "GPA: 3.82",
+      "courses": [
+        ""
+      ]
+    },
+    {
+      "institution": "UNIVERSITY OF MARYLAND, COLLEGE PARK",
+      "url": "",
+      "area": "Government & Politics",
+      "studyType": "B.A",
+      "startDate": "",
+      "endDate": "May 2010",
+      "score": "cum laude",
+      "courses": [
+        ""
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "FDIC Safety and Soundness Technical Evaluation STAR Award",
+      "date": "Oct 2014",
+      "awarder": "FDIC",
+      "summary": "Strong teamwork, technical knowledge, and high-quality contributions to loan review team at examination of a troubled institution, including identifying loan downgrades"
+    }
+    ],
+  "certificates": [
+   ],
+  "publications": [
+  ],
+  "skills": [
+    {
+      "name": "Financial Analysis",
+      "level": "Expert",
+      "keywords": [
+        "accounting",
+        "charts",
+        "Credit",
+        "financial",
+        "Focus",
+        "meetings",
+        "MS Excel",
+        "MS Office",
+        "PowerPoint",
+        "quality",
+        "QuickBooks",
+        "Risk Management",
+        "Safety",
+        "SPSS",
+        "Supervision",
+        "training material",
+        "underwriting"
+      ]
+    }
+  ],
+  "languages": [
+  ],
+  "interests": [
+  ],
+  "references": [
+  ],
+  "projects": [
+  ]
+}

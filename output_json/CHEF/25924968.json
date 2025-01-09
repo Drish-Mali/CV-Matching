@@ -1,0 +1,65 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Executive Chef",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Seeking an opportunity to showcase my Talent, Education and Abilities as a Chef where my vast experience and demanding work ethic will be effectively utilized. Strong and diverse experience in the HOSPITALITY INDUSTRY.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Unnamed",
+      "position": "Executive Chef",
+      "url": "",
+      "startDate": "2015-02",
+      "endDate": "Current",
+      "summary": "Small Restaurant and wine bar, 40-60 seat. Lunch and dinner. Dinner menu specializes in small plates and I changed the menu every month based on season and availability of products, Also provide 2-5 specials every night.",
+      "highlights": [
+        "Managed and operated two popular restaurants/Bars.",
+        "Worked directly with Executive Chef and Owner.",
+        "Developed employee manuals for 200-seat café serving three meals daily.",
+        "Responsible for managing food production, catering small and large events (500+ attendees)."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "ART INSTITUTE OF CALIFORNIA",
+      "url": "",
+      "area": "Culinary Management",
+      "studyType": "Bachelor of Science degree",
+      "startDate": "",
+      "endDate": "2006",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Culinary Expertise",
+      "level": "",
+      "keywords": [
+        "Skilled and experienced managing food production for high-volume restaurants, Luxury Hotel, and large-event catering for 500+ people while coordinating the activities of 10+ kitchen employees.",
+        "Computer-literate in Word, Excel, PowerPoint, Photoshop; Internet skills."
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

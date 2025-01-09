@@ -1,0 +1,67 @@
+{
+  "basics": {
+    "name": "Anonymous",
+    "label": "Customer Advocate",
+    "summary": "ROTC for 4 years, gathered leader ship skills, team work skills, also responsibility skills. I did lead a couple of our drill meets. I did learn how to handle hard situations.",
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Customer Advocate",
+      "startDate": "2014-12",
+      "endDate": "2015-11",
+      "summary": "Responsibilities include making sure the customers leave with cash, maintaining updated documents. Also, ensuring all documents are correct in system to meet compliance, verifying information and accuracy of loan application and closing documents. Finally, calculating, reviewing, and correcting errors on interest, principal, payment and closing costs. ",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Undisclosed Position",
+      "startDate": "2014-07",
+      "endDate": "2015-01",
+      "summary": "Duties include customer servicing, explaining the use, operation, and care of merchandise. Maintaining records related to sales, inventory and managing the cash register.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Undisclosed Position",
+      "startDate": "2014-06",
+      "endDate": "2014-12",
+      "summary": "Received payments, issued receipts, refunds, credits, or changed due to customers. Greet customers entering establishments. Maintained knowledge of current sales and promotions, policies regarding payment and exchanges, and security practices.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Undisclosed Position",
+      "startDate": "2012-04",
+      "endDate": "2014-08",
+      "summary": "Maintained sanitation, health, and safety standards in work areas. Cleaned food preparation areas and cooking surfaces. Ensured that prepared food meets requirements for quality and quantity.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "ELDORADO HIGH SCHOOL",
+      "area": "High School",
+      "studyType": "Diploma",
+      "startDate": "Unknown",
+      "endDate": "2014-06",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Customer Service",
+      "level": "Not Specified",
+      "keywords": ["calculators", "cash registers", "closing", "cooking", "credit", "funds", "Inventory", "Issue receipts", "mark", "money", "windows", "paint", "policies", "quality", "Maintain records", "safety", "sales", "tables", "teamwork", "wise", "written"]
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "volunteer": [],
+  "languages": []
+}

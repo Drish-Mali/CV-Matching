@@ -1,0 +1,111 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Advocate",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Conscientious attorney with experience in government relations, educational law and advocacy for families with special needs children, two years practice in health law and public policy for military families, two years federal government experience in human rights and foreign affairs with the U.S. Department of State",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Advocate",
+      "url": "",
+      "startDate": "2011-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Represented the needs of military families with policy makers and national organizations regarding legislation and programs for military special needs dependent children. Assisted families with navigating military health care insurance, Strategized with parents concerning individual education plans, 504 documents and educational behavioral plans.",
+      "highlights": []
+    }, 
+    {
+      "name": "Company Name",
+      "position": "United States Foreign Service Officer",
+      "url": "",
+      "startDate": "2003-01-01",
+      "endDate": "2005-01-01",
+      "summary": "Student, Department of State, Foreign Service Institute. Studied German language and culture. Studied Europe and German/American Relations and American/ EU relations. Presented in depth study of German Contemporary Issues.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Exceptional Family Member Services",
+      "position": "Public Advocate/Attorney",
+      "url": "",
+      "startDate": "1997-01-01",
+      "endDate": "2002-01-01",
+      "summary": "Provided legal representation to families with special needs children regarding education services Negotiated Individual Education Plans and 504 documents Interpreted and applied federal statutory requirements and administrative regulations for clients before school administrative hearings Drafted appropriate goals for education plans",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Georgia State University",
+      "url": "",
+      "area": "Law",
+      "studyType": "Juris Doctor",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Johannes Kepler University, School of Law",
+      "url": "",
+      "area": "Law, International Arbitration",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Evangel University",
+      "url": "",
+      "area": "Government and Communications",
+      "studyType": "Bachelor of Arts",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Training",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Liaison",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Federal Government",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Public Policy",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

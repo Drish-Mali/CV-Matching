@@ -1,0 +1,107 @@
+{
+  "basics": {
+    "name": "Sugandha kumar",
+    "label": "Consultant",
+    "email": "",
+    "phone": "",
+    "summary": "Experienced consultant with solid background in legal and financial areas. In-depth expertise in legal documentation, regulatory compliance, and business operations.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "New-Delhi",
+      "countryCode": "IN",
+      "region": "Delhi"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Consultant",
+      "startDate": "2013-04",
+      "summary": "Drafting legal documentation necessary for cross-border aircraft financing and leasing transactions."
+    },
+    {
+      "name": "Company Name",
+      "position": "Senior Executive Compliance",
+      "startDate": "2012-01",
+      "endDate": "2012-03",
+      "summary": "Acting as in-house counsel and preparing legal letters and notices and drafting and vetting service agreements."
+    }
+  ],
+  "education": [
+    {
+      "institution": "ILS Law College",
+      "area": "Human Rights and Law",
+      "studyType": "Diploma",
+      "endDate": "2009",
+      "score": "63.16",
+      "courses": []
+    },
+    {
+      "institution": "Asian School of Cyber City",
+      "area": "Cyber Laws",
+      "studyType": "Post Graduation Diploma",
+      "startDate": "2010",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "1st Prize in Raghvendra Phadnis National Essay Writing Competition",
+      "date": "2009",
+      "awarder": "ILS Law College",
+      "summary": ""
+    },
+    {
+      "title": "Lex Novitas National Moot Court Competition, Runners-up",
+      "date": "2011",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Legal & Financial Consulting",
+      "level": "Master",
+      "keywords": ["business operations", "C", "contracts", "Credit", "clients", "documentation", "Drafting", "Finance", "financing", "financial", "funds", "insurance", "Law", "legal", "legal Research", "letters", "Managing", "marketing", "meetings", "Mergers and Acquisitions", "Exchange", "office", "procurement", "research", "sales", "Securities", "Tax", "team management"]
+    }
+  ],
+  "interests": [
+    {
+      "name": "Legal and Financial Matters",
+      "keywords": []
+    }
+  ],
+  "references": [],
+  "publications": [
+    {
+      "name": "Microfinance Institutions: A Cost Benefit Analysis",
+      "publisher": "LEXWITNESS",
+      "releaseDate": "2012-02",
+      "summary": ""
+    },
+    {
+      "name": "Trading Activity and CENVAT Credit Rules",
+      "publisher": "LEXWITNESS",
+      "releaseDate": "2011-08",
+      "summary": ""
+    },
+    {
+      "name": "Child Soldiers victim of Armed Conflicts and War crimes: an issue related to International Humanitarian Law",
+      "publisher": "Abhivyakti",
+      "releaseDate": "2010",
+      "summary": ""
+    },
+    {
+      "name": "Online Transactions and Consumer Protection Issues",
+      "publisher": "Student Teacher Seminar organized by ILS Law College",
+      "releaseDate": "2010-02-18",
+      "summary": ""
+    }
+  ],
+  "languages": [],
+  "volunteer": [],
+  "projects": [],
+  "certificates": []
+}

@@ -1,0 +1,126 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Finance Accountant",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Staff Accountant proficient flexible who adapts seamlessly to constantly evolving accounting processes and technology. Adept at budget forecasting, financial reporting and successful at managing multiple projects. Consistently meeting deadlines under pressure. Extensive knowledge of Accounting Software and processes.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Finance Accountant",
+      "url": "",
+      "startDate": "2012-05-01",
+      "endDate": "",
+      "summary": "Monitored new trends and technologies as they applied to audit areas for 23 funds. Worked on collaborated extensively with auditors during preliminary and year-end audit processes for 23 funds. Managed accounting operations for a total of 28 funds, accounting close, account reporting and reconciliations. Received 86 statements, to record, and cash, checks, and over 16,985 vouchers as well as reconciled records of bank transactions. Performed debit, credit and total of 196 accounts on computer spreadsheets/databases, using specialized accounting software.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Staff Accountant",
+      "url": "",
+      "startDate": "2011-01-01",
+      "endDate": "2012-03-01",
+      "summary": "Guided firm reconciliation, payroll, annual bonus, pension funds, annual reporting, and management of investments. Investigated and resolved discrepancies in monthly bank accounts while under tight deadlines. Revised and streamlined inefficient work procedures with automation software.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Accountant",
+      "url": "",
+      "startDate": "2005-05-01",
+      "endDate": "2010-09-01",
+      "summary": "Tracked all capital spending against approved capital requests. Thoroughly reviewed financial statements. Verified details of transactions, including funds received and total account balances. Coded the general ledger and processed vendor invoice payments.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Corporate Accountant",
+      "url": "",
+      "startDate": "1998-02-01",
+      "endDate": "2004-11-01",
+      "summary": "Maintained detailed administrative and procedural processes to improve accuracy and efficiency. Verified and logged in deadlines for responding to daily inquiries. Coordinated meetings with other department managers. Supervised and trained billing and collection staff.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Midwest Business College",
+      "url": "",
+      "area": "Business Management",
+      "studyType": "Associate of Arts",
+      "startDate": "",
+      "endDate": "1978",
+      "score": "",
+      "courses": [
+        "Advanced Financial Accounting", 
+        "Revenue Recognition", 
+        "Specialized Industry GAAP"
+      ]
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Accounting Skills",
+      "level": "",
+      "keywords": [
+        "Account reconciliation",
+        "Accounting",
+        "Accounting software",
+        "Accounts payable",
+        "Accounts receivable",
+        "Administrative",
+        "Approach",
+        "Automation",
+        "Balance sheet",
+        "Bank reconciliations",
+        "Billing",
+        "Budget",
+        "Credit",
+        "Databases",
+        "Debit",
+        "Documentation",
+        "Due diligence",
+        "Finance",
+        "Financial Accounting",
+        "Financial reports",
+        "Financial statements",
+        "Financial statement analysis",
+        "Forecasting",
+        "Funds",
+        "General ledger",
+        "General ledger accounting",
+        "Investments",
+        "Managerial",
+        "Meetings",
+        "Payroll",
+        "Processes",
+        "Coding",
+        "Quick Books",
+        "Reporting",
+        "Revenue Recognition",
+        "Spreadsheets",
+        "Year-end"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

@@ -1,0 +1,120 @@
+{
+  "basics": {
+    "name": "Not provided",
+    "label": "Service Advocate IV- Clinical Support",
+    "image": "",
+    "email": "Not provided",
+    "phone": "Not provided",
+    "url": "",
+    "summary": "Over 10 years of the insurance industry experience. Strong analytical, documentation and research skills.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Not provided",
+      "position": "Service Advocate IV- Clinical Support",
+      "url": "",
+      "startDate": "01/2015",
+      "endDate": "Current",
+      "summary": "Assist providers with the entry and update requests for medical clearances. Research, coordinate and resolve inquiries and claims exceptions. Identify, document and monitor process improvements. Maintain records, reports, or files.",
+      "highlights": [
+        "Experience in health insurance",
+        "Experience working with healthcare products",
+        "Experience working with Sales or Sales Operational areas"
+      ]
+    },
+    {
+        "name": "Not provided",
+        "position": "Service Advocate V- Sales Support Agent Service",
+        "url": "",
+        "startDate": "08/2013",
+        "endDate": "01/2015",
+        "summary": "Knowledge of all lines of business to include Over 65, MIPPA, Medicare Advantage, Under 65 Health Care Reform plans, BlueCare HMO, Blue Options PPO, Blue Select PPO, Underwritten plans, Research and resolve all inquiries both sales-related and service.",
+        "highlights": [
+            "Processing systems experience",
+            "Assist agents with day to day inquiries",
+            "Train and educate agents on products, procedures and applicable rules and regulations."
+         ]
+     },
+     {
+        "name": "Not provided",
+        "position": "Service Advocate IV- Enrollment Maintenance and Billing",
+        "url": "",
+        "startDate": "03/2007",
+        "endDate": "08/2013",
+        "summary": "Knowledge of all lines of Over 65, MIPPA, MedAdvantage, Under 65 Healthcare Reform plans to include BlueCare HMO, Blue Options PPO, Blue Select PPO, Underwritten plans, Ancillary products such as Dental and Life.",
+        "highlights": [
+            "Leader of the Senior Market Continuous Improvement Team",
+            "Project management and implementation process improvement items."
+         ]
+     }
+   ],
+  "education": [
+    {
+      "institution": "Florida State College at Jacksonville",
+      "url": "",
+      "area": "Insurance",
+      "studyType": "All Lines Claims Adjuster",
+      "startDate": "2014",
+      "endDate": "2014",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "University of North Florida",
+      "url": "",
+      "area": "Psychology",
+      "studyType": "Bachelor of Arts",
+      "startDate": "2000",
+      "endDate": "2004",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Jacksonville University",
+      "url": "",
+      "area": "Nursing",
+      "studyType": "Bachelor of Science",
+      "startDate": "1999",
+      "endDate": "2001",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "St Johns River Community College",
+      "url": "",
+      "area": "Psychology",
+      "studyType": "Associate of Arts",
+      "startDate": "1998",
+      "endDate": "2000",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Claims Submission",
+      "level": "Advanced",
+      "keywords": ["Claim authorization", "Computerized claim submission", "Paper claim submission"]
+    },
+    {
+      "name": "People Skills",
+      "level": "Advanced",
+      "keywords": ["Problem-solving", "Organizational skills"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

@@ -1,0 +1,79 @@
+{
+  "basics": {
+    "name": "Not specified",
+    "label": "Outside Machinist",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "15 year military veteran with extensive experience in carrier overhaul planning, scheduling, and administrative skills.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Not specified",
+      "position": "Outside Machinist",
+      "url": "",
+      "startDate": "2012-12",
+      "endDate": "current",
+      "summary": "Skilled in the installation of propulsion machinery, sea valves, steering gear, anchor handling equipment, elevators, pumps, ventilation fans, and weapons systems. Familiar with the procedures for precision line boring, precision alignment of machinery, bearing fitting, machinery assembly, surface machining, precision reaming, and machinery and weapons testing.",
+      "highlights": []
+    },
+    {
+      "name": "Not specified",
+      "position": "Aviation Ordnanceman",
+      "url": "",
+      "startDate": "1996-11",
+      "endDate": "2012-01",
+      "summary": "Worked in various capacities, coordinating the efforts shipyard workers and Navy Officers, preparing, controlling, documenting, planning, and accounting for work candidates required for reentry work, supervising military and civilian personnel, maintaining equipment, and coordinating the implementation of safety programs.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Tidewater Tech School of Welding",
+      "url": "",
+      "area": "Welding",
+      "studyType": "",
+      "startDate": "2012-09-21",
+      "endDate": "",
+      "score": "3.83",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Welding",
+      "level": "",
+      "keywords": [
+        "Shielded Metal Arc Weld",
+        "Flux Core Arc Weld",
+        "Administrative",
+        "Inspection",
+        "Inventory",
+        "Maintenance Schedules",
+        "Weapons",
+        "Navy Publications",
+        "Record Keeping",
+        "Safety",
+        "Schematics",
+        "Test Equipment"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

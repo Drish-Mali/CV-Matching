@@ -1,0 +1,133 @@
+{
+  "basics": {
+    "name": "",
+    "label": "INFORMATION TECHNOLOGY MANAGER / NETWORK ENGINEER",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "A highly skilled and accomplished Information Technology Manager with over 16 years of expertise in planning, implementing and streamlining IT systems to ensure maximum customer satisfaction and business revenue. Strong leader with demonstrated ability to work effectively with individuals at all levels and in all functional areas. Exceptional communication and project management skills with the ability to successfully manage multiple priorities and assignments.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Wilkes & McHugh",
+      "position": "Information Technology Manager / Network Engineer",
+      "url": "",
+      "startDate": "2006-02-01",
+      "endDate": "Present",
+      "summary": "Responsible for all day-to-day operations and functions of Wilkes & McHugh's six offices and 300 staff members. Currently lead a team of 6 IT professionals and Developers in the planning, upgrades, and implementation of IT systems, business applications, and development of new software tools. Work closely with the CIO and senior management to ensure business and technology objectives are aligned. Researched new technologies and calculated future needs to achieve accurate capacity planning. Negotiated hardware and software purchases and maintenance contracts.",
+      "highlights": [
+        "Dramatically reduced IT costs and maintenance by virtualizing the company's infrastructure using VMware.",
+        "Planned and executed Active Directory domain migration from 2008 to 2012 R2.",
+        "Coordinated the planning and migration to MPLS network for 8 sites, including upgrades of all routers, switches and network equipment.",
+        "Streamlined operations by designing new Citrix infrastructure using Netscaler load balancers to ensure better speed and connectivity with less downtime for remote offices.",
+        "Installed and configuring Barracuda Spam & Virus Firewalls resulting in the reduction of Spam by 40%.",
+        "Reduced desktop & application deployment times by 60% by designing and implementing Microsoft's System Center Configuration Manager."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Network Engineer",
+      "url": "",
+      "startDate": "2003-09-01",
+      "endDate": "2006-01-31",
+      "summary": "Administered and managed a Windows 2003 server network environment. Responsible for all LAN and WAN duties of local and remote Networks. Acted as a technical consultant for our clients and for various IT projects. Provide End-User Support for Windows XP and 2000 Operating Systems. Installed and implemented Exchange 2003 mail server. Implemented Server and Desktop security using Mcafee Enterprise and ePolicy Orchestrator. Installed and configured Web servers, FTP servers, and POP3 mail servers. Manage Cisco 1900 Switches and 2600 Routers. Configured VPN Remote Access for users. Implemented software, Domain policies, patches and upgrades using Group Policy and SUS. Trained new employees in Systems Administration and Web development.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Network Support Technician",
+      "url": "",
+      "startDate": "2003-01-01",
+      "endDate": "2003-08-31",
+      "summary": "Provided network and desktop support to over 800 users Provided technical support to all offices of the S.B.A. Domain Supported the Help Desk using Help Star software Troubleshooting of Windows 98 and 2000 Desktop Computers Implemented Group Policy Objects to control desktop environment and security Performed Hardware and Software upgrades and replacements Performed installations and troubleshooting of MS Office Suite Managed users, computers, and Organizational Units through Active Directory ",
+      "highlights": [
+        "Created disc images of desktop and notebook computers using Norton Ghost",
+        "Troubleshooting and repairs of Laser Printers and Copy Machines"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Maryland University College",
+      "url": "",
+      "area": "Management Information Systems",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Microsoft Certified Technology Specialist 2008",
+      "date": "",
+      "issuer": "Microsoft",
+      "url": ""
+    },
+    {
+      "name": "Citrix Certified Administrator",
+      "date": "",
+      "issuer": "Citrix",
+      "url": ""
+    },
+    {
+      "name": "Information Systems Management Certificate",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "Project Management Certificate",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Platforms",
+      "level": "",
+      "keywords": [
+        "Windows 2000, 2003 Server and Professional, Windows XP (Pro and Home), Win 3.11/95/98, Dos 6.22, Citrix ICA, MS Exchange 2000"
+      ]
+    },
+    {
+      "name": "Hardware",
+      "level": "",
+      "keywords": [
+        "HP, IBM, Dell, and Intel Based Server and Desktop Platforms, Cisco 2500 Switches, Sonic Wall Hardware VPNs, HP Laser Jets, Toshiba E-310 Color Copier, Toshiba and Sony Laptops, Inter-tel"
+      ]
+    },
+    {
+      "name": "Software",
+      "level": "",
+      "keywords": [
+        "MS Office, Visio, Citrix Metaframe XP, Symantec: PC Anywhere, Ghost, Antivirus, Utilities, Win fax; McAfee Virus Scan, Adobe: Acrobat, Illustrator, Photoshop, Partition Magic, Adware, Spyware"
+      ]
+    },
+    {
+      "name": "Networking",
+      "level": "",
+      "keywords": [
+        "TCP/IP, Wireless 802.11 a/b/g, DNS, WINS, DHCP"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

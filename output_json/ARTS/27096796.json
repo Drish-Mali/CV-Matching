@@ -1,0 +1,97 @@
+{
+"basics": {
+"name": "",
+"label": "Dance Instructor",
+"image": "",
+"email": "",
+"phone": "",
+"url": "",
+"summary": "Enthusiastic dance instructor with superb leadership and communication skills. Easily cultivates trusting and productive relationships with students, parents, teachers and administration. Dedicated to creating a classroom atmosphere that is stimulating, encouraging and supportive for all students.",
+"location": {
+"address": "",
+"postalCode": "",
+"city": "City",
+"countryCode": "",
+"region": "State"
+},
+"profiles": [
+]
+},
+"work": [
+{
+"name": "Company Name",
+"position": "Dance Instructor",
+"url": "",
+"startDate": "2008-06-01",
+"endDate": "Current",
+"summary": "Providing quality instruction for various dance styles such as Ballet, Pointe, Jazz, Contemporary, Tap, Modern, and Musical Theatre.",
+"highlights": [
+]
+},
+{
+"name": "Company Name",
+"position": "Company member",
+"url": "",
+"startDate": "2008-01-01",
+"endDate": "Current",
+"summary": "",
+"highlights": [
+]
+},
+{
+"name": "Company Name",
+"position": "Apprentice Company Member",
+"url": "",
+"startDate": "2009-01-01",
+"endDate": "2010-08-01",
+"summary": "",
+"highlights": [
+]
+}
+],
+"volunteer": [
+],
+"education": [
+{
+"institution": "Florida International University",
+"url": "",
+"area": "Early Childhood Education",
+"studyType": "Bachelor of Arts",
+"startDate": "",
+"endDate": "2014",
+"score": "",
+"courses": [
+"ESOL endorsed"
+]
+}
+],
+"awards": [
+],
+"certificates": [
+],
+"publications": [
+],
+"skills": [
+{
+"name": "Dance",
+"level": "",
+"keywords": [
+"Ballet",
+"Pointe",
+"Contemporary",
+"Modern",
+"Jazz",
+"Tap",
+"Musical Theatre"
+]
+}
+],
+"languages": [
+],
+"interests": [
+],
+"references": [
+],
+"projects": [
+]
+}

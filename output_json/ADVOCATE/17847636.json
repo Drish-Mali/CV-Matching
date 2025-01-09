@@ -1,0 +1,94 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Customer Service Agent",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "To obtain a position that will provide me with the necessary tools in order for me to provide excellent customer service. One that will allow room for advancement and continued educational training.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Customer Service Agent",
+      "url": "",
+      "startDate": "2015-02-01",
+      "endDate": "current",
+      "summary": "Answering phones, discussing patient accounts with the patients, providing assistance to patients with their bills, reading EOB's to provide information, collecting payments, scheduling payment plans for large balance accounts, updating patient information in Allegra, changing the strategy on accounts, update insurance information, schedule claims to be sent, print and mail documents, fax documents, all other duties as assigned by management.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "File Clerk",
+      "url": "",
+      "startDate": "2014-07-01",
+      "endDate": "2015-02-01",
+      "summary": "Sorting & prepping paper termed Employee Files, accurately removing any confidential patient information from all Employee files...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "DME Billing Specialist",
+      "url": "",
+      "startDate": "2013-04-01",
+      "endDate": "2014-03-01",
+      "summary": "Responsible for obtaining evidence of Durable Medical Equipment dispensed. Billing charges for equipment to the patient and/or insurance company...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Billing Document Specialist",
+      "url": "",
+      "startDate": "2006-05-01",
+      "endDate": "2013-03-01",
+      "summary": "Responsible for the data entry of orders for Durable Medical Equipment dispensed from Advocate Hospital Emergency Rooms and Doctor's Offices...",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Bryant & Stratton College",
+      "url": "",
+      "area": "Medical Billing & Coding Reimbursement",
+      "studyType": "AAS",
+      "startDate": "",
+      "endDate": "2016",
+      "score": "",
+      "courses": ["Health Service Administration Continuing education in Medical Coding & Reimbursement"]
+    },
+    {
+      "institution": "Everest College",
+      "url": "",
+      "area": "Admin Assistance",
+      "studyType": "Certificate of Completion",
+      "startDate": "2004",
+      "endDate": "2005",
+      "score": "",
+      "courses": ["Medical Administrative Assistance"]
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Customer Service",
+      "level": "",
+      "keywords": ["10 key", "Administrative Assistant", "Billing", "CPR certified", "CPT", "Data entry", "Medical terminology", "Detail-oriented", "Microsoft Excel", "Office support"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

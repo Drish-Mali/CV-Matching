@@ -1,0 +1,117 @@
+{
+  "basics": {
+    "name": "Not Provided",
+    "label": "Database Programmer/Analyst (.NET Developer)",
+    "image": "",
+    "email": "Not Provided",
+    "phone": "Not Provided",
+    "url": "Not Provided",
+    "summary": "Software Engineer with 2 years in Web Developer specializing in front end development. Proficient in Software Development Life Cycle (SDLC) and SRUM AGILE methodologies of development process to produce software solutions by team.",
+    "location": {
+      "address": "Not Provided",
+      "postalCode": "Not Provided",
+      "city": "Not Provided",
+      "countryCode": "Not Provided",
+      "region": "Not Provided"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Database Programmer/Analyst (.NET Developer)",
+      "url": "Not Provided",
+      "startDate": "2014-06-01",
+      "endDate": "2016-02-01",
+      "summary": "Worked as Graduate Research Assistant performing the duties of Database Programmer/Analyst at Application Development Network (ADN), DoIT which supports University of Missouri System faculty and students through agile and rapid creation of new applications.",
+      "highlights": ["C#, Java, VB.Net, C, C++",".Net Technologies: .Net Framework 4.0/4.5, ASP.Net, ASP.NET MVC, VB.Net, ADO.Net, Entity Framework, AJAX, Web Service, LINQ, Entity Framework, LINQ queries. ASP.Net, HTML, CSS, JavaScript, JQuery, Bootstrap CSS.","IDE: Visual Studio, Eclipse, NetBeans, Dreamweaver","Database: SQL, MySql","Operating System: Windows","Version Controls : Tortoise SVN, GitHub","Others: Microsoft Word, Excel, Access, Power point"]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Missouri",
+      "url": "Not Provided",
+      "area": "Computer Engineering",
+      "studyType": "Master of Science",
+      "startDate": "Not Provided",
+      "endDate": "Not Provided",
+      "score": "3.7",
+      "courses": []
+    },
+    {
+      "institution": "Jawaharlal Nehru Technological University",
+      "url": "Not Provided",
+      "area": "Electrical and Electronics Engineering",
+      "studyType": "Bachelor of Technology",
+      "startDate": "Not Provided",
+      "endDate": "2013-05-01",
+      "score": "3.65",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Programming",
+      "level": "Master",
+      "keywords": ["C#", "Java", "VB.Net", "C", "C++", ".Net Framework 4.0/4.5", "ASP.Net", "ASP.NET MVC", "VB.Net", "ADO.Net", "Entity Framework", "AJAX", "Web Service", "LINQ", "Entity Framework", "LINQ", "HTML", "CSS", "JavaScript", "JQuery", "Bootstrap CSS"]
+    },
+    {
+      "name": "IDEs",
+      "level": "Master",
+      "keywords": ["Visual Studio", "Eclipse", "NetBeans", "Dreamweaver"]
+    },
+    {
+      "name": "Database",
+      "level": "Master",
+      "keywords": ["SQL", "MySql"]
+    }, 
+    {
+      "name": "Operating System", 
+      "level": "Master", 
+      "keywords": ["Windows"]
+    },
+    {
+      "name": "Version Controls",
+      "level": "Master",
+      "keywords": ["Tortoise SVN", "GitHub"]
+    },
+    {
+      "name": "Office Tools",
+      "level": "Master",
+      "keywords": ["Microsoft Word", "Excel", "Access", "Power point"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": [
+    {
+      "name": "Atlas",
+      "startDate": "Not Provided",
+      "endDate": "Not Provided",
+      "description": "This project is all about requesting, scheduling the tutoring sessions. There are three roles tied to application they are Tutee, Tutor, and Scheduler. A tutee requests for tutoring for the classes that he/she enrolled and gives availability apart from the class timing through Availability Grid and Tutor submits availability.",
+      "highlights": [],
+      "url": "Not Provided"
+    },
+    {
+      "name": "Occupational Therapy",
+      "startDate": "Not Provided",
+      "endDate": "Not Provided",
+      "description": "The goal of the project to refractor the old application with new templates and replace the assemblies. Adding functionalities to upload pdf files.",
+      "highlights": [],
+      "url": "Not Provided"
+    },
+    {
+      "name": "AppInventory",
+      "startDate": "Not Provided",
+      "endDate": "Not Provided",
+      "description": "The goal of the project to allow the admins, managers, scrum masters of the organization to keep track various applications which includes their developed, ongoing and future projects.",
+      "highlights": [],
+      "url": "Not Provided"
+    }
+  ]
+}

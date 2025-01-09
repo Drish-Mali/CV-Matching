@@ -1,0 +1,196 @@
+{
+  "basics": {
+    "name": "Anonymous",
+    "label": "Lead Operations Engineer - Global Hawk Project",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Seasoned aerospace professional with extensive experience in fixed and rotary wing flight testing, test management, systems integration and UAV operations. Background includes greater than 20 years of experience in flight test planning, execution and reporting and more than 6 years of high-altitude, long-endurance Unmanned Aerial Systems (UAS) operations experience and 10 years total UAS operations experience.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+    "name": "Global Hawk Project Company Name",
+    "position": "Lead Operations Engineer",
+    "url": "",
+    "startDate": "2006-06-01",
+    "endDate": "2015-01-01",
+    "summary": "Managed all operational aspects of Global Hawk high-altitude, long-endurance UAS, (2 operational air vehicles, 3 ground control stations) and scientific payload integration.",
+    "highlights": [
+      "Developed initial Operational Concept for the Global Hawk UAS for NASA operations and generated testing roadmap",
+      "Developed syllabus and training materials for NASA Global Hawk Mission directors and UAS ground observers.",
+      "Led the NASA effort (in concert with Northrop Grumman Corporation and L-3 Communications engineers) to resolve unexpected developmental problems",
+      "Generated requirements for workmanship, functional test and environmental test for Science payloads planned for installation on the Global Hawk."
+    ]
+  },
+  {
+    "name": "Company Name",
+    "position": "Operations Engineer",
+    "url": "",
+    "startDate": "1997-01-01",
+    "endDate": "2006-06-01",
+    "summary": "Operational roles including various projects like Missile Defense Agency DC-10 WASP Structural Restoration and B-52H Launch Platform Aircraft Research Vehicle pylon construction.",
+    "highlights": []
+  },
+  {
+    "name": "Company Name",
+    "position": "Senior Engineer",
+    "url": "",
+    "startDate": "1996-06-01",
+    "endDate": "1997-01-01",
+    "summary": "Planned test programs to evaluate operability, suitability, and engine/airframe integration and compatibility of F-16 propulsion systems.",
+    "highlights": []
+  },
+  {
+    "name": "Company Name",
+    "position": "Project Manager / Senior Flight Test Engineer",
+    "url": "",
+    "startDate": "1986-10-01",
+    "endDate": "1996-06-01",
+    "summary": "Roles included Project Manager and Flight Test Engineer",
+    "highlights": []
+  },
+  {
+    "name": "Company Name",
+    "position": "Flight Test Engineer",
+    "url": "",
+    "startDate": "1983-01-01",
+    "endDate": "1987-09-01",
+    "summary": "Flight Test Engineer",
+    "highlights": []
+  }
+  ],
+  "education": [
+    {
+      "institution": "NASA",
+      "url": "",
+      "area": "System Requirements",
+      "studyType": "Course",
+      "startDate": "2004-01-01",
+      "endDate": "2004-01-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "NASA",
+      "url": "",
+      "area": "Advanced System Safety Practices",
+      "studyType": "Course",
+      "startDate": "2001-01-01",
+      "endDate": "2001-01-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "US Army",
+      "url": "",
+      "area": "Personnel Management for Executives (Resident Course)",
+      "studyType": "Course",
+      "startDate": "1994-01-01",
+      "endDate": "1994-01-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "US Air Force Institute of Technology University of Kansas",
+      "url": "",
+      "area": "Test and Evaluation Management",
+      "studyType": "Course",
+      "startDate": "1994-01-01",
+      "endDate": "1994-01-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "CKC Laboratories",
+      "url": "",
+      "area": "Hazards of High-Intensity Electromagnetic Radiation to Flight",
+      "studyType": "Course",
+      "startDate": "1991-01-01",
+      "endDate": "1991-01-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "California Polytechnic State University",
+      "url": "",
+      "area": "Aeronautical Engineering",
+      "studyType": "Bachelor of Science",
+      "startDate": "1978-01-01",
+      "endDate": "1982-01-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "NASA Exceptional Service Medal",
+      "date": "2011-01-01",
+      "awarder": "NASA",
+      "summary": ""
+    },
+    {
+      "title": "NASA Dryden Directors Safety Award",
+      "date": "2000-01-01",
+      "awarder": "NASA",
+      "summary": ""
+    },
+    {
+      "title": "U.S. Army Commanders Award for Civilian Service",
+      "date": "1996-01-01",
+      "awarder": "U.S. Army",
+      "summary": ""
+    },
+    {
+      "title": "US Army Commanders Award for General Excellence",
+      "date": "1987-01-01",
+      "awarder": "U.S. Army",
+      "summary": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Flight test management",
+      "level": "Expert",
+      "keywords": []
+    },
+    {
+      "name": "UAS operations",
+      "level": "Expert",
+      "keywords": []
+    },
+    {
+      "name": "Systems integration and test",
+      "level": "Expert",
+      "keywords": []
+    },
+    {
+      "name": "Aircraft modification management",
+      "level": "Expert",
+      "keywords": []
+    },
+    {
+      "name": "Flight test engineering",
+      "level": "Expert",
+      "keywords": []
+    },
+    {
+      "name": "Team leadership",
+      "level": "Expert",
+      "keywords": []
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "languages": [],
+  "publications": [],
+  "certificates": []
+}

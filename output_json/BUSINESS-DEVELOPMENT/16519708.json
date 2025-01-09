@@ -1,0 +1,99 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Director of Business Development",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Award-winning sales & marketing executive with extensive experience in growing and exceeding sales in multi-million dollar business operations in various industries. Pragmatic and results orientated, focused on bottom line results, with a proven track record of achieving and exceeding the standards of performance set out for any sales project. Skilled in utilizing technology as a tool to improve organizational efficiency.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Director of Business Development",
+      "url": "",
+      "startDate": "2014-03-01",
+      "endDate": "",
+      "summary": "Responsible for growing the Baptist Portfolio of eleven outpatient facilities in the Fort Lauderdale market. Developed business plans and initiatives to assess new markets, analyze business opportunities etc.",
+      "highlights": []
+    },
+    {
+      "name": "Director of Business Development Company Name",
+      "position": "Director of Business Development",
+      "url": "",
+      "startDate": "2013-03-01",
+      "endDate": "2014-03-01",
+      "summary": "Formed strategic partnerships and negotiated contracts with mass retailers and distributor's which resulted in the Greenie Tots product line being sold in national Fortune 500 accounts etc.",
+      "highlights": []
+    },
+    {
+      "name": "Pharmaceutical Sales Representative 2 Company Name",
+      "position": "Pharmaceutical Sales Representative",
+      "url": "",
+      "startDate": "2003-08-01",
+      "endDate": "2013-03-01",
+      "summary": "Responsible for a portfolio of billion dollar revenue medications including Lipitor®, Viagra®, Celebrex®, Lyrica®, Chantix®, Toviaz®, and Premarin® to increase market base and change physician prescribing habits etc.",
+      "highlights": ["Winner:Florida South Turn Up The Heat Contest, Top Performer Award (2007, 2006,2005,& 2004)."]
+    },
+    {
+      "name": "Intern Company Name",
+      "position": "Intern",
+      "url": "",
+      "startDate": "2002-01-01",
+      "endDate": "2002-08-01",
+      "summary": "Developed and maintained monthly expense budget reports for entire Managed Care sales force (NHO) to evaluate budget spending & Developed and maintained monthly expense budget reports for entire Managed Care sales force (NHO) to evaluate budget spending & allocation of resources etc.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Florida A&M University",
+      "url": "",
+      "area": "Business Administration",
+      "studyType": "MBA",
+      "startDate": "",
+      "endDate": "2003-08-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Florida A&M University",
+      "url": "",
+      "area": "Business Administration",
+      "studyType": "BS",
+      "startDate": "",
+      "endDate": "2003-08-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Corporate Skills",
+      "level": "",
+      "keywords": [
+        "Microsoft Office Suite",
+        "Quicken/ Quick Books",
+        "Adobe Creative Suite",
+        "Microsoft Project"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

@@ -1,0 +1,111 @@
+{
+  "basics": {
+    "name": "Unknown",
+    "label": "System Administrator",
+    "email": "",
+    "phone": "",
+    "location": {
+      "address": "Ogden, UT 84201",
+      "postalCode": "",
+      "city": "Ogden",
+      "countryCode": "US",
+      "region": "Utah"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "System Administrator",
+      "startDate": "2009-03-01",
+      "endDate": "present",
+      "summary": "System Administrator responsibilities include maintaining server's operation, security, analyze and diagnose system hardware and software components, setting up a single sign on BAG group and bringing it current with the Big Fix patching."
+    },
+    {
+      "name": "Company Name",
+      "position": "Information Technology Computer System Administrator",
+      "startDate": "1989-01-01",
+      "endDate": "2007-04-01",
+      "summary": "Assist public electronic filing programmers by analyzing, diagnosing and making proposals on error in software to getting there software to passing the IRS standards for electronic filing."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Weber State University",
+      "area": "Sociology and Social Work Psychology",
+      "studyType": "Bachelor",
+      "startDate": "NA",
+      "endDate": "1983-01-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Performance Award",
+      "date": "2013-08-01",
+      "awarder": "Company Name",
+      "summary": ""
+    },
+    {
+      "title": "Performance Award",
+      "date": "2012-08-01",
+      "awarder": "Company Name",
+      "summary": ""
+    },
+    {
+      "title": "Performance Award",
+      "date": "2011-08-01",
+      "awarder": "Company Name",
+      "summary": ""
+    },
+    {
+      "title": "Performance Award",
+      "date": "2010-08-01",
+      "awarder": "Company Name",
+      "summary": ""
+    },
+    {
+      "title": "Special Act award",
+      "date": "2008-04-01",
+      "awarder": "Company Name",
+      "summary": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "System Administrator",
+      "level": "Expert",
+      "keywords": [
+        "Computers trouble shooting",
+        "Microsoft Access",
+        "Microsoft Excel",
+        "Microsoft PowerPoint",
+        "Microsoft Word",
+        "Computer Security",
+        "Anti Hacking",
+        "HIDS",
+        "Microsoft Event logging",
+        "Adobe",
+        "Training"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [
+    {
+      "name": "Personal Interests",
+      "keywords": [
+        "Riding Motorcycles",
+        "Walks",
+        "Hiking",
+        "riding bicycles",
+        "Camping",
+        "Spending quality time with family and friends",
+        "Tracking the Stock Market"
+      ]
+    }
+  ],
+  "references": [],
+  "projects": []
+}

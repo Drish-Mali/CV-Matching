@@ -1,0 +1,72 @@
+{
+  "basics": {
+    "name": "Anonymous",
+    "label": "Customer Care Advocate",
+    "image": "",
+    "email": "MISSING",
+    "phone": "MISSING",
+    "url": "MISSING",
+    "summary": "Motivated individual with exceptional customer service skills.",
+    "location": {
+      "address": "MISSING",
+      "postalCode": "MISSING",
+      "city": "MISSING",
+      "countryCode": "MISSING",
+      "region": "MISSING"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Customer Care Advocate",
+      "url": "MISSING",
+      "startDate": "2019-04",
+      "endDate": "Current",
+      "summary": "Respond to phone calls and correspondence appeals, corrected claims, timely filing, etc. Responding to high call volumes of incoming calls from current and prospective members, providers as well as internal and external business partners.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Customer Care Representative",
+      "url": "MISSING",
+      "startDate": "2017-03",
+      "endDate": "2019-04",
+      "summary": "Resolved customer inquiries and problems through effective interaction with both internal and external staff.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "West Roxbury High School",
+      "url": "MISSING",
+      "area": "MISSING",
+      "studyType": "High School",
+      "startDate": "MISSING",
+      "endDate": "MISSING",
+      "score": "MISSING",
+      "courses": [
+        "MISSING"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Customer Service",
+      "level": "Advanced",
+      "keywords": [
+        "Creative problem solver",
+        "Exceptional communication skills",
+        "Strong client relations",
+        "Strategic sales knowledge",
+        "Proficient in cash management",
+        "Quick learner",
+        "Mediation capability",
+        "Attention to detail"
+      ]
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

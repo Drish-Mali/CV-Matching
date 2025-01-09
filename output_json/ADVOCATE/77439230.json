@@ -1,0 +1,88 @@
+{
+  "basics": {
+    "name": "Anonymous",
+    "label": "Market Consultant - Healthcare Advocate",
+    "summary": "Ambitious and dedicated managed care professional with robust organizational, communication and customer service skills. Multi-disciplinary industry expertise with an emphasis in provider outreach, research/analysis and data integrity.",
+    "profiles": []
+  },
+  "education": [
+    {
+      "institution": "University of New Mexico",
+      "area": "Business Administration Human Resources Management",
+      "studyType": "BBA"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Various",
+      "keywords": [
+        "Relationship and team building",
+        "Organizational planning",
+        "Government relations knowledge",
+        "Sound decision-making",
+        "Provider education and communication",
+        "Excellent research skills",
+        "Personal and professional integrity",
+        "Claims analysis and review specialist",
+        "Database management",
+        "Project management",
+        "Made system and operational changes",
+        "Audited monthly rosters",
+        "Contract creation",
+        "Claims analysis",
+        "Lean Six Sigma"
+      ]
+    }
+  ],
+  "work": [
+    {
+      "name": "Unnamed Company",
+      "position": "Market Consultant - Healthcare Advocate",
+      "startDate": "August 2015"
+    },
+    {
+      "name": "Unnamed Company",
+      "position": "Provider Network Specialist",
+      "startDate": "February 2014",
+      "endDate": "August 2015"
+    },
+    {
+      "name": "Unnamed Company",
+      "position": "Claims and Third Party Liability Supervisor",
+      "startDate": "December 2013",
+      "endDate": "February 2014"
+    },
+    {
+      "name": "Unnamed Company",
+      "position": "Provider Relations Field Representative",
+      "startDate": "November 2012",
+      "endDate": "December 2013"
+    },
+    {
+      "name": "Unnamed Company",
+      "position": "Supervisor",
+      "startDate": "September 2011",
+      "endDate": "November 2012"
+    },
+    {
+      "name": "Unnamed Company",
+      "position": "Recruitment Specialist",
+      "startDate": "February 2010",
+      "endDate": "September 2011"
+    },
+    {
+      "name": "Unnamed Company",
+      "position": "HRIS Administrator",
+      "startDate": "September 2008",
+      "endDate": "November 2010"
+    }
+  ],
+  "volunteer": [],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

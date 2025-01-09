@@ -1,0 +1,114 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Assistant Chef",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "I am seeking a competitive and challenging environment where I can serve your organization and establish a career for myself. I want to excel in this field with hard work, perseverance and dedication.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Assistant Chef",
+      "url": "",
+      "startDate": "2012-01-01",
+      "endDate": "2014-06-01",
+      "summary": "Led and trained workers of 4 in food preparation, service, sanitation, and safety procedures. Resolved customer complaints regarding food service.",
+      "highlights": ["Led and trained workers of 4", "Resolved customer complaints"]
+    },
+    {
+      "name": "Company Name",
+      "position": "SBA-Kitchen",
+      "url": "",
+      "startDate": "2010-07-01",
+      "endDate": "2014-05-01",
+      "summary": "Check the quality of raw or cooked food products to ensure that standards are met. Prepare and cook foods of all types, either on a regular basis or for special guests or functions.",
+      "highlights": ["Checked the quality of raw or cooked food products", "Prepared and cooked foods of all types"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Restaurant Cook",
+      "url": "",
+      "startDate": "2008-08-01",
+      "endDate": "2009-06-01",
+      "summary": "Inspect and clean food preparation areas, such as equipment and work surfaces, or serving areas to ensure safe and sanitary food-handling practices. Ensure food is stored and cooked at correct temperature by regulating temperature of ovens, broilers, grills, and roasters.",
+      "highlights": ["Inspected and cleaned food preparation areas", "Ensured food is stored and cooked at correct temperature"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Cook",
+      "url": "",
+      "startDate": "2005-08-01",
+      "endDate": "2008-06-01",
+      "summary": "Inspect and clean food preparation areas, such as equipment and work surfaces, or serving areas to ensure safe and sanitary food-handling practices. Substitute for or assist other cooks during emergencies or rush periods.",
+      "highlights": ["Inspected and cleaned food preparation areas", "Substituted for or assisted other cooks during emergencies or rush periods"]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "New England College",
+      "url": "",
+      "area": "Healthcare Administration",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "2016-01-01",
+      "score": "Magna Cum Laude",
+      "courses": []
+    },
+    {
+      "institution": "Art Institute of Washington",
+      "url": "",
+      "area": "Culinary Arts",
+      "studyType": "Associate",
+      "startDate": "",
+      "endDate": "2005-09-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Culinary Skills",
+      "level": "Master",
+      "keywords": ["Food Preparation", "Service Sankitation"]
+    },
+    {
+      "name": "Communication",
+      "level": "Master",
+      "keywords": ["Verbal", "Written"]
+    },
+    {
+      "name": "Computer-Literate",
+      "level": "Intermediate",
+      "keywords": ["Word Processing", "Spreadsheets", "E-mail"]
+    },
+    {
+      "name": "Team Player",
+      "level": "Master",
+      "keywords": ["Building Trusting Relationships"]
+    },
+    {
+      "name": "Problem-Solving",
+      "level": "Master",
+      "keywords": ["Resolve Complaints", "Generate Workable Solutions"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

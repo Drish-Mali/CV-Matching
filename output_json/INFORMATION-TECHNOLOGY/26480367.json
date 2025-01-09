@@ -1,0 +1,100 @@
+{
+  "basics": {
+    "name": "IT TECHNOLOGY SPECIALIST",
+    "label": "IT Technology Specialist",
+    "email": "",
+    "phone": "",
+    "summary": "Analyst with extensive experience in Information Technology. Proficiencies include trouble shooting hardware and software issues.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "IT Technology Specialist",
+      "startDate": "2015-09-01",
+      "endDate": "2016-04-01",
+      "summary": "Monitored multiple databases to keep track of all company inventory. Successfully led key projects which resulted in [positive outcome].",
+      "highlights": [
+        "Monitored multiple databases to keep track of all company inventory.",
+        "Successfully led key projects.",
+        "Provided onsite training.",
+        "Perform service, repair and/or install of company products."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Field Service Tech",
+      "startDate": "2014-03-01",
+      "endDate": "2015-04-01",
+      "summary": "Level 1 Field Service Tech Provided Tier1 & Tier2 level support; Perform Tier 3 level support to customers on operational or maintenance aspects of system equipment.",
+      "highlights": [
+        "Perform service, repair and/or install of company products.",
+        "Perform general maintenance, repair computer systems and peripheral equipment.",
+        "Replace and install cable (cat5) network cable."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "National American University",
+      "area": "Business Management",
+      "studyType": "Bachelor",
+      "startDate": "2005-08-01",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Robeson Community College",
+      "area": "Business Computer Programming",
+      "studyType": "Associate Degree",
+      "startDate": "1992-05-01",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Comptia Network",
+      "date": "2014-02-01",
+      "issuer": "Comptia",
+      "url": ""
+    },
+    {
+      "name": "Comptia A",
+      "date": "2014-02-01",
+      "issuer": "Comptia",
+      "url": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "IT Operation",
+      "level": "Expert",
+      "keywords": [
+        "TCP/IP",
+        "Network monitoring and tools",
+        "storage management",
+        "html",
+        "python",
+        "active directory",
+        "Microsoft operation installation and maintenance",
+        "fiber optic installation",
+        "Network Security"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

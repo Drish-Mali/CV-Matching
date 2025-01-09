@@ -1,0 +1,78 @@
+{
+  "basics": {
+    "name": "Payroll Accountant",
+    "label": "Accounting",
+    "summary": "Has a strong work ethic with over 7+ years working in a fast-paced environment providing high level support for senior management and various department teams.",
+    "skills": [
+      {
+        "name": "Accounting",
+        "level": "Master",
+        "keywords": [
+          "QuickBooks",
+          "Pivot tables",
+          "PeopleSoft",
+          "People Tools",
+          "Microsoft office",
+          "CSC Point IN system",
+          "Pro Series",
+          "Interpersonal",
+          "Analytical",
+          "Problem analysis",
+          "Technical",
+          "Organizational",
+          "Communication",
+          "Data entry skills",
+          "Journel entries sap professionalism",
+          "Adaptable",
+          "Trainable"
+        ]
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Payroll Accountant",
+      "startDate": "Apr 2014",
+      "endDate": "Current",
+      "summary": "Processed and managed payroll for over 500+ union and non-union employees on bi-weekly basis. Worked closely with CFO and Controller...",
+      "highlights": [ "Processed and managed payroll for over 500+ union and non-union employees...", "Mentored and trained C-level, Managers, and Staff on ADP (Human Resources and Payroll process functions)."]
+    },
+    {
+      "name": "Company Name",
+      "position": "Accounts Receivable",
+      "startDate": "Nov 2013",
+      "endDate": "Apr 2014",
+      "summary": "Created payment entries and batches of over 800 invoices. Handled the checks and kept record of all the Cash received in excel..."
+    },
+    {
+      "name": "Company Name",
+      "position": "Accounting/Finance Intern",
+      "startDate": "Jul 2013",
+      "endDate": "Aug 2013"
+    },
+    {
+      "name": "Company Name",
+      "position": "Accounting Assistant",
+      "startDate": "Sep 2012",
+      "endDate": "Feb 2013"
+    },
+    {
+      "name": "Company Name",
+      "position": "Administrative Assistant",
+      "startDate": "Mar 2008",
+      "endDate": "Apr 2011"
+    }
+  ],
+  "education": [
+    {
+      "institution": "William Paterson University",
+      "area": "Accounting",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "May 2014",
+      "score": "3.3",
+      "courses": []
+    }
+  ]
+}

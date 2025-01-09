@@ -1,0 +1,102 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Practice Manager",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Strategic healthcare professional with over 10 years in Operations Leadership: Medical Practice Management, Hospital Administration, Behavioral Health, and Medicare Services",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Practice Manager",
+      "url": "",
+      "startDate": "January 2016",
+      "endDate": "Current",
+      "summary": "Manage administrative operations in a 'patient centered medical home practice (PCMH) model for quality and safety, accessible services, coordinated, and comprehensive care..",
+      "highlights": [
+        "Manage administrative operations in a 'patient centered medical home practice (PCMH) model for quality and safety, accessible services, coordinated, and comprehensive care..",
+        "Complete and comply with different payer quality reporting measures."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Healthcare Operations Professional",
+      "url": "",
+      "startDate": "September 2012",
+      "endDate": "January 2016",
+      "summary": "Provided professional advice and recommendations for healthcare providers to overcome challenging operational problems.",
+      "highlights": [
+        "Streamline the complexities of the day-to-day operations to drive short and long-term financial growth.",
+        "Improve quality of care through continuous quality improvement activities."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Senior Practice Manager",
+      "url": "",
+      "startDate": "January 2008",
+      "endDate": "July 2012",
+      "summary": "Managed day-to-day operations of 3 practice locations in gynecology, gynecologic surgery, obstetrics, and maternal and fetal medicine.",
+      "highlights": [
+        "Reduced billing errors by 15%.",
+        "Developed and implemented clinical improvement projects and innovative programs; formed the practice clinical effectiveness and quality improvement (CEQI) team for quality control and improvement, and risk management."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Bowie State University Clarion University of Pennsylvania",
+      "url": "",
+      "area": "Health Information Technology - Coding Certificate Program, Administrative Management/Public Administration, Social Science/Political Science",
+      "studyType": "Certificate of Completion, MA, BA",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": [
+        ""
+      ]
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Practice Management",
+      "level": "Master",
+      "keywords": [
+        "ICD-10-CM",
+        "ICD-10-PCS",
+        "HCPCS (CPT-4)",
+        "Medical Terminology",
+        "Anatomy and physiology",
+        "Revenue Cycle",
+        "Meaningful Use",
+        "Health, Disability, and Life Insurance",
+        "Physician Quality Reporting System Microsoft Office Suite",
+        "Lawson",
+        "IDX",
+        "EPIC",
+        "NextGen"
+      ]
+    }
+  ],
+  "languages": [
+
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

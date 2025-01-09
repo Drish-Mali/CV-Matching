@@ -1,0 +1,220 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Manager, Quality Engineering",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "With over 14 years of experience in the fields of Class II and III medical device manufacturing, molecular diagnostics, and biotechnology; the last 8 of which have been managing engineers, technicians as well as supervisors. Has strong technical leadership, and a solid background in data analysis and statistics. Uses this knowledge to develop and continuously improve all aspects of the manufacturing process with a focus on efficiency and consistency.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Manager, Quality Engineering",
+      "url": "",
+      "startDate": "April 2014",
+      "endDate": "Current",
+      "summary": "Manage the Quality Engineering Team, the Complaints Department, and the Metrology Department at Alcon's Class II and Class III medical device manufacturing facility. Responsible for improving site compliance and reducing recurring deviations.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Senior Engineer II",
+      "url": "",
+      "startDate": "March 2011",
+      "endDate": "April 2014",
+      "summary": "Managed the Process Engineering and Automation Groups at Alcon's Class II/III surgically implantable optic device and delivery systems manufacturing facility.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Senior Engineer I",
+      "url": "",
+      "startDate": "September 2007",
+      "endDate": "March 2011",
+      "summary": "Supervised the Drafting group, Custom Tool Production, Milling, Injection Molding, and Clean Room Engineering Support staff for both Class II and Class III medical device manufacturing.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Process Engineer II",
+      "url": "",
+      "startDate": "February 2005",
+      "endDate": "September 2007",
+      "summary": "Engineer responsible for process development and improvement at Alcon's Class II/III medical device manufacturing site.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Research Engineer",
+      "url": "",
+      "startDate": "September 2003",
+      "endDate": "February 2005",
+      "summary": "Designed, built, and tested an automated reagent packaging system to improve lot homogeneity and increase manufacturing throughput of Lab-in-a-tube (LIATTM) technology.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Patent Examiner",
+      "url": "",
+      "startDate": "July 2002",
+      "endDate": "September 2003",
+      "summary": "Reviewed patent applications for compliance with the United States Code and determined novelty of invention. Composed reviews of applications and communicated with applicants to assist them through the patent process.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Graduate Research Assistant",
+      "url": "",
+      "startDate": "September 2000",
+      "endDate": "July 2002",
+      "summary": "Designed, built, and tested an apparatus for producing sol-gel based DNA hybridization arrays. Developed and troubleshot instrumentation for controlling pad size and placement within an array.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "UNIVERSITY OF VIRGINIA",
+      "url": "",
+      "area": "Mechanical Engineering",
+      "studyType": "Master of Science",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "COLBY COLLEGE",
+      "url": "",
+      "area": "Physics and Biology",
+      "studyType": "Bachelor of Arts",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Alcon Special Achievement Award",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    },
+    {
+      "title": "Graduated with distinction in Physics",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    },
+    {
+      "title": "Member of Sigma Pi Sigma, Physics student honor society",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Manufacturing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Assembly",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Automation",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Budget",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Calibration",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "CNC",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Coaching",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "MS Office Suite",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "MS Project",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "MS VIsio",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "MiniTab",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Stat Graphics",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Process Engineering",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Manufacturing process development and improvement",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Manufacturing yield improvement",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "CIP",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Pro Engineer/CREO",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

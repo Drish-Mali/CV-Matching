@@ -1,0 +1,123 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Datastage ETL Developer",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "6 years of ETL experience with extensive experience in business and system analysis across multiple platforms using the full software development life cycle. Provided successful system support and delivering business value for mid-level to large business intelligence applications.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Datastage ETL Developer",
+      "url": "",
+      "startDate": "2016-01-01",
+      "endDate": "Current",
+      "summary": "Developed Datastage Jobs to load Collections data from multiple sources. Created detailed Analysis-Design documents with source to target mappings. Involved in Biginsights data archival with Hive tables built on top of it and Datastage 11.5 migration project.",
+      "highlights": [
+        "Requirement analysis, Risk assessment and management, Data planning and driving, Process Implementation, Team management."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Datastage ETL Developer",
+      "url": "",
+      "startDate": "2013-02-01",
+      "endDate": "2016-01-01",
+      "summary": "Worked in credit card conversion project, Informatica to Datastage ETL conversion and datawarehouse migration to IBM Netezza.  Also worked on Datastage server migration project.",
+      "highlights": ["Provided subject matter expertise when dealing with mainframe sources with COBOL/ASCII File structure."]
+    },
+    {
+      "name": "Company Name",
+      "position": "Production Support Analyst",
+      "url": "",
+      "startDate": "2012-01-01",
+      "endDate": "2013-02-01",
+      "summary": "Provided quick problem resolution to daily, weekly, and monthly processing cycles executing in Datastage/Informatica. Also worked on Service Requests developing ETL Datastage jobs for small business requirements.",
+      "highlights": ["Maintained Extract Transform Load (ETL) portfolio of projects at enterprise level."]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Anna University",
+      "url": "",
+      "area": "Technology",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "2011",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Tata Consultancy Services",
+      "url": "",
+      "area": "Business Intelligence",
+      "studyType": "Training",
+      "startDate": "2011-09-01",
+      "endDate": "2011-12-01",
+      "score": "",
+      "courses": ["ETL tools Informatica/Datastage and data warehousing environment"]
+    },
+    {
+      "institution": "Greens Technologies",
+      "url": "",
+      "area": "Datastage",
+      "studyType": "Training",
+      "startDate": "2012",
+      "endDate": "",
+      "score": "",
+      "courses": ["Datastage Development, Data Warehousing and Data Modeling"]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Distinguished Achiever Award",
+      "date": "2015-02-01",
+      "awarder": "Tata Consultancy Services",
+      "summary": ""
+    }
+  ],
+  "certificates": [
+    {
+      "name": "IBM Certified Solution Developer-InfoSphere Datastagev8.5",
+      "date": "",
+      "issuer": "IBM",
+      "url": ""
+    },
+    {
+      "name": "IBM Certified Solution Developer-InfoSphere Datastage v9.1",
+      "date": "",
+      "issuer": "IBM",
+      "url": ""
+    },
+    {
+      "name": "Certified in Oracle Database 11g: SQL Fundamentals I",
+      "date": "",
+      "issuer": "Oracle",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Datastage Development",
+      "level": "Expert",
+      "keywords": ["IBM Datastage", "Unix Shell Scripting", "SQL", "Informatica ETL", "IBM DB2", "Netezza", "SQL Server", "Oracle", "IBM Biginsights", "Hive", "Control-M Scheduling"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

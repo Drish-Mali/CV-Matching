@@ -1,0 +1,208 @@
+{
+  "basics": {
+    "name": "Anonymous",
+    "label": "Senior Aerospace Quality Engineer",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Six Sigma Black Belt with solid product engineering and QA experience. Team-oriented Senior Quality Engineer with over five years experience developing and testing commercial and military turbines.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Senior Aerospace Quality Engineer",
+      "url": "",
+      "startDate": "2009-02",
+      "endDate": "2014-09",
+      "summary": "Handled the authorization of all internal blueprint and UTC revision changes. Supervised the Non-Destructive Testing and ETL lab. Performed AS9102 First Article Inspections and prepare all applicable documents for submittal per AS 9100 standards.",
+      "highlights": [
+        "Liaised with MRB to modify and improve overall product performance.",
+        "Eliminated machine defects through recommendation of machine adjustments.",
+        "Performed data collection and statistical analysis that resulted in sound recommendations that were adopted by department.",
+        "Supervised project production efforts to ensure projects were completed to company standards, on time and within budget constraints."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Materials Program Manager",
+      "url": "",
+      "startDate": "2005-01",
+      "endDate": "2009-11",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Mathematics and Physics Tutor",
+      "url": "",
+      "startDate": "2002-01",
+      "endDate": "2005-05",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Massachusetts Institute of Technology",
+      "url": "",
+      "area": "Theoretical Physics",
+      "studyType": "Ph.D",
+      "startDate": "",
+      "endDate": "2010",
+      "score": "3.91",
+      "courses": []
+    },
+    {
+      "institution": "MIT Sloan School of Management",
+      "url": "",
+      "area": "Econometrics",
+      "studyType": "M.B.A",
+      "startDate": "",
+      "endDate": "2007",
+      "score": "4.0",
+      "courses": []
+    },
+    {
+      "institution": "Massachusetts Institute of Technology",
+      "url": "",
+      "area": "Applied Physics",
+      "studyType": "M.S",
+      "startDate": "",
+      "endDate": "2005",
+      "score": "3.97",
+      "courses": []
+    },
+    {
+      "institution": "Massachusetts Institute of Technology",
+      "url": "",
+      "area": "Mechanical Engineering ",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "2002",
+      "score": "3.94",
+      "courses": []
+    },
+    {
+      "institution": "Villanova University",
+      "url": "",
+      "area": "Six Sigma",
+      "studyType": "Black Belt",
+      "startDate": "",
+      "endDate": "2008",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [
+    {
+      "name": "De Progressionibus harmonicis observationes",
+      "publisher": "Association of American Publishers",
+      "releaseDate": "2012",
+      "url": "",
+      "summary": "Developed an infinite sum series while also making use of the Taylor Polynomial, proving the Euler-Mascheroni constant is a transcendental number."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Training program implementation",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "The Mathworks MATLAB",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Lean Manufacturing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Quality control",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Physics",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Energy management systems",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Material Properties",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Engineering software",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Leadership",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Strong presentation skills",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Team player",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Process improvement",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Failure Analysis",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Operations research",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Product Engineering",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Reliability Testing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Geometric Dimensioning",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

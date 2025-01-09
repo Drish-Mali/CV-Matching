@@ -1,0 +1,121 @@
+{
+  "basics": {
+    "name": "Simulator Technician",
+    "label": "Electronic Technician / Avionics Specialist",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Experienced Electronic Technician with extensive knowledge in A/C and D/C theory and troubleshooting skills and technique. Avionics specialist in theory of operation and repairs.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Simulator Technician",
+      "url": "",
+      "startDate": "2013-04",
+      "endDate": "2014-05",
+      "summary": "Flight instruments Installation and repair. Installing avionics LRU's and Flight gauges on flight line. Interpretation of blueprints and schematics. Installation of Avionics equipment.",
+      "highlights": [
+        "Electrical Wiring",
+        "Worked to meet current FAA electrical codes and company guidelines",
+        "Installed wiring and electrical appliances with a 40% ahead-of-schedule rate",
+        "Supervised team of three staff members"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Avionics Technician",
+      "url": "",
+      "startDate": "2012-01",
+      "endDate": "2013-01",
+      "summary": "Maintained CRJ-700,900 IAW FAA standards and procedures. Repaired and replaced Avionics equipment for proper functionality of aircraft.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Entry Avionics Mechanic",
+      "url": "",
+      "startDate": "2007-01",
+      "endDate": "2008-01",
+      "summary": "Wire Stamping and Cannon plug Termination and routing. Installation of wire bundles and termination of grounding blocks. Boeing 737, Airbus A320.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Avionics Shift Supervisor / Avionics Technician",
+      "url": "",
+      "startDate": "2006-01",
+      "endDate": "2012-01",
+      "summary": "Avionic flight line repairs and modifications on CH-47 chinooks and UH-60 blackhawks. Avionics maintenance supervisor OIF 2009.",
+      "highlights": [
+        "Trained maintenance journeymen electricians",
+        "Supervised operation and maintenance of systems"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "T.C.C South Campus",
+      "url": "",
+      "area": "",
+      "studyType": "GED",
+      "startDate": "2005",
+      "endDate": "",
+      "score": "3.0",
+      "courses": []
+    },
+    {
+      "institution": "Army Aviation School of Logistics",
+      "url": "",
+      "area": "Avionics Electrical Technician",
+      "studyType": "Diploma",
+      "startDate": "2007",
+      "endDate": "",
+      "score": "3.0",
+      "courses": ["Coursework in A/C And D/C Emphasis onTheory"]
+    },
+    {
+      "institution": "Spartan College of Aeronautics",
+      "url": "",
+      "area": "Avionics Maintenance Technology",
+      "studyType": "Associate of Science",
+      "startDate": "2011",
+      "endDate": "",
+      "score": "3.2",
+      "courses": ["Coursework in Avionics Maintenance Technology", "Coursework in Meteorology, Air Traffic Regulations and Air Navigation", "Coursework in High-Voltage Cable Splicing, Qualified Rigging and Signaling", "Coursework in DC Electricity, AC Electricity and Electronics Theory"]
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Electrical",
+      "level": "Proficient",
+      "keywords": ["AC/DC power and control systems", "Electro-mechanical proficiency", "Superior troubleshooting skills", "Digital circuitry", "Test equipment operation", "Branch circuit wiring", "Diagnostic testing", "Sub-panel installation"]
+    },
+    {
+      "name": "Communication",
+      "level": "Excellent",
+      "keywords": ["Written", "Verbal"]
+    },
+    {
+      "name": "Technical Skills",
+      "level": "Advanced",
+      "keywords": ["Wiring Troubleshooting", "Basic forms Interpretation", "Electronic Component repairs", "Wire routing", "Interpretation of schematics", "Soldering", "Test Equipment Operation", "Electrical upgrades", "Wiring Diagnostics and Repair"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

@@ -1,0 +1,219 @@
+{
+  "basics": {
+    "name": "PHD Candidate",
+    "label": "Finance",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Self driven and highly motivated with several years of experience in Quantitative Research including quantitative modeling, econometric analysis, statistical analysis, model development, large data analysis.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "PHD Candidate in Finance",
+      "startDate": "08/2010",
+      "endDate": "Current",
+      "summary": "Conduct research in Finance, specifically asset pricing and econometric modeling. Current work includes: 1) Do tax revenues Reduce Agency Costs and Increase Hospital Efficiency? Empirical Evidence from Washington State - conducted using Maximum Entropy Econometrics, 2) Return Distributions under GARCH Process with Sentiment Measures 3) Market Sentiment and its Effects on Stock Returns 4) A State-Space Model for Investor Sentiment and 5) Herding in Option Pricing Models – A State Space Approach.",
+      "highlights": [
+        "Proficient in R, SAS, SQL, C++, Fortran, VBA",
+        "Advanced Modeling Skills",
+        "Project Management Experience",
+        "Critical Thinking Skills",
+        "Complex Problem Solving Skills",
+        "Superior Research Skills",
+        "Excellent Written and Oral Communication",
+        "Self-motivated Professional"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Visiting Instructor in Finance",
+      "startDate": "09/2013",
+      "endDate": "08/2014",
+      "summary": "Taught MBA and Undergraduate Classes in Investments, Financial Markets and Institutions, Bank Financial Management, Introduction to Financial Management",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Visiting Asst. Professor in Finance",
+      "startDate": "08/2008",
+      "endDate": "06/2010",
+      "summary": "Taught MBA and Undergraduate Classes in Financial Modeling, Strategic Business Problem Solving, Working Capital Management",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Research Assistant Professor",
+      "startDate": "01/2001",
+      "endDate": "02/2006",
+      "summary": "Principal Investigator on projects for the development of mathematical models for life prediction of Nuclear Waste containers for the Yucca Mountain Nuclear Waste Repository (sponsored by DOE). Taught classes in engineering to graduate and undergraduate students.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Research Scientist",
+      "startDate": "10/1999",
+      "endDate": "12/2000",
+      "summary": "Worked on the development of mathematical models for life prediction of turbine engines blades for US Air Force fighter jets.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Georgia Institute of Technology (Georgia Tech)",
+      "area": "Materials Science and Engineering",
+      "studyType": "Ph.D.",
+      "startDate": "",
+      "endDate": "06/1999",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "IIT Bombay",
+      "area": "Metallurgical Engineering",
+      "studyType": "B. Tech.",
+      "startDate": "",
+      "endDate": "06/1992",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "University of Connecticut",
+      "area": "Finance",
+      "studyType": "Ph.D.",
+      "startDate": "",
+      "endDate": "2015",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Gonzaga University",
+      "area": "Finance",
+      "studyType": "MBA",
+      "startDate": "",
+      "endDate": "12/2007",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Georgia Institute of Technology (Georgia Tech)",
+      "area": "Ceramic Engineering",
+      "studyType": "M.S.",
+      "startDate": "",
+      "endDate": "12/1995",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [
+    {
+      "name": "Do tax revenues Reduce Agency Costs and Increase Hospital Efficiency? Empirical Evidence from Washington State",
+      "publisher": "Global Business and Finance Review",
+      "releaseDate": "Fall 2012",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "name": "The Impact of Morningstar Five-Star Ratings",
+      "publisher": "Journal of the Academy of Finance",
+      "releaseDate": "Summer 2010",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "name": "Market Sentiment and its Effects on Stock Returns",
+      "publisher": "2nd International Conference on Emerging Trends in Finance & Accounting",
+      "releaseDate": "August 9-10, 2013",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "name": "Return Distributions under GARCH Process with Sentiment Measures",
+      "publisher": "2014 MBAA International Conference",
+      "releaseDate": "Chicago IL, March 2014",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "name": "A State-Space Model for Investor Sentiment",
+      "publisher": "In Progress",
+      "releaseDate": "",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "name": "Herding in Option Pricing Models – A State Space Approach",
+      "publisher": "In Progress",
+      "releaseDate": "",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "name": "Improved Corrosion Resistance of Ni-22Cr-13Mo-4W Alloy by Surface Nanocrystallization",
+      "publisher": "Materials Letters",
+      "releaseDate": "59 (2005) 570-574",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "name": "Effects of Microstructure on Fretting Fatigue Crack Initiation Behavior of Ti-6Al-4V",
+      "publisher": "Materials Science and Engineering A 383 (2004) 334–340",
+      "releaseDate": "",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "name": "Fretting behavior of Ti-6Al-4V under combined high cycle and low cycle fatigue loading",
+      "publisher": "The International Journal of Fatigue 23 (2001) S455-S461",
+      "releaseDate": "",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "name": "Modeling The Reaction Synthesis Of Shock-Densified Titanium-Silicon Powder Mixture Compacts",
+      "publisher": "Metallurgical and Materials Transactions B, vol. 31B, no. 2, pp. 307-316B, Apr. 2000",
+      "releaseDate": "",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "name": "Mechanistic Processes Influencing Shock-Chemistry in Powder Mixtures of the Ti-Si, Ti-Al, and Ti-B Systems",
+      "publisher": "Metallurgical and Materials Transactions A, vol. 27A, no. 7, pp. 1761-1771, July 1996",
+      "releaseDate": "",
+      "url": "",
+      "summary": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Finance",
+      "level": "PHD Candidate",
+      "keywords": [
+        "Proficient in R, SAS, SQL, C++, Fortran, VBA",
+        "Advanced Modeling Skills",
+        "Project Management Experience",
+        "Critical Thinking Skills",
+        "Complex Problem Solving Skills",
+        "Superior Research Skills",
+        "Excellent Written and Oral Communication",
+        "Self-motivated Professional"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "volunteer": []
+}

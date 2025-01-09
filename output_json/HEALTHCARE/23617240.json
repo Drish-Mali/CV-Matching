@@ -1,0 +1,114 @@
+{
+  "basics": {
+    "name": "Cynthia",
+    "label": "Healthcare Executive",
+    "email": "",
+    "phone": "",
+    "summary": "Cynthia has extensive experience in health care and life sciences, working in areas ranging from clinical nursing to regulatory compliance. She has a strong background in communication skills and has successfully worked with people from various ethnic, cultural, and educational backgrounds. Her expertise spans pain management, emergency nursing, legal nurse consulting and life care planning.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": [
+    ]
+  },
+  "work": [
+    {
+        "name": "HELP Pain Medical Network",
+        "position": "Consultant",
+        "url": "",
+        "startDate": "",
+        "endDate": "",
+        "summary": "Developed and implemented the Remote Care Services Program, improving client health perception and reducing the dependence on pain medication.",
+        "highlights": [
+            "Designed and created the IT infrastructure to navigate the rapidly changing California Workers Compensation revisions",
+            "Worked extensively in coordination of multiple stakeholders for the benefit of the patient and carrier"
+        ]
+    },
+    {
+        "name": "Healthcare",
+        "position": "",
+        "url": "",
+        "startDate": "2001-05-01",
+        "endDate": "",
+        "summary": "Worked with major health care payers to develop their strategy and ensure compliance with the Medicare Modernization Act and managed and monitored state, Medicaid, Medicare and JCAHO standards and compliance for pharmaceutical infusion company.",
+        "highlights": [
+            "Implemented new business process for monitoring billing, payer requirements and field compliance",
+            "Designed, developed and implemented computerized data collection program for international post acute and long term care provider network"
+        ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Western Governors University",
+      "url": "",
+      "area": "Nursing",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": ""
+    },
+    {
+      "institution": "John Brown University",
+      "url": "",
+      "area": "",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "",
+      "score": "Dean's List"
+    },
+    {
+      "institution": "The University of Florida",
+      "url": "",
+      "area": "Life Care Planning for Advanced Catastrophic Case Management",
+      "studyType": "Certificate in the Post-Graduate Course of Study",
+      "startDate": "",
+      "endDate": ""
+    },
+    {
+      "institution": "University of Arkansas",
+      "url": "",
+      "area": "Nursing",
+      "studyType": "Associates Degree",
+      "startDate": "",
+      "endDate": ""
+    }
+  ],
+  "publications": [
+    {
+      "name": "",
+      "publisher": "",
+      "releaseDate": "",
+      "url": "",
+      "summary": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "",
+      "level": "",
+      "keywords": [
+        "ADA", "billing", "budgeting", "business process", "call center", "consultation", "contracts", "client", "clients", "customer satisfaction", "customer care", "data collection", "delivery", "Forms", "GCP", "GLP", "GMP", "Instructor", "insurance", "lecturer", "legal", "litigation", "managing", "marketing strategies", "network", "new product development", "Next", "presentations", "procurement", "quality", "reporting", "research", "risk management", "safety", "sales", "strategy", "strategic", "strategic planning", "system design", "teaching", "validation"
+      ]
+    }
+  ],
+  "languages": [
+  ],
+  "interests": [
+  ],
+  "references": [
+  ],
+  "projects": [
+    {
+      "name": "",
+      "startDate": "",
+      "endDate": "",
+      "description": "",
+      "highlights": [
+      ],
+      "url": ""
+    }
+  ]
+}

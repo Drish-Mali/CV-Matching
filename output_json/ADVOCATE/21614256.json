@@ -1,0 +1,121 @@
+{
+  "basics": {
+    "name": "",
+    "label": "BILINGUAL DOMESTIC VIOLENCE ADVOCATE",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Bilingual Domestic Violence Advocate",
+      "url": "goo.gl/dFT7at",
+      "startDate": "2015-09",
+      "endDate": "2016-11",
+      "summary": "Provided advocacy services appropriate to client needs",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Intern",
+      "url": "",
+      "startDate": "2014-09",
+      "endDate": "2015-05",
+      "summary": "Assessed the mental health, physical health and supportive services needs of up to ten children and their families per week.",
+      "highlights": []
+    },
+    {
+      "name": "City Year",
+      "position": "Corps Member",
+      "url": "",
+      "startDate": "2013-07",
+      "endDate": "2014-06",
+      "summary": "Mentored and tutored 7th grade students at Markham Middle School in South Los Angeles.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Research Assistant",
+      "url": "",
+      "startDate": "2010-06",
+      "endDate": "2011-05",
+      "summary": "Acquired and incorporated input from local community members into research.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Boston University",
+      "url": "",
+      "area": "Epidemiology, Maternal and Child Health",
+      "studyType": "Master of Public Health",
+      "startDate": "",
+      "endDate": "2017-09",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Boston University",
+      "url": "",
+      "area": "Clinical Social Work",
+      "studyType": "Master of Social Work",
+      "startDate": "",
+      "endDate": "2016-06",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Occidental College",
+      "url": "",
+      "area": "Psychology",
+      "studyType": "Bachelor of Arts",
+      "startDate": "",
+      "endDate": "2013-05",
+      "score": "magna cum laude",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "General",
+      "level": "",
+      "keywords": [
+        "Word programs",
+        "Excel",
+        "Access",
+        "EPIC",
+        "Efforts to Outcome (ETO)",
+        "SAS",
+        "R"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

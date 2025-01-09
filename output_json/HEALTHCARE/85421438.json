@@ -1,0 +1,88 @@
+{
+  "basics": {
+    "name": "John Doe",
+    "label": "PA MEDIA GROUP Executive",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Be in a position involving and utilizing my marketing and management skills and knowledge gained throughout my education and on the job experience.",
+    "location": {},
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Pa Media Group",
+      "position": "Executive",
+      "url": "",
+      "startDate": "04/2015",
+      "endDate": "Current",
+      "summary": "Responsible for maintaining and growing the Real Estate category, utilizing deep understanding of various digital marketing platforms, and managing one of the company's largest digital campaigns.",
+      "highlights": ["Maintaining and growing the Real Estate category", "Managing one of the company's largest digital campaigns"]
+    },
+    {
+      "name": "Healthcare Account Executive",
+      "position": "Executive",
+      "url": "",
+      "startDate": "03/2014",
+      "endDate": "03/2015",
+      "summary": "Responsible for growing and retaining new and old healthcare related businesses with deep understanding of Google Analytics and digital marketing techniques.",
+      "highlights": ["Growing and retaining new and old healthcare related businesses"]
+    },
+    {
+      "name": "Real Estate/ Executive Marketing Media Consultant",
+      "position": "Consultant",
+      "url": "",
+      "startDate": "07/2012",
+      "endDate": "03/2014",
+      "summary": "Accountable for maintaining, developing effective marketing solution packages for customers, campaign management, and leading multiple projects.",
+      "highlights": ["Accountable for maintaining", "Developing effective marketing solution packages for customers", "Campaign management"]
+    },
+    {
+      "name": "Sales Associate",
+      "position": "Associate",
+      "url": "",
+      "startDate": "05/2011",
+      "endDate": "02/2012",
+      "summary": "Responsible for greeting customers, assisting customers with choices, problems, and getting products, running the cash register, creating displays, unloading and organizing shipments, and putting together furniture.",
+      "highlights": ["Greeting customers", "Assisting customers with choices, problems, and getting products", "Creating displays"]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Shippensburg University John L Grove College of Business",
+      "url": "",
+      "area": "Marketing and General Management",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "2012",
+      "score": "3.5",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Leadership",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Google Analytics",
+      "level": "Master",
+      "keywords": []
+    },
+    {
+      "name": "Digital Marketing",
+      "level": "Master",
+      "keywords": ["Search","Target Ads", "Email", "Social", "Display", "Mobile"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

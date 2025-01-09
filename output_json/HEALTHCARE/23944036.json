@@ -1,0 +1,132 @@
+{
+  "basics": {
+    "name": "Anonymous",
+    "label": "Healthcare Clinical Analyst",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Experienced Healthcare Clinical Analyst with a demonstrated history of working in the medical field. Skilled in administrative management, medical procedure implementation, medication handling, and patient care coordination.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Oncology Nurse, Manager, Research Coordinator, Healthcare Clinical Analyst, GI Infusion Nurse, FAST Program Coordinator, Clinical Research Coordinator",
+      "url": "",
+      "startDate": "1997-01-01",
+      "endDate": "2015-09-30",
+      "summary": "Involved in various responsibilities from being a healthcare analyst to a manager for a healthcare study. Administered different types of therapy and medication as a nurse. Managed an implementation of QA program. Also responsible for grant writing and management. Served as the principal investigator for a study of complementary/unconventional cancer therapies.",
+      "highlights": [
+        "Entered the insurance arena with no insurance experience and successfully served as a leader in the appeals deparement.",
+        "Created training manuals and mentored new employees, and provided constant process improvement.",
+        "Managed a staff of over thirty employees including data collectors and ancillary staff for a National Childre'n's Study.",
+        "Developed and implanted the QA program.",
+        "Prepared statistical reports for the principal investigator and identified trends and areas for quality assurance implementation.",
+        "Administered immunoglobulin therapy, chemotherapy, blood products, hydration and pain medication.",
+        "Educated patients and families regarding medications, drug processes and navigating the healthcare system."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Florida State College",
+      "url": "",
+      "area": "Nursing",
+      "studyType": "ADN",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Emory University",
+      "url": "",
+      "area": "Health education and Behavioral Research",
+      "studyType": "Masters of Public Health",
+      "startDate": "",
+      "endDate": "1998-05-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Harvard University",
+      "url": "",
+      "area": "",
+      "studyType": "Special Student Program",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Emory University",
+      "url": "",
+      "area": "Psychology",
+      "studyType": "BA",
+      "startDate": "",
+      "endDate": "1994-05-31",
+      "score": "Phi Beta Kappa",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [
+    {
+      "name": "Oncology Professionals' views of complementary therapies: a survey of physicians, nurses and social workers",
+      "publisher": "Cancer Control",
+      "releaseDate": "2004",
+      "url": "",
+      "summary": "Hann, D., Baker, F., Denniston, M., Winter, K (2004). Oncology Professionals' views of complementary therapies: a survey of physicians, nurses and social workers. Cancer Control, 11(6):404-10."
+    },
+    {
+      "name": "Measurement of depressive symptoms in cancer patients: evaluation of the Center for Epidemiological Studies Depression Scale (CES-D)",
+      "publisher": "Journal of Psychosomatic Research",
+      "releaseDate": "1999",
+      "url": "",
+      "summary": "Hann, D., Winter, K., Jacobsen, P. (1999). Measurement of depressive symptoms in cancer patients: evaluation of the Center for Epidemiological Studies Depression Scale (CES-D). Journal of Psychosomatic Research, May 46(5): 437-43."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Healthcare Clinical Analyst Skills",
+      "level": "",
+      "keywords": [
+        "administrative",
+        "budget",
+        "Cancer",
+        "chemotherapy",
+        "Database",
+        "DNA",
+        "FAST",
+        "forms",
+        "grant writing",
+        "law",
+        "marketing",
+        "mentor",
+        "processes",
+        "program evaluation",
+        "quality",
+        "quality assurance",
+        "QA",
+        "recruitment",
+        "Research",
+        "therapy",
+        "venipunctures"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

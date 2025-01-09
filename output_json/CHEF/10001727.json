@@ -1,0 +1,108 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Sous Chef",
+    "email": "",
+    "phone": "",
+    "summary": "A highly- motivated, productive and customer-focused team player with strong communication, interpersonal, organizational, time management, analytical and problem solving skills.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Sous Chef",
+      "startDate": "2010-07-01",
+      "endDate": "",
+      "summary": "Assisted cooks in the preparation of green salads, fruit salads and pasta salads. Worked the saut� and fry stations. Plated and distributed completed dishes to waiters. Took inventory and placed orders, assisted in the food and beverage operations.",
+      "highlights": ["Improved the accuracy of filled orders by changing the procedure of sharing tickets."]
+    },
+    {
+      "name": "Company Name",
+      "position": "Front Desk Agent",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Assisted the Property Coordinator with daily tasks and worked on hotel computer programming systems. Worked with HR department to control staffing and perform employee performance evaluations. Handled property functions on daily basis to ensure best performance and persistent upgrading in customer service, employee proficiency, performance, marketing, property ambience and income. Handled room reservation. Adjusted auditing reports. Received and send telephone messages and facsimiles."
+    },
+    {
+      "name": "Company Name",
+      "position": "Front Desk Manager",
+      "startDate": "2013-01-01",
+      "endDate": "2014-01-01",
+      "summary": "Process guest registration including calculation and collection of payment. Conduct night audit as assigned. Processed all financial transactions including the verification and processing of credit card transactions in accordance with company policies and procedures and complete shift reports. Maintain room status inventory. Respond to guest inquires and request regarding hotel services, reservations, local attractions, directions, etc. Efficient in several software systems PBX and OPERA. Perform work duties in accordance with safety and security policies and procedures. Guest Service Recovery- Night Audit IHG Rewards Gold Level Rewards Champion. Kept track of all enrollments for reward members. Maintained excellence according to IHG's standards for monthly enrollments. Completed several IHG Rewards Compliance training seminars."
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Stratford University",
+      "area": "Business Administration",
+      "studyType": "Master's",
+      "startDate": "",
+      "endDate": "2015-01-01",
+      "gpa": "3.8",
+      "courses": []
+    },
+    {
+      "institution": "Stratford University",
+      "area": "Hospitality Management",
+      "studyType": "Bachelors of Arts",
+      "startDate": "",
+      "endDate": "2013-01-01",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Stratford",
+      "area": "Advanced Culinary Arts",
+      "studyType": "Associate of Applied Science",
+      "startDate": "",
+      "endDate": "2010-01-01",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certifications": [
+    {
+      "name": "TIPS certified",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "CPR-AED Certified",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "ADA compliance",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "auditing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "computer programming",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

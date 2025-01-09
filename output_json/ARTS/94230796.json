@@ -1,0 +1,104 @@
+{
+  "basics": {
+    "name": "",
+    "label": "LIBRARY AIDE",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "High school graduate with seven years' experience as a Proactive Library Aide. Self motivated, energetic, extremely organized, fluent in English and adaptable individual.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Unknown",
+      "position": "Library Aide",
+      "url": "",
+      "startDate": "June 2009",
+      "endDate": "Current",
+      "summary": "Assisting customers at the circulation desk, processing cash transactions, discharge and sort returned materials, responsible for shelving, searching for claims return items and time to time tracer and router.",
+      "highlights": [
+        "Created and managed an Excel document to allow out- of systems items to be efficiently accounted for",
+        "Route out-of-system book back to there proper location/ owing branch",
+        "Devoted, enthusiastic,energetic member of the spirit committee in which help coordinate a variety of activities and programs within our division."
+      ]
+    },
+    {
+      "name": "Unknown",
+      "position": "Voting System Technician",
+      "url": "",
+      "startDate": "November 2014",
+      "endDate": "November 2014",
+      "summary": "Responsible for setting up the ADA iVotronic unit and the DS200 optical scanner, trained to open, troubleshoot, and close the equipment on Election Day.",
+      "highlights": []
+    },
+    {
+      "name": "Unknown",
+      "position": "Public Service Intern",
+      "url": "",
+      "startDate": "June 2008",
+      "endDate": "April 2009",
+      "summary": "Performed administrative and office support activities for multiple supervisors.",
+      "highlights": [
+        "Assisted with creating the annual maintenance budget",
+        "Assisted with payroll preparation",
+        "Created and maintained tables and spreadsheets to track a variety of maintenance activities",
+        "Devised means of dealing with extra stress associated with multiple demands",
+        "Encourages effective teamwork"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "McFatter Technical HIGH School",
+      "url": "",
+      "area": "Culinary Arts",
+      "studyType": "High School Diploma",
+      "startDate": "",
+      "endDate": "2008",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "",
+      "level": "",
+      "keywords": [
+        "excellent communication skills",
+        "Client-focused",
+        "exceptional telephone etiquette",
+        "Ability to take directions well",
+        "File/records maintenance",
+        "Ability to prioritize and remain focused on the essence of an issue",
+        "Microsoft Office",
+        "Proficient at learning new concepts",
+        "Computer proficient",
+        "Exhibits self-motivation and a positive attitude",
+        "Excel in customer service",
+        "Adapts well to changing conditions",
+        "Ability to multi-task"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

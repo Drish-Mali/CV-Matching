@@ -1,0 +1,136 @@
+{
+    "basics": {
+        "name": "Surgical Clinical Reviewer",
+        "label": "Professional",
+        "email": "",
+        "phone": "",
+        "summary": "A self-motivated and organized professional with over 20 years' experience providing thorough and skillful support.",
+        "location": { "address": "", "postalCode": "", "city": "", "countryCode": "", "region": "" },
+        "profiles": []
+    },
+
+    "work": [
+        {
+            "name": "Company Name",
+            "position": "Surgical Clinical Reviewer",
+            "startDate": "2011-01-01",
+            "endDate": "2014-01-01",
+            "summary": "Collected and submitted reliable data to the ACS NSQIP for surgical patients, provided morbidity and mortality postop reporting, generated lists of cases to be abstracted, and completed abstraction of applicable cases.",
+            "highlights": []
+        },
+        {
+            "name": "Field Reviewer/Auditor",
+            "position": "Company Name",
+            "startDate": "2008-01-01",
+            "endDate": "2010-01-01",
+            "summary": "Provided support for the 2009 and 2010 HEDIS project including Physician Grading, audit, Medical Record Abstraction, Quality Improvement, and data analysis, provided feedback reporting to agencies.",
+            "highlights": []
+        },
+        {
+            "name": "Healthcare Business Consultant",
+            "position": "Company Name",
+            "startDate": "2004-01-01",
+            "endDate": "2008-01-01",
+            "summary": "Provided quality assurance reviews specializing in outpatient centers, with strategies. Reviewed, conducted etc.",
+            "highlights": []
+        },
+        {
+            "name": "Health Information Manager",
+            "position": "Company Name",
+            "startDate": "2002-01-01",
+            "endDate": "2004-01-01",
+            "summary": "Oversaw all Health Information Management work flow, training, in-service etc.",
+            "highlights": []
+        }
+    ],
+
+    "education": [
+        {
+            "institution": "Blackstone Institute",
+            "area": "Paralegal",
+            "studyType": "Course",
+            "startDate": "",
+            "endDate": "2015-06-01",
+            "courses": []
+        },
+        {
+            "institution": "Northcentral University",
+            "area": "Public",
+            "studyType": "MBA",
+            "startDate": "2014-01-01",
+            "endDate": "2015-01-01",
+            "courses": []
+        },
+        {
+            "institution": "Florida International University",
+            "area": "Health Information Management",
+            "studyType": "BS",
+            "startDate": "",
+            "endDate": "1999-12-01",
+            "courses": []
+        },
+        {
+            "institution": "Miami Dade Community College",
+            "area": "Psychology",
+            "studyType": "AA",
+            "startDate": "",
+            "endDate": "1999-05-01",
+            "courses": []
+        }
+    ],
+    "awards": [],
+    "certificates": [
+        {
+            "name": "Surgical Clinical Reviewer",
+            "date": "2012-10-01",
+            "issuer": "ACS NSQIP",
+            "url": ""
+        }
+    ],
+    "publications": [],
+    "skills": [
+        {
+            "name": "Management",
+            "level": "",
+            "keywords": [ "Administered", "Coordinated", "Delegated", "Evaluated", "Prioritized", "Trouble shooting", "HR duties", "Manage PTO", "Payroll" ]
+        },
+        {
+            "name": "Research",
+            "level": "",
+            "keywords": [ "Collected", "Extracted", "Organized", "Interpreted", "Summarized", "Audited" ]
+        },
+        {
+            "name": "Communication",
+            "level": "",
+            "keywords": [ "Corresponded", "Professional telephone etiquette", "Excellent customer service", "Bilingual", "Interpreted", "English/Spanish" ]
+        },
+        {
+            "name": "Detail Oriented",
+            "level": "",
+            "keywords": [ "Catalogues", "Multi-tasked", "Set goals", "Skilled typist", "Working knowledge of computer soft wares" ]
+        },
+        {
+            "name": "Creative",
+            "level": "",
+            "keywords": [ "Customized", "Integrated", "Established", "Marketing" ]
+        },
+        {
+            "name": "Clerical",
+            "level": "",
+            "keywords": [ "Compiled", "Monitored", "Generated", "Implemented" ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        },
+        {
+            "language": "Spanish",
+            "fluency": "Bilingual speaker"
+        }
+    ],
+    "interests": [],
+    "references": [],
+    "projects": []
+}

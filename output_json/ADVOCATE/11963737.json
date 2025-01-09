@@ -1,0 +1,177 @@
+{
+  "basics": {
+    "name": "CRAIG Gabron",
+    "label": "Senior Client Advocate II",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Motivated Business Analyst with the technical expertise and business acumen necessary to translate business requirements and objectives into scalable, highly resilient and successful system solutions.",
+    "location": {
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Senior Client Advocate II",
+      "url": "",
+      "startDate": "2002-12-01",
+      "endDate": "2017-12-01",
+      "summary": "Supported BlueCross BlueShield of South Carolina's TRICARE (Military Health Insurance) line of business functioning in an analyst role. Worked in a matrix environment across cross-functional teams and produced results in a highly dynamic and formative environment.",
+      "highlights": [
+        "Documented business processes and analyzed procedures to meet changing business needs",
+        "Conducted interviews with key business users to collect information on business processes",
+        "Identified process inefficiencies through gap analysis",
+        "Increased annual revenue by 5% by suggesting improvements",
+        "Performed TRICARE bench marking analysis and identified potential product enhancements",
+        "Researched and resolved issues regarding extracting data from a clinical EHR for HEDIS measure calculation"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Senior Client Advocate II",
+      "url": "",
+      "startDate": "2002-12-01",
+      "endDate": "2017-12-01",
+      "summary": "Managed the relationship between the Health Net, BlueCross Operations and BlueCross Information Systems Application areas with ten direct reports.",
+      "highlights": [
+        "Optimized and managed research and development spending through collaboration with key business leaders",
+        "Trained four new employees on accounting principles and company procedures",
+        "Created periodic reports comparing budgeted costs to actual costs",
+        "Suggested budgetary changes to increase company profits",
+        "Provided timely actuals, forecast and budget data for IT and corporate management",
+        "Worked with management at the project level to ensure expense plans are achieved"
+      ]
+    },
+    {
+      "name": "Information Systems",
+      "position": "Manager",
+      "url": "",
+      "startDate": "1992-03-01",
+      "endDate": "1996-11-01",
+      "summary": "Managed the relationship with Cable and Wireless Communications in London, England on the installation of a telecom billing system, leading a team of 12 analysts and programmers in the analysis, design and coding of the international telecommunications commercial billing software.",
+      "highlights": [
+        "Gathered detailed use cases and requirements through regular on-site visits, virtual meetings and customer advisory board sessions",
+        "Translated business goals, feature concepts and customer needs into prioritized product requirements and use cases",
+        "Collaborated with the sales, marketing and support teams to launch products on time and within budget",
+        "Coached and mentored twelve new staff members, including conducting performance reviews",
+        "Led communication with stakeholders regarding product goals and progress made",
+        "Tested and implemented new technology-based global projects such as international telephone billing system",
+        "Created innovative and intuitive product features such as a packetize billing system"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Slippery Rock University of Pennsylvania Northampton Community College",
+      "url": "",
+      "area": "Health and Physical Education Computer Science and Information Technology",
+      "studyType": "Bachelor of Science",
+      "startDate": "1976-01-01",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "",
+      "url": "",
+      "area": "Computer Science",
+      "studyType": "",
+      "startDate": "1980-01-01",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Workgroup for Electronic Data Interchange (WEDI) Award of Merit",
+      "date": "",
+      "awarder": "",
+      "summary": "Awarded 2 years in a row for educating the health care industry on electronic claims attachments."
+    }
+  ],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Data analysis",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SQL and databases",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Business artifacts documentation",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Business development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Brand management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "MS Project",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Risk mitigation and management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Data mapping",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Service-oriented architecture",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Release planning",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Collaboration tools",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Test case scenarios",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Requirements gathering",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Gap analysis",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Billing system",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

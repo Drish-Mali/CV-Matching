@@ -1,0 +1,102 @@
+{
+  "basics": {
+    "name": "Sergeant E-5 Aviation Supply Specialist",
+    "label": "Supply Specialist",
+    "email": "",
+    "phone": "",
+    "summary": "A highly motivated and ambitious individual able to give timely and accurate advice, guidance, and support to team members and individuals. Possess excellent management skills and have the ability to work with the minimum of supervision whilst supporting fellow team members. Have a proven ability to lead by example, consistently hit targets, improve best practices and organize time efficiently.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Order, Track, Receive, and Distribute Organizational Level Maintenance Material",
+      "startDate": "2013-07-01",
+      "endDate": "2015-07-01",
+      "summary": "Responsible for inventory control, planning inventory management techniques to avoid shortages and excesses. Led the Tool Control Program and Respirator Program, maintained records for maintenance and installation, and handled weekly payroll for up to 20 crew workers.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "SERGEANT E-5 AVIATION SUPPLY SPECIALIST",
+      "startDate": "2012-12-01",
+      "endDate": "2012-12-01",
+      "summary": "Supervised, trained and evaluated personnel Marines to most proficiently support over 10 Marine Aircraft Squadrons and 15 Intermediate Maintenance Activities.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "FEMALE ENGAGEMENT TEAM LIAISON/ PLATOON LEADER",
+      "startDate": "2010-10-01",
+      "endDate": "2012-01-01",
+      "summary": "Successfully completed a 5 month, Pre-Afghanistan deployment training including, among others, Casualty Assessment, Immediate Action Drills, Combat Lifesaving, and Cross Cultural Engagement Training that helped to successfully complete a tour in Musa Qal'eh.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Marine Aviation Supply School",
+      "area": "",
+      "studyType": "Special Training",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": [
+        "Lance Corporal Leadership Course",
+        "Non-Commissioned Officers Leadership Course",
+        "Sergeants Distance Education Program",
+        "Staff Non-commissioned Officer Career Distance Education",
+        "Naval Aviation Material Control Management",
+        "Lean Six Sigma AirSpeed White Belt Course",
+        "Lean Six Sigma AirSpeed Yellow Belt Course",
+        "24-Hour Hazardous Material Handler's Course"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Navy and Marine Corps Achievement Medal",
+      "date": "2011-10-01",
+      "awarder": "",
+      "summary": "Received while serving as squad leader, 2nd Platoon, Female Engagement Team, 2nd Marine Division (Forward) for having coordinated three Female Engagement teams and led over 85 missions, engaged more than 1900 local nationals during 1300 engagements while serving in direct support of 3rd Battalion, 2nd Marine Regiment from March 2011 to October 2011."
+    },
+    {
+      "title": "Certificate of Commendation",
+      "date": "2010-08-06",
+      "awarder": "",
+      "summary": "Received while serving as Expeditionary Airfields Supply Warehouse Clerk during the Commanding Generals Inspection for superior leadership, organizational skills and managerial abilities."
+    }
+  ],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "",
+      "level": "",
+      "keywords": [
+        "Results-oriented",
+        "Inventory tracking",
+        "Logistics network analysis",
+        "Budget management",
+        "Shipment consolidations planning",
+        "Strategic planner",
+        "Decisive",
+        "Inventory control",
+        "Warehouse and fulfillment",
+        "Customer service-oriented"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

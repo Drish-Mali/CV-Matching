@@ -1,0 +1,99 @@
+{
+  "basics": {
+    "name": "N/A",
+    "label": "Coordinating Manager",
+    "image": "",
+    "email": "N/A",
+    "phone": "N/A",
+    "url": "N/A",
+    "summary": "Administrative Operations, Sales Support, Communications, Financial/Budget Administration",
+    "location": {
+      "address": "N/A",
+      "postalCode": "N/A",
+      "city": "N/A",
+      "countryCode": "N/A",
+      "region": "N/A"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Coordinating Manager",
+      "url": "N/A",
+      "startDate": "2013-09-01",
+      "endDate": "Current",
+      "summary": "Manage annual updates of procurement policies, standards procedures and guidelines to reflect changes in the operations including regulations, risks and best practices. Provide Executive level support to the Executive Director and Deputy Executive Director...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Executive Assistant",
+      "url": "N/A",
+      "startDate": "2010-09-01",
+      "endDate": "2011-06-01",
+      "summary": "Provided administrative services to the Executive Director. Managed all calendar events; schedule all meetings, made travel arrangements and prepared all itineraries...",
+      "highlights": ["Managed all calendar events"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Program Associate (Housing and Community Development)",
+      "url": "N/A",
+      "startDate": "2005-12-01",
+      "endDate": "2009-07-01",
+      "summary": "Managed, at grantee level, the Housing & Urban Development (HUD) comprehensive housing counseling program, including the annual grant proposal, affiliate contractual process, data collection and entry...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Sales Executive",
+      "url": "N/A",
+      "startDate": "1997-03-01",
+      "endDate": "2005-12-01",
+      "summary": "Maintained relationships with existing customers through regular review visits. Visited potential customers to demonstrate products and gain new markets...",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "The College Of New Rochelle",
+      "url": "N/A",
+      "area": "Communications",
+      "studyType": "Bachelor of Arts",
+      "startDate": "N/A",
+      "endDate": "2004",
+      "score": "N/A",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Administrative Operations",
+      "level": "N/A",
+      "keywords": ["MS Windows", "Word", "Excel", "PowerPoint", "Outlook", "MAC", "Lexis Nexis", "Soarian and MediNotes EMR"]
+    },
+    {
+      "name": "Sales Support",
+      "level": "N/A",
+      "keywords": ["N/A"]
+    },
+    {
+      "name": "Communications",
+      "level": "N/A",
+      "keywords": ["Proofreader", "Editor", "Business Writer"]
+    },
+    {
+      "name": "Financial/Budget Administration",
+      "level": "N/A",
+      "keywords": ["Budget Oversight", "Invoice Verification", "Expense Tracking"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

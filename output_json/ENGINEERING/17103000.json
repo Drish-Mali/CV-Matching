@@ -1,0 +1,129 @@
+{
+  "basics": {
+    "name": "Multi-Skilled Engineering Manager",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "summary": "An experienced Engineering Manager who's skilled in a multitude of areas including leadership, project management, software engineering, and more. Adept at leading teams in the development of hardware systems to support various industries including military, space, and commercial flight simulators",
+    "location": {
+      "address": "City",
+      "postalCode": "State",
+      "city": "City",
+      "countryCode": "US",
+      "region": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Multi-Skilled Engineering Manager",
+      "url": "",
+      "startDate": "2015-03",
+      "endDate": "Current",
+      "summary": "Manager of a team of electrical and mechanical engineers responsible for the design and development of high fidelity training devices. Also leads multiple initiatives with a goal of continuous improvement which includes staffing projects, developing project schedules, managing communications between multiple teams, etc.",
+      "highlights": [
+        "Selected to participate in Boeing's Systems Engineering Leadership Program",
+        "Recognized as a Technical Lead Engineer",
+        "Managed to implement a thirty-five percent reduction in the electrical engineering cost estimating relationship"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Lead Electrical Engineer",
+      "url": "",
+      "startDate": "2005-05",
+      "endDate": "2008-08",
+      "summary": "Led electrical engineering for the design, development, manufacturing, and delivery of numerous flight simulators for various clients including the US Air Force.",
+      "highlights": [
+        "Initiated the lean practice of performing hardware checkout in the final phase of manufacturing",
+        "Managed to save three weeks per flight simulator schedule",
+        "Supervised the installation of numerous flight simulators throughout the United States, United Kingdom, and South Korea"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Electrical Engineer",
+      "url": "",
+      "startDate": "2001-11",
+      "endDate": "2005-05",
+      "summary": "Designed electrical systems to be integrated in military flight simulators and developed design specifications, schematics, and assembly drawings for the manufacturing of the simulators",
+      "highlights": [
+        "Played an integral part in the production of the first high fidelity F-15 flight simulator",
+        "Initiated a trade study to utilize commercially available uninterruptible power supplies resulting in a cost savings of $150,000 per training facility"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Youth Sporting Events",
+      "position": "Youth Sport Coordinator and Coach",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Coordinator and coach for youth sports events",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Indiana University",
+      "url": "",
+      "area": "Business",
+      "studyType": "Master",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "University of Evansville",
+      "url": "",
+      "area": "Electrical Engineering",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Villanova University",
+      "url": "",
+      "area": "Project Management",
+      "studyType": "Graduate Certificate",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Engineering",
+      "level": "Master",
+      "keywords": [
+        "Microsoft Project",
+        "Microsoft Office",
+        "Microsoft Visio",
+        "IBM Rationale DOORS",
+        "Risk Analysis",
+        "Process Improvement",
+        "CMPro"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [
+    {
+      "name": "Sports",
+      "keywords": [
+        "Youth Sport Coordinator and Coach"
+      ]
+    }
+  ],
+  "references": [],
+  "projects": []
+}

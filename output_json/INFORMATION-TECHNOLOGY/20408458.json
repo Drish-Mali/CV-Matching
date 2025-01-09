@@ -1,0 +1,133 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Information Technology Support Specialist/Network Specialist/PC Technician/IT Consultant/Customer Engineer",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "With more than 10 years' experience in the IT industry; I have provided technical leadership for the design, deployment and operation of IT hardware and software.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "State",
+      "region": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Information Technology Support Specialist/Network Specialist/PC Technician/IT Consultant/Customer Engineer",
+      "url": "",
+      "startDate": "2011-01-01",
+      "endDate": "Current",
+      "summary": "Technical leadership for the design, deployment and operation of IT hardware and software, building and implementing numerous computer systems, active directory administration in Novel and Windows, strong experience in data migration using Robocopy.",
+      "highlights": ["Provided technical leadership for the IT industry for over 10 years"]
+    },
+    {
+      "name": "SunTrust EIS",
+      "position": "Data Migration Project Professional Experience",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Analyzed server space and data to determine the needed space on the Network Attached Storage. Run TBackups on all Novel servers using eDirectory/NDS Report Generator and performed various tasks related to data migration and management.",
+      "highlights": ["Handled approximately 50+ end user calls per week"]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Phoenix",
+      "url": "",
+      "area": "Information Technology Support",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "2011",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Southern College",
+      "url": "",
+      "area": "Paralegal Network Engineering",
+      "studyType": "Associate of Arts",
+      "startDate": "",
+      "endDate": "2001",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Southern Technical Institute",
+      "url": "",
+      "area": "",
+      "studyType": "Diploma",
+      "startDate": "",
+      "endDate": "2002",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "IT Support",
+      "level": "Master",
+      "keywords": [
+        "A+",
+        "Active Directory",
+        "Apollo",
+        "ARMY",
+        "com",
+        "hardware",
+        "Data Migration",
+        "DELL",
+        "Email",
+        "Engineer",
+        "Flash",
+        "HP",
+        "IBM",
+        "Image",
+        "INTEL",
+        "Inventory",
+        "laptops",
+        "leadership",
+        "logging",
+        "MICROSOFT Software",
+        "access",
+        "MCSE",
+        "MOS",
+        "Outlook",
+        "SharePoint",
+        "Windows",
+        "migration",
+        "NDS",
+        "Network Attached Storage (NAS)",
+        "NAS",
+        "Novel",
+        "Novell",
+        "Netware",
+        "pdf",
+        "peripherals",
+        "processors",
+        "receiving",
+        "recruiting",
+        "reporting",
+        "retail",
+        "servers",
+        "scripts",
+        "installing Software",
+        "Systems Analyst",
+        "Troubleshoot",
+        "type"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

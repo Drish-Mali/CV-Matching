@@ -1,0 +1,84 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Electrical Engineering Manager",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Electrical Engineer with 20+ years of experience in semiconductors microlithography and strong project management background. Utilized experience in cross-function activities with other engineering, production and support organization for the completion of start-up semiconductor factory construction and equipment's. Additional experience in application marketing engineering, led team of business development managers and R&D engineer to grow DUV business for DOW chemical's globally from $ 300k to > $ 20 million in 3 years.",
+    "location": {},
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Engineering Manager",
+      "url": "",
+      "startDate": "2000-01-01",
+      "endDate": "Current",
+      "summary": "Manage performance and facilitate the development of direct reports.Initiate projects dealing with process transfer, technology issues, equipment purchasing, facilities, and service contractors. Maintain flawless execution of area module by on-going coaching junior and Senior engineers, equipment specialists, and technicians in operations, process and equipment, etc.", 
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Application and Marketing Engineer",
+      "url": "",
+      "startDate": "1989-01-01",
+      "endDate": "2000-06-01",
+      "summary":  "Collaborated with R&D and Marketing to develop products to meet customer requirements for new business opportunities. Coordinated and lead production trials of new and modified products. Supervised Pilot scale trials when appropriate.", 
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Worcester State University",
+      "url": "",
+      "area": "Management Information System",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "1991-01-01",
+      "score": "3.1",
+      "courses": []
+    },
+    {
+      "institution": "Central New England College",
+      "url": "",
+      "area": "Electrical Engineering Technology",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "1987-01-01",
+      "score": "2.89",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "",
+      "level": "",
+      "keywords": [
+        "Budget Development",
+        "Project Management",
+        "Lean Manufacturing",
+        "Continuous Improvement",
+        "Quality Management",
+        "BASIC", 
+        "COBOL", 
+        "FORTRAN", 
+        "PASCAL", "Prolith (Modeling)", 
+        "Word", 
+        "Excel",
+        "Statistical Analysis: JMP", 
+        "DOE (design of experiment)", 
+        "PCS", "SPC", "Six Sigma"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

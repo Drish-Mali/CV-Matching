@@ -1,0 +1,113 @@
+{
+  "basics": {
+    "name": "",
+    "label": "ENGINEERING MANAGER",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Mechanical engineer with more than 30 years of progressive experience specializing in economics driven project justification, management and mechanical design. Much of my career has been focused on paper converting equipment and operations developing into roles in maintenance and reliability systems. More recently responsible for facilitating the capital investment portfolio for the Halsey Mill.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Engineering Manager",
+      "url": "",
+      "startDate": "2011-05-01",
+      "endDate": "Current",
+      "summary": "Facilitating the capital projects plan and process. Hiring and developing engineering talent for the organization."
+    },
+    {
+      "name": "Company Name",
+      "position": "Manager - Maintenance and Reliability",
+      "startDate": "2009-01-01",
+      "endDate": "2011-05-01",
+      "summary": "Member of the mill leadership team responsible for safe work performance and contract adherence of a 76 person maintenance group. Utilized reliability experience to provide focus on mill reliability improvements"
+    },
+    {
+      "name": "Company Name",
+      "position": "Supervisor Reliability Engineer",
+      "startDate": "2005-11-01",
+      "endDate": "2009-01-01",
+      "summary": "Led the converting PM program. System administrator for the Passport CMMS system. Managed Machine shop including supervision of machinists, and managing flow of work through shop."
+    },
+    {
+      "name": "Company Name",
+      "position": "Process & Tooling Engineer",
+      "startDate": "2000-11-01",
+      "endDate": "2005-11-01",
+      "summary": "Responsible for developing improvements to a laser patterning lamination process that had been recognized as the least reliable process in the production line. Coordinated adhesive related improvement efforts with teams including scientists, vendor representatives and supply chain personnel."
+    },
+    {
+      "name": "Company Name",
+      "position": "Converting Plant Engineer",
+      "startDate": "1993-01-01",
+      "endDate": "2000-11-01",
+      "summary": "Responsible for budgeting, planning, managing capital improvement process in Halsey Mill tissue/towel converting plant. Startup Superintendent for a new technology towel rewinder complex"
+    },
+    {
+      "name": "Company Name",
+      "position": "Senior Converting Analyst",
+      "startDate": "1992-11-01",
+      "endDate": "1993-01-01",
+      "summary": "Worked with manufacturing sites to develop utilization improvement plans for manufacturing assets."
+    },
+    {
+      "name": "Company Name",
+      "position": "Development Designer, Mechanical Engineer, Senior Mechanical Engineer",
+      "startDate": "1984-01-01",
+      "endDate": "1992-11-01",
+      "summary": "Design engineer developing specialized machinery for the paper converting industry. Developed machinery and equipment layouts for manufacturing facilities, managed CAD installation and developed computer simulation models of complex manufacturing facilities."
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Idaho - School of Engineering",
+      "url": "",
+      "area": "Mechanical Engineering",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Engineering",
+      "level": "",
+      "keywords": [
+        "budgeting",
+        "CAD",
+        "construction management",
+        "engineer",
+        "film",
+        "hiring",
+        "inspection",
+        "laser",
+        "machinery",
+        "managing",
+        "mechanical",
+        "negotiations",
+        "process improvement",
+        "project management",
+        "SPC",
+        "strategy",
+        "supervision",
+        "system administrator"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

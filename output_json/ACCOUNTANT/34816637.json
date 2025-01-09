@@ -1,0 +1,114 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Staff Accountant",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Staff Accountant",
+      "url": "",
+      "startDate": "2012-01-01",
+      "endDate": "2014-06-01",
+      "summary": "Responsible for the review and compilation of all financial information for multiple businesses...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Executive Administrative Assistant",
+      "url": "",
+      "startDate": "2006-01-01",
+      "endDate": "2012-01-01",
+      "summary": "Manage all administrative and financial duties for the United Way of Montgomery County...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Payroll Benefits Administrator Benefits Clerk",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Supervise and direct all aspects of payroll...",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Fulton-Montgomery Community College",
+      "url": "",
+      "area": "Business Accounting",
+      "studyType": "ASS",
+      "startDate": "",
+      "endDate": "2012-05-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Fulton-Montgomery Community College",
+      "url": "",
+      "area": "Individual Studies",
+      "studyType": "Certificate",
+      "startDate": "",
+      "endDate": "2006-08-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Accounting Skills",
+      "level": "",
+      "keywords": [
+        "Income Statement",
+        "Balance Sheet",
+        "Budget expense vs. Actual Expense",
+        "Microsoft Office",
+        "QuickBooks",
+        "Excel",
+        "Accounts Payable",
+        "Accounts Receivable",
+        "Book Keeping",
+        "Budget Analysis",
+        "Budget Development",
+        "Budget Planning",
+        "Payroll Processing",
+        "Financial Statements"
+      ]
+    },
+    {
+      "name": "Software Proficiency",
+      "level": "",
+      "keywords": [
+        "QuickBooks",
+        "Microsoft Office",
+        "Excel",
+        "Word",
+        "Outlook",
+        "Publisher",
+        "Power Point",
+        "dot net"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

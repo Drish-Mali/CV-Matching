@@ -1,0 +1,93 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Product Photographer",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Enthusiastic Photographer committed to delivering promised results and remaining true to a unique artistic vision.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Product Photographer",
+      "url": "",
+      "startDate": "June 2014",
+      "endDate": "Current",
+      "summary": "Collaborated successfully with a variety of personalities and work styles. Photograph product for web store. Retail store and support the live show.",
+      "highlights": ["Proficiency in Photography", "Proactive approach to problem solving", "Excellent workflow management"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Photographer",
+      "url": "",
+      "startDate": "May 2013",
+      "endDate": "March 2014",
+      "summary": "E-commerce Photographer. Photograph product for web store. Retail and wholesale websites. Skin retouching, background removal, special effects, color correcting & batch editing. Photograph editorials. Catalogs, look books, and banners. Scheduled models for shoots."
+    },
+    {
+      "name": "Company Name",
+      "position": "Photographer",
+      "url": "",
+      "startDate": "October 2012",
+      "endDate": "May 2013",
+      "summary": "Editorial and product photographr. E-commerce and print. Cropped, manipulated and performed color-balance for final images."
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Antonelli Institute of Art and Photography",
+      "url": "",
+      "area": "Photography",
+      "studyType": "Associate of Science",
+      "startDate": "",
+      "endDate": "2012",
+      "score": "",
+      "courses": ["Fashion Photography and Portraiture"]
+    },
+    {
+      "institution": "North Penn High School",
+      "url": "",
+      "area": "",
+      "studyType": "High School Diploma",
+      "startDate": "",
+      "endDate": "2009",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Desktop Publishing Software",
+      "level": "",
+      "keywords": ["Photoshop", "Capture One", "Lightroom"]
+    },
+    {
+      "name": "Communication",
+      "level": "Strong",
+      "keywords": []
+    },
+    {
+      "name": "Problem Solving",
+      "level": "Great with Creative",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

@@ -1,0 +1,144 @@
+{
+  "basics": {
+    "name": "Not mentioned",
+    "label": "Accountant",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Bilingual, accounting professional with additional expertise in automated systems and general ledger. An analytical, detail-oriented, organized planner who performs well in a project setting and communicates effectively with all levels of management. Additionally has past experience in pubic accounting.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "US",
+      "region": "State"
+    },
+    "profiles": [
+    ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Senior Accountant",
+      "url": "",
+      "startDate": "1997-01-01",
+      "endDate": "2004-01-01",
+      "summary": "Maintained reconciliation and documentation for damage recovery accounts; communicated with Florida Power & Light (FPL) centers though out the State of Florida to assure appropriate and timely recovery of damage amounts and clearing of service center pending items; researched transactions where discrepancies were located and resolved with the appropriate manager.",
+      "highlights": [
+        "Designed reconciliation format of several tax suspense accounts",
+        "Assured that internal controls and procedures were properly implemented and maintained"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Accountant",
+      "url": "",
+      "startDate": "2012-04-01",
+      "endDate": "Current",
+      "summary": "Reconciled various general ledger fund accounts and prepared various specialty reports; ascertained accuracy of financial reporting to Board of Directors through review and correction of month end and annual financial reports.",
+      "highlights": [
+        "Brought uniformity of reporting for association of churches by assisting in standardizing chart of accounts"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Bookkeeper/Accountant",
+      "url": "",
+      "startDate": "1994-01-01",
+      "endDate": "Current",
+      "summary": "Recorded a wide variety of transactions; assured accuracy of all transactions posted to bank; researched discrepancies.",
+      "highlights": [
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "The Rock Miami Church",
+      "position": "Director",
+      "url": "",
+      "startDate": "1999-01-01",
+      "endDate": "2006-01-01",
+      "summary": "Brought new life to the church's programs by developing, implementing and establishing a formal structure for the Children's Ministry and Audio-visual Ministry for teens.",
+      "highlights": [
+        "Insured coordination among the different volunteer groups",
+        "Built the groundwork for the puppet ministry"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Florida",
+      "url": "",
+      "area": "Accounting",
+      "studyType": "Masters",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Florida International University",
+      "url": "",
+      "area": "Business Administration",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Miami Dade College",
+      "url": "",
+      "area": "Liberal Arts",
+      "studyType": "Associate of Arts",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": [
+      ]
+    }
+  ],
+  "awards": [
+  ],
+  "certificates": [
+    {
+      "name": "CPA",
+      "date": "",
+      "issuer": "State of Florida",
+      "url": ""
+    }
+  ],
+  "publications": [
+  ],
+  "skills": [
+    {
+      "name": "Languages Skills",
+      "level": "Fluent",
+      "keywords": [
+        "Spanish"
+      ]
+    }, 
+    {
+      "name": "Business Skills",
+      "level": "Expert",
+      "keywords": [
+        "Interpersonal Skills", "Analytical", "Detail-oriented", "Thoroughness", "Organization Skills", "Coordination"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [
+  ],
+  "references": [
+  ],
+  "projects": [
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "basics": {
+    "name": "N/A",
+    "label": "Park Operations Hostess",
+    "image": "",
+    "email": "N/A",
+    "phone": "N/A",
+    "url": "N/A",
+    "summary": "Highly experienced in banking, customer service, data entry, publicity, editing, and a wide range of computer skills. A strong literary background coupled with up-to-date technological knowledge.",
+    "location": {
+      "address": "N/A",
+      "postalCode": "N/A",
+      "city": "City",
+      "countryCode": "N/A",
+      "region": "State"
+    },
+    "profiles": [
+    ]
+  },
+  "work": [
+      {
+          "name": "Company Name",
+          "position": "Park Operations Hostess",
+          "url": "N/A",
+          "startDate": "2014-09-01",
+          "endDate": "Current",
+          "summary": "Provide exceptional guest service by greeting and interacting with guests, answering questions and resolving guest issues...",
+          "highlights": [
+              "Improved office organization by compiling quarterly budget reports...",
+              "Demonstrated proficiencies in telephone, e-mail, fax and front-desk reception within a high-volume environment...",
+              "Handled customers effectively by identifying needs, quickly gaining trust, approaching complex situations and resolving problems to maximize efficiency."
+          ]
+      },
+      {
+          "name": "Company Name",
+          "position": "Activities Associate",
+          "url": "N/A",
+          "startDate": "2014-02-01",
+          "endDate": "2014-10-01",
+          "summary": "Presenting programs in front of groups of participants of varying ages, Assisting in the implementation of various group activities...",
+          "highlights": []
+      },
+      {
+          "name": "Company Name",
+          "position": "Senior Publicist",
+          "url": "N/A",
+          "startDate": "2006-06-01",
+          "endDate": "2014-05-01",
+          "summary": "Cash and check deposits, process loan expenses and open new accounts...",
+          "highlights": []
+      },
+      {
+          "name": "Company Name",
+          "position": "Certified Senior Teller",
+          "url": "N/A",
+          "startDate": "2012-07-01",
+          "endDate": "2013-05-01",
+          "summary": "Maintained appropriate cash limits, cashed checks, established deposits...",
+          "highlights": []
+      },
+      {
+          "name": "Company Name",
+          "position": "Manager",
+          "url": "N/A",
+          "startDate": "2004-04-01",
+          "endDate": "2010-10-01",
+          "summary": "Supervised and trained employees, answered phones, accepted reservations and took payments...",
+          "highlights": []
+      }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Roanoke College",
+      "url": "N/A",
+      "area": "English Literature",
+      "studyType": "Bachelor of Arts",
+      "startDate": "N/A",
+      "endDate": "2010",
+      "score": "Cum Laude",
+      "courses": []
+    },
+    {
+      "institution": "North Cross School",
+      "url": "N/A",
+      "area": "High School",
+      "studyType": "High School",
+      "startDate": "N/A",
+      "endDate": "2006",
+      "score": "N/A",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Lifeguarding, CPR, AED, and First Aid",
+      "date": "N/A",
+      "issuer": "American Red Cross",
+      "url": "N/A"
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Balance",
+      "level": "Master",
+      "keywords": []
+    },
+    {
+      "name": "Cash Management",
+      "level": "Master",
+      "keywords": []
+    },
+    {
+      "name": "Customer Service",
+      "level": "Master",
+      "keywords": []
+    },
+    {
+      "name": "Computer Skills",
+      "level": "Master",
+      "keywords": ["Microsoft Windows", "Microsoft Word", "Microsoft Excel", "Microsoft PowerPoint", "Microsoft Publisher", "Photoshop"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+        "language": "Spanish",
+        "fluency": "Conversational"
+    },
+    {
+        "language": "French",
+        "fluency": "Read and Write"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Regional Champion, English Speaking Union Shakespeare Monologue and Sonnet competition",
+      "keywords": []
+    }
+  ],
+  "references": [],
+  "projects": []
+}

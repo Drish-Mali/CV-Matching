@@ -1,0 +1,102 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Cashier",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "3 years in fast-paced customer service and call center environments. Personable and professional under pressure. Motivated customer service specialist with over 3 years retail experience in a fast-paced, team-based environment. Excellent communicator with a demanding call center environment as a Customer Service Representative. Friendly Sales Associate adept at working in diverse retail and customer service environments. Hardworking with background in quickly taking orders.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Cashier",
+      "url": "",
+      "startDate": "2014-12-01",
+      "endDate": "2014-12-01",
+      "summary": "Maintained up-to-date knowledge of store policies regarding payments, returns and exchanges. Worked as a team member performing cashier duties, product assistance and cleaning. Expressed appreciation and invited customers to return to the store. Managed quality communication, customer support and product representation for each client. Assisted customers with store and product complaints. Guaranteed positive customer experiences and resolved all customer complaints. Processed and issued money orders for customers.",
+      "highlights": ["Employee of the Month at Taco Bell"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Certified Home Healthcare Aide",
+      "url": "",
+      "startDate": "2014-02-01",
+      "endDate": "2014-09-01",
+      "summary": "Provided patient education. Treated patients with strokes. Provided behavioral/emotional support and supervision for those with dementia and Alzheimer's. Assisted patients with daily functions. Delivered in-home care to disabled children and adults. Ensured safety and well-being of patients. Transported patients to and from different departments. Assisted patients with bathing, dressing, hygiene and grooming. Completed all daily living tasks to enhance the quality of life of elderly patients. Engaged patients with games, crafts, cooking, music, reading and other activities.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Deli/Bakery Clerk",
+      "url": "",
+      "startDate": "2013-03-01",
+      "endDate": "2014-01-01",
+      "summary": "Provided patient education.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Crew Trainer",
+      "url": "",
+      "startDate": "2012-09-01",
+      "endDate": "2013-03-01",
+      "summary": "Consistently provided friendly guest service and heartfelt hospitality. Demonstrated integrity and honesty while interacting with guests, team members and managers. Operated the drive-through window and sales register quickly and efficiently. Greeted customers and provided excellent customer service.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Crew Member",
+      "url": "",
+      "startDate": "2012-03-01",
+      "endDate": "2012-08-01",
+      "summary": "Consistently provided friendly guest service and heartfelt hospitality. Promptly and empathetically handled guest concerns and complaints. Demonstrated integrity and honesty while interacting with guests, team members and managers. Operated the drive-through window and sales register quickly and efficiently. Greeted customers and provided excellent customer service.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Trimble High School",
+      "area": "",
+      "studyType": "High School Diploma",
+      "startDate": "",
+      "endDate": "2012",
+      "courses": []
+    },
+    {
+      "institution": "Washington State Community College",
+      "area": "Health and Wellness",
+      "studyType": "Associate of Science",
+      "startDate": "",
+      "endDate": "",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Customer Service",
+      "level": "Master",
+      "keywords": []
+    },
+    {
+      "name": "CPR and First Aide",
+      "level": "Master",
+      "keywords": []
+    },
+    {
+      "name": "Fast learning and working skills",
+      "level": "Master",
+      "keywords": []
+    }
+  ],
+  "languages": []
+}

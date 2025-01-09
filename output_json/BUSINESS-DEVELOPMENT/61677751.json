@@ -1,0 +1,126 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Sales and Business Development",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Sales management professional with over 15 years in business and management roles. Demonstrates a passion for building relationships, cultivating partnerships and growing businesses.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Sales and Business Development, Sales/Project Manager, Brand Manager, VAS Parts Manager",
+      "url": "",
+      "startDate": "1753-02-01",
+      "endDate": "",
+      "summary": "Build client brand image and drive profits. Generate B2B revenue streams through drip emails and cold calls. Manage projects and brands. Grow sales in Dealers. Execute marketing strategies. Implement e-business program and Cisco VOIP system.",
+      "highlights": [
+        "Surpassed revenue goals growing sales incrementally from 265K in May to over 600K in August.",
+        "Interviewed, hired and trained new quality customer service representatives.",
+        "Developed and implemented ISO and COPC policies, procedures and process improvement initiatives to improve retention rates and increase customer satisfaction."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of North Carolina",
+      "url": "",
+      "area": "Supply Chain Management",
+      "studyType": "Post-Baccalaureate",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Guilford College",
+      "url": "",
+      "area": "Sport Management",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Sales and Business Development",
+      "level": "Master",
+      "keywords": [
+        "Operations Management",
+        "Business Development",
+        "Quality Auditor",
+        "Project Management",
+        "Customer Service Management",
+        "B2B Sales",
+        "Process Management",
+        "Continuous Improvement Expert",
+        "Operations management",
+        "Staff Development and Training",
+        "Appointment Setting",
+        "Art",
+        "B2B",
+        "Billing",
+        "Business Analyst",
+        "Business Modeling",
+        "Business Operations",
+        "Business Process Expert",
+        "Business Systems",
+        "Call Center Manager",
+        "Coaching",
+        "Cost accounting",
+        "Customer Relations",
+        "Customer Service Expert",
+        "Database Administrator",
+        "E-business Director",
+        "Estimating",
+        "Innovation",
+        "Inventory Control",
+        "ISO",
+        "Team Leader",
+        "Logistics",
+        "Managing",
+        "Marketing",
+        "Market",
+        "Meetings",
+        "Outside Sales",
+        "Policies",
+        "POS",
+        "Process Control",
+        "Process Improvement",
+        "Production Management",
+        "Program Implementation",
+        "Project Management",
+        "Quality",
+        "Reporting",
+        "Research",
+        "Retail",
+        "Sales",
+        "Scheduling",
+        "Six Sigma",
+        "Supervisor",
+        "Supply Chain Management",
+        "Teacher",
+        "Technical Support"
+      ]
+    }
+  ],
+  "languages": [],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

@@ -1,0 +1,62 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Financial Aid Specialist",
+    "email": "",
+    "phone": "",
+    "location": {
+        "address": "",
+        "city": "",
+        "region": "",
+        "postalCode": "",
+        "countryCode": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Financial Aid Specialist",
+      "startDate": "2012-01-01",
+      "endDate": "Current",
+      "summary": "Counsels and advises students concerning financial aid opportunities, application processes and financial management strategies. Educates students in the identification of all sources of financial aid available, including the requirements and regulations within programs."
+    },
+    {
+      "name": "Company Name",
+      "position": "Student Services Specialist/Financial Aid Counselor",
+      "startDate": "2010-01-01",
+      "endDate": "2012-01-01",
+      "summary": "Counsels prospective and enrolled students, parents and community members on all aspects of financial aid. Reconciles differences that arise between what was awarded and what the student is eligible to receive for state and federal student aid."
+    },
+    {
+      "name": "Company Name",
+      "position": "Special Assets Adjuster",
+      "startDate": "2007-01-01",
+      "endDate": "2010-01-01",
+      "summary": "Minimizes delinquency rates on retail loans through successful negotiations and problem resolution with clients. Improves processes in management of delinquent loans-through thorough analysis-preventing foreclosures, charge-offs, and repossessions."
+    }
+  ],
+  "education": [
+    {
+      "institution": "UNIVERSITY OF NORTH CAROLINA AT PEMBROKE",
+      "area": "Business Administration Finance Management Information Systems",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "2008",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Financial management",
+      "keywords": ["budget", "data collection", "documentation", "Grants", "negotiations", "policies", "problem resolution", "processes", "Improves processes", "progress", "report writing", "research", "retail", "workflow analysis"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

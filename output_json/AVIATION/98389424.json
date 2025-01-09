@@ -1,0 +1,91 @@
+{
+  "basics": {
+    "name": "Gunnery Sergeant",
+    "label": "Leader and Specialist",
+    "email": "",
+    "phone": "",
+    "summary": "Highly experienced and dedicated Gunnery Sergeant with excellent leadership and problem-solving abilities",
+    "location": {},
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Gunnery Sergeant, Specialist, MAGTF Planning Specialist, Aviation Supply Specialist",
+      "url": "",
+      "startDate": "January 1997",
+      "endDate": "January 2014",
+      "summary": "Administered, designed, installed, maintained, and repaired network data communication links and fiberoptic cabling, among other responsibilities.",
+      "highlights": [
+        "Supported a myriad of computer and network operating systems and servers",
+        "Provided direct hardware and software support, installation/configuration support for over 5000 users, computers, laptop, printers, and peripherals",
+        "Managed, supervised, and trained over 40 personnel at any given time during multiple work shifts in a constantly changing environment",
+        "Implemented policies and directives to streamline and maximize productivity of all personnel",
+        "Maintained Windows and Linux/Unix HP-UX based servers performing data management, backups and restore, troubleshooting and preventative maintenance"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Columbia Southern University",
+      "url": "",
+      "area": "Information Technology",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "October 2012",
+      "score": "",
+      "courses": [
+        "Information Technology Aviation Supply Course"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Joint Service Commendation Medal",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    },
+    {
+      "title": "Navy & Marine Corps Achievement Medal",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    },
+    {
+      "title": "Joint Meritorious Unit Award",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "General Skills",
+      "level": "",
+      "keywords": [
+        "Detail oriented",
+        "Budget planning",
+        "Windows proficient",
+        "Mac proficient",
+        "Active Directory",
+        "Microsoft proficient",
+        "Leadership skills",
+        "Resource management"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "security": {
+    "clearance": "Active Secret Clearance",
+    "certifications": [
+       "Stress Management"
+    ]
+  }
+}

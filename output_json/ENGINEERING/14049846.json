@@ -1,0 +1,120 @@
+{
+  "basics": {
+    "name": "Not Mentioned",
+    "label": "Engineering Intern",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Looking for an opportunity as an engineer or related position which offers key participation, team-oriented tasks, immediate challenges, and career opportunities...",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Engineering Intern",
+      "url": "",
+      "startDate": "2014-06-01",
+      "endDate": "2014-06-01",
+      "summary": "Developed, evaluated, documented, and advanced manufacturing methods and processes...",
+      "highlights": [
+        "Prepared report on project status for management",
+        "Monitored production tables, studied industry engineering specifications",
+        "Directed workers involved in product measurement, inspection, and testing"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Oklahoma Christian University",
+      "url": "",
+      "area": "Engineering Management",
+      "studyType": "Master of Science",
+      "startDate": "",
+      "endDate": "current",
+      "score": "3.6",
+      "courses": []
+    },
+    {
+      "institution": "Sastra University, Tanjore Tamil Nadu",
+      "url": "",
+      "area": "Chemical Engineering",
+      "studyType": "Bachelor of Technology",
+      "startDate": "",
+      "endDate": "2016",
+      "score": "6.97",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Engineering Skills",
+      "level": "Not specified",
+      "keywords": [
+        "Know-your-consumer (KYC)",
+        "Statistical process control",
+        "Cost reduction and avoidance",
+        "Systems Engineering",
+        "Systems Engineering management",
+        "Software systems engineering",
+        "Quality control",
+        "Failure analysis",
+        "Tools of operations research",
+        "MS Office",
+        "Auto CAD"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": [
+    {
+      "name": "Project: Natural and Essential Oils Pvt Ltd.",
+      "startDate": "",
+      "endDate": "",
+      "description": "Performed the extraction of essential oils...",
+      "highlights": [
+        "Calculated production accuracy, yield and testing equipment",
+        "Employed statistics to propose improvements",
+        "Prepared work plans and forecast for management review"
+      ],
+      "url": ""
+    },
+    {
+      "name": "Nutraceutical Extraction Project",
+      "startDate": "",
+      "endDate": "",
+      "description": "Worked in a team to extract nutraceuticals...",
+      "highlights": [
+        "Developed measurement standards",
+        "Monitored and analyzed workflow",
+        "Developed guidelines and procedures to improve standards"
+      ],
+      "url": ""
+    },
+    {
+      "name": "Isolation of multiple substances from various plants",
+      "startDate": "",
+      "endDate": "",
+      "description": "Created process flow diagram on ASPEN workbench.",
+      "highlights": [
+        "Used flow charts and graphs to improve process",
+        "Performed environmental monitoring",
+        "Managed system configuration"
+      ],
+      "url": ""
+    }
+  ]
+}

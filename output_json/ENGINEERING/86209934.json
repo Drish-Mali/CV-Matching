@@ -1,0 +1,111 @@
+{
+  "basics": {
+    "name": "Senior Manufacturing Engineering",
+    "label": "Engineer",
+    "summary": "Experienced Manufacturing Engineer with expertise in Web Handling, Printing, Extrusion, MS Office, Die Design, and many more.",
+    "skills": [
+      "Web Handling", 
+      "Printing", 
+      "Extrusion", 
+      "MS Office", 
+      "Die Design", 
+      "IPRIME", 
+      "Coatings", 
+      "Microstructures", 
+      "CNC",
+      "Polymer Processing"
+    ]
+  },
+  "work": [
+    {
+      "position": "Senior Manufacturing Engineering",
+      "startDate": "2016-10",
+      "company": "Company Name",
+      "summary": "Started as a Mechanical engineer in the design department, moved to a Manufacturing and Quality Engineer, then process improvement engineer and now quality engineer supervisor."
+    },
+    {
+      "position": "Engineer",
+      "startDate": "2003-01",
+      "endDate": "2005-01",
+      "company": "Company Name",
+      "summary": "Implemented a database package for the nuclear power plant historical design calculations. The new system met the Nuclear Regulatory Commission standards."
+    },
+    {
+      "position": "Senior Design",
+      "startDate": "2004",
+      "endDate": "2005",
+      "company": "Central Minnesota Tool",
+      "summary": "The project was on a new precision design for plastic molding injection where the dimensions and shape were fixed."
+    },
+    {
+      "position": "Paraprofessional",
+      "startDate": "2001",
+      "endDate": "2002",
+      "company": "Independent School District 287",
+      "summary": "Designed, developed, and implemented databases for tracking student's behaviors."
+    },
+    {
+      "position": "Manager and Bartender",
+      "startDate": "1997",
+      "endDate": "1999",
+      "company": "Sharx Night Club and Sports Bar",
+      "summary": "Responsible for employees during high volume business hours."
+    },
+    {
+      "position": "Manager and Site Supervisor",
+      "startDate": "1991-01",
+      "endDate": "1997-01",
+      "company": "Undisclosed",
+      "summary": "Designed, built, and managed the construction of Renaissance Fairs, theaters, and large seasonal displays for malls."
+    }
+  ],
+  "education": [
+    {
+      "institution": "St. Cloud State University",
+      "area": "Science",
+      "studyType": "Bachelor",
+      "startDate": "2005",
+      "score": "3.7"
+    },
+    {
+      "institution": "North Hennepin Community College",
+      "area": "Science Pre-Engineering",
+      "studyType": "Associates",
+      "score": "3.8"
+    },
+    {
+      "institution": "North Hennepin Community College",
+      "area": "Arts",
+      "studyType": "Associates",
+      "score": "4.0"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Engineering Skills",
+      "level": "Master",
+      "keywords": [
+        "AutoCAD",
+        "Robotics Lab",
+        "SPC",
+        "Sigma",
+        "Design of Experiment (DOE)",
+        "MathCAD"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Nuclear Management Company",
+      "summary": "Awarded the PRIDE award three times for various activities above and beyond job expectations."
+    },
+    {
+      "name": "North American Carousel",
+      "summary": "Received commendations from Virginia and Wisconsin for the level of detail given to projects."
+    },
+    {
+      "name": "ISD 287",
+      "summary": "Certified CPR & First Aid, American Red Cross, Certified"
+    }
+  ]
+}

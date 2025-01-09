@@ -1,0 +1,97 @@
+{
+  "basics": {
+    "name": "Student",
+    "label": "Interdisciplinary Social Science Graduate",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Completed Bachelors of Science in Interdisciplinary Social Science and Minor in Conflict Analysis and Trauma Studies. Served 8 1/2 years' in the US Army with experience in professionalism, dedication to duty and integrity. Extensive background in Executive Administrative affairs",
+    "location": {},
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "35-40 hrs",
+      "position": "Executive Administrative Assistant",
+      "url": "",
+      "startDate": "September 2012",
+      "endDate": "April 2013",
+      "summary": "Responsible for performing field and sustainment level maintenance on avionic navigation flight control systems, stabilization systems and equipment",
+      "highlights": []
+    },
+    {
+      "name": "1st Infantry Division - Fort Riley, KS",
+      "position": "Executive Administrative Assistant",
+      "url": "",
+      "startDate": "January 2011",
+      "endDate": "September 2011",
+      "summary": "Served as the Executive Administrative Assistant to the Division Command Sergeant Major",
+      "highlights": ["Executed over 15 boards", "27 award ceremonies"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Administrative Assistant",
+      "url": "",
+      "startDate": "June 2010",
+      "endDate": "December 2010",
+      "summary": "Served as the administrative assistant for brigade command group",
+      "highlights": ["Developed lesson plan on composite risk management"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Cashier/Copy Center",
+      "url": "",
+      "startDate": "May 2003",
+      "endDate": "July 2004",
+      "summary": "Operated a computer system that calculates and marks prices, Assisted customers by answering questions concerning prices",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Kansas State University",
+      "url": "",
+      "area": "Interdisciplinary Social Science",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "August 2015",
+      "score": "3.41",
+      "courses": []
+    },
+    {
+      "institution": "North Garland High School",
+      "url": "",
+      "area": "",
+      "studyType": "High School Diploma",
+      "startDate": "",
+      "endDate": "May 2004",
+      "score": "2.7",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+      {
+        "name": "Administrative skills",
+        "level": "",
+        "keywords": ["administrative", "Administrative Assistant", "Army", "interpersonal", "criminal justice", "database", "Detail-oriented", "Employee Relations"]
+      },
+      {
+        "name": "Technical skills",
+        "level": "",
+        "keywords": ["Instructor", "lesson plan", "Excel", "Microsoft Outlook", "Power point", "Word", "navigation", "risk management", "scanning", "switchboard", "telephone", "wiring"]
+      },
+      {
+        "name": "Management and personal skills",
+        "level": "",
+        "keywords": ["Personnel", "Personnel Management", "Psychology", "research", "Performance Management", "excellent people skills"]
+      }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

@@ -1,0 +1,113 @@
+{
+  "basics": {
+    "name": "Senior Special Investigator",
+    "label": "Insurance Fraud Specialist",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "To work within a successful Special Investigation Unit and work effectively with others. Skilled investigative professional with over 40 years experience in the industry, extensive knowledge in combating fraud and conducting training sessions, particularly within the insurance sector.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Senior Special Investigator",
+      "url": "",
+      "startDate": "2004-03-01",
+      "endDate": "2014-09-01",
+      "summary": "Conducted complex possible fraudulent insurance claims investigations for the Specialty Group of Great American. These claims are within their Workers Comp Unit, Liability Unit, Property Claims, Agriculture Claims, Equine Claims and Tractor-Trailer claims units.",
+      "highlights": ["Insurance fraud expertise", "Team player", "Strong interpersonal and communication skills", "Interviewing techniques", "Critical thinker"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Sr. Special Investigator",
+      "url": "",
+      "startDate": "2003-01-01",
+      "endDate": "2004-03-01",
+      "summary": "Conducted investigations into suspicious insurance claims relating to Bodily Injury Accidents, First Party Auto Theft, Burglary, Vandalism, Property theft and etc.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Sr. Special Investigator",
+      "url": "",
+      "startDate": "2002-01-01",
+      "endDate": "2003-01-01",
+      "summary": "Conducted complex insurance fraud investigations. Monitored out of the area investigations by Private Investigation Companies on Unitrin Insurance products.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Supervising SIU Investigator",
+      "url": "",
+      "startDate": "1987-01-01",
+      "endDate": "1993-01-01",
+      "summary": "In charge of 3 & 4 different offices of the Special Investigation Unit for Continental Insurance including supervision of investigators and support staff.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Long Beach Comm. College",
+      "url": "",
+      "area": "Criminology",
+      "studyType": "Associate Degree",
+      "startDate": "1972-01-01",
+      "endDate": "1972-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Univ. of Redlands",
+      "url": "",
+      "area": "Management",
+      "studyType": "Bachelor's Degree",
+      "startDate": "1977-01-01",
+      "endDate": "1977-12-31",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Certified Insurance Fraud Investigator (CIFI)",
+      "date": "",
+      "issuer": "International Association of Special Investigation Units (IASIU)",
+      "url": ""
+    },
+    {
+      "name": "Senior Claims Law Associate Degree",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "Senior Fraud Claims Specialist Degree",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Investigation",
+      "level": "Senior",
+      "keywords": ["Insurance fraud", "Team player", "Strong interpersonal and communication skills", "Interviewing techniques", "Critical thinker"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

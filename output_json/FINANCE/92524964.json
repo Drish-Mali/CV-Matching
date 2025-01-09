@@ -1,0 +1,100 @@
+{
+  "basics": {
+    "name": "Y.JOHN DIVAKAR",
+    "label": "FINANCE MANAGER",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "To work in an organization where I can put in best of my efforts, which proves to be beneficial for the organization, gives opportunities for professional and personal growth. Looking forward to work on a long term assignments in a corporate environment, where I will get exposed to different working conditions, there by excelling and enhancing my skills along with benefiting the organization to reach greater heights.",
+    "location": {
+      "address": "87, Soi 12 Siam Mansion 12 D1. Sukhumvit,Klongtoey",
+      "postalCode": "",
+      "city": "Bangkok",
+      "countryCode": "TH",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Moevenpick Hotel Sukhumvit 15 Bangkok",
+      "position": "Finance Manager",
+      "url": "",
+      "startDate": "2010-01-01",
+      "endDate": "2014-01-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+        "name": "Ramada Hotel and Suites Bangkok, Wyndham group",
+        "position": "Finance Manager",
+        "url": "",
+        "startDate": "2006-01-01",
+        "endDate": "2007-01-01",
+        "summary": "",
+        "highlights": []
+    },
+    {
+        "name": "Company Name",
+        "position": "Deputy Manager",
+        "url": "",
+        "startDate": "1980-01-01",
+        "endDate": "2005-01-01",
+        "summary": "",
+        "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Andhra University",
+      "url": "",
+      "area": "Commerce",
+      "studyType": "Bachelor",
+      "startDate": "1980-01-01",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Annamalai University",
+      "url": "",
+      "area": "Financial Management",
+      "studyType": "Post Graduate Diploma",
+      "startDate": "2001-01-01",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Data Pro computers",
+      "url": "",
+      "area": "Computer Education",
+      "studyType": "Diploma",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": ["Comanche", "IDS", "Tally 4.5", "Touch Key", "Sun", "MS-OFFICE"]
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Accounting",
+      "level": "",
+      "keywords": ["computerized accounting", "Trial Balance", "Balance Sheet", "Bank reconciliation", "Budgets", "Cash Flow", "DBASE", "Financial reports", "Foreign Exchange", "General Ledger", "IDS", "INFORMIX 4GL", "Internal Audit", "Ledger", "LOTUS", "MS-OFFICE", "MIS", "MSDOS", "Payroll", "Profit", "Sun", "UNIX", "WORDSTAR"]
+    }
+  ],
+  "languages": [],
+  "interests": [
+    {
+      "name": "Hobbies",
+      "keywords": ["Reading Books and magazines", "listening Music"]
+    }
+  ],
+  "references": [],
+  "projects": []
+}

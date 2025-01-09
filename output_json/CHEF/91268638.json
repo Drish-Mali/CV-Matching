@@ -1,0 +1,124 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Event lead / Prep Cook / Assistant Pastry Chef",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Talented cook with a diverse culinary background encompassing family style meals, restaurant management, and on site catering. Successful history of motivating kitchen personnel to maintain high performance standards and excellence.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Event Lead / Prep Cook / Assistant Pastry Chef",
+      "url": "",
+      "startDate": "2015-01-01",
+      "endDate": "2016-12-01",
+      "summary": "As an Event Lead responsible for managing an event team of up to 40 people at times.",
+      "highlights": [
+        "Delegating responsibilities, managing break and leave times, loading/delivering, and training new employees."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Line Cook",
+      "url": "",
+      "startDate": "2014-05-01",
+      "endDate": "2015-12-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Line Cook",
+      "url": "",
+      "startDate": "2014-05-01",
+      "endDate": "2014-10-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Baker",
+      "url": "",
+      "startDate": "2013-12-01",
+      "endDate": "2014-05-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Sous Chef",
+      "url": "",
+      "startDate": "2010-01-01",
+      "endDate": "2013-11-01",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Thomas Edison Senior High School",
+      "url": "",
+      "area": "",
+      "studyType": "High School Diploma",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "San Joaquin Delta Community College",
+      "url": "",
+      "area": "",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Culinary",
+      "level": "",
+      "keywords": [
+        "attention to detail", 
+        "budget", 
+        "cooking", 
+        "baking", 
+        "customer satisfaction", 
+        "delivery", 
+        "special events", 
+        "hiring", 
+        "packaging", 
+        "policies", 
+        "pricing", 
+        "producing", 
+        "proofing",
+        "quality", 
+        "recruiting", 
+        "safety", 
+        "scheduling", 
+        "supervising"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

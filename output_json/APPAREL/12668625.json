@@ -1,0 +1,152 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Bookseller",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Ever since I've been able to work I have, the day I turned 16 I got a job at Wal-Mart and I was with Wal-Mart for about a year and a half.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Bookseller",
+      "url": "",
+      "startDate": "2016-08-01",
+      "endDate": "Current",
+      "summary": "Cleaned and straightened work area. Bagged merchandise by following standard procedures. Organized register supplies. Worked with customer service to resolve issues. Unboxed new merchandise. Rotated stock to maintain freshness. Operated cash register with proficiency. Provided professional and courteous service at all times. Worked overtime shifts during busy periods.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Teacher/ Closer",
+      "startDate": "2014-09-01",
+      "endDate": "Current",
+      "summary": "During my time at Southside Christian Childcare and Preschool I have learned many things. From simple things of how to properly sanitize a changing table to having to take care of a child after a bad accident. I have learned how to better communicate with others, and care for children properly.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Apparel and Jewelry Associate and Cashier",
+      "startDate": "2013-04-01",
+      "endDate": "2015-01-01",
+      "summary": "My responsibilities as a apparel associate at Wal-Mart included cleaning up apparel; folding clothes, watching over the fitting rooms, answering the telephone, putting out new merchandise, using handhelds to find out where products are, or if they are in stock.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Oldham County High School",
+      "url": "",
+      "area": "",
+      "studyType": "High School Diploma",
+      "startDate": "",
+      "endDate": "2015-06-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Customer service mindset",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Restocking",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Receive return merchandise",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Cheerfulness",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Enthusiasm",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Efficiency",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Professional appearance",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Cash handling",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Cash registers",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Communication Skills",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Customer Service",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Listening",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "MS Office",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Teaching",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Time Management",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "ASL",
+      "fluency": "Learning"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

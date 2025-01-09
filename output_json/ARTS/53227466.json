@@ -1,0 +1,129 @@
+{
+  "basics": {
+    "name": "John Doe",
+    "label": "I.T. Support Technician/Specialist",
+    "summary": "Over 20 years' experience working with customers\\users. Possess knowledge of advanced diagnostic techniques. My main professional goal is to become a network administrator.",
+    "location": {
+      "city": "City",
+      "countryCode": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "I.T. Support Technician/Specialist",
+      "startDate": "2011-01-01",
+      "summary": "By remote or on location, I respond to tickets given by Faculty and Staff through a help-desk system. Tickets range from basic computer problems to networking problems regarding Cisco switches.",
+      "highlights": [
+        "Diagnosed hardware and software failures and resolved technical issues with a 90% success rate.",
+        "On average closes more tickets than any other Technical Support Specialist."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Children's Program Developer/Operations Manager",
+      "startDate": "2009-01-01",
+      "endDate": "2011-01-01",
+      "summary": "I over saw the day to day operations, sold memberships, retail goods, upgrade packages."
+    },
+    {
+      "name": "Company Name",
+      "position": "Instructor/Owner",
+      "startDate": "2005-01-01",
+      "endDate": "2009-01-01",
+      "summary": "I over saw the day to day operations, sold memberships, retail goods, upgrade packages, designed curriculum programs and taught martial arts to children and adults."
+    },
+    {
+      "name": "Company Name",
+      "position": "Technical Support",
+      "startDate": "2005-01-01",
+      "endDate": "2006-01-01",
+      "summary": "I solved problems over the phone with a user of a software package designed to build picture frames."
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Western Governors University",
+      "area": "Network Administration",
+      "studyType": "Bachelor",
+      "startDate": "2017-01-01",
+      "courses": []
+    },
+    {
+      "institution": "SouthernSouthern Crescent Technical College Griffin",
+      "area": "Networking Cisco and Microsoft",
+      "studyType": "Associates of Applied Technology",
+      "startDate": "2012-01-01"
+    },
+    {
+      "institution": "Griffin High School",
+      "studyType": "High School Diploma",
+      "startDate": "1991-01-01"
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Comptia Project+ Certification",
+      "date": ""
+    },
+    {
+      "name": "CIS Web Design Specialist Certification",
+      "date": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Desktop and Laptop systems",
+      "level": "Expert",
+      "keywords": []
+    },
+    {
+      "name": "Active Directory",
+      "level": "Experience",
+      "keywords": []
+    },
+    {
+      "name": "Computer installation",
+      "level": "Expert",
+      "keywords": []
+    },
+    {
+      "name": "Computer Troubleshooting",
+      "level": "Expert",
+      "keywords": []
+    },
+    {
+      "name": "Software installation\\upgrading",
+      "level": "Expert",
+      "keywords": []
+    },
+    {
+      "name": "Windows Server 2008 R2",
+      "level": "Novice",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Office Suite",
+      "level": "Experienced",
+      "keywords": []
+    },
+    {
+      "name": "VOIP Phone Installation",
+      "level": "Experienced",
+      "keywords": []
+    },
+    {
+      "name": "Virus\\Spyware Removal",
+      "level": "Expert",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

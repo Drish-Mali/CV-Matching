@@ -1,0 +1,105 @@
+{
+  "basics": {
+    "name": "LICENSED UNITED HEALTHCARE INSURANCE SALES AGENT",
+    "label": "Insurance Sales Agent",
+    "email": "",
+    "phone": "",
+    "summary": "Talent for identifying customers' needs and referring appropriate company products and services. Demonstrates ability to gain customers' trust and provide exceptional follow up, leading to increased sales and repeated referral of business.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "US",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Licensed United Healthcare Insurance Sales Agent",
+      "url": "",
+      "startDate": "2014-09-01",
+      "endDate": "2015-10-01",
+      "summary": "Provide services to clients changing or updating healthcare insurance needs by upselling/cross selling variety of health insurance products. Demonstrate prospecting skills and meet/exceed sales goals. Deliver exceptional customer service to develop and build new client relationships.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Account Executive Sales Agent/FedEx Account",
+      "url": "",
+      "startDate": "2014-03-01",
+      "endDate": "2014-09-01",
+      "summary": "Responsibilities include maintaining and deepening existing customer relations, making outbound calls to engage customers with new products and services. Successfully deliver Client's family of services implementing well-developed sales skills.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Central Piedmont Community College",
+      "url": "",
+      "area": "Computer Office Information Systems",
+      "studyType": "Certificate",
+      "startDate": "",
+      "endDate": "2001-01-01",
+      "score": "3.75",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Time Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Effective Communication",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Trouble Shooting",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Problem Solving",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Cloud technology",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Office Suite",
+      "level": "Proficient",
+      "keywords": []
+    },
+    {
+      "name": "Skype",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Instant Messaging",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Web Chat",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Negotiating",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

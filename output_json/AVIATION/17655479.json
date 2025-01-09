@@ -1,0 +1,111 @@
+{
+  "basics": {
+    "name": "Not provided",
+    "label": "Pest Control Technician",
+    "image": "",
+    "email": "", 
+    "phone": "",
+    "url": "",
+    "summary": "Seeking a position with warehouse company, where can use experience as Forklift Driver to maintain inventories in good, clean environment. More than ten years experience. Experienced forklift operator able to receive cargo into packing area, inspect for damages and report any discrepancies. Skilled at operating in various types of weather and adept at operating hand and power tools. Able to follow safety procedures and effectively interrelate with other department workers.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Not provided",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Pest Control Tech",
+      "url": "",
+      "startDate": "2014-08-01",
+      "endDate": "Current",
+      "summary": "Maintains accurate stock records and schedules. Recommends and assists customers select merchandise based on their needs, resolves customer issues efficiently.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Warehouse/Shipping and Receiving",
+      "url": "",
+      "startDate": "2012-09-01",
+      "endDate": "2014-08-01",
+      "summary": "Supervised material flow, storage and global order fulfilment. Verified and recorded conditions of received cargo. Operated at a rapid pace to meet tight deadlines.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Warehouse/Driver",
+      "url": "",
+      "startDate": "2011-07-01",
+      "endDate": "2012-08-01",
+      "summary": "Conducted monthly, quarterly and yearly inventories of warehouse stock. Retained valid proof of insurance and registration in vehicle at all times. Interacted with customers and vendors in a friendly and timely manner.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Warehouse/Shipping and Receiving",
+      "url": "",
+      "startDate": "2005-08-01",
+      "endDate": "2011-11-01",
+      "summary": "Maintained accurate stock records and schedules. Oversaw special orders and after-hours, urgent shipping jobs. Worked at a rapid pace to meet tight deadlines.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Driver/Helper",
+      "url": "",
+      "startDate": "2004-11-01",
+      "endDate": "2005-08-01",
+      "summary": "Coordinated daily delivery schedules based on customer schedules, peak delivery times and alternate routes. Retained valid proof of insurance and registration in vehicle at all times.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "A/O Aviation Ordanance",
+      "url": "",
+      "startDate": "1998-11-01",
+      "endDate": "2003-5-01",
+      "summary": "Effective decision-maker in high-pressure environments. Managed receipt, storage and issue of ammunition processes. Practiced and followed all safety regulations and guidelines.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "St.Bernard High School",
+      "url": "",
+      "area": "Basics",
+      "studyType": "High School Diploma",
+      "startDate": "",
+      "endDate": "1998",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Forklift Operation",
+      "level": "Expert",
+      "keywords": ["Shipping and receiving", "Multi-tasker", "Production scheduling", "Customer-service focused"]
+    },
+    {
+      "name": "Communication",
+      "level": "Strong",
+      "keywords": ["Strong communication skills", "Exceptional problem solver", "Natural leader"]
+    },
+    {
+      "name": "Safety",
+      "level": "Expert",
+      "keywords": ["Safety-oriented", "Safety-conscious"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "volunteer": []
+}

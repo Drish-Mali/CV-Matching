@@ -1,0 +1,198 @@
+{
+  "basics": {
+    "name": "Swapanali Dhend",
+    "label": "Associate Consultant",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "7+ years of experience in Analysis, Design, Coding, Testing, Database Administrator & Production Support of application software in Mainframe platform. Extensive hands on experience on IBM Mainframe Application programming using COBOL II, CICS, JCL, DB2, VSAM, UNIX. CERTIFICATIONS: IBM Certified z/OS Database AdmiN, DB2 Application Developer and DB2 UDB V8 family Fundamentals Certifications.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "INDIA",
+      "region": ""
+    },
+    "profiles": [
+
+    ]
+  },
+  "work": [
+    {
+      "name": "HSBC Core Banking",
+      "position": "Associate Consultant",
+      "url": "",
+      "startDate": "2010-10",
+      "endDate": "2014-07",
+      "summary": "Managed Team of more than 7 members Proactively taking up the responsibilities as and when demanded...",
+      "highlights": [
+      ]
+    },
+    {
+      "name": "IBM India Pvt Ltd",
+      "position": "System Engineer",
+      "url": "",
+      "startDate": "2007-03",
+      "endDate": "2010-10",
+      "summary": "Responsible for Application design, Production Support, Creating Report on BRIO depending on requirements...",
+      "highlights": [
+      ]
+    }
+  ],
+  "volunteer": [
+
+  ],
+  "education": [
+    {
+      "institution": "Symbiosis University",
+      "url": "",
+      "area": "Finance",
+      "studyType": "MBA",
+      "startDate": "",
+      "endDate": "2011-01-01",
+      "score": "",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Pune University",
+      "url": "",
+      "area": "Computer",
+      "studyType": "BE",
+      "startDate": "",
+      "endDate": "2005-01-01",
+      "score": "",
+      "courses": [
+      ]
+    }
+  ],
+  "awards": [
+
+  ],
+  "certificates": [
+    {
+      "name": "IBM Certified z/OS Database Admin",
+      "date": "Not Mentioned",
+      "issuer": "IBM",
+      "url": ""
+    },
+    {
+      "name": "DB2 Application Developer",
+      "date": "Not Mentioned",
+      "issuer": "IBM",
+      "url": ""
+    },
+    {
+      "name": "DB2 UDB V8 family Fundamentals",
+      "date": "Not Mentioned",
+      "issuer": "IBM",
+      "url": ""
+    }
+  ],
+  "publications": [
+
+  ],
+  "skills": [
+    {
+      "name": "IBM Mainframe Application programming",
+      "level": "",
+      "keywords": [
+        "COBOL II",
+        "CICS",
+        "JCL",
+        "DB2",
+        "VSAM",
+        "UNIX",
+        "SQL",
+        "HTML",
+        "XML",
+        "JavaScript",
+        "REXX",
+        "Java"
+      ]
+    },
+    {
+      "name": "Tools/Utilities",
+      "level": "",
+      "keywords": [
+        "TSO/ISPF",
+        "RACF",
+        "OPC",
+        "QMF",
+        "FILE-AID",
+        "SPUFI",
+        "XPEDITOR",
+        "ENDEVOR",
+        "ABEND-AID",
+        "SDF",
+        "DCLGEN",
+        "SUPER-C",
+        "IBM SORT",
+        "ICETOOL",
+        "BMS",
+        "Quality Center (8.2)",
+        "Clear Quest",
+        "Fault Analyzer",
+        "SDSF",
+        "FTP",
+        "IBM UTILITIES",
+        "JCL UTILITIES",
+        "DB2 ADMIN PANEL",
+        "SONAR",
+        "RDZ",
+        "MQ Shooter"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Watching movies, Listening music",
+      "keywords": [
+
+      ]
+    }
+  ],
+  "references": [
+
+  ],
+  "projects": [
+    {
+      "name": "OHCB project",
+      "startDate": "",
+      "endDate": "",
+      "description": "Development of a new platform for processing the banking business of HSBC in mainframes",
+      "url": ""
+    },
+    {
+      "name": "MIW (MARKETPLACE INFORMATION WAREHOUSE)",
+      "startDate": "2009-04",
+      "endDate": "2010-10",
+      "description": "Multiple sources of data and makes this data easy to use by cleaning, processing, linking, and further defining the data...",
+      "url": ""
+    },
+    {
+      "name": "LDW ESW",
+      "startDate": "2007-04",
+      "endDate": "2009-03",
+      "description": "EBI (Enterprise Business Information) Operation includes three batches, one for each GEO (EMEA, NA and AP) running overnight...", 
+      "url": ""
+    },
+    {
+      "name": "LDS (Legacy Data Systems)",
+      "startDate": "2007-10",
+      "endDate": "2009-03",
+      "description": "The Legacy Data Store (LDS) as a logical part of the EDW consists of 12 tables...",
+      "url": ""
+    }
+  ]
+}

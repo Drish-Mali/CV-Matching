@@ -1,0 +1,101 @@
+{
+  "basics": {
+    "name": "Budget Analyst Series 0560",
+    "label": "Accounting",
+    "summary": "Flexible Budget Analyst who adapts seamlessly to constantly evolving accounting processes and technologies. Ability to communicate verbally and in writing.",
+    "location": {
+      "city": "",
+      "countryCode": ""
+    }
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Budget Analyst Series 0560",
+      "startDate": "2007-07",
+      "endDate": "Current",
+      "summary": "Subject Matter expert, researching, developing and executing the Franchise Fund budget in excess of 28.6 million dollars."
+    },
+    {
+      "name": "Company Name",
+      "position": "Debt Management Specialist Series: 0501",
+      "startDate": "2002-09",
+      "endDate": "2007-07",
+      "summary": "Provided Debt Management services related to Veterinary Services (VS) and miscellaneous accounts."
+    },
+    {
+      "name": "Company Name",
+      "position": "Budget Analyst Series 0560",
+      "startDate": "1994-09",
+      "endDate": "2002-09",
+      "summary": "Assisted in the formulation of budget requirements for an annual budget in excess of 1.9 million dollars."
+    },
+    {
+      "name": "Company Name",
+      "position": "Budget Technician Series 0503",
+      "startDate": "1992-11",
+      "endDate": "1994-11",
+      "summary": "Maintained document control logs, to comply with requirements of the Department of the Army regulations for a three state area."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Southeast High School",
+      "area": "",
+      "studyType": "High School Diploma",
+      "startDate": "1983",
+      "endDate": "1983"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Performance awards",
+      "date": "2008-2015"
+    },
+    {
+      "title": "Cash awards for Superior Service",
+      "date": "1995-2001"
+    },
+    {
+      "title": "Civilian of the Year for Fiscal Year 1997",
+      "date": "1997"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Microsoft Office",
+      "level": "Word/Outlook/ Excel/Power Point"
+    }
+  ],
+  "references": [],
+  "projects": [],
+  "volunteer": [],
+  "publications": [],
+  "languages": [],
+  "interests": [],
+  "certificates": [],
+  "courses": [
+    "GSA National Safety Council Defensive Driving Course. (2016)",
+    "Contracting Officer Representative with a Mission Focus (2016)",
+    "On-lline Training for Contracting Officer's Representative (2016)",
+    "FAC-COR Lever II Course (2013)",
+    "Contracting Officer's Representative Course (2011)",
+    "CON 120: Appropriations Law (2010)",
+    "Improved Statement of Work (2009)",
+    "Contracting Overview (2009)",
+    "Overview of Acquisition Ethics (2009)",
+    "Contracting Officer Representative with a Mission Focus (2009)",
+    "Market Research (2009)",
+    "CON 110: Mission Focused Contracting (2008)",
+    "Simplified Acquisition Procedures (2008)",
+    "Dunn and Bradstreet (2003)",
+    "Seven Habits of Highly Effective People (2006)",
+    "Management Development (2000)",
+    "Supervisor Correspondence (2000)",
+    "Human Resource Correspondence (2000)",
+    "Leadership Education and Development (1997)",
+    "Develop and Administer Budget (1995)",
+    "Budget Execution (1995)",
+    "Basic financial Budgeting (1995)"
+  ]
+}

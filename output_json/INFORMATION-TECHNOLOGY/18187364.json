@@ -1,0 +1,159 @@
+{
+  "basics": {
+    "name": "Information Technology Specialist Information Security Officer",
+    "label": "",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "blah, blah",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Information Technology Specialist Information Security Officer",
+      "url": "",
+      "startDate": "October 2010",
+      "endDate": "July 2015",
+      "summary": "Installing and configuring Oracle software versions 10g-12c. Scripting maintenance and monitoring tools. Creating Risk Assessment template based on NIST 800-30R1...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Vice President",
+      "url": "",
+      "startDate": "April 2002",
+      "endDate": "September 2010",
+      "summary": "Perform database penetration testing and regular server and database scanning for security vulnerabilities...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Database Manager",
+      "url": "",
+      "startDate": "February 2000",
+      "endDate": "April 2002",
+      "summary": "Created and supported multi-instance spatial environments for internet startup company...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Senior Database Administrator",
+      "url": "",
+      "startDate": "January 1999",
+      "endDate": "February 2000",
+      "summary": "Technical liaison and support manager for international leasing company...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "System Staff Specialist/Database Administrator",
+      "url": "",
+      "startDate": "December 1997",
+      "endDate": "January 1999",
+      "summary": "DBA for telesales, signature verification, and electronic payment systems...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Senior Database Administrator",
+      "url": "",
+      "startDate": "June 1997",
+      "endDate": "December 1997",
+      "summary": "Converted document management system from Sybase to Oracle...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Database Administrator",
+      "url": "",
+      "startDate": "September 1996",
+      "endDate": "June 1997",
+      "summary": "Implemented and maintained critical high volume online and Internet server Oracle databases in UNIX environment...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Associate Computer Programmer/Analyst",
+      "url": "",
+      "startDate": "June 1991",
+      "endDate": "September 1996",
+      "summary": "Technical lead responsible for Pavement and Bridge Management Systems development...",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "College of Saint Rose",
+      "url": "",
+      "area": "Management",
+      "studyType": "Master of Science",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "",
+      "url": "",
+      "area": "Music History",
+      "studyType": "Bachelor of Arts",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Oracle Certified Professional (OCP)",
+      "date": "",
+      "issuer": "Oracle",
+      "url": ""
+    },
+    {
+      "name": "Certified Information Systems Security Professional (CISSP)",
+      "date": "",
+      "issuer": "(ISC)2",
+      "url": ""
+    },
+    {
+      "name": "Certified Information Security Manager (CISM)",
+      "date": "",
+      "issuer": "ISACA",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "UNIX/LINUX",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Patch Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Database Servers",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

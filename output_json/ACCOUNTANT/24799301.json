@@ -1,0 +1,93 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Accountant",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Accountant for a Medium sized Company",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "State",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Accountant",
+      "url": "",
+      "startDate": "2009-01-01",
+      "endDate": "Current",
+      "summary": "Hired by their CPA firm to handle all accounting and job cost Reporting.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Accountant",
+      "url": "",
+      "startDate": "2007-01-01",
+      "endDate": "2009-01-01",
+      "summary": "Hired by their CPA firm to handle all accounting functions.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Accountant",
+      "url": "",
+      "startDate": "1997-01-01",
+      "endDate": "2007-01-01",
+      "summary": "Installed new Peachtree Accounting System. Installed new computer system using a local area network and Added a Web site.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Cincinnati",
+      "url": "",
+      "area": "Business Administration Accounting",
+      "studyType": "B.S",
+      "startDate": "1974-01-01",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Accounting Skills",
+      "level": "",
+      "keywords": [
+        "accounting",
+        "CPA",
+        "local area network",
+        "Peachtree Accounting",
+        "Reporting",
+        "Web site"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [
+    {
+      "name": "Interests",
+      "keywords": [
+        "Annapolis Amblers Walking Club",
+        "President &Trailmaster",
+        "Maryland Volkssport Assn",
+        "President",
+        "Chesapeake Civil War Roundtable"
+      ]
+    }
+  ],
+  "references": [],
+  "projects": []
+}

@@ -1,0 +1,115 @@
+{
+  "basics": {
+    "name": "N/A",
+    "label": "Sr. Project Manager / IT Professional",
+    "image": "",
+    "email": "N/A",
+    "phone": "N/A",
+    "url": "N/A",
+    "summary": "Information Technology Professional with a diverse background and 10+ years of progressive experience...",
+    "location": {
+      "address": "N/A",
+      "postalCode": "N/A",
+      "city": "City",
+      "countryCode": "US",
+      "region": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Sr. Project Manager",
+      "url": "N/A",
+      "startDate": "2012-08-01",
+      "endDate": "Current",
+      "summary": "Responsible for software lifecycle in the Cloud Realization group..",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Healthcare Training NCO",
+      "url": "N/A",
+      "startDate": "2010-05-01",
+      "endDate": "Current",
+      "summary": "Georgia army national guard Healthcare Training Non-Commissioned Officer (NCO)/68W ...",
+      "highlights": ["NREMT-B certified # E2043432", "BLS Instructor certified #08130190094"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Implementation Engineering Manager",
+      "url": "N/A",
+      "startDate": "Unknown",
+      "endDate": "Unknown",
+      "summary": "Managed 3G Engineering teams schedules and implementation of cell tower upgrades...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Project Manager III",
+      "url": "N/A",
+      "startDate": "2011-10-01",
+      "endDate": "2012-04-01",
+      "summary": "Accountable for planning and managing Network Infrastructure projects...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "IT Project Manager",
+      "url": "N/A",
+      "startDate": "2000-05-01",
+      "endDate": "2009-12-01",
+      "summary": "Managed all aspects of infrastructure/network project management needs for client base...",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "WALDEN UNIVERSITY",
+      "url": "N/A",
+      "area": "Business Administration",
+      "studyType": "Master",
+      "startDate": "Unknown",
+      "endDate": "2017",
+      "score": "N/A",
+      "courses": []
+    },
+    {
+      "institution": "Clayton State University",
+      "url": "N/A",
+      "area": "Project Management",
+      "studyType": "Certificate Course",
+      "startDate": "2011",
+      "endDate": "2011",
+      "score": "N/A",
+      "courses": []
+    },
+    {
+      "institution": "American Intercontinental University",
+      "url": "N/A",
+      "area": "International Business Marketing",
+      "studyType": "Bachelor",
+      "startDate": "Unknown",
+      "endDate": "2004",
+      "score": "N/A",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Project Management",
+      "level": "Senior",
+      "keywords": [
+        "Web content management", "Business case development", "Strong analytical skills", "Vendor management", "Contract negotiations", "Windows", "VMWare", "SQL", "Mobile development", "LTE", "Cell Tower", "LAN/WAN", "Ethernet", "4G", "VMware", "NetApp", "F5", "3G"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

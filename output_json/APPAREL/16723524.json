@@ -1,0 +1,89 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Production Control / Sr. Merchandiser",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Seeking fulltime/contract position where I can use my engineering, management background, Operation knowledge, merchandising and analytical skills at the most.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Production Control / Sr. Merchandiser",
+      "url": "",
+      "startDate": "2009-09-01",
+      "endDate": "2011-08-31",
+      "summary": "Managed purchase order, pricing and production planning of assigned customers using SAP. Implement and control production schedule.",
+      "highlights": [
+        "Taken training on different type of stitching machines like SNLS"
+      ]
+    },
+    {
+      "name": "Artex Apparels, Gujarat, India",
+      "position": "Assistant Production Development Manager",
+      "url": "",
+      "startDate": "2006-12-01",
+      "endDate": "2009-08-31",
+      "summary": "Co-ordinate and follow-up with buyer.",
+      "highlights": [
+        "Strong follow up of the purchase orders"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "LDCE-Gujarat University India",
+      "url": "",
+      "area": "Textile Technology",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "2006-06-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "",
+      "url": "",
+      "area": "Engineering Management",
+      "studyType": "Masters",
+      "startDate": "",
+      "endDate": "2016-05-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Technical",
+      "level": "",
+      "keywords": [
+        "MS Excel: Pivot table", 
+        "Hlook up; Vlookup", 
+        "moderate macros",
+        "advanced functions",
+        "Access", 
+        "MS Word", 
+        "MS PowerPoint",
+        "MS Outlook",
+        "SAP"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

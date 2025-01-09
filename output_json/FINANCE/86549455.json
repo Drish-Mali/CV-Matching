@@ -1,0 +1,118 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Finance",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Finance focal driven to improve morale, decrease turnover and improve productivity. Background in leadership development, training, and strategic thinking.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "State",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Finance",
+      "url": "",
+      "startDate": "2008-07-01",
+      "endDate": "2015-10-01",
+      "summary": "Held various Finance and Project Management related roles including: Integrated Scheduling, Contracts, Business Partner. Advised managers on program specific matters and recommend needed changes. Developed metrics to reduce risk. Directed personnel training activities. Served as a link between management and employees by handling questions, interpreting and executing program requirements, and helping resolve work-related problems.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Adjunct Professor",
+      "url": "",
+      "startDate": "2013-08-01",
+      "endDate": "Current",
+      "summary": "Conducted adult learner leadership courses to foster positive attitude toward organizational leadership. Presented leadership and human behavior material. Coordinated material to meet student needs and goals.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Human Resource Generalist Intern",
+      "url": "",
+      "startDate": "2014-07-01",
+      "endDate": "2015-03-01",
+      "summary": "Served as a link between management and employees by handling questions and helping resolve work-related problems. Advised managers on organizational policy matters and recommend needed changes. Directed job description development to maximize maneuverability of personnel.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "The Chicago School of Professional Psychology",
+      "url": "",
+      "area": "Organizational Leadership",
+      "studyType": "Doctor of Philosophy",
+      "startDate": "",
+      "endDate": "2013",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "The Chicago School of Professional Psychology",
+      "url": "",
+      "area": "Industrial Organizational Psychology",
+      "studyType": "Master of Arts",
+      "startDate": "",
+      "endDate": "2008",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Belmont University",
+      "url": "",
+      "area": "Psychology",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "2006",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Project management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Customer satisfaction",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Mentoring",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [
+    {
+      "name": "Leadership development - continuing education",
+      "keywords": []
+    },
+    {
+      "name": "Coordinating volunteer efforts within work teams",
+      "keywords": []
+    },
+    {
+      "name": "Mentoring",
+      "keywords": []
+    }
+  ],
+  "references": [],
+  "projects": []
+}

@@ -1,0 +1,131 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Administrator of Information Technology",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Advanced Desktop Support Lead/Manager with 14 plus years of experience in the Information Technology field providing Tier II - III technical support. Demonstrated highly advanced troubleshooting techniques in resolving end-user issues with swift efficiency and going above and beyond SLA. 15 plus years of experience working with United Senate end-users across multiple technological platforms.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "US",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Administrator of Information Technology",
+      "url": "",
+      "startDate": "2007-01-17",
+      "endDate": "Present",
+      "summary": "Research, implement...keeping information confidential.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "United States Senate Network Support Engineer",
+      "url": "",
+      "startDate": "2004-08-17",
+      "endDate": "2006-12-31",
+      "summary": "Integrated... solutions on technical issues as needed.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "United States Senate Software Specialist",
+      "url": "",
+      "startDate": "2000-08-15",
+      "endDate": "2004-07-31",
+      "summary": "Provides client... solutions on technical issues as needed.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "AMERICAN MILITARY UNIVERSITY",
+      "url": "",
+      "area": "National Security Studies Cyber Security",
+      "studyType": "Master of Arts",
+      "startDate": "2014-01-01",
+      "endDate": "2014-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "AIR FORCE AIR COMMAND AND STAFF COLLEGE",
+      "url": "",
+      "area": "Aerospace, Cyberspace and Joint Professional Education",
+      "studyType": "Graduate Certificate",
+      "startDate": "2013-01-01",
+      "endDate": "2013-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "MARYMOUNT UNIVERSITY",
+      "url": "",
+      "area": "Science Computer Information Systems Management",
+      "studyType": "Master",
+      "startDate": "2007-01-01",
+      "endDate": "2007-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "MARYMOUNT UNIVERSITY",
+      "url": "",
+      "area": "Computer Information Systems",
+      "studyType": "Bachelor of Science",
+      "startDate": "1995-01-01",
+      "endDate": "1999-12-31",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Certified Cyber Intelligence Professional (CCIP)",
+      "date": "2016-01-01",
+      "issuer": "MCAFEE CYBER INSTITUTE",
+      "url": ""
+    },
+    {
+      "name": "CompTIA A+, Network+ Security+",
+      "date": "2016-01-01",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "publications": [
+    {
+      "name": "Congressional Scholar Certificate: Security Policy",
+      "publisher": "",
+      "releaseDate": "",
+      "url": "",
+      "summary": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Technical",
+      "level": "",
+      "keywords": ["Arabic", "Back-up", "budgets", "hardware", "client", "Database", "database management", "designing", "disaster recovery", "documentation", "financial", "help desk", "HP", "local area network", "LAN", "Leadership", "Access", "2000", "network", "networks", "NT servers", "PC's", "policies", "printer", "processes", "Research", "sql", "MS SQL", "desktop support", "trouble shooting", "troubleshooting", "Upgrades", "WAN", "workflow"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Arabic",
+      "fluency": "fluent"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

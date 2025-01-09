@@ -1,0 +1,141 @@
+{
+  "basics": {
+    "name": "Account Service Representative II/Tech",
+    "label": "Account Manager",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Professional Account Manager trained in building strategic network ties and increasing sales revenues. Cultivates and maintains strong customer relationships.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Account Service Representative II/Tech",
+      "url": "",
+      "startDate": "2012-01-01",
+      "endDate": "2014-05-01",
+      "summary": "Funneled customer service skills and a strategic vision of personalized wireless to generate sales goals and satisfy customer standards. Underwent promotion to level II position based on performance and experience.",
+      "highlights": [
+        "Named Employee of the Month in 02/2014 at C Spire",
+        "Winner of the C Spire Employee of the Quarter Award, 1st Quarter 2014",
+        "Maintained 100% Survey Rating entire tenure at Foshee Residential",
+        "Top 5 in New Accounts at Foshee Residential (2012)",
+        "Achieved 1st Place Southeast Regionals American Kickboxing Academy Tournament (3x) for ShogunMMA"
+      ]
+    },
+    {
+      "name": "Henderson-Thomas",
+      "position": "Project Design & Development Lead",
+      "url": "",
+      "startDate": "2014-05-01",
+      "endDate": "",
+      "summary": "Led the design and development of user experiences, graphics, animations, and interactions for Web sites, portals, and applications. Contributed to building the Company brand across multiple platforms. Performed research to communicate trends and best-practices related to visual design and branding.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Supervisor",
+      "url": "",
+      "startDate": "2010-01-01",
+      "endDate": "2012-12-31",
+      "summary": "Supervised staff and assisted them in performing at or above expectations. Provided customer relations for superior satisfaction. Monitored property vendors and dealt with tenant issues in a timely manner. Accountable for market surveys and maintained lease occupancies and rents at highest desired level.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Martial Arts Instructor/Client",
+      "url": "",
+      "startDate": "2008-01-01",
+      "endDate": "2012-05-30",
+      "summary": "Instructed students in various martial arts techniques. Provided reports to clients and gave assistance to the management team. Collaborated with clients to identify and implement value added services. Grew customer base from 13 to 34 accounts in 2 years.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Auburn University",
+      "url": "",
+      "area": "Business (Entrepreneurship)",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "2014",
+      "score": "3.87",
+      "courses": [
+        "Coursework in Business Administration and Management",
+        "Coursework in Marketing and Communications",
+        "Coursework in Public Relations"
+      ]
+    },
+    {
+      "institution": "Alabama School of Math & Science",
+      "url": "",
+      "area": "Math & Science",
+      "studyType": "High School Diploma",
+      "startDate": "",
+      "endDate": "2009",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Skill",
+      "level": "",
+      "keywords": [
+        "Advertising",
+        "Basic",
+        "Branding",
+        "Business Administration",
+        "Cable",
+        "Consultant",
+        "Customer Relations",
+        "Client Liaison",
+        "Direction",
+        "Financial Statements",
+        "Image",
+        "Employee Management",
+        "Managing",
+        "Marketing",
+        "Market",
+        "Meetings",
+        "Office",
+        "Monitors",
+        "Next",
+        "Page Layout",
+        "Personnel",
+        "Processes",
+        "Project Design & Development",
+        "Promotion",
+        "Public Relations",
+        "Quality",
+        "Receiving",
+        "Repairs",
+        "Research",
+        "Retail",
+        "Sales",
+        "Strategic",
+        "Supervisor",
+        "Supervisory",
+        "Telephone",
+        "User Interface Design",
+        "Vision",
+        "Web Sites"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

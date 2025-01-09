@@ -1,0 +1,177 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Activity Specialist",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Highly knowledgeable, creative and resourceful Educator with experience in developing students' interest in and appreciating music through teaching theory, history and practical skills.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Activity Specialist",
+      "url": "",
+      "startDate": "2001-06",
+      "endDate": "2013-08",
+      "summary": "Supervision of children and tutor in music and recreational activities. Routinely met with students' parents regarding in-class issues and learning interruptions to discuss solutions.",
+      "highlights": [
+        "Founded the Desi Arnaz Performing Arts Department at I.S 238 and led it for 4 years.",
+        "Worked with over 200 special education students, grades 6-8, for 8 years."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Lead Teacher Chorus",
+      "url": "",
+      "startDate": "2009-01",
+      "endDate": "2011-09",
+      "summary": "Set up and conducted school choir in numerous productions of vocal music.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Activity Specialist /Lead Teacher",
+      "url": "",
+      "startDate": "2009-01",
+      "endDate": "2011-09",
+      "summary": "Created a learning environment for students by stimulating purposeful assignments conducive to their immediate environments.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Sales Associate",
+      "url": "",
+      "startDate": "2004-09",
+      "endDate": "2011-09",
+      "summary": "Retail services in Shoe dept. Participated in daily operational functions of the store.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Classroom Teacher",
+      "url": "",
+      "startDate": "2007-01",
+      "endDate": "2008-06",
+      "summary": "Facilitated classroom training to both English and bilingual students in vocal music, music history, and school productions.",
+      "highlights": []
+    },
+    {
+      "name": "I.S. 109",
+      "position": "Teacher",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Berklee College of Music",
+      "url": "",
+      "area": "Professional Music",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "2006",
+      "score": "",
+      "courses": [
+        "Minor in Music Education"
+      ]
+    },
+    {
+      "institution": "Bayside High School Art and Music",
+      "url": "",
+      "area": "Art and Music",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "2004",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Competent in Smartboard technology",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Word",
+      "level": "",
+      "keywords": ["Photoshop", "Filemaker", "HTML", "MS Office"]
+    },
+    {
+      "name": "Vocal instructor",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Classroom management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "In-depth knowledge of autism",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Retail/Sales",
+      "level": "Associate",
+      "keywords": []
+    },
+    {
+      "name": "Peer Counseling",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Customer Service",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Set and Design",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Supervision",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Dramatic Theater",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "HTML",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [
+    {
+      "name": "Fitness",
+      "keywords": ["Kickboxing", "Marathons"]
+    }
+  ],
+  "references": [],
+  "projects": []
+}

@@ -1,0 +1,136 @@
+{
+  "basics": 
+  {
+    "name": "",
+    "label": "Finance Office Associate",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Detail-oriented, diligent and accuracy-driven individual with a B.sc in accounting and Ms./MBA degree in finance. In the past years, gained vast experience/skills in office operations with top-notch handling of office communications, logistics and records. In the banking and accounting industry, focused on balancing customer needs and relations while ensuring bank security regulatory requirements and protection protocols.",
+    "location": 
+    {
+      "address": "City, State",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "",
+      "region": "State"
+    },
+    "profiles": ""
+  },
+  "work": 
+  [
+    {
+      "name": "Company Name",
+      "position": "Finance Office Associate",
+      "url": "",
+      "startDate": "04/2021",
+      "endDate": "Current",
+      "summary": "Managed office operations including office communications, logistics, records, customer relations, banking regulatory requirements and protection protocols.",
+      "highlights": 
+      [
+        "Managed over 30 vendors and reconciled invoices",
+        "Restocked supplies and placed purchase orders",
+        "Developed and maintained spreadsheets in Excel",
+        "Processed invoices and expenses using Oracle EBS",
+        "Completed clerical tasks such as filing, copying and distributing mail",
+        "Arranged rapid office equipment repair and maintenance with vendors"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "DEAN'S ASSIOCIATE",
+      "url": "",
+      "startDate": "08/2019",
+      "endDate": "12/2020",
+      "summary": "Performed clerical duties, maintain files, and organize documents, photocopy.",
+      "highlights": 
+      [
+        "Provided accurate information in person or by telephone to students, staff, and public applying knowledge of University programs, policies, and procedures.",
+        "Decreased office expenditure by 20% by implementing needed controls on stock/supplies and standardizing ordering procedures",
+        "Resolved interpersonal conflicts by listening, finding common ground and building relationships."
+      ]
+    }
+  ],
+  "volunteer": "",
+  "education": 
+  [
+    {
+      "institution": "Webster University",
+      "url": "",
+      "area": "Finance",
+      "studyType": "Master of Science",
+      "startDate": "",
+      "endDate": "12/2020",
+      "score": "",
+      "courses": [ ]
+    },
+    {
+      "institution": "Webster University",
+      "url": "",
+      "area": "Business",
+      "studyType": "MBA",
+      "startDate": "",
+      "endDate": "12/2020",
+      "score": "",
+      "courses": [ ]
+    },
+    {
+      "institution": "Afe Babalola University",
+      "url": "",
+      "area": "Accounting And Finance",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "07/2016",
+      "score": "",
+      "courses": [ ]
+    }
+  ],
+  "awards": [ ],
+  "certificates": 
+  [
+    {
+      "name": "Certificate in Leadership development",
+      "date": "04/2017",
+      "issuer": "African Leadership Development",
+      "url": ""
+    },
+    {
+      "name": "ATSWA",
+      "date": "",
+      "issuer": "Accounting Technician Scheme West Africa",
+      "url": ""
+    },
+    {
+      "name": "ICAN",
+      "date": "2018",
+      "issuer": "Institute of Chartered Accountants of Nigeria",
+      "url": ""
+    }
+  ],
+  "publications": [ ],
+  "skills": 
+  [
+    {
+      "name": "Finance Office Associate Skills",
+      "level": "",
+      "keywords": 
+      [
+        "Communication skills, written & verbal",
+        "Analytical & problem solving",
+        "Office administration (phones, faxing, filing)",
+        "Organizational and follow up skills",
+        "Spreadsheet development & management",
+        "Multi tasking & Time management",
+        "Microsoft Office Suite",
+        "Invoice Processing- Oracle EBS",
+        "Customer service",
+        "Reconciliation"
+      ]
+    }
+  ],
+  "languages": [ ],
+  "interests": [ ],
+  "references": [ ],
+  "projects": [ ]
+}

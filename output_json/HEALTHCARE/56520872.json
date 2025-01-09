@@ -1,0 +1,76 @@
+{
+  "basics": {
+    "name": "not provided",
+    "label": "LICENSED HEALTHCARE COMMUNICATOR",
+    "email": "not provided",
+    "phone": "not provided",
+    "url": "not provided",
+    "summary": "To obtain a stable and growth-oriented position which will allow me to promote the profession of nursing by training and developing current and future nurses.",
+    "location": {
+      "address": "not provided",
+      "postalCode": "not provided",
+      "city": "not provided",
+      "countryCode": "not provided",
+      "region": "not provided"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Licensed Healthcare Communicator / RN - OR / RN Supervisor / Field RN / Billing Supervisor / Staff Nurse/Evening Shift Charge Nurse / RN Case Manager / Staff Nurse",
+      "startDate": "2007-10-01",
+      "endDate": "Current",
+      "summary": "A versatile and skilled healthcare professional with experiences ranging from being a licensed healthcare communicator to a supervisor, providing patient education and support, overseeing care tasks, coordinating case management and authorizing procedures. Additionally performed tasks of maintaining a safe and sterile environment for patient in operating room, documentation and activities related to billing and insurance coverage.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Herzing University",
+      "area": "Nursing, Nurse Educator",
+      "studyType": "Master's Degree",
+      "startDate": "not provided",
+      "endDate": "2018-04-01",
+      "courses": []
+    },
+    {
+      "institution": "Salem International University",
+      "area": "Nursing",
+      "studyType": "Bachelor's Degree",
+      "startDate": "not provided",
+      "endDate": "2014-04-01",
+      "courses": []
+    },
+    {
+      "institution": "Reading Hospital School of Nursing",
+      "area": "Certifications",
+      "studyType": "Nursing Diploma",
+      "startDate": "not provided",
+      "endDate": "2007-07-01",
+      "courses": []
+    }
+  ],
+  "certificates": [
+    {
+      "name": "BLS CNOR",
+      "date": "2016-02-01",
+      "issuer": "not provided",
+      "url": "not provided"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Healthcare",
+      "level": "Master",
+      "keywords": ["acute care", "billing", "case management", "coaching", "discharge planning", "supervising", "telecommunication", "wound care"]
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "languages": [],
+  "awards": [],
+  "volunteer": [],
+  "publications": [],
+  "projects": []
+}

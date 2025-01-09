@@ -1,0 +1,110 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Executive Chef",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Motivated professional with exceptional skills as both chef and manager. Over ten years of experience in the restaurant industry. Exceptional leadership and interpersonal skills. Proven ability to succeed in a high-pressure, challenging environment while maintaining a calm demeanor. Expertise in a variety of different cuisines and cooking techniques.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Executive Chef",
+      "url": "",
+      "startDate": "2014-04-01",
+      "endDate": "2016-08-01",
+      "summary": "Co-ordinated and executed meals for various corporate clients; from parties ranging from 20 to 500 guests. Implemented new cooking techniques and organizational protocols to lower food and labor cost. Managed daily kitchen operations; identified and provided solutions for any problem areas. Developed new menus in accordance with guests dietary needs and restrictions.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Chef/General Manager",
+      "url": "",
+      "startDate": "2012-06-01",
+      "endDate": "2014-04-01",
+      "summary": "Developed food and beverage menu for a new fast-casual restaurant. Created standardized recipes to maintain quality control. Handled all hiring, training, scheduling and payroll. Provided courteous and informative customer service in an open kitchen format.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Chef de Cuisine",
+      "url": "",
+      "startDate": "2009-06-01",
+      "endDate": "2012-06-01",
+      "summary": "Worked with executive chef to develop and execute a daily-changing menu in a fine-dining establishment. Tasted and smelled all prepared dishes, and observed color, texture and garnishes. Initiated and maintained relationships with local farmers and ranchers to bring guests the highest quality ingredients while maintaining appropriate food and labor costs.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Oregon",
+      "url": "",
+      "area": "International Development with a minor in Spanish and Anthropology",
+      "studyType": "Bachelor of Arts",
+      "startDate": "2003-01-01",
+      "endDate": "2003-12-31",
+      "score": "",
+      "courses": []
+    }   
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Commitment to Quality",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Well-tuned Palate",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Communication",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Fluent in Spanish",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Team Building",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Food Science",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Software",
+      "level": "",
+      "keywords": ["Shopkeep", "Excel", "Caterease"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

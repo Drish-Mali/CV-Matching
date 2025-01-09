@@ -1,0 +1,141 @@
+{
+  "basics": {
+    "name": "",
+    "label": "New Business Development Manager",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "An accomplished leader with a strong background in complex, high-volume and revenue business operations. A proven passion for customer service and operational excellence, demonstrated by extreme dedication and commitment to job duties and responsibilities. Drives positive financial and operational performance through completion utilizing a cross functional team to deliver these objectives to the satisfaction of customers.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "New Business Development Manager",
+      "url": "",
+      "startDate": "2014-02",
+      "endDate": "Current",
+      "summary": "Sell and market promotional products to current and prospective customers. Bring new business accounts to the inside sales team for follow up and to build the foundation of new customer sales.",
+      "highlights": [
+        "Selected accomplishments: Provide consultation services to customers to help plan their marketing strategy.",
+        "Increased store and associate involvement.",
+        "Directly increase sales by $10,000 monthly."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "",
+      "url": "",
+      "startDate": "2010-06",
+      "endDate": "2014-01",
+      "summary": "Marketed and sold promotional products to customers. Liaised with senior management at customer locations to determine their overall business strategy as well as their sales and marketing goals and objectives.",
+      "highlights": ["Selected accomplishments: Placed the correct products at customer locations based on their interview responses."]
+    },
+    {
+      "name": "Company Name",
+      "position": "Inside Sales Manager",
+      "url": "",
+      "startDate": "2006-09",
+      "endDate": "2010-06",
+      "summary": "Driving force in the inside sales department, directing new accounts towards qualified inside salespeople. Effectively trained, on-boarded and mentored sales associates to ensure their continued success.",
+      "highlights": ["Selected accomplishments: Managed 95% of graphic work submitted by the sales department", "Drafted new policies and procedures for the sales department and new account acquisition department."]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Rose State College",
+      "url": "",
+      "area": "Business and Marketing",
+      "studyType": "Associate",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": ["Advertising & Public Relations"]
+    },
+    {
+      "institution": "Wichita State University",
+      "url": "",
+      "area": "Advertising & Public Relations",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "South Chamber Ambassador of the Month",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    },
+    {
+      "title": "Certified Tourism Ambassador for Oklahoma",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    },
+    {
+      "title": "Promoted from Account Manager to New Business Development",
+      "date": "",
+      "awarder": "",
+      "summary": "Promotion after nine months of employment"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "CAS Certification from PPAI",
+      "date": "2015-11",
+      "issuer": "Industry Specific Program in Business, Marketing & Sales",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Business Strategy",
+      "level": "Master",
+      "keywords": [
+        "budget",
+        "consultation",
+        "Customer Relationship Management",
+        "direct mail",
+        "directing",
+        "Driving",
+        "email",
+        "senior management",
+        "Forecasting",
+        "graphic design",
+        "graphic",
+        "image",
+        "inside sales",
+        "inventory",
+        "Marketing Strategy",
+        "marketing",
+        "market",
+        "Marketing & Sales",
+        "mentor",
+        "New Business Development",
+        "Optimization",
+        "policies",
+        "presentations",
+        "Sales",
+        "strategy"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

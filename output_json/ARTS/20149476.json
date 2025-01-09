@@ -1,0 +1,111 @@
+{
+  "basics": {
+    "name": "Not Provided",
+    "label": "Visual Arts Teacher",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Art education professional � driven to inspire students to pursue academic and personal excellence. Strives to create a challenging and engaging learning environment in which students become life-long scholars and learners.",
+    "location": {},
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Visual Arts Teacher",
+      "url": "http://swh.springbranchisd.com/",
+      "startDate": "02/2011",
+      "endDate": "05/2014",
+      "summary": "Challenged and motivated students through in-depth lectures and discussions. Lectured and communicated effectively with students from diverse backgrounds. Inspired students to translate their academic interests into the real world by taking positive actions in the visual arts. Served as faculty sponsor for NAHS� student club. Introduced students to the concepts of college writing. Advanced Art II and III and Digital Design",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Visual Arts Teacher",
+      "url": "http://hhsep.com/",
+      "startDate": "08/2010",
+      "endDate": "02/2011",
+      "summary": "Received high remarks for the creativity of classroom lesson plans and instructional techniques from students, parents and faculty. Developed and implemented interesting and interactive learning mediums to increase student understanding of course materials.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Houston Baptist University",
+      "url": "",
+      "area": "Fine Arts",
+      "studyType": "Master",
+      "startDate": "2016",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Kansas City Art Institute",
+      "url": "",
+      "area": "Graphic Design",
+      "studyType": "Course",
+      "startDate": "2013",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Rice University",
+      "url": "",
+      "area": "Studio Art",
+      "studyType": "Advanced Placement Certificate",
+      "startDate": "2006",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "University of Wisconsin",
+      "url": "",
+      "area": "Art Education",
+      "studyType": "Bachelor of Science",
+      "startDate": "1980",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Art Teaching",
+      "level": "Master",
+      "keywords": [
+        "NAEA member",
+        "TAEA member",
+        "Traditional fine art skills",
+        "Multi-media instruction",
+        "Excellent classroom management",
+        "Lesson plan development",
+        "Detail-oriented"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [
+    {
+      "name": "Personal Interests",
+      "keywords": [
+        "Traveling",
+        "Studying different genres of Art",
+        "Biking",
+        "Hiking",
+        "Scuba",
+        "Reading",
+        "Bible study and visiting art galleries"
+      ]
+    }
+  ],
+  "references": [],
+  "projects": []
+}

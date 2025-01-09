@@ -1,0 +1,102 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Project Coordinator Associate",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "CES Talent Management Associate successful at designing company-wide onboarding, orientation and mentoring programs. Team-oriented Training and Development Coordinator who efficiently develops training processes and procedures for human resources teams.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Project Coordinator Associate",
+      "url": "",
+      "startDate": "2014-06-01",
+      "endDate": "Current",
+      "summary": "Coordinated tracking the Installation Quality Audit reports, streamlined common processes for the 9 box review for Global Off-Highway Customer Engineering Application Engineers. Supported the team's learning and usage of new technology available such as Cummins Connect and Outlook 365.",
+      "highlights": ["IQA audits are complete in less than five days."]
+    },
+    {
+      "name": "Company Name",
+      "position": "Talent Management HR Associate",
+      "url": "",
+      "startDate": "2011-10-01",
+      "endDate": "2014-05-01",
+      "summary": "Facilitated modules during CES site OnBoarding. Coordinated logistics to ensure participants were in a great learning environment.  Process Improved by participating on a team to update the Aftertreatment 101 module.",
+      "highlights": ["80% of US exempt and office employees attended CES Site OnBoarding within their first 90 days of employment with CES"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Assistant Property Manager",
+      "url": "",
+      "startDate": "2009-01-01",
+      "endDate": "2009-12-31",
+      "summary": "Assisted in the management of a 152 unit apartment community.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Substitute Teacher",
+      "url": "",
+      "startDate": "2003-01-01",
+      "endDate": "2009-01-01",
+      "summary": "Basic classroom instruction.",
+      "highlights": ["Used Project Based Learning (PBL) techniques that helped students see the connection between classroom learning and real world application"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Arts and Education Program Manager",
+      "url": "",
+      "startDate": "1999-01-01",
+      "endDate": "2003-01-01",
+      "summary": "Developed, planned and implemented summer and after school programs for over 200 youth ages 5-18.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Classroom Teacher",
+      "url": "",
+      "startDate": "1994-01-01",
+      "endDate": "1999-01-01",
+      "summary": "Instruction.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Indiana University Purdue University",
+      "url": "",
+      "area": "Education",
+      "studyType": "Bachelor of Science",
+      "startDate": "1994-01-01",
+      "endDate": "1994-12-31",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Planning and Organization",
+      "level": "",
+      "keywords": ["New hire on-boarding", "Time management", "Training solutions development", "Highly organized", "streamline", "Arts", "Budget Planning", "Budget", "Conferences", "Content", "Data Analysis", "Document Management", "File Management", "Hiring", "Instruction", "Team Building", "Leadership", "Logistics", "Process Improvement", "Project Management", "Quality", "Recruiting", "Sales", "Scheduling", "Teaching"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

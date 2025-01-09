@@ -1,0 +1,103 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Finance and Sales Consultant",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Finance and Sales with management training experience and exceptional people skills. Versed in strategic leadership roles and responsible for training small groups of new hires. Desires a challenging role as a Finance and Insurance Manager.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Finance and Sales Consultant",
+      "url": "",
+      "startDate": "2015-01-01",
+      "endDate": "2016-01-01",
+      "summary": "Direct contact for customers Looking to Finance their Newly purchased vehicles. Trained and mentored new hires in sales and finance. Act as Assistant Sales Manager when needed. Explained finance decisions to Customers. Assistant Sales Manager.",
+      "highlights": [
+        "Trained and mentored several Sales Consultants with 85% closing rates.",
+        "Maintaining an average of 85% Closing rate.",
+        "Documented Extended Service Plan up sells of 100% for a straight 2 Months and counting."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Sales Associate",
+      "url": "",
+      "startDate": "2013-10-01",
+      "endDate": "2015-01-01",
+      "summary": "Identified each vehicle to tailor to the Customers needs and wants. Worked directly with Management to ensure vehicle is sold. Increased sales by 20% over a two-year period. Maintain an average of 15 cars a month.",
+      "highlights": [
+        "Increased sales by 20% over a two-year period",
+        "Maintained an average of 15 cars a month"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Real Estate Agent",
+      "url": "",
+      "startDate": "2013-09-01",
+      "endDate": "2014-12-01",
+      "summary": "Sellers Agent, Advertising and Marketing Own Real Estate Business, Listed homes on The MLS and holding a 30 day close rate for 2 years in row. Also worked as Buyer's Agent making cold calls and advising clients.",
+      "highlights": [
+        "Holding a 30 day close rate for 2 years in row"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Prince George's Community College",
+      "url": "",
+      "area": "Business Management",
+      "studyType": "Associate of Science",
+      "startDate": "2012",
+      "endDate": "2012",
+      "score": "",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Long and Foster Continuing Education",
+      "url": "",
+      "area": "Real Estate Sales",
+      "studyType": "Real Estate Agent Licensure",
+      "startDate": "2011",
+      "endDate": "2011",
+      "score": "",
+      "courses": [
+      ]
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Sales and Finance",
+      "level": "",
+      "keywords": [
+        "Customer Service",
+        "Sales",
+        "Mentoring",
+        "Closing Rates",
+        "Training",
+        "Finance"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

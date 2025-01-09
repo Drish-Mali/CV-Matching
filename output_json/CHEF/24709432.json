@@ -1,0 +1,131 @@
+{
+  "basics": {
+    "name": "Material Logistics Specialist",
+    "label": "",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Vacancy Identification Number (VIN: 1192501) Claims Assistant (Intake Specialist), GS05/07. Over 10 years of Administration and Logistics Specialist experience. Comprehensive knowledge and hands-on experience in all aspects of supply: shipping/receiving customer service and safety management.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "US",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "American Airlines",
+      "position": "Material Logistics Specialist",
+      "url": "",
+      "startDate": "2000-04-01",
+      "endDate": "Current",
+      "summary": "Responsible for receiving, requisitioning, shipping, warehousing, storing, dispersing and recording parts, equipment and supplies. Specialized in organizing supplies, records, and accountability/inventory forms. Created and presented administrative documents using Microsoft Power point, Excel and Word. Experience in inventory, records keeping, and machinery equipment operations.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Equipment & Supply Supervisor",
+      "url": "",
+      "startDate": "1999-06-01",
+      "endDate": "2000-04-01",
+      "summary": "Responsible for all aspects of airport catering functions, assisting in the selection and professional development of new management and non-management employees.",
+      "highlights": []
+    },
+    {
+      "name": "FEDEX Ground",
+      "position": "Employee",
+      "url": "",
+      "startDate": "1998-03-01",
+      "endDate": "1999-06-01",
+      "summary": "Responsible for the courteous and efficient pick-up and delivery of customer mail and packages. Developed proper use of the hand-held scanning/package tracking devices.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Business Administrator",
+      "url": "",
+      "startDate": "1978-07-01",
+      "endDate": "1998-09-01",
+      "summary": "Coordinated daily administrative activities and directly supervised 10 to 15 clerical personnel. Trained employees on software programs: Word Perfect, Microsoft Word, Excel, Power Point and Sabre System.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "California Coast University",
+      "url": "",
+      "area": "Business Administration",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "2014-03-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "CTU, Santa Ana, CA",
+      "url": "",
+      "area": "Operations Management",
+      "studyType": "Certificate of Achievement",
+      "startDate": "",
+      "endDate": "2014-05-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "CTU, Santa Ana, CA",
+      "url": "",
+      "area": "Business Administration",
+      "studyType": "Certificate of Achievement",
+      "startDate": "",
+      "endDate": "2010-08-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Lake Providence High School",
+      "url": "",
+      "area": "",
+      "studyType": "High School Diploma",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+   {
+      "title": "Veterans Preference Awards (Expeditionary Medal, National Defense Service Medal, Navy Achievement Medals.)",
+      "date": "1998-08-01",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Administration",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Logistics",
+      "level": "",
+      "keywords": ["shipping", "receiving", "customer service", "safety management", "inventory", "machinery", "Excel", "PowerPoint", "Microsoft Word"]
+    },
+    {
+      "name": "Supervision",
+      "level": "",
+      "keywords": ["workflow", "clerical", "counseling"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

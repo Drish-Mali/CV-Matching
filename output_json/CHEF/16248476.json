@@ -1,0 +1,102 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Sous Chef, Lead Cook and Supervisor",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Sous Chef, Lead Cook and Supervisor with 4 years experience in high-pressure culinary environments. Skilled in preparing large volumes of food quickly and efficiently. Seeking to use culinary skills and expertise to prepare a special variety of dishes in a professional, rewarding environment.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "USA",
+      "region": "California"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Chef de Partie",
+      "url": "",
+      "startDate": "2016-01-01",
+      "endDate": "Current",
+      "summary": "Reduced food costs by expertly estimating purchasing needs and buying through approved suppliers. Consistently produced exceptional menu items that regularly garnered diners' praise."
+    },
+    {
+      "name": "Company Name",
+      "position": "Sous Chef",
+      "startDate": "2015-05-01",
+      "endDate": "2016-01-01",
+      "summary": "Provided courteous and informative customer service in an open kitchen format. Expertly estimated staffing needs and adjusted hourly schedules in accordance with demand patterns, budget and local labor laws."
+    },
+    {
+      "name": "Company Name",
+      "position": "Chef de Partie",
+      "startDate": "2014-04-01",
+      "endDate": "2015-05-01",
+      "summary": "Expertly estimated staffing needs and adjusted hourly schedules in accordance with demand patterns, budget and local labor laws."
+    },
+    {
+      "name": "Company Name",
+      "position": "Lead Cook",
+      "startDate": "2013-07-01",
+      "endDate": "2014-04-01",
+      "summary": "Followed proper food handling methods and maintained correct temperature of all food products. Established and maintained open, collaborative relationships with the kitchen team."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Culinary Arts California",
+      "area": "Culinary Arts",
+      "studyType": "GED",
+      "startDate": "2012-01-01",
+      "endDate": "2012-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "",
+      "area": "High School",
+      "studyType": "Diploma",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Culinary",
+      "level": "",
+      "keywords": [
+        "Food Cost",
+        "Sous vide technique",
+        "ServSafe certified",
+        "Strong butchery skills",
+        "Bilingual",
+        "Food handlers card",
+        "Rational Degree",
+        "Focused and disciplined",
+        "Inventory management familiarity",
+        "High volume production capability",
+        "Focus on portion and cost control",
+        "Well-tuned palette",
+        "Cost control",
+        "Customer service"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Bilingual"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Bilingual"
+    }
+  ]
+}

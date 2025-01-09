@@ -1,0 +1,98 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Finance Director",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Marketing Manager accomplished in all aspects of campaign development, including copywriting and editing, list selection, email, social media marketing and production. Excited to grow with a company that is innovative, groundbreaking and revolutionary in the fields of journalism and social media.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "US",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "",
+        "username": "",
+        "url": ""
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Finance Director",
+      "url": "",
+      "startDate": "2012-10",
+      "endDate": "current",
+      "summary": "Liaison between Blacks Interested in Business and the Council. Created fundraising events to sponsor annual conference. Allocated the councils finances to different committees for a productive annual conference. Ensured financial responsibilities were being met on a weekly basis. Advocated for the council for funding from the university, raised $2000.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "",
+      "position": "",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Southern Illinois University",
+      "url": "",
+      "area": "Journalism",
+      "studyType": "Bachelor",
+      "startDate": "2015",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Lincoln College",
+      "url": "",
+      "area": "Creative Writing",
+      "studyType": "Associate of Arts",
+      "startDate": "2012",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Creative Writing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Public Speaking",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Social Media Savvy",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Event Planning",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

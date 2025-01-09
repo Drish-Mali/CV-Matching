@@ -1,0 +1,118 @@
+{
+  "basics": {
+    "name": "Cruz Navarro",
+    "label": "Business Advocate Banker",
+    "summary": "Highly ambitious professional with background in Financial Services Procurement and Management. Expertise in market analysis, forecasting and client needs assessments.",
+    "skills": [
+      {
+        "name": "Account Management",
+        "level": "Master"
+      },
+      {
+        "name": "Business Development",
+        "level": "Master"
+      },
+      {
+        "name": "Business Operations",
+        "level": "Master"
+      },
+      {
+        "name": "CISCO",
+        "level": "Intermediate"
+      },
+      {
+        "name": "International Business",
+        "level": "Master"
+      },
+      {
+        "name": "Logistics",
+        "level": "Master"
+      },
+      {
+        "name": "Oracle",
+        "level": "Master"
+      },
+      {
+        "name": "Purchasing",
+        "level": "Master"
+      },
+      {
+        "name": "Sales",
+        "level": "Master"
+      },
+      {
+        "name": "Spreadsheets",
+        "level": "Master"
+      },
+      {
+        "name": "Tax Law",
+        "level": "Intermediate"
+      },
+      {
+        "name": "Microsoft Office",
+        "level": "Proficient"
+      }
+    ],
+    "work": [
+      {
+        "name": "Company Name",
+        "position": "Business Advocate Banker",
+        "startDate": "2016-07-01",
+        "endDate": "Current",
+        "summary": "Target and identify affluent clients, analyze their needs, provide financial solutions based on their relationship with the bank and refer them to the appropriate business line when required. Consultation of credit products and state regulations for business origination and ownership. Plan, develop and execute out of office visits and venues to small business owners to develop stronger relationships and increase profitability."
+      },
+      {
+        "name": "Company Name",
+        "position": "Personal Banker Safe",
+        "startDate": "2016-07-01",
+        "endDate": "Current",
+        "summary": "Target and identify affluent clients, analyze their needs, provide financial solutions based on their relationship and refer them to the appropriate business department when required. Partner up with Financial advisors, Mortgage consultants and additional team member to develop client acquisition plans. Consultation to business owners of banking and credit solutions throughout Wells Fargo tools and services for business owners."
+      },
+      {
+        "name": "Company Name",
+        "position": "Licensed Service Advisor",
+        "startDate": "2015-12-01",
+        "endDate": "2016-07-01",
+        "summary": "Meet business goals by proactively reaching out to existing and new clients, cross-sell and increase insurance coverage. Review profit metrics, analyze areas of opportunity and develop an action plan for a successful goal achievement. Client outreach for retention, insurance review, renewal and leads for new business and high value account management. Create policy orders based under the Texas Insurance Law for Homeowners, Renters, Flood (FEMA), Auto and Commercial."
+      },
+      {
+        "name": "Company Name",
+        "position": "Office Manager II",
+        "startDate": "2013-02-01",
+        "endDate": "2015-12-01",
+        "summary": "Generate spreadsheets, reports and correspondence to use internally and externally. Perform monthly financial estimations to support financial transactions related to business activities. Match invoices to statements and purchase orders for optimum accuracy. Support calculating taxes of purchasing activities, acquired services and the deductions they might have. Revision of lawful permits and commercial invoices as result of transnational operations."
+      },
+      {
+        "name": "Company Name",
+        "position": "Buyer",
+        "startDate": "2010-07-01",
+        "endDate": "2013-01-01",
+        "summary": "Research of requested product, review supplier's location, price, quality and efficiency for a well rounded decision. Negotiate price, term of payments, product specifications, shipment details, warranty policies and further assistance required. Quote the inquired products and services and present at least three ideal options for business. Place requisition of products into the ERP & MRP."
+      }
+    ],
+    "education": [
+      {
+        "institution": "Houston Community College",
+        "area": "Leadership, account management, business Project Management",
+        "studyType": "Certification (on-going)",
+        "startDate": "2017-01-01",
+        "endDate": "2018-12-31"
+      },
+      {
+        "institution": "Universidad Aut�noma de Nuevo Le�n",
+        "area": "International Business Management",
+        "studyType": "Bachelor",
+        "startDate": "2008-08-01",
+        "endDate": "2012-05-31"
+      }
+    ],
+    "interests": [
+      {
+        "name": "Affiliations",
+        "keywords": [
+          "Chair member of the Wells Fargo Latin Connection Houston Chapter"
+        ]
+      }
+    ]
+  }
+}

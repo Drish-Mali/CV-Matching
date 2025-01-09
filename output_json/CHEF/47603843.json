@@ -1,0 +1,121 @@
+{
+  "basics": {
+    "name": "Unspecified",
+    "label": "Head Chef",
+    "image": "",
+    "email": "Unspecified",
+    "phone": "Unspecified",
+    "url": "Unspecified",
+    "summary": "Currently a student focused on earning a B.A. in Computer Science and becoming an Android app developer. Goal is to develop technical skills to develop and manage investment activities in international markets.",
+    "location": {
+      "address": "Unspecified",
+      "postalCode": "Unspecified",
+      "city": "Unspecified",
+      "countryCode": "Unspecified",
+      "region": "Unspecified"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Unspecified Company",
+      "position": "Sushi Bar Operator",
+      "url": "Unspecified",
+      "startDate": "2013-02-01",
+      "endDate": "2014-02-01",
+      "summary": "Responsible for customer service at the sushi bar, preparing quality authentic entr�es and appetizers, manage and utilize luxury imported products conservatively to minimize shrinkage and maintain overhead.",
+      "highlights": ["Trained new employees","Maintaining safety and efficiency behind sushi bar"]
+    },
+    {
+      "name": "Unspecified Company",
+      "position": "Head Chef",
+      "url": "Unspecified",
+      "startDate": "2008-02-01",
+      "endDate": "2015-03-01",
+      "summary": "Prepare entr�es in timely fashion, maintain efficiency and safety in work environment.",
+      "highlights": ["Supported and trained new employees", "Maintained cleanliness in the kitchen and sushi bar"]
+    },
+    {
+      "name": "Unspecified Company",
+      "position": "Ramp Agent",
+      "url": "Unspecified",
+      "startDate": "2005-01-01",
+      "endDate": "2006-01-01",
+      "summary": "Responsible for guiding aircraft traffic, baggage handling, maintaining security on ramp, removal of hazardous debris, customer support, cabin maintenance, operating Ground Support Equipment such as tugs, forklifts, and belt loaders.",
+      "highlights": ["Delivery of high priority air-freight to cargo in timely fashion"]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Midlands Technical College",
+      "url": "Unspecified",
+      "area": "Finance",
+      "studyType": "Associate of Science",
+      "startDate": "Unspecified",
+      "endDate": "Unspecified",
+      "score": "Unspecified",
+      "courses": []
+    },
+    {
+      "institution": "Miami Dade College",
+      "url": "Unspecified",
+      "area": "Mathematical Economics",
+      "studyType": "Associate of Science",
+      "startDate": "Unspecified",
+      "endDate": "Unspecified",
+      "score": "Unspecified",
+      "courses": []
+    },
+    {
+      "institution": "University of North Georgia",
+      "url": "Unspecified",
+      "area": "Computer Science",
+      "studyType": "Associate of Science",
+      "startDate": "Unspecified",
+      "endDate": "2017",
+      "score": "Unspecified",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Technical",
+      "level": "Unspecified",
+      "keywords": [
+        "Android Studio", "Java", "XML", "Android SDK", "Google APIs", "databases", "Jsoup", "HTML", "CSS", "Firebase", "Material Design", "Javascript", "Bootstrap", "Photoshop", "Paint.net"
+      ]
+    },
+    {
+      "name": "Professional",
+      "level": "Unspecified",
+      "keywords": [
+        "Accounting", "Customer service", "Airfreight delivery", "Retail", "Operating airport vehicles to tug aircraft and luggage", "Maintaining safety in highly secure areas of airport terminal", "Inventory", "Managing", "Preparing quality entrees and beverages"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": [
+    {
+      "name": "Android App Development",
+      "startDate": "Unspecified",
+      "endDate": "Unspecified",
+      "description": "Developing an app for Google Playstore and Amazon app market.",
+      "highlights": [],
+      "url": "Unspecified"
+    },
+    {
+      "name": "Import-Export Business",
+      "startDate": "Unspecified",
+      "endDate": "Unspecified",
+      "description": "Involved in an import-export business trading agricultural goods from Iran to the United States.",
+      "highlights": [],
+      "url": "Unspecified"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "basics": {
+    "name": "Not Provided",
+    "label": "Accountant",
+    "email": "Not Provided",
+    "phone": "Not Provided",
+    "summary": "Financial Accountant specializing in financial planning, reporting and analysis in both private and public sectors.Capable Accountant successful at managing multiple projects and consistently meeting deadlines under pressure. Extensive knowledge of accounting software and processes. Detail-oriented bookkeeping professional with 3+ years experience applying financial and managerial accounting practices.",
+    "location": {
+      "city": "Selangor",
+      "countryCode": "Malaysia"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Accountant",
+      "startDate": "2012-07-01",
+      "endDate": "2015-08-01",
+      "summary": "Accountant in the Financial Services industry handling daily operations, development and improvement of accounting processes - budget preparation, balance sheet, accounts receivables and payable transactions, payments and credit control. Preparation of all financial and management reporting and budgeting. Ensure an accurate and timely monthly, quarterly and year end close. Monitoring of financial and treasury functions including funds management, cash flow planning and projection.",
+      "highlights": [
+        "Formally recognized for excellence achieved in financial analysis, budgeting and forecasting. "
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Assistant Finance Manager",
+      "startDate": "2005-05-01",
+      "endDate": "2012-06-30",
+      "summary": "Assistant Finance Manager in the Manufacturing & General Trading industry. Responsibilities include managing subsidiaries month end closing process and consolidation, preparation, reviewing and timely submission of monthly, quarterly and annual Financial Reporting for subsidiary company.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Accounts Executive Junior Executive",
+      "startDate": "2000-01-01",
+      "endDate": "2005-04-30",
+      "summary": "Junior Executive in the General Trading Industry responsible for managing accounts (GL, AR, AP), financial statement, monthly sales analysis, management report, daily and monthly cash flow and payroll for management staff.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Oklahoma State University",
+      "area": "Finance",
+      "studyType": "Bachelor of Science",
+      "startDate": "1993-01-01",
+      "endDate": "1997-01-01",
+      "score": "2.49/4",
+      "courses": []
+    },
+    {
+      "institution": "Mara Institute of Technology (UITM)",
+      "area": "Banking",
+      "studyType": "Diploma",
+      "startDate": "1992-01-01",
+      "endDate": "1995-01-01",
+      "score": "3.35/4",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Accounting",
+      "level": "Advanced",
+      "keywords": [
+        "Financial statement analysis",
+        "Budget forecasting expertise",
+        "Advanced Microsoft Office - Excel, Word, Power Point",
+        "Account reconciliation expert",
+        "Accounting software - SAP Fico, SAP BPC, Hyperion, AS 400, Acc Pac, iScala",
+        "Experienced with VBA programming",
+        "AR / Credit System - CTOS, Polymath, SAP Copa",
+        "Adobe software proficiency",
+        "Languages - Bahasa Malaysia & English",
+        "General ledger accounting",
+        "Flexible team player",
+        "Advanced computer proficiency (PC and Mac)"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Bahasa Malaysia & English",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

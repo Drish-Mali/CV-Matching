@@ -1,0 +1,109 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Air Freight Agent",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Air Freight Agent emphasizing quality customer service and air-cargo services. Hardworking and willing to work a flexible schedule, including weekends and holidays.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": [
+    ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Air Freight Agent",
+      "url": "",
+      "startDate": "2014-08-01",
+      "endDate": "2016-03-01",
+      "summary": "Handling, inspecting and preparing all Dangerous Goods documents, Human remains and live animals shipments. Assisting customers and arranging for pickup of freight and delivery to loading platform; notifying consignees on arrival of shipments and arranging for delivery to consignees. Preparing manifest to accompany shipments and notifying shippers of delays in departure of shipment.",
+      "highlights": [
+        "Increased airline revenue from� all known� shipper for all outbound and inbound freights and Indirect Air Courier customers."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Cargo Agent",
+      "url": "",
+      "startDate": "2005-04-01",
+      "endDate": "2010-07-01",
+      "summary": "Same as above",
+      "highlights": []
+    },
+    {
+        "name": "Company Name",
+        "position": "Cargo Agent",
+        "url": "",
+        "startDate": "2003-08-01",
+        "endDate": "2005-04-01",
+        "summary": "Same as above",
+        "highlights": []
+    }
+  ],
+  "volunteer": [
+  ],
+  "education": [
+    {
+      "institution": "College of Micronesia",
+      "url": "",
+      "area": "Liberal Arts & Business",
+      "studyType": "AS",
+      "startDate": "",
+      "endDate": "1987-01-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [ ],
+  "certificates": [ ],
+  "publications": [ ],
+  "skills": [
+    {
+      "name": "Customer service",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Delivery",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Documentation",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Inspecting",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Coding",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Scanner",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Shipping",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [ ],
+  "interests": [ ],
+  "references": [ ],
+  "projects": [ ]
+}

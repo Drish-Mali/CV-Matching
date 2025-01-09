@@ -1,0 +1,124 @@
+{
+  "basics": {
+    "name": "Anonymous",
+    "label": "Banking Center Manager, Assistant Vice President",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Hands-on, dependable, dedicated team coach, who is goal directed as well as quality and detail conscious. Extensive passion toward developing employees to their fullest potential. Maintains a high degree of energetic leadership, problem-solving, planning and team building skills that lead to successful sales teams.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Comerica Bank",
+      "position": "Banking Center Manager, Assistant Vice President",
+      "url": "",
+      "startDate": "2012-01-01",
+      "endDate": "current",
+      "summary": "Promote the importance of higher education and assist employees with steps to achieve such goals. Nominated as a Banking Center Manager Mentor for new and existing colleague onboarding process. Directly manage the human resource processes for employees, including selection, training, performance management, individual career development and retention.",
+      "highlights": [
+        "Established track record of exceptional sales results.",
+        "Compelling leadership skills.",
+        "Advocate of continuous education.",
+        "Resolution oriented.",
+        "Excellent communication skills.",
+        "Enthusiastic and Effective Leadership style."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Banking Center Assistant Manager",
+      "url": "",
+      "startDate": "2005-04-01",
+      "endDate": "2011-01-01",
+      "summary": "Select, develop and retain a diverse team of high performing individuals. Lead by example and educate staff in the areas of: extraordinary customer experience, service excellence, and thorough knowledge of products and services.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Michigan Regional Account Manager",
+      "url": "",
+      "startDate": "2002-01-01",
+      "endDate": "2005-01-01",
+      "summary": "Develop presentations to target top-producing agents and secure commitment and follow up with commitments and monitor percentage attainment of stated goals.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Various Organizations",
+      "position": "Volunteer",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Brooklyn Irish Hills Chamber Member, Grass Lake Regional Chamber- Member, Grass Lake Regional Golf Outing Committee, Grass Lake Regional-Board of Directors Member, Head of Manchester Area Chamber of Commerce Activity Committee, Manchester Chicken Broil Event Volunteer, Manchester Area Chamber Golf Outing- Committee Member, Manchester Area Youth Soccer Association-Volunteer Coach, Co-Chair for March of Dimes- Comerica Bank Team",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Michigan State University",
+      "url": "",
+      "area": "",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "2002-01-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Jackson College & Central Michigan University Graduate Program",
+      "url": "",
+      "area": "",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "2012-01-01",
+      "score": "",
+      "courses": ["Principles of Accounting", "Communication and Social/Organizational Change", "Introduction to Probability and Statistics", "Human Resource Management", "Organizational Dynamics and Human Behavior"]
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Banking",
+      "level": "",
+      "keywords": [
+            "Accounting",
+            "Assistant Manager",
+            "Banking",
+            "Team building",
+            "Leadership",
+            "Business development",
+            "Customer service",
+            "Direct sales",
+            "Human Resource",
+            "Instructing",
+            "Marketing",
+            "Law",
+            "Negotiations",
+            "Networking",
+            "Performance management",
+            "Presentations",
+            "Producing",
+            "Real estate",
+            "Sales management",
+            "Statistics",
+            "Trainer"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

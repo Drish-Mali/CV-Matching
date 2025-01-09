@@ -1,0 +1,141 @@
+{
+  "basics": {
+    "name": "Not Specified",
+    "label": "Substitute Para Professional",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Professional with management experience and exceptional people skills. Versed in Relationship � Management and Human Resource Management. Desires a challenging role as an Administrator in a busy and productive environment.",
+    "location": {
+      "address": "Not Specified",
+      "postalCode": "Not Specified",
+      "city": "Not Specified",
+      "countryCode": "Not Specified",
+      "region": "Not Specified"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Current Company Name",
+      "position": "Substitute Para Professional",
+      "url": "Not Specified",
+      "startDate": "Not Specified",
+      "endDate": "Not Specified",
+      "summary": "Assist classroom teachers Pre-School - Grade 8. Guide students in reading...",
+      "highlights": ["Not Specified"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Founder / Creative Director",
+      "url": "Not Specified",
+      "startDate": "2005-03-01",
+      "endDate": "Not Specified",
+      "summary": "On site event photography and private photo sessions...",
+      "highlights": ["Not Specified"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Project Manager",
+      "url": "Not Specified",
+      "startDate": "2010-05-01",
+      "endDate": "2014-02-01",
+      "summary": "Create project plans for new clients. Coordinate the journey...",
+      "highlights": ["Not Specified"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Private Family Care",
+      "url": "Not Specified",
+      "startDate": "2009-09-01",
+      "endDate": "Not Specified",
+      "summary": "Ongoing Periodic Services",
+      "highlights": ["Not Specified"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Manufacturer's Representative",
+      "url": "Not Specified",
+      "startDate": "2006-02-01",
+      "endDate": "2011-10-01",
+      "summary": "Create and support a nationwide network of clientele. Represent...",
+      "highlights": ["Not Specified"]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Bryant University",
+      "url": "Not Specified",
+      "area": "Human Resources Management",
+      "studyType": "Certificate",
+      "startDate": "Not Specified",
+      "endDate": "2015-02-01",
+      "score": "Not Specified",
+      "courses": ["Not Specified"]
+    }
+  ],
+  "awards": [
+    {
+     "title": "Employee of the Year at PLP Composite Technologies Inc",
+     "date": "Not Specified",
+     "awarder": "Not Specified",
+     "summary":"Performance above and beyond in executing dedication, problem resolution, communication and relationship management during a business crisis."
+    },
+    {
+     "title": "Third highest sales for a single show on Pampered Chef",
+     "date": "Not Specified",
+     "awarder": "Not Specified",
+     "summary":"Recognized in monthly Pampered Chef publication as consultant nationally achieving third highest sales for a single show."
+    }
+  ],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Operations management",
+      "level": "Not Specified",
+      "keywords": ["Not Specified"]
+    },
+    {
+      "name": "Human Resource Management",
+      "level": "Not Specified",
+      "keywords": ["Not Specified"]
+    },
+    {
+      "name": "Relationship Management",
+      "level": "Not Specified",
+      "keywords": ["Not Specified"]
+    },
+    {
+      "name": "File/records maintenance",
+      "level": "Not Specified",
+      "keywords": ["Not Specified"]
+    },
+    {
+      "name": "Training and Development",
+      "level": "Not Specified",
+      "keywords": ["Not Specified"]
+    },
+    {
+      "name": "Event planning and scheduling",
+      "level": "Not Specified",
+      "keywords": ["Not Specified"]
+    },
+    {
+      "name": "Project management",
+      "level": "Not Specified",
+      "keywords": ["Not Specified"]
+    },
+    {
+      "name": "Microsoft Office",
+      "level": "Not Specified",
+      "keywords": ["Not Specified"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

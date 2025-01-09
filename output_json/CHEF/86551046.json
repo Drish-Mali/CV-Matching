@@ -1,0 +1,46 @@
+{
+  "basics": {
+    "name": "Anonymous",
+    "label": "Senior Sous Chef",
+    "summary": "Chef with nine years of culinary experience and eleven total years of hotel experience. Skilled in leading and motivating a team and consistently meeting my GSS quality of food goals.",
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Multiple Companies",
+      "position": "Senior Sous Chef/Sous Chef/Assistant Sous Chef/Kitchen Supervisor/Banquet Cook 2(Lead Cook)",
+      "startDate": "2014-02-01",
+      "endDate": "Current",
+      "summary": "Oversee three different outlets. Improved Restaurant Quality of Food by 6 points in 2 years. Developed menus for breakfast, lunch and dinner. Achieved 87 for Associate Engagement Survey during my leadership.",
+      "highlights": [
+        "2014 silver medal winner in New Orleans Wine and Food Experience",
+        "Raised the AES from a 50(previous leadership) to an 82 at the New Orleans Marriott",
+        "Manager of the Quarter Nominee Fourth Quarter 2014",
+        "Cooked for Marriott Board of Governors",
+        "Improved the food quality of food score 6 points at the JW Marriott",
+        "Pilot Hotel for Chef's Market/ Fresh Bites"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "SWIC",
+      "area": "General",
+      "studyType": "GED",
+      "startDate": "2005-01-01",
+      "endDate": "2005-12-31"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Culinary",
+      "level": "Senior",
+      "keywords": [
+        "Highly Focused and Driven",
+        "High Volume Production Capability",
+        "High Profile Events",
+        "Reliable"
+      ]
+    }
+  ]
+}

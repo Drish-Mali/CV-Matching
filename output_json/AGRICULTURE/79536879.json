@@ -1,0 +1,105 @@
+{
+"basics": {
+"name": "No Name",
+"label": "Volunteer Front Desk Receptionist, Canteen worker",
+"email": "",
+"phone": "",
+"summary": "I am a highly enthusiastic,self motivated, skilled and hardworking customer service oriented professional, seeking a position as a costumer service representative in your company in order to contribute my organization, problem solving and strong communication skills to ensure customer satisfaction.",
+"location": {
+"address": "",
+"postalCode": "",
+"city": "",
+"countryCode": "",
+"region": ""
+}
+},
+"work": [
+{
+"name": "Company Name",
+"position": "Volunteer Front Desk Receptionist,Canteen worker",
+"startDate": "Mar 2014",
+"endDate": "Nov 2014",
+"summary": "Greet visitors and register all blood donors upon entry of building. Answer calls and inquiry of blood drive and provide directions information blood donating areas Check ID of all non donor visitors, monitor security footage. Assisted in Canteen work by greeting donors after donating blood,engage them in conversation,monitor for dizziness,fainting,and weakness after donating blood.",
+"highlights": [
+]
+},
+{
+"name": "Company Name",
+"position": "Musician and Choir Director",
+"startDate": "Apr 2013",
+"endDate": "Sep 2014",
+"summary": "Direct the choir in the manner of compliments and support the worship agenda for the congregation. Select appropriate music for Sunday Morning and special religious service that may be called by the Pastor. Schedule weekly rehearsal for choir in preparation for church performance. Attend monthly meetings with board members to maximize church and choir membership",
+"highlights": [
+]
+},
+{
+"name": "Company Name",
+"position": "Volunteer Security and Museum Greeter",
+"startDate": "Jan 2010",
+"endDate": "Jul 2012",
+"summary": "Provide a visual security presence in the galleries of artifact collections and the special exhibit. Make hourly rounds to ensure the safety and preservation of the art and artifacts. Monitor entrance of visiting patrons while recording hourly activities in a daily log sheet Ensure secure conditions are maintained so as to prevent theft/or damage to art objects",
+"highlights": [
+]
+}
+],
+"volunteer": [
+],
+"education": [
+{
+"institution": "Louisiana State University",
+"area": "History International Studies",
+"studyType": "Bachelor's Degree",
+"startDate": "2008",
+"endDate": "2012",
+"score": "3.0",
+"courses": [
+]
+},
+{
+"institution": "Baltimore City Community College",
+"area": "General Studies",
+"studyType": "Associate Degree",
+"startDate": "2004",
+"endDate": "2008",
+"score": "3.2",
+"courses": [
+]
+}
+],
+"awards": [
+],
+"certificates": [
+],
+"publications": [
+],
+"skills": [
+{
+"name": "Customer Service",
+"level": "Expert",
+"keywords": [
+]
+}
+],
+"languages": [
+{
+"language": "English",
+"fluency": "Native speaker"
+},
+{
+"language": "French",
+"fluency": "Intermediate"
+}
+],
+"interests": [
+{
+"name": "Art and Music",
+"keywords": [
+"Piano", "Illustration", "Interior designing"
+]
+}
+],
+"references": [
+],
+"projects": [
+]
+}

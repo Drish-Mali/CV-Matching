@@ -1,0 +1,117 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Business Development Manager",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "With 11 years of diverse managerial and marketing experience penetrating in domestic and international markets including Manufacturing, Engineering, Food and IT, I have honed my communication and marketing research abilities to gauge demand for products and explore new clients. Having managed several big projects, I have learnt to maintain equanimity under pressure and achieve goals both as a cross functional team member and individual contributor.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Business Development Manager",
+      "url": "",
+      "startDate": "February 2015",
+      "endDate": "May 2017",
+      "summary": "Managed big projects, developed new clients, saved $20 million for Reliance Industries in burner designs and oversaw all aspects of new plant development at Rajkot.",
+      "highlights": [
+        "Closed $200 million deal with Reliance Industries",
+        "Managed team of 18",
+        "Negotiated and saved 15% on purchase cost of new welding machineries",
+        "Recognized as best employee of the month for sales performance in 2015",
+        "Developed active approach in solving client and sales issues",
+        "Grew and expanded market for highly technical and heavy equipment's in Indian market",
+        "Headed new sales development team in various industries",
+        "Established 5 new SKU's",
+        "Performed market research SWOT analysis for Amul Products"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Product Development Manager",
+      "url": "",
+      "startDate": "July 2009",
+      "endDate": "November 2015",
+      "summary": "Oversaw product life cycle from design to sales of 2.5HP Engine in Asian and Gulf markets, improved engine efficiency and reduced rejections.",
+      "highlights": [
+        "Introduced 12 new clients",
+        "Improved engine fuel efficiency by 15%",
+        "Reduced engine rejections by 20%",
+        "Fixed product issues"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Pune India",
+      "url": "",
+      "area": "Marketing",
+      "studyType": "MBA",
+      "startDate": "",
+      "endDate": "May 2009",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "University of Gujarat India",
+      "url": "",
+      "area": "",
+      "studyType": "BBA",
+      "startDate": "",
+      "endDate": "May 2007",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Marketing",
+      "level": "Master",
+      "keywords": [
+        "Versatile sales techniques", "Team Building", "Time management", "PowerPoint", "Word", "Excel", "online survey tools", "MS Access", "Oracle", "Windows OS", "Linux", "SAP", "MS Office", "Project Management", "Adobe Photoshop", "Corel Draw"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Training - SAP Production and Planning (PP)",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "Training - SAP Materials Management (MM)",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "Certificate - Introduction to Python Programming",
+      "date": "",
+      "issuer": "Udemy",
+      "url": ""
+    },
+    {
+      "name": "Certificate - Introduction to Python for Data Science",
+      "date": "",
+      "issuer": "Udemy",
+      "url": ""
+    }
+  ],
+  "publications": []
+}

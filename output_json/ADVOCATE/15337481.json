@@ -1,0 +1,54 @@
+{
+  "basics": {
+    "name": "Customer Service Advocate",
+    "label": "Customer Service Specialist",
+    "email": "",
+    "phone": "",
+    "summary": "Enthusiastic and hard-working Customer Service Specialist looking to obtain a position in an environment where my skills are valued and can benefit the organization. Dedicated, focused and excels at prioritizing, completing multiple tasks simultaneously and following through to achieve project goals. Seeking a challenging role of increased responsibility and authority.",
+    "location": {
+      "city": "City",
+      "region": "State",
+      "countryCode": "USA"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Customer Service Advocate",
+      "startDate": "2014-09-01",
+      "endDate": "2015-03-01",
+      "summary": "Provided customer service and support. Handled member calls as it relates to their prescriptions. Collected customer feedback and made process changes to exceed customer satisfaction goals. Placing refill orders and tracking order status. Delivered the highest level of quality customer service."
+    },
+    {
+      "name": "Company Name",
+      "position": "Collection Specialist II",
+      "startDate": "2015-05-01",
+      "endDate": "2015-10-01",
+      "summary": "Completed collection calls and/or correspondence in a fast-paced goal oriented collection department."
+    }
+  ],
+  "education": [
+    {
+      "institution": "El Centro Community College",
+      "area": "Health Administration",
+      "studyType": "Associate of Science",
+      "startDate": "",
+      "endDate": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Organizational skills",
+      "level": "Strong"
+    },
+    {
+      "name": "Meticulous attention to detail",
+      "level": "High"
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

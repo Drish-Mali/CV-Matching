@@ -1,0 +1,134 @@
+{
+  "basics": {
+    "name": "Unknown",
+    "label": "Director, Business Development",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Professional Business Development Director firmed to meet sales objectives on regular basis by using strong leadership, interpersonal communication, presentational and organizational skills",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "",
+      "region": "State"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "",
+        "url": ""
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Director, Business Development",
+      "url": "",
+      "startDate": "January 2013",
+      "endDate": "Current",
+      "summary": "Develop and execute a targeted business development plan to build a long-term pipeline. Develop and deliver polished proposals and pricing estimates on short notice to potential clients in the public and private healthcare sectors. Work collaboratively with the Executive Sales team to develop marketing campaigns, and new territories...",
+      "highlights": [
+        "Increased monthly prospect by [Number]% by implementing strategies to develop and expand existing customer base."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Call Center Manager",
+      "url": "",
+      "startDate": "January 2011",
+      "endDate": "January 2013",
+      "summary": "Accept and handle supervisory requests and calls from staff and customers. Ensure that the call center representatives follows call procedures at all times and enforce all department and company policies...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Director",
+      "url": "",
+      "startDate": "January 2009",
+      "endDate": "January 2011",
+      "summary": "Generate new business via email campaign, cold calling, social networking, and other online resources and utilize market knowledge and industry contacts to grow Global Orientations business...",
+      "highlights": [
+        "Recruited and managed a network of 60 realtors."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Business Development Manager, Team Leader",
+      "url": "",
+      "startDate": "January 2007",
+      "endDate": "January 2009",
+      "summary": "Conduct heavy outbound B2B calling to Enterprise and Strategic Enterprise organizations for direct lead generation and setting up WebEx presentations to high level executives...",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Potomac College",
+      "url": "",
+      "area": "Sales Management",
+      "studyType": "Bachelors",
+      "startDate": "",
+      "endDate": "2013",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "University of Potomac College",
+      "url": "",
+      "area": "Business Management",
+      "studyType": "Bachelors",
+      "startDate": "",
+      "endDate": "2011",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Belford High School",
+      "url": "",
+      "area": "Business Management",
+      "studyType": "Associates",
+      "startDate": "",
+      "endDate": "2002",
+      "score": "3.3",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Business Development",
+      "level": "Expert",
+      "keywords": [
+        "B2B",
+        "CRM",
+        "contracts",
+        "database",
+        "email",
+        "senior management",
+        "hiring",
+        "human resource",
+        "inside sales",
+        "marketing",
+        "network",
+        "networking",
+        "outside sales",
+        "presentations",
+        "pricing",
+        "proposals",
+        "Research",
+        "Sales",
+        "scheduling"
+      ]
+    }
+  ],
+  "references": [],
+  "projects": [],
+  "volunteer": [],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "languages": [],
+  "interests": []
+}

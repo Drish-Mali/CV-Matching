@@ -1,0 +1,101 @@
+{
+  "basics": {
+    "name": "Anonymous",
+    "label": "Program Manager",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "A capable program manager with advanced skills in Microsoft Office and CPR/Combat Lifesaver. Fluent in database, logistic, material and inventory management with robust multi-tasking capabilities.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Program Manager",
+      "url": "",
+      "startDate": "1999-06",
+      "endDate": "Current",
+      "summary": "Maintain accountability on aviation, health and safety budget for different divisions. Sustain constant program schedules and status to provide accurate information to State Aviation Officer and Chief of Staff. Established rules, regulations and controls to ensure complete accuracy in program execution. Compiled various data for reports and presentations and utilized various programs for procedural research.",
+      "highlights": [
+        "Executed between 99.9-100% every fiscal year with over $3.5M, 3 Airframes and 17 aircraft"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Quality Assurance/Technical Inspector",
+      "url": "",
+      "startDate": "1998-05",
+      "endDate": "Current",
+      "summary": "Maintains all files and records for a variety of aircraft. Coordinates with multiple personnel and manages maintenance, installation and repairs of secret level equipment. Ensures that all systems and equipment are reliable and parts are available if needed.",
+      "highlights": [
+        "Excelled in an E-7 position as an E-4 for an 18 month deployment to Iraq, Received numerous medals"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Malcolm High School",
+      "url": "",
+      "area": "",
+      "studyType": "High School",
+      "startDate": "",
+      "endDate": "1997-05",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Embry-Riddle Aeronautical University",
+      "url": "",
+      "area": "Aeronautical Engineering",
+      "studyType": "Bachelor's and MBA",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Office Skills",
+      "level": "Advanced",
+      "keywords": [
+        "Microsoft Office (Word, Access, Excel, Outlook, Powerpoint)"
+      ]
+    },
+    {
+      "name": "Other Skills",
+      "level": "Intermediate",
+      "keywords": [
+        "GFEBS", "Windows XP Professional",
+        "CPR/Combat Lifesaver", 
+        "Inventory Management",
+        "FCC License", 
+        "Test Equipment handling", 
+        "Troubleshooting"
+        ]
+    },
+    {
+      "name": "Programming Skills",
+      "level": "",
+      "keywords": [
+        "C++"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

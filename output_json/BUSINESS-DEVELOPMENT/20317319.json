@@ -1,0 +1,142 @@
+{
+  "basics": {
+    "name": "Not Specified",
+    "label": "Business Development Associate",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Hungry and highly driven successful sales professional with over 10 years experience. A strategic thinker and communicator who implements creative sales strategies to achieve and maintain high sales growth. Adept at building excellent working relationships with corporate and/or not for profit executives focused on achieving present as well as long term goals. Experienced in public relations, project development, account management, sales strategies to close and implementing endeavors for clients.",
+    "location": {
+      "address": "Not Specified",
+      "postalCode": "Not Specified",
+      "city": "Not Specified",
+      "countryCode": "Not Specified",
+      "region": "Not Specified"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Business Development Associate",
+      "url": "",
+      "startDate": "2016-05-01",
+      "endDate": "Current",
+      "summary": "Create a pipeline of prospects by establishing and maintain professional relationships with key decision makers.Research, source, make initial contact (email/cold calling/telephone prospecting) and meet potential clients at their locations."},
+    {
+      "name": "Company Name",
+      "position": "Ballet and Barre Instructor",
+      "startDate": "2014-08-01",
+      "endDate": "2015-08-01",
+      "summary": "Instructed middle school and highschool young women in Ballet classes."
+    },
+    {
+      "name": "Company Name",
+      "position": "Real Estate Professional",
+      "startDate": "2014-07-01",
+      "endDate": "Current",
+      "summary": "Sales of over 2 million dollars.Closing 70% of generated leads.Executed all documents to closings.Created and maintained a large client referral base.Provided exceptional customer service.Networking and marketing to generate successful leads."
+    },
+    {
+      "name": "Company Name",
+      "position": "Barre Teacher",
+      "startDate": "2013-01-01",
+      "endDate": "2016-01-01",
+      "summary": "Guided clients in safe exercise, taking into account individualized physical limitations.Taught clients how to modify exercises appropriately to avoid injury.Contributed to a [number]% increase in sales for the personal training department.Grew class numbers and attendance."
+    },
+    {
+      "name": "Company Name",
+      "position": "On-Call Substitute Teaching",
+      "startDate": "2012-01-01",
+      "endDate": "Current",
+      "summary": "On the Sub List at the following studios: Lifetime Premier Club, Studio Six, Larry North, Dallas Country Club."
+    },
+    {
+      "name": "Company Name",
+      "position": "Real Estate Professional",
+      "startDate": "2011-03-01",
+      "endDate": "2014-07-01",
+      "summary": "Sales of over 1.5 million dollars.Closings 75% of generated leads.Executed all documents to closings.Created and maintained a large client referral base.Provided exceptional customer service.Networking and marketing to generate successful leads."
+    },
+    {
+      "name": "Company Name",
+      "position": "Barre Teacher",
+      "startDate": "2011-01-01",
+      "endDate": "Current",
+      "summary": "Designed each class to match the skill and learning levels of all participants.Suggested exercise modifications to individual students to avoid strain and injury.Cleaned and organized studio after each group fitness class.Encouraged members to continue attending group fitness classes.Prepared teaching area for each class and returned all equipment to storage at the end of class.Tracked class attendance and monitored class size to gauge the effectiveness of promotions."
+    },
+    {
+      "name": "Company Name",
+      "position": "Owner/Interior Designer",
+      "startDate": "2004-10-01",
+      "endDate": "2010-01-01",
+      "summary": "Developed interior residential/commercial design company.Implemented project costs, budgets and design schedules.Account management.Created branding and design presentations.Ensured that project vision and intent was reflected and implemented.Tracking of client accounts, invoicing and generating leads."
+    }],
+  "volunteer": [
+    {
+      "organization": "The 24 Hour Club",
+      "position": "Fundraising Co-Chair",
+      "url": "",
+      "startDate": "2016",
+      "endDate": "2016",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "organization": "The Junior League of Dallas",
+      "position": "Sustainer",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
+    }],
+  "education": [
+    {
+      "institution": "Birmingham Southern College",
+      "url": "",
+      "area": "",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": [
+        ""
+      ]
+    },
+    {
+      "institution": "Champions School Of Real Estate",
+      "url": "",
+      "area": "Real Estate",
+      "studyType": "Licensed Active Realtor",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": [
+        ""
+      ]
+    }],
+  "awards": [
+    {
+      "title": "Jimmy And Emil Hell Scholarship Arts Scholarship for Ballet Accomplishments",
+      "date": "",
+      "awarder": "Birmingham Southern College",
+      "summary": ""
+    }],
+  "skills": [
+    {
+      "name": "Negotiations",
+      "level": "Expert",
+      "keywords": []
+    },
+    {
+      "name": "Sales Strategies Implementation",
+      "level": "Successful",
+      "keywords": []
+    }],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

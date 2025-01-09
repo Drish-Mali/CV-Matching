@@ -1,0 +1,122 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Finance Manager",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "To obtain challenging assignments in Finance/ Banking/ Accounts with an organization of repute.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "US",
+      "region": "Michigan"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Finance Manager",
+      "url": "",
+      "startDate": "2012-03-01",
+      "endDate": "2013-05-01",
+      "summary": "Provided strategic and tactical leadership in Finance/Accounting and Auditing of communities under the management of the company.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Finance Manager",
+      "url": "",
+      "startDate": "2008-05-01",
+      "endDate": "2011-12-31",
+      "summary": "Managed Finance/Accounts of the company.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Manager",
+      "url": "",
+      "startDate": "1993-12-01",
+      "endDate": "2008-05-01",
+      "summary": "Managed Dealer and Funds Manager of the Bank for 6 years with a portfolio of INR 18 billion.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Alagappa University",
+      "url": "",
+      "area": "Bank Management",
+      "studyType": "M.B.M",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "University of Kerala",
+      "url": "",
+      "area": "",
+      "studyType": "B.Sc",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Risk Management",
+      "date": "",
+      "issuer": "Reserve Bank's Bankers' training College, Mumbai",
+      "url": ""
+    },
+    {
+      "name": "Derivatives in Treasury Management",
+      "date": "",
+      "issuer": "National Institute of Bank Mngmnt, Pune",
+      "url": ""
+    },
+    {
+      "name": "Certification in Owners Association Management",
+      "date": "",
+      "issuer": "DREI, UAE",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Finance Management",
+      "level": "Master",
+      "keywords": [
+        "Accounting",
+        "Auditing",
+        "Banking",
+        "Budget management",
+        "Cash flow",
+        "Credit",
+        "ERP",
+        "Finance",
+        "Fixed income",
+        "Forecasting",
+        "Foreign Exchange",
+        "HR management",
+        "Marketing",
+        "MIS",
+        "Payables",
+        "Risk Management",
+        "Treasury"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

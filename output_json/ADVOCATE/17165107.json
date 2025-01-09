@@ -1,0 +1,137 @@
+{
+  "basics": {
+    "name": "Caitlin Maska",
+    "label": "Health Coach",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "https://www.truefoodandwellness.com",
+    "summary": "Driven and compassionate health and wellness professional with eight years of experience. Accountable, organized, and responsible with a strong focus in health education, clinical nutrition and exercise physiology.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "caitlinmaska",
+        "url": "https://www.linkedin.com/in/caitlinmaska"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Health Coach",
+      "url": "",
+      "startDate": "2012-03-01",
+      "endDate": "Current",
+      "summary": "Provide health coaching to employees of multiple corporate clients (e.g., Procter & Gamble, The Hartford). Collaborate with participants using motivational interviewing and an evidence-based approach to develop a health goal and action plan geared towards behavior change.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Clinical Nutritionist and Exercise Physiologist, Owner",
+      "startDate": "2011-08-01",
+      "endDate": "Current",
+      "summary": "Promote awareness of current health and wellness research, news and content through social media. Provide nutritional consultation and exercise prescriptions to clients.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "New York Chiropractic College",
+      "url": "",
+      "area": "Applied Clinical Nutrition",
+      "studyType": "Master of Science",
+      "startDate": "2014",
+      "endDate": "2014",
+      "score": "4.0",
+      "courses": []
+    },
+    {
+      "institution": "State University of New York at Buffalo",
+      "url": "",
+      "area": "Exercise Science",
+      "studyType": "Master of Science",
+      "startDate": "2008",
+      "endDate": "2008",
+      "score": "3.87",
+      "courses": []
+    },
+    {
+      "institution": "State University of New York at Geneseo",
+      "url": "",
+      "area": "Biology",
+      "studyType": "Bachelor of Arts",
+      "startDate": "2004",
+      "endDate": "2004",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Registered Clinical Exercise Physiologist",
+      "date": "",
+      "issuer": "American College of Sports Medicine",
+      "url": "https://www.acsm.org"
+    },
+    {
+      "name": "Certified Cancer Exercise Trainer",
+      "date": "",
+      "issuer": "American College of Sports Medicine",
+      "url": "https://www.acsm.org"
+    },
+    {
+      "name": "Certified Personal Trainer",
+      "date": "",
+      "issuer": "American College of Sports Medicine",
+      "url": "https://www.acsm.org"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Why Pilates Exercises are Your Best Solution for Super Toned Abs",
+      "publisher": "WatchFit",
+      "releaseDate": "2014-10",
+      "url": "https://www.watchfit.com",
+      "summary": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Health promotion",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "nutrition counseling",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "exercise testing & prescription",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Health and fitness speaker",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Office",
+      "level": "",
+      "keywords": ["Excel", "PowerPoint", "Word"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

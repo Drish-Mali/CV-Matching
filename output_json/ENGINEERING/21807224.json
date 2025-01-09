@@ -1,0 +1,66 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Engineering Manager",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Lean manufacturing professional with 20 years experience in lean manufacturing and continuous improvement. Highly skilled in all lean six sigma initiatives.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Engineering Manager",
+      "url": "",
+      "startDate": "2015-12-01",
+      "endDate": "2016-08-01",
+      "summary": "Build the foundation for the engineering department. Lead, develop, and mentor a group of engineers.",
+      "highlights": ["Standardized estimating process improving estimations", "Implemented engineering change control process"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Process Technician",
+      "url": "",
+      "startDate": "2009-01-01",
+      "endDate": "2015-12-01",
+      "summary": "Lead Lean/Continuous Improvement Projects to develop, standardize, and improve manufacturing processes.",
+      "highlights": ["Approved engineering decision", "Validated and verified new product designs", "Participated and led 3P events"]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Indiana Tech",
+      "url": "",
+      "area": "Engineering Management",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": ["Applied Industrial Ergonomics", "Lean Certification (Parker Lean Boot Camp I, II, and III)", "EPA Certification", "AWS Brazing Certification", "Six Sigma Academy Greenbelt Training", "Duggan and Associates *Value Stream Mapping", "*Mixed Model Value Stream Mapping", "Poke-a-Yoke Certification"]
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Engineering Management",
+      "level": "Expert",
+      "keywords": ["Microsoft Office", "SPC", "Visio", "FMEA", "Inventor", "Minitab", "Lean Manufacturing", "Process improvement"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

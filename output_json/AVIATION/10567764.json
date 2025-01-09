@@ -1,0 +1,121 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Supervisor",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "I was a supervisor for two years in a corrosion control facility for the US Government. As a shift supervisor of three employees I was directly responsible for the maintenance and upkeep of twelve aircraft paint schemes. I currently maintain a US Government Secret Security Clearance.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Supervisor",
+      "url": "",
+      "startDate": "2004-01-01",
+      "endDate": "2012-01-01",
+      "summary": "Worked on F/A-18C. Masked and covered surfaces not to be painted. Performed Plastic Media Blasting to remove paint and corrosion. Striped, sanded, masked, and repainted surfaces, and blended and polished finish to match surrounding areas, manually or using portable power tools. Cleaned, sanded, and applied chemical solutions to prepare and condition surfaces prior to painting.",
+      "highlights": [
+        "Maintain an 0% accident rate in safety within my shop."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Administration Clerk",
+      "url": "",
+      "startDate": "2012-01-01",
+      "endDate": "Current",
+      "summary": "Prepare, type, and route correspondence and reports. Organize and maintain files. Receive office visits and handle telephone communications. Operate computers, word processing, and duplicating documents. Maintain records and other official publications.",
+      "highlights": [""]
+    },
+    {
+      "name": "Company Name",
+      "position": "Aircraft Worker",
+      "url": "",
+      "startDate": "2013-10-01",
+      "endDate": "2014-06-01",
+      "summary": "Worked on P-3s, T-34s, T-44s, and F/A-18s. Masked and covered surfaces not to be painted. Performed Plastic Media Blasting to remove paint and corrosion. Striped, sanded, masked, and repainted surfaces, and blended and polished finish to match surrounding areas, manually or using portable power tools.",
+      "highlights": [""]
+    },
+    {
+      "name": "Company Name",
+      "position": "Aircraft Painter",
+      "url": "",
+      "startDate": "2014-11-01",
+      "endDate": "2015-03-01",
+      "summary": "Worked on Boeing 737 - 777 and Airbus 320. Masked and covered surfaces not to be painted. Striped, sanded, masked, and repainted surfaces, and blended and polished finish to match surrounding areas, manually or using portable power tools.",
+      "highlights": [""]
+    },
+    {
+      "name": "Company Name",
+      "position": "Aircraft Painter",
+      "url": "",
+      "startDate": "2015-04-01",
+      "endDate": "2015-10-01",
+      "summary": "Worked on Airbus 319 & 320. Masked and covered surfaces not to be painted. Sanded, masked, and repainted surfaces, and blended and polished finish to match surrounding areas, manually or using portable power tools.",
+      "highlights": [""]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Florida State College of Jacksonville",
+      "url": "",
+      "area": "Aircraft Coating",
+      "studyType": "Technician Certificate",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": [""]
+    },
+    {
+      "institution": "Tulsa Welding School",
+      "url": "",
+      "area": "Welding",
+      "studyType": "Certificate",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": [""]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Navy Marine Corps Achievement Medal Ribbon",
+      "date": "",
+      "awarder": "Navy",
+      "summary": ""
+    }
+  ],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Pattern Power Tools",
+      "level": "",
+      "keywords": [
+        "blueprints", "charts", "color", "office", "painting", "paint", "power tools", "publications", "Maintain records", "maintain files", "safety", "supervising", "technical manuals", "Technician", "telephone", "type", "Welding", "word processing"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [
+    {
+      "name": "Aviation",
+      "keywords": [
+        "Aviation Structural Mechanics Common Core, Class A1 (4 weeks) Aviation Structural Mechanic Organizational Level Strand Class (40 hours) Aircraft Corrosion (40 hours) Aircraft Paint/Finish (80 hours)"
+      ]
+    }
+  ],
+  "references": [],
+  "projects": []
+}

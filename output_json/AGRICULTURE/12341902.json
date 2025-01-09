@@ -1,0 +1,87 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Education Officer & Senior Education Officer, Guidance & Counseling Unit",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Joined the Ministry of Education in 1982, served as Head of the Guidance Department. Supervised the Guidance & Counseling Unit, collaborated with the College of The Bahamas and Kent State University.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Ministry of Education",
+      "position": "Education Officer & Senior Education Officer, Guidance & Counseling Unit",
+      "url": "",
+      "startDate": "1999-08-01",
+      "endDate": "2015-03-01",
+      "summary": "Supervised the Guidance Counseling Unit. Developed and implemented programs to address the needs of the students and the employees.",
+      "highlights": [
+        "Expansion of the Guidance & Counseling Unit",
+        "Establishment of a Master's of Education Degree Program in School Counseling",
+        "Implementation of the Employee Assistance Program (EAP)"
+      ]
+    },
+    {
+      "name": "R.M.Bailey Senior High School",
+      "position": "School Counselor",
+      "url": "",
+      "startDate": "1982-03-01",
+      "endDate": "1999-06-01",
+      "summary": "Head of the Guidance Department. Assisted students even after departure from the school.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Long Island University",
+      "url": "",
+      "area": "Guidance Counseling",
+      "studyType": "Masters of Science",
+      "startDate": "1985",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Bethune Cookman College",
+      "url": "",
+      "area": "Psychology",
+      "studyType": "Bachelors",
+      "startDate": "1980",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Counseling",
+      "level": "",
+      "keywords": [
+        "Group and Individual counseling",
+        "Leadership",
+        "MS Office",
+        "Internet researching",
+        "Planning and organisational skills",
+        "Communication",
+        "Interpersonal and rapport building"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

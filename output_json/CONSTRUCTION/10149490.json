@@ -1,0 +1,97 @@
+{
+  "basics": {
+    "name": "Anonymous",
+    "label": "New Construction / AFE Maintenance Manager",
+    "email": "",
+    "phone": "",
+    "summary": "23 years in the Industry, with 18 years of Management / Supervisory experience in Shutdowns, T/A's, and Project related work. Proven track record as Manager / Supervisor managing a variety of construction teams and projects with <0.5 trir. Recognized strong team leadership skills and relationships with contract groups.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "US",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "New Construction / AFE Maintenance Manager",
+      "startDate": "2015-02-01",
+      "summary": "Effectively directs the Safety and Health program / processes in our work group. Leading weekly relevant Safety Meetings with Contractors / Employees� to ensure a� top down approach.",
+      "highlights": ["Leads weekly relevant Safety Meetings with Contractors / Employees� to ensure a� top down approach.",
+                     "Maintains top performance in our Safety VPP Football Program",
+                     "Working to develop Project Manager's in Capital to help improve execution",
+                     "Strong and effective Liaison between Operations, Project Engineering and Construction Team."]
+    },
+    {
+      "name": "Company Name",
+      "position": "Operations Superintendent",
+      "startDate": "2011-07-01",
+      "endDate": "2015-02-01",
+      "summary": "Managed plants Operations to ensure we remained at target rates. Maintained safe, stable and reliable operations/ operating envelopes. Maintained environmental compliance.",
+      "highlights": ["Managed 40-50 employees on shift.",
+                     "Provided mentoring for developing employees.",
+                     "Certified Qualified Individual in the area of Oil Spill Response."]
+    }],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "De Anza High School",
+      "area": "Industrial Maintenance Mechanic",
+      "studyType": "High School Diploma",
+      "endDate": "Unknown",
+      "score": "",
+      "courses": []
+    }],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Emergency Response",
+      "issuer": "Unknown",
+      "date": "Unknown",
+      "url": ""
+    }],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Site Safety /� Safety Standards",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Site Assessments",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Liaison",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Operations",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Environmental Compliance",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Mentoring",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Site Assessments",
+      "level": "",
+      "keywords": []
+    }],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

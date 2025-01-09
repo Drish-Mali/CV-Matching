@@ -1,0 +1,127 @@
+{
+  "basics": {
+    "name": "",
+    "label": "ENGINEERING ASSOCIATE",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Team-oriented Engineering Associate with over 8 years experience designing, developing, maintaining, and testing electro-mechanical systems.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Engineering Associate",
+      "url": "",
+      "startDate": "2008-05",
+      "endDate": "Current",
+      "summary": "Responsible for building and servicing Catalyst DX, lab maintenance, Instrument software testing, validation of new components and extended instrument field fail triage. Other responsibilities include ESD implementation and testing, lab maintenance and management.",
+      "highlights": [
+        "Bronze medal in Skills USA for robotics and automation",
+        "Performed data collection and statistical analysis that resulted in sound recommendations that were adopted by department.",
+        "Worked with R&D and LOB to modify and improve overall product performance.",
+        "Eliminated machine defects through recommendation of machine adjustments."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Electrical Technician and Mechanist",
+      "url": "",
+      "startDate": "2007-02",
+      "endDate": "2008-03",
+      "summary": "Worked with engineers and project managers regarding design parameters for client projects. Debugged and troubleshot complex analog, digital, and RF circuits.",
+      "highlights": []
+
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "SMCC South City",
+      "url": "",
+      "area": "Applied Science",
+      "studyType": "Associate degree",
+      "startDate": "2007",
+      "endDate": "2008",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "YCCC Wells",
+      "url": "",
+      "area": "CAD and Drafting in the Engineering Design Program",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Microsoft Visual Basic",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Excel",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft power point",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Visio",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Vision system programming",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Strong presentation skills",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Process improvement",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Team player",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Mechanical design/implementation",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Ability to write and read wiring diagram",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

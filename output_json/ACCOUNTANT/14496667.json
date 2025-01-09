@@ -1,0 +1,86 @@
+{
+  "basics": {
+    "name": "ACCOUNTANT I",
+    "label": "Business Management Graduate",
+    "email": "",
+    "phone": "",
+    "summary": "A business management graduate with significant experience in disability services, human resources and finance department; seeking to apply my abilities to position in a human resource department.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Accountant I",
+      "startDate": "2010-12-01",
+      "endDate": "Current",
+      "summary": "Provide Administrative support to the Finance Unit and maintain orderly filing system for various departmental units Oversee and maintain the proper and appropriate systems for storing financial records and documents utilized by finance unit.",
+      "highlights": [
+        "Created a Pivot table for contracts department to utilize for renewal of contracts."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Intern",
+      "startDate": "2010-05-01",
+      "endDate": "2010-11-01",
+      "summary": "Assisted the Human Resources department Assisted the HR Liaison with collecting various forms.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Security Officer",
+      "startDate": "2008-11-01",
+      "endDate": "2010-06-01",
+      "summary": "Prepared written reports for complaints and incidents that occurred during an event. Provided Customer service. Ensured the safety of fans and the TD Garden property.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Bridgewater State University",
+      "area": "Business Management Accounting, Psychology",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "2015-05-16",
+      "score": "",
+      "courses": ["Business Management", "Minor in Psychology", "Accounting & Finance"]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Accounting System",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Administrative Support",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Auditing",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Bilingual"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Bilingual"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

@@ -1,0 +1,104 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Engineering Manager",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Dedicated Engineering Manager with excellent technical, analytical and communication skills demonstrated by over 25 years of experience.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Engineering Manager",
+      "url": "",
+      "startDate": "2010-11",
+      "endDate": "2016-02",
+      "summary": "Directed the installation, testing, operation, maintenance, and repairs of equipment. Trained mechanics on standard operating procedures and coordinate preventive maintenance programs. Responsible for safety, health, fire, and emergency systems to comply with municipal and federal regulations. Managed numerous projects simultaneously within budgetary restrictions. Prepared accurate specifications for purchase of materials and equipment for purchasing department. Collaborated with the Director of Engineering regarding design parameters for projects. Resolved part and assembly discrepancies.",
+      "highlights": [
+        "Tested equipment to ensure compliance.",
+        "Supervised project production efforts to ensure projects were completed to company standards, on time and within budget constraints."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Assistant Superintendent",
+      "startDate": "2003-04",
+      "endDate": "2010-10",
+      "summary": "Responsible for the maintenance and repairs of 600 residential units. Assisted the Superintendent in maintaining the physical integrity of the building. Also handled the daily building inspections for damages and cleanliness. Conducted preventive maintenance of low-pressure oil boiler and ancillary equipment.",
+      "highlights": [
+         "Performed electrical and plumbing work as needed.",
+         "Supervised a staff of nine (doormen and porters) in the evenings."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Suite Attendant",
+      "startDate": "1994-12",
+      "endDate": "2003-03",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Assistant Superintendent",
+      "startDate": "1990-10",
+      "endDate": "2000-09",
+      "summary": "Assisted in the maintenance of 47 residential units. Responsible for conducting all plumbing and electrical wiring.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+     {
+      "institution": "Trade School",
+      "url": "",
+      "area": "",
+      "studyType": "",
+      "startDate": "2016",
+      "endDate": "",
+      "score": "",
+      "courses": [
+            "[Course Name]"
+        ]
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Project management",
+      "level": "",
+      "keywords": ["Windows XP Professional (Word Excel and Outlook) and Internet.", "Process improvement"]
+    },
+    {
+      "name": "Repairs and Maintenance",
+      "level": "",
+      "keywords": ["Electrical and plumbing work", "Preventive maintenance of low-pressure oil boiler and ancillary equipment"]
+    },
+    {
+      "name": "Supervision",
+      "level": "",
+      "keywords": ["Supervised project production efforts", "Supervised a staff of nine"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

@@ -1,0 +1,80 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Patient Advocate",
+    "email": "",
+    "phone": "",
+    "summary": "Seeking an opportunity in a Management/HR department where my professional experience and education will allow me to make an immediate contribution as an integral part of a progressive organization."
+  },
+  "education": [
+    {
+      "institution": "Herzing University - Online",
+      "area": "HealthCare Administration - Human Resources",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "2017"
+    },
+    {
+      "institution": "Kaplan University",
+      "area": "Management - Human Resource Management",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "2009"
+    },
+    {
+      "institution": "Kaplan University",
+      "area": "Business Administration Management",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "2007"
+    },
+    {
+      "institution": "MSTA Business College",
+      "area": "WFHM Reverse Mentoring Senior Management",
+      "studyType": "",
+      "startDate": "1983",
+      "endDate": ""
+    }
+  ],
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Patient Advocate",
+      "startDate": "May 2017",
+      "endDate": "Current",
+      "summary": "Responsible for the developing, revising and implementing policies and procedures as needed."
+    },
+    {
+      "name": "Company Name",
+      "position": "Office Support",
+      "startDate": "March 2015",
+      "endDate": "",
+      "summary": "Managed day to day operations with minimal supervision."
+    },
+    {
+      "name": "Company Name",
+      "position": "Operations Team Lead",
+      "startDate": "September 2002",
+      "endDate": "January 2015",
+      "summary": "Acted as a liaison with business clients, business partners, internal and external staff, and updated share point sites."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Professional Skills",
+      "keywords": [
+        "Clerical",
+        "Coaching",
+        "Senior Management",
+        "Human Resources",
+        "Information Security",
+        "Mentoring",
+        "Access",
+        "Microsoft word",
+        "Networking",
+        "Excel",
+        "Generating Reports"
+      ]
+    }
+  ]
+}

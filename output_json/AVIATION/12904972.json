@@ -1,0 +1,154 @@
+{
+  "basics": {
+    "name": "",
+    "label": "MANAGER, CONTINUOUS IMPROVEMENT",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "A skilled Manager with experience in Continuous Improvement and Aviation Maintenance. Proficient in Fiber Optics Repair, Project Management, Organizational Skills, Process Controls, Airframe and Powerplant systems, and Six Sigma methodologies.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Manager, Continuous Improvement",
+      "url": "",
+      "startDate": "2014-11",
+      "endDate": "",
+      "summary": "Utilized tools of Six Sigma and Lean to improve processes across the facilities. Led cross-functional teams in identifying root cause, developing, and implementing solutions. Managed Continuous Improvement projects and events.",
+      "highlights": [
+        "Lead and managed various Continuous Improvement projects"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "A&P Mechanic / Aircraft Technician",
+      "url": "",
+      "startDate": "2014-04",
+      "endDate": "2014-10",
+      "summary": "Led and guided activities of all assigned personnel, assuring all maintenance is completed in compliance with company policies and applicable FAA regulations. Performed on the job training as required.",
+      "highlights": [
+       "Received reward for diligence and hard work as Temporary Lead"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Embry-Riddle Aeronautical University",
+      "url": "",
+      "area": "Aviation Business Administration, Safety",
+      "studyType": "Bachelor of Science",
+      "startDate": "2015",
+      "endDate": "2018",
+      "score": "",
+      "courses": []
+    },
+    {
+        "institution": "Villanova University",
+        "url": "",
+        "area": "Six Sigma",
+        "studyType": "Master Certificate",
+        "startDate": "2014",
+        "endDate": "2014",
+        "courses": []
+    },
+    {
+     "institution": "National Aviation Academy",
+     "url": "",
+     "area": "Aviation Maintenance",
+     "studyType": "Associate Degree",
+     "startDate": "2008",
+     "endDate": "2010",
+     "scores": "",
+     "courses": ["Fiber Optic Repair"]
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Master Certificate in Six Sigma",
+      "date": "2014",
+      "issuer": "Villanova University",
+      "url": ""
+    },
+    {
+      "name": "Certified Lean Six Sigma Black Belt",
+      "date": "2015",
+      "issuer": "Villanova University",
+      "url": ""
+    },
+    {
+      "name": "Airframe and Powerplant Mechanics license",
+      "date": "2010",
+      "issuer": "FAA",
+      "url": ""
+    },
+    {
+      "name": "FCC Elements 1, 3, & 8",
+      "date": "2011",
+      "issuer": "FCC",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Technical",
+      "level": "",
+      "keywords": [
+        "Maintenance",
+        "Aviation",
+        "Security",
+        "Microsoft Windows",
+        "Microsoft Windows 95",
+        "Schematics",
+        "Windows 95",
+        "Airframe",
+        "Engines",
+        "Fuel",
+        "Security Guard",
+        "Associate",
+        "Cash",
+        "Cash Register",
+        "Of Sales",
+        "Sales",
+        "Sales Associate",
+        "Sales Floor",
+        "The Sales",
+        "Games",
+        "Aviation Maintenance",
+        "Fiber Optic",
+        "General Aviation",
+        "FAA",
+        "Training",
+        "Continuous Improvement",
+        "Kaizen",
+        "Managerial",
+        "Mapping",
+        "Ms Office",
+        "Organizational Skills",
+        "Process Controls",
+        "Project Management",
+        "Six Sigma"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Chinese (Mandarin)",
+      "fluency": "Read/ Write/ and Conversational"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

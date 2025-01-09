@@ -1,0 +1,93 @@
+{
+  "basics": {
+    "name": "Not Provided",
+    "label": "ENGINEERING PROJECT MANAGER",
+    "image": "",
+    "email": "Not Provided",
+    "phone": "Not Provided",
+    "url": "Not Provided",
+    "summary": "Eleven years of experience in Analog, RF and Mixed Signal Layout Design at module and Chip levels for 180nm, 65nm, 45nm, 28nm TSMC, 14FF Samsung foundry and 10nm Intel. Experienced in planning, tracking and executing tasks to meet desired deadlines.",
+    "location": {
+      "address": "Not Provided",
+      "postalCode": "Not Provided",
+      "city": "Not Provided",
+      "countryCode": "Not Provided",
+      "region": "Not Provided"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Aricent Inc.",
+      "position": "Project Manager",
+      "url": "Not Provided",
+      "startDate": "Not Provided",
+      "endDate": "Not Provided",
+      "summary": "Managed various design projects including WTR synth project done in 14FF Samsung foundry, HFVCO, Regulator, VCO Buffer and LPF in 28nm.",
+      "highlights": []
+    },
+    {
+      "name": "Not Provided",
+      "position": "Engineering Project Manager",
+      "url": "Not Provided",
+      "startDate": "12/2012",
+      "endDate": "06/2017",
+      "summary": "Managed and supervised various design projects.",
+      "highlights": []
+    },
+    {
+      "name": "Not Provided",
+      "position": "Senior Analog Layout Engineer",
+      "url": "Not Provided",
+      "startDate": "10/2011",
+      "endDate": "12/2012",
+      "summary": "Worked on various design projects.",
+      "highlights": []
+    },
+    {
+      "name": "Not Provided",
+      "position": "Member of Technical Staff",
+      "url": "Not Provided",
+      "startDate": "06/2006",
+      "endDate": "09/2011",
+      "summary": "Part of technical staff involved in various projects.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Visvesvaraya Technological University",
+      "url": "Not Provided",
+      "area": "Electrical and Electronics",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "Not Provided",
+      "endDate": "2006",
+      "score": "Not Provided",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Layout Design",
+      "level": "Expert",
+      "keywords": ["Cadence", "Data management", "debugging", "IQ", "layout", "layout design", "LINUX", "meetings", "mentor", "Windows", "migration", "Operating Systems", "Packaging", "project management", "quality", "Real Time", "Router", "Routers", "Sun-Solaris"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": [
+      {
+      "name": "WTR synth project",
+      "startDate": "Not Provided",
+      "endDate": "Not Provided",
+      "description": "Managed a team of 6 who worked on WTR synth project done in 14FF Samsung foundry.",
+      "highlights": ["First RF task performed in FF technologies.", "Underwent various FinFet related trainings to understand the process and its impact on layout."],
+      "url": "Not Provided"
+      }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "basics": {
+    "name": "Accountant",
+    "label": "Accountant",
+    "email": "",
+    "phone": "",
+    "summary": "Practical knowledge and a thorough understanding of the principles, methods and theories, laws, regulations and directives of accounting. Proven skills in providing training of generally accepted accounting principles and procedures.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Accountant",
+      "startDate": "2012-06-01",
+      "endDate": "Current",
+      "summary": "Practical knowledge in accounting. Provided accounting instruction to assist application and compliance of generally accepted accounting principles and procedures relating to accounts payables, monthly reconciliation and disbursements.",
+      "highlights": ["Training and accounting instruction","Review, verify and print cost and trust checks","Prepare bank deposits for cash received","Prepare monthly reports from several cost and trust accounts"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Accountant",
+      "startDate": "2007-07-01",
+      "endDate": "2011-09-01",
+      "summary": "Validated a variety of accounting data that is entered into schedules and accounts; Applied appropriate accounting techniques and standard practices when entering, tracking, analyzing, reconciling and reporting on assigned customer's accounts of responsibility.",
+      "highlights": ["Validated a variety of accounting data","Processed and maintain accurate accounts payable","Assisted with monthly account payable closing procedures","Requested information and analysis"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Staff Accountant",
+      "startDate": "2005-05-01",
+      "endDate": "2007-06-01",
+      "summary": "Reviewed and analyzed vendor bills and employee expense reports for accuracy and entered data into Great Plains accounting system to be tracked and paid timely.",
+      "highlights": ["Reviewed and analyzed vendor bills","Employee expense reports for accuracy","Entered data into Great Plains accounting system"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Walden University",
+      "area": "Accounting",
+      "studyType": "MS",
+      "startDate": "",
+      "endDate": "",
+      "score": "4.0",
+      "courses": ["Accounting I & II", "Intermediate Accounting I & II", "Accounting Information Systems", "Cost Accounting", "Statistics", "Accounting Taxation"]
+    },
+    {
+      "institution": "University of Maryland University College",
+      "area": "Business Administration",
+      "studyType": "BS",
+      "startDate": "",
+      "endDate": "2005",
+      "score": "3.2",
+      "courses": []
+    },
+    {
+      "institution": "University of Maryland University College",
+      "area": "Accounting",
+      "studyType": "AA",
+      "startDate": "",
+      "endDate": "2004",
+      "score": "3.3",
+      "courses": ["Accounting I & II", "Intermediate Accounting I & II", "Accounting Information Systems", "Cost Accounting", "Statistics", "Accounting Taxation"]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Accounting",
+      "level": "",
+      "keywords": ["Accounting I", "Accounting", "Accountant", "accounts payable", "accounts payables", "accounts receivable", "AR", "attorney", "trial balance", "bank reconciliations", "budget", "cash flow", "closing", "contracts", "Cost Accounting", "Credit", "client", "clients", "customer services", "EDI", "email", "filing", "financial", "focus", "forecasting", "functional", "funds", "general ledger", "GL", "government", "Great Plains software", "Great Plains accounting", "Information Systems", "instruction", "insurance", "inventory", "Legal", "Excel", "MS Office applications", "office", "Outlook", "PowerPoint", "Word", "payroll", "Peachtree", "policies", "positioning", "Pricing", "processes", "coding", "purchasing", "QuickBooks", "reconciling", "recording", "reporting", "research", "spreadsheet", "Statistics", "Supervisor", "supervision", "tax", "Typing", "Work Flow", "year-end"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "volunteer": [],
+  "awards": [],
+  "publications": [],
+  "certificates": []
+}

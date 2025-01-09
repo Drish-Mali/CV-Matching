@@ -1,0 +1,95 @@
+{
+  "basics": {
+    "name": "Chandan Baluja",
+    "label": "Marketing & Sales Analyst",
+    "email": "",
+    "phone": "",
+    "summary": "A result oriented Marketing & Sales Analyst with 10 years of industry experience in the Staffing, Internet / ecommerce / Dotcom, Media / Publishing domain with expertise in Business process improvement, Business Process Flow Documentation & Data Analysis.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Marketing & Sales Analyst",
+      "startDate": "2015-07",
+      "endDate": "Current",
+      "summary": "A Healthcare referral services company (national provider of staffing solutions in behavioral, social service, education, psychiatry, mental health and addictions treatment fields).",
+      "highlights": [
+        "Reports and collaborates directly with the President",
+        "Manage vendors to maintain and grow strong relationships",
+        "Documented and reviewed SOPs, work plans, and other deliverables to gauge project performance and client satisfaction."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Client Sourcing & Inside Sales Specialist",
+      "startDate": "2014-03",
+      "endDate": "2015-07",
+      "summary": "Lead Generation, New Business Development & growth of business agreements for physician recruitment solutions.",
+      "highlights": [
+        "Managing the entire process, from sale to execution",
+        "Renew existing business, increase spend and create new buyers in existing accounts",
+        "Utilization of Salesforce for all outreach activity."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Zonal Manager (Corporate Sales)",
+      "startDate": "2007-08",
+      "endDate": "2013-05",
+      "summary": "Handling Key Customer - Identify & analyze the client's requirements & propose customized solutions.",
+      "highlights": [
+        "Business Development B2B outside & inside Sales",
+        "Branch Management & Team Management",
+        "Won Sales Incentive International Trip - Hong Kong."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Fore School of Management in collaboration with Nottingham Business School, UK",
+      "area": "International Business Management (Marketing)",
+      "studyType": "Master",
+      "startDate": "",
+      "endDate": "2004"
+    },
+    {
+      "institution": "Kirori Mal College, Delhi University",
+      "area": "Botany Honors",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "2003"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Marketing & Sales Analyst Skills",
+      "level": "Master",
+      "keywords": [
+        "Articulate",
+        "Business Analysis",
+        "Business Development",
+        "Business operations",
+        "Excel",
+        "Negotiation",
+        "Relationship Management",
+        "Sales Planning"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "volunteer": [],
+  "awards": [],
+  "publications": [],
+  "certificates": []
+}

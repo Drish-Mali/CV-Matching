@@ -1,0 +1,110 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Director of Information Technology",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Performance-driven and accomplished Director of Information Technology offering a unique combination of operations and management experience.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Director of Information Technology",
+      "url": "",
+      "startDate": "2000-05-01",
+      "endDate": "2014-01-01",
+      "summary": "Provided leadership in directing, planning, managing, and implementing the information technology needs of the City of Greensboro.",
+      "highlights": [
+        "Generated a savings of $400K per year with the implementation of VoIP",
+        "Implemented on-line payments for parking tickets and utility bills"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Network Services Manager",
+      "url": "",
+      "startDate": "1998-07-01",
+      "endDate": "2000-05-01",
+      "summary": "Managed the Desktop Services Division, which included the Help Desk, local area network, server administration, training and leasing of computer technology.",
+      "highlights": [
+        "Championed the organizational strategic initiative to implement a client-server environment with Microsoft Exchange and leasing of all computer technology",
+        "Managed and directed the installation of 900+ workstations ahead of schedule and under budget"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Data Communications Analyst",
+      "url": "",
+      "startDate": "1989-06-01",
+      "endDate": "1998-07-01",
+      "summary": "Installed, maintained, configured and analyzed the data communication needs for the City of Greensboro.",
+      "highlights": [
+        "Configured 450+ users on All-In-One",
+        "Project leader on upgrading IBM Mainframe to VSE/ESA"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Electronics Technician",
+      "url": "",
+      "startDate": "1986-09-01",
+      "endDate": "1989-06-01",
+      "summary": "Repaired, installed, configured and maintained PC's, servers, modems and other communication equipment.",
+      "highlights": [
+        "Designed and installed the wiring and communications infrastructure for student registration",
+        "Established redundant communication links to remote sites"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "UNC-Chapel Hill",
+      "url": "",
+      "area": "Information Technology",
+      "studyType": "Certified Chief Information Officer (CIO)",
+      "startDate": "2005-11-01",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "North Carolina A&T State University",
+      "url": "",
+      "area": "Industrial Technology (Electronics)",
+      "studyType": "B.S",
+      "startDate": "",
+      "endDate": "1986-01-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Information Technology Management",
+      "level": "",
+      "keywords": [
+        "customer satisfaction",
+        "modems",
+        "enterprise"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

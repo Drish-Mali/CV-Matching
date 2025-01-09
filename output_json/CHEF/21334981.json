@@ -1,0 +1,99 @@
+{
+  "basics": {
+    "name": "Anonymous",
+    "label": "Pastry Chef / Server",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "My main goal is to ensure that procedures are followed for seating and serving guests. Make sure that all staff act in a way that promotes guest satisfaction and handle any issues or complaints.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Pastry Chef /Server",
+      "url": "",
+      "startDate": "2014-05-01",
+      "endDate": "2015-09-01",
+      "summary": "Effectively managed and assisted kitchen staff in producing food for banquets, catered events and member dining areas. Consistently produced exceptional menu items that regularly garnered diners' praise.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Line Cook",
+      "url": "",
+      "startDate": "2013-03-01",
+      "endDate": "2014-03-01",
+      "summary": "Regularly developed new recipes in accordance with consumer tastes, nutritional needs, and budgetary considerations. Provided nutritious, safe, visually appealing, innovative and properly prepared and flavored food.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Southwest Behavioral Health",
+      "position": "Volunteer",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Provided approximately 50 meals daily for Homeless Outreach Program. Completed 16 week training on serving the practical or emotional needs of victims following traumatic events victim's rights, support during the criminal investigation, information and referral to community resources.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Mesa Community College",
+      "url": "",
+      "area": "Social Science Studies Administrative Justice Studies",
+      "studyType": "Associate of Science Degree",
+      "startDate": "",
+      "endDate": "2012",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "National Restaurant Association ServSafe Manager Certification",
+      "date": "",
+      "issuer": "National Restaurant Association",
+      "url": ""
+    },
+    {
+      "name": "Maricopa County Food Handlers Card",
+      "date": "",
+      "issuer": "Maricopa County",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Administrative Assistant",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "administrative support",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Behavioral Health",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

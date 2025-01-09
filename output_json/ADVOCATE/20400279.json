@@ -1,0 +1,147 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Customer Service Advocate",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Talented Customer Service manager skilled at balancing customer needs and company demands. Effectively builds loyalty and long-term relationships with customers while achieving all individual sales goals.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Customer Service Advocate",
+      "url": "",
+      "startDate": "2015-03-01",
+      "endDate": "Current",
+      "summary": "Collected customer feedback and made process changes to exceed customer satisfaction goals. Addressed customer service inquiries in a timely and accurate fashion. Provided accurate and appropriate information in response to customer inquiries.",
+      "highlights": [
+        "Effective listener",
+        "Timely conflict resolution"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Sales Manager",
+      "url": "",
+      "startDate": "1995-10-01",
+      "endDate": "2014-02-28",
+      "summary": "Delivered excellent customer service by greeting and assisting each customer. Addressed customer inquiries and resolved complaints. Designed and implemented customer satisfaction metrics.",
+      "highlights": [
+        "Completed weekly schedules",
+        "Trained all new managers",
+        "Contributed to merchandising ideas"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Data Entry operator",
+      "url": "",
+      "startDate": "1985-09-01",
+      "endDate": "1989-06-30",
+      "summary": "Verified and logged in deadlines for responding to daily inquiries. Assisted with payroll preparation and entered data into cumulative payroll document.",
+      "highlights": [
+         "Verified information in the computer system",
+         "Promoted positive customer relations"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Loan Servicing Representative",
+      "url": "",
+      "startDate": "1984-08-01",
+      "endDate": "1985-08-31",
+      "summary": "Collected customer feedback and made process changes to exceed customer satisfaction goals. Provided accurate and appropriate information in response to customer inquiries.",
+      "highlights": [
+         "Assisted with the development of the call center's operations",
+         "Led a team of customer service representatives to increase service center profitability"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "William Penn Vo-tech Harrisburg",
+      "url": "",
+      "area": "General-Business Communications",
+      "studyType": "High School Diploma",
+      "startDate": "1983-01-01",
+      "endDate": "1983-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Morgan State University",
+      "url": "",
+      "area": "",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Active Listening",
+      "level": "Expert",
+      "keywords": []
+    },
+    {
+      "name": "Sales",
+      "level": "Expert",
+      "keywords": []
+    },
+    {
+      "name": "Communication",
+      "level": "Advanced",
+      "keywords": []
+    },
+    {
+      "name": "Conflict Resolution",
+      "level": "Advanced",
+      "keywords": []
+    },
+    {
+      "name": "Customer Service",
+      "level": "Advanced",
+      "keywords": []
+    },
+    {
+      "name": "MS Office",
+      "level": "Advanced",
+      "keywords": []
+    },
+    {
+      "name": "Personnel Training",
+      "level": "Advanced",
+      "keywords": []
+    },
+    {
+      "name": "Time Management",
+      "level": "Advanced",
+      "keywords": []
+    },
+    {
+      "name": "Computer Literate",
+      "level": "Expert",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

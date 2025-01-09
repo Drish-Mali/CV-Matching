@@ -1,0 +1,145 @@
+{
+  "basics": {
+    "name": "",
+    "label": "ACCOUNTANT II",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Highly analytical, results-driven tax accounting specialist who works quickly and accurately under tight deadlines. Extensive knowledge of [Software program].",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Accountant II",
+      "url": "",
+      "startDate": "2013-09-01",
+      "endDate": "Current",
+      "summary": "Responsible for creating and maintaining a monthly Statistical report, analyzing and correcting errors, prepared the final report which is reviewed and utilized by the Board Members, the CEO and other senior staff members.",
+      "highlights": [
+        "Account reconciliation specialist",
+        "Strong communication skills",
+        "Advanced bookkeeping skills",
+        "Superior attention to detail",
+        "Self-motivated professional",
+        "MS Office Suite",
+        "Budget analysis"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Human Resources and Compliance Assistant",
+      "url": "",
+      "startDate": "2011-09-01",
+      "endDate": "2013-08-01",
+      "summary": "Assisted HR Generalist in structuring and implementing new procedures and policies for benefits, incentives and new hires",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Accounting Assistant",
+      "url": "",
+      "startDate": "2010-10-01",
+      "endDate": "2013-08-01",
+      "summary": "Responsible for entering approved bills into accounting system and processing checks, Automated Clearing House (ACH) and Electronic Funds Transfer (EFT) to make payments",
+      "highlights": []
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Cherry Blossom Festival",
+      "position": "Volunteer",
+      "url": "",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Maryland University College, Shady Grove Center",
+      "url": "",
+      "area": "Accounting Business Administration",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "2011-05-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Montgomery College",
+      "url": "",
+      "area": "Business Management",
+      "studyType": "Associate of Arts",
+      "startDate": "",
+      "endDate": "2009-05-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "AGA Scholarship Recipient",
+      "date": "2010-01-01",
+      "awarder": "Association of Government Accounting",
+      "summary": ""
+    }
+  ],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Accounting Skills",
+      "level": "Advance",
+      "keywords": [
+        "Accounting",
+        "Accountant",
+        "Accounting Software",
+        "MS Excel",
+        "MS Access",
+        "MS Power Point",
+        "MS Word",
+        "Peachtree",
+        "QuickBooks",
+        "Sage"
+      ]
+    },
+    {
+      "name": "Administration",
+      "level": "Advance",
+      "keywords": [
+        "Accounts Payable",
+        "Administrative Support",
+        "Benefits",
+        "Credit",
+        "Electronic Funds Transfer",
+        "Filing",
+        "General Ledger",
+        "Human Resource",
+        "Payroll",
+        "Personnel",
+        "Policies"
+      ]
+    },
+    {
+      "name": "Communication Skills",
+      "level": "Advance",
+      "keywords": [
+        "Strong Communication Skills"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

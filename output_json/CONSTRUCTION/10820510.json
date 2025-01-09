@@ -1,0 +1,116 @@
+{
+  "basics": {
+    "name": "",
+    "label": "QA / QC Manager",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "21 years' experience in the Oil and Gas Industry, Specializing in Repair/Maintenance and New Construction of Above Ground storage tanks, with 6 years in the QA / QC field.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "QA / QC Manager",
+      "url": "",
+      "startDate": "2011-01-01",
+      "endDate": "2016-11-01",
+      "summary": "Creates, maintains and establishes all WPQ's and WPS's while also training and document control of all NDE. Initiates, oversees and audits Shop and Shop Inspector. Reviews all drawings from the bid phase to procurement. Provides Superintendents with proper NDE training and technical support. Perform completion audits on job closing packages.",
+      "highlights": ["Write and develop Weld procedures and can sign ASME Level III procedures."]
+    },
+    {
+      "name": "Company Name",
+      "position": "Construction Manager",
+      "url": "",
+      "startDate": "2005-01-01",
+      "endDate": "2008-01-01",
+      "summary": "Responsible for day-to-day operations of construction projects, assembled personnel, equipment and materials for projects. Supervised multiple projects concurrently while providing advice and assisting in the planning of projects awarded for transition from sales to operations.",
+      "highlights": ["Successful job management of up to as many as 10 Crews/jobs at one time."]
+    },
+    {
+      "name": "Company Name",
+      "position": "Superintendent / Repair and New Tank Construction",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Responsible for day-to-day operations on the work-site while controlling the short term schedule. Worked closely with Project Managers to maintain quality control and subcontractor coordination responsibilities.",
+      "highlights": []
+    },
+    {
+      "name": "Multiple Tank Companies",
+      "position": "Welder / New Tank Construction / Fitter",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Welded for multiple Tank companies. Both New Tank and Repair. SMAW, FCAW, GMAW, and SAW. Proficient in the use of a gouge as well.",
+      "highlights": ["CBI, Tanco, ATV, Bay Tank and Vessel, Cust-O-Fab, Inserv to name a few of the more known companies."]
+    }
+  ],
+  "volunteer": [],
+  "education": [],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "AWS Certified CWI",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "API Certified TES",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "API Certified 653",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "ASNT Level III",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Technical Skills",
+      "level": "",
+      "keywords": [
+        "API",
+        "Auto-Cad",
+        "closing",
+        "Inspector",
+        "materials",
+        "Excel",
+        "Microsoft Word",
+        "new construction",
+        "personnel",
+        "procurement",
+        "quality control",
+        "sales",
+        "scheduling",
+        "shell",
+        "technical support",
+        "Weld",
+        "Welder"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

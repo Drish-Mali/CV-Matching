@@ -1,0 +1,175 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Aviation Technician",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "I have grown up with a maintenance background having always worked on my own vehicles and equipment. I started my professional career in automotive as a lube technician. I was factory trained on Mitsubishi automobiles. After completing the Aviation Maintenance Technician Airframe and Powerplant licenses, I started working for SkyWest Airlines. I was trained on maintaining commuter aircraft. At this time I completed an Associates of applied science in aviation technology. I have always been interested in working professionally on helicopters and got the opportunity to work on EMS helicopters for Air Methods. Air Methods provided me with factory training on Bell Helicopters and Airbus Helicopters among other training opportunities.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Aviation Technician",
+      "url": "",
+      "startDate": "2007-10",
+      "endDate": "Current",
+      "summary": "Perform aircraft maintenance, preventative maintenance, repairs, and alterations. Research schedule inspections, and parts on BK117-C2, Bell 206, Bell 407, Bell 430, and Pilatus PC-12. Base mechanic and single mechanic on BK117-C2 at the main receiving facility",
+      "highlights": ["Dedicated worker", "Thorough troubleshooting", "Driven individual","Problem solving","Works well in group situations", "Knowledge of aircraft systems is in high regard","Willing and able to lead or train others","Caring individual"]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Turbomeca training center",
+      "url": "",
+      "area": "Turbomeca Arriel 1 Line 1 and 2 maintenance",
+      "studyType": "Course",
+      "startDate": "2013",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "American Eurocopter training center",
+      "url": "",
+      "area": "Model EC145 (BK117 C2) Airframe Field Maintenance",
+      "studyType": "Course",
+      "startDate": "2012",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Bell Helicopter Training Academy",
+      "url": "",
+      "area": "Bell model 407 Electrical Maintenance Training",
+      "studyType": "Course",
+      "startDate": "2011",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Rolls-Royce",
+      "url": "",
+      "area": "Rolls-Royce model 250 series IV FADEC training",
+      "studyType": "Training",
+      "startDate": "2010",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Grey Owl aviation consultants",
+      "url": "",
+      "area": "Human factors in maintenance",
+      "studyType": "Course",
+      "startDate": "2010",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Bell Helicopter Training Academy",
+      "url": "",
+      "area": "Bell model 407 Field Maintenance Training Course",
+      "studyType": "Course",
+      "startDate": "2007",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Skywest Airlines",
+      "url": "",
+      "area": "Advanced systems training on all models of aircraft",
+      "studyType": "Training",
+      "startDate": "2006",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Salt Lake Community College",
+      "url": "",
+      "area": "Aviation Technology",
+      "studyType": "Associate of Science",
+      "startDate": "",
+      "endDate": "2007",
+      "score": "3.89",
+      "courses": []
+    },
+    {
+      "institution": "Barber Brothers Mitsubishi",
+      "url": "",
+      "area": "Automotive training",
+      "studyType": "Training",
+      "startDate": "2003",
+      "endDate": "",
+      "score": "",
+      "courses": ["Mitsubishi MUT II scan tool training", "MUT III scan tool training", "Mitsubishi New Model training", "Mitsubishi MEDIC scan tool Training"]
+    },
+    {
+      "institution": "Woods Cross High School",
+      "url": "",
+      "area": "General studies",
+      "studyType": "High School Diploma",
+      "startDate": "",
+      "endDate": "2003",
+      "score": "Graduated with honors",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Presidents award",
+      "date": "",
+      "awarder": "Salt Lake Community College",
+      "summary": "Received Salt Lake Community College presidents award four times."
+    },
+    {
+      "title": "2nd place in skills USA state competition",
+      "date": "",
+      "awarder": "Skills USA",
+      "summary": "Received 2nd place in skills USA state competition for Aviation."
+    }
+  ],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Aviation systems troubleshooting",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Electrical troubleshooting",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Computer and IT systems repair",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Automotive diagnosis and repair",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

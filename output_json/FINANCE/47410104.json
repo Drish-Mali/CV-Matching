@@ -1,0 +1,125 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Finance Business Partner",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Finance Business Partner adept at effectively managing financial needs of various Corporate functions including auditing, and providing analytics of periodic performance results. Areas of expertise include budgeting, forecasting, allocations, cost reductions, project management and fostering client relationships.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Finance Business Partner",
+      "url": "",
+      "startDate": "2009-11-01",
+      "endDate": "Current",
+      "summary": "Responsible for financial planning of 5 - 6 corporate functions (Center of Excellence), including budgeting, forecasting, variance analysis, reporting with relevant analytics. Monthly financial review and recommend cost management. Responsible for completing financial and business reviews of various Hertz operations including the following: Sarbanes Oxley (SOX), NA Treasury and Financial Operations.",
+      "highlights": [
+        "Strategic and financial planning expert",
+        "Customer relations",
+        "SOX Compliance",
+        "Data trending and Projections",
+        "Oracle ERP (Enterprise Resource Planning), and Hyperion Planning software",
+        "Financial planning and forecasting, Data analysis"
+      ]
+    },
+	{
+	  "name": "Company Name",
+	  "position": "",
+	  "startDate": "2003-01-01",
+	  "endDate": "",
+	  "summary": "Analyzed historical data (transactions) to determined transaction rate that maximizes process flow at the store checkouts (point of sales).",
+	  "highlights": [
+	    "Identified lack of excess capacity at store checkouts points and under utilization of existing labor force (improper scheduling procedures)."
+	  ]
+	},
+	{
+	  "name": "Company Name",
+	  "position": "Manager",
+	  "startDate": "1998-01-01",
+	  "endDate": "2000-01-01",
+	  "summary": "Analyzed and introduced a financial profitability model that realized a 15% revenue growth from capitalizing on the spill over effect of competitor's promotion.",
+	  "highlights": [
+	    "Reorganized departmental structure and introduced electronic scan receiving procedures, which increased labor productivity and technological efficiency by 50%."
+	  ]
+	}
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "MONTCLAIR STATE UNIVERSITY",
+      "url": "",
+      "area": "Cultural Exchange Program",
+      "studyType": "",
+      "startDate": "1996-07-01",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+	{
+	  "institution": "GEORGETOWN UNIVERSITY, The Robert McDonough School of Business",
+	  "url": "",
+	  "area": "Finance and Operations",
+	  "studyType": "Master of Business Administration",
+	  "startDate": "2004-05-01",
+	  "endDate": "",
+	  "score": "",
+	  "courses": []
+	},
+	{
+	  "institution": "UNIVERSITY OF GHANA",
+	  "url": "",
+	  "area": "Statistics",
+	  "studyType": "Bachelor of Science",
+	  "startDate": "1996-04-01",
+	  "endDate": "",
+	  "score": "",
+	  "courses": ["Statistical Analysis and Mathematical theory"]
+	}
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Financial Skills",
+      "level": "Expert",
+      "keywords": ["Budgeting", "Cost management", "Financial Reporting & Analytics", "Investments and return on investment (ROI, NPV, and EVA)", "Process improvement", "Sarbanes Oxley", "Scheduling", "SOX - Tax footnotes", "Inventory Management", "Receiving", "sales"]
+    },
+	{
+	  "name": "Software Skills",
+	  "level": "Intermediate",
+	  "keywords": ["Oracle ERP (Enterprise Resource Planning)", "Hyperion Planning software"]
+	}
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": [
+    {
+      "name": "Process improvement",
+      "startDate": "",
+      "endDate": "",
+      "description": "Recommended a pull scheduling system to replace the generic scheduling procedure and training of employees to perform multifunctional roles that created dependable excess capacity. Increased cost efficiency, projected at $1.5M per annum.",
+      "highlights": [],
+      "url": ""
+    },
+	{
+	  "name": "Revenue Growth",
+	  "startDate": "",
+	  "endDate": "",
+	  "description": "Analyzed and introduced a financial profitability model that realized a 15% revenue growth from capitalizing on the spill over effect of competitor's promotion.",
+	  "highlights": ["Reorganized departmental structure and introduced electronic scan receiving procedures, which increased labor productivity and technological efficiency by 50%.", "This saved the company $3000 per week in payroll expense.", "Reduced inventory holding cost and doubled truck deliveries, eliminated excess storage charges incurred from truck deliveries, and enhanced company's just-in-time ordering process."],
+	  "url": ""
+    }
+  ]
+}

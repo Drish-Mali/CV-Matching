@@ -1,0 +1,123 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Aircraft Hydraulics Journeyman",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Seeking a position as a Stocker/Receiver for Paris Walmart Super Center. Adaptive team player with the ability to take and follow orders as well as take on other responsibilities as needed. Strongly committed to enhancing customer experience and boosting company success.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Home Health Care Provider",
+      "url": "",
+      "startDate": "2019-07-01",
+      "endDate": "2020-02-01",
+      "summary": "Worked to improve and enhance client lives through effective and compassionate care. Assisted residents with bathing, dressing, grooming, feeding, lifting and transferring...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Aircraft Hydraulics Systems Journeyman",
+      "url": "",
+      "startDate": "2016-04-01",
+      "endDate": "2019-05-01",
+      "summary": "Performed inspections, serviced systems, removed, repaired, and installed components. Performed basic machine set up and operation...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Home Health Care Provider",
+      "url": "",
+      "startDate": "2014-02-01",
+      "endDate": "2016-02-01",
+      "summary": "Worked to improve and enhance client lives through effective and compassionate care. Assisted residents with bathing, dressing, grooming, feeding, lifting and transferring...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Radiology Support Associate",
+      "url": "",
+      "startDate": "2009-02-01",
+      "endDate": "2011-02-01",
+      "summary": "Promptly answered multi-line phone system and greeted callers enthusiastically. Carefully relayed phone calls and messages to appropriate personnel...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Environmental Services Associate",
+      "url": "",
+      "startDate": "2008-02-01",
+      "endDate": "2009-02-01",
+      "summary": "Established and maintained clean and comfortable environments in hospital and administration buildings by vacuuming...",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Grant Union High School",
+      "url": "",
+      "area": "High School General Education",
+      "studyType": "High School Diploma",
+      "startDate": "",
+      "endDate": "2006-06-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Paris Junior College",
+      "url": "",
+      "area": "Kinesiology",
+      "studyType": "Associate of Science",
+      "startDate": "",
+      "endDate": "2013-05-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Sheppard Air Force Base",
+      "url": "",
+      "area": "Aircraft Hydraulics Systems 2A635",
+      "studyType": "Graduation of Aircraft Hydraulics Systems",
+      "startDate": "",
+      "endDate": "2016-12-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Paris Junior College",
+      "url": "",
+      "area": "Mechatronics",
+      "studyType": "Associate of Applied Science",
+      "startDate": "",
+      "endDate": "2022-01-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Aircraft Hydraulics",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

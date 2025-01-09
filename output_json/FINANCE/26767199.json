@@ -1,0 +1,126 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Finance Manager",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Flexible Financial Manager with the ability to multi-task, meet deadlines, communicate effectively, develop and motivate staff, general accounting and financial reporting for private and public companies.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "US",
+      "region": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Finance Manager",
+      "url": "",
+      "startDate": "2007-12",
+      "endDate": "Current",
+      "summary": "Prepare monthly and quarterly analytics for income statement, balance sheet, budget to actual variances, and earnings by source. Review and sign off on GAAP and Statutory journal entries into PeopleSoft general ledger. Prepare GAAP to Statutory reconciliation by product and write commentary for variances. Prepare quarterly and annual Statutory reporting package by entity financial information, for senior management...",
+      "highlights": [
+        "Implemented process improvements for EBS (Earnings by Source) and Statutory reporting reducing closing time by two days.",
+        "Conducted detailed reconciliation on Policy loans for the State of Connecticut insurance audit.",
+        "Reviewed, and streamline FAS 97 journal entry process, reducing closing time by a day."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Accounting Manager",
+      "url": "",
+      "startDate": "2002-02",
+      "endDate": "2007-12",
+      "summary": "Led monthly and year end close process, account analysis and financial statement reconciliations. Assisted CFO in group consolidation, monthly variance analysis and operational reporting. Reconciled inter-company, bank and credit card accounts. Maintained fixed assets schedule and applied monthly depreciation expense...",
+      "highlights": [
+        "Participated in MAS90 financial software implementation, evaluation and conversion and signed-of on completion.",
+        "Streamlined the banking process to increase cash flow for domestic and overseas business."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Accounting Supervisor",
+      "url": "",
+      "startDate": "1995-04",
+      "endDate": "2002-02",
+      "summary": "Prepare weekly and bi-weekly in-house payroll for 300+ employees. Prepared and Reconciled benefits plan reports and registered company for multi-state tax. Prepared and filed weekly and bi-weekly federal and state payroll taxes. Supervised a staff of six (A/P, A/R, Billing, Payroll, Collections and Human Resources)...",
+      "highlights": [
+        "Coordinated quarterly audits with company's external auditors. Resolve and follow-up with accounting or auditing issues."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Rutgers University",
+      "url": "https://www.rutgers.edu/",
+      "area": "Accounting",
+      "studyType": "Master of Science",
+      "startDate": "2013",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Kean University",
+      "url": "https://www.kean.edu/",
+      "area": "Accounting",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Finance Management",
+      "level": "",
+      "keywords": [
+        "GAAP", 
+        "STAT", 
+        "GASB", 
+        "FAS60", 
+        "FAS97", 
+        "FAS133", 
+        "SOX compliance", 
+        "PeopleSoft general ledger"
+      ]
+    },
+    {
+      "name": "Computer Skills",
+      "level": "",
+      "keywords": [
+        "ACCPAC Plus", 
+        "ADP", 
+        "Aggreso", 
+        "Business Works", 
+        "Cognos Power Play", 
+        "Fixed Assets Sage Best Software", 
+        "Hyperion", 
+        "Future Proof", 
+        "Jantek", 
+        "Lotus",
+        "Notes", 
+        "Oracle", 
+        "Mas90/Mas200 Sage Software", 
+        "Peachtree", 
+        "PeopleSoft", 
+        "Quick Books", 
+        "Real World", 
+        "Microsoft office products"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

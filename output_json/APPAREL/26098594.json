@@ -1,0 +1,124 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Owner/Attorney and Mediator",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "As an attorney for over 25 years, I have helped individuals and businesses all over Northern Ohio BUILD FUTURES, primarily in the areas of contracts, divorce mediation, elder care, employment, estates, family law, probate, property law, trusts, & wills.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Northern Ohio",
+      "countryCode": "US",
+      "region": "Ohio"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Owner/Attorney and Mediator",
+      "url": "",
+      "startDate": "2001-01",
+      "endDate": "Current",
+      "summary": "Gather evidence to formulate defense or initiate legal actions, analyze the probable outcomes of cases using knowledge of legal precedents.",
+      "highlights": [
+       "Arranged and conduct depositions, negotiate settlements of civil disputes, advise clients concerning business transactions, claims liability, and various legal rights & obligations."
+      ]
+    },
+	{
+      "name": "Company Name",
+      "position": "Founding & Initial Director",
+      "url": "",
+      "startDate": "1995-03",
+      "endDate": "1996-06",
+      "summary": "Researched and submitted grant proposals to the Cleveland and Gund Foundations",
+      "highlights": [
+       "Developed forms and procedures to facilitate mediation process, recruited and selected initial applicants."
+      ]
+    },
+	{
+      "name": "Company Name",
+      "position": "Assistant Director of Law",
+      "url": "",
+      "startDate": "1986-03",
+      "endDate": "1988-08",
+      "summary": "Advised on legal services for the City of Cleveland in Litigation.",
+      "highlights": []
+    },
+	{
+      "name": "Company Name",
+      "position": "Manager, Assistant, Manager-in-Training",
+      "url": "",
+      "startDate": "1976-08",
+      "endDate": "1980-08",
+      "summary": "Managed a series of ladies apparel department stores in Northeast Ohio.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Cleveland-Marshall College of Law, Cleve. State Univ",
+      "url": "",
+      "area": "Law",
+      "studyType": "J.D",
+      "startDate": "",
+      "endDate": "1983",
+      "score": "Cum laud, rank 11th",
+      "courses": []
+    },
+	{
+      "institution": "Normandy High School",
+      "url": "",
+      "area": "College Prep",
+      "studyType": "Diploma with Honors",
+      "startDate": "",
+      "endDate": "1971",
+      "score": "Cum laud in English",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [
+    {
+      "name": "Mediation: An Idea Whose Time has Come",
+      "publisher": "Kirtland Business Rev., Lakeland Community College",
+      "releaseDate": "",
+      "url": "",
+      "summary": ""
+    },
+	{
+      "name": "The Ethical Utilization of Paralegals in Ohio",
+      "publisher": "Cleveland State Univ., 45 Cleve. State Law Rev. 711",
+      "releaseDate": "1997",
+      "url": "",
+      "summary": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Leadership",
+      "level": "Expert",
+      "keywords": [
+        "Human resources",
+        "Estate planning & taxes",
+        "Negotiations",
+        "Legal Research",
+        "Writing"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

@@ -1,0 +1,75 @@
+{
+  "basics": {
+    "name": "Anonymous",
+    "label": "Engineering Manager",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Experienced Engineering Manager with extensive knowledge in tool service, punch manufacturing, and cinematic programming.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": [
+    ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Engineering Manager",
+      "url": "",
+      "startDate": "2008-02-01",
+      "endDate": "Current",
+      "summary": "Worked as an Engineering Manager, responsible for managing the tool room, tool service, and punch manufacturing departments. Provide engineering support for supervisors and work on the shop floor with emphasis on problem-solving.",
+      "highlights": [
+        "Managed tool room, tool service, and punch manufacturing departments.",
+        "Worked on researching, planning, and executing capital projects.",
+        "Provided technical support to inside customer service and interacted with customers.",
+        "Trained employees in the operation of new equipment and new manufacturing processes."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "West Virginia Institute of Technology",
+      "url": "",
+      "area": "Mechanical Engineering",
+      "studyType": "B.S.",
+      "startDate": "",
+      "endDate": "1992-12",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Engineering Management",
+      "level": "Expert",
+      "keywords": [
+        "Drafting",
+        "Cinematic Programming",
+        "Engineering Support",
+        "Cost Estimating",
+        "Problem Solving",
+        "Plasma",
+        "Brakes",
+        "Stamping",
+        "Tool Room",
+        "AutoCAD",
+        "Press Brakes"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

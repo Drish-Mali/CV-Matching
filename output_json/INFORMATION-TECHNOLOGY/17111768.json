@@ -1,0 +1,129 @@
+{
+  "basics": {
+    "name": "N/A",
+    "label": "Information Technology Project Manager System Analysis (SYSANALSYS) [GS-2210-12]",
+    "image": "",
+    "email": "N/A",
+    "phone": "N/A",
+    "url": "N/A",
+    "summary": "Highly-qualified Department of Defense (DoD) Program Manager (PM) professional, driven to maximize Mission Partner (MP) operational efficiency through planning, project management and Infrastructure Technology (IT) expertise.",
+    "location": {
+      "address": "N/A",
+      "postalCode": "N/A",
+      "city": "N/A",
+      "countryCode": "N/A",
+      "region": "N/A"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Information Technology Project Manager System Analysis (SYSANALSYS) [GS-2210-12]",
+      "url": "N/A",
+      "startDate": "2010-01-01",
+      "endDate": "Current",
+      "summary": "Member of the Development and Business Center for Defense Logistics Agency (DLA), Defense Finance and Accounting Service (DFAS) Program Management Office (PMO), as well as the Mission Partner Engagement Office (MPEO)/Engagement Executive (EE) team (BDM11).",
+      "highlights": ["Holds Active Security Clearance"]
+    },
+    {
+      "name": "Company Name",
+      "position": "N/A",
+      "url": "N/A",
+      "startDate": "2010-01-01",
+      "endDate": "2014-01-01",
+      "summary": "N/A",
+      "highlights": ["Training: Action Officer Course, Acquisition Training 101, Aspiring Leaders, Briefing Techniques, Customer Service Excellence, Empowerment, Interpersonal Communication, Network Operations 100, Planning, Programming, Budgeting and Execution course, Teambuilding, This Is Transforming DISA"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Computer Technician Specialist",
+      "url": "N/A",
+      "startDate": "2009-08-01",
+      "endDate": "2010-01-01",
+      "summary": "Managed, provisioned, configured, built and staged operational computer systems for Navy/Marine Corps Intranet project",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "IT Specialist STEP (Student Technology Education Program)",
+      "url": "N/A",
+      "startDate": "2008-03-01",
+      "endDate": "2009-08-01",
+      "summary": "Reported to Lead Supervisor of DISA Naval service desk support. Independently managed and filed data tape entry into appropriate storage drives Consistently received excellent evaluations on reviews",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Shippensburg University",
+      "url": "N/A",
+      "area": "Organizational Development and Leadership (ODL)",
+      "studyType": "Master",
+      "startDate": "N/A",
+      "endDate": "2015-12-31",
+      "score": "N/A",
+      "courses": ["Applied Organizational Leadership and Analysis", "Ethics for Public Service Managers", "Leadership, Charge and Innovation", "Leadership, Theory and Practice", "Policy Implementation and Administration", "Public Policy Analysis", "Organizational Theory and Behavior", "Research Methods"]
+    },
+    {
+      "institution": "YTI Career Technical Instituation",
+      "url": "N/A",
+      "area": "Network and Internet Security Administration (NISA)",
+      "studyType": "Associate",
+      "startDate": "N/A",
+      "endDate": "2009-12-31",
+      "score": "N/A",
+      "courses": ["Applications", "Computer hardware and technology", "Operating systems and provisioning", "Virtual machines", "Security and system hardening", "Network configurations", "Backup imaging and disaster recovery"]
+    },
+    {
+      "institution": "Millersville University",
+      "url": "N/A",
+      "area": "Sociology",
+      "studyType": "Bachelor",
+      "startDate": "N/A",
+      "endDate": "2006-12-31",
+      "score": "N/A",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "CompTIA Security+",
+      "date": "N/A",
+      "issuer": "CompTIA",
+      "url": ""
+    },
+    {
+      "name": "Information Technology Infrastructure Library (ITIL) Foundation Certification in IT Service Management",
+      "date": "N/A",
+      "issuer": "Axelos",
+      "url": ""
+    },
+    {
+      "name": "The Project Management Professional (PMP) Certification",
+      "date": "N/A",
+      "issuer": "Project Management Institute",
+      "url": ""
+    },
+    {
+      "name": "Microsoft Project 2010 Level 1 and 2 Training",
+      "date": "N/A",
+      "issuer": "Microsoft",
+      "url": ""
+    },
+    {
+      "name": "Defense Acquisition University: Developing a Systems Engineering Plan",
+      "date": "N/A",
+      "issuer": "Defense Acquisition University",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

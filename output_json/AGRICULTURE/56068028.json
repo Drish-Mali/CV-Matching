@@ -1,0 +1,150 @@
+{
+  "basics": {
+    "name": "Lead Senior SAP Auditor",
+    "label": "Auditor",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Insightful, results-driven IT professional and CISSP with 6 years of risk assurance advisory experience in information technology security...",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "",
+      "region": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Lead Senior SAP Auditor",
+      "url": "",
+      "startDate": "2014-02-01",
+      "endDate": "Current",
+      "summary": "Evaluated the effectiveness of corporate security policies and influence best practice change...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Senior SAP Security and Control Consultant",
+      "url": "",
+      "startDate": "2010-09-01",
+      "endDate": "2014-01-01",
+      "summary": "Conducted system security assessments based on NIST 800-53 for a public sector...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Audit Intern",
+      "url": "",
+      "startDate": "2010-01-01",
+      "endDate": "2010-08-01",
+      "summary": "Assessed the accessibility for 2 University of Texas websites accessed by 30,000+ users...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "IT Audit Intern",
+      "url": "",
+      "startDate": "2009-01-01",
+      "endDate": "2009-08-01",
+      "summary": "Worked with Team Manager to consolidate 3 excel reports into one dashboard to monitor the 10-student team productivity...",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "McCombs School of Business; University of Texas at Austin",
+      "url": "",
+      "area": "Accounting",
+      "studyType": "Master",
+      "startDate": "2009-01-01",
+      "endDate": "2009-12-31",
+      "score": "3.7",
+      "courses": []
+    },
+    {
+      "institution": "Jinan University; Guangzhou, China",
+      "url": "",
+      "area": "Accounting",
+      "studyType": "B.S",
+      "startDate": "2008-01-01",
+      "endDate": "2008-12-31",
+      "score": "4.0",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Applause awards for Excellent Engagement Performance",
+      "date": "",
+      "awarder": "Deloitte",
+      "summary": "Earned 5 times."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certified Public Accountant (CPA)",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "Certified Information System Security Professional (CISSP)",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "Certificate of Cloud Security Knowledge (CCSK)",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "Certified Internal Auditor (CIA)",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "Certified Information System Auditor (CISA)",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "Industry Proficiency certified in Oil & Gas and Public Sector",
+      "date": "",
+      "issuer": "Deloitte",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "IT Professional",
+      "level": "Master",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [
+    {
+      "name": "Cycling and obstacle racing",
+      "keywords": ["Competitive mindset"]
+    },
+    {
+      "name": "Travel",
+      "keywords": ["25 countries in 2 years"]
+    },
+    {
+      "name": "House improvement projects",
+      "keywords": ["Passionate"]
+    }
+  ],
+  "references": [],
+  "projects": []
+}

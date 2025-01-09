@@ -1,0 +1,115 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Senior Accountant",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Experienced Senior Corporate Accountant dedicated to accounting and financial excellence, seeking to utilize skills and in-depth expertise in Accounting (GAAP), General Ledger Reconciliation, Variance Analysis, Financial Reporting, Team Management and Process Improvement to help achieve your company's goals.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "USA",
+      "region": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Senior Accountant",
+      "url": "",
+      "startDate": "2011-09-01",
+      "endDate": "2014-08-01",
+      "summary": "Special Project: Clear aged variances from Fixed Maintenance & Prepaid Maintenance GL Accounts",
+      "highlights": ["Worked with Project Manager and Financial Adjustments to clear aged variances"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Corporate Tax Analyst",
+      "url": "",
+      "startDate": "2011-01-01",
+      "endDate": "2018-11-01",
+      "summary": "Established excel spreadsheet project for Texas Unclaimed Property Penalty & Interest Assessment of over $1.7 million",
+      "highlights": ["Saved the company over $1.7 million"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Staff Accountant",
+      "url": "",
+      "startDate": "2009-09-01",
+      "endDate": "2009-12-01",
+      "summary": "Public accounting; Accounting, Tax and Auditing Services; Compilations and Reviews",
+      "highlights": ["Tax preparation", "Payroll tax and sales tax calculations"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Financial Advisor",
+      "url": "",
+      "startDate": "2003-11-01",
+      "endDate": "2009-09-01",
+      "summary": "Financial planning; comprehensive and target planning; asset allocation and investment selection and sales",
+      "highlights": ["401k rollovers", "Retirement planning"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of North Florida",
+      "url": "",
+      "area": "Business Administration, Accounting & Finance",
+      "studyType": "MBA",
+      "startDate": "",
+      "endDate": "2001",
+      "score": "",
+      "courses": [""]
+    },
+    {
+      "institution": "",
+      "url": "",
+      "area": "Accounting",
+      "studyType": "BBA - Accounting, CPA qualified candidate",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": [""]
+    },
+    {
+      "institution": "",
+      "url": "",
+      "area": "Finance",
+      "studyType": "BBA - Finance, CFP qualified candidate",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": [""]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Microsoft Excel",
+      "level": "Expert",
+      "keywords": ["Pivot Tables", "V-Lookups", "Formulas"]
+    },
+    {
+      "name": "Peoplesoft",
+      "level": "",
+      "keywords": ["Peoplesoft use & knowledge - Queries & data mining"]
+    },
+    {
+      "name": "InfoLease",
+      "level": "",
+      "keywords": ["for Lease and Financial Accounting & CITConnect Research"]
+    },
+    {
+      "name": "Internet Accounting, Finance and Tax Research",
+      "level": "",
+      "keywords": ["Lexis-Nexis", "CCH & RIA Tax Research" ,"STAT- FSI Track ", "Ultra Tax ", "IMAGE Scanner", "Asset Manager","10-key","Printers & Scanners","general office tools", "QuickBooks"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

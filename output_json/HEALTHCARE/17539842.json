@@ -1,0 +1,117 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Teacher Assistant",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Seeking a challenging position with a company where my skills would be fully utilized.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name �",
+      "position": "Teacher Assistant",
+      "url": "",
+      "startDate": "Sep 2010",
+      "endDate": "Current",
+      "summary": "Teacher assistant responsible for helping prepare materials, enforce school policies, perform clerical duties, supervise students, communicate effectively, assist students experiencing difficulties, and participate in meetings and training programs.",
+      "highlights": ["Help teacher prepare materials and assignments for instruction."]
+    },
+    {
+      "name": "Company Name �",
+      "position": "Office Assistant",
+      "url": "",
+      "startDate": "Oct 2015",
+      "endDate": "Jan 2016",
+      "summary": "Office Assistant responsible for answering phones, greeting clients, coordinating messenger service, distributing mail, maintaining office area.",
+      "highlights": ["Answered phones and transferred to the appropriate staff member."]
+    },
+    {
+      "name": "Company Name �",
+      "position": "Special Education Teacher Assistant",
+      "url": "",
+      "startDate": "Aug 2013",
+      "endDate": "Jul 2014",
+      "summary": "Special Education Teacher Assistant, overseeing the progress and support of students with special needs.",
+      "highlights": ["Provided extra assistance to students with special needs, such as non-English-speaking students or those with physical and mental disabilities."]
+    },
+    {
+      "name": "Company Name �",
+      "position": "Certified Nursing Assistant",
+      "url": "",
+      "startDate": "Apr 2005",
+      "endDate": "May 2005",
+      "summary": "Performed duties in care of patients in their home under the direction of nursing and medical staff.",
+      "highlights": ["Performed duties in care of patients in their home under direction of nursing and medical staff."]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Wake Tech Community College",
+      "url": "",
+      "area": "Administrative Assistant",
+      "studyType": "Certificate",
+      "startDate": "",
+      "endDate": "2016",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Continental Academy High School",
+      "url": "",
+      "area": "",
+      "studyType": "High School Diploma",
+      "startDate": "",
+      "endDate": "2001",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Nursing Assistant",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "North Carolina Interventions",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Organizational Skills",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Verbal Communication Skills",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Typing Skills",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

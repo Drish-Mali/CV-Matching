@@ -1,0 +1,97 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Engineering Lab Technician",
+    "email": "",
+    "phone": "",
+    "location": {
+      "address": "",
+      "city": "City",
+      "region": "State",
+      "countryCode": "US"
+    },
+    "summary": "My main objective in seeking employment with Triumph Actuation Systems Inc. is to work in a professional atmosphere where I can utilize my skills and continue to gain experience in the aerospace industry to advance in my career."
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Engineering Lab Technician",
+      "startDate": "2016-10",
+      "endDate": "Current",
+      "summary": "Responsible for testing various seat structures to meet specific certification requirements. Maintain and calibrate test instruments. Ensure data is captured and recorded correctly for certification test reports",
+      "highlights": [
+        "Dynamic test set-up",
+        "Static suite testing"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Engineering Lab Technician, Sr. Specialist",
+      "startDate": "2012-04",
+      "endDate": "2016-10",
+      "summary": "Applied engineering principles to operate electrical, mechanical, and hydraulic systems to test pumps, motors, actuators for aircraft",
+      "highlights": [
+        "Completed Lean Six Sigma/5s training seminar"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Assembly/ Test Technician",
+      "startDate": "2007-03",
+      "endDate": "2012-03",
+      "summary": "Lead technician overseeing three-member crew responsible for maintaining high quality standards in a high volume production environment",
+      "highlights": [
+        "Worked closely with Engineering Group and Quality Assurance inspectors to resolve problems with development actuators"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Munitions Systems Journeyman",
+      "startDate": "2003-03",
+      "endDate": "2007-03",
+      "summary": "Responsible for certifying small arms, actuation devices, bombs, rockets and other munitions items.",
+      "highlights": [
+        "Supervised work crews of 3-5 men while supporting USAF aircraft during Operation Enduring Freedom."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Forsyth Technical Community College",
+      "area": "Applied Science Electronics Engineering",
+      "studyType": "Associates",
+      "startDate": "2011",
+      "endDate": "2011"
+    },
+    {
+      "institution": "Community College of the Air Force",
+      "area": "Applied Science, Munitions Systems Technology",
+      "studyType": "Associates",
+      "startDate": "2007",
+      "endDate": "2007"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Labview",
+      "level": "Master"
+    },
+    {
+      "name": "Mechanical",
+      "level": "Master"
+    },
+    {
+      "name": "Electrical",
+      "level": "Master"
+    },
+    {
+      "name": "Hydraulic Testing",
+      "level": "Master"
+    },
+    {
+      "name": "Test Stand Fabrication",
+      "level": "Master"
+    }
+  ],
+  "interests": []
+}

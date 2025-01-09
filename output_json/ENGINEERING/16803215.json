@@ -1,0 +1,112 @@
+{
+  "basics": {
+    "name": "Kailie Marie Mahea'lani Graciidis",
+    "label": "Engineering Assistant",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "An ambitious 20 year old and also a part-time student at Bellevue College. Has a desire to work in the ocean one day and to also manage own online company.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Stanbury Electrical Engineering",
+      "position": "Engineering assistant",
+      "url": "",
+      "startDate": "2012-06-01",
+      "endDate": "2013-06-01",
+      "summary": "Built and repaired chargers for forklifts. Rendered technical drawings and electrical systems specifications. Monitored the manufacture of electrical devices and operations to ensure compliance with safety protocols.",
+      "highlights": []
+    }, 
+    {
+      "name": "Not Provided",
+      "position": "Receptionist",
+      "url": "",
+      "startDate": "2013-08-01",
+      "endDate": "2014-10-01",
+      "summary": "Took calls, wrote down appointments etc. Cleaned floors, glass cases, windows and machinery. Organized makeup/hair display.",
+      "highlights": []
+    },
+    {
+      "name": "BigFoot Java",
+      "position": "Barista",
+      "url": "",
+      "startDate": "2014-06-01",
+      "endDate": "2015-01-01",
+      "summary": "Made high-quality beverages, provided customer service, stocked and organized the merchandise, counted supplies in the store and covered emergency shifts.",
+      "highlights": []
+    },
+    {
+      "name": "Not Provided",
+      "position": "Nanny",
+      "url": "",
+      "startDate": "2015-01-01",
+      "endDate": "2015-06-01",
+      "summary": "Provided care for two little boys, ensured good hygiene, conducted critical thinking activities, played active games and tidied the house.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Mount Si High School",
+      "area": "",
+      "studyType": "High School",
+      "startDate": "",
+      "endDate": "2014",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Bellevue College",
+      "area": "",
+      "studyType": "College",
+      "startDate": "2014",
+      "endDate": "Current",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Problem solving",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Teamwork",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Interpersonal skills",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Attention to detail",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Computer proficiency",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Time management",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

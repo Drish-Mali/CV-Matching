@@ -1,0 +1,109 @@
+{
+  "basics": {
+    "name": "No Name Provided",
+    "label": "Tax Examining Clerk",
+    "email": "Not Provided",
+    "phone": "Not Provided",
+    "url": "Not Provided",
+    "summary": "Driven claim specialist bringing 10 years experience in the field of insurance with an emphasis on automobile claims. Trained in all aspects of insurance property and liability claims. Employs high-level negotiation skills in resolving claims to the satisfaction of all involved parties. Analytical thinker and innovative problem solver.",
+    "location": {
+      "address": "Not Provided",
+      "postalCode": "Not Provided",
+      "city": "Not Provided",
+      "countryCode": "Not Provided",
+      "region": "Not Provided"
+    },
+    "profiles": [],
+    "skills": [
+      {
+        "name": "Skills",
+        "level": "Expert",
+        "keywords": [
+          "accounting",
+          "Accounts Payable and Receivable",
+          "Cashiering",
+          "CA",
+          "CPT",
+          "Data entry",
+          "databases",
+          "ICD-9",
+          "Inspect",
+          "Inventory Control",
+          "Access",
+          "Microsoft Access",
+          "Excel",
+          "policies",
+          "profit",
+          "programming",
+          "proposals",
+          "Reconciling",
+          "maintain files",
+          "Research",
+          "sales",
+          "San",
+          "Scheduling",
+          "tax",
+          "telephone"
+        ]
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Tax Examining Clerk",
+      "url": "Not Provided",
+      "startDate": "January 2013",
+      "endDate": "June 2015",
+      "summary": "Adjust tax liability on1040X amended returns. Take corrective actions to process and close a case, such as adjusting taxpayer's account, penalties or credits, and computing tax liability. Research pertinent tax data through IDRS, databases, accounting records and available relevant systems. Assign case referrals requiring further examination per the tax code. Recognize indications of tax fraud. Process statute and potential statute cases, and ensure that all statutes are correct. Recognize problem areas with reference material and offer solutions. Maintain a fully successfully level processing over 11.2 documents per hour with virtually a 100% accuracy rate.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Business Owner/Manager",
+      "url": "Not Provided",
+      "startDate": "September 1997",
+      "endDate": "December 2010",
+      "summary": "Managed the operational activities of a dairy distribution business. Maximized company revenue by creating databases and spreadsheets to improve inventory control and cost-and-risk analysis. Maintained account plans for 100 customer accounts. Improved communication efficiency as primary liaison for customers and vendors. Maintained high levels of customer satisfaction through offering after-hour deliveries and preserving positive customer rapport...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Claim Specialist",
+      "url": "Not Provided",
+      "startDate": "September 1990",
+      "endDate": "February 2000",
+      "summary": "Process first and third-party auto liability and property damage claims in accordance with laws, regulations and policies. Reduced loss ratios through fair and prompt processing of claims. Identified and collected evidence and determined its value to a specific claim...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Customer Service Representative",
+      "url": "Not Provided",
+      "startDate": "January 1986",
+      "endDate": "January 1988",
+      "summary": "Managed the receptionist area, including greeting visitors and responding to telephone and in-person requests for information. Maintained electronic and paper files. Wrote reports and correspondence from dictation and handwritten notes...",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "California State University of San Bernardino",
+      "url": "Not Provided",
+      "area": "Computer Science",
+      "studyType": "Bachelor of Science",
+      "startDate": "Not Provided",
+      "endDate": "Not Provided",
+      "score": "GPA: 3.13",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

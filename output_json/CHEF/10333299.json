@@ -1,0 +1,109 @@
+{
+  "basics": {
+    "name": "John Doe",
+    "label": "General Manager / Executive Chef",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Dedicated leader with over 15-year track record as an organized administrative professional with hands-on experience supporting business areas such as accounting, database management and human resources. Collaborative team player with strong communication, decision-making and time management abilities.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "US",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "General Manager / Executive Chef",
+      "url": "",
+      "startDate": "June 2014",
+      "endDate": "October 2015",
+      "summary": "Coordinated all department functions for restaurant staff. Updated employee paperwork and time records. Liaised directly with customers to meet needs and maintain satisfaction. Maintained detailed administrative and procedural processes to improve accuracy and efficiency. Achieved notable successes in cost control, revenue generation and marketing effectiveness.",
+      "highlights": ["Coordinated all department functions"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "",
+      "url": "",
+      "area": "GED",
+      "studyType": "GED",
+      "startDate": "1988",
+      "endDate": "",
+      "score": "",
+      "courses": [
+        "Basic Vocational Certificate: Restaurant Operations",
+        "Basic Vocational Certificate: Culinary Management",
+        "Coursework in Business, Restaurant and Hotel Management"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Advertising",
+      "level": "Master",
+      "keywords": [
+        "Automobiles",
+        "Consultant",
+        "Customer Relations",
+        "Data Management",
+        "Financial Planning",
+        "Food safety",
+        "Hiring",
+        "Inventory Control",
+        "Inventory Management",
+        "Managing",
+        "marketing",
+        "Network design",
+        "Network",
+        "New Construction",
+        "Payroll",
+        "Performance Appraisals",
+        "Personnel",
+        "Policies",
+        "Project Management",
+        "Restaurant Operations",
+        "Retail",
+        "Safety",
+        "Sales",
+        "Spanish Speaking",
+        "Supervision",
+        "Telecommunications"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Cooking",
+      "keywords": [
+        "computers",
+        "sailing",
+        "golf",
+        "travel",
+        "working",
+        "family"
+      ]
+    }
+  ],
+  "references": [],
+  "projects": [],
+  "volunteer": [],
+  "awards": [],
+  "publications": [],
+  "certificates": []
+}

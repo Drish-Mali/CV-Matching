@@ -1,0 +1,120 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Stylist",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "An internship opportunity under the Marketing Director of AKIRA Chicago, where I can demonstrate my knowledge of market trends and customer needs to help create innovative and effective marketing strategies.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "State",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Stylist",
+      "url": "",
+      "startDate": "2015-04-01",
+      "endDate": "Current",
+      "summary": "Pulled entire wardrobes for clients, styling them from head to toe in our merchandise. Built a strong client base that remained loyal to myself and the brand. Made clients and customers feel welcome through excellent customer service. Upsell and suggest items to customers in order to exceed personal KPI stats ($80 per transaction, 3.0 units per transaction, $300 an hour). Created and hosted client shopping events for my loyal customer base to increase the the store's end of day sales by 15%.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Keyholder",
+      "url": "",
+      "startDate": "2014-11-01",
+      "endDate": "2015-04-01",
+      "summary": "Promoted a work environment that is positive, customer-service oriented, and compliant with established company policies and procedures. Monitored the activities of the store employees to maximize efficiency and respond to customers' needs in a timely fashion. Supervised sales floor ensuring key selling zones are covered. Cashier duties. Opening and closing the store.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Sales Associate",
+      "url": "",
+      "startDate": "2014-02-01",
+      "endDate": "2014-11-01",
+      "summary": "Greet and develop rapport with customers. Provide product information regarding features, trends, and styles of merchandise. Assisted customers and made suggestions based on knowledge of merchandise and customer. Maintained neat and organized merchandise through straightening, hanging, sizing, and merchandising.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Illinois Advocate Masonic Health Center",
+      "position": "Pre-Health Volunteer",
+      "url": "",
+      "startDate": "2013-01-01",
+      "endDate": "2013-12-31",
+      "summary": "Provided companionship for patients and support for families in surgery lounge and critical care waiting areas. Greeted visitors at points of entry as well as escorted and directed visitors as necessary. Assisted visitors at information desk with various inquiries, answered incoming calls, and provided wheelchair assistance.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "DePaul University",
+      "url": "",
+      "area": "Marketing",
+      "studyType": "BBA",
+      "startDate": "2015-01-01",
+      "endDate": "2019-01-01",
+      "score": "3.0",
+      "courses": ["Accounting 101", "Economics 105", "Professional Business Writing", "Business Ethics"]
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Enthusiasm, Friendliness, Personability",
+      "level": "Advanced",
+      "keywords": []
+    },
+    {
+      "name": "Problem-solving",
+      "level": "Advanced",
+      "keywords": []
+    },
+    {
+      "name": "Adaptability",
+      "level": "High",
+      "keywords": []
+    },
+    {
+      "name": "English, Spanish",
+      "level": "Bilingual",
+      "keywords": []
+    },
+    {
+      "name": "Communication skills",
+      "level": "Effective",
+      "keywords": []
+    },
+    {
+      "name": "Teamwork, Individual work",
+      "level": "Proficient",
+      "keywords": []
+    },
+    {
+      "name": "HTML 5, CSS",
+      "level": "Working knowledge",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Word, PowerPoint, Excel",
+      "level": "Intermediate",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

@@ -1,0 +1,119 @@
+{
+  "basics": {
+    "name": "",
+    "label": "HEALTH CARE ADMINISTRATOR",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "",
+      "region": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Health Care Administrator",
+      "url": "",
+      "startDate": "2015-04",
+      "endDate": "2017-05",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Executive Director",
+      "url": "",
+      "startDate": "2013-04",
+      "endDate": "2015-04",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Community Relations Director",
+      "url": "",
+      "startDate": "2012-03",
+      "endDate": "2013-04",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Licensed Insurance Agent",
+      "url": "",
+      "startDate": "2006-01",
+      "endDate": "2013-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Patient Relations Coordinator",
+      "url": "",
+      "startDate": "2001-01",
+      "endDate": "2006-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Advanced Sales Director",
+      "url": "",
+      "startDate": "1994-01",
+      "endDate": "2000-01",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "The University of Alabama",
+      "url": "",
+      "area": "Risk and Benefits Management",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "1985",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Key Skills",
+      "level": "",
+      "keywords": [
+        "advertising", "agency", "balance", "benefits", "budget", "consultant", "creativity", "address customer complaints", "client", 
+        "customer satisfaction", "customer service experience", "customer service", "Customer Service Training", "special events", "Fashion",
+        "features", "financial", "Home Health", "Hospice", "inspiration", "Insurance", "legal", "letters", "Director", "marketing strategies",
+        "marketing", "Market", "Marketing Material", "meetings", "Office", "win", "nursing", "patient flow", "quality", "sales", "Surgery", 
+        "teamwork", "phone", "training programs"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [
+    {
+      "name": "Interests",
+      "keywords": [
+        "Creating memorable events for military functions, wedding and party planning",
+        "Developing training program for 2 and 3 session cake decorating classes for both adults and children",
+        "Camping",
+        "Kayak",
+        "Travel"
+      ]
+    }
+  ],
+  "references": [],
+  "projects": []
+}

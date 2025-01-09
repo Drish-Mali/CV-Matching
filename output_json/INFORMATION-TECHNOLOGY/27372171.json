@@ -1,0 +1,106 @@
+{
+  "basics": {
+    "name": "Information Technology Specialist/System Analysis",
+    "label": "Information Technology Specialist",
+    "email": "",
+    "phone": "",
+    "summary": "I have over 10 years of professional service in Information Technology Support and Technical Operations in working with the Federal Government and private sectors. I have a broad knowledge and expertise in strategic planning, IT Business Systems, Network Operations, IT Security and System Analysis.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "",
+        "username": "",
+        "url": ""
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Information Technology Specialist/System Analysis",
+      "url": "",
+      "startDate": "2015-02",
+      "endDate": "2016-05",
+      "summary": "Serve as IT System Analyst; assist with business improvement efforts, responsible for the physical setup of computer workstations, configuration of Microsoft Outlook 2013, operation, and integration of hardware and software components associated with databases that support the Department of The Army. Manage IT related issues in through trouble ticketing system known as Remedy.",
+      "highlights": [
+        "Worked with private sectors.",
+        "Technical expertise in IT Security and System Analysis."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Data Entry Specialist",
+      "url": "",
+      "startDate": "2004-03",
+      "endDate": "2006-04",
+      "summary": "Process data entry and transmits data to appropriate site. Edits and performs quality assurance and quality control checks during the input of data from source documents.",
+      "highlights": [
+        "Quality assurance and control checks during data input.",
+        "Process data entry."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "GRANTHAM UNIVERSITY",
+      "url": "",
+      "area": "Information Management Technology",
+      "studyType": "Master of Science",
+      "startDate": "",
+      "endDate": "2017",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "SAINT LEO UNIVERSITY",
+      "url": "",
+      "area": "Management",
+      "studyType": "Bachelor of Business Administration",
+      "startDate": "",
+      "endDate": "2015",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "SAINT LEO UNIVERSITY",
+      "url": "",
+      "area": "Liberal Arts",
+      "studyType": "Associate of Arts",
+      "startDate": "",
+      "endDate": "2013",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Active Directory",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Outlook 2013",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "System Security",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

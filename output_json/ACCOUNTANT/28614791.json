@@ -1,0 +1,102 @@
+{
+  "basics": {
+    "name": "Accountant III",
+    "label": "Accountant",
+    "email": "",
+    "phone": "",
+    "summary": "Energetic mother of 4 with 10+ years experience in high-level support roles. Organized, professional and detail-oriented. Extensive bookkeeping, accounting and clerical knowledge. Experienced in A/P processes, managing vendor relations and great problem resolution capabilities.",
+  "skills": [
+    {
+      "name": "Skill",
+      "level": "Advanced",
+      "keywords": [
+        "Microsoft Office",
+        "Problem solver",
+        "Time management",
+        "Typing speed of 62+ wpm with 97% accuracy"
+      ]
+    }
+  ],
+    "location": {
+
+    },
+    "profiles": []
+  },
+  "education": [
+    {
+      "institution": "Mountain State University",
+      "area": "Computer Science",
+      "studyType": "GED",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Ravenswood Annex",
+      "area": "",
+      "studyType": "GED",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Garnet Career Center",
+      "area": "Business Education: Business",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": [
+        "Microsoft Office Specialist - Word",
+        "Microsoft Office Specialist - Excel",
+        "Perfect Attendance",
+        "A Honor Roll",
+        "B Honor Roll"
+      ]
+    }
+  ],
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Accountant III",
+      "url": "http://wvde.state.wv.us/internaloperations/",
+      "startDate": "11/2009",
+      "endDate": "10/2010",
+      "highlights": [
+        "Verified that information in the FIMS computer system was up-to-date and accurate",
+        "Organized billing and invoice data and prepared accounts receivable",
+        "Identified and resolved system and account issues",
+        "Checked online car reservation system and made sure educator received the state car binder"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "certificates": [
+    {
+      "name": "Microsoft Office Specialist - Word",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "Microsoft Office Specialist - Excel",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "Certificate of Accomplishment",
+      "date": "",
+      "issuer": "Typing Institute of America",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "awards": [],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

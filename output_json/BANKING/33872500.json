@@ -1,0 +1,120 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Financial Institutions Examiner",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Well-regarded professional with proven record in analyzing statistical data and financial documents, providing comprehensive assessment of overall health of financial institutions. Meticulous analyst who quickly evaluates data to accurately assess financial risk and regulatory compliance in fast-paced, time-sensitive environments. Skilled relationship manager - fluent in both English and Spanish - who is effective in engaging others to progress project goals.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Financial Institutions Examiner",
+      "url": "",
+      "startDate": "2011-03-01",
+      "endDate": "2015-01-01",
+      "summary": "Conducted examinations of financial institutions (records and operations) to verify adherence with relevant laws and regulations, including Bank Secrecy Act (BSA) and Anti-Money Laundering (AML) rules. As subject matter expert, conducted training, coached team members, and compiled/reported results while managing stakeholder relations.",
+      "highlights": ["Financial analysis","Cash flow analysis","Capital market trends","Application of GAAP regulations","Financial forecasting","Financial modeling","Risk management expertise","Variance Trend Analysis","Budget Analysis"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Admissions Advisor",
+      "url": "",
+      "startDate": "2008-11-01",
+      "endDate": "2010-11-01",
+      "summary": "Led recruitment activities and provided support to new and continuing students. Implemented recruitment plan to achieve budgeted goals each term."
+    },
+    {
+      "name": "Company Name",
+      "position": "IT Specialist Intern",
+      "url": "",
+      "startDate": "2007-10-01",
+      "endDate": "2008-02-01",
+      "summary": "Provided technical support to all users, assisting with virus response/resolution, security patches, and application needs."
+    },
+    {
+      "name": "Company Name",
+      "position": "Department Administrator/Dental Assistant",
+      "url": "",
+      "startDate": "2003-04-01",
+      "endDate": "2007-04-01",
+      "summary": "Served as part of dental assisting team for residents in the prosthodontics and general dentistry program."
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Maryland",
+      "url": "",
+      "area": "Accounting and Financial Management",
+      "studyType": "Master",
+      "startDate": "",
+      "endDate": "2016-12-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "University of Phoenix",
+      "url": "",
+      "area": "Business Information Systems",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "2008",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Account Analysis & Reconciliation",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Accounts Payable Accounts Receivable",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Bank Reconciliations Business",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Due Diligence Financial Report Preparation",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "General Ledger Accounting",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent speaker"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Fluent speaker"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "volunteer": [],
+  "awards": [],
+  "certificates": [],
+  "publications": []
+}

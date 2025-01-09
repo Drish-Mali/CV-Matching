@@ -1,0 +1,106 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Conservation Technician/Maintenance",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "To build a career in the local community and improve skills in the Biological Science field",
+    "location": {
+      "address": "11400 Robinwood Drive",
+      "postalCode": "",
+      "city": "Hagerstown",
+      "countryCode": "US",
+      "region": "Maryland"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "",
+      "position": "Conservation Technician/Maintenance",
+      "url": "",
+      "startDate": "03/2017",
+      "endDate": "10/2017",
+      "summary": "The conservation technician is responsible for the openings and closing procedures of the park. Regular upkeep of park buildings, structures, roadways, picnic and camping areas are the primary goals of the position. The position requires an array of knowledgeable skills in the areas of carpentry, plumbing, masonry, heavy equipment operation, and general mechanic.",
+      "highlights": []
+    },
+    {
+      "name": "",
+      "position": "Field Technician and Larvicider",
+      "url": "",
+      "startDate": "05/2015",
+      "endDate": "10/2015",
+      "summary": "The technician records a site survey assessment and performs quality checks of biological control agents before and after applications. The technician collects, records, and processes data pertaining to the environment and pesticide concentration including both targeted and non-targeted species indigenous to each treatment area. The technician is responsible for the use of a state department motor vehicle in a safe manner on public roadways within the state at all times.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Shepherd University",
+      "area": "Scientific Capstone, Research, Team Building and Outdoor Education Programs",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "05/2014",
+      "courses": []
+    },
+    {
+      "institution": "Hagerstown Community College",
+      "area": "",
+      "studyType": "Associate of Science",
+      "startDate": "2000",
+      "endDate": "2000",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Eagle Scout Award",
+      "date": "",
+      "awarder": "The Boy Scouts of America",
+      "summary": "Highest honor of The Boy Scouts of America"
+    },
+    {
+      "title": "Recognition of Strong Work Ethic and Positive Attitude",
+      "date": "",
+      "awarder": "Retail",
+      "summary": "Received monthly recognition numerous times"
+    }
+  ],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Technical",
+      "level": "",
+      "keywords": [
+        "Microsoft Word documents",
+        "Excel spreadsheets",
+        "Power Point presentations",
+        "ARC10 Geographic Information Systems"
+      ]
+    },
+    {
+      "name": "Masonry",
+      "level": "",
+      "keywords": [
+        "Carpentry",
+        "Plumbing"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [
+    {
+      "name": "Community Service",
+      "keywords": [
+        "American Red Cross",
+        "Chesapeake Bay Foundation"
+      ]
+    }
+  ],
+  "references": [],
+  "projects": []
+}

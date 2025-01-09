@@ -1,0 +1,101 @@
+{
+  "basics": {
+    "name": "Aviation Operation Specialist",
+    "label": "Client Support Specialist II",
+    "email": "",
+    "phone": "",
+    "summary": "Pursuing a position as a Client Support Specialist II, along with the opportunity to achieve and maintain the highest level of customer service, data compilation, and team excellence.",
+    "location": {
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Aviation Operation Specialist",
+      "startDate": "2014-01",
+      "endDate": "2015-02",
+      "summary": "Compiled, managed, and maintained sensitive flight data for more than 60 aviators ensuring all flight departures and arrivals were successful and all aviator flight information was accurately and consistently logged for daily and weekly flight reports."
+    },
+    {
+      "name": "Company Name",
+      "position": "Defense Travel System Representative",
+      "startDate": "2012-01",
+      "endDate": "2014-12",
+      "summary": "Managed over 1 million dollars of Federal funds in travel arrangements, claims and travel reimbursements for over 300 employees using Defense Travel Operating Systems (DTS)"
+    },
+    {
+      "name": "Company Name",
+      "position": "Administrative Assistant",
+      "startDate": "2011-07",
+      "endDate": "2011-12",
+      "summary": "Secret security clearance. Created weekly rotational day and night flight schedules on excel"
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Brandman",
+      "area": "Organizational Leadership",
+      "studyType": "Bachelor of Arts",
+      "startDate": "",
+      "endDate": "2017-02",
+      "score": ""
+    },
+   {
+      "institution": "University of Puerto Rico",
+      "area": "Business Administration Accounting",
+      "studyType": "BBA",
+      "startDate": "",
+      "endDate": "",
+      "score": ""
+    }
+  ],
+  "awards": [
+    {
+      "title": "Good conduct medal",
+      "date": "",
+      "awarder": "Military Service",
+      "summary": ""
+    },
+    {
+      "title": "Army Achievement Medals",
+      "date": "",
+      "awarder": "Army",
+      "summary": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Organizational skills",
+      "level": "",
+      "keywords": ["Attention to detail", "Microsoft Office Suite expert", "Excellent communicator"]
+    },
+    {
+      "name": "Language Skills",
+      "level": "Bilingual",
+      "keywords": ["English", "Spanish"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Hobbies",
+      "keywords": ["Reading", "Dancing", "Watching scary movies", "Spending time with family"]
+    }
+  ],
+  "references": []
+}

@@ -1,0 +1,134 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Finance Manager",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Detailed oriented Finance Manager who is adapt at meeting dealership and customer expectations. A proven top producer track record of at least 15 years in the automotive and F&I department. Upward mobility.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Finance Manager",
+      "url": "",
+      "startDate": "2012-08-01",
+      "endDate": "Current",
+      "summary": "Develop loan packages for lenders, maintain accuracy in paperwork, seek new lending institutions, work with Sales Manager to secure profit from every sale, check all paperwork for accuracy, verify insurance with customers agents, verify trade payoffs, prepare contracts and Warranty forms etc.",
+      "highlights": [
+        "Top Finance manager of the year for the past 2 years.",
+        "2002 salesman of the year.",
+        "2003 Closer of the year.",
+        "Top producer from salesman to sales manager.",
+        "Averaging $2,000 gross profit per unit sold."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Finance Director/Sales Manager",
+      "url": "",
+      "startDate": "2006-09-01",
+      "endDate": "2012-07-01",
+      "summary": "Established and maintained monthly forecasted income, managed finance department, compliance with all DMV contract law etc.",
+      "highlights": [
+        "Top nationwide numbers on both the sales desk and in finance."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Sales Manager",
+      "url": "",
+      "startDate": "2001-05-01",
+      "endDate": "2006-09-01",
+      "summary": "Managed a team of 6-8 salesman, motivated, trained, and set goals etc.",
+      "highlights": [
+        "Experimental high volume dealership selling 250-300 cars a month."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Owner/CEO",
+      "url": "",
+      "startDate": "1995-07-01",
+      "endDate": "2001-05-01",
+      "summary": "Founded a mid-level nutritional internet business. Performed accounting functions; Web-Site Development etc.",
+      "highlights": [
+        "Successfully developed a mid-level nutritional internet business"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Coeur d'Alene High School",
+      "url": "",
+      "area": "Business/Marketing",
+      "studyType": "Business Administration",
+      "startDate": "1985-01-01",
+      "endDate": "1985-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "North Idaho College",
+      "url": "",
+      "area": "Business/Accounting",
+      "studyType": "Business Administration",
+      "startDate": "1987-01-01",
+      "endDate": "1987-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Trend Business College",
+      "url": "",
+      "area": "Business/Accounting",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": [
+        "Graduated with Honors"
+      ]
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Financial Management",
+      "level": "",
+      "keywords": [
+        "Sales",
+        "Management",
+        "Administrative duties",
+        "Preparing contracts",
+        "Account reconciliation",
+        "Accounts payable/receivable",
+        "Credit",
+        "E-commerce",
+        "Invoicing",
+        "Marketing",
+        "Windows applications",
+        "Organizational skills",
+        "Public relations",
+        "Web-site development",
+        "Web marketing"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

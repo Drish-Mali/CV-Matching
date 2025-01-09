@@ -1,0 +1,92 @@
+{
+  "basics": {
+    "name": "Resume Holder",
+    "label": "Construction Engineering Supervisor",
+    "summary": "Skilled security professional with experience providing security services in various settings and a strong law enforcement background.",
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Construction Engineering Supervisor",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Supervised the construction, repair, and utility of various structures and facilities, ensuring specification compliance.",
+      "highlights": ["Reading and interpreting construction drawings", "Estimating material, time, labor, and equipment requirements"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Combat Engineer",
+      "startDate": "2000-01-01",
+      "endDate": "Current",
+      "summary": "Perform complex tasks related to circuits, maintenance of communication systems, and other technical areas.",
+      "highlights": ["Detailed understanding of interrelationships of circuits", "Experience with a variety of complex testing and analysis equipment", "Development and use of engineering tools"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Combat Engineer",
+      "startDate": "1992-01-01",
+      "endDate": "2000-01-01",
+      "summary": "Perform complex tasks related to circuits, maintenance of communication systems, and other technical areas.",
+      "highlights": ["Detailed understanding of interrelationships of circuits", "Experience with a variety of complex testing and analysis equipment", "Development and use of engineering tools"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Strong Vincent HS",
+      "area": "Intermediate Electronic Principles",
+      "studyType": "Diploma",
+      "startDate": "2001-01-01",
+      "endDate": "2001-01-01"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Multiple official commendations",
+      "date": "Unknown",
+      "awarder": "Management",
+      "summary": "Awarded several official commendations for personal achievement and contributions to the team."
+    },
+    {
+      "title": "Promotion",
+      "date": "Unknown",
+      "awarder": "Company",
+      "summary": "Promoted to Staff Supervisor after 6 years of employment."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Technical Competency",
+      "level": "Advanced",
+      "keywords": ["Security Personnel Training", "Windows Vista", "Weapons Training", "Circuit Analysis", "Engineering Tools Development"]
+    },
+    {
+      "name": "Communication Skills",
+      "level": "Advanced",
+      "keywords": ["Written and Verbal Communication"]
+    },
+    {
+      "name": "Leadership Skills",
+      "level": "Advanced",
+      "keywords": ["Natural Leader", "Personnel Supervision"]
+    },
+    {
+      "name": "Computer Skills",
+      "level": "Advanced",
+      "keywords": ["Microsoft Office Suite 2010"]
+    },
+    {
+      "name": "Teamwork",
+      "level": "Advanced",
+      "keywords": ["Excellent Teaming Skills"]
+    }
+  ],
+  "interests": [
+    {
+      "name": "Interests",
+      "keywords": ["Forward Area Targeting Systems", "Target Alert Data Display Systems", "IFF"]
+    }
+  ],
+  "references": [],
+  "projects": []
+}

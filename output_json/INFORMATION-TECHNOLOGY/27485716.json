@@ -1,0 +1,154 @@
+{
+  "basics": {
+    "name": "Corporate Project Manager",
+    "label": "",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Seasoned project manager driven to achieve results through strategic planning and professional relationship building. Success in developing beneficial alliances between leaders to effectively drive growth and achieve goals. Dedicated to building strong teams within an organization through motivation and strong development. Effective in fostering collaboration and consultative relationships with senior management and across traditional boundaries; highlighting inflection points of technology decisions. Technical leader with broad experience, brings focus on \"big picture\" business impacts of technology projects: real costs, practical benefits, risks and contingencies. Adaptable - skilled at supporting individuals, building systems, handling problems; as well as managing teams, training, developing strategies, policies and processes.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Corporate Project Manager",
+      "url": "",
+      "startDate": "2014-01-01",
+      "endDate": "2016-01-01",
+      "summary": "Manage direct reports supporting multiple locations with annual revenues of $2M. Accountable for the strategic direction, implementation, support, and development of all business applications, Enterprise Resource Planning (ERP), Facilities Management, Financials, Forecasting and Procurement. Established change management and help desk solutions and policies. Developed new process design workflow to ensure on-time delivery of all solutions and within budget leading to increase in monthly productivity by 20%. Centralized disparate support documentation for all business applications and architecture. Developed corporate process and tools for opportunities tracking, bid decision making and proposal development. Developed training material for new products and technologies and delivered training classes to associates.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Director of Information Technology and Systems",
+      "url": "",
+      "startDate": "2008-01-01",
+      "endDate": "2014-01-01",
+      "summary": "Responsible for managing and executing business development activities for IT and other company business lines. Provided executive leadership over internal company-wide IT infrastructure. Developed end user training material coordinating and conducting group and individual training sessions based on staff and organizational learning needs. Introduced methods for tracking project management, workload planning and corporate business performance metrics. Responsible for managing and executing business development activities for IT and other company business lines. Installation of Gate and Locking systems (Saflok, Ving, Salto and Amano Mc Gann access control systems) in various brands resorts interfacing with PMS systems.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Director of Information Technology and Systems",
+      "url": "",
+      "startDate": "2006-01-01",
+      "endDate": "2008-01-01",
+      "summary": "Manage four hotels within REIT interfacing with both management and ownership to guide the hotel through day-to-day operations. Insure that the company's strategic technologies needs are the primary focus. Provided first and second-tier technical support and knowledge on Windows server/desktop applications and resort PMS/POS Systems. Provided operations management, including security, backup/recovery/disaster planning, off-hours staff coverage. Oversaw $1.4 M capital budget and hotel conversion.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "UNIVERSITY OF PHOENIX",
+      "url": "",
+      "area": "Computers and Information Technology",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "LAKE SUMTER COMMUNITY COLLEGE",
+      "url": "",
+      "area": "Finance and Business Administration",
+      "studyType": "Associates",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "ITIL Foundation Course",
+      "date": "2016-01-01",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "Microsoft Certified Professional (MCP), CompTia A+, CompTia N+",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Corporate Project Manager skills",
+      "level": "",
+      "keywords": [
+        "A+",
+        "acquisitions",
+        "backup",
+        "budget planning",
+        "Budgeting",
+        "budgets",
+        "budget",
+        "business development",
+        "change management",
+        "conversion",
+        "decision making",
+        "delivery",
+        "direction",
+        "disaster planning",
+        "documentation",
+        "ERP",
+        "Enterprise Resource Planning",
+        "Facilities Management",
+        "Financials",
+        "focus",
+        "Forecasting",
+        "help desk",
+        "information technology",
+        "ITIL",
+        "Leadership",
+        "Team-Building",
+        "managing",
+        "materials",
+        "access",
+        "Microsoft Certified Professional",
+        "MCP",
+        "network",
+        "networks",
+        "operations management",
+        "organizational",
+        "PC systems",
+        "people skills",
+        "policies",
+        "POS",
+        "process design",
+        "Procurement",
+        "Project Management",
+        "proposal development",
+        "sales",
+        "Scheduling",
+        "SDLC",
+        "SLA",
+        "strategic",
+        "Strategic Planning",
+        "technical support",
+        "user training",
+        "training material",
+        "Upgrades",
+        "Windows server",
+        "workflow"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

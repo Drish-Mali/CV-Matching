@@ -1,0 +1,127 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Engineering Technician III",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Engineering Technician with an extensive troubleshooting, repair, and installation background. Thorough knowledge of Electrical, Mechanical, Pneumatic and computer systems. Self-starter who quickly masters new skills and systems.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Engineering Technician III",
+      "url": "",
+      "startDate": "2013-07-01",
+      "endDate": "Current",
+      "summary": "Responsible for all Test Equipment Maintenance on-site to include Production, Repair & Overhaul, Engineering and Environmental labs.",
+      "highlights": ["Troubleshot and repaired test equipment for several AOG's (Aircraft on ground) to satisfy customer (Delta Airlines) demands."]
+    },
+    {
+      "name": "Company Name",
+      "position": "Generator Test Technician III",
+      "url": "",
+      "startDate": "1999-08-01",
+      "endDate": "2013-08-31",
+      "summary": "Setup and perform functional acceptance testing of aircraft and ground power generators using manual and automated test equipment in",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Unmanned Aerial Vehicle (UAV) Maintenance Technician",
+      "url": "",
+      "startDate": "1998-02-01",
+      "endDate": "1999-08-31",
+      "summary": "Performed airframe and power plant maintenance on forward observing reconnaissance aircraft. Maintained engine proficiency by adjusting valves, ignition points, and performed highly advanced computer aided diagnostic testing.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Electrical Power Generation Equipment Repairer Technician",
+      "url": "",
+      "startDate": "1996-08-01",
+      "endDate": "1999-08-31",
+      "summary": "Performed maintenance on mobile utility precise power generation sets, and internal combustion engines.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Embry Riddle Aeronautical University",
+      "url": "",
+      "area": "Professional Aeronautics",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "UAV Mechanical Technician course",
+      "date": "1998",
+      "issuer": "U.S. Army, Ft. Huachuca, AZ",
+      "url": ""
+    },
+    {
+      "name": "UAV Maintenance Technician Common course",
+      "date": "1998",
+      "issuer": "U.S. Army, Ft. Huachuca, AZ",
+      "url": ""
+    },
+    {
+      "name": "Power Generation Equipment Repairer",
+      "date": "1996",
+      "issuer": "U.S. Army, Aberdeen Proving Ground, MD",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Engineering",
+      "level": "",
+      "keywords": [
+        "Live Electrical",
+        "Arc Flash",
+        "Lock-Out/Tag-Out",
+        "ESD",
+        "functional testing",
+        "test equipment repair and operation",
+        "troubleshooting",
+        "ISO-9001 standards",
+        "electrical equipment operation",
+        "Mechanical repair",
+        "oil servicing",
+        "Power Generation",
+        "soldering",
+        "electrical component repair",
+        "safety awareness",
+        "schematics",
+        "blueprints",
+        "drawings",
+        "various testing equipment",
+        "equipment/wiring installation",
+        "solenoid/valves",
+        "PC repair",
+        "fabrication"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

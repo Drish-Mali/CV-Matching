@@ -1,0 +1,87 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Grocery Clerk",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Collaborative individual well-versed in using heavy machinery on job sites. Physically capable of climbing scaffolding and willing to work any shift necessary. Dedicated worker known for providing daily updates to supervisors and considered a team-oriented player/communicator.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Grocery Clerk, UAV Technician Avionics/Maintenance Technician, Box Truck Driver/Technician, Picker/Ambassador, Delivery Driver, Stower, Warehouse Manager/Driver, Apparel Clerk/PIC, Steel Worker",
+      "url": "",
+      "startDate": "07/2012",
+      "endDate": "Current",
+      "summary": "Used pallet jacks and hand trucks moved merchandise to the sales floor for stocking. Worked with the management team to implement the proper division of responsibilities. Engaged with customers in a sincere and friendly manner. Operated heavy machinery in the safest manner to avoid injuries and accidents. Prepared and cleaned construction sites by removing debris. ",
+      "highlights": [
+        "Maintained a safe, neat and clean working environment at all times.",
+        "Handled employee conflicts most efficiently and while following all company procedures.",
+        "Ensured all warehouse personnel were properly trained and certified on equipment.",
+        "Communiated customers complaints, requests and feedback to company management.",
+        "Filled customer orders with efficiency and accuracy.",
+        "Maintained established merchandising standards, including window, sales floor and promotional displays."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Auburn Mountainview High School",
+      "url": "",
+      "area": "",
+      "studyType": "High School Diploma",
+      "startDate": "",
+      "endDate": "2013",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Technical and Soft Skills",
+      "level": "",
+      "keywords": [
+        "Approach",
+        "Backhoe",
+        "Bobcat",
+        "Budgets",
+        "Carpentry",
+        "Cash Register",
+        "Basic Computer Skills",
+        "Dependable",
+        "Driving",
+        "Hand Tools",
+        "Hiring",
+        "Inventory",
+        "Logistics",
+        "Machine Operation",
+        "Math",
+        "Merchandising",
+        "Painting",
+        "Quality",
+        "Fast learner",
+        "Safety",
+        "Team Player",
+        "Written Communication"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

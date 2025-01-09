@@ -1,0 +1,115 @@
+{
+  "basics": {
+    "name": "SENIOR ACCOUNTANT",
+    "label": "Senior Accountant",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "US",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Senior Accountant",
+      "url": "",
+      "startDate": "2011-06",
+      "endDate": "Current",
+      "summary": "Prepare quarterly and annual financial statements for 17 multi-family communities for distribution to investors and financial institutions. Coordinate with external audit firms and manage budgets for construction projects.",
+      "highlights": ["Manage budgets and construction loan activity for approx $100,000,000"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Associate Fund Controller",
+      "url": "",
+      "startDate": "2010-03",
+      "endDate": "2011-06",
+      "summary": "Performed quarterly and annual close procedures. Lead fee process, coordinate work plan and implement cash reallocation strategy.",
+      "highlights": ["Coordinated work plan to ensure deadlines and implemented cash reallocation strategy"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Advisory, Forensic and Audit Associate",
+      "url": "",
+      "startDate": "2007-06",
+      "endDate": "2010-03",
+      "summary": "Researched potential fraudulent activities. Performed audits on multiple clients. Analyzed major accounting processes and performed fraud investigations.",
+      "highlights": ["Conducted fraud investigations leading to arrests and new client relationships"]
+    },
+    {
+      "name": "Sole Proprietorship",
+      "position": "Accounting Tutor",
+      "url": "",
+      "startDate": "2006-08",
+      "endDate": "2007-05",
+      "summary": "Held private sessions teaching financial accounting. Resulted in grade improvement among clients.",
+      "highlights": ["Helped improve client grades"]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "EMORY UNIVERSITY, Goizueta Business School",
+      "url": "",
+      "area": "Accounting",
+      "studyType": "Bachelor of Business Administration",
+      "startDate": "",
+      "endDate": "2007-05",
+      "score": "3.63/4.0",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "John R. Jones Accounting Award",
+      "date": "2007",
+      "awarder": "Emory University Professors",
+      "summary": "Recognize the top performing senior year student in academia, community involvement, and character."
+    },
+    {
+      "title": "Ben Pius Award",
+      "date": "2006",
+      "awarder": "Emory Professors",
+      "summary": "Recognize exceptional achievements by the highest performing junior year accounting student."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "CPA",
+      "date": "",
+      "issuer": "Georgia license",
+      "url": ""
+    },
+    {
+      "name": "CFE",
+      "date": "",
+      "issuer": "Certified Fraud Examiner",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Accounting",
+      "level": "Senior",
+      "keywords": ["accounting", "balance sheet", "budgets", "client", "clients", "derivatives", "drafting", "equity", "financial", "financial accounting", "financial statements", "fixed assets", "Funds", "Government", "Information Technology", "inventory", "investments", "ledger", "MA", "Microsoft Excel", "natural", "page", "payables", "processes", "programming", "Real Estate", "research", "sales", "scheme", "telephone", "writing skills"]
+    }
+  ],
+  "languages": [],
+  "interests": [
+    {
+      "name": "Fulton County CASA Board of Directors Member, Treasurer",
+      "keywords": ["Plan fund raisers", "review budget and financial statements", "supervise CASA staff"]
+    }
+  ],
+  "references": [],
+  "projects": []
+}

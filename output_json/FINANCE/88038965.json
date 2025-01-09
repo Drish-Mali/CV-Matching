@@ -1,0 +1,92 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Manager of Finance",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Experienced Certified Public Accountant (CPA) with extensive financial and audit experience. Proven track record to improve monthly financial close processes; analyze financial results for areas of opportunity; and audit financial activities to identify potential financial misstatements and internal control weaknesses.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": [
+      
+    ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Manager of Finance",
+      "url": "",
+      "startDate": "2016-01-01",
+      "endDate": "Current",
+      "summary": "Prepare and manage an annual operating budget of $55 million gross revenue and annual capital budget of $500,000. Oversee financial operations for annual expenses totaling $45 million. Oversee the daily billing and collection activities with 9 employees for annual patient days of 250,000.",
+      "highlights": [
+        "Prepared and consolidated Hospice monthly financial results.",
+        "Analyzed financial operations to identify opportunities to increase revenue and reduce cost.",
+        "Provided financial updates to senior management, Hospice Board of Trustees and the Hospice Finance Committee."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Business Director II",
+      "url": "",
+      "startDate": "2010-01-01",
+      "endDate": "2015-01-01",
+      "summary": "Prepared and managed annual operating budget of $161 million gross revenue and 226 FTEs for Neonatal Intensive Care Unit (NICU)",
+      "highlights": [
+        "Managed physician professional fee billing for approximately 125,000 charges totaling approximately $113 million for 13 regional hospitals.",
+        "Reduced physician professional fee charge entry to billing days from 11 to 5 business days."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Director of Finance",
+      "url": "",
+      "startDate": "2007-01-01",
+      "endDate": "2009-01-01",
+      "summary": "Reduced monthly financial closing process from 13 to 8 business days.",
+      "highlights": [
+        "Implemented the Lawson general ledger system."
+      ]
+    }
+  ],
+    "education": [
+    {
+      "institution": "University of South Carolina",
+      "url": "",
+      "area": "Accounting",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": [ ]
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Certified Public Accountant (CPA)",
+      "date": "",
+      "issuer": "State of South Carolina",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Accounting and Financial Management",
+      "level": "",
+      "keywords": [ "Accounting","Audit Reports", "Billing", "Budgets", "Certified Public Accountant", "Finance", "Financial Analysis", "Financial Audits", "General Ledger", "Internal Audits" ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

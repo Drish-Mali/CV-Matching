@@ -1,0 +1,161 @@
+{
+  "basics": {
+    "name": "STOREKEEPER II",
+    "label": "Warehouse Management",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "A reliable and experienced professional with over 10 years in procurement and purchasing, offering exceptional people skills and a friendly personality. Experienced in contacting vendors, answering phones and engaging in face-to-face contact with the public and governmental personnel, honing exceptional customer service abilities. Exceptional problem-solving skills and a positive work ethic guides effective communication. Highly skilled in managing personnel and handling conflicts, disputes and other personal needs of employees.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "",
+      "region": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "STOREKEEPER II",
+      "url": "",
+      "startDate": "2002-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Maintained and reconciled inventory through clerical support, used PeopleSoft to procure and receive shipments obtained by purchase order. Developed excel spreadsheet for reports, managed inventory files and researched inventory problems. Acted as CSR and Trainer while conducting inventory cycle counts, coordinating stock and documenting transactions.",
+      "highlights": [
+        "Forklift Operator Safety Trainer",
+        "Implemented new process that saved $1500.00 annually"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "WAREHOUSE FLOOR SUPERVISOR",
+      "url": "",
+      "startDate": "1996-01-01",
+      "endDate": "2001-01-01",
+      "summary": "Performed daily instruction to warehouse personnel and dispatched drivers for deliveries and pickups. Insured and verified placement of inventory through routine cycle counts and received all incoming shipments. Maintained inventory and quality control procedures.",
+      "highlights": [
+        "Reduced monthly operational costs by replacing preprinted forms from local vendor with self-developed spreadsheet",
+        "Optimized man hours during cycle counts and order pulling with use of poly-bags"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Aviation Structural Mechanic",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Served as Line division supervisor assistant, plain captain while in line division. Worked as an aircraft hydraulic and structural systems mechanic as a member of Naval Aircraft Squadron VS-38. Received General under Honorable Conditions Discharge.",
+      "highlights": ["Member of Navy Junior Recruit Officer Training Corps (NJROTC)"]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Grand Canyon University",
+      "url": "",
+      "area": "Business Management Administration",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "National Education Center",
+      "url": "",
+      "area": "",
+      "studyType": "Associate",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Naval Aviation A School",
+      "url": "",
+      "area": "",
+      "studyType": "Graduate",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Forklift Truck Operator Safety Certification",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "AutoCAD Certificate in Architectural Drafting",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "Llewellyn Technology, Certificate, Electro Mechanical Systems Repair",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Professional Skills",
+      "level": "",
+      "keywords": [
+        "Architectural Drafting",
+        "AutoCAD",
+        "Clerical",
+        "Customer Service",
+        "Data Entry",
+        "Dispatching",
+        "Drivers",
+        "Forklift",
+        "Forklift Operator",
+        "Forms",
+        "Instruction",
+        "Inventory",
+        "Mechanical",
+        "Mechanic",
+        "Excel",
+        "Microsoft Office",
+        "PowerPoint",
+        "Windows",
+        "Word",
+        "Navy",
+        "Naval",
+        "Packaging",
+        "PeopleSoft",
+        "PeopleSoft 9.0",
+        "Personnel",
+        "Presentations",
+        "Procurement",
+        "Purchasing",
+        "Quality Control",
+        "Receiving",
+        "Reconciling",
+        "Research",
+        "Safety",
+        "Scanning",
+        "Shipping",
+        "Spreadsheets",
+        "Supervisor",
+        "Trainer",
+        "Word Processing",
+        "Word Perfect"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

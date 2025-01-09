@@ -1,0 +1,100 @@
+{
+  "basics": {
+    "name": "Operations and Finance Manager",
+    "label": "Financial Analyst, Labor Budget Analyst",
+    "email": "",
+    "phone": "",
+    "summary": "Proven experience in operations and financial management, with skills such as advanced report writing, analytical abilities, consistent professional job experience in collections and supervisory roles, credit/business analysis, budgeting and forecasting.",
+    "location": {
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Operations and Finance Manager",
+      "startDate": "03/2014",
+      "endDate": "Current",
+      "summary": "Conducted team coordination, financial studies and managed financial, accounting and legal advisors."
+    },
+    {
+      "name": "Company Name",
+      "position": "Financial Analyst",
+      "startDate": "06/2012",
+      "endDate": "05/2013",
+      "summary": "Compiled Year End Financial Statements, managed cash accounts and was responsible for government regulatory interface."
+    },
+    {
+      "name": "Company Name",
+      "position": "Labor Budget Analyst",
+      "startDate": "11/2010",
+      "endDate": "06/2012",
+      "summary": "Collected, analyzed and advised on compliance with $700 million labor budget."
+    },
+    {
+      "name": "Company Name",
+      "position": "Manager of Collections and Enforcement",
+      "startDate": "04/1999",
+      "endDate": "11/2010",
+      "summary": "Supervised operations and personnel of OTA Enforcement and Collections Branch."
+    },
+    {
+      "name": "Company Name",
+      "position": "Assistant Administrator",
+      "startDate": "09/1986",
+      "endDate": "02/1999",
+      "summary": "Role involved credit underwriting, loan review and monitoring loan loss reserves."
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Oklahoma",
+      "area": "Business Administration, Finance",
+      "studyType": "MBA",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Customer Service Award",
+      "date": "",
+      "awarder": "Oklahoma Transportation Authority",
+      "summary": ""
+    },
+    {
+      "title": "Retail Employee of the Quarter",
+      "date": "",
+      "awarder": "Banc One",
+      "summary": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Financial Analysis",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Budgeting",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "MS Office",
+      "level": "",
+      "keywords": ["Excel", "Access", "Word"]
+    },
+    {
+      "name": "Communication",
+      "level": "",
+      "keywords": ["Interpersonal Relations", "Email", "Presentations"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

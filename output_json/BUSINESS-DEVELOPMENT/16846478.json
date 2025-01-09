@@ -1,0 +1,62 @@
+{
+  "basics": {
+    "name": "BUSINESS DEVELOPMENT EXECUTIVE",
+    "label": "Business Development Executive",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Highly motivated and intelligent professional utilizing highly refined sales, marketing, and managerial skills to grow revenue and profits. Proficient with many software productivity suites like MS Office, and CRM tools like ACT!, Goldmine, and Salesforce.com.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "",
+      "region": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Business Development Executive",
+      "url": "",
+      "startDate": "2013-01-01",
+      "endDate": "Current",
+      "summary": "Responsible for selling IT converged infrastructure consulting services, hardware and software solutions in the Greater Cincinnati area. My customer base includes companies such as Intelligrated, KAO, Great Oaks, Schulman, Hilltop Basic Resources, Luxottica, etc. Ranked #1 in account growth and new sales. Responsible for over 1 million dollars in revenue.",
+      "highlights": [
+        "Mentored new sales representatives", "Consistently met all activity-based objectives", "Added additional billing consultants in the first month representing 25% of the company revenue"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Urbana University",
+      "url": "",
+      "area": "Business Administration Marketing",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "",
+      "score": "3.6/4.0",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Business Development",
+      "level": "Expert",
+      "keywords": [
+        "advertising", "Application Development", "Billing", "Business Plans", "Cold Calling",
+        "Computer Maintenance", "Hardware", "Consulting", "Client Relationship Management", "IT Strategy"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

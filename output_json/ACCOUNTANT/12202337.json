@@ -1,0 +1,139 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Investment Accountant",
+    "email": "",
+    "phone": "",
+    "summary": "Accomplished and results oriented Investment professional with strong leadership and interpersonal skills who adds energy and value to an organization's quest for excellence.", 
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+      },
+    "profiles": [] 
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Investment Accountant",
+      "startDate": "2012-10",
+      "endDate": "2015-11",
+      "summary": "Reconciled mutual fund accounts with the custody Identified and Resolved differences in Custody and Accounting Cash, Currency and Positions using Eagle, IAX, Business Objects, Lombardi and Workbench Reports.",
+      "highlights": [
+        "Multiple awards for performance",
+        "Formally recognized for excellence achieved in financial analysis, budgeting and forecasting",
+        "Increased efficiency of discrepancy investigations by designing a more accurate cash-forecasting system"
+      ]
+    },
+     {
+      "name": "Company Name",
+      "position": "AML Compliance Officer",
+      "startDate": "2011-11",
+      "endDate": "2012-03",
+       "summary": "Audited customer's bank accounts in the company's system Performed quality assurance reviews on customer information maintained on various bank systems Reconciled the quality assurance results on spreadsheets Performed background search on clients using tools such as world check and google search.",
+        "highlights": [] 
+    },
+     {
+      "name": "Company Name",
+      "position": "Medical Technologist",
+      "startDate": "2008-07",
+      "endDate": "2012-03",
+       "summary": "Clinical Microbiology Experience - Highlights include ordering, processing, plating and culturing patient's specimens Tests - Performing rapid tests such as Rapid flu, C.Diff quick check and many more; Performing rapid and confirmatory tests to identify organism; Reading Gram stain slides; Performing daily maintenance and running quality control on instruments.",
+        "highlights": [] 
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Delaware",
+      "area": "Finance",
+      "studyType": "Master of Business Administration",
+      "startDate": "",
+      "endDate": "2011",
+      "score": "",
+      "courses": [
+        "Financial Reporting and Analysis",
+        "Financial Management",
+        "Corporate Financial Policies",
+        "Investment Analysis and Portfolio Management",
+        "Corporate Governance",
+        "Financial Engineering and Risk Management (Derivatives)"
+      ]
+    },
+    {
+      "institution": "University of Delaware",
+      "area": "Medical Technology",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "2008",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "MS Office Skills",
+      "level": "",
+      "keywords": [
+        "MS Word",
+        "MS Power Point",
+        "MS Excel, Pivot Tables, Spreadsheets",
+        "Macros",
+        "Variance analysis"
+      ]
+    },
+    {
+      "name": "Platforms",
+      "level": "",
+      "keywords": [
+        "Business Objects",
+        "Lombardi",
+        "Eagle Accounting System",
+        "PEGA",
+        "DRAS",
+        "Workbench"
+      ]
+    },
+    {
+      "name": "Proficiencies",
+      "level": "",
+      "keywords": [
+        "Account Reconciliation",
+        "Time Management",
+        "Complex Problem Solving",
+        "Research Skills"
+      ]
+    },
+    {
+      "name": "Detail-Oriented",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+     {
+      "language": "Marathi",
+      "fluency": "Fluent"
+    },
+     {
+      "language": "Hindi",
+      "fluency": "Fluent"
+    },
+     {
+      "language": "Gujarati",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

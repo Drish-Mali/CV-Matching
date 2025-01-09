@@ -1,0 +1,132 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Grants Manager",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Finance professional successful in not-for-profit and for-profit organizations wanting to resume career after meeting personal goals and obtaining unrestricted work authorization.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Grants Manager",
+      "url": "",
+      "startDate": "2008-01-01",
+      "endDate": "2014-07-01",
+      "summary": "Perform due diligence on potential grant opportunities and monitor current funds portfolio. This included reading all government updates on healthcare research funding, related financial matters and audits.",
+      "highlights": [
+        "Working as an integral person in all facets of financial administration",
+        "Appreciated and respected for hard working skills and eagerness to learn"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Manager - Corporate Banking",
+      "url": "",
+      "startDate": "2004-05-01",
+      "endDate": "2006-08-01",
+      "summary": "Emerging Corporate and Small Business Enterprises - Financial and Credit Risk Analysis Responsible for preparing credit appraisals.",
+      "highlights": [
+        "Thorough knowledge of credit policies & financial statement analysis of clients",
+        "Independently performed SOX audits and tests for the bank's RTGS (Real Time Gross Settlement) payment settlement system"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Pennsylvania",
+      "url": "",
+      "area": "Organizational Dynamics Leadership Management",
+      "studyType": "Master of Philosophy",
+      "startDate": "2011",
+      "endDate": "2013",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Xavier Institute of Management and Entrepreneurship",
+      "url": "",
+      "area": "Finance",
+      "studyType": "Bachelor of Commerce",
+      "startDate": "2000",
+      "endDate": "2002",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Mount Carmel College",
+      "url": "",
+      "area": "Computer Applications",
+      "studyType": "Diploma",
+      "startDate": "2000",
+      "endDate": "2000",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Investment Banking Training Institute",
+      "url": "",
+      "area": "Business Administration",
+      "studyType": "Masters",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Certified Research Administrator, CRA",
+      "date": "2011",
+      "issuer": "Research Administrators Certification Council",
+      "url": ""
+    },
+    {
+      "name": "Certification - Investment Banking",
+      "date": "2007",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Finance",
+      "level": "Expert",
+      "keywords": [
+        "Accounting", 
+        "Administration", 
+        "Balance Sheet Analysis",
+        "Bank Reconciliation", 
+        "Billing", 
+        "Budgeting",
+        "Cash Management Services",
+        "Credit Risk",
+        "Due Diligence",
+        "Financial Analysis and Modeling",
+        "Financial Reporting",
+        "Financial Statement Analysis",
+        "General Ledger",
+        "Government Grant Proposals",
+        "Risk Analysis",
+        "Investment Valuation"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

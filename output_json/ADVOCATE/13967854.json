@@ -1,0 +1,99 @@
+{
+  "basics": {
+    "name": "[Not Provided]",
+    "label": "Victim Advocate",
+    "email": "[Not Provided]",
+    "phone": "[Not Provided]",
+    "summary": "Social worker with more than five years of experience as a Multicultural Victim Advocate and exceptional people skills. Versed in advocacy and case management. Desires a challenging role as HR Generalist. Strategic planning and client relationship management expert. Experience in counseling individuals of various ethnic and socio-economic backgrounds, including Latinos and immigrants from various countries.",
+    "location": {
+      "city": "City",
+      "region": "State",
+      "countryCode": "US"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Victim Advocate",
+      "startDate": "2015-02-01",
+      "endDate": "2017-03-01",
+      "summary": "[Not Provided]",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Multicultural Advocate",
+      "startDate": "2014-04-01",
+      "endDate": "2015-03-01",
+      "summary": "[Not Provided]",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Intern",
+      "startDate": "2013-06-01",
+      "endDate": "2014-02-01",
+      "summary": "[Not Provided]",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Interpreter/translator",
+      "startDate": "2012-08-01",
+      "endDate": "2013-05-01",
+      "summary": "[Not Provided]",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Pellissippi State Community College",
+      "area": "Professional studies International Organizational Leadership",
+      "studyType": "B.S",
+      "startDate": "Not Provided",
+      "endDate": "2014",
+      "score": "Not Provided",
+      "courses": []
+    },
+    {
+      "institution": "Middle Tennesse State University",
+      "area": "Not Provided",
+      "studyType": "Not Provided",
+      "startDate": "Not Provided",
+      "endDate": "04/2016",
+      "score": "Not Provided",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Case management",
+      "level": "Not Provided"
+    },
+    {
+      "name": "Interpersonal skill",
+      "level": "Not Provided"
+    },
+    {
+      "name": "Translation and Interpretation",
+      "level": "Not Provided",
+      "keywords": ["Spanish", "English"]
+    },
+    {
+      "name": "Crisis intervention",
+      "level": "Not Provided"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish/English",
+      "fluency": "Bilingual"
+    }
+  ],
+  "certificates": [],
+  "awards": [],
+  "publications": [],
+  "volunteer": [],
+  "projects": []
+}

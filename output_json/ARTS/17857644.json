@@ -1,0 +1,144 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Administrative Assistant",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "To acquire a challenging position with a reputable agency that will allow me the opportunity to showcase and further develop my skills and gain experience.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Administrative Assistant",
+      "url": "",
+      "startDate": "08/2013",
+      "endDate": "Current",
+      "summary": "I directly support the Hospitality sector and attend weekly conference calls in which I record and draft the meeting minutes for later distribution amongst the team. I create and edit monthly reports for current hospitality projects on InDesign and review for proper accuracy. I receive invoices from multiple projects and I am responsible for compiling the information and forwarding to the Project Manager for their approval before distributing the invoice packages. I schedule and coordinate appointments and sector meetings as needed. I assist the office by setting up conference calls and transferring calls to the appropriate person. I have developed various correspondences, spreadsheets and have drafted RFPs, RFIs and project contracts. I have successfully managed to coordinate and direct group conferences. I send out Courier/ FedEx/Mail as needed for Project Managers and update the internal vendor contact list.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Consular Visa Clerk",
+      "url": "",
+      "startDate": "05/2013",
+      "endDate": "07/2013",
+      "summary": "I assisted the INL Officer by coordinating and managing their meetings and travel arrangements. I directly conducted personnel inquiries to obtain information from a number of different offices, internally and externally. I successfully arranged for foreign travel reservations and prepared official documentation pertaining to governmental training.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Catering Sales Intern",
+      "url": "",
+      "startDate": "01/2012",
+      "endDate": "05/2012",
+      "summary": "I was involved in the marketing analysis for event planning and catered events. I assisted the Catering Sales Manager with client site visits and the distribution of promotional material.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Tampa",
+      "url": "",
+      "area": "Advertising & Public Relations",
+      "studyType": "Bachelor of Arts",
+      "startDate": "2008",
+      "endDate": "2012",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Antilles High School",
+      "url": "",
+      "area": "Knowledge",
+      "studyType": "High School Diploma",
+      "startDate": "2004",
+      "endDate": "2008",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "CAA",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Communication",
+      "level": "",
+      "keywords": [
+        "Advertising",
+        "Public Relations",
+        "Multitasking",
+        "Administrative Assistance",
+        "Contracts",
+        "Fedex",
+        "Indesign",
+        "Invoice",
+        "Invoices",
+        "Project Management",
+        "Cyber Security",
+        "Excel",
+        "Microsoft Office",
+        "Microsoft Project",
+        "Microsoft Sharepoint",
+        "Ms Office",
+        "Outlook",
+        "Photoshop",
+        "Powerpoint",
+        "Sharepoint",
+        "Word",
+        "Documentation",
+        "Access",
+        "Maintenance",
+        "Security",
+        "Clo",
+        "Drafting",
+        "Liaison",
+        "Publishing",
+        "Client Service",
+        "Event Planning",
+        "Marketing",
+        "Marketing Analysis",
+        "Promotional",
+        "Sales",
+        "Weddings",
+        "Arrangements",
+        "Nas",
+        "Network Attached Storage",
+        "Training",
+        "Travel Arrangements",
+        "Vouchers",
+        "Clerk",
+        "Database",
+        "Data-entry",
+        "Printing"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English and Spanish",
+      "fluency": "Bilingual- Fluent"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

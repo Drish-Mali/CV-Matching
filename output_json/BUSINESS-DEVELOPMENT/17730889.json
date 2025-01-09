@@ -1,0 +1,87 @@
+{
+  "basics": {
+    "name": "Assistant to Business Development Administrator",
+    "label": "Administrative Professional",
+    "email": "",
+    "phone": "",
+    "summary": "Organized administrative professional with hands-on experience supporting business areas such as real-estate, finance, database management, customer service and human resources. Collaborative team player with strong communication, decision-making and time management abilities.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "",
+      "position": "Assistant to Business Development Administrator",
+      "startDate": "2016-01-01",
+      "endDate": "Current",
+      "summary": "Updated employee paperwork and records. Greeted visitors promptly and directed to correct locations. Scheduled appointments and maintained master calendar. Wrote professional business correspondence. Drafted internal documents and memoranda. Prioritized project components and organized scopes. Liaised directly with customers to meet needs and maintain satisfaction.",
+      "highlights": []
+    },
+    {
+      "name": "",
+      "position": "Office and Sales Manager",
+      "startDate": "2013-11-01",
+      "endDate": "2015-01-01",
+      "summary": "Successfully managed the activities of five team members in multiple locations. Created training manuals targeted at resolving even the most difficult customer issues. Developed, implemented and monitored programs to maximize customer satisfaction.",
+      "highlights": []
+    },
+    {
+      "name": "",
+      "position": "Administrative and Legal Assistant",
+      "startDate": "2005-06-01",
+      "endDate": "2013-01-01",
+      "summary": "Accurately entered client data into a company-based software program. Organized client calendars, prepared mailings and handled high call volumes. Examined Deeds of Trust to determine the grantor, grantee, trustee and loan amount. Drafted judicial correspondence and handled all court mailings.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "C. S. U. Dominguez Hills (CSUDH)",
+      "area": "Marketing and Public Relations, Organization Leadership, Organizational Behavior, Public Policy, Public Relations, Communications, English",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "2016-12-01",
+      "score": "3.9",
+      "courses": ["Applied Studies/Online"]
+    },
+    {
+      "institution": "Pasadena City College",
+      "area": "Legal Terminology, Courts and Political Science, Probate and Criminology, Immigration and Business law, Family law and civil code of procedures",
+      "studyType": "Legal Studies",
+      "startDate": "",
+      "endDate": "2014-01-01",
+      "score": "",
+      "courses": ["Legal system software training"]
+    },
+    {
+      "institution": "Real Estate Trainers",
+      "area": "Real Estate",
+      "studyType": "California Real Estate Salesperson License",
+      "startDate": "",
+      "endDate": "2005-01-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Administrative Skills",
+      "level": "",
+      "keywords": ["Adobe Acrobat", "Microsoft Office", "Outlook", "Client and Employee Management", "Excellent Customer Service Skills", "Client Relations", "Privileges & Fiduciary Understanding", "Budgeting and Financial Planning"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

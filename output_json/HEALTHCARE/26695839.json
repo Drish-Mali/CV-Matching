@@ -1,0 +1,103 @@
+{
+  "basics": {
+    "name": "Commission Specialist",
+    "label": "Business Administrator",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Results-focused, goal oriented, Business/Financial analyst with extensive experience in the business, nonprofit and health care sectors. MBA graduate with a focus on project management and administration. Superior analytical and quantitative skills with proficiency in data entry, Access, Excel, Crystal Reports and various statistical software.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Commission Specialist",
+      "url": "",
+      "startDate": "2016-01",
+      "endDate": "Current",
+      "summary": "Posts over 300,000 dollars in commissions each month. Reviews and processes commission statements from 15 insurance carriers per week.",
+      "highlights": [
+        "Posts all commissions with a 99 percent accuracy.",
+        "Processes adjustments to correct commission errors and/or discrepancies.",
+        "Analyses Excel spreadsheets with thousands of lines of revenue for consistency.",
+        "Performs monthly reconciliation of cash to the general ledger which is used to calculate the monthly commission payments.",
+        "Interacts with a variety of brokers and departments in Salesforce.",
+        "Enters over 10 new service lines of coverage and completes 20 tasks per week in Salesforce.",
+        "Inputs or adjusts 20 to 200 commission payment splits in proprietary commission system per month for biweekly revenue distribution."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Business and Healthcare Instructor",
+      "url": "",
+      "startDate": "2015-01",
+      "endDate": "2016-01",
+      "summary": "Increased student enrolment by 20% year over year. Improved graduation rate in MA program by 25% with average GPA of 3.0.",
+      "highlights": [
+        "Assisted placement of 100 students in employed positions as medical assistance, medical coders and IT technicians.",
+        "Edited 100 resumes for consistency, accuracy and relevancy.",
+        "Taught 125 students in a year data entry, Excel, PowerPoint and Word.",
+        "Improved accuracy of Stars Database by 10%."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "IONA COLLEGE",
+      "url": "",
+      "area": "Business Administration",
+      "studyType": "MBA",
+      "startDate": "2012",
+      "endDate": "",
+      "score": "",
+      "courses": [
+        "Operations Management",
+        "Quality Management",
+        "Quantitative Management"
+      ]
+    },
+    {
+      "institution": "SUNY EMPRIE STATE COLLEGE",
+      "url": "",
+      "area": "Public Policy",
+      "studyType": "MA",
+      "startDate": "2011",
+      "endDate": "",
+      "score": "",
+      "courses": [
+        "Policy Implementation",
+        "Qualitative Methods",
+        "Quantitative Methods",
+        "Business Compliance"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Business Administration",
+      "level": "Expert",
+      "keywords": [
+        "Data Entry",
+        "Project Manager",
+        "Business Manager",
+        "Performance Analyst",
+        "Research & Analysis",
+        "Leadership & Supervision",
+        "Program/Policy Development",
+        "Process Improvement",
+        "Financial Cost Modeling",
+        "Report Writing"
+      ]
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

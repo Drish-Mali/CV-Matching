@@ -1,0 +1,102 @@
+{
+  "basics": {
+    "name": "Business Development Associate",
+    "label": "Sales Professional",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "High performing and advanced sales professional of 10 years that can benefit your company. Extensive experience in sales and customer service, both in the auto and the software industry. Have sold almost $3 million in sales over the last 6 years at Thomson Reuters as an inside technical sales representative.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": [
+    ]
+  },
+  "work": [
+    {
+      "name": "Thomson Reuters",
+      "position": "Business Development Associate",
+      "url": "",
+      "startDate": "2009-01-01",
+      "endDate": "current",
+      "summary": "High achiever in fast-paced technical sales role. Presidents Club Member in the 2013 for being among the top 10% in sales for Thomson Reuters, sold over $695,000 products, support, and training. Have helped hundreds of accounting firms improve their technical process. Also served in other capacities including product support and team leadership.",
+      "highlights": [
+          "Top in Core Sales in 2010 for Accounting CS",
+          "Top in Core Sales in 2010 for Accounting CS Payroll",
+          "110% Quota Achievement 2013",
+          "150K Revenue Increase 2013",
+          "Platinum Revenue Achievers Club",
+          "Top Units Sold for Scheduled Training 2013",
+          "Presidents Club Award 2013"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Sales and Leasing Consultant",
+      "url": "",
+      "startDate": "2005-01-01",
+      "endDate": "2009-01-01",
+      "summary": "Achieved top sales position within six months. Developed superior customer relations and services.",
+      "highlights": [
+          "Averaged twice minimum quota in second year"
+      ]
+    }
+  ],
+  "volunteer": [
+  ],
+  "education": [
+    {
+      "institution": "Asbury Theological Seminary",
+      "url": "",
+      "area": "Counseling",
+      "studyType": "Master of Divinity",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": [
+      ]
+    },
+    {
+        "institution": "Asbury College",
+        "url": "",
+        "area": "Psychology",
+        "studyType": "Bachelor of Arts",
+        "startDate": "",
+        "endDate": "",
+        "score": "",
+        "courses": [
+        ]
+      }
+  ],
+  "awards": [
+  ],
+  "certificates": [
+    
+  ],
+  "publications": [
+  ],
+  "skills": [
+    {
+      "name": "Sales",
+      "level": "Advanced",
+      "keywords": [
+        "Microsoft products",
+        "leadership training",
+        "customer service and support"
+      ]
+    }
+  ],
+  "languages": [
+  ],
+  "interests": [
+  ],
+  "references": [
+  ],
+  "projects": [
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Finance Officer",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "To attain a full-time position in the accounting and finance field where I can utilize the concepts I have learned and the experience I have gained to add value to the company.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "San Francisco",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Finance Officer",
+      "url": "",
+      "startDate": "1997-01-01",
+      "endDate": "2014-04-01",
+      "summary": "Managed working funds of the office. Maintained general ledger of the office. Reconciled sub-ledgers to general ledger account. Reviewed financial status to ensure there are no discrepancies.",
+      "highlights": [
+        "Managed working funds of the office",
+        "Maintained general ledger of the office",
+        "Reconciled sub-ledgers to general ledger account",
+        "Reviewed financial status to ensure there are no discrepancies"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Tourism Assistant",
+      "url": "",
+      "startDate": "1994-01-01",
+      "endDate": "1997-01-01",
+      "summary": "Handled accounting and financial reports. Entertained visitors of the Tourism Director. Answered phone inquiries and mailed brochures and promotional materials they requested.",
+      "highlights": [
+        "Handled accounting and financial reports",
+        "Entertained visitors of the Tourism Director",
+        "Answered phone inquiries and mailed brochures"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Finance Officer and Acting BIR Representative",
+      "url": "",
+      "startDate": "1985-06-01",
+      "endDate": "1993-12-01",
+      "summary": "Managed Consulate funds averaging $600,000 per month. Transferred funds among other foreign offices averaging $50,000 per transaction. Coordinated activities for fiscal agents.",
+      "highlights": [
+        "Managed Consulate funds",
+        "Transferred funds among other foreign offices",
+        "Coordinated activities for fiscal agents"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Account Examiner",
+      "url": "",
+      "startDate": "1980-01-01",
+      "endDate": "1985-01-01",
+      "summary": "Examined financial reports of Foreign Service posts. Prepared reports of disbursements and collections of posts. Liquidated cash advances of assistant secretaries and ambassadors.",
+      "highlights": [
+        "Examined financial reports",
+        "Prepared reports of disbursements and collections",
+        "Liquidated cash advances"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Batangas",
+      "url": "",
+      "area": "Commerce Accounting",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "1975-01-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Accounting and Finance",
+      "level": "",
+      "keywords": [
+        "accounting",
+        "accounts payable",
+        "bank reconciliation",
+        "budgeting",
+        "financial reporting",
+        "general ledger",
+        "Microsoft Office",
+        "QuickBooks"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

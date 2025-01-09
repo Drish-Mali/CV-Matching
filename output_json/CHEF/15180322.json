@@ -1,0 +1,124 @@
+{
+   "basics":{
+      "name":"Not Specified",
+      "label":"Chef",
+      "image":"",
+      "email":"",
+      "phone":"",
+      "url":"",
+      "summary":"I am a nursing student who has recently obtained my CNA license in this state. I worked as a GNA in the UK and it has been a passion ever since. I am confident that I would make a wonderful candidate for this position. From he beginning of taking my prerequisite classes for Nursing School. I have ebb driven yet still personable. My record shows me to muti-task oriented.",
+      "location":{
+         "address":"",
+         "postalCode":"",
+         "city":"",
+         "countryCode":"",
+         "region":""
+      },
+      "profiles":[
+
+      ]
+   },
+   "work":[
+      {
+         "name":"Company Name",
+         "position":"Chef",
+         "url":"",
+         "startDate":"2007-03-01",
+         "endDate":"2008-12-01",
+         "summary":"Extensive knowledge of all aspects of the food industry as well as the natural foods industry. I have a degree in Culinary arts and Chef in a fine dining establishment.",
+         "highlights":[
+
+         ]
+      },
+      {
+         "name":"Company Name",
+         "position":"CNA/GNA within Assisted living facility",
+         "url":"",
+         "startDate":"2005-01-01",
+         "endDate":"2007-01-01",
+         "summary":"Assisted with various tasks including observation and documentation of patient status, assistance with mobility and nutrition, maintaining cleanliness and organization, and more.",
+         "highlights":[
+
+         ]
+      },
+      {
+         "name":"Company Name",
+         "position":"Office Manager",
+         "url":"",
+         "startDate":"1998-02-01",
+         "endDate":"2004-12-01",
+         "summary":"Point of contact for all contacts for a commercial grounds maintenance company. Responsible for all office operations",
+         "highlights":[
+
+         ]
+      }
+   ],
+   "volunteer":[
+      {
+         "organization":"Various Local and International Groups",
+         "position":"Volunteer",
+         "url":"",
+         "startDate":"",
+         "endDate":"",
+         "summary":"Volunteered over the years for various local and international groups including Moveable Feast, United Way, as well as a church group that involved volunteering in the Dominican Republic for 9 months.",
+         "highlights":[
+
+         ]
+      }
+   ],
+   "education":[
+      {
+         "institution":"Baltimore International College",
+         "url":"",
+         "area":"Culinary Arts",
+         "studyType":"AA degree",
+         "startDate":"",
+         "endDate":"",
+         "score":"4.0",
+         "courses":[
+            "Coursework in GEN ED - plus CULINARY Arts",
+            "Coursework in Anatomy, Physiology and Health Assessments"
+         ]
+      }
+   ],
+   "awards": [
+
+   ],
+   "certificates": [
+
+   ],
+   "publications": [
+
+   ],
+   "skills":[
+      {
+         "name":"Customer Service",
+         "level":"",
+         "keywords":[
+            "Client Relations",
+            "Office Operations",
+            "Culinary Arts",
+            "Sales"
+         ]
+      }
+   ],
+   "languages":[
+
+   ],
+   "interests":[
+      {
+         "name":"Community Service",
+         "keywords":[
+            "Moveable Feast",
+            "United Way",
+            "Church group"
+         ]
+      }
+   ],
+   "references":[
+
+   ],
+   "projects":[
+
+   ]
+}

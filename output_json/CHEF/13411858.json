@@ -1,0 +1,132 @@
+{
+    "basics": {
+        "name": "Not Given",
+        "label": "Pampered Chef",
+        "summary": "An award-winning and recognized salesperson and Corporate trainer.",
+        "location": {
+        },
+        "profiles": []
+    },
+    "work": [
+        {
+            "name": "Pampered Chef",
+            "position": "Corporate Trainer and Salesperson",
+            "startDate": "02/1995",
+            "summary": "I continually, and successfully, organize and coordinate regional customer appreciation and employee training events."
+        },
+        {
+            "name": "Company Not Given",
+            "position": "Chief Concierge, Team Leader",
+            "startDate": "06/1992",
+            "endDate": "06/1995",
+            "summary": "My goal was to make sure each guest felt right at home, as if they WERE home. "
+        },
+        {
+            "name": "Company Not Given",
+            "position": "Founder/Public Relations/Lead Instructor",
+            "startDate": "01/1988",
+            "endDate": "06/2003",
+            "summary": "Raised in an entrepreneurial family, I opened my own dance and tumbling school at 18. "
+        }
+    ],
+    "education": [
+        {
+            "institution": "San Diego State University",
+            "area": "Athletic Training/Sports Medicine",
+            "studyType": "Bachelor",
+            "startDate": "1992",
+            "summary": "I completed a 5-year internship working with the university's athletes and graduated with outstanding grades in the field of Sports Medicine and Athletic Training."
+        },
+        {
+            "institution": "Grossmont College",
+            "area": "General Education",
+            "startDate": "1990"
+        },
+        {
+            "institution": "Miramar Community College",
+            "area": "Fire Science/Emergency Medical Technician (EMT)",
+            "startDate": "1989"
+        }
+    ],
+    "awards": [],
+    "certificates": [],
+    "publications": [],
+    "skills": [
+        {
+            "name": "Enthusiastic people person",
+            "level": "Master"
+        },
+        {
+            "name": "Strong public speaking skills",
+            "level": "Master"
+        },
+        {
+            "name": "Motivational and inspirational",
+            "level": "Master"
+        },
+        {
+            "name": "Goal-setting, goal-achieving",
+            "level": "Master"
+        },
+        {
+            "name": "Great organizational skills",
+            "level": "Master"
+        },
+        {
+            "name": "Creative training techniques",
+            "level": "Master"
+        },
+        {
+            "name": "Group instruction",
+            "level": "Master"
+        },
+        {
+            "name": "Learning strategies",
+            "level": "Master"
+        },
+        {
+            "name": "Writing",
+            "level": "Master"
+        },
+        {
+            "name": "Team building",
+            "level": "Master"
+        },
+        {
+            "name": "Problem solving",
+            "level": "Master"
+        },
+        {
+            "name": "Group and one-on-one coaching",
+            "level": "Master"
+        },
+        {
+            "name": "Curriculum development",
+            "level": "Master"
+        },
+        {
+            "name": "Encouraging group participation",
+            "level": "Master"
+        },
+        {
+            "name": "Implementing team incentives",
+            "level": "Master"
+        },
+        {
+            "name": "Self-driven",
+            "level": "Master"
+        },
+        {
+            "name": "Creating performance motivation",
+            "level": "Master"
+        },
+        {
+            "name": "High level of professionalism",
+            "level": "Master"
+        }
+    ],
+    "languages": [],
+    "interests": [],
+    "references": [],
+    "projects": []
+}

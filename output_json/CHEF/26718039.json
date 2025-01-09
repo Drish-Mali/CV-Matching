@@ -1,0 +1,87 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Chef",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Experienced catering chef skilled in preparing large volumes of food quickly and efficiently. Highly skilled in international cuisine. Seeking a position at a restaurant where I can call it 'home'",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Chef",
+      "url": "",
+      "startDate": "2009-05-01",
+      "endDate": "Current",
+      "summary": "Manage daily kitchen operations including inventory, purchasing, and scheduling. Ensure proper food handling methods are observed. Assist kitchen staff in producing food for catering. Systematically control food quality and costs. Develop new menu items to enhance catering and retail food service revenue and productivity goals.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Catering Chef",
+      "url": "",
+      "startDate": "2000-06-01",
+      "endDate": "2009-05-01",
+      "summary": "Effectively managed food production for catered events. Enforced appropriate work-flow and quality controls for food quality. Conducted daily inventory and ordering. Assisted catering staff in setup and delivery. Managed catering schedule and logistics.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Line Cook",
+      "url": "",
+      "startDate": "1990-01-01",
+      "endDate": "2000-06-01",
+      "summary": "Set up and prep work for all food items. Prepared various daily lunch special items. Assisted in producing food for catered events. Conducted daily food inventory and ordering.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Chef Skills",
+      "level": "",
+      "keywords": [
+        "Delivery",
+        "Detail Oriented",
+        "English",
+        "Inventory",
+        "Inventory Management",
+        "Logistics",
+        "Producing",
+        "Purchasing",
+        "Quality",
+        "Retail",
+        "Scheduling",
+        "Spanish",
+        "Workflow"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": ""
+    },
+    {
+      "language": "Spanish",
+      "fluency": ""
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

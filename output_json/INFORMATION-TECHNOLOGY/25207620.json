@@ -1,0 +1,193 @@
+{
+  "basics": {
+    "name": "William Hale",
+    "label": "Information Technology Certified Technician",
+    "email": "",
+    "phone": "",
+    "summary": "Over Nineteen years of experience in Information Technology.Information Technology professional with well-developed interpersonal, communication, organizational and presentation skills.",
+    "location": {},
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Information Technology Certified Technician",
+      "startDate": "2010-03-01",
+      "endDate": "Current",
+      "summary": "Desktop support, software/hardware installations and configurations for Manhattan area."
+    },
+    {
+      "name": "Company Name",
+      "position": "Senior Technical Support Technician",
+      "startDate": "2006-01-01",
+      "endDate": "2011-01-01",
+      "summary": "Senior Desktop Support Analyst responsible for software & hardware assets for company. Dedicated technician to 500+ end users. Senior Technician for SAP Project 2006-2010."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Computer Career College",
+      "area": "Information Technology",
+      "studyType": "MCSE,CNA, A+,CNA",
+      "startDate": "2017-01-01",
+      "endDate": "2017-12-31"
+    },
+    {
+      "institution": "City University of New York",
+      "area": "Computer and Information Systems Security / Information Assurance",
+      "studyType": ""
+    },
+    {
+      "institution": "Rollins College",
+      "area": "Finance",
+      "studyType": "",
+      "startDate": "1987-01-01",
+      "endDate": "1987-12-31"
+    },
+    {
+      "institution": "Hofstra College",
+      "area": "Business Administration",
+      "studyType": "",
+      "startDate": "1962-01-01",
+      "endDate": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Technical Support",
+      "level": "Advanced",
+      "keywords": []
+    },
+    {
+      "name": "Software Documentation",
+      "level": "Advanced",
+      "keywords": []
+    },
+    {
+      "name": "Hardware Support",
+      "level": "Advanced",
+      "keywords": []
+    },
+    {
+      "name": "Hardware Installation",
+      "level": "Advanced",
+      "keywords": []
+    },
+    {
+      "name": "Windows",
+      "level": "Intermediate",
+      "keywords": ["Windows 7", "Windows 8.1"]
+    },
+    {
+      "name": "Internet Explorer",
+      "level": "Intermediate",
+      "keywords": []
+    },
+    {
+      "name": "Operating Systems",
+      "level": "Intermediate",
+      "keywords": ["Mac OS", "DOS"]
+    },
+    {
+      "name": "Mobile Devices",
+      "level": "Intermediate",
+      "keywords": ["iPad", "iPhone"]
+    },
+    {
+      "name": "Networking",
+      "level": "Intermediate",
+      "keywords": ["IP"]
+    },
+    {
+      "name": "Customer Service",
+      "level": "Expert",
+      "keywords": []
+    },
+    {
+      "name": "Certifications",
+      "level": "Beginner",
+      "keywords": ["MCSE", "MCP", "CNA", "Comptia A+", "HIPPA", "SEC Series"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [
+    {
+      "name": "Roz Arasmo",
+      "reference": "It is with great pleasure do I take this opportunity to write this recommendation on such an extra ordinary individual who is not only an awesome person to know but a wonderful colleague as well."
+    },
+    {
+      "name": "Lorilee Dickson",
+      "reference": "Bill is a diligent and hard-working professional with excellent customer service skills and exceptional knowledge of the IT industry. Each time I requested support, he was quick to respond and completed each request completely and with urgency."
+    },
+    {
+      "name": "Jose Miguel Morales",
+      "reference": "I am deeply impressed by Mr. Hale and recommend him unhesitatingly. I am confident that, if selected for your vacancy, he would provide the same high level of service and commitment."
+    }
+  ],
+  "projects": [],
+  "certificates": [
+    {
+      "name": "Technical Support",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "Hardware Support",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "Hardware Installation",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "Windows",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "Internet Explorer",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "Operating Systems",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "Mobile Devices",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "Networking",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "Customer Service",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "Certifications",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "awards": []
+}

@@ -1,0 +1,91 @@
+{
+  "basics": {
+    "name": "",
+    "label": "ASSISTANT SECRETARY/PARKS & REC DIRECTOR",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Flexible accounting professional who adapts seamlessly to constantly evolving accounting processes and technologies.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Assistant Secretary/Parks & Rec Director",
+      "url": "",
+      "startDate": "2014-09-01",
+      "endDate": "Current",
+      "summary": "Assist the Secretary with daily accounting duties. Prepare Deposits. Answer Phones and process mail. Interact with the public and Township employees. Posting of supervisor meeting minutes. Updating of ordinances and resolutions. Create a master plan for the parks & rec department. Monitor the parks for maintenance issues. Maintain the township's social media accounts.",
+      "highlights": [
+      "Initiated the use of a computerized accounting system",
+      "Increased office organization by developing a more efficient filing system",
+      "Updated excel charts and worksheets to be more efficient"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Administrative Assistant",
+      "url": "",
+      "startDate": "2009-07-01",
+      "endDate": "2014-09-01",
+      "summary": "Assist the Treasurer with daily accounting duties",
+      "highlights": [ "Prepare & process payroll for 20+ employees", "Entering of cash receipts", "Prepare Deposits" ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Bookkeeper",
+      "url": "",
+      "startDate": "2008-06-01",
+      "endDate": "2009-04-01",
+      "summary": "Responsible for A/R, A/P, Payroll and Bank Reconciliations",
+      "highlights": [ "Prepare Deposits", "Summarize Daily Sales", "Responsible for Collection of Accounts Receivable", "Prepare Customer Invoices", "Prepare Weekly Cash Flow Report", "Prepare Monthly Comparative Financial Statements", "Answer Phones" ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Susquehanna University",
+      "url": "",
+      "area": "Accounting",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Accounting",
+      "level": "",
+      "keywords": [
+        "QuickBooks",
+        "Budgeting",
+        "A/R",
+        "A/P",
+        "G/L",
+        "Bank Reconciliations",
+        "Payroll processing",
+        "Fast Learner",
+        "Highly Dependable",
+        "Excellent analytical and organizational abilities",
+        "Self-motivated"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

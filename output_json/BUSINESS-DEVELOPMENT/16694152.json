@@ -1,0 +1,93 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Business Development Executive",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Results driven sales professional with an exemplary record of developing strategic initiatives to enhance sales. Thrives on a challenge, initiates action and entrepreneurial in business approach. Able to seize opportunities and demonstrates excellent networking skills. Exudes energy and enthusiasm while consistently meeting or exceeding sales targets. Offers an excellent record of experience and accomplishments.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Business Development Executive",
+      "url": "",
+      "startDate": "2008-09",
+      "endDate": "Current",
+      "summary": "Responsible for managing the entire sales cycle with accountability to engage specialist team members...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Client Advisor",
+      "url": "",
+      "startDate": "2005-09",
+      "endDate": "2008-09",
+      "summary": "Developed new business leads and increase client base through focused personal marketing efforts that include...",
+      "highlights": ["Awarded 'Client Advisor of the Month' 18 times", "Achieved BMW of North America's highest sales award for exceeding yearly sales quotas for 2006 and 2007", "Received sales incentive awards for the most on-the-spot sales and client retention."]
+    },
+    {
+      "name": "Company Name",
+      "position": "Sales Representative",
+      "url": "",
+      "startDate": "2001-11",
+      "endDate": "2005-09",
+      "summary": "Established relationships with key target physicians in assigned territory...",
+      "highlights": ["Gained highest sales percentage from new product growth since March 2005", "Achieved quarterly sales goal as well as maintained top 25% status throughout tenure"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Document Solutions Executive",
+      "url": "",
+      "startDate": "1999-04",
+      "endDate": "2003-11",
+      "summary": "Marketed photocopiers and facsimile equipment to businesses, schools, and individuals within the assigned territory...",
+      "highlights": ["Achieved 100% of a $3M quota during fiscal year 2001 and 2002", "Received highest sales award company-wide February 2000", "Received Team Player award for second quarter 2001", "Received Document Management Consultant of the Year award for 2001 and 2002"]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Hampton University",
+      "url": "",
+      "area": "Political Science",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "1998-05",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Ricoh University",
+      "url": "",
+      "area": "Image Management",
+      "studyType": "Certification",
+      "startDate": "2001-01",
+      "endDate": "2001-01",
+      "score": "",
+      "courses": ["National Sales Training Phases I, II, and III, Forest Laboratories, April 2004", "Leadership Workshop, BMW and Porsche of Arlington, October 2006", "Understanding Leasing, BMW and Porsche of Arlington, September 2007", "BMW of North America Quality Assurance Workshop, BMW and Porsche of Arlington"]
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Sales",
+      "level": "",
+      "keywords": ["Articulate", "Benefits", "Business Plan", "Closing", "Cold Calling", "Competitive", "Consultant", "Corporate Training", "Document Management", "Facsimile", "Features", "Focus", "Image", "Inventory", "Leadership", "Managing", "Marketing", "Needs Analysis", "Networking", "New Business Development", "Presentations", "Profit", "Quality Assurance", "Sales Training", "Seminars", "Statistics", "Team Player", "Telemarketing"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

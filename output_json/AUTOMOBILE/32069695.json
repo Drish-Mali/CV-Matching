@@ -1,0 +1,132 @@
+{
+  "basics": {
+    "name": "Unidentified",
+    "label": "Customer Service Representative",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "summary": "Highly enthusiastic customer service professional with 10 year client interface experience. Dedicated to maintaining customer satisfaction and contribute to company success. Strong organizational skills, detail-oriented, and versatile across different roles.",
+    "location": {
+      "address": "Unidentified",
+      "postalCode": "Unidentified",
+      "city": "Unidentified",
+      "countryCode": "Unidentified",
+      "region": "Unidentified"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Customer Service Representative",
+      "url": "",
+      "startDate": "2011-03",
+      "endDate": "Current",
+      "summary": "Maintained up-to-date knowledge of store policies regarding payments, returns and exchanges. Prevented store losses using awareness, attention to detail and integrity. Worked as a team member performing cashier duties, product assistance. Interacted with customers and retail buyers to follow-up on shipping statuses and expedited orders.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Administrative Assistant",
+      "url": "",
+      "startDate": "2009-01",
+      "endDate": "Current",
+      "summary": "Managed the receptionist area, including greeting visitors and responding to telephone and in-person requests for information. Prepared and executed meetings alongside handling all media and public relations inquiries. Responsible for organization and maintenance of electronic and paper files.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Licensed Insurance Agent",
+      "url": "",
+      "startDate": "2007-03",
+      "endDate": "2007-12",
+      "summary": "Handled all tasks related to insurance policy. Engaged with prospective clients to understand their financial needs and existing insurance coverages. Developed leads for life and commercial insurance to meet sales targets.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Personal Banker",
+      "url": "",
+      "startDate": "2006-04",
+      "endDate": "2007-03",
+      "summary": "Focused on establishing new customer accounts including checking, savings, lines of credit and loans. Balanced daily cash deposits with a zero error rate. Delivered prompt, accurate, and high-quality customer service.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Senior Financial Representative",
+      "url": "",
+      "startDate": "2003-03",
+      "endDate": "2006-03",
+      "summary": "Handled account openings for new customers. Balanced daily cash deposits and bank vault inventory with a zero error rate. Attended to customer�s enquiries about their personal savings and checking.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Credit Card Specialist",
+      "url": "",
+      "startDate": "2000-02",
+      "endDate": "2003-08",
+      "summary": "Managed customer inquiries timely and accurately. Formulated and enforced Service Center policies, procedures, and quality assurance measures. Maintained effective relationships with all call center departments through clear communication.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Member Services Representative / Dispatcher",
+      "url": "",
+      "startDate": "1997-07",
+      "endDate": "2000-03",
+      "summary": "Responsible for evaluation of service locations and schedule adjustments. Successfully negotiated contracts with outside providers to handle calls. Developed strong relationships with all call center departments and guaranteed appropriate changes for improved customer satisfaction.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Bank Teller",
+      "url": "",
+      "startDate": "1995-03",
+      "endDate": "1996-02",
+      "summary": "Processed sales referrals and promoted bank services and products. Adhered to bank's security and audit procedures. Maintained confidentiality of bank records and client information",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "SUNY Old Westbury College",
+      "area": "Sociology",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "2016",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Customer service",
+      "level": "Expert",
+      "keywords": []
+    },
+    {
+      "name": "Organizational skills",
+      "level": "Strong",
+      "keywords": []
+    },
+    {
+      "name": "Conflict resolution",
+      "level": "Seasoned",
+      "keywords": []
+    },
+    {
+      "name": "Communication skills",
+      "level": "Strong",
+      "keywords": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

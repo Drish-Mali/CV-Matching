@@ -1,0 +1,104 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Substitute Teacher",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Seeking an Administrative position where my professional experience and education will allow me to make an immediate contribution as an integral part of a progressive company, which will require me to apply my knowledge to assist the company in the accomplishment of its goals and develop excellent work environment. Extensive background in HR generalist affairs, including experience in recruitment and retention, staff development, mediation, conflict resolution, benefits and compensation Highly knowledgeable in HR policies development and legal compliance Ability to balance the books and handle finances in a responsible manner Effectively developed team building programs, including writing personal manuals, corporate policies, job descriptions and management reports. Bilingual: Fluent in Spanish and English",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "School",
+      "position": "Substitute Teacher",
+      "url": "",
+      "startDate": "2014-12",
+      "endDate": "2015-05",
+      "summary": "Prepare classwork based on lesson plans established by the primary teacher. Demonstrate versatility in methods of instruction by understanding the lesson development plan. Demonstrate and understanding of adopting school cultural practices by observing teachers and adapting quickly to work environment. Ability to manage time with teachers and students within the adopting school schedule. Frequently substituted teachers for ESL/ESOL, Spanish (elementary level) and special education classes. Managed to be selected as a paraprofessional for students with special needs.",
+      "highlights": []
+    },
+    {
+      "name": "Genesis tcm corp., orlando, fl.",
+      "position": "Human Resources Manager",
+      "url": "",
+      "startDate": "2014-01",
+      "endDate": "2014-07",
+      "summary": "Prepared and handled assignments for employees by establishing and conducting orientation and training program. Maintained work structure by updating job requirements and job descriptions for all positions. Created and updated comprehensive employee recruiting strategies to supplement staffing and attract talented candidates. Audited workplace; ensured employee and management policies and procedures were followed. Controlling cost and ensuring that they do not exceed budgets. Updated key human resources metrics, including turnover and termination, using reporting tools on the HRMS database.",
+      "highlights": []
+    },
+    {  
+      "name": "Company",
+      "position": "Store Manager",
+      "url": "",
+      "startDate": "2010-12",
+      "endDate": "2014-07",
+      "summary": "Managed and administered the entire store which included Human Resources, payroll, budget and planning. Educated and advised employees on group health plans, voluntary benefits and 401(k) retirement plans, FMLA, FSA, PTO, HIPAA and Work Compensation benefits. Responsible for interviewing new employees and facilitated new hire orientation. Direct personnel, training and labor relations activities. Providing leadership, management, coaching, monitoring a direction to the employees to achieve targets. Maintaining the personal file of the employees updated and keeps tracking of record attendance. Responding to letters, emails and general correspondence. Providing clerical and administrative support to staff of the Human Resources department. Handling employee's full and final settlement, exit interviews process. Responsible for preparing and developing Loss Prevention meetings.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "The Real Estate Institute (TREI)",
+      "url": "",
+      "area": "Sales Associate FREC 1 Pre- Licensing",
+      "studyType": "",
+      "startDate": "2015-09-08",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "University of Turabo (UT) SUAGM",
+      "url": "",
+      "area": "Management",
+      "studyType": "B.B.A",
+      "startDate": "",
+      "endDate": "2014-05",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Universidad Del Sagrado Corazón (USC)",
+      "url": "",
+      "area": "Journalism",
+      "studyType": "B.A",
+      "startDate": "",
+      "endDate": "2003-05",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Administrative Support",
+      "level": "Expert",
+      "keywords": ["HR policies", "Recruitment", "Retention", "Staff development", "Mediation", "Conflict resolution", "Benefits and compensation", "Team building", "Budget and planning", "Spanish language"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

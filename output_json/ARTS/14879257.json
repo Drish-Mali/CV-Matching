@@ -1,0 +1,128 @@
+{
+  "basics": {
+    "name": "John Doe",
+    "label": "Bilingual Language Arts Sixth Grade Teacher",
+    "email": "",
+    "phone": "",
+    "summary": "Dedicated and enthusiastic professional with over four years' experience in education...",
+    "location": {
+      "city": "",
+      "countryCode": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Bilingual Language Arts Sixth Grade Teacher",
+      "startDate": "2014-08",
+      "endDate": "Current",
+      "summary": "Developed and implemented interesting and interactive learning mediums..."
+    },
+    {
+      "name": "Company Name",
+      "position": "Bilingual Substitute Teacher",
+      "startDate": "2014-01",
+      "endDate": "2014-05",
+      "summary": "Worked in elementary schools and substitute several classroom programs..."
+    },
+    {
+      "name": "Company Name",
+      "position": "Bilingual 4th Grade Teacher",
+      "startDate": "2013-07",
+      "endDate": "2014-01",
+      "summary": "Developed and implemented plans inclusive of: following Independent Education Plans (Special Education)..."
+    },
+    {
+      "name": "Company Name",
+      "position": "Student Development Assistant",
+      "startDate": "2011-04",
+      "endDate": "2012-07",
+      "summary": "Coordinated community tours for prospective students, families and community visitors..."
+    },
+    {
+      "name": "Company Name",
+      "position": "Academic Advisor/ Spanish Instructor",
+      "startDate": "2010-06",
+      "endDate": "2010-07",
+      "summary": "Assisted students one-on-one with college preparation assignments..."
+    },
+    {
+      "name": "Company Name",
+      "position": "Program Coordinator",
+      "startDate": "2009-07",
+      "endDate": "2010-07",
+      "summary": "Oversaw the development of a start-up organization..."
+    },
+    {
+      "name": "Company Name",
+      "position": "Math Teacher",
+      "startDate": "2009-01",
+      "endDate": "2009-05",
+      "summary": "Taught beginner English grammar and literature, World History and TOEFL Prep to international students..."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Tarrant County College",
+      "area": "",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "2011-05",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Northern Arizona University",
+      "area": "",
+      "studyType": "Bachelor of Arts",
+      "startDate": "",
+      "endDate": "2009",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Elon University",
+      "area": "International Studies",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Employee of the Month Educational Support Services Department",
+      "date": "2010-02",
+      "awarder": "AmeriCorps VISTA",
+      "summary": ""
+    },
+    {
+      "title": "Most Inspirational Employee",
+      "date": "2009-12",
+      "awarder": "Northern Arizona University",
+      "summary": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Teaching",
+      "level": "",
+      "keywords": ["arts", "English", "instruction", "Latin", "letters", "Logic", "materials", "math", "presentations", "progress", "promotion", "Read", "research", "Spanish", "Spanish language", "strategy", "supervisor", "teacher", "tutoring", "VISTA", "workshops"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Bilingual"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

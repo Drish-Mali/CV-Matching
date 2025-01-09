@@ -1,0 +1,146 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Director of Finance",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Seasoned Certified Management Accountan and financial leader with deep and broad health care industry experience in forecasting, financial planning and analysis, operations, reporting, and strategic planning",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Director of Finance",
+      "url": "",
+      "startDate": "2002-07-01",
+      "endDate": "current",
+      "summary": "Financial planning and analysis leadership and support for Consumer Service, Claims...",
+      "highlights": [
+        "Financial oversight of onshore and offshore vendor relationships with an annual budget of approximately $120M...",
+        "Served as the finance lead on the consolidation of Medicare and Retirement Customer Service organization, with an annual budget of $120M, into Benefit Operations..."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Director of Finance - UHC M&R",
+      "url": "",
+      "startDate": "2006-01-01",
+      "endDate": "2011-01-01",
+      "summary": "Financial oversight for various Operations organizations across nine internal sites...",
+      "highlights": [
+        "Successfully reduced actual operating expense in the service centers by $24M...",
+        "Completed a cost benefit analysis demonstrating the implementation of IVR technology equated to $650,000 in annual savings..."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Manager - Operations Support and Planning",
+      "url": "",
+      "startDate": "2004-03-01",
+      "endDate": "2006-01-01",
+      "summary": "Led a team of 6 Senior Business Analysts. Developed partnerships with other departments...",
+      "highlights": [
+        "Implemented advanced capacity planning software which resulted in optimized hiring of staff...",
+        "Designed and implemented Operational reporting for both intake agents and clinical case managers which led to improved performance and reduction in cost..."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Lead Business Analyst",
+      "url": "",
+      "startDate": "2002-07-01",
+      "endDate": "2004-03-01",
+      "summary": "Created and updated short and long term staffing models and capacity planning documents...",
+      "highlights": [
+        "Participated on a project consolidating 12 call centers into two accounting for overall savings of $5M annually...",
+        "Developed partnerships with other departments, including Finance, Training, Sales, and Account and Product Management to improve forecast accuracy to 97%..."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Hennepin Technical Community College",
+      "url": "",
+      "area": "Accounting",
+      "studyType": "AAS",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Florida State University",
+      "url": "",
+      "area": "Economics",
+      "studyType": "MS",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Franklin and Marshall College",
+      "url": "",
+      "area": "Economics",
+      "studyType": "BA",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Financial planning and analysis",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Budgeting",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Reporting",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Strategic Planning",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Forecasting",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Operations",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [
+    {
+      "name": "Hennepin Technical Community College Accounting Advisory Board Member",
+      "keywords": []
+    }
+  ],
+  "references": [],
+  "projects": []
+}

@@ -1,0 +1,90 @@
+{
+  "basics": {
+    "name": "Information Technology Specialist",
+    "label": "Systems Administrator",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Quality-driven and practical Systems Administrator with [Number] years aligning business systems with business policies and guidelines.",
+    "location": {},
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Information Technology Specialist",
+      "url": "",
+      "startDate": "2013-09-01",
+      "endDate": "2015-12-01",
+      "summary": "Maintained and troubleshoot complex infrastructure. Provided first level of troubleshooting to customers on multiple systems. Diagnosed and replaced failed hardware Line-Replaceable units (LRU). Performed network management services and monitored operating system, Commercial off the Shelf (COTS) software.",
+      "highlights": [
+        "Automated repeatable tasks where possible to increase efficiency",
+        "Consistently received a 100% rate of customer satisfaction",
+        "Performed root cause analysis to identify system errors and improve accuracy by 15%",
+        "Awarded with the Tech of the quarter for contributions to mission"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Systems Engineer",
+      "url": "",
+      "startDate": "2010-05-01",
+      "endDate": "2013-09-01",
+      "summary": "Involved in mission related certification, system testing, problem analysis and total system product analysis. Performed technical planning, system integration, supportability and effective analysis for multiple systems. Provided continued maintenance and development of bug fixes and patch sets for existing web applications.",
+      "highlights": [
+        "Obtained all mission related certification required for the application services provider",
+        "Trained current and new team members on existing and new application services procedure and Commercial off the Shelf (COTS) software",
+        "Performed system health analysis to identify, analyze, collect preliminary data, and recommend effective solution to anomalies",
+        "Coordinated with systems partners to finalize designs and confirm requirements are met"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Systems Engineer Associate",
+      "url": "",
+      "startDate": "2009-02-01",
+      "endDate": "2010-05-01",
+      "summary": "Coordinated all NEAS weekly brown-bag seminar for the VA-95 Technical Resource Center. Served as Windows Subject Matter Expert (SME) to research, create procedures and recommended COTS product.",
+      "highlights": [
+        "Served as Windows Subject Matter Expert (SME) to research, create procedures and recommended COTS product"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Prairie View A&M University",
+      "url": "https://institution.com/",
+      "area": "Computer Engineering Technology",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "2008-05-01",
+      "score": "3.048",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "CompTIA Security + CE SY0-401",
+      "date": "",
+      "issuer": "Certified",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Windows",
+      "level": "",
+      "keywords": [
+        "Windows"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

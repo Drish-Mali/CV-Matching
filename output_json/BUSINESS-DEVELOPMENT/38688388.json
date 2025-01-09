@@ -1,0 +1,130 @@
+{
+  "basics": {
+    "name": "Not Provided",
+    "label": "Director of Business Development",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Sales & Business Development Leader with career track of driving substantial profit margin and sales growth through strategic leadership and client development",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "",
+      "region": "State"
+    },
+    "profiles": [
+      {
+        "network": "",
+        "username": "",
+        "url": ""
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Director of Business Development",
+      "url": "",
+      "startDate": "2014-01-01",
+      "endDate": "2018-01-01",
+      "summary": "Director of Communications. Progressed through roles based on performance and contributions. Led the development of strategies and tactical plans for driving sales and market share growth.",
+      "highlights": [
+        "Secured 4 new full-time accounts for event/transportation services, driving an 80% increase in business growth; achieved and maintained a 95% customer retention rate.",
+        "Drove an increase in customer satisfaction rate to 90% by implementing and executing client engagement initiatives",
+        "Spearheaded the transition from manual to electronic systems, driving 5% cost reduction.",
+        "Increased vendor network by 20%, negotiating favorable contracts to maximize profitability.",
+        "Introduced a new staffing program which led to an increase in functionality and accountability and boosted overall employee participation and engagement."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Inside Sales Representative",
+      "url": "",
+      "startDate": "2013-01-01",
+      "endDate": "2013-12-31",
+      "summary": "Executed sales activities across Denver market, qualifying and prospecting investors for high dollar oil and gas investments.",
+      "highlights": [
+        "Achieved 150% of weekly qualification quota by conducting 400+ cold calls daily, also exceeding established mailing target by 25%."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "General Manager",
+      "url": "",
+      "startDate": "2009-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Provided strategic leadership of operations at 2 retail locations, including production, performance, quality and service management.",
+      "highlights": [
+        "Drove 500% sales increase throughout tenure by introducing targeted marketing strategies and customer engagement initiatives.",
+        "Sourced and secured local vendors and negotiated favorable contracts, yielding ~$20K in annual cost savings."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Assistant Manager",
+      "url": "",
+      "startDate": "2008-01-01",
+      "endDate": "2009-01-01",
+      "summary": "Supported the attainment of daily goals by assisting in overseeing the coordination and execution of sales, customer service and inventory management functions.",
+      "highlights": [
+        "Exceeded challenging sales goals by 30%+ by promoting and upselling products."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "UNIVERSITY OF COLORADO",
+      "url": "",
+      "area": "Business Administration",
+      "studyType": "Bachelor of Arts",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Sales & Business Development",
+      "level": "",
+      "keywords": [
+        "Business Development & Sales Leadership",
+        "Sales Presentations",
+        "Client Development",
+        "Strategic Planning",
+        "Sales Forecasting",
+        "Market Expansion Team Vendor Sourcing/Relations",
+        "Building & Leadership",
+        "Change Management",
+        "Client Engagement",
+        "Process Improvement",
+        "Market Analysis/Competitive Positioning",
+        "Profit Improvement",
+        "account management",
+        "streamline",
+        "business development",
+        "cold calling",
+        "compliance management",
+        "inventory management",
+        "inventory levels",
+        "inventory control",
+        "logistics",
+        "mailing",
+        "marketing strategies",
+        "process management",
+        "sales",
+        "VoIP"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

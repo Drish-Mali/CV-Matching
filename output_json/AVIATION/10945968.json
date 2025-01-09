@@ -1,0 +1,128 @@
+{
+  "basics": {
+    "name": "N/A",
+    "label": "GLOBAL IT PROJECT MANAGER",
+    "image": "",
+    "email": "N/A",
+    "phone": "N/A",
+    "url": "N/A",
+    "summary": "My background is in Information Technology and I have over 20 years experience working in the Aviation Ground Handling sector performing several IT roles. From Support to System Administration and most recently in Project Management",
+    "location": {
+      "address": "N/A",
+      "postalCode": "N/A",
+      "city": "N/A",
+      "countryCode": "N/A",
+      "region": "N/A"
+    },
+    "profiles": [
+      {
+        "network": "N/A",
+        "username": "N/A",
+        "url": "N/A"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Air Menzies International Limited",
+      "position": "Global IT Project Manager",
+      "url": "N/A",
+      "startDate": "2013-05-01",
+      "endDate": "Current",
+      "summary": "A wholesale Freight Agent providing Cargo and Express services in Europe, North America, South Africa and Oceania...",
+    "highlights": ["Data Centre transformation"]
+    },
+    {
+      "name": "Menzies Aviation",
+      "position": "IT Project Manager",
+      "url":"N/A",
+      "startDate": "2007-06-01",
+      "endDate": "2013-05",
+      "summary": "Working out of Menzies Aviation Head Office...",
+      "highlights": ["Implemented IT Infrastructure for new Stations in Hyderabad and Bangalore"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Support Analyst and System Administrator",
+      "url": "N/A",
+      "startDate": "2001-05",
+      "endDate": "2007-05",
+      "summary": "Provided front line support to all UK Cargo Terminals...",
+      "highlights": ["Implemented Global Cargo System in Prague"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Business Analyst",
+      "url": "N/A",
+      "startDate": "1998-05",
+      "endDate": "2001-05",
+      "summary": "Part of the Ogden Cargo System and Support team...",
+      "highlights": []
+    }
+  ],
+  "volunteer": [
+  ],
+  "education": [
+    {
+      "institution": "University of Glamorgan",
+      "url": "N/A",
+      "area": "Mathematics",
+      "studyType": "Bachelor of Science",
+      "startDate": "N/A",
+      "endDate": "1996",
+      "score": "N/A",
+      "courses": []
+    },
+    {
+      "institution": "Cardinal Newman R.C. School",
+      "url": "N/A",
+      "area": "A Levels",
+      "studyType": "N/A",
+      "startDate": "N/A",
+      "endDate": "1992",
+      "score": "N/A",
+      "courses": ["Mathematics & Geography"]
+    },
+    {
+      "institution": "Cardinal Newman R.C. School",
+      "url": "N/A",
+      "area": "GSCEs",
+      "studyType": "N/A",
+      "startDate": "N/A",
+      "endDate": "1992",
+      "score": "N/A",
+      "courses": ["Mathematics", "Geography", "Biology", "English", "French & Physics"]
+    }
+  ],
+  "awards": [
+  ],
+  "publications": [
+  ],
+  "skills": [
+    {
+      "name": "IT Skills",
+      "level": "Expert",
+      "keywords": [
+        "Windows", "Windows Office Suites", "Citrix", "Active Directory", "JIRA", "Trello Project Management Applications", "Service Now ITSM"
+      ]
+    }
+  ],
+  "languages": [
+  ],
+  "interests": [
+    {
+      "name": "Hobbies",
+      "keywords": [
+        "Golf",
+        "Gym Workouts",
+        "English Soccer",
+        "Rugby",
+        "Collage Football",
+        "Watching the Cubs"
+      ]
+    }
+  ],
+  "references": [
+  ],
+  "projects": []
+}

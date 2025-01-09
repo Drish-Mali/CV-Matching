@@ -1,0 +1,122 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Sous Chef",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Reliable, high-performing, individual with 5+ yrs providing excellent service in the restaurant and cooking industry. Seeking new opportunities within the industry to expand my knowledge, provide challenges, and include room to grow. Over a year of experience baking unique and delicious pastries, cakes, and pies. Capable of adapting to regional tastes and various diets...",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": [
+     
+    ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Sous Chef",
+      "url": "",
+      "startDate": "2017-03",
+      "endDate": "Current",
+      "summary": "Works with the executive chef to produce diversified menus... Ensures the hygiene and food safety standards are met in all stages of food preparation...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Garm Chef",
+      "url": "",
+      "startDate": "2016-05",
+      "endDate": "Current",
+      "summary": "Prepare cold food items for a kitchen, such as salads, sandwiches, amuse, soups, cheese plates, charcuterie and desserts... Maintain a clean and organized work environment...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Lead Cook",
+      "url": "",
+      "startDate": "2014-10",
+      "endDate": "2016-05",
+      "summary": "Exhibited thorough knowledge of foods, beverages, and supervisory duties as Lead Cook while directing operations in kitchen... Oversaw the preparation and service of all food...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Front Desk",
+      "url": "",
+      "startDate": "2012-04",
+      "endDate": "2013-06",
+      "summary": "Greeted guests in a timely manner... Answered inquiries regarding the hotel services, charges, and dining facilities...",
+      "highlights": []
+    }
+  ],
+  "volunteer": [
+
+  ],
+  "education": [
+    {
+      "institution": "Culinary Arts",
+      "url": "",
+      "area": "Culinary Arts",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "University of Alaska Anchorage",
+      "url": "",
+      "area": "Graphic Design",
+      "studyType": "Undergraduate",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Seward High School",
+      "url": "",
+      "area": "",
+      "studyType": "High School Diploma",
+      "startDate": "2004",
+      "endDate": "2004",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+
+  ],
+  "certificates": [
+
+  ],
+  "publications": [
+
+  ],
+  "skills": [
+    {
+      "name": "Culinary Arts",
+      "level": "Master",
+      "keywords": []
+    }
+  ],
+  "languages": [
+
+  ],
+  "interests": [
+
+  ],
+  "references": [
+
+  ],
+  "projects": [
+
+  ]
+}

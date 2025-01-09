@@ -1,0 +1,91 @@
+{
+  "basics": {
+    "name": "Unknown",
+    "label": "Staffing Manager",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Professional well adapted to change and possesses extensive expert knowledge of human resources employment process within a variety of industries. Focused on improving productivity, increasing efficiency and enhancing quality. Consistently exceeds goals for staffing and retention.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Staffing Manager",
+      "url": "",
+      "startDate": "2014-06-01",
+      "endDate": "Current",
+      "summary": "Top performer in top quartile of expectations; Recognized for setting branch record for placements hours in first quarter...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Healthcare Recruiter",
+      "url": "",
+      "startDate": "2013-02-01",
+      "endDate": "Current",
+      "summary": "Established relationships with clients and developed recruiting strategies to find the right talent...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Marketing Director",
+      "url": "",
+      "startDate": "2011-12-01",
+      "endDate": "2013-08-01",
+      "summary": "Developed and executed marketing plans for our orthopedic specialty group and implementing them with hospitals...",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Sharyland High School",
+      "url": "",
+      "area": "English, Communications and Journalism",
+      "studyType": "Diploma",
+      "startDate": "1998-01-01",
+      "endDate": "1998-01-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "South Texas Vocational College",
+      "url": "",
+      "area": "",
+      "studyType": "S Diploma",
+      "startDate": "2000-01-01",
+      "endDate": "2000-01-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Staffing",
+      "level": "",
+      "keywords": ["Good judgment", "Human resources policies", "Sales techniques", "Job fairs planning", "Workforce planning"]
+    },
+    {
+      "name": "Healthcare Recruitment",
+      "level": "",
+      "keywords": ["HR compliance training", "Candidate engagement", "Recruitment process management"]
+    },
+    {
+      "name": "Marketing",
+      "level": "",
+      "keywords": ["Marketing planning and execution", "Customer relations", "Branding"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

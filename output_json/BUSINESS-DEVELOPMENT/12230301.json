@@ -1,0 +1,99 @@
+{
+  "basics": {
+    "name": "",
+    "label": "BUSINESS DEVELOPMENT SPECIALIST/AE",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "An exceptionally creative and results-driven marketing professional with over 20 years of successful experience covering the entire gamut of the industry. Extremely adept at all levels of communication; work extremely well independently or as part of a group, while possessing strong supervisory, organizational and staff management skills.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "BUSINESS DEVELOPMENT SPECIALIST/AE",
+      "url": "",
+      "startDate": "2012-09-01",
+      "endDate": "2014-07-01",
+      "summary": "Develop new business and manage existing accounts for #1-rated KESQ-TV / kesq.com. Maintain relationships and service new and existing advertisers; continue / increase KESQ spending levels.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "DIRECTOR OF MARKETING & ADVERTISING",
+      "url": "",
+      "startDate": "2004-01-01",
+      "endDate": "2012-01-01",
+      "summary": "Responsible for all aspects of company branding, marketing, promotions and advertising.",
+      "highlights": ["Increased same-store sales 28%", "average ticket 16% and increased vendor co-op payments over 600% in first 18 months."]
+    },
+    {
+      "name": "Company Name",
+      "position": "CREATIVE MARKETING DIRECTOR",
+      "url": "",
+      "startDate": "1998-01-01",
+      "endDate": "2004-01-01",
+      "summary": "Provide creative marketing / communications solutions and strategies from concept to final production (through distribution).",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "ADVERTISING AND MARKETING DIRECTOR",
+      "url": "",
+      "startDate": "1993-01-01",
+      "endDate": "1998-01-01",
+      "summary": "Conceptualized, wrote, designed, and produced advertising and marketing campaigns and materials for the entire company.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "PUBLICATION DESIGNER / EDITOR",
+      "url": "",
+      "startDate": "1988-01-01",
+      "endDate": "1993-01-01",
+      "summary": "Responsible for the writing, editing, graphic design and production of university catalogs, ads, academic books, professional journals, direct mail campaigns, annual reports, newsletters.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "",
+      "url": "",
+      "area": "Journalism / Marketing",
+      "studyType": "BA",
+      "startDate": "",
+      "endDate": "",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Business Development Specialist/AE",
+      "level": "Master",
+      "keywords": [
+        "advertising",
+        "marketing",
+        "branding",
+        "media planning and placement",
+        "communications",
+        "negotiation"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

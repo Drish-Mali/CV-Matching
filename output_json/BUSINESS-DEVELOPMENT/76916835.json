@@ -1,0 +1,81 @@
+{
+ "basics": {
+  "name": "",
+  "label": "Business Development Manager",
+  "image": "",
+  "email": "",
+  "phone": "",
+  "url": "",
+  "summary": "Energetic, motivated and organized sales representative with results in the oil and gas industry. Accomplished professional with strong background in technical sales and product development.",
+  "location": {
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "countryCode": "",
+    "region": ""
+  },
+  "profiles": []
+ },
+ "work": [
+  {
+   "name": "Company Name",
+   "position": "Business Development Manager",
+   "url": "",
+   "startDate": "2010-06",
+   "endDate": "2012-02",
+   "summary": "Increased overall product line sales by 32% overall. Increased overall sales revenue at Weatherford and Baker Hughes by 40%. Responsible for sales within high temperature, high pressure applications. Secured sales contracts with Baker Hughes, Halliburton and Weatherford resulting in profit increasing by 21%.",
+   "highlights": ["Increased overall sales revenue", "Secured sales contracts"]
+  },
+  {
+   "name": "Company Name",
+   "position": "Global Sales Manager",
+   "startDate": "2009-01",
+   "endDate": "2016-01",
+   "summary": "Created a strategic sales plan that allowed product development to increase in profit margins by more than 14%. Increased revenue by 20% within 1 year by building and strengthening relationships with existing customers. Established office in Calgary and defined territory. Effectively led Outside Sales team in Houston and Calgary.",
+   "highlights": ["Increase in profit margins by 14%", "Increased revenue by 20%", "Led outside Sales team"]
+  },
+  {
+   "name": "Company Name",
+   "position": "Technical Sales Representative / Key Account Team Leader",
+   "startDate": "2005-01",
+   "endDate": "2016-01",
+   "summary": "Increase sales within my accounts by more than 200%. Developed and Managed the sales of a 9 million dollar account, the largest single account in the oilfield business group. Created and presented sales seminars outlining products and capabilities to Engineering, Manufacturing and Management supervisors.",
+   "highlights": ["Sales increase by over 200%", "Managed sales of a 9 million dollar account"]
+  },
+  {
+   "name": "Company Name",
+   "position": "Business Development Manager/ Texas",
+   "startDate": "2001-01",
+   "endDate": "2016-01",
+   "summary": "Developed and maintained accounts while growing overall sales revenue. Added new accounts that totaled over 1 million dollars in new business. Ongoing testing of new elastomer compounds for ESP artificial lift clients. Sales presentations to pinpoint technical performance and benefits.",
+   "highlights": ["Added new accounts amounted to over 1 million dollars", "Ongoing testing of new elastomer compounds"]
+  }
+ ],
+ "volunteer" : [],
+ "education": [
+  {
+   "institution": "University of Houston",
+   "url": "https://www.uh.edu/",
+   "area": "Communication Disorders",
+   "studyType": "Bachelor of Science",
+   "startDate": "",
+   "endDate": "",
+   "score": "",
+   "courses": ["Marketing courses", "Business courses"]
+  }
+ ],
+ "awards": [],
+ "certificates": [],
+ "publications": [],
+ "skills": [
+  {
+   "name": "Sales and Development",
+   "level": "",
+   "keywords": ["Excellent communicator", "Upselling and consultative selling", "Excellent sales techniques", "Relationship selling", "Strategic account development", "Skilled multi-tasker", "Exceptional customer service skills", "Proven sales track record"]
+  }
+ ],
+ "languages": [],
+ "interests": [],
+ "references": [],
+ "projects": []
+}

@@ -1,0 +1,67 @@
+{
+  "basics": {
+    "name": "Not provided",
+    "label": "Child Performer Welfare Advocate",
+    "email": "Not provided",
+    "phone": "Not provided",
+    "summary": "Administrative professional offering excellent communication and computer skills. Meets deadlines and works with a high level of multicultural awareness and adaptability.",
+    "skills": {
+        "Critical thinking": "Expert",
+        "Business correspondence": "Expert",
+        "Attention to detail": "Expert",
+        "Filing and data archiving": "Expert",
+        "Report development": "Expert",
+        "Physician billing": "Expert",
+        "50 WPM": "Expert",
+        "Patient scheduling": "Expert",
+        "Microsoft Office Suite": "Expert",
+        "Quality assurance": "Expert",
+        "Misys Tiger Medical Software": "Expert"
+     }
+  },
+  "work": [
+    {
+      "companyName": "Company Name",
+      "position": "Child Performer Welfare Advocate",
+      "startDate": "January 2011",
+      "endDate": "August 2012",
+      "summary": "Responsible for welfare of child performers on a major network television production. Advocated and insured that the child performers were treated properly by fellow cast, crew, producers and directors. Kept proper time records for amount of time each child performer was on camera as well as off camera, to insure that they were not overworked. Responsible for as many as 9 principle child performers and 40 background child performers at one time. Education tutoring for a child performer to make sure the child was able to keep up with their education while away from the school setting."
+    },
+    {
+      "companyName": "Company Name",
+      "position": "Managed executive - Animator Technician",
+      "startDate": "February 2007",
+      "endDate": "February 2007",
+      "summary": "Checked patients in and out of a busy cardiology practice with 6 physicians. Scheduled in house appointments, outpatient testing procedures and referrals to outside physicians. Located, checked in and pulled medical records for appointments and incomplete patient charts."
+    },
+    {
+      "companyName": "Company Name",
+      "position": "Optometry Technician",
+      "startDate": "March 2006",
+      "endDate": "February 2007",
+      "summary": "Oversees daily office operations for a busy Optometry practice located within an eyeglass World. Administrative tasks to include the checking in and out of patients, collecting all necessary paperwork and insurance information, and maintaining the appointment calender as well as the Optometrist schedule. Orders eyeglasses and contact lenses for patients. Coordinate with vendors in the ordering of supplies and samples for the practice. Maintain and facilitate the outside referrals of our patients to other providers."
+    }
+  ],
+  "education": [
+    {
+      "institution": "American Military University",
+      "studyType": "Bachelor of Arts",
+      "area": "Criminal Justice",
+      "startDate": "Not provided",
+      "endDate": "2009"
+    },
+    {
+      "institution": "Appalachian State University",
+      "studyType": "Bachelor of Science",
+      "area": "Criminal Justice",
+      "startDate": "2000",
+      "endDate": "2004"
+    }
+  ],
+  "volunteer": [],
+  "awards": [],
+  "publications": [],
+  "languages": [],
+  "interests": [],
+  "references": []
+}

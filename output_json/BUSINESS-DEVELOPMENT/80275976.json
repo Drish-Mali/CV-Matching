@@ -1,0 +1,71 @@
+{
+  "basics": {
+    "name": "SE Business Development Manager",
+    "label": "Manager",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Resolution-oriented manager with an established track record of exceptional sales results and cross-cultural sales background. Exceptional multi-tasker with excellent communication skills.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "US",
+      "region": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "SE Business Development Manager",
+      "url": "",
+      "startDate": "2014-06-01",
+      "endDate": "2015-03-01",
+      "summary": "Responsible for Own Brand business development in the southeast U.S. including NC, SC, GA, FL, AL,VA, MS, AL, WV, VA, KY and TN. Supporting Lewis-Goetz, Rawson, and ICD offices and sales reps to pursue opportunities for Own Brand products.",
+      "highlights": ["Cross-cultural sales background", "Exceptional multi-tasker", "Excellent communicator"]
+    },
+    {
+      "name": "Company Name",
+      "position": "SE Technical Outside Sales Representative",
+      "url": "",
+      "startDate": "2013-05-01",
+      "endDate": "2014-06-01",
+      "summary": "Technical support for the Outside Sales Representative's in Southeast. Engineering presentations and specifications for manual and automated valves to engineering firms.",
+      "highlights": ["Technical Support", "Engineering Presentations"]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Clemson University",
+      "url": "",
+      "area": "Economics Marketing",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "1988-05-05",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Business Development",
+      "level": "Expert",
+      "keywords": ["automation", "Business Management", "C", "SC", "Economics", "Engineer", "Finance", "inside sales", "marketing"]
+    }
+  ],
+  "languages": [],
+  "interests": [
+    {
+      "name": "Athletics",
+      "keywords": ["Football"]
+    }
+  ],
+  "references": [],
+  "projects": []
+}

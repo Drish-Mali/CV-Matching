@@ -1,0 +1,174 @@
+{
+  "basics": {
+    "name": "TODD KORBITZ",
+    "label": "ENGINEERING MANAGER",
+    "email": "korbitzt@hotmail.com",
+    "phone": "920) 716-6086",
+    "summary": "Engineering Manager with expertise in Process Design & Improvement, New Product Development, Strategic Planning & Development, Lean & Six Sigma, Product Design, Budgetary and Policy Development, Automation Design, Quality Control, Project Management & Execution, Economic Analysis",
+    "location": {
+      "city": "Boyden",
+      "countryCode": "IA"
+    }
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Engineering Manager",
+      "startDate": "2012-10",
+      "endDate": "2014-03",
+      "summary": "Managed design engineering resources responsible for new product development and product improvement efforts, as well as build operations engineering department."
+    },
+    {
+      "name": "Company Name",
+      "position": "Project Manager",
+      "startDate": "2011-05",
+      "endDate": "2012-08",
+      "summary": "Plan, develop, and execute programs and projects in accordance with strategic objectives and business requirements."
+    },
+    {
+      "name": "Company Name",
+      "position": "Senior Manufacturing Engineer",
+      "startDate": "2010-01",
+      "endDate": "2011-01",
+      "summary": "Improve productivity and on-time delivery by means of improving resource capability, the utilization of Lean and Six Sigma productivity tools, and the development of production methodologies to be integrated into product design."
+    },
+    {
+      "name": "Company Name",
+      "position": "Senior Manufacturing Engineer",
+      "startDate": "2008-01",
+      "endDate": "2010-01",
+      "summary": "Led process improvement efforts for major core commodities within a hydraulics manufacturing facility."
+    },
+    {
+      "name": "Company Name",
+      "position": "Manufacturing Engineer",
+      "startDate": "2004-01",
+      "endDate": "2008-01",
+      "summary": "Led process improvement and quality control efforts through the implementation of new tooling and automated equipment."
+    }
+  ],
+  "education": [
+    {
+      "institution": "KELLER GRADUATE SCHOOL OF MANAGEMENT, DEVRY UNIVERSITY",
+      "area": "Project & Program Management",
+      "studyType": "Master of Business Administration",
+      "startDate": "2008",
+      "endDate": "2010",
+      "score": "3.6"
+    },
+    {
+      "institution": "MINNESOTA STATE UNIVERSITY",
+      "area": "Political Science, Economics",
+      "studyType": "Bachelor of Science",
+      "startDate": "2000",
+      "endDate": "2004",
+      "score": "3.5"
+    },
+    {
+      "institution": "NORTHWEST IOWA COMMUNITY COLLEGE",
+      "area": "Manufacturing Engineering Technology",
+      "studyType": "",
+      "startDate": "1995",
+      "endDate": "1997"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Four Army Achievement Medals",
+      "date": "",
+      "awarder": "U.S. Army",
+      "summary": ""
+    },
+    {
+      "title": "Dean's List",
+      "date": "2004",
+      "awarder": "Minnesota State University",
+      "summary": ""
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Spencer Community School District",
+      "position": "Board President",
+      "startDate": "2008",
+      "endDate": "2011",
+      "summary": "Developed community relationships for more effective resource allocation and district sustainability."
+    },
+    {
+      "organization": "Spencer Public Library",
+      "position": "Board Vice President",
+      "startDate": "2007",
+      "endDate": "2010",
+      "summary": "Set direction for library by advocating, planning, evaluating, and monitoring resources & services."
+    },
+    {
+      "organization": "Spencer for STEM",
+      "position": "Co-Founder, Coach, and Mentor",
+      "startDate": "2007",
+      "endDate": "2011",
+      "summary": "Coached (2) FIRST Lego League Robotics Teams, and (1) FIRST Tech Challenge Robotics Team."
+    },
+    {
+      "organization": "United States Army / Army National Guard",
+      "position": "Retired Fire Direction & Automated Tactical Data Systems Specialist",
+      "startDate": "1989",
+      "endDate": "2007",
+      "summary": "Awarded Four Army Achievement Medals."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Engineering",
+      "level": "",
+      "keywords": [
+        "Manufacturing Engineer",
+        "Process Improvement",
+        "Tooling",
+        "Welding",
+        "Automated Equipment",
+        "Quality Control",
+        "Robotic",
+        "Robotic Welding",
+        "Operations",
+        "New Product Development",
+        "Product Development",
+        "Transmissions",
+        "Commodities",
+        "Hydraulic Pumps",
+        "Hydraulics",
+        "Machining",
+        "Pumps",
+        "Project Management",
+        "Design Engineering",
+        "Engineering Department",
+        "Process Development",
+        "Assembly",
+        "Assembly Process",
+        "Business Requirements",
+        "Continuous Improvement",
+        "Electronic Production",
+        "Inspection",
+        "Production Control",
+        "Project Manager",
+        "Massey Ferguson",
+        "Product Design",
+        "Six Sigma",
+        "Six-sigma",
+        "Automation Design",
+        "Budget",
+        "Contract Negotiations",
+        "Ergonomic",
+        "Ergonomics",
+        "Fanuc",
+        "Mentor",
+        "Policy Development",
+        "Process Design",
+        "Robotics",
+        "Strategic Planning",
+        "Program Management",
+        "Industrial/manufacturing",
+        "Manufacturing Engineering"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "basics": {
+    "name": "Managing Principal",
+    "label": "Investment Banker and Management Consultant",
+    "summary": "Results-driven investment banker and management consultant with 10 years financial and strategic advisory experience enabling established companies identify, develop, and implement strategic growth initiatives in emerging markets",
+    "location": {
+      "city": "City",
+      "region": "State",
+      "countryCode": "U.S.A."
+    },
+    "skills": [
+      {
+        "name": "Business Skills",
+        "level": "Expert",
+        "keywords": [
+          "Strategic business development",
+          "Emerging markets",
+          "Project management",
+          "Domestic and international experience",
+          "Procurement agent",
+          "Infrastructure and real assets advisory"
+        ]
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Managing Principal",
+      "startDate": "2009-06-01",
+      "summary": "(Various duties and achievements)"
+    },
+    {
+      "name": "Company Name",
+      "position": "Senior Associate, Corporate & Investment Banking",
+      "startDate": "2007-04-01",
+      "endDate": "2009-05-01",
+      "summary": "(Various duties and achievements)"
+    },
+    {
+      "name": "Company Name",
+      "position": "Associate, Corporate & Investment Banking",
+      "startDate": "2005-04-01",
+      "endDate": "2007-04-01",
+      "summary": "(Various duties and achievements)"
+    }
+  ],
+  "education": [
+    {
+      "institution": "New York University",
+      "area": "Project and Infrastructure Finance",
+      "startDate": "2014-01-01"
+    },
+    {
+      "institution": "New York University",
+      "area": "Real Estate Finance and Development, Construction Cost Estimating",
+      "startDate": "2013-01-01"
+    },
+    {
+      "institution": "Babson College",
+      "studyType": "MBA",
+      "area": "Finance",
+      "startDate": "2011-01-01"
+    },
+    {
+      "institution": "University of Florida",
+      "studyType": "Bachelor of Arts",
+      "area": "Finance",
+      "startDate": "2005-01-01"
+    }
+  ]
+}

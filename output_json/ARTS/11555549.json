@@ -1,0 +1,138 @@
+{
+  "basics": {
+    "name": "Not Provided",
+    "label": "Student Teacher",
+    "image": "",
+    "email": "Not Provided",
+    "phone": "Not Provided",
+    "url": "Not Provided",
+    "summary": "Visual Arts Specialist with 11 years experience in elementary art education. Demonstrated skill in individualizing instruction based on students' needs and interests.",
+    "location": {
+      "address": "Not Provided",
+      "postalCode": "Not Provided",
+      "city": "City",
+      "countryCode": "Not Provided",
+      "region": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Student Teacher",
+      "url": "Not Provided",
+      "startDate": "October 2003",
+      "endDate": "Current",
+      "summary": "Designed and implemented daily lesson plans based on Oak Hills School District Visual Arts Curriculum, National Visual Arts Standards\nand Ohio Visual Arts Standards.",
+      "highlights": [
+        "Designed and implemented daily lesson plans",
+        "Evaluated student artwork based on stated criteria",
+        "Displayed student artwork throughout the school building"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Visual Arts Teacher",
+      "url": "Not Provided",
+      "startDate": "January 2004",
+      "endDate": "Current",
+      "summary": "Design and implement daily lesson plans for grades 1-8 based on National Visual Arts Standards and Ohio Visual Arts Standards.",
+      "highlights": [
+        "Designed and implemented daily lesson plans",
+        "Assessed student artwork based on stated criteria",
+        "Arranged a school field trip to Cincinnati Art Museum and Contemporary Arts Center",
+        "Planned and installed student sculpture exhibit at Delhi Public Library"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Xavier University",
+      "url": "Not Provided",
+      "area": "Education Secondary Education",
+      "studyType": "Masters",
+      "startDate": "Not Provided",
+      "endDate": "May 2012",
+      "score": "Not Provided",
+      "courses": []
+    },
+    {
+      "institution": "Mount St. Joseph University",
+      "url": "Not Provided",
+      "area": "Art Education",
+      "studyType": "Bachelor of Arts",
+      "startDate": "Not Provided",
+      "endDate": "May 2004",
+      "score": "Not Provided",
+      "courses": []
+    },
+    {
+      "institution": "Mount St. Joseph University",
+      "url": "Not Provided",
+      "area": "Painting",
+      "studyType": "Bachelor of Fine Arts",
+      "startDate": "Not Provided",
+      "endDate": "May 2004",
+      "score": "Not Provided",
+      "courses": []
+    },
+    {
+      "institution": "Mount St. Joseph University",
+      "url": "Not Provided",
+      "area": "Graphic Design",
+      "studyType": "Associate of Arts",
+      "startDate": "Not Provided",
+      "endDate": "May 1989",
+      "score": "Not Provided",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Microsoft Office",
+      "level": "Not Provided",
+      "keywords": [
+        "Word",
+        "Excel",
+        "PowerPoint"
+      ]
+    },
+    {
+      "name": "Adobe Creative Cloud",
+      "level": "Not Provided",
+      "keywords": [
+        "Illustrator",
+        "InDesign",
+        "Photoshop",
+        "Muse"
+      ]
+    },
+    {
+      "name": "WordPress",
+      "level": "Not Provided",
+      "keywords": []
+    },
+    {
+      "name": "iMovie",
+      "level": "Not Provided",
+      "keywords": []
+    },
+    {
+      "name": "Teaching",
+      "level": "Licensure",
+      "keywords": [
+        "Visual Arts",
+        "PK-12",
+        "Ohio"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [], 
+  "references": [],
+  "projects": []
+}

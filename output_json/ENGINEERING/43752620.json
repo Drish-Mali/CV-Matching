@@ -1,0 +1,87 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Engineering Intern",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Automotive Engineer seeking Systems Engineer position at your esteemed organization with scope for career advancement and professional development.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Engineering Intern",
+      "url": "",
+      "startDate": "2016-01-01",
+      "endDate": "2016-06-01",
+      "summary": "Completed basic and advanced level of training from regional training office of Maruti Suzuki India Limited. Implemented 5S, Kaizen, Poka-yoke in servicing of automobiles.",
+      "highlights": ["Overhauled Engines and Transmissions with assistance of technicians"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Mechanical Engineering Intern",
+      "url": "",
+      "startDate": "2014-07-01",
+      "endDate": "2014-07-31",
+      "summary": "Understanding different mechanisms and technical concepts involved in the end to end manufacturing of rail coaches and engines.",
+      "highlights": ["Witnessed various concepts such as welding, sheet metal works, CNC machine working"]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Michigan",
+      "url": "",
+      "area": "Automotive Systems Engineering",
+      "studyType": "Master of Science",
+      "startDate": "2016-01-01",
+      "endDate": "2018-05-01",
+      "score": "3.72",
+      "courses": []
+    },
+    {
+      "institution": "Visvesvaraya Technological University",
+      "url": "",
+      "area": "Mechanical Engineering",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2011-08-01",
+      "endDate": "2015-06-01",
+      "score": "75.35",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Engineering",
+      "level": "Master",
+      "keywords": [
+        "AutoCAD",
+        "Ansys",
+        "CATIA",
+        "HyperMesh",
+        "DFMEA",
+        "MS Office Suite",
+        "Fortran",
+        "C",
+        "MATLAB/Simulink",
+        "CNC Programming"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

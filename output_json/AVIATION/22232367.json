@@ -1,0 +1,133 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Aviation Records Analyst",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Highly organized and detailed-oriented Analyst with 15 years of professional experience providing expert problem resolution and customer support to� U.S Navy, Marine Corp, and civilian customers.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": [
+    ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Aviation Records Analyst",
+      "url": "",
+      "startDate": "2014-06",
+      "endDate": "Current",
+      "summary": "Utilize the SkyBOOKs aviation maintenance tracking application to provide aircraft configuration and maintenance program compliance data to 'build' aircraft electronic logbooks accurately and in a timely manner within a web-based software application (SaaS) providing an all-around complete product to the aircraft owner / operator ensuring a precise aircraft maintenance planning and tracking tool.",
+      "highlights": [
+        "Meticulously researched and accurately analyzed over 200 aviation logbooks and other forms of maintenance documentation provided by aircraft owner operators to determine compliance in accordance with specified maintenance requirements.",
+        "Expertly examined aircraft engine and aircraft specific component maintenance manuals and Instructions for Research Airworthiness documents to determine required maintenance actions and associated intervals."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Functional Analyst",
+      "url": "",
+      "startDate": "2014-02",
+      "endDate": "2014-06",
+      "summary": "Provide information systems technical support including numerous windows servers and two Linux servers supporting over 1,000 military and civilian customers.",
+      "highlights": [
+        "Diligently conducted vital daily server system checks ensuring 100% system availability 24 hours a day, performed nightly server back-ups, release and print batch reports, monitor and ensure continuous successful system interface with Navy ERP, and provide system maintenance and troubleshooting when required.",
+        "Responsible for ensuring the timely review and updates of the teams vital Standard Operating Procedure technical documents."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Technical Support Representative",
+      "url": "",
+      "startDate": "2004-11",
+      "endDate": "2013-09",
+      "summary": "SME for the web based Advanced Skill Management (ASM) application's day-to-day operations including the training of Naval personnel in the use of ASM, electronic and paper record keeping, troubleshooting, resolving and documenting customer issues, soliciting enhancements, and verification of vital data entry requirements into the ASM application for use by the majority of the naval aviation community encompassing over 4500 military and civilian personnel.",
+      "highlights": [
+        "Directed the design, development, quality assurance, implementation, and management of approximately 3000 mission critical technical documents within the ASM program. Coordinated implementation of new systems, patches and other on-site upgrades, implementation and testing of enhancements to ASM to ensure maximum utility and functionality of the ASM system to meet customer needs and expectations.",
+        "Single point of contact for collecting and interpreting customer feedback on all problematic E-tool issues and data from all 19 Naval and Marine sites and advised higher management as to suggested actions for immediate resolution.",
+        "Provided expert user support to the development team on customer needs and assist customers in articulating user needs and recommendations."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Aviation Data Analyst E-6",
+      "url": "",
+      "startDate": "1999-02",
+      "endDate": "2004-10",
+      "summary": "Proven Aviation Data Analyst for the U.S. Navy at Naval Air Station Jacksonville, FL. supporting numerous aircraft and types of ground support equipment. Performed a variety of functional processes using NTCSS Desktop II. Changes NTCSS passwords, monitors and manages print request and printer configurations, monitors system information, changes application process limits. Maintained system security. Inputs, extracts, analyze and validate maintenance data; develops and interprets management reports, monitor input of data and the parameters for up-line reporting and related interface requirements. Performed analysis of aviation 3M data as directed and in support of the Naval Aviation Maintenance Program. Regularly prepared highly detailed data summaries and reports using SQL ad hocs, spreadsheet, graphical, narrative, and oral presentations.",
+      "highlights": [
+        "Increased analytical focus on vital source documents led to a 50% decrease in component turnaround time from 7.4 days to 3.7 days and a 45% increase in corrosion man-hour documentation from 4,950 hours to over 9,000 hours",
+        "Expert analytical ability allowed for the timely implementation and accurate management of the Aviation Financial Analysis Tool (AFAST) application which was directly responsible for saving the command over 3.7 million dollars."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Downers Grove South High School",
+      "url": "",
+      "area": "",
+      "studyType": "High School Diploma",
+      "startDate": "1984",
+      "endDate": "1984",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Florida State College of Jacksonville",
+      "url": "",
+      "area": "Computer Science and Information",
+      "studyType": "Associate of Science",
+      "startDate": "2011",
+      "endDate": "2015",
+      "score": "3.36",
+      "courses": [
+        "Computer Concepts, Intro to the Internet",
+        "Hardware Configuration, Software Configuration, Micro-Computer Applications",
+        "Database Concepts, Intro to Computer Programing, Oracle SQL and PL/SQL",
+        "Customer Support Operations, Project Management, Computer Networking",
+        "Web Technologies, Information Systems, and Internet Programming"
+      ]
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Technical Certificate for IT Customer Support Specialist",
+      "date": "",
+      "issuer": "Florida State College of Jacksonville",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Computer & Technical Skills",
+      "level": "",
+      "keywords": [
+        "Computers",
+        "Sql, Customer Support",
+        "Database, Networking",
+        "Oracle, Pl/sql, Project Management",
+        "Software Configuration, Aviation, Web Based, Technical Support",
+        "Data Entry, Documenting, Quality Assurance",
+        "Subject Matter Expert, Testing, Training",
+        "Analyst, Aircraft Maintenance, Saas, Crystal Reports",
+        "Excel, Linux/unix, Microsoft Project, Microsoft Word",
+        "Ms Project, Outlook, Python, Remedy",
+        "Scanning, Unix, Word, Enterprise Resource Planning"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

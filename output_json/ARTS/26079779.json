@@ -1,0 +1,97 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Budget and Administration Manager",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "",
+      "region": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Budget and Administration Manager",
+      "url": "",
+      "startDate": "2016-01-01",
+      "endDate": "2017-01-01",
+      "summary": "Responsible for providing financial explanation of a $3M budget for the division of Information Technology.",
+      "highlights": [
+        "Created contracts with vendors and individuals providing services for Information Technology.",
+        "Worked closely with Human Resources to ensure that positions are recorded and financially accommodated.",
+        "Managed payments of invoices for Information Technology."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Administrative Aide II",
+      "url": "",
+      "startDate": "2006-01-01",
+      "endDate": "2016-01-01",
+      "summary": "Participated in departmental financial planning based on needs for upcoming academic year.",
+      "highlights": [
+        "Collaborated with various departments with day-to-day activities and special projects.",
+        "Worked on special events including the 40 Acres and a Mule Anniversary Gala; Kept a detailed record of all donations including items to be auctioned."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Administrative Aide",
+      "url": "",
+      "startDate": "2001-01-01",
+      "endDate": "2006-01-01",
+      "summary": "Researched potential donors for the Prospect List used to expand the donor list.",
+      "highlights": [
+        "Organized events, including the Sundance Reception for Tisch School of the Arts and the annual Wasserman Award Reception for that year's scholarship recipients.",
+        "Created and edited correspondences, including mass mailings to Dean's Council Members, Prospective Donors, and parents."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "WALDEN UNIVERSITY",
+      "url": "",
+      "area": "Human Resources Management",
+      "studyType": "MS",
+      "startDate": "2015-01-01",
+      "endDate": "2015-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "SUNY OLD WESTBURY",
+      "url": "",
+      "area": "Comparative Humanities",
+      "studyType": "BA",
+      "startDate": "2001-01-01",
+      "endDate": "2001-12-31",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Various",
+      "level": "",
+      "keywords": [
+        "academic", "Arts", "budgets", "budget", "clerical", "closing", "contracts", "Council", "credit", "customer services", "database", "documentation", "special events", "filing", "finance", "financial", "financial planning", "grant applications", "hiring", "Human Resources", "Information Technology", "Director", "materials", "meetings", "excel", "office", "policies", "processes", "Reception", "reconciling", "telephone", "phone", "travel arrangements"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

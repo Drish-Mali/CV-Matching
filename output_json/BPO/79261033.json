@@ -1,0 +1,145 @@
+{
+  "basics": {
+    "name": "Unknown",
+    "label": "Director of Operations, BPO",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Results-Focused management professional offering 15 years of progressive leadership experience. Transforms high-potential staff into outstanding leaders who demonstrate the creativity and savvy that is critical to financial and operational success.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "",
+      "region": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Director of Operations, BPO",
+      "url": "",
+      "startDate": "2013-11",
+      "endDate": "2015-04",
+      "summary": "Responsible for 3 Sales Locations (Over 200 employees) managed team of 200 professional that consisted of hiring, training, and performance management. Strengthened the client relationship between the client and Concentrix.",
+      "highlights": [
+        "Increased Client revenue from 2.2 Million to 3 Million on a monthly basis",
+        "Surpassed revenue goals in four consecutive quarters.",
+        "Over 6 Basis points improvement in all conversion metrics",
+        "Improved every KPI from Close Ratio, Activation per rep, and overall ARPU"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Director of Sales",
+      "url": "",
+      "startDate": "2010-05",
+      "endDate": "2013-11",
+      "summary": "Responsible for 2 Direct Sales Locations (Over 500 People) hiring, training, and performance management . Consistently ranked #1 site every month in 2010.",
+      "highlights": [
+        "Improved every KPI metric from Close Ratio, Activation's, and ARPU",
+        "Played and instrumental role in the Direct Sales Strategy from every aspect from Compensation Plans, Training & Quality, and overall direction",
+        "Revamped the Sales Integrity team with a new process that helped improve all Quality metrics"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "General Manager Of Sales Operations",
+      "url": "",
+      "startDate": "2005-10",
+      "endDate": "2010-05",
+      "summary": "Established a New Sales Team from the ground up. Hiring, training, and performance management on a daily basis. Sales team grew from 50 reps to 300 in the site due to high performance.",
+      "highlights": [
+        "#1 Sales performing site every week, month, and year from 2006-2010 in every metric",
+        "YoY improvement in every Metric. Close rate increased from 19% in 2005 to 32% CR in 2010",
+        "Provided timely feedback to Executive Management regarding Direct Sales performance"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Sales Supervisor",
+      "url": "",
+      "startDate": "2003-11",
+      "endDate": "2005-10",
+      "summary": "Led a team of over 14 OB Sales reps. Motivated, trained and developed, and held Sales reps accountable on a daily basis for Sales goals.",
+      "highlights": [
+        "Ran different department contests to increase motivation and Sales performance",
+        "Handled Sales reps reviews on a annual basis",
+        "Successfully promoted 5 Team members to a Supervisor role"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Bergen Community College",
+      "url": "",
+      "area": "Business Management",
+      "studyType": "",
+      "startDate": "2001",
+      "endDate": "2001",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "General",
+      "level": "",
+      "keywords": [
+        "Operations Management",
+        "Staff Development",
+        "Complex Problem Solving",
+        "Change Management",
+        "Cross-functional Team Management",
+        "Computer-Savvy",
+        "Skilled negotiator",
+        "Business Management",
+        "conversion",
+        "Client",
+        "Customer Satisfaction",
+        "Customer Services",
+        "customer service experience",
+        "Direct Sales",
+        "direction",
+        "Executive Management",
+        "focus",
+        "forms",
+        "hiring",
+        "languages",
+        "Director",
+        "marketing",
+        "meetings",
+        "works",
+        "Enterprise",
+        "Network",
+        "performance management",
+        "Quality",
+        "real time",
+        "recruiting",
+        "Sales",
+        "Sales Analysis",
+        "Spanish",
+        "Strategy"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Unknown"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

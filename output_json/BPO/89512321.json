@@ -1,0 +1,94 @@
+{
+  "basics": {
+    "name": "Senior Manager",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "A seasoned HR professional with over 7 years of HR experience",
+    "location": {
+      "address": "Cincinnati, OH",
+      "postalCode": "",
+      "city": "Cincinnati",
+      "countryCode": "US",
+      "region": "OH"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Tata Consultancy Services",
+      "position": "Head of Talent Acquisition and Resource Management Group for BPS North America",
+      "url": "",
+      "startDate": "09/2008",
+      "endDate": "",
+      "summary": "HR Professional with expertise in full-cycle recruiting, screening resumes, behavioral based interviewing, and managing the hiring process.",
+      "highlights": [
+        "Leadership hiring, focussed headhunting through LinkedIn",
+        "10 critical positions staffed within 45 days",
+        "Reduced hiring cost for Niche positions by 30% and Non-Niche positions by 45% in FY 14",
+        "Human Resource Relationship Manager for all BPS associates in the North America Geography",
+        "Maintaining Attrition within permissible limits (Early Warning Indicator, Hi-Potential program, stay interviews)",
+        "Handling other employee-related issues including full & final settlements/severance, query resolution, grievance handling"
+      ]
+    },
+    {
+      "name": "Satyam BPO",
+      "position": "HR Employee Relations Specialist",
+      "url": "",
+      "startDate": "03/2007",
+      "endDate": "09/2008",
+      "summary": "HR Specialist with experience in Employee relations, Recruitment, Performance Management, Organization Development and Change Management.",
+      "highlights": [
+        "End to end Employee Relations activities",
+        "Conducting Employee engagement activities",
+        "Support in carrying out Employee satisfaction surveys and Organization branding surveys",
+        "Complete Performance Management process by adhering to the timelines, educating associates and managers"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "ICFAI University [Dehradun]",
+      "url": "",
+      "area": "Human Resources",
+      "studyType": "MS - HRM",
+      "startDate": "",
+      "endDate": "2007",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "University of Mumbai Birla college of Arts",
+      "url": "",
+      "area": "Information Technology Science and Commerce",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "HR Skills",
+      "level": "",
+      "keywords": [
+        "Basic", "branding", "budget", "Change Management", "closing", "communication skills", "client", 
+        "clients", "Employee Relations", "hiring", "Human Resource", "HR", "Leadership", "Leadership Skills", 
+        "Mac OS", "Managing", "meetings", "MS office suite", "Windows", "98", "multi-tasking",
+        "oracle applications", "Organization Development", "performance appraisal", "Performance Management", 
+        "Policies", "process improvement", "processes", "Promotion", "Recruitment", "recruiting", 
+        "Sales", "settlements", "strategic", "time management"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

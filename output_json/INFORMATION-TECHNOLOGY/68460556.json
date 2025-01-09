@@ -1,0 +1,99 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Information Technology Intern",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "To obtain a full time in the Entry Level Information Technology Management field where I can utilize my education to contribute to company's operations and learning opportunities where I can maximize my skills, and advanced training development.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+        "name": "Company Name",
+        "position": "Information Technology Intern",
+        "url": "",
+        "startDate": "06/2012",
+        "endDate": "08/2012",
+        "summary": "Participated in human and technology interaction management with supervisor. Developed an interface between website and databases via Excel that allowed House of Representatives and Senators more effective and easier access to information. Completed several workshops and lectures about the history of the Library of Congress.",
+        "highlights": []
+      },
+      {
+        "name": "Company Name",
+        "position": "Media Student Assistant",
+        "url": "",
+        "startDate": "02/2012",
+        "endDate": "08/2012",
+        "summary": "Set up and maintained the Computer Aided Real-Time translation (CART) system in classrooms and various locations around campus, when needed. Assisted staff, faculty and students on a daily basis with equipment repairs, customer service, and technology problems. Verified that each classroom had the appropriate equipment and technology needed for success daily.",
+        "highlights": []
+      }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Bloomsburg University of Pennsylvania",
+      "url": "",
+      "area": "Information and Technology Management & American Sign Language",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "December 2016",
+      "score": "3.35",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Dean's list above 3.50 GPA",
+      "date": "Spring 2016",
+      "awarder": "Bloomsburg University",
+      "summary": ""
+    }, 
+    {
+      "title": "Bloomsburg University Career Intensive Boot Camp",
+      "date": "Spring 2016",
+      "awarder": "Bloomsburg University",
+      "summary": ""
+    }
+  ],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "IT Management",
+      "level": "Entry",
+      "keywords": [
+        "Microsoft Word", 
+        "Power Point", 
+        "Excel", 
+        "Problem Solving", 
+        "American Sign Language",
+        "Excellent communication", 
+        "Customer Service", 
+        "Databases",
+        "Translation",
+        "Workshops"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "American Sign Language",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

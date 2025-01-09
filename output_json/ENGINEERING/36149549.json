@@ -1,0 +1,98 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Engineering Project Manager",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Seeking long term employment where my experience, expertise, and education can be used to satisfy the needs of the company, as well as provide opportunity for personal development and career advancement. Project Coordination is my strongest point and I accept any challenges that I encounter to get the job done. I offer no less than one hundred percent commitment to my employer, co-workers and my work. I am definitely a team player but work well on my own with no supervision. I will bring to your company loyalty, dedication and great work ethics.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "",
+      "region": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Engineering Project Manager",
+      "url": "",
+      "startDate": "2005-11",
+      "endDate": "2008-07",
+      "summary": "Planned, directed and managed designated projects. Ensured that objectives were accompanied in accordance with outlined priorities...",
+      "highlights": [
+        "Securing federal, state and local regulatory land-use approvals",
+        "Developed ability to work in fast-paced environment",
+        "Assisted Civil Engineer in preparing lot layouts for Residential Development, Master Planned Developments, and International Developments."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Assistant Project Coordinator",
+      "url": "",
+      "startDate": "2003-08",
+      "endDate": "2005-03",
+      "summary": "Coordinated project submittals to Agencies...",
+      "highlights": [
+        "Completed final project packages for approval by Planning Commission/Director of Development Services",
+        "Researched plat related issues"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Charter College",
+      "url": "",
+      "area": "Business",
+      "studyType": "Certification",
+      "startDate": "1997-02",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+     {
+      "institution": "San Antonio College",
+      "url": "",
+      "area": "International Business",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Project Management",
+      "level": "",
+      "keywords": [
+        "Project Coordination",
+        "Microsoft Office: Word, Excel, Outlook, Access, PowerPoint",
+        "Accounting",
+        "Communication",
+        "Ability to work in fast-paced environment"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent - Full Knowledge"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Knowledge, but taking classes to become more fluent"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "volunteer": [],
+  "awards": [],
+  "certificates": [],
+  "publications": []
+}

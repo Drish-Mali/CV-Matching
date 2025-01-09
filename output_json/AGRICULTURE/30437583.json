@@ -1,0 +1,105 @@
+{
+  "basics": {
+    "name": "Not provided",
+    "label": "Program Analyst",
+    "image": "",
+    "email": "",
+    "phone": "(703) 305-1465",
+    "url": "",
+    "summary": "As a key member of the Stakeholder Relations Branch tasks involve performing analysis and providing strategic advice on relevant policies and frameworks in order to enhance the capacity to engage stakeholders as active members of Food and Nutrition Service's (FNS) partner network.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "US",
+      "region": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Program Analyst",
+      "url": "",
+      "startDate": "2014-09-01",
+      "endDate": "2015-01-01",
+      "summary": "Assisted in successfully meeting the strategic priorities for the U.S. Department of Agriculture Food Waste Challenge Initiative by creating resources and presentations to promote the program and increase the number of schools involved.",
+      "highlights": []
+    },
+    {
+      "name": "The Office of External and Governmental Affairs Company Name",
+      "position": "Program Analyst",
+      "url": "",
+      "startDate": "2012-06-01",
+      "endDate": "Current",
+      "summary": "Identify and develop over 30 new & existing national partnerships among stakeholders that reflect an understanding of FNS's strategic plans and goals.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Student Intern",
+      "url": "",
+      "startDate": "2011-01-01",
+      "endDate": "2012-06-01",
+      "summary": "Part-time volunteer employment - 20 hours per week.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Loma Linda University",
+      "url": "",
+      "area": "Health Education",
+      "studyType": "Masters of Public Health",
+      "startDate": "",
+      "endDate": "2014-03-01",
+      "score": "3.63",
+      "courses": []
+    },
+    {
+      "institution": "George Mason University",
+      "url": "",
+      "area": "Community Health Nutrition",
+      "studyType": "Bachelors of Science",
+      "startDate": "",
+      "endDate": "2012-05-01",
+      "score": "3.04",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Microsoft PowerPoint, Word, Excel and Publisher",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Webinar Applications (Livemeeting, OnStream Media, and ReadyTalk)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Video and Photo Editing (Camtasia, Adobe Photoshop)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Other Applications (Drupal, Basecamp, Vovici, Survey Monkey, and Social Media Channels)",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [
+    {
+      "name": "Alpha Phi Fraternity, SNA (Student Nurse Association), Habitat for Humanity, Greek Week Steering Committee",
+      "keywords": []
+    }
+  ],
+  "references": [],
+  "projects": []
+}

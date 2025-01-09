@@ -1,0 +1,112 @@
+{
+  "basics": {
+    "name": "IT COMPLIANCE AUDITOR",
+    "label": "IT Compliance Auditor",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "I offer 15 years' experience in various areas of the Information Technology Field, including five years experience installing, configuring, and troubleshooting computer software and hardware problems.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "IT Compliance Auditor",
+      "url": "",
+      "startDate": "2010-01-01",
+      "endDate": "Current",
+      "summary": "Provide value-added control assurance/governance as it relates to security, e-commerce and industry compliance requirements and controls.",
+      "highlights": [
+        "Liaised with Information Technology and Operations areas to proactively assess security policy compliance",
+        "Coordinate external/3rd party auditors, including PCI DSS, SAS 70, Record Retention, and Business Process Improvement reviews",
+        "Managed internal IT audit engagements"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "MIS Technology & Procurement Analyst",
+      "url": "",
+      "startDate": "2005-06-01",
+      "endDate": "Current",
+      "summary": "Responsible for managing all technology purchases and licensing activities.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "PC\\LAN Support Specialist",
+      "url": "",
+      "startDate": "2000-01-01",
+      "endDate": "2005-06-01",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "New Wave Technology",
+      "url": "",
+      "area": "MSCE Prep Course",
+      "studyType": "Certificate of Completion",
+      "startDate": "2003",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Bucks County Community College",
+      "url": "",
+      "area": "Networking Technology",
+      "studyType": "Associate Degree",
+      "startDate": "2003",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Certified Software Manager (CSM)",
+      "date": "",
+      "issuer": "SIIA",
+      "url": ""
+    },
+    {
+      "name": "Certified Information Security Auditor",
+      "date": "",
+      "issuer": "ISACA",
+      "url": ""
+    },
+    {
+      "name": "MCP-Windows 2000",
+      "date": "",
+      "issuer": "MCP ID 2797345",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "IT Compliance",
+      "level": "Master",
+      "keywords": [
+        "Audit",
+        "Software Management",
+        "Information Security"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

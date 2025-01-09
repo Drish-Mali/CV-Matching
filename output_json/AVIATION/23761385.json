@@ -1,0 +1,97 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Aviation Electronics Technician",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Highly skilled and successful professional with solid and diverse experience in comprehensive military and civilian leadership settings. Currently seeking to leverage academic background with professional expertise to secure a challenging and rewarding position in Business Management with a company that is established and poised for growth. Demonstrated proficiency in Human Resources and Financials with outstanding ability to effectively oversee complex projects from conception to completion.",
+    "location": {},
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Aviation Electronics Technician",
+      "url": "",
+      "startDate": "2003-01",
+      "endDate": "2014-11",
+      "summary": "Winner of numerous awards for training and supervising military personnel in the completion of >2,000 maintenance exercises, as well as receiving inspector qualifications for primary and cross-trained rate of aviation electrician's mate.",
+      "highlights": [
+        "Maintained 100% accountability of a large section of equipment worth over $50,000,000 during multiple overseas deployments.",
+        "Successfully captured accounting errors placed on orders, preventing a substantial financial loss of >150K."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Collections Manager",
+      "url": "",
+      "startDate": "2000-12",
+      "endDate": "2003-01",
+      "summary": "Oversaw management of collections; providing leadership, training and performance analysis to ensure staff proficiency and compliance with all applicable laws governing debt collections.",
+      "highlights": ["Created a positive cash flow by successfully negotiating settlements for delinquent accounts."]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Saint Leo University",
+      "url": "",
+      "area": "Business Administration/Management",
+      "studyType": "Masters",
+      "startDate": "",
+      "endDate": "2014-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Saint Leo University",
+      "url": "",
+      "area": "Accounting",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "2011",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Business Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Human resources management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Operations Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Strategic Analysis",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [
+    {
+      "name": "Meals on Wheels",
+      "keywords": []
+    },
+    {
+      "name": "Co-Founder of Boys to Men Mentoring Program",
+      "keywords": []
+    }
+  ],
+  "references": [],
+  "projects": []
+}

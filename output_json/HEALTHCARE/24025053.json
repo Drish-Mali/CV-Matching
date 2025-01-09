@@ -1,0 +1,123 @@
+{
+"basics": {
+    "name": "Not Provided",
+    "label": "Project Coordinator",
+    "image": "",
+    "email": "Not provided",
+    "phone": "Not Provided",
+    "url": "",
+    "summary": "To be part of a world class organization where I can utilize my experience and knowledge gained efficiently and help the organization realize its goals and objectives by focusing on optimum operational management and leadership activities.",
+    "location": {
+      "address": "Not Provided",
+      "postalCode": "Not Provided",
+      "city": "Not Provided",
+      "countryCode": "Not Provided",
+      "region": "Not Provided"
+    },
+    "profiles": [
+      {
+        "network": "Not Provided",
+        "username": "Not Provided",
+        "url": "Not Provided"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Company",
+      "position": "Project Coordinator",
+      "url": "",
+      "startDate": "2015-06-01",
+      "endDate": "2015-12-01",
+      "summary": "Maintained project assets, communications and related database(s).",
+      "highlights": [
+        "Maintained scheduling and event calendars.",
+        "Performed payroll functions.",
+        "Review and report the project's budget and finances.",
+        "Collected information and made judgments through observation, interviews, and the review of documents.",
+        "Collaborated with economic development planners to decide on the implementation of proposed development policies, plans, and programs based on culturally institutionalized barriers and facilitating circumstances."
+      ]
+    },
+    {
+      "name": "Company",
+      "position": "Healthcare Administrator",
+      "url": "",
+      "startDate": "2013-01-01",
+      "endDate": "2013-12-31",
+      "summary": "Established work schedules and assignments for staff, according to workload, space and equipment availability.",
+      "highlights": [
+        "Conducted fiscal operations, including accounting, planning budgets, authorizing expenditures, establishing rates for services, and coordinating financial reporting.",
+        "Maintained awareness of advances in medicine, computerized diagnostic and treatment equipment, data processing technology, government regulations, health insurance changes, and financing options."
+      ]
+    },
+    {
+      "name": "Company",
+      "position": "Student Intern",
+      "url": "",
+      "startDate": "2011-10-01",
+      "endDate": "2012-11-30",
+      "summary": "Examined teeth, gums, and related tissues, using dental instruments, x-rays, or other diagnostic equipment, to evaluate dental health, diagnose diseases or abnormalities, and plan appropriate treatments.",
+      "highlights": [
+        "Completed and maintained accurate records or reports regarding the patients' histories and progress, services provided, or other required information.",
+        "Advised or instructed patients regarding preventive dental care, the causes and treatment of dental problems, or oral health care services."
+      ]
+    }
+  ],
+  "volunteer": [
+    
+  ],
+  "education": [
+    {
+      "institution": "Oklahoma State University",
+      "url": "",
+      "area": "Healthcare Administration",
+      "studyType": "Master's",
+      "startDate": "Not Provided",
+      "endDate": "2015-12-01",
+      "score": "3.79",
+      "courses": [
+        "Not Provided"
+      ]
+    },
+    {
+      "institution": "SRM Dental College",
+      "url": "",
+      "area": "Dental Surgery",
+      "studyType": "Bachelor of Dental Surgery (BDS)",
+      "startDate": "Not Provided",
+      "endDate": "2012-11-30",
+      "score": "72",
+      "courses": [
+        "Not Provided"
+      ]
+    }
+  ],
+  "awards": [
+   
+  ],
+  "certificates": [
+    
+  ],
+  "publications": [
+    
+  ],
+  "skills": [
+    {
+      "name": "Medicine and Dentistry",
+      "level": "Not Provided",
+      "keywords": ["Critical Thinking", "Judgment and Decision Making", "Medical terminology", "Time Management", "Active Learning", "Quality Control Analysis", "Multitasking", "HIPAA E-health records", "MS-office and other office tools"]
+    }
+  ],
+  "languages": [
+    
+  ],
+  "interests": [
+
+  ],
+  "references": [
+
+  ],
+  "projects": [
+    
+  ]
+}

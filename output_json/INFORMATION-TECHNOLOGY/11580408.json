@@ -1,0 +1,146 @@
+{
+  "basics": {
+    "name": "Data Not Provided",
+    "label": "Information Technology Coordinator",
+    "image": "",
+    "email": "Data Not Provided",
+    "phone": "Data Not Provided",
+    "url": "Data Not Provided",
+    "summary": "AVP / Director of Information Technology I Network Engineer with extensive experience. Strengths - excellent communication skills, strong problem solving skills. Sound work ethic, capable of working independently or in a team environment. Highly professional with the ability to set and maintain priorities.",
+    "location": {
+      "address": "Data Not Provided",
+      "postalCode": "Data Not Provided",
+      "city": "Data Not Provided",
+      "countryCode": "Data Not Provided",
+      "region": "Data Not Provided"
+    },
+    "profiles": [
+      {
+        "network": "Data Not Provided",
+        "username": "Data Not Provided",
+        "url": "Data Not Provided"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Information Technology Coordinator",
+      "url": "Data Not Provided",
+      "startDate": "2000-05-01",
+      "endDate": "Current",
+      "summary": "Responsibilities include continually evaluating and implanting new technology to save cost, various responsibilities related to Navision ERP system, customer support, network design and management, vendor negotiation, etc.",
+      "highlights": ["Administrative employee of the year 2003 & 2008", "President Club Winner", "Repeated employee of the month winner"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Information Systems Manager",
+      "url": "Data Not Provided",
+      "startDate": "1996-01-01",
+      "endDate": "Current",
+      "summary": "Responsibilities include designing costumer relation database, implementing Microsoft 2003 SBS, designing and managing corporate web security and customer WI-FI network, etc."
+    }
+  ],
+  "volunteer": [ ],
+  "education": [
+    {
+      "institution": "Curry College",
+      "url": "Data Not Provided",
+      "area": "Business Management",
+      "studyType": "Bachelor of Arts",
+      "startDate": "Data Not Provided",
+      "endDate": "1988-01-01",
+      "gpa": "Data Not Provided",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Who's Who Among Students in American Universities and Colleges",
+      "date": "Data Not Provided",
+      "awarder": "Data Not Provided",
+      "summary": "Data Not Provided"
+    },
+    {
+      "title": "Outstanding Young Men of America",
+      "date": "Data Not Provided",
+      "awarder": "Data Not Provided",
+      "summary": "Data Not Provided"
+    },
+    {
+      "title": "United States Achievement Academy - National Award Winner",
+      "date": "Data Not Provided",
+      "awarder": "Data Not Provided",
+      "summary": "Data Not Provided"
+    },
+    {
+      "title": "Sanford R. Levitt",
+      "date": "Data Not Provided",
+      "awarder": "Data Not Provided",
+      "summary": "Data Not Provided"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Microsoft Certified Professional -NT 4 0",
+      "date": "Data Not Provided",
+      "issuer": "Microsoft",
+      "url": "Data Not Provided"
+    },
+    {
+      "name": "Microsoft Certified Professional - Windows XP / Windows 2003",
+      "date": "Data Not Provided",
+      "issuer": "Microsoft",
+      "url": "Data Not Provided"
+    },
+    {
+      "name": "Microsoft Certified Professional - Internet",
+      "date": "Data Not Provided",
+      "issuer": "Microsoft",
+      "url": "Data Not Provided"
+    },
+    {
+      "name": "Comp-TA A+ Certified",
+      "date": "Data Not Provided",
+      "issuer": "Comp-TA",
+      "url": "Data Not Provided"
+    },
+    {
+      "name": "Microsoft Certified System Administrator",
+      "date": "To Be Completed by end of 2006",
+      "issuer": "Microsoft",
+      "url": "Data Not Provided"
+    },
+    {
+      "name": "Microsoft SQL 2000 Design and Administration",
+      "date": "Data Not Provided",
+      "issuer": "Microsoft",
+      "url": "Data Not Provided"
+    },
+    {
+      "name": "Microsoft Access I, II, III",
+      "date": "Data Not Provided",
+      "issuer": "Microsoft",
+      "url": "Data Not Provided"
+    },
+    {
+      "name": "Navision Report Writer I & II",
+      "date": "Data Not Provided",
+      "issuer": "Navision",
+      "url": "Data Not Provided"
+    }
+  ],
+  "publications": [
+  ],
+  "skills": [
+    {
+      "name": "IT Management",
+      "level": "Expert",
+      "keywords": ["Microsoft Certified Professional", "Microsoft Certified System Administrator", "Comp-TA A+ Certified", "Navision Report Writer", "Microsoft SQL 2000 Design and Administration", "Microsoft Access I, II, III", "Cisco Routers", "Active Directory", "Network Security", "Operating Systems", "Database Management", "ERP Software"]
+    }
+  ],
+  "languages": [ ],
+  "interests": [ ],
+  "references": [ ],
+  "projects": [ ]
+}

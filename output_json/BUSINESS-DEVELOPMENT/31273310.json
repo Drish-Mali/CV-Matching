@@ -1,0 +1,99 @@
+{
+  "basics": {
+    "name": "",
+    "label": "BUSINESS DEVELOPMENT MANAGER",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Extensive and diverse sales, business development, and management background. Creative professional with records of increasing revenue and department effectiveness. Proficient in prioritizing and completing tasks in a timely manner, yet flexible to multi-task when necessary. Customer focused with diverse industry experience including security, computer, sales, management, psychology, non-profit, and retail. Enjoys learning new programs and processes. Team player who is attentive to detail and able to work in fast paced environments. Excellent oral and written communication skills.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Business Development Manager",
+      "url": "",
+      "startDate": "07/2015",
+      "endDate": "Current",
+      "summary": "Generate new business from cold calling efforts. Manage advertisement budget. Maintain key performance measures. Identify, coordinate and participate in client relationship-building activities and meetings. Assist sales managers with new and pre-owned sales through writing, negotiating, and closing sales. Develop and manage CRM tool. Design social media content and company webpage. Conduct discovery and needs analysis with each potential client. Participate and make recommendation in screening/hiring and development of associates",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": " Internal Operations Manager",
+      "url": "",
+      "startDate": "08/2014",
+      "endDate": "07/2015",
+      "summary": "Manage reconditioning process of all pre owned vehicles. Resolve customer complaints in a quick and friendly manner. Handle all internal service tickets. Sell customers additional service based off recommendations of technician. Increase service department revenue and profit by 30% in just 6 months. Develop and share best sales practice throughout service department. Support sales, business office, and buyer when needed",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Used Car Manager",
+      "url": "",
+      "startDate": "02/2013",
+      "endDate": "08/2014",
+      "summary": "Procure and sell pre-owned inventory through auction sites, 3rd party vendors, and physical car auctions. Appraise customer trade ins. Assist sales professionals in pre-owned sales including customer relationship building, negotiating, and arranging financing. Increase pre-owned sales from 40 cars per month to 70 cars per month within 3 months. Participate and make recommendation in screening/hiring and development of associates",
+      "highlights": []
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Richardson Animal Rescue",
+      "position": "Volunteer",
+      "url": "",
+      "startDate": "03/2015",
+      "endDate": "03/2015",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Argosy University",
+      "url": "",
+      "area": "Psychology",
+      "studyType": "Master of Science Degree",
+      "startDate": "",
+      "endDate": "05/2012",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Sales Management",
+      "level": "",
+      "keywords": [
+        "Account management",
+        "client relations",
+        "cold calling",
+        "computer literate",
+        "computer proficient",
+        "creative problem solving",
+        "customer needs assessment",
+        "customer satisfaction",
+        "customer service",
+        "lead development",
+        "multi-tasking management",
+        "sales",
+        "MS office",
+        "HTML coding"
+        ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

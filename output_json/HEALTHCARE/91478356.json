@@ -1,0 +1,189 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Patient Care Technician",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Proficient and caring Nursing team member offering over 6 years of patient-facing experience. Adept at addressing patient needs with compassionate care and attention to detail. Diligent about maximizing satisfaction, safety and wellness while serving patients of all backgrounds.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Patient Care Technician",
+      "url": "",
+      "startDate": "2015-03-01",
+      "endDate": "Current",
+      "summary": "Under the direction of the Nurse Manager, or designee, the Patient Care Technician assists the work of the Registered Nurse to meet the needs of patients in order to provide safe, quality care. Implements progressive mobility guidelines. Ambulating, turning and repositioning patients. Uses patient handling equipment in the tasks of lifting, transferring, repositioning and transporting patients. May also transport patients within the medical center and deliver and pick up specimens and prescriptions. Assisting with activities of daily living, including but not limited to: feeding, bathing, toileting, providing water, answering the phone, and oral care. Patient monitoring: obtaining, recording and reporting vital signs, weights, and measuring and recording inputs/outputs.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Certified Nursing Assistant",
+      "url": "",
+      "startDate": "2014-05-01",
+      "endDate": "2015-02-01",
+      "summary": "Helped patients effectively manage routine bathing, grooming and other hygiene needs. Assisted patients with mobility needs, including moving to and from beds, organizing wheelchairs and preparing assistive devices. Gathered dietary information, assisted with feeding and monitored intake to help patients achieve nutritional objectives and support. Participated in fun activities, including bingo and music with patients each day to boost mood, improve overall memory and provide light entertainment. Cared for average of 7 patients per pm shift in the facility, delivering high-quality, efficient support to meet all needs.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Private Duty Home Healthcare Aide",
+      "url": "",
+      "startDate": "2013-01-01",
+      "endDate": "2013-11-01",
+      "summary": "Cooked meals and assisted patients with eating tasks to support healthy nutrition. Provided assistance in daily living activities by dressing, grooming, bathing and toileting patient. Managed large range of services including pet care, phone screening and shopping. Performed household tasks such as laundry, dusting, washing dishes and vacuuming. Accompanied clients to medical appointments.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Retail Associate",
+      "url": "",
+      "startDate": "2009-12-01",
+      "endDate": "2011-01-01",
+      "summary": "Organized store merchandise racks and displays to promote and maintain visually appealing environments. Offered each customer top-notch, personal service and polite support to boost sales and customer satisfaction. Skilled using cash register including processing sales discounts and refunds. Greeted customers, helped locate merchandise and suggested suitable options.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Armijo High School",
+      "url": "",
+      "area": "",
+      "studyType": "High School Diploma",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Solano Community College",
+      "url": "",
+      "area": "Criminal Justice And Nursing",
+      "studyType": "Some College (No Degree)",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Boston Reed",
+      "url": "",
+      "area": "Medical Assisting",
+      "studyType": "Certifcate",
+      "startDate": "2011-01-01",
+      "endDate": "2011-12-31",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Patient services",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Feeding assistance",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Qualified in patient transport",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Adaptable",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Professional bedside manner",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Culturally-competent care",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Mobility assistance aptitude",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Infection control and aseptic procedures",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Documenting behaviors",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Patient assessments",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Conducting intakes",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Data entry",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Measuring bodily fluids",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Direct patient care",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Inpatient care",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Patient privacy",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Charting and clinical documentation",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Recording vital signs",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

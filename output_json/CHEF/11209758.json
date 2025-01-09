@@ -1,0 +1,128 @@
+{
+  "basics": {
+    "name": "DFW Personal Chef",
+    "label": "Senior Executive, Senior Tax Specialist, Manager",
+    "email": "",
+    "phone": "",
+    "summary": "Operations Management - Growth Strategies - Data & Financial Analysis Award winning, analytical and data driven decision making manager with 15 years experience in business management and astute understanding of accounting, taxation, marketing, sales and administrative procedures.",
+    "location": {
+      "city": "City",
+      "countryCode": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "DFW Personal Chef",
+      "position": "Senior Executive",
+      "startDate": "07/2008",
+      "endDate": "Current",
+      "summary": "Devised and executed growth plans entailing market penetration and expansion, product development and diversification. Led and mentored 27 team members."
+    },
+    {
+      "name": "DFW Personal Chef",
+      "position": "Senior Tax Specialist",
+      "startDate": "01/2015",
+      "endDate": "04/2017",
+      "summary": "Prepared complex State and Federal tax returns for individuals, trusts, partnerships, corporations, charities and foreign tax clients. Collaborated and advised taxpayers with IRS inquiries and notices. Participated in networking and business development activities."
+    },
+    {
+      "name": "Company Name",
+      "position": "Manager",
+      "startDate": "05/2002",
+      "endDate": "06/2008",
+      "summary": "Managed Steak and Ale's #1 Texas location in revenue generation ($3.93 million annually). Supervised all staff hiring, onboarding, training, retention initiatives, performance appreciation and disciplinary actions."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Saint Joseph University",
+      "area": "Business Management",
+      "studyType": "Bachelor of Science",
+      "score": "Magna Cum Laude",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Mastering QuickBooks level 3 Certified",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "General Management",
+      "level": "",
+      "keywords": [
+        "administrative",
+        "ads",
+        "Arabic",
+        "business development",
+        "contracts",
+        "Customer Relationship Management",
+        "Client",
+        "clients",
+        "customer satisfaction",
+        "energy efficient",
+        "English",
+        "food safety",
+        "French",
+        "hiring",
+        "inventory management",
+        "inventory",
+        "marketing",
+        "market",
+        "mentor",
+        "Access",
+        "Excel (spreadsheets",
+        "Outlook",
+        "PowerPoint",
+        "98",
+        "Microsoft Word",
+        "networking",
+        "payroll processing",
+        "pivot tables",
+        "policies",
+        "pricing",
+        "product development",
+        "producing",
+        "profit",
+        "purchasing",
+        "quality",
+        "QuickBooks",
+        "safety",
+        "selling",
+        "sales",
+        "Search Engine Optimization",
+        "servers",
+        "shipping",
+        "staffing",
+        "strategic",
+        "tax",
+        "tax returns",
+        "training programs"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "French",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Arabic",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

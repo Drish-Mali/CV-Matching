@@ -1,0 +1,144 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Table Games Dealer",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Throughout the years, I've been trained to give only the best service and customer care. It is not only about doing the job right, but to make sure the customer is satisfied with their experience. I've progressed from a cashier, to a waitress, to my most recent employment as a blackjack dealer, giving me a total of three years experience in customer care. However, My skills are not limited to this description, so I'm sure I'll be the perfect fit for any position available.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Table Games Dealer",
+      "url": "",
+      "startDate": "November 2012",
+      "endDate": "June 2014",
+      "summary": "Educated customers on game rules and mathematical probabilities of various wagers. Increased volume and loyalty to the casino by attracting new players and building one-on-one relationships with guests. Took and paid bets and retrieved cards. Inspected cards and equipment to be used in games to verify proper functioning. Processed customer transactions involving cash, and casino chips. Calculated change for currency, chips, vouchers and checks. Provided excellent customer service for up to (6) players at the same time, including their guests.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Server/Hostess/Cashier",
+      "url": "",
+      "startDate": "April 2010",
+      "endDate": "May 2011",
+      "summary": "Delivered exceptional service by greeting and serving customers in a timely, friendly manner. Facilitated prompt and accurate seating and service of all guests. Managed closing duties, including restocking items and reconciliation of the cash drawer. Consistently adhered to quality expectations and standards. Skillfully anticipated and addressed guests' service needs. Delivered exceptional, friendly and fast service. Inquired about guest satisfaction, anticipated additional needs and happily fulfilled requests. Routinely cleaned table linens, table settings, glassware, windowsills, carpets, counters, floors, storage areas and service refrigerators. Correctly calculated charges, issued bills and collected payments. Continually kept carpets and floor clear of debris. Regularly cleaned host stand and buffet area. Maintained a professional tone of voice and words at all times, including during peak rush hours. Actively complied with all health department regulations and rectified issues immediately. Operated and maintained cleaning equipment and tools, including the dishwasher, and hand/table wash stations. Transported all dirty tableware from dining room to dishwashing area for proper cleaning. Consistently delivered exceptional customer service by quickly and efficiently clearing restaurant tables. Stocked and maintained silverware, linen and condiments. Provided high quality service.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Server/Waiter",
+      "url": "",
+      "startDate": "February 2009",
+      "endDate": "January 2010",
+      "summary": "Delivered exceptional service by greeting and serving customers in a timely, friendly manner.. Consistently adhered to quality expectations and standards. Delivered exceptional, friendly and fast service. Inquired about guest satisfaction, anticipated additional needs and happily fulfilled requests. Prepared the buffet and salad bar for dinner service. Continually kept carpets and floor clear of debris. Maintained a professional tone of voice and words at all times, including during peak rush hours. Facilitated prompt and accurate seating and service of all guests. Regularly cleaned host stand and buffet area. Transported all dirty tableware from dining room to dishwashing area for proper cleaning. Consistently delivered exceptional customer service by quickly and efficiently clearing restaurant tables. Supported other areas of the restaurant as necessary, such as setup, cleanup, prep work and equipment maintenance. Stocked and maintained silverware, linen and condiments.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Arkansas City High School",
+      "url": "",
+      "area": "",
+      "studyType": "High School Diploma",
+      "startDate": "",
+      "endDate": "August 2012",
+      "score": "3.927",
+      "courses": [
+        "Spanish (3 years)",
+        "Calculus",
+        "Chemistry",
+        "Member of Debate and Forensics Club (2 years)"
+      ]
+    },
+    {
+      "institution": "Cowley County Community College",
+      "url": "",
+      "area": "Psychology",
+      "studyType": "Associate Degree",
+      "startDate": "",
+      "endDate": "",
+      "score": "3.75",
+      "courses": [
+        "Ethics",
+        "Computer Applications",
+        "Statistics",
+        "Psychology",
+        "Developmental Psychology"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Awarded a certificate and special edition of the Webster's New College Dictionary",
+      "date": "",
+      "awarder": "Kansas Honors Program of the KU Alumni Association",
+      "summary": "For graduating in the top 10% of my class."
+    },
+    {
+      "title": "Presidential Scholarship",
+      "date": "January 2012",
+      "awarder": "Cowley County Community College",
+      "summary": "Awarded Presidential Scholarship to Cowley County Community College for academic excellence."
+    },
+    {
+      "title": "Presidential Academic Achievement Award (4 years)",
+      "date": "2009-2012",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Typing",
+      "level": "98 WPM",
+      "keywords": []
+    },
+    {
+      "name": "IT Skills",
+      "level": "",
+      "keywords": [
+        "PowerPoint",
+        "Word",
+        "Access",
+        "Excel",
+        "Photoshop"
+      ]
+    },
+    {
+      "name": "Customer Service",
+      "level": "",
+      "keywords": [
+        "Multi-tasking",
+        "Organizational Training",
+        "Course Training in Customer Service and Confrontation"
+      ]
+    },
+    {
+      "name": "Table Games",
+      "level": "",
+      "keywords": [
+        "Blackjack",
+        "UltimateTexas Hold'em",
+        "Three Card Poker"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

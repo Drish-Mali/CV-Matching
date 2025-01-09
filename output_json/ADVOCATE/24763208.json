@@ -1,0 +1,110 @@
+{
+  "basics": {
+    "name": "",
+    "label": "DISTRICT MANAGER",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "I am seeking a setting in which I can expand on and use my sales and management experience. I have a outstanding track record of exceptional customer service, pro-active business strategies and award winning sales. My passion is leading teams to success through employee engagement. I look forward to using my marketing and sales skills to work with and grow with your team.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "District Manager",
+      "url": "",
+      "startDate": "2012-03",
+      "endDate": "Current",
+      "summary": "My responsibilities as a district manager for Knowledge universe included overseeing 6 early child education centers located in Long Island New York. During my two years with Knowledge Universe I focused my district around improving financial results, elevating program quality & brand recognition and building team engagement. accomplishments while at Knowledge universe include moving two negative ebita centers to positive ebita in a 12 month period, opening a new center in fall of 2014 & five centers pursue NAEYC accreditation.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Director",
+      "url": "",
+      "startDate": "2007-08",
+      "endDate": "2012-10",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Area Manager",
+      "url": "",
+      "startDate": "2012-10",
+      "endDate": "2013-03",
+      "summary": "",
+      "highlights": []
+    }   
+  ],
+"education": [
+    {
+      "institution": "State University of Stony Brook",
+      "url": "",
+      "area": "Social Work",
+      "studyType": "Bachelor's",
+      "startDate": "1993",
+      "endDate": "1995",
+      "score": "",
+      "courses": [ ]
+    },
+    {
+      "institution": "Suffolk County Community College",
+      "url": "",
+      "area": "Associate",
+      "studyType": "",
+      "startDate": "1991",
+      "endDate": "1993",
+      "score": "",
+      "courses": [ ]
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "CPR",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "CPI",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "ABA",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "publications": [ ],
+  "skills": [
+    {
+      "name": "Leadership",
+      "level": "",
+      "keywords": [
+        "Training",
+        "Recruiting",
+        "Sales",
+        "Sales Goals",
+        "CPR",
+        "Teaching"
+      ]
+    }
+  ],
+  "languages": [ ],
+  "interests": [ ],
+  "references": [ ],
+  "projects": [ ]
+}

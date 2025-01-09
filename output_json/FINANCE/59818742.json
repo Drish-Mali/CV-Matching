@@ -1,0 +1,117 @@
+{
+  "basics": {
+    "name": "AN ACCOUNT CUM FINANCE MANAGER",
+    "email": "patelsujaym54@yahoo.com",
+    "location": {
+      "address": "12, Girdhar Nagar Society, At & Po. & Ta. - Savli, Dist.",
+      "postalCode": "391770",
+      "city": "Vadodara",
+      "countryCode": "IND",
+      "region": "Gujarat"
+    },
+    "summary": "I am team-oriented Accountant prepares clear, comprehensive financial reports for executive-level management. I did work as an Account Manager in India for private sector company and also worked in financial sector only. Right now, I am looking for an entry level position based on my study...",
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "RB Cars Pvt. Ltd.",
+      "position": "Account Cum Finance Manager",
+      "startDate": "2010-05-01",
+      "endDate": "2014-05-01",
+      "summary": "Maruti Suzuki Authorised Dealer Trading and Services. Handling all kinds of Account and Finance Activities. Maintain two types of Accounts like Norms as per Income Tax and Maruti Suzuki India Ltd...",
+      "highlights": []
+    },
+    {
+      "name": "Ratnaveer Stainless Products Pvt Ltd",
+      "position": "Account cum Finance Executive",
+      "startDate": "2008-01-01",
+      "endDate": "2010-04-01",
+      "summary": "Looking after Purchase bills, checking and verification of bills. Looking after sales, Preparing sales report on daily basis...",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Devry University",
+      "area": "Accounting",
+      "studyType": "M.S",
+      "startDate": "",
+      "endDate": "2015-03-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "ICFAI University Gujarat University",
+      "area": "Finance",
+      "studyType": "MBA",
+      "startDate": "",
+      "endDate": "2009-05-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Gujarat University",
+      "area": "Commerce",
+      "studyType": "Bachelor Of Commerce (B. Com)",
+      "startDate": "",
+      "endDate": "2007-04-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Gujarat Higher Secondary Education Board",
+      "area": "Commerce",
+      "studyType": "HSC Commerce",
+      "startDate": "",
+      "endDate": "2004-03-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+        "name": "Accounting",
+        "level": "Master",
+        "keywords": [
+            "Financial statement analysis", "Financial planner", "Account reconciliation", "Complex problem solving", "General ledger accounting", "Budget forecasting"
+        ]
+        },
+        {
+        "name": "Computer Proficiency",
+        "level": "Advanced",
+        "keywords": [
+            "MS Office, Word and Power point", "Tally 7.2 & 9 and ERP"
+        ]
+      }
+    ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Gujarati",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Cricket",
+      "keywords": []
+    },
+    {
+      "name": "Traveling",
+      "keywords": []
+    }
+  ],
+  "references": [],
+  "projects": []
+}

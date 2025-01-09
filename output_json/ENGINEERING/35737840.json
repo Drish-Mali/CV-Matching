@@ -1,0 +1,106 @@
+{
+  "basics": {
+    "name": "Engineering Aide",
+    "label": "Facilities Tech",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Resourceful Facilities Tech with solid background in preventative maintenance repair. Talented Facilities Tech with more than 3 years of experience developing and executing maintenance programs. Excellent troubleshooting skills.",
+    "location": {},
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Engineering Aide",
+      "url": "",
+      "startDate": "2006-12-01",
+      "endDate": "2009-04-01",
+      "summary": "Aided other departments in the development of plans and cost estimates on road, parking lot and drainage projects. Completed all repairs and maintenance work to company standards.",
+      "highlights": ["Aided other departments in development of plans for projects", "Completed all repairs and maintenance work to company standards."]
+    },
+    {
+      "name": "Company Name",
+      "position": "Service Technician",
+      "url": "",
+      "startDate": "2004-08-01",
+      "endDate": "2006-12-01",
+      "summary": "Followed checklists to verify that all important parts were examined. Executed all phases of power system tear down and repair. Operated pneumatic tools and air compressors.",
+      "highlights": ["Serviced air conditioning, heating, engine- cooling and electrical systems", "Rebuilt faulty assemblies"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Concrete Finisher",
+      "url": "",
+      "startDate": "1997-05-01",
+      "endDate": "2004-07-01",
+      "summary": "Shaped and built roads using large construction equipment. Operated equipment safely and efficiently at all times. Correctly used aggregate sizes and classifications for all road construction. Retained shop order segregation during yard movement.",
+      "highlights": ["Operated a bulldozer to properly deploy waste products at compactors", "Operated equipment safely and efficiently at all times"]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Maury High School",
+      "url": "",
+      "area": "General Studies",
+      "studyType": "Diploma",
+      "startDate": "",
+      "endDate": "1986-01-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Lamar Institute of Technology",
+      "url": "",
+      "area": "Industrial Maintenance, Production Engineering, Mechanical Engineering, Engineering Welding Fabrication, Industrial and Tool Manufacturing Technology and Process Technology",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "",
+      "score": "4.0",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Technical",
+      "level": "",
+      "keywords": [
+        "Mechanically-inclined",
+        "Diagnosis and repair",
+        "Skilled concrete finisher",
+        "Preventative maintenance",
+        "Dexterous with hand tools",
+        "Suspension and alignment",
+        "Strong attention to detail",
+        "Brake systems expertise",
+        "Troubleshooting",
+        "Brake repair and replacement",
+        "Responsible and reliable",
+        "Strategic thinker",
+        "Excellent problem solver",
+        "Self-starter",
+        "Decisive",
+        "Critical thinker"
+      ]
+    },
+    {
+      "name": "Customer Service",
+      "level": "",
+      "keywords": ["Customer service"]
+    },
+    {
+      "name": "Documentation",
+      "level": "",
+      "keywords": ["Documentation"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

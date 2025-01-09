@@ -1,0 +1,73 @@
+{
+  "basics": {
+    "name": "Cole S. Grundstedt",
+    "email": "cole.grundstedt@gmail.com",
+    "phone": "1 (702) 353-0976",
+    "summary": "12 years manufacturing, operations, engineering, GSC, NPI/NPD, project management, ERP systems, configuration management, data analytics, and business intelligence. Consistent on time product launches during company's largest growth period...",
+    "location": {
+      "city": "State",
+      "countryCode": "US"
+    }
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Director of Engineering",
+      "startDate": "2004-01-01",
+      "endDate": "2016-01-01",
+      "summary": "Capital goods manufacturer, software developer for hospitality & gaming, $1b sales, 3k employees..."
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Nevada",
+      "area": "Finance and Marketing",
+      "studyType": "Master of Business Administration",
+      "startDate": "",
+      "endDate": "2009-01-01"
+    },
+    {
+      "institution": "University of Southern California",
+      "area": "Industrial and Systems Engineering",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Engineering Skills",
+      "level": "Master",
+      "keywords": [
+        "AutoCAD",
+        "Siemens PLM",
+        "SolidWorks PDM",
+        "Tableau",
+        "PowerBI",
+        "Cognos",
+        "TM1",
+        "MS Access",
+        "Project",
+        "Visio",
+        "SharePoint Designer",
+        "JIRA",
+        "Confluence",
+        "MS Dynamics AX & GP",
+        "Epicor"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Published Inventor - USPTO #8,684,847",
+      "date": "",
+      "awarder": "",
+      "summary": "Commercialized $1m revenue per year."
+    }
+  ],
+  "publications": [],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

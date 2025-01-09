@@ -1,0 +1,108 @@
+{
+  "basics": {
+    "name": "Name not provided",
+    "label": "Store Keeper / Production Co-ordinator",
+    "email": "Not provided",
+    "phone": "Not provided",
+    "summary": "To develop and find a place in the industry where I can utilize my skills through serving efficiently and with complete honesty, integrity and hard work for personal and organizational growth.",
+    "location": {
+      "address": "Not provided",
+      "postalCode": "Not provided",
+      "city": "City not provided",
+      "countryCode": "IN",
+      "region": "Not provided"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Store Keeper / Production Co-ordinator",
+      "startDate": "2014-03",
+      "endDate": "Current",
+      "summary": "Maintained store facilities to ensure smooth functioning - Made arrangements and placed orders for new stock and supplies whenever necessary.",
+      "highlights": [
+        "Store Manager",
+        "Category Management Incharge",
+        "Team Leader",
+        "Sr. Customer Service Executive"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "C.K.Thakur College of Arts & Commerce Mumbai University",
+      "area": "Commerce",
+      "studyType": "Bachelors",
+      "startDate": "2005",
+      "endDate": "2008",
+      "score": "Not provided",
+      "courses": []
+    },
+    {
+      "institution": "S.E.S College / Mumbai University",
+      "area": "Science",
+      "studyType": "High School",
+      "startDate": "2005",
+      "endDate": "2005",
+      "score": "Not provided",
+      "courses": []
+    },
+    {
+      "institution": "New English School / Mumbai University",
+      "area": "Not provided",
+      "studyType": "High School",
+      "startDate": "2003",
+      "endDate": "2003",
+      "score": "Not provided",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Key Skills",
+      "level": "Not provided",
+      "keywords": [
+        "Coaching",
+        "customer service",
+        "train employees", 
+        "Internet applications( Excel, Ms-Office, Word, MIS)", 
+        "Inventory", 
+        "logistics", 
+        "Merchandising", 
+        "purchasing", 
+        "quality", 
+        "receiving", 
+        "reconciling", 
+        "reporting", 
+        "Sales", 
+        "Scheduling", 
+        "Supervising"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Not provided"
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Not provided"
+    },
+    {
+      "language": "Marathi",
+      "fluency": "Not provided"
+    },
+    {
+      "language": "Tamil",
+      "fluency": "Not provided"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

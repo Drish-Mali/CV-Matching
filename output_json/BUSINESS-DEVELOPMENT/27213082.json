@@ -1,0 +1,116 @@
+{
+  "basics": {
+    "name": "Not Provided",
+    "label": "SR. BUSINESS DEVELOPMENT DIRECTOR",
+    "image": "",
+    "email": "Not Provided",
+    "phone": "Not Provided",
+    "url": "Not Provided",
+    "summary": "Highly ambitious in business development with background in sales, marketing, and various areas of management.",
+    "location": {
+      "address": "Not Provided",
+      "postalCode": "Not Provided",
+      "city": "Not Provided",
+      "countryCode": "Not Provided",
+      "region": "Not Provided"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Sr. Business Development Director",
+      "url": "Not Provided",
+      "startDate": "2014-01",
+      "endDate": "Current",
+      "summary": "Manage and develop business relations with insurance marketplace clients sales. Direct sales team with software sales nationally. Consult clients to assess technology requirements and advise on software to address their needs. Lead project management for complete life cycle of software build and customization.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "IT Program Manager",
+      "url": "Not Provided",
+      "startDate": "2012-01",
+      "endDate": "2014-01",
+      "summary": "Managed a range of large-scale projects, including budgeting and administration, within the Aerospace industry."
+    },
+    {
+      "name": "Company Name",
+      "position": "Quality Engineering Analyst",
+      "url": "Not Provided",
+      "startDate": "2007-01",
+      "endDate": "2011-01",
+      "summary": "Instructed on Six Sigma tools and implementation techniques. Assisted in preparation of marketing materials for inter-departmental clients."
+    },
+    {
+      "name": "Company Name",
+      "position": "Quality Engineering Analyst",
+      "url": "Not Provided",
+      "startDate": "1997-01",
+      "endDate": "2007-01",
+      "summary": "Played a key role in the Advanced Projects Group - Radar cross section X and Ku band Material science methods for ceramic materials."
+    },
+    {
+      "name": "Company Name",
+      "position": "Distributed Computer Systems Analyst / Network Administrator",
+      "url": "Not Provided",
+      "startDate": "1990-01",
+      "endDate": "1996-01",
+      "summary": "Provided computer consultancy and support for more than 200 workstations across 5 counties."
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Argosy University",
+      "url": "Not Provided",
+      "area": "Business Administration Management",
+      "studyType": "Doctor",
+      "startDate": "Not Provided",
+      "endDate": "Not Provided",
+      "score": "Not Provided",
+      "courses": []
+    },
+    {
+      "institution": "Embry Riddle University",
+      "url": "Not Provided",
+      "area": "Business Administration",
+      "studyType": "Master",
+      "startDate": "Not Provided",
+      "endDate": "Not Provided",
+      "score": "Not Provided",
+      "courses": []
+    },
+    {
+      "institution": "Southern University",
+      "url": "Not Provided",
+      "area": "Computer Science",
+      "studyType": "Bachelors",
+      "startDate": "Not Provided",
+      "endDate": "1984",
+      "score": "Not Provided",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Certified Airman (private pilot)",
+      "date": "Not Provided",
+      "issuer": "Not Provided",
+      "url": "Not Provided"
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Business Development",
+      "level": "Senior",
+      "keywords": ["Strong verbal communication", "Team leadership", "Data management", "Self-motivated", "Process implementation", "Project management","Powerful negotiator", "Conflict resolution","Budgeting and finance", "Risk management processes and analysis"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

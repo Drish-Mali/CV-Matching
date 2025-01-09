@@ -1,0 +1,135 @@
+{
+  "basics": {
+    "name": "Not provided",
+    "label": "Software Engineering Manager",
+    "image": "",
+    "email": "Not provided",
+    "phone": "Not provided",
+    "url": "Not provided",
+    "summary": "Experienced software engineer, and hands-on engineering manager with 20+ years of product development experience in broadcast media, and\n10+ years of experience in leading development teams (20+ engineers), hiring (10+ offers, 40+ interviews), HR personnel procedures,\nperformance reviews, and project transitions.",
+    "location": {
+      "address": "Not provided",
+      "postalCode": "Not provided",
+      "city": "Not provided",
+      "countryCode": "Not provided",
+      "region": "Not provided"
+    },
+    "profiles": [
+      {
+        "network": "Not provided",
+        "username": "Not provided",
+        "url": "Not provided"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Software Engineering Manager",
+      "url": "Not provided",
+      "startDate": "2009-09-01",
+      "endDate": "Current",
+      "summary": "Visual C++, Windows, OOP, STL, WinAPI, MFC, threads, ATL, IPC, FTP, TCP, HTTP, XML, JSON, services, web services, REST\nAPI, SOA, media formats and standards, codec SDK, MPEG-DASH, API design and documentation. BCD spinoff as Imagine in 2013) Nexio video servers and applications run in various nodes of Nexio LAN to facilitate collaborative video\nbroadcast workflows.",
+      "highlights": [
+        "Introduced peer reviews, repurposed components. All 3 teams collaborated as one large team. Adopted Scrum. Facilities right-sized. Releases: Nexio Software Suite 6.0, 7.0, 8.0 and Global Proxy Suite 2.5, 3.0, 3.5."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Principal Software Engineer",
+      "url": "Not provided",
+      "startDate": "1997-08-01",
+      "endDate": "2005-10-31",
+      "summary": "Harris Corporation acquired Leitch) Architected, designed, and implemented fundamental DLL components for evolution of video editing product.",
+      "highlights": [
+        "Interactive playback architecture Video and audio rendering engines Scalable decoder and encoder components Hardware integration modules"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Illinois Institute of Technology",
+      "url": "Not provided",
+      "area": "Computer Science",
+      "studyType": "Master",
+      "startDate": "Not provided",
+      "endDate": "Not provided",
+      "score": "Not provided",
+      "courses": []
+    },
+    {
+      "institution": "National Institute of Technology",
+      "url": "Not provided",
+      "area": "Electronics and Communication Engineering",
+      "studyType": "Bachelor",
+      "startDate": "Not provided",
+      "endDate": "Not provided",
+      "score": "Not provided",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Software Engineering",
+      "level": "Not provided",
+      "keywords": [
+        "API",
+        "ATL",
+        "audio",
+        "backup",
+        "broadcast",
+        "C++",
+        "CLI",
+        "Hardware",
+        "concept",
+        "content management",
+        "Content",
+        "client",
+        "clients",
+        "documentation",
+        "dynamic HTML5",
+        "editing",
+        "XML",
+        "FTP",
+        "functional",
+        "drawing",
+        "HTTP",
+        "IDs",
+        "explorer",
+        "JavaScript",
+        "json",
+        "LAN",
+        "MB",
+        "access",
+        "C#",
+        "MFC",
+        "Win",
+        "Windows",
+        "2000",
+        "NAS",
+        "OOP",
+        "page",
+        "Proxy",
+        "rendering",
+        "SAN",
+        "Scrum",
+        "servers",
+        "specification",
+        "team management",
+        "threads",
+        "troubleshoot",
+        "Video",
+        "Video Editing",
+        "Visual C++"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

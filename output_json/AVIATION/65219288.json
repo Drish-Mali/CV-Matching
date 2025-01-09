@@ -1,0 +1,57 @@
+{
+  "basics": {
+    "name": "Entrepreneur General Manager",
+    "label": "Airport Operations Safety and Training Coordinator",
+    "summary": "Airport Operations Safety and Training Coordinator with management experience and exceptional people skills. Versed in accident investigation and analysis to develop action plans and initiatives to address accident trends. Desires a challenging role as a Safety Training Manager.",
+    "location": {
+      "city": "City",
+      "region": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Entrepreneur General Manager",
+      "startDate": "2011-12-01",
+      "endDate": "2015-12-01",
+      "summary": "Conducted analysis to address loss of revenue which led to complete turnaround. Increased sales by 17% over a two-year period. Provided onsite training. Monitored multiple databases to keep track of all company inventory. Successfully led key projects which resulted in new source of revenue. Planned and executed new line of business. Conducted and performed inspections of all gas equipment and facilities. Maintained and obtained a clean and customer friendly environment for various customers. Enforced and implemented strict policies and procedures regulating the gas station. Responsible for hire and managing more than 30 employees. Oversaw the price management of fuels and merchandise. Sought, prepared, negotiated and obtained contracts with USAID to deliver food and seeds throughout Haiti. Coordinated and oversaw the daily operations of the trucks, Prepared and administer the budgets.",
+      "highlights": ["Complete turnaround","Increased sales by 17%","New source of revenue"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Safety & Training Coordinator",
+      "startDate": "1995-06-01",
+      "endDate": "2011-01-01",
+      "summary": "Exercised Responsibility for the development of training for more than 15,000 airport employees, loss prevention, scheduled and conducted safety meetings. Monitored changes in legislation and FAA regulations that may affect training and safety program operations or service delivery; evaluated their effect upon program activities and recommended appropriate policy and procedure modifications. Maintained contact with airlines, government agency, and Miami Dade Aviation employees to keep them informed of safety and training needs and requirements. Developed and modified training techniques and formats to evaluate airfield vehicle operators or current program effectiveness and to determine the need for program modification and/or new training program development.",
+      "highlights": ["Developed of training for more than 15,000 airport employees","Monitored changes in legislation and FAA regulations","Recommended policy and procedure modifications"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Barry University",
+      "area": "Public 2",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "2007-12-01",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "General Skills",
+      "level": "",
+      "keywords": [
+        "agency", "balance", "budgets", "contracts", "delivery", "government", "inventory", "loss prevention", "managing", "meetings", "access", "personnel", "policies", "program development", "progress", "safety", "sales", "training programs", "transportation"
+      ]
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "languages": [],
+  "volunteer": [],
+  "awards": [],
+  "certificates": [],
+  "publications": []
+}

@@ -1,0 +1,111 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Lecturer, Chef Instructor, Researcher, and Recruiter",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "A goal-driven food service manager, dietitian, and culinary professional specializing in quick paced, high-volume operations, team building, and systems improvement eager to offer 15+ years experience towards maximizing productivity and profitability.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "",
+      "position": "Lecturer, Chef Instructor, Researcher, and Recruiter",
+      "url": "",
+      "startDate": "2013-01-01",
+      "endDate": "current",
+      "summary": "Created sustainable clinical nutrition resources for patient care. Provided engaging lectures integrating nutrition and foods earning the highest peer evaluation. Integrated Affordable Health Care Act clinical impacts and resources throughout lecture series. Provided dynamic cooking shows for LLUH audiences of 20-500 compliant to protocol.",
+      "highlights": []
+    },
+    {
+      "name": "",
+      "position": "Professor Biology and Nutrition Department",
+      "url": "",
+      "startDate": "2012-02-01",
+      "endDate": "current",
+      "summary": "Constructed a dynamic nutrition curriculum/syllabus consistent with department standards. Tailored unique classroom activities to enhance comprehension, and participation, as well as foster communication. Created fluid and engaging classroom instruction centered around cutting-edge presentations authored to support the assigned textbook, current evidence-based practices, and guidelines.",
+      "highlights": []
+    },
+    {
+      "name": "",
+      "position": "Nutrition/Chef Consultant",
+      "url": "",
+      "startDate": "2010-09-01",
+      "endDate": "current",
+      "summary": "Crafted signature recipes from the edible gardens and presented the recipes at the open house to the press, parents, and children. Provided nutritional instruction to the teachers grades 6-12 to support the wellness policies. Authored nutrition services newsletter distributed campus wide.",
+      "highlights": []
+    },
+    {
+      "name": "",
+      "position": "Chef Instructor/Nutritionist",
+      "url": "",
+      "startDate": "2006-06-01",
+      "endDate": "2009-08-01",
+      "summary": "Created interactive curricula uniquely tailored for children ages 4-16 to include farm-to-table cooking. Synchronized specialty programs that accommodated all food allergies, ensuring accessibility to all. Restructured banquet services for 300+ Performance Night visitors.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Loma Linda University",
+      "url": "",
+      "area": "Nutrition",
+      "studyType": "Master of Public Health",
+      "startDate": "",
+      "endDate": "2011",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "California State Polytechnic University",
+      "url": "",
+      "area": "Human Nutrition",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "2009",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Le Cordon Bleu",
+      "url": "",
+      "area": "Culinary Arts",
+      "studyType": "Associate of Science",
+      "startDate": "",
+      "endDate": "2006",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Registered Dietitian",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "ServSafe Management",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

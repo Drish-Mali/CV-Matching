@@ -1,0 +1,116 @@
+{
+  "basics": {
+    "name": "Patient Service Representative",
+    "label": "Medical Professional",
+    "email": "",
+    "phone": "",
+    "summary": "Seeking a position using strong organizational skills, superb communication skills and interest in management position with the reputed organization that rewards loyalty, hard work, dependability and positive results in the team environment.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Patient Service Representative",
+      "url": "",
+      "startDate": "2015-03-01",
+      "endDate": "Current",
+      "summary": "Trained new hires and in-house staff members in evaluation, data collection, analysis and reporting strategies. Oversaw data queries and rectified them efficiently",
+      "highlights": [
+        "Trained new hires",
+        "Data queries management",
+        "Handling high volume of calls",
+        "Established accuracy",
+        "HR assistant responsibilities",
+        "Multiple tasks with quality standards"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Human Resource Assistant, Supervisor/Call center Supervisor",
+      "startDate": "2011-12-01",
+      "endDate": "2015-03-01",
+      "summary": "Directed inbound calls to improve call flow. Facilitated information flow to guarantee objectives were met. Assisted with the development of operations, quality and training processes",
+      "highlights": [
+        "Improved call flow",
+        "Assisted in training process",
+        "Handled HR inquiries",
+        "Streamlined onboarding process"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Salon Manager/ Receptionist",
+      "startDate": "1999-01-01",
+      "endDate": "2011-01-01",
+      "summary": "Created repeat business by developing long-term relationships with regular customers. Enforced safety procedures",
+      "highlights": [
+        "Developed long term relationships with clients",
+        "Handled staff development, budgeting and supply ordering",
+        "Enhanced productivity of management"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Customer Service Sales Associate",
+      "startDate": "1996-01-01",
+      "endDate": "1999-01-01",
+      "summary": "Fielded an average of 150 customer service calls per day. Helped customers select merchandise based on their needs. Resolved customers' problems. Ensured high levels of customer satisfaction",
+      "highlights": [
+        "Handled an average of 150 customer service calls per day",
+        "Helped customers select merchandise",
+        "Resolved customers' problems",
+        "Trained employees on company policies"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Harrington College of Design",
+      "area": "",
+      "studyType": "Bachelors of Arts",
+      "startDate": "",
+      "endDate":"2011-01-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Medical Management",
+      "level": "",
+      "keywords": [
+        "Maintains strict confidentiality",
+        "Proven patience and self-discipline",
+        "Knowledge of HMOs, Medicare and Medi-Cal",
+        "Personal and professional integrity",
+        "Medical Manager Software",
+        "Relationship and team building",
+        "Electronic Medical Record (EMR) software",
+        "Staff training and development",
+        "HIPAA compliance",
+        "Effectively influences others",
+        "Patient-focused care",
+        "Critical thinking proficiency",
+        "Strong work ethic",
+        "Cultural awareness and sensitivity",
+        "Team player with positive attitude",
+        "Excellent interpersonal skills",
+        "Compassionate and trustworthy caregiver",
+        "Time management",
+        "Detail-oriented"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

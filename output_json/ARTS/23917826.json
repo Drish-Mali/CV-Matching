@@ -1,0 +1,129 @@
+{
+  "basics": {
+    "name": "Library Educational Aide",
+    "label": "Administrative Assistant",
+    "summary": "To obtain an administrative assistant position where I can apply my 10 years of customer service, gift of multitasking, and professional experience to provide a team with a high quality of consistent supportive experience.",
+    "skills": [
+      {
+        "name": "General Skills",
+        "level": "Professional",
+        "keywords": [
+          "Competent and reliable",
+          "Organized and multitasking",
+          "Resourceful in solving problems",
+          "Excellent communication and interpersonal skills",
+          "Ability to work under pressure",
+          "Self-motivated and able to learn on own initiative",
+          "Excellent record of dependability and reliability",
+          "Versatile and multi-skilled",
+          "Excellent verbal and written communication skills"
+        ]
+      },
+      {
+        "name": "Technical Skills",
+        "level": "Professional",
+        "keywords": [
+          "computer knowledge",
+          "Email",
+          "fax",
+          "ink",
+          "inventory",
+          "leadership",
+          "management skills",
+          "managing",
+          "marketing",
+          "access",
+          "excel",
+          "money",
+          "office",
+          "power point",
+          "publisher",
+          "word",
+          "newsletter",
+          "pricing",
+          "receiving",
+          "record keeping",
+          "recruitment",
+          "selling",
+          "sales",
+          "staff management",
+          "phone skills",
+          "phone",
+          "upgrade",
+          "website",
+          "web page"
+        ]
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Library Educational Aide",
+      "startDate": "2015-08-01",
+      "summary": "Teaches students how to locate media in the library, empowers students to be responsible for their individual library needs. Organizes books, keeps a clean workspace and process daily shelving needs of the library. Assist in individual needs for the entire school."
+    },
+    {
+      "name": "Company Name",
+      "position": "Office Manager/Program Director",
+      "startDate": "2014-04-01",
+      "summary": "Improved several areas of business including creating an in-house system for managing student information, reducing costs for internet and phone, setting up wholesale accounts for merchandise, leading the relocation of the dojo, improving communication with students and parents, improving policies and procedures, managing students and staff, and handling record keeping."
+    },
+    {
+      "name": "Company Name",
+      "position": "Children's Ministry",
+      "startDate": "2009-09-01",
+      "endDate": "2013-05-01",
+      "summary": "Created a warm and welcoming environment for children, staff and parents."
+    },
+    {
+      "name": "Company Name",
+      "position": "Sales Associate",
+      "startDate": "2007-06-01",
+      "endDate": "2009-11-01",
+      "summary": "Increased sales productivity and guest service. Established an organized system for daily needs of answering emails, fax and phone calls. Learned essential business and management skills."
+    },
+    {
+      "name": "Company Name",
+      "position": "Team Lead Specialist",
+      "startDate": "2004-10-01",
+      "endDate": "2006-12-01",
+      "summary": "Managed the electronics department that handled exchanges, returns, purchases, customer service, complaints, building displays, and inventory. Managed a team of employees during peak and off-peak seasons."
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of New Mexico",
+      "area": "English and Journalism",
+      "studyType": "",
+      "startDate": "2004",
+      "endDate": ""
+    },
+    {
+      "institution": "New Mexico State University",
+      "area": "General",
+      "studyType": "",
+      "startDate": "2000",
+      "endDate": "2000"
+    },
+    {
+      "institution": "Mayfield High School",
+      "studyType": "High School Diploma",
+      "startDate": "2000",
+      "endDate": "2000"
+    },
+    {
+      "institution": "",
+      "area": "Educational Aide Certification",
+      "studyType": "Certificate",
+      "startDate": "2015",
+      "endDate": "2015"
+    }
+  ],
+  "certificates": [],
+  "publications": [],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

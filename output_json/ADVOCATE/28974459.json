@@ -1,0 +1,96 @@
+{
+  "basics": {
+    "name": "Patient Advocate",
+    "label": "Medical Assistant",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Skilled medical assistant with the sound knowledge of technical support, medical duties and clerical skills. Excellent communication skills along with very solid customer service knowledge.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Patient Advocate",
+      "url": "",
+      "startDate": "2014-09-01",
+      "endDate": "",
+      "summary": "Screen patients to Determine Eligibility, Screen patients in Emergency room, throughout the hospital, and as walk-ins, Help patients apply for Medicaid Coverage, Send application and supported documents to Medicaid office, Follow up with patients and Medicaid office, Verify Insurance using Health XNet, Certify accounts in Medicaid portal so client could bill Insurance, Code account accurately to continue following up",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Tech",
+      "url": "",
+      "startDate": "2014-05-01",
+      "endDate": "2014-08-01",
+      "summary": "Verified that information in the computer system was up-to-date and accurate, Developed patient care plans, including assessments, evaluations, and nursing diagnoses, Helped physicians examine and treat patients by assisting with instruments, injections and suture removal, Ensured HIPAA compliance, Maintained patient privacy and confidential patient information, Tested patients' blood glucose levels, Obtained vitals for a floor of 10 patients per shift",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "PIMA Medical Institute",
+      "url": "",
+      "area": "Medical Assistant",
+      "studyType": "Certificate",
+      "startDate": "2010-01-01",
+      "endDate": "2011-01-01",
+      "score": "3.8",
+      "courses": []
+    },
+    {
+      "institution": "Central New Mexico Community College",
+      "url": "",
+      "area": "General Studies",
+      "studyType": "G.E.D",
+      "startDate": "2008-01-01",
+      "endDate": "2008-01-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "EKG",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "CPR Certified",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "Medical Assistant",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Medical Skills",
+      "level": "Master",
+      "keywords": [
+        "Active listening", "Energetic work attitude", "Strong organizational skills", "Patient charting", "Healthcare billing proficiency", "Health insurance processing", "Clinical training", "Insurance eligibility verification", "Medical Assisting specialist", "Medical billing", "Computerized charting specialist", "High customer service standards", "CPR/BLS certified", "Conflict resolution proficiency", "Medical coding capability", "Proficient with Microsoft Office Suite", "Talent in obtaining/charting vital signs", "Microsoft Word, Excel, PowerPoint", "Patient positioning understanding", "Detail oriented", "Qualified in specimen collection/processing", "Planning/coordinating", "Microsoft Office", "Excellent quantitative skills", "Spreadsheet development", "Insurance processing"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

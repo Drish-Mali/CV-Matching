@@ -1,0 +1,138 @@
+{
+  "basics": {
+    "name": "Not specified",
+    "label": "Aviation Safety Assistant",
+    "image": "",
+    "email": "Not specified",
+    "phone": "Not specified",
+    "url": "Not specified",
+    "summary": "I have 17 years of customer service experience as a administrative assistant with the Federal Aviation Administration.",
+    "location": {
+      "address": "Not specified",
+      "postalCode": "Not specified",
+      "city": "Not specified",
+      "countryCode": "Not specified",
+      "region": "Not specified"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Federal Aviation Administration",
+      "position": "Aviation Safety Assistant",
+      "url": "Not specified",
+      "startDate": "1998-01",
+      "endDate": "2015-10",
+      "summary": "I perform administrative tasks such as preparing travel arrangements and assisting with investigations.",
+      "highlights": [
+        "I have created and maintained several useful SharePoint Databases and forms.",
+        "I provide daily customer service and have been awarded customer service awards and recognitions along with 3 administrative employee of the year awards.",
+        "I have received time off awards and other recognitions on three separation occasions."
+      ]
+    }
+  ],
+  "volunteer": [
+  ],
+  "education": [
+    {
+      "institution": "Computer Learning Center Business School",
+      "url": "Not specified",
+      "area": "Accounting, Webpage Design, Microsoft Office, Networking, Hardware and Software Installations",
+      "studyType": "Business",
+      "startDate": "Not specified",
+      "endDate": "1998",
+      "score": "Not specified",
+      "courses": [
+        "Accounting",
+        "Webpage Design",
+        "Microsoft Office",
+        "Networking",
+        "Hardware and Software Installations"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "2014 Administrative Employee of the Year Award",
+      "date": "2014",
+      "awarder": "Not specified",
+      "summary": ""
+    },
+    {
+      "title": "2013 Administrative Employee of the Year Award",
+      "date": "2013",
+      "awarder": "Not specified",
+      "summary": ""
+    },
+    {
+      "title": "2009 Commitment to Quality, Service, Productivity",
+      "date": "2009",
+      "awarder": "Not specified",
+      "summary": ""
+    },
+    {
+      "title": "2007 Commitment to People Group Award",
+      "date": "2007",
+      "awarder": "Not specified",
+      "summary": ""
+    },
+    {
+      "title": "2006 Commitment to People Group Award",
+      "date": "2006",
+      "awarder": "Not specified",
+      "summary": ""
+    },
+    {
+      "title": "2006 Administrative Employee of the Year Award",
+      "date": "2006",
+      "awarder": "Not specified",
+      "summary": ""
+    },
+    {
+      "title": "2003 Administrative Employee of the Year Award",
+      "date": "2003",
+      "awarder": "Not specified",
+      "summary": ""
+    },
+    {
+      "title": "2001 Greater Boston Federal Executive Support Personnel Award",
+      "date": "2001",
+      "awarder": "Not specified",
+      "summary": ""
+    },
+    {
+      "title": "2000 Greater Boston Federal Executive Support Personnel Award",
+      "date": "2000",
+      "awarder": "Not specified",
+      "summary": ""
+    }
+  ],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Customer Service",
+      "level": "Not specified",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Administrative Skills",
+      "level": "Not specified",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Highly Motivated",
+      "level": "Not specified",
+      "keywords": [
+      ]
+    }
+  ],
+  "languages": [
+  ],
+  "interests": [
+  ],
+  "references": [],
+  "projects": []
+}

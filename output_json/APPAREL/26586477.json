@@ -1,0 +1,105 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Associate Merchant",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Resourceful buyer with over 15 years of developing and implementing sales strategies in multiple product lines. Strengths include vendor negotiation, sourcing consumer products, and promotional planning.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Associate Merchant",
+      "url": "",
+      "startDate": "2015-06-01",
+      "endDate": "Current",
+      "summary": "Driving sales by 17% or $936K in 2016 on a $10M+ category. Evaluated and negotiated supplier contacts to support corporate initiatives. Managed pricing, orders, and terms through SAP totaling over $60M at cost. Partnered with Inventory and Demand to achieve the department service goal of 96% to all retail stores. Lead product and supplier reviews on an annual basis. Cross collaboration with Marketing to advertise product categories in print, online, and in-store promotions. Created an onboarding and training curriculum for the Merchandising department.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Buyer",
+      "url": "",
+      "startDate": "2013-06-01",
+      "endDate": "2015-06-01",
+      "summary": "Launched product assortments for RFP/RFQ/RFIs to meet client specific parameters. Coached the Re-Buyer on inventory management totaling over $30 million at cost. Developed relationships with existing suppliers and source new vendors for major promotions and client requests. Negotiated product pricing, payment terms, and rebates with manufacturers. Analyzed sales data and market trends to present top brands and items to corporate clients. Forecast initial inventory buys, review orders and ensure timely product deliveries. Resolve any Account Payable, pricing, or payment issues.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Illinois at Urbana-Champaign",
+      "url": "",
+      "area": "Marketing of Textiles and Apparel",
+      "studyType": "B.S",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "General Skills",
+      "level": "",
+      "keywords": [
+        "Contract negotiation",
+        "Self-directed",
+        "Sales and trend forecasting",
+        "Competitive analysis",
+        "Interpersonal ability",
+        "Pricing strategies",
+        "Trade shows",
+        "Presentations"
+      ]
+    },
+    {
+      "name": "Professional Skills",
+      "level": "",
+      "keywords": [
+        "Product Development",
+        "Marketing",
+        "Trade Shows",
+        "Customer Service",
+        "Forecasting and Trends",
+        "Category Management",
+        "Negioation",
+        "Vendor Management",
+        "Problem-Solving",
+        "Organizational Skills",
+        "Time Management",
+        "Public Leadership",
+        "Communication",
+        "Strategic Thinking",
+        "Analytical"
+      ]
+    },
+    {
+      "name": "Software Skills",
+      "level": "",
+      "keywords": [
+        "Microsoft Office Suite",
+        "SAP",
+        "PeopleSoft"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

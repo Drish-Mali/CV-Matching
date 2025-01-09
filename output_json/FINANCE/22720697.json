@@ -1,0 +1,98 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Finance Specialist",
+    "email": "",
+    "phone": "",
+    "summary": "To work in a professional environment and to provide the skills, knowledge and experience I possess to assistant in the success of any and all challenges and endeavors presented to me. Seasoned Financial Specialist with 20+ years experience managing accounting needs across multiple platforms. Advanced technical knowledge, including Quickbooks and Excel.",
+    "skills": [
+      {
+        "name": "Finance",
+        "level": "",
+        "keywords": [
+          "QuickBooks",
+          "Excel",
+          "DacEasy Accounting Software",
+          "Evolv CS Electronic Record Keeping System",
+          "Notary Public",
+          "Paragon and Real Fast Forms",
+          "Communication skills",
+          "Microsoft Outlook",
+          "Microsoft Word",
+          "Full charge Bookkeeping",
+          "Payroll",
+          "Bank Reconciliations",
+          "Coding",
+          "Trial Balance Account Reconciliations",
+          "Office Manager",
+          "Marketing",
+          "Real Estate Contracts",
+          "Data Entry",
+          "Escrow",
+          "Organizational Skills",
+          "Inventory"
+        ]
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Finance Specialist",
+      "startDate": "2010-11",
+      "endDate": "Current",
+      "summary": "Initially hired as accounts payable specialist promoted November 2012. Executed numerous finance related functions as required by the executive director and human resources manager."
+    },
+    {
+      "name": "Company Name",
+      "position": "Bookkeeper",
+      "startDate": "2008-10",
+      "endDate": "2010-02",
+      "summary": "Full charge bookkeeping for several companies."
+    },
+    {
+      "name": "Company Name",
+      "position": "Office Manager, Bookkeeper",
+      "startDate": "2008-08",
+      "endDate": "2008-10",
+      "summary": "Full charge bookkeeping, secretarial duties and inventory of all chemicals."
+    },
+    {
+      "name": "Company Name",
+      "position": "Title and Escrow Agent",
+      "startDate": "2007-08",
+      "endDate": "2008-05",
+      "summary": "Title agent duties and escrow agent duties."
+    },
+    {
+      "name": "Company Name",
+      "position": "Full Charge Bookkeeper/Real Estate Salesperson",
+      "startDate": "1995-03",
+      "endDate": "2007-07",
+      "summary": "Full charge bookkeeping for several LLC ventures and all functions of payroll including all IRS reporting, etc."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Barnes Business College",
+      "area": "Accounting",
+      "studyType": "",
+      "startDate": "1988",
+      "endDate": "1990"
+    },
+    {
+      "institution": "Parks Junior College",
+      "area": "Computer Programming",
+      "studyType": "",
+      "startDate": "1985",
+      "endDate": "1987"
+    },
+    {
+      "institution": "Buffalo High School",
+      "area": "",
+      "studyType": "High School Diploma",
+      "startDate": "1981",
+      "endDate": "1985"
+    }
+  ]
+}

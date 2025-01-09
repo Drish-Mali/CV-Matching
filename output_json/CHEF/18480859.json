@@ -1,0 +1,99 @@
+{
+  "basics": {
+    "name": "EXECUTIVE CHEF/ FOOD SERVICE DIRECTOR",
+    "label": "Executive Chef",
+    "email": "",
+    "phone": "",
+    "summary": "As a Chef, I have been exploring my passion for food and developing clean, healthy cooking techniques for over 30 years.",
+    "location": {
+      "city": "City",
+      "countryCode": "USA",
+      "region": "State"
+    }
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Executive Chef/ Food Service Director",
+      "startDate": "2008-02",
+      "endDate": "Current",
+      "summary": "Provides all phases of the hiring disciplinary actions and termination of employees. Trains staff in the functions of the food service duties. Supervising staff engaged in the preparation and serving of fresh wholesome foods to residents three times daily and special functions/events. Maintaining the cleanliness of food service areas and equipment.",
+      "highlights": [
+        "Increased sales and marketing by 22% from previous year."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "President/Owner/Executive Chef",
+      "startDate": "2005-12",
+      "endDate": "2008-04",
+      "summary": "Effectively ran and oversaw the daily cafe operations and coordinated and planned events for large catering parties."
+    },
+    {
+      "name": "Company Name",
+      "position": "Food Services Director/Executive Chef",
+      "startDate": "2001-02",
+      "endDate": "2006-01",
+      "summary": "Provides all phases of the hiring disciplinary actions and termination of employees. Trains staff in the functions of the food service duties. Supervising staff engaged in the preparation and serving of fresh wholesome foods to residents three times daily and special functions/events."
+    },
+    {
+      "name": "Company Name",
+      "position": "Head Chef",
+      "startDate": "1979-10",
+      "endDate": "2001-01",
+      "summary": ""
+    }
+  ],
+  "education": [
+    {
+      "institution": "The Academy - Occupational Studies Culinary Arts",
+      "area": "Culinary Arts",
+      "studyType": "Associate of Arts",
+      "startDate": "",
+      "endDate": "1998-01-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "The Life Skills Center",
+      "area": "General Education",
+      "studyType": "GED",
+      "startDate": "",
+      "endDate": "1996-01-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "NRA ProMgt Certifications",
+      "date": "2014-05-01",
+      "issuer": "NRA ProMgt",
+      "url": ""
+    },
+    {
+      "name": "ServSafe Certification",
+      "date": "",
+      "issuer": "ServSafe",
+      "url": ""
+    },
+    {
+      "name": "CPR Certification",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Leadership",
+      "level": "",
+      "keywords": ["Leadership with great communication skills", "Diverse industry/market Knowledge", "Budgeting and analysis expertise", "Vendor negotiations", "Expense control expert", "Excellent customer/employee communications", "Food and labor cost expert", "Profit generation" ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": []
+}

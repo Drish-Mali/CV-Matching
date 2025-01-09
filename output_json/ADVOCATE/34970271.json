@@ -1,0 +1,110 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Member Advocate",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "",
+      "region": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Member Advocate",
+      "url": "",
+      "startDate": "2012-01-01",
+      "endDate": "Current",
+      "summary": "Represent DentaQuest at community events and meetings to provide information to low-income populations about the dental benefits available to Medicaid and CHIP eligible members.",
+      "highlights": [
+        "Establish, develop, and maintain partnerships with community organizations to identify and coordinate outreach opportunities that will facilitate growth in enrollment.",
+        "Conduct presentations to promote preventative dental care through good oral hygiene practices and compliance with Texas Health Steps checkups.",
+        "Provide case management to members in need of care coordination and assist members with claims issues and appeals."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Provider Relations Specialist",
+      "url": "",
+      "startDate": "2012-01-01",
+      "endDate": "2012-01-01",
+      "summary": "Served as a liaison between the Medicaid and CHIP Managed Care contractor and health care providers.",
+      "highlights": [
+        "Responsible for establishing and maintaining working relationships with the existing provider network.",
+        "Researched and resolved provider inquiries to include credentialing, claims issues, complaints and grievances."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of the Incarnate Word",
+      "url": "",
+      "area": "Business Administration",
+      "studyType": "Bachelor",
+      "startDate": "2009-01-01",
+      "endDate": "2009-01-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "University of the Incarnate Word",
+      "url": "",
+      "area": "Business Administration",
+      "studyType": "Master",
+      "startDate": "2011-01-01",
+      "endDate": "2011-01-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Business Management",
+      "level": "Advanced",
+      "keywords": [
+        "accounts payables",
+        "accounts receivables",
+        "administrative",
+        "benefits",
+        "billing",
+        "oral",
+        "customer service",
+        "customer support",
+        "database",
+        "documentation",
+        "Financial",
+        "forms",
+        "hiring",
+        "insurance",
+        "director",
+        "meetings",
+        "office",
+        "network",
+        "nursing",
+        "personnel",
+        "policies",
+        "presentations",
+        "protocols",
+        "speech",
+        "statistics",
+        "training programs"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "publications": [],
+  "certificates": [],
+  "awards": [],
+  "volunteer": []
+}

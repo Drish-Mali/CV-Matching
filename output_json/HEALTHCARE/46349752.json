@@ -1,0 +1,91 @@
+{
+  "basics": {
+    "name": "Not provided",
+    "label": "Registered Nurse",
+    "email": "Not provided", 
+    "phone": "Not provided",
+    "url": "Not provided",
+    "summary": "Professional nurse dedicated to improving the wellbeing of the patients served. Has a focus on managing illness with skill, compassion, the provision of a safe and therapeutic environment, and promoting respect and positive communication among all healthcare teams.",
+    "location": {
+      "address": "Not provided",
+      "postalCode": "Not provided",
+      "city": "Not provided",
+      "countryCode": "Not provided",
+      "region": "Not provided"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Registered Nurse",
+      "startDate": "2013-02-01",
+      "endDate": "Current",
+      "summary": "Applied nursing knowledge and skills within relationship based care, using nursing processes to meet the clinical, spiritual, psychological needs of patients and families. Held multiple responsibilities such as teaching to patients, precepting new staff, responsible for Hemovac Autotransfusion System administration, etc."
+    },
+    {
+      "name": "Company Name",
+      "position": "Home Healthcare Assistant",
+      "startDate": "2010-07-01",
+      "endDate": "2011-09-01",
+      "summary": "Provided health care assistance at home including tasks like reading and recording temperature, completing and submitting clinical documentation, assisting with fluid intake, etc."
+    },
+    {
+      "name": "Company Name",
+      "position": "Nursing Assistant",
+      "startDate": "2008-06-01",
+      "endDate": "2009-10-01",
+      "summary": "Provided direct patient care as directed by RN and helping to maintain a safe environment conducive to the recovery and safety of each patient in the unit. Provided supervision and companionship to patients as required."
+    },
+    {
+      "name": "Company Name",
+      "position": "Emergency Medical Technician",
+      "startDate": "2007-02-01",
+      "endDate": "2010-07-01",
+      "summary": "Attended to emergency and non-emergency medical requests, performing and/or assisting in the initial assessment and management of illness or injury to emergency patients."
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "UPMC Shadyside School of Nursing",
+      "area": "Nursing",
+      "studyType": "Diploma",
+      "startDate": "Not provided",
+      "endDate": "2012-01-01",
+      "score": "Not provided",
+      "courses": []
+    },
+    {
+      "institution": "Community College of Allegheny County",
+      "area": "Basic Life Support",
+      "studyType": "EMT Certification/First Aid/CPR",
+      "startDate": "Not provided",
+      "endDate": "2008-01-01",
+      "score": "Not provided",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Nursing Skills",
+      "level": "High",
+      "keywords": [
+        "Medication administration",
+        "IV drug therapy management",
+        "Orthopedic Nurse skills",
+        "Knowledge of body mechanics",
+        "Broad medical terminology knowledge",
+        "Specimen collection/processing",
+        "Use of hemovacs, autotransfusion devices, continuous passive motion therapy, traction, orthopedic braces"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

@@ -1,0 +1,104 @@
+{
+  "basics": {
+    "name": "Not provided",
+    "label": "SHIFT SUPERVISOR",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Service-oriented Shift Supervisor with 2 1/2 years background in training workers, and maintaining a strong relationship with my workers an customers. Core competencies include leadership, determination and dedication as well as excellent communication and time management skills.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "",
+      "region": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "First-Line Supervisors of Retail Sales Workers",
+      "url": "",
+      "startDate": "12/2014",
+      "endDate": "08/2015",
+      "summary": "Description not provided\u2026",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Shift Supervisor",
+      "url": "",
+      "startDate": "09/2014",
+      "endDate": "current",
+      "summary": "Supervise my team while they're out on the line, helping with the customers.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Choreographer / Secretary",
+      "url": "",
+      "startDate": "02/2014",
+      "endDate": "08/2014",
+      "summary": "Direct rehearsals to instruct dancers in how to use dance steps, and in techniques to achieve desired effects.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Assistant",
+      "url": "",
+      "startDate": "01/2005",
+      "endDate": "12/2008",
+      "summary": "Establish and enforce rules for behavior, and procedures for maintaining order.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Monroe Community College",
+      "url": "",
+      "area": "International Business/ Politics",
+      "studyType": "Associate of International Business",
+      "startDate": "",
+      "endDate": "May 2016",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Kensington High School for the Creative and Performing Arts",
+      "url": "",
+      "area": "International Business/ Politics",
+      "studyType": "High School Diploma",
+      "startDate": "",
+      "endDate": "June 2013",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Administrative",
+      "level": "Not provided",
+      "keywords": []
+    },
+    {
+      "name": "Management",
+      "level": "Not provided",
+      "keywords": []
+    },
+    {
+      "name": "Communication",
+      "level": "Not provided",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

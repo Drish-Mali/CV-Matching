@@ -1,0 +1,90 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Business Development & Marketing",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Business Administrative professional with over 5 years of experience providing advanced office support to busy organizations. Strong contract administration skill, budget management and client relation skills.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Business Development & Marketing",
+      "url": "",
+      "startDate": "2013-11-01",
+      "endDate": "2015-09-01",
+      "summary": "Acts as a public relations representative externally and internal Conducts facility visits as directed by the CEO Maintain a high-profile visibility within the emergency transport service community Represent the CAI in different conferences. Management of Social Media accounts. Liaison between CAI and patient's family Posted open positions on company and social media websites. Created PowerPoint presentations used for business development. Cooperated with Medicare, Medicaid and private insurance providers to resolve billing issues. Office duties in general",
+      "highlights": ["Acts as a public relations representative", "Management of Social Media accounts", "Created PowerPoint presentations used for business development"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Corporate Associate / HR Assistant",
+      "url": "",
+      "startDate": "2011-08-01",
+      "endDate": "2013-10-01",
+      "summary": "Properly routed agreements, contracts and invoices through the signature process. Organized files, developed spreadsheets, faxed reports and scanned documents. Made copies, sent faxes and handled all incoming and outgoing correspondence. Dissolutions and withdraws of Corporations, LLC, LP etc. Maintain investors accounts updated in SharePoint and Dynamo. Coordinated complex domestic and international travel arrangements for all top executives. Provided administrative support to the Human Resources Director Assist the HR Director with employee compliances including benefits, workers compensations etc. Input vacations, sick and PTO's in a data system for all employees in the USA territory. Input All New Hire information into a data base program. Assisted with the preparation of the performance review forms. Prepared of new employee files, verified I-9 documentation and maintained all files. Maintain a tracking system for I-9 employee work authorizations",
+      "highlights": ["Organized files, developed spreadsheets", "Coordinated complex domestic and international travel arrangements", "Input All New Hire information into a data base program"]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Keiser University",
+      "url": "",
+      "area": "Interdisciplinary Studies",
+      "studyType": "Bachelor of Sciences",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Business Administration",
+      "level": "Professional",
+      "keywords": [
+        "Administrative support",
+        "Contract administration",
+        "Scheduling appointments",
+        "Billing",
+        "Conferences",
+        "Filing",
+        "Human Resources",
+        "Inventory management",
+        "Leadership",
+        "SharePoint",
+        "Internet Research",
+        "Presentations",
+        "Scheduling",
+        "Staffing",
+        "Transportation"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

@@ -1,0 +1,126 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Director, New Product Research and R&D",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Broad background in consumer healthcare with strong technical expertise.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "",
+      "position": "Director, New Product Research and R&D",
+      "url": "",
+      "startDate": "2011-01",
+      "endDate": "Current",
+      "summary": "Developing and implementing systems to drive scientific excellence world-wide. Representing $1B+ sales and proven record of new product development.",
+      "highlights": [
+        "Led the development of EPT, the world's first lateral diffusion (stick-based) pregnancy test",
+        "Developed the current formula for Listerine, the world's leading mouthwash",
+        "Responsibility for wide range of global brands including Rolaids, Benadryl, Sinutab, Lubriderm"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Delaware",
+      "url": "",
+      "area": "Analytical Chemistry",
+      "studyType": "Ph.D",
+      "startDate": "",
+      "endDate": "1990",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "University of Delaware",
+      "url": "",
+      "area": "Analytical Chemistry",
+      "studyType": "M.S",
+      "startDate": "",
+      "endDate": "1987",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Franklin And Marshall College",
+      "url": "",
+      "area": "Chemistry",
+      "studyType": "B.A",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "American Chemical Society Certification",
+      "date": "",
+      "issuer": "American Chemical Society",
+      "url": ""
+    }
+  ],
+  "publications": [
+    {
+      "name": "Saliva Diagnostics: A new Industry",
+      "publisher": "Wiley Blackwell",
+      "releaseDate": "2007",
+      "url": "",
+      "summary": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Management",
+      "level": "",
+      "keywords": [
+        "Growth strategies",
+        "New opportunity identification",
+        "Development",
+        "Scientific strategy",
+        "Scientific excellence implementation",
+        "Technical expertise",
+        "Product Development",
+        "Consumer tests interpretation",
+        "Consumer needs translation to products",
+        "Ideation",
+        "Innovation",
+        "Claims generation"
+      ]
+    },
+    {
+      "name": "Technical Expertise",
+      "level": "",
+      "keywords": [
+        "Dental care",
+        "Oral Healthcare",
+        "Analytical Chemistry",
+        "Biotechnology",
+        "Consumer Goods Production",
+        "Medical Devices",
+        "Product development and patenting",
+        "Project planning and coordination",
+        "FDA and other agency liaison",
+        "Claims generation and validation",
+        "Technical and market due diligence"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

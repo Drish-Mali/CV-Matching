@@ -1,0 +1,89 @@
+{
+  "basics": {
+    "name": "Senior Architect - MDM",
+    "label": "Senior Architect - MDM",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Seasoned MDM Architect with more than 11+ years in the IT industry. Skilled in software development, managing MDM projects, TIBCO MDM, and many other relative skills",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Senior Architect - MDM",
+      "url": "",
+      "startDate": "December 2009",
+      "endDate": "Current",
+      "summary": "Managed and executed from architecture to final go-live of the projects with size varying from 2 to 35 Analysts, developers and leads.",
+      "highlights": [
+        "Worked at various companies such as Knology Atlanta GA, Wachovia Corp, Merck Inc, Nielsen Schaumburg IL, UHG Singapore, and others",
+        "Handled end-to-end project execution using TIBCO MDM, TIBCO EMS, Business Works, Business Events, Smart Mapper , Core Java on Windows and UNIX platform."
+      ]
+    }
+  ],
+  
+  "volunteer": [],
+   
+  "education": [
+    {
+      "institution": "Visva Bharati University",
+      "area": "Computer Applications",
+      "studyType": "Masters",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": [],
+      "url": ""
+    },
+    {
+      "institution": "Ranchi University",
+      "area": "Physics, Chemistry, Maths",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": [],
+      "url": ""
+    }
+  ],
+   
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Architecture",
+      "level": "High",
+      "keywords": [
+        "Architecture Design Tool: MS Vizio professional, Magic Draw",
+        "MDM Tools: TIBCO MDM",
+        "Data De-Duping: TIBCO Patterns",
+        "Operating systems: Windows XP Professional/ NT 4.0 / 95, UNIX 3.01",
+        "Languages & Tools: TIBCO EMS 7.x/8.x,TIBCO Business Events, TIBCO Business Studio, J2EE, JavaScript, HTML/XML, XSL, XSLT"
+      ]
+    },
+    {
+      "name": "Master Data Management",
+      "level": "High",
+      "keywords": [
+        "TIBCO trained professional in TIBCO Business Events 5.1",
+        "Solutions Architecture by TIBCO Educations",
+        "Data Analysis/Data Cleansing/Standardizing with TIBCO Data Quality Tools"
+      ]
+    }
+  ],
+   
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

@@ -1,0 +1,82 @@
+{
+  "basics": {
+    "name": "Angelo Bennett",
+    "label": "Senior Accountant",
+    "email": "",
+    "phone": "",
+    "url": "https://www.linkedin.com/in/angelo-bennett-a2b638106",
+    "summary": "Talented Senior Accountant highly effective at solving routine and critical issues across all operational levels. Specialize in financial accounting.",
+    "location": {},
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Senior Accountant",
+      "url": "",
+      "startDate": "2016-04-01",
+      "endDate": "Current",
+      "summary": "Oversee the general accounting processes of Inter-company and financial reporting of all entities. Provide timely explanations of variances between actual results and forecasts/budgets; provide corrective action recommendations to management. Responsible for bank reconciliation for 7 Inter-companies. Prepare Prepayment schedule and apply monthly amortization. Generate month end entries for prepayment's and accruals. Reconciliation reports for all Balance Sheet accounts. Work with internal and external auditors during reviews and audits to ensure full cooperation and compliance with all qualified requests. Ensure proper coding of general ledger accounts. Submit wire transfers to pay vendors and inter-companies. Record new assets and apply monthly depreciation. Assist implementation of migration from previous accounting software to Microsoft Dynamics AX.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Staff Accountant/Financial Analyst",
+      "url": "",
+      "startDate": "2008-04-01",
+      "endDate": "2014-06-01",
+      "summary": "Global Manufacturer of Brands and Labels headquartered in Hong Kong. Completed Accounts Payable/Accounts Receivable invoice processing and payment. Managed weekly Accounts Receivable and Accounts Payable status meetings. Managed general ledger accounts and assisted with month end entries. Managed intercompany reconciliation at month end for various regions globally. Created account analysis reports for each account in the chart of accounts with commentary. Generated reports (Income Statement, Balance Sheet, Daily Sales) and provided commentary. Assisted in migration from Sun 5 accounting system to Dynamics AX accounting software. Assisted with general ledger management for multiple business units within company. Completed 2014 budget for SML RPDI Minnesota region with presentation to CEO. All filing and check depositing for SML NY office as well as travel & entertainment control.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Full-Charge Bookkeeper",
+      "url": "",
+      "startDate": "2006-02-01",
+      "endDate": "2008-03-01",
+      "summary": "Responsible for the following: Accounts Payable (processed invoices and applied prompt payments to vendors) Accounts Receivable (processed sales orders /created invoices and sent to customer) Implemented entire QuickBooks system, including the input of vendors, customers and inventory adjustment entries. Generated bank deposits and verified balance receipts. Researched and resolved billing and collections disputes. Generated income statement and balance sheet reports.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "DeVry University",
+      "url": "",
+      "area": "Business Administration",
+      "studyType": "Bachelor of Arts",
+      "startDate": "",
+      "endDate": "2006",
+      "score": "4.0",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Accounting",
+      "level": "Senior",
+      "keywords": [
+        "Microsoft AX Dynamics",
+        "General ledger accounting",
+        "Accounts Payable",
+        "GAAP proficiency",
+        "Accounts Receivable",
+        "Recordkeeping",
+        "V Look ups",
+        "Account updates",
+        "Budget analysis",
+        "Financial statement review",
+        "Account reconciliation specialist",
+        "ERP (Enterprise Resource Planning) software",
+        "Intuit QuickBooks specialist"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

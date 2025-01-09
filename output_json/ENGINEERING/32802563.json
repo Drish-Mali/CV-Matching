@@ -1,0 +1,108 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Engineering Office Clerk",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "To obtain a rewarding position in a field where my skills can be further developed and utilized. Three years of experience in customer service. Performed volunteer work within the community through various service organizations. Computer literate and a dedicated team player with a strong work ethic. Dependable, motivated, detail oriented individual with strong organizational skills. Excellent verbal and written communication skills.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Engineering Office Clerk",
+      "url": "",
+      "startDate": "2018-01-01",
+      "endDate": "2019-01-01",
+      "summary": "Provides departmental clerical support to Engineering staff including typing, filing recordkeeping, telephone screening, primary reception contact and other clerical duties as required. Researches, orders, purchases and maintains office equipment and supplies. Types correspondence and maintains central business files for department. Processes records for the department, creates and maintains accurate records.",
+      "highlights": ["Researches, orders, purchases and maintains office equipment and supplies.", "Responds to complaints or requests for services in accordance with departmental policies.", "Receives and maintains citizen complaint logs relating to drainage and project issues.", "Serves as recording secretary for formal and informal bid meetings.", "GIS data entry for Municipal Software System.", "Scanning Engineering drawings and files."]
+    },
+    {
+        "name": "Company Name",
+        "position": "Benefits Clerk",
+        "url": "",
+        "startDate": "2017-01-01",
+        "endDate": "2018-01-01",
+        "summary": "Scan and file various documents onto the company database. Organize and create online employee files. Process and file benefits forms and related information. Maintain benefit records. Request needed documents for employee benefits. Mail out employee benefit packages. Inform employees of benefit eligibility. Work in reception area as needed greeting and signing in visitors.",
+        "highlights": ["Organize and create online employee files.", "Maintain benefit records.", "Work in reception area as needed greeting and signing in visitors."]
+      },
+      {
+        "name": "Company Name",
+        "position": "Sales Associate",
+        "url": "",
+        "startDate": "2015-01-01",
+        "endDate": "2017-01-01",
+        "summary": "Ensure that customers receive excellent service through direct salesmanship and prompt and courteous service. Open new accounts as a means of adding new clients. Assist customers in finding merchandise. Deliver results on departmental/store event goals.",
+        "highlights": ["Assist customers in finding merchandise.", "Deliver results on departmental/store event goals."]
+      }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Alabama in Huntsville",
+      "url": "",
+      "area": "",
+      "studyType": "B.S. Degree : Progress",
+      "startDate": "",
+      "endDate": "2020-01-01",
+      "score": "3.98",
+      "courses": []
+    },
+    {
+      "institution": "East Limestone High School",
+      "url": "",
+      "area": "",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "2016-01-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Microsoft Office",
+      "level": "",
+      "keywords": [
+        "Word",
+        "Excel",
+        "Outlook",
+        "SharePoint",
+        "Costpoint"
+      ]
+    },
+    {
+      "name": "Administrative",
+      "level": "",
+      "keywords": [
+        "Assistant"
+      ]
+    },
+    {
+      "name": "Clerical",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Data entry",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

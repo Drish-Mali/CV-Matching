@@ -1,0 +1,88 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Front Desk Attendant",
+    "email": "",
+    "phone": "",
+    "summary": "Graduated Bridgewater State University in May 2015 with a Bachelor's degree in Aviation Management and recently started the MBA Aviation program at Embry-riddle Aeronautical University at the Worldwide campus with a concentration on International Business.",
+    "location": {
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    }
+  },
+  "skills": [
+    {
+      "name": "Aviation Management",
+      "level": ""
+    },
+    {
+      "name": "Flight of Aircraft",
+      "level": ""
+    },
+    {
+      "name": "Critical Thinking",
+      "level": "Decisive"
+    },
+    {
+      "name": "Managerial Strategic Planning",
+      "level": ""
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Excellent"
+    },
+    {
+      "language": "Portuguese",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Aviation",
+      "keywords": ["Enthusiast", "commercial pilot"]
+    }
+  ],
+  "work": [
+    {
+      "position": "Front Desk Attendant",
+      "startDate": "2015-05-01",
+      "endDate": "2015-10-01",
+      "summary": "FBO business. Direct service to private airplanes. Marshaling, fueling and towing of aircraft."
+    },
+    {
+      "position": "Airline Operations Agent",
+      "startDate": "2014-05-01",
+      "endDate": "2014-07-01",
+      "summary": "Aircraft transit coordinator. Dispatchment of company aircraft. Cargo Operations"
+    },
+    {
+      "position": "Ramp Agent",
+      "startDate": "2013-12-01",
+      "endDate": "2014-05-01",
+      "summary": "Kept records of room availability and guests' accounts. Assisted guests with any special requests. Performed bookkeeping activities such as balancing accounts and conducting nightly audits."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Bridgewater State University",
+      "area": "Aviation Management",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "2015-05-01",
+      "score": "",
+      "courses": ["Aviation Management concentration with in-depth knowledge of standard airline operations."]
+    },
+    {
+      "institution": "Embry-riddle Aeronautical University",
+      "area": "Aviation International Business",
+      "studyType": "MBA",
+      "startDate": "",
+      "endDate": "Present",
+      "score": "",
+      "courses": ["Aviation International Business study and strategic planning for international operations of aviation related business' added to core business courses."]
+    }
+  ]
+}

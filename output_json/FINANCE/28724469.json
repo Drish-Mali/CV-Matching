@@ -1,0 +1,94 @@
+{
+  "basics": {
+    "name": "Not Provided",
+    "label": "FINANCE CUSTOMER CARE REP LEAD",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Property Manager with vast experience in real estate management. Strengths include sales skills, critical thinking and the ability to communicate with individuals at all levels.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Not Provided",
+      "countryCode": "",
+      "region": ""  
+    },
+    "profiles": [
+      {
+        "network": "",
+        "username": "",
+        "url": ""
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Finance Customer Care Rep Lead",
+      "url": "",
+      "startDate": "2012-05-01",
+      "endDate": "Current",
+      "summary": "Created new processes and systems for increasing customer service satisfaction...",
+      "highlights": ["Created new processes and systems for increasing customer service satisfaction...", "Resolved customer/vendor issues timely and accurately..."]
+    },
+    {
+      "name": "Company Name",
+      "position": "Payroll and AR Manager",
+      "url": "",
+      "startDate": "2010-05-01",
+      "endDate": "2012-01-01",
+      "summary": "Manually process all time cards into the payroll system...",
+      "highlights": ["Manually process all time cards into the payroll system...", "Prepare and update monthly collections report and daily cash collections for Senior Management..."]
+    }
+  ],
+  "volunteer": [
+  ],
+  "education": [
+    {
+      "institution": "DeVry University",
+      "url": "",
+      "area": "Business and Finance",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": ["Coursework in Business Management and Finance"]
+    }
+  ],
+  "awards": [
+  ],
+  "certificates": [
+  ],
+  "publications": [
+  ],
+  "skills": [
+    {
+      "name": "Microsoft Office 2010",
+      "level": "",
+      "keywords": ["Microsoft Office 2010", "Microsoft Project 2007"]
+    },
+    {
+      "name": "Accounting",
+      "level": "",
+      "keywords": ["Accounting", "Accounting software", "accounts payable"]
+    },
+    {
+      "name": "Management",
+      "level": "",
+      "keywords": ["Billing", "Budget", "Client relations"]
+    }
+  ],
+  "languages": [
+    
+  ],
+  "interests": [
+    
+  ],
+  "references": [
+    
+  ],
+  "projects": [
+    
+  ]
+}

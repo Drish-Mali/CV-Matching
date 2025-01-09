@@ -1,0 +1,89 @@
+{
+  "basics": {
+    "name": "Unknown",
+    "label": "Agriculture / 4-H Extension Agent Trainee",
+    "image": "",
+    "email": "Unknown",
+    "phone": "Unknown",
+    "url": "Unknown",
+    "summary": "Strong 4-H / agriculture education and extension background in youth development and adult agriculture advocacy. Expertise in outreach programs towards youth and adults. Knowledgeable about theories, methods, and curriculum standards used in designing, developing and delivering successful training programs, projects, and 4-H clubs.",
+    "location": {
+      "address": "Unknown",
+      "postalCode": "Unknown",
+      "city": "Unknown",
+      "countryCode": "Unknown",
+      "region": "Unknown"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "UT-TSU Agriculture / 4-H Extension Agent Trainee",
+      "url": "Unknown",
+      "startDate": "09/2015",
+      "endDate": "Current",
+      "summary": "Observe the daily aspects of an agriculture extension agent and a 4-H youth development extension agent. Help and set up 4H clubs and Master Beef programs.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Research Assistant Manager",
+      "url": "Unknown",
+      "startDate": "05/2008",
+      "endDate": "08/2015",
+      "summary": "Manage over herd health management of research animals and diverse undergraduate and graduate students. Development and management of livestock facilities: Nutrition and Health.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Tennessee State University",
+      "url": "https://institution.com/",
+      "area": "Agriculture Education and Extension",
+      "studyType": "Master of Science",
+      "startDate": "Unknown",
+      "endDate": "2014",
+      "score": "Unknown",
+      "courses": []
+    },
+    {
+      "institution": "Tennessee State University",
+      "url": "https://institution.com/",
+      "area": "Agriculture Science Animal Science/Pre-Veterinary Medicine",
+      "studyType": "Bachelor of Science",
+      "startDate": "Unknown",
+      "endDate": "2008",
+      "score": "Unknown",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Teaching",
+      "level": "Master",
+      "keywords": [
+        "Innovative lesson plan delivery and development",
+        "Strong interpersonal skills",
+        "Dependable and engaging",
+        "Outreach programming skills",
+        "Teamwork oriented"
+      ]
+    },
+    {
+      "name": "Research",
+      "level": "Master",
+      "keywords": [
+        "Research Assistant Manager"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

@@ -1,0 +1,82 @@
+{
+  "basics": {
+    "name": "Anonymous",
+    "label": "Dining Services Coordinator",
+    "summary": "I have worked in fine dining, hotels, and in the hospital setting. I have been in the elderly care field for the last 20 years. I have menu creativity and excellent budget management. I ensure the effective management of the kitchen staff, maintain quality and taste while reducing costs, and pay strong attention to safe food handling procedures.",
+    "location": {
+      "address": "",
+      "city": "Hampton Cove",
+      "countryCode": "US",
+      "region": "Alabama"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Brookdale Hampton Cove",
+      "position": "Dining Services Coordinator",
+      "startDate": "2016-07",
+      "endDate": "N/A",
+      "summary": "Efficient at purchasing, effectively managed kitchen staff in producing food for banquets, catered events etc., ensure cleanliness and safety in kitchen, managed employees and complied with state regulations",
+      "highlights": ["Managed kitchen staff and food production", "Oversaw daily product inventory, purchasing and receiving", "Followed proper food handling methods", "Stayed in budget and ordered supplies and food for housekeeping, nurses, and kitchen staff"]
+    },
+    {
+      "name": "Unknown Company",
+      "position": "Healthcare Kitchen Manager",
+      "startDate": "2011-10",
+      "endDate": "2015-01",
+      "summary": "Established and maintained open, collaborative relationships with the kitchen team, conducted staff meetings and resolved service, product and personnel issues. Coordinated nutrition care with health care team and established healthful and therapeutic meal plans and menus.",
+      "highlights": []
+    },
+    {
+      "name": "Unknown Company",
+      "position": "Dining Services Director",
+      "startDate": "2007-07",
+      "endDate": "2011-10",
+      "summary": "Communicated openly and honestly with the management team to ensure smooth running of each shift. Developed a stable staff and happy residents.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Faulkner University",
+      "area": "Human Resources Management",
+      "studyType": "Bachelor of Science",
+      "startDate": "Unknown",
+      "endDate": "1998",
+      "courses": ["Serve Safe Management", "Understanding the aging individual", "Online courses for substance abuse counseling"]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Kitchen Management",
+      "level": "Master",
+      "keywords": ["Team leadership", "Process implementation", "Budgeting and finance", "Institutional and batch cooking", "Beautiful presentation of food", "Strong attention to safe food handling procedures", "Staff development", "Effective planning"]
+    },
+    {
+      "name": "Communication",
+      "level": "Master",
+      "keywords": ["Strong verbal communication", "Training personnel", "Committed team player"]
+    },
+    {
+      "name": "Food & Health",
+      "level": "Master",
+      "keywords": ["Ordering and invoicing", "Food presentation talent", "Fine-dining expertise", "ServSafe Certification"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "volunteer": [],
+  "awards": [],
+  "publications": [],
+  "certificates": [
+    {
+      "name": "CPR certification",
+      "date": "Unknown",
+      "issuer": "Unknown",
+      "url": ""
+    }
+  ]
+}

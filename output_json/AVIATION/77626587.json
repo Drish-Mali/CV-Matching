@@ -1,0 +1,136 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Flight Manager",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "I am an enthusiastic, fun and dedicated professional with exceptional communication, account management and conflict resolution skills. I have a passion for building relationships and providing exceptional customer service. Motivated by competition, Self-starter, and an effective team member.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Flight Manager",
+      "url": "",
+      "startDate": "2013-01-01",
+      "endDate": "Current",
+      "summary": "Manage daily operations for 80 to 120 aircraft and strengthen relationships with assigned crew members to ensure a seamless travel experience for the client. Responsible for gathering and disseminating timely information to remedy disruptions caused by, but not limited to weather, human error and aircraft abnormalities. Provide a timely, professional and educated resource to crew members by thoroughly researching every concern and calmly resolving elevated issues. Train, mentor and act as a resource to new team members. Collaborated with leadership to create new communication tools for faster and more effective communication between departments.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Sales Associate",
+      "url": "",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Responsible for greeting customers and providing an enjoyable shopping experience through excellent customer service, product knowledge and communication. Hired as a permanent employee after being hired to seasonal help resulting from high productivity. Independently designed store visuals using guidance from corporate standards.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Front Desk Coordinator",
+      "url": "",
+      "startDate": "2009-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Responsible for proving customer service, database instruction and fielding phone calls. Spearheaded the creation of an interactive advertisement/exhibit for a school play showcasing students writing and acting talents.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+
+  "education": [
+    {
+      "institution": "Kent State University",
+      "url": "",
+      "area": "Applied Studies",
+      "studyType": "Bachelor",
+      "startDate": "2013-01-01",
+      "endDate": "2013-01-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+ "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Negotiation",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "De-escalation",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Customer Service",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Conflict Resolution",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Account Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Time Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Sales",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "International Logistics",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Project Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Skilled in MS Office",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Customer-oriented",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Skilled multi-tasker",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Exceptional customer service skills",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

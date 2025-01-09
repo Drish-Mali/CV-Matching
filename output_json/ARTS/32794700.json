@@ -1,0 +1,130 @@
+{
+  "basics": {
+    "name": "",
+    "label": "AM- Replenishment Stocker",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Adaptable [Job Title] with extensive experience in material handling, inspections and shipping and receiving. Focused on continual process improvement, detail-oriented [Job Title] highly efficient in operations.",
+    "location": {
+        "address": "",
+        "postalCode": "",
+        "city": "City",
+        "countryCode": "",
+        "region": "State"
+    },
+    "profiles": [
+    ]
+  },
+  "work": [
+    {
+        "name": "Company Name",
+        "position": "AM- Replenishment Stocker",
+        "url": "",
+        "startDate": "2015-09-01",
+        "endDate": "2016-06-01",
+        "summary": "Answered customers' questions and addressed problems and complaints in person and via phone. Kept the showroom clean and maintained neat, orderly product displays.",
+        "highlights": [
+        ]
+    },
+    {
+        "name": "Company Name",
+        "position": "Communications Technician",
+        "url": "",
+        "startDate": "2007-06-01",
+        "endDate": "2008-12-01",
+        "summary": "Performed basic FCC Proof of Performance tests, including test point and 24 tests as well as responded to and repaired service interruptions and signal degradation on the two-way distribution plant as required.",
+        "highlights": [
+        ]
+    },
+    {
+        "name": "Company Name",
+        "position": "Service Installation Technician",
+        "url": "",
+        "startDate": "2003-10-01",
+        "endDate": "2006-05-01",
+        "summary": "Assisted in all phases of installing, testing, and troubleshooting security and access control systems in Houston metropolitan area office buildings.",
+        "highlights": [
+        ]
+    }
+  ],
+  "volunteer": [
+  ],
+  "education": [
+    {
+        "institution": "Gulf Shores Academy",
+        "url": "",
+        "area": "",
+        "studyType": "High School Diploma",
+        "startDate": "",
+        "endDate": "1996-05-01",
+        "score": "",
+        "courses": [
+        ]
+    },
+    {
+        "institution": "Texas State Technical College",
+        "url": "",
+        "area": "Information Security",
+        "studyType": "Associate of Applied Science",
+        "startDate": "",
+        "endDate": "2018-01-01",
+        "score": "",
+        "courses": [
+        ]
+    }
+  ],
+  "awards": [
+  ],
+  "certificates": [
+  ],
+  "publications": [
+  ],
+  "skills": [
+    {
+        "name": "Effective Multitasking",
+        "level": "",
+        "keywords": [
+        ]
+    },
+    {
+        "name": "Quality Control",
+        "level": "",
+        "keywords": [
+        ]
+    },
+    {
+        "name": "Inventory control procedures",
+        "level": "",
+        "keywords": [
+        ]
+    },
+    {
+        "name": "MS Office proficient",
+        "level": "",
+        "keywords": [
+        ]
+    },
+    {
+        "name": "Strong communication skills",
+        "level": "",
+        "keywords": [
+        ]
+    },
+    {
+        "name": "OSHA Certified",
+        "level": "",
+        "keywords": [
+        ]
+    }
+  ],
+  "languages": [
+  ],
+  "interests": [
+  ],
+  "references": [
+  ],
+  "projects": [
+  ]
+}

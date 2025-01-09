@@ -1,0 +1,127 @@
+{
+  "basics": {
+    "name": "[Not Provided]",
+    "label": "System Administrator/Assistant Supervisor",
+    "image": "",
+    "email": "[Not Provided]",
+    "phone": "[Not Provided]",
+    "url": "[Not Provided]",
+    "summary": "Over 20 years of experience with a diversified background as a facilitator, contingency planning, and a seasoned Information Technology leader.",
+    "location": {
+      "address": "[Not Provided]",
+      "postalCode": "[Not Provided]",
+      "city": "[Not Provided]",
+      "countryCode": "[Not Provided]",
+      "region": "[Not Provided]"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "[Not Provided]",
+      "position": "System Administrator/Assistant Supervisor",
+      "url": "[Not Provided]",
+      "startDate": "2001-10",
+      "endDate": "Current",
+      "summary": "Assistant to the AMC/A4 IT Supervisor. A Functional Systems Administrator (FSA) at Scott Air Force Base for AMC/A4 logistics systems.",
+      "highlights": ["Assistant to the AMC/A4 IT Supervisor.","Functional Systems Administrator"]
+    },
+    {
+      "name": "HealthCare Consultant",
+      "position": "HealthCare Consultant",
+      "url": "[Not Provided]",
+      "startDate": "2000-07",
+      "endDate": "2002-01",
+      "summary": "Directed and successfully implemented health screenings.",
+      "highlights": ["Directed health screenings"]
+    },
+    {
+      "name": "Clinical Research Associate",
+      "position": "Clinical Research Associate",
+      "url": "[Not Provided]",
+      "startDate": "1999-12",
+      "endDate": "2000-12",
+      "summary": "Responsible for developing, documenting, advocating, and implementing integrated medical system concepts for the BMT division.",
+      "highlights": ["Developed, documented, and implemented integrated medical system concepts"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Webster University",
+      "url": "[Not Provided]",
+      "area": "Information Management",
+      "studyType": "Masters",
+      "startDate": "[Not Provided]",
+      "endDate": "[Not Provided]",
+      "score": "[Not Provided]",
+      "courses": []
+    },
+    {
+      "institution": "Southern Illinois University",
+      "url": "[Not Provided]",
+      "area": "Health Education",
+      "studyType": "Bachelor of Science",
+      "startDate": "[Not Provided]",
+      "endDate": "[Not Provided]",
+      "score": "[Not Provided]",
+      "courses": []
+    },
+    {
+      "institution": "Webster University",
+      "url": "[Not Provided]",
+      "area": "Computer Resource and Information Management",
+      "studyType": "Master of Arts",
+      "startDate": "2004",
+      "endDate": "[Not Provided]",
+      "score": "[Not Provided]",
+      "courses": ["Program Management", "Systems Analysis and Design", "Database Management", "Security"]
+    },
+    {
+      "institution": "Southern Illinois University Edwardsville",
+      "url": "[Not Provided]",
+      "area": "Community Health Education",
+      "studyType": "Bachelor of Arts",
+      "startDate": "1996",
+      "endDate": "[Not Provided]",
+      "score": "[Not Provided]",
+      "courses": ["Community Health Education"]
+    },
+    {
+      "institution": "Southwestern Illinois Community College",
+      "url": "[Not Provided]",
+      "area": "[Not Provided]",
+      "studyType": "Associate of Science",
+      "startDate": "[Not Provided]",
+      "endDate": "1993",
+      "score": "[Not Provided]",
+      "courses": ["[Not Provided]"]
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Microsoft Certified Systems Engineer (MCSE) Certification",
+      "date": "2004-05",
+      "issuer": "Microsoft",
+      "url": "[Not Provided]"
+    },
+    {
+      "name": "Security+ Certification",
+      "date": "2004-05",
+      "issuer": "[Not Provided]",
+      "url": "[Not Provided]"
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "IT & System Management",
+      "level": "[Not Provided]",
+      "keywords": ["Active Directory", "JAVA", "UNIX", "LAN", "Logistics", "Database Management", "FSA", "GUI", "Microsoft Certified Systems Engineer", "BI", "Microsoft", "SOP"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

@@ -1,0 +1,168 @@
+{
+  "basics": {
+    "name": "John Chriskey",
+    "label": "Purchaser / Production Coordinator",
+    "email": "",
+    "phone": "",
+    "url": "https://www.linkedin.com/in/johnchriskey",
+    "summary": "Productive, quality oriented professional with comprehensive skills such as Expedite / AOG / Logistics, Customer Service, Finance / Accounting, Sales, Purchasing, Inventory Control, Stores/Warehouse, Management, Shipping, and Receiving among others.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": [
+      
+    ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Purchaser / Production Coordinator",
+      "url": "",
+      "startDate": "2011-01-01",
+      "endDate": "Current",
+      "summary": "Responsible for interfacing with leads, project managers, and customer representatives regarding aircraft documentation, parts status, and any problems that may affect the delivery schedule. Responsible for aircraft paperwork and work cards during the maintenance visits.",
+      "highlights": [
+        "Ability to act independently to determine methods and procedures on new assignments", 
+        "Ability to respond consistently with a high degree of initiative to resolve issues or complex problems that may arise",
+        "Efficient organization and time-management skills", 
+        "Ability to prioritize tasks and meet deadlines",
+        "Strong negotiation skills"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Purchasing Clerk / Material Specialist",
+      "url": "",
+      "startDate": "2009-02-01",
+      "endDate": "2010-12-31",
+      "summary": "Responsible for quoting and purchasing materials for both Aircraft and Stock, but also included Stores / Warehouse, Shipping, and Receiving responsibilities.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Purchasing Agent / Material Expeditor",
+      "url": "",
+      "startDate": "2005-02-01",
+      "endDate": "2009-01-31",
+      "summary": "Responsibilities included finding price and availability on material needed and then order and track for prompt shipment. Dealing directly with the vendors and develop relationships for future business. Upon receiving the material, facilitating and expediting the flow of materials to and from various departments.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [
+   
+  ],
+  "education": [
+    {
+      "institution": "Lake City Community College",
+      "url": "",
+      "area": "",
+      "studyType": "",
+      "startDate": "2008-08-01",
+      "endDate": "",
+      "score": "12.9",
+      "courses": []
+    },
+    {
+      "institution": "State of Florida Department of Education",
+      "url": "",
+      "area": "",
+      "studyType": "High School Diploma",
+      "startDate": "2001-05-01",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+     {
+        "title": "Federal Aviation Certificate of Training",
+        "date": "2005-12-01",
+        "awarder": "Gold Award Administration Maintenance Technicians Awards Program",
+        "summary": ""
+     }
+  ],
+  "certificates": [
+    {
+      "name": "Transportation Dangerous Goods Development Group Training Certificate",
+      "date": "2010-01-01",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "Vision Airlines Maintenance Indoctrination Course Training Certificate",
+      "date": "2009-08-01",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "Vision Airlines Reduced Vertical Separation Minimum Training Certificate (RVSM)",
+      "date": "2009-08-01",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "publications": [
+   
+  ],
+  "skills": [
+    {
+      "name": "Accounting",
+      "level": "",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Adobe",
+      "level": "",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Purchasing skills",
+      "level": "",
+      "keywords": [
+        "Basic", 
+        "benefits", 
+        "contracts", 
+        "delivery", 
+        "DELL", 
+        "documentation",
+        "fashion", 
+        "legal", 
+        "logistics", 
+        "materials", 
+        "Excel", 
+        "Word", 
+        "packaging", 
+        "Purchasing", 
+        "quality", 
+        "Receiving", 
+        "reporting", 
+        "requirement", 
+        "Sales", 
+        "Shipping", 
+        "Transportation", 
+        "Vision"
+      ]
+    }
+  ],
+  "languages": [
+
+  ],
+  "interests": [
+
+  ],
+  "references": [
+    {
+      "name": "Business reference known for 9 years",
+      "reference": ""
+    }
+  ],
+  "projects": [
+
+  ]
+}

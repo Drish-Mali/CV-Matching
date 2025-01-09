@@ -1,0 +1,100 @@
+{
+  "basics": {
+    "name": "Smruti Rekha Singh",
+    "label": "Accountant",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Financial Accountant specializing in financial planning, reporting and analysis in both private and public sectors. Capable Accountant successful at managing multiple projects and consistently meeting deadlines under pressure. Extensive knowledge of accounting software and processes.",
+    "location": {},
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Accountant",
+      "url": "",
+      "startDate": "2016-01-01",
+      "endDate": "2016-01-01",
+      "summary": "Maintenance of Cash book, annual account finalization, bank reconciliation statements preparation, billing and realisation from debtors, expenditure bills and traveling bills verification, salary JV verification, and daily office activities.",
+      "highlights": [
+        "Achieved cost reduction by eliminating redundant processes.",
+        "Operated computers programmed with accounting software to record, store, and analyze information.",
+        "Extensive experience with Financial Statements audits, reviews, compilations and audits for Governmental organizations (A-133).",
+        "Maintained accurate accounts including cash, inventory, prepaid, fixed assets, accounts payable, accrued expenses and line of credit transactions.",
+        "Researched and resolved billing problems that had been previously missed.",
+        "Reduced the open invoice cycle time from days by developing new dispute reporting procedures"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Consultant",
+      "url": "",
+      "startDate": "2016-01-01",
+      "endDate": "2016-01-01",
+      "summary": "Prepared journal entries and ensured reconciliations were completed. Reviewed general ledger to ensure proper accounting was in place. Processed pay application invoice and payment. Reconciliation of bank account with attention to unusual items that remained outstanding at month-end. Uploaded bank statements and bank revaluations in SAP. Prepared financial reports in HFM. Intercompany reconciliation.",
+    "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Process Developer",
+      "url": "",
+      "startDate": "2009-03-01",
+      "endDate": "2012-12-31",
+      "summary": "Worked in several sub modules of SAP Financials: Accounts receivable, Accounts Payable, General Ledger, Banking. Domain experience related to different functional module: Order 2 Cash (OTC), Procure 2 Pay (P2P), Buy 2 Pay (B2P) and Invoice 2 Pay (I2P). Responsible for dash board maintenance, client handling, query resolution, and bank reconciliation.",
+    "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "",
+      "url": "",
+      "area": "Finance and IT",
+      "studyType": "MBA",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": [
+        "SAP FI Module",
+        "Diploma: Computer Application"
+      ]
+    },
+    {
+      "institution": "",
+      "url": "",
+      "area": "Management",
+      "studyType": "B.Com",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Accounting",
+      "level": "",
+      "keywords": [
+        "account reconciliations", 
+        "accounts payable", 
+        "accounts receivable", 
+        "balance sheet", 
+        "bank reconciliation", 
+        "billing", 
+        "general ledger", 
+        "banking", 
+        "invoice processing", 
+        "SAP FI"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

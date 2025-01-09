@@ -1,0 +1,103 @@
+{
+  "basics": {
+    "name": "",
+    "label": "FOUNDER, BUSINESS DEVELOPMENT DIRECTOR",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Business development, sales, and account management professional with 15+ years blended expertise working with a range of clients from SMB to national brands. Adept at cultivating innovative business concepts, value creation, and developing relationships that drive revenues, secure deals, and exceed business goals. Effective communicator accustomed to collaborating with senior leadership teams and presenting to key stakeholders.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "FOUNDER, BUSINESS DEVELOPMENT DIRECTOR",
+      "url": "",
+      "startDate": "2010-01-01",
+      "endDate": "Current",
+      "summary": "Independent sales agent providing clients, principals, and prospects marketing support, business insight, and sales strategy to supplement the specialty and unique-to-market product line I represent.",
+      "highlights": [
+        "Increased GEMS account list from 10 to 63 clients, 530% increase",
+        "Enabled GEMS to acquire the Golf Business Network in 2014 by accelerating revenue growth and industry awareness.",
+        "Designed the GBN PartnerPlus vendor marketing program for companies to engage the industry's leading club professionals.",
+        "Generated $76K in incremental revenue within 12 months of initial launch.",
+        "Created sales promotions and marketing materials for L.E.N.",
+        "Introduced mobile technology and its practical applications to private club stakeholders as an emerging communication platform to increase member engagement and revenues."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "SAINT MARY'S UNIVERSITY",
+      "area": "Public Relations",
+      "studyType": "BACHELOR OF ARTS",
+      "startDate": "",
+      "endDate": "1992",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Salesforce",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "PowerPoint",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Cloud Document",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Word",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Publisher Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Excel",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Google Drive",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Access",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Outlook",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "volunteer": [],
+  "awards": [],
+  "publications": [],
+  "certificates": []
+}

@@ -1,0 +1,94 @@
+{
+  "basics": {
+    "name": "Accountant",
+    "label": "",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Flexible� accountant who adapts seamlessly to constantly evolving accounting processes and technology. Seasoned staff accountant with ten year background in� accounting. Core competencies include detailed oriented, organized, and as well as excellent communication and time management skills. Handles tasks with accuracy and efficiency. Passionate and motivated, with a drive for excellence.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Accountant",
+      "url": "",
+      "startDate": "2014-10-01",
+      "endDate": "Current",
+      "summary": "Manage Construction in Progress Accounts, depreciation, additions, transfers, & dispositions of tangible and intangible assets.",
+      "highlights": ["Tracked all capital spending against approved capital requests", "Assisted with full cycle accounting and financial reporting for month end close"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Senior Staff Accountant",
+      "url": "",
+      "startDate": "2013-01-01",
+      "endDate": "2014-10-01",
+      "summary": "Perform a significant role in month-end close including preparation of production reports, journal entries and account reconciliations.",
+      "highlights": ["Ensure transactions are coded accurately", "Review and analyze monthly product cost"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Staff Accountant",
+      "url": "",
+      "startDate": "2009-02-01",
+      "endDate": "2012-12-31",
+      "summary": "Prepare journal entries for expense allocations, accruals, corrections & adjustments.",
+      "highlights": ["Prepare wire transfers for processing of inter-company payments", "Compiled analysis of corporate financial data"]
+    },
+    {
+      "name": "Company Name",
+      "position": "General Ledger Specialist",
+      "url": "",
+      "startDate": "2001-05-01",
+      "endDate": "2009-02-01",
+      "summary": "Post daily journal entries to general ledger.",
+      "highlights": ["Reconciled teller daily balance sheets", "Perform other job-related duties and special projects"]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Keller Graduate School of Management",
+      "url": "",
+      "area": "Accounting",
+      "studyType": "Master of Business Administration",
+      "startDate": "",
+      "endDate": "",
+      "score": "3.67",
+      "courses": []
+    },
+    {
+      "institution": "DeVry University",
+      "url": "",
+      "area": "Technical Management Accounting",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "",
+      "score": "3.66",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Accounting",
+      "level": "Advanced",
+      "keywords": ["Account Reconciliations", "Microsoft Excel", "Budget Control", "Corporate Finance", "Financial Reporting", "General Ledger", "JD Edwards", "SAP", "Tax"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

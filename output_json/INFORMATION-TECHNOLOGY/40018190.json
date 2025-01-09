@@ -1,0 +1,105 @@
+{
+  "basics": {
+    "name": "",
+    "label": "IT Support Technician",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Experience in network/hardware/operating system troubleshooting, web page design, PC assembly, technical support,and customer service. Analytical Helpdesk technician adept at resolving complex issues. Critical thinker who addresses customer support issues quickly and who consistently exceeds performance standards.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "",
+      "region": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "IT Support Technician",
+      "url": "",
+      "startDate": "2014-12-01",
+      "endDate": "Current",
+      "summary": "Provide technical assistance and support for incoming queries and issues related to computer systems, software, and hardware. Respond to queries either in person or over the phone. Vast troubleshooting capabilities with IOS. Train computer users Maintain daily performance of computer systems. Process an average of 15-20 inbound and outbound technical support calls daily",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Network Assistant Intern",
+      "url": "",
+      "startDate": "2014-01-01",
+      "endDate": "2014-05-01",
+      "summary": "Assisted University network administrator with daily tasks including wireless, VDI, patchwork Network infrastructure, hardware management, and server room operations.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Technology Assistant Intern",
+      "url": "",
+      "startDate": "2013-08-01",
+      "endDate": "2014-05-01",
+      "summary": "Maintained 489 page University website Managed and completed daily work orders for University Help Desk Attended weekly administrative technology meetings relating to technology problems/solutions. Managed/deployed hardware and software to student body as well as faculty.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "William Woods University",
+      "url": "",
+      "area": "Management Information Systems",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "2014-05-01",
+      "score": "3.4",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "IT Support",
+      "level": "",
+      "keywords": [
+        "Sharepoint",
+        "SAP",
+        "Cisco Telephony tools",
+        "Active Directory",
+        "Bomgar",
+        "Mobileiron",
+        "Visio",
+        "HPSM",
+        "Que Monitoring",
+        "IOS"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [
+    {
+      "name": "Activites",
+      "keywords": [
+        "Captain- 4-years of collegiate basketball",
+        "Active member of S.W.A.T. (Student Website Advancement Team)",
+        "Active member of the IT Student Academic Advisory Council",
+        "Over 100 hours of community service"
+      ]
+    }
+  ],
+  "references": [],
+  "projects": [
+    {
+      "name": "",
+      "startDate": "",
+      "endDate": "",
+      "description": "Projects: (Project Leader on all Projects)  Website Development~Business Communications~Advanced Web~Entrepreneurship~Database Management~Project. Management~MIS Capstone~Systems Analysis  Designed multiple websites using WordPress and Expressions Web Compiled and developed new accounting and financial tracking system to be used by small or medium firms Worked with multiple clients to design and develop websites Converted desktop websites to mobile using various tools Created documentation manual for business clients Developed and administered Usability Tests for quality customer assurance.",
+      "highlights": [],
+      "url": ""
+    }
+  ]
+}

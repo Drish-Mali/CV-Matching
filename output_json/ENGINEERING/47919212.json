@@ -1,0 +1,171 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Support Engineering Manager",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Successful and motivated IT Escalation Manager possessing extensive knowledge of leading a team of high performance Tier 3 engineers solving complex IT issues and providing excellent service for Fortune 1000 customers.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Support Engineering Manager",
+      "url": "",
+      "startDate": "2007-06-01",
+      "endDate": "Current",
+      "summary": "Managed a number of teams with team size of up to 26 engineers at a time in Windows Platforms and System Center, including Setup, Cluster, Performance, SCOM, and Virtualization.",
+      "highlights": [
+        "Led weekly meetings with other Core managers to reach target metrics."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Support Engineer",
+      "url": "",
+      "startDate": "1997-12-01",
+      "endDate": "2007-06-01",
+      "summary": "Supported a number of products including Outlook, Exchange Server, Microsoft Operations Manager, and Systems Management Server.",
+      "highlights": ["Wrote training for Exchange 2000 server while in readiness role for Beta."]
+    },
+    {
+      "name": "Company Name",
+      "position": "Network Administrator",
+      "url": "",
+      "startDate": "1997-03-01",
+      "endDate": "1997-12-01",
+      "summary": "Head of county school network, responsible for Novell servers in 22 schools across county.",
+      "highlights": ["Led community-wide effort during which about 50 people built approximately 75 computers in a day to donate to the school system."]
+    },
+    {
+      "name": "Company Name",
+      "position": "Network Technician",
+      "url": "",
+      "startDate": "1993-01-01",
+      "endDate": "1997-03-01",
+      "summary": "Responsible for training faculty regarding using the Internet, developed a series of 4 classes on Internet usage and trained CPCC faculty over 6 month period.",
+      "highlights": ["Responsible for networking and Internet in campus Library."]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Central Piedmont Community College",
+      "url": "",
+      "area": "Mechanical Engineering Technology",
+      "studyType": "Associate of Science",
+      "startDate": "1993-01-01",
+      "endDate": "1993-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Central Piedmont Community College",
+      "url": "",
+      "area": "Manufacturing Engineering Technology",
+      "studyType": "Associate of Science",
+      "startDate": "1993-01-01",
+      "endDate": "1993-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Montreat College",
+      "url": "",
+      "area": "Business Administration",
+      "studyType": "Bachelor's Degree",
+      "startDate": "2010-01-01",
+      "endDate": "2011-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Montreat College",
+      "url": "",
+      "area": "Business Administration",
+      "studyType": "Master's Degree",
+      "startDate": "2016-01-01",
+      "endDate": "2017-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Capella University",
+      "url": "",
+      "area": "Business Administration",
+      "studyType": "Doctorate",
+      "startDate": "2017-01-01",
+      "endDate": "2017-12-31",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Distinguished Toastmaster award",
+      "date": "2015-02-01",
+      "awarder": "Toastmasters international",
+      "summary": "Highest award possible for Toastmasters international."
+    },
+    {
+      "title": "Gold Star award",
+      "date": "Unknown",
+      "awarder": "Company Name",
+      "summary": "Awarded for work as hiring manager - strong diversity hiring and identifying top talent resulting in over 70 new hires."
+    },
+    {
+      "title": "GPGP",
+      "date": "Unknown",
+      "awarder": "Company Name",
+      "summary": "Awarded for collaboration with high profile customer technical issue."
+    }
+  ],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Technical Skills",
+      "level": "",
+      "keywords": [
+        "Premier",
+        "Back-up",
+        "balance",
+        "cable",
+        "coaching",
+        "CSS",
+        "databases",
+        "Hiring",
+        "Internet usage",
+        "leadership training",
+        "meetings",
+        "mentor",
+        "Exchange",
+        "Outlook",
+        "Windows",
+        "network",
+        "networking",
+        "Novell servers",
+        "performance reviews",
+        "performance management",
+        "Recruiting",
+        "Routing",
+        "Systems Management Server",
+        "speech",
+        "Staffing"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

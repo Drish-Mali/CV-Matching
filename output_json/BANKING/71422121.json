@@ -1,0 +1,78 @@
+{
+  "basics": {
+    "name": "QA Test Analyst",
+    "label": "Software Quality Assurance Analyst",
+    "email": "",
+    "phone": "",
+    "summary": "Manual Software Quality Assurance Analyst with 4+ years of experience in Functional, Regression, System, User Acceptance, Performance testing and Smoke testing. Able to effectively communicate in English, Hindi and Urdu. Experience in backend database testing by, SQL Server 2005/2008, and Windows 95/98/2000-2007/NT, WIN 7 and XP. Operating systems experience includes Apple-IOS, Android, and Windows. ",
+    "location": {},
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "QA Test Analyst",
+      "startDate": "09/2014",
+      "endDate": "Current",
+      "summary": "Working on Inventory Management Application that provides status and tracking on inventory. This Tool helps Kohl's to track & monitor the entire Inventory. Tested Kohl's apps on different OS Platforms IOS, Android, Using physical devices like IPad, IPhone, Android, Windows.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Quality Analyst Assurance",
+      "startDate": "10/2013",
+      "endDate": "07/2014",
+      "summary": "Part of a national leading diversified health service company, serving members with information and resources to help them make better informed decisions about their health care.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Manual Tester",
+      "startDate": "06/2010",
+      "endDate": "06/2013",
+      "summary": "Worked as a tester for Bank M's Banking Maintenance System (BMS) application which provides the accounts lists, accounts summary and accounts transactions for the various accounts and the ability to transfer funds between the various accounts using fund transfers.",
+      "highlights": []
+    },
+    {
+      "name": "Qatar Airways, Tanzania",
+      "position": "Jr. Quality Assurance Analyst",
+      "startDate": "07/2009",
+      "endDate": "05/2010",
+      "summary": "Worked as QA for several web based applications for different projects such as tracking System Wide upgrades. Tested GUI and Security (PCI Compliance). Wrote test cases and executed them manually using Test Director in Test Lab.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of North Alabama",
+      "area": "Marketing",
+      "studyType": "Bachelors",
+      "startDate": "",
+      "endDate": "Jun 1999",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Technical Skills",
+      "level": "",
+      "keywords": [
+        ".Net", 
+        "Agile", 
+        "Apple", 
+        "Operating Systems", 
+        "Databases",  
+        "MS Excel", 
+        "Microsoft Office", 
+        "Windows 7", 
+        "Windows",
+        "Windows XP", 
+        "Oracle", 
+        "PCI", 
+        "POS",
+        "XML",
+        "Test Director"
+      ]
+    }
+  ]
+}

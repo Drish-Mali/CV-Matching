@@ -1,0 +1,102 @@
+{
+  "basics": {
+    "name": "Not specified",
+    "label": "Finance Director and Treasurer",
+    "email": "Not specified",
+    "image": "Not specified",
+    "phone": "Not specified",
+    "url": "Not specified",
+    "summary": "Professional Summary",
+    "location": {
+      "city": "Not specified",
+      "postalCode": "Not specified",
+      "region": "Not specified",
+      "address": "Not specified",
+      "countryCode": "Not specified"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Finance Director and Treasurer",
+      "url": "Not specified",
+      "startDate": "1998-09",
+      "endDate": "2008-09",
+      "summary": "Supervise all units in the Finance Department including revenue, budget, purchasing, general ledger accounting, accounts payable and receivable, payroll and utility billing.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Financial Services Officer/Budget Officer",
+      "url": "Not specified",
+      "startDate": "1997-10",
+      "endDate": "1998-09",
+      "summary": "Management of fiscal duties, provision of complex staff assistance to responsible for all SEC and external financial reporting for Calpine Corporation.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Senior Auditor",
+      "url": "Not specified",
+      "startDate": "1997-01",
+      "endDate": "2000-03",
+      "summary": "Client base included",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "California Polytechnic",
+      "url": "Not specified",
+      "area": "Business",
+      "studyType": "MBA",
+      "startDate": "Not specified",
+      "endDate": "2001",
+      "score": "Summa Cum Laude",
+      "courses": []
+    },
+    {
+      "institution": "California Polytechnic",
+      "url": "Not specified",
+      "area": "Accounting",
+      "studyType": "Bachelor of Science",
+      "startDate": "Not specified",
+      "endDate": "2000",
+      "score": "Not specified",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Certified Public Accountant",
+      "date": "Not specified",
+      "issuer": "California",
+      "url": "Not specified"
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Interpersonal Communication",
+      "level": "Not specified",
+      "keywords": []
+    },
+    {
+      "name": "Customer Service-oriented",
+      "level": "Not specified",
+      "keywords": []
+    },
+    {
+      "name": "Human Resources Management",
+      "level": "Not specified",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

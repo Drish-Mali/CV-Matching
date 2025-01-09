@@ -1,0 +1,266 @@
+{
+  "basics": {
+    "name": "VzW Customer Tech Advocate",
+    "label": "Engineer",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Over 18 years wireless experience. 3 years of RF Optimization and 8 years of CDMA Cell FOA...",
+    "location": {},
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "VzW Customer Tech Advocate",
+      "url": "",
+      "startDate": "1964-02-01",
+      "endDate": "1964-02-28",
+      "summary": "Responsible for providing technical consultations for VzW HQ team...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Cell First Office Application Engineer FOA Engineer",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Team led for FOA cell software release for CDMA and EVDO...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "RF Optimization Engineer",
+      "url": "",
+      "startDate": "1997-09-01",
+      "endDate": "2000-05-31",
+      "summary": "Led project planning to attain exit criteria goals...",
+      "highlights": [
+        "Above and beyond award for FOA Project",
+        "Shining Star Award for Caracas, Valencia and Maracay deployment project",
+        "Acknowledgment of active participation and dedication to completing the CDMA project with CAT/TAC",
+        "Diversity Day 1999 Hands Across the World Certificate of appreciation award"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Milwaukee School of Engineering",
+      "url": "",
+      "area": "Electrical Engineering",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "1997-11-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "3G",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "BTS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Central point of contact",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Hardware",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Data Collection",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Database",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Documentation",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Engineer",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Senior Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "FSA",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Functional",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Lab Testing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Lab Test",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Leadership",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "MapInfo",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Market",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Meetings",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Access",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Office",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Office Suites",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Networks",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Optimization",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Processes",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Product Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Project Planning",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Quality",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Radio",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Scheduling",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Spectrum Analyzer",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Staffing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Supervising",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Supplier Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Team Player",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Telecom",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Troubleshooting",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "UNIX",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Validation",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Tagalog",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Bisaya",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

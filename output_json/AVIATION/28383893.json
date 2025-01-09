@@ -1,0 +1,97 @@
+{
+  "basics": {
+    "name": "Senior Warrant Officer Advisor",
+    "label": "Personnel Manager, Education Administrator",
+    "email": "joseph.j.hodgson.mil@mail.mil",
+    "phone": "",
+    "url": "",
+    "summary": "A dedicated and experienced Personnel Manager, Education Administrator, trained in Blackboard development, technical writing, Graduate level platform teaching, and flight instruction.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Senior Warrant Officer Advisor",
+      "url": "",
+      "startDate": "05-2016",
+      "endDate": "Current",
+      "summary": "Responsible for course management documents, Programs of Instruction, Course Administrative Data, Individual Training Plans",
+      "highlights": [
+        "Managed the complete redesign of the Aviation Warrant Officer Advanced Course",
+        "Developed a Blackboard interactive Aircrew Training Program",
+        "Developed aviation track-specific training for instructor pilots",
+        "Revamped the training strategy for the organization's overwater and crewmember qualification programs",
+        "Managed a special operations flight detachment in multiple regional commands throughout Afghanistan"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Liberty University",
+      "url": "",
+      "area": "Aeronautics",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "07-2015",
+      "score": "4.0",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Meritorious Service Medal",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    },
+    {
+      "title": "Air Medal",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Commercial Pilot License",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "publications": [
+    {
+      "name": "Aviation Digest Volume 4/Issue 1",
+      "publisher": "",
+      "releaseDate": "March 2016",
+      "url": "",
+      "summary": "Aviation Warrant Officer Advanced Course: Honing Army Aviation's Primary Warfighters."
+    },
+    {
+      "name": "Army Aviation Association of America Magazine",
+      "publisher": "",
+      "releaseDate": "March 2016",
+      "url": "",
+      "summary": "Aviation Warrant Officer Advanced Course Restructure."
+    }
+  ],
+  "skills": [
+  ],
+  "languages": [ ],
+  "interests": [
+    {
+      "name": "Coaching youth athletics",
+      "keywords": []
+    }
+  ],
+  "references": [],
+  "projects": []
+}

@@ -1,0 +1,109 @@
+{
+  "basics": {
+    "name": "Lean Six Sigma Black Belt",
+    "label": "Logistics Supply Chain Specialist",
+    "summary": "Highly skilled and trained professional with over a decade of experience in Administrative, Supply, Security, and Counseling.",
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Lean Six Sigma Black Belt",
+      "startDate": "2012-09-01",
+      "endDate": "",
+      "summary": "Responsibilities include: Demonstrating team leadership, understanding team dynamics and assigning team member roles and responsibilities. Black Belts have a thorough understanding of all aspects of the DMAIC model in accordance with Six Sigma principles. They have basic knowledge of Lean enterprise concepts, are able to identify non-value-added elements and activities and are able to use specific tools.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Aviation Supply Specialist",
+      "startDate": "2007-09-01",
+      "endDate": "2015-03-01",
+      "summary": "Perform all functions related to providing aviation peculiar supply support, to include financial management, inventory management, material management, facilities and storage management, personnel staffing, and requisitioning procedures.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Nuclear Security Officer II",
+      "startDate": "2005-07-01",
+      "endDate": "2007-09-01",
+      "summary": "Access and visitor control officer; to verify and issue the correct credentials and TLDs. etc",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Aviation Maintenance Administrative Specialist",
+      "startDate": "2001-06-01",
+      "endDate": "2005-06-01",
+      "summary": "Maintain aircraft log books, naval aircraft maintenance publications/files, and prepare reports, logs records, directives, and correspondence in an aircraft maintenance and repair activity.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Department of the Navy",
+      "area": "",
+      "studyType": "Certificate",
+      "startDate": "2012",
+      "endDate": "",
+      "score": "",
+      "courses": ["Basic Instructor"]
+    },
+    {
+      "institution": "Department of the Navy",
+      "area": "",
+      "studyType": "Certification",
+      "startDate": "2012",
+      "endDate": "",
+      "score": "",
+      "courses": ["Lean Six Sigma Green Belt"]
+    },
+    {
+      "institution": "Villanova University",
+      "area": "",
+      "studyType": "Certificate",
+      "startDate": "2012",
+      "endDate": "",
+      "score": "",
+      "courses": ["Lean Six Sigma Black Belt"]
+    },
+    {
+      "institution": "Department of the Navy",
+      "area": "",
+      "studyType": "Certificate",
+      "startDate": "2011",
+      "endDate": "",
+      "score": "",
+      "courses": ["Logistics Supply Chain Improvement Practitioner"]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Various",
+      "level": "Master",
+      "keywords": [
+        "accounting",
+        "Adobe",
+        "Charts",
+        "Data entry",
+        "Data processing",
+        "Financial management",
+        "Inventory management",
+        "Team leadership",
+        "Logistics",
+        "Management Information System",
+        "Naval, enterprise",
+        "Personnel Development",
+        "Purchasing",
+        "Trainer"
+      ]
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

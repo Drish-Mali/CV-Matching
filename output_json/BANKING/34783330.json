@@ -1,0 +1,99 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Sales & Service Associate",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "To secure an accounting position with an organization that will utilize my strong educational background and professional experience...",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Sales & Service Associate",
+      "url": "",
+      "startDate": "2012-10",
+      "endDate": "Current",
+      "summary": "Perform bank product cross sale which involved; CD, money market, IRA, debit card...",
+      "highlights": [
+        "Exceeded sales objectives in 2014",
+        "Achieved top five percentile in monthly sales in December 2014",
+        "Received 'Employee of the year' Award for asset gathering."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Administrator -AP/AR Specialist",
+      "url": "",
+      "startDate": "2008-04",
+      "endDate": "2010-12",
+      "summary": "Executed financial due diligence and created a valuation model...",
+      "highlights": [
+          "Achieved proper compliance and accurate executive level reporting"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "DeKalb College",
+      "url": "",
+      "area": "Finance",
+      "studyType": "Associate of Applied Science (AAS)",
+      "startDate": "",
+      "endDate": "2001-05",
+      "score": "Dean's list",
+      "courses": [
+        "Computerized Accounting Specialist training"
+      ]
+    },
+    {
+      "institution": "University of Maryland University College",
+      "url": "",
+      "area": "Finance",
+      "studyType": "Bachelor of Science (BS)",
+      "startDate": "",
+      "endDate": "2016",
+      "score": "",
+      "courses": ["Mid-Market Investment Banking course"]
+    },
+    {
+      "institution": "Georgia Piedmont Technical College",
+      "url": "",
+      "area": "Finance",
+      "studyType": "Associate of Applied Science (AAS)",
+      "startDate": "",
+      "endDate": "2001",
+      "score": "3.8",
+      "courses": []
+    } 
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Accounting",
+      "level": "",
+      "keywords": ["E-Commerce", "financial", "financial statements"]
+    },
+    {
+      "name": "Accounting Software",
+      "level": "",
+      "keywords": ["Microsoft Office", "MAS 90", "200", "Peachtree Accounting software"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

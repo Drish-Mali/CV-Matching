@@ -1,0 +1,83 @@
+{
+  "basics": {
+    "name": "Michael",
+    "label": "Store Operations and Management",
+    "email": "",
+    "phone": "",
+    "summary": "I am a determined, hard-working individual with the zeal to accomplish any task or challenge I'm given, seeking to exceed expectations. In the next year, I plan to achieve a bachelor's degree in Environmental Technology and Management, and attain a job in the field of sustainable design and technologies.",
+    "location": {
+      "city": "City",
+      "region": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Michael's Arts and Crafts Store",
+      "position": "Store Operations and Management",
+      "startDate": "2015-06-01",
+      "endDate": "current",
+      "summary": "Aid Store Manager, Assistant Store Manager, Full-Time Replenishment Manager in day to day operations and planning; unload and stock store merchandise. Train new Replenishment associates.",
+      "highlights": ["Employee of the month (July)"]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "SUNY Adirondack",
+      "area": "Liberal Arts Science and Mathematics",
+      "studyType": "Associate of Science",
+      "endDate": "2015",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "North Carolina State University",
+      "area": "Environmental Technology and Management",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "2018",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "OSHA 40 Hour HAZWOPER Certification",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Customer Service",
+      "level": ""
+    },
+    {
+      "name": "Management",
+      "level": ""
+    },
+    {
+      "name": "Inventory Management",
+      "level": ""
+    },
+    {
+      "name": "Communication",
+      "level": ""
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": [
+    {
+      "name": "Richard R. Lee Estate (Clayton, NC) Phase III Environmental Site Assessment",
+      "description": "",
+      "highlights": [],
+      "url": ""
+    }
+  ]
+}

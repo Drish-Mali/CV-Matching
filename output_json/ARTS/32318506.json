@@ -1,0 +1,129 @@
+{
+  "basics": {
+    "name": "RDA",
+    "label": "Dental Assistant",
+    "summary": "I am a very dependable, hardworking team player. I get along easily with all types of people. As I pursue my career as a Dental Assistant I am looking for an experienced level position while I renew my RDA license."
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "RDA",
+      "startDate": "2014-03",
+      "endDate": "2015-04",
+      "summary": "Coordinated appointment schedules for both the dentist and oral surgeon. Routinely completed inventory, supply orders, and restocked supplies. Greeted and prepared patients for dental examinations. Properly sterilized dental equipment and examination rooms in accordance with infection control policies. Correctly arranged instrument trays prior to dental procedures and surgeries. Proficiently assisted dentist with diagnostic, preventative, general, orthodontic, endodontic, surgical and periodontic procedures."
+    },
+    {
+      "name": "Company Name",
+      "position": "Dental Assistant",
+      "startDate": "2013-04",
+      "endDate": "2013-12",
+      "summary": "Greeted and prepared patients for dental examinations. Properly sterilized dental equipment and examination rooms in accordance with infection control policies. Effectively operated x-ray machines and developed x-rays. Provided appropriate postoperative instructions as prescribed by dentist. Expertly filed patients' charts and processed billing and payments."
+    },
+    {
+      "name": "Company Name",
+      "position": "Dental Assistant",
+      "startDate": "2012-06",
+      "endDate": "2012-12",
+      "summary": "Greeted and prepared patients for dental examinations. Properly sterilized dental equipment and examination rooms in accordance with infection control policies. Accurately collected and recorded patient medical and dental histories."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Kaplan College",
+      "area": "Dental Assisting",
+      "studyType": "Dental Assisting Program",
+      "startDate": "2012",
+      "score": "3.85"
+    },
+    {
+      "institution": "Invisalign Training",
+      "startDate": "2014"
+    },
+    {
+      "institution": "iTERO Training",
+      "startDate": "2015"
+    },
+    {
+      "institution": "Kor Whitening Training",
+      "startDate": "2015"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Dentistry From the Heart",
+      "position": "Volunteer for Free Dentistry"
+    },
+    {
+      "organization": "CEA Dental Convention",
+      "position": "Greeter, Collected Surveys"
+    },
+    {
+      "organization": "Kaplan Student Leaders",
+      "position": "Feeding America, Blood Drive"
+    }
+  ],
+  "skills": [
+    {
+      "name": "4-Handed Dentistry Emergency Treatments",
+      "level": "Master"
+    },
+    {
+      "name": "Preventative Care Prosthetics/Restorations",
+      "level": "Master"
+    },
+    {
+      "name": "Instrument Sterilization Prep for Oral Surgery",
+      "level": "Master"
+    },
+    {
+      "name": "Diagnostic X-Rays Bleaching Trays",
+      "level": "Master"
+    },
+    {
+      "name": "Infection Control Casts/Impressions",
+      "level": "Master"
+    },
+    {
+      "name": "Ortho Patient Education",
+      "level": "Master"
+    },
+    {
+      "name": "Eaglesoft",
+      "level": "Master"
+    },
+    {
+      "name": "Dentrix",
+      "level": "Master"
+    },
+    {
+      "name": "Open Dental",
+      "level": "Master"
+    },
+    {
+      "name": "Microsoft Office",
+      "level": "Master"
+    },
+    {
+      "name": "Exceptional Phone Etiquette",
+      "level": "Master"
+    },
+    {
+      "name": "Scheduling",
+      "level": "Master"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "X-Ray Certified",
+      "date": "Pending"
+    },
+    {
+      "name": "RDA, Coronal Polish and Pit and Fissure Sealant",
+      "date": "Pending"
+    },
+    {
+      "name": "Invisalign Certified",
+      "date": "Obtained"
+    }
+  ]
+}

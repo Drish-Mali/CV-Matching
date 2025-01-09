@@ -1,0 +1,112 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Accountant",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Well qualified and results oriented Accounting Professional with over fourteen years of successful experience in positions of increasing responsibility in dynamic entertainment companies. Skilled at training staff in Accounts Payable and Receivable and Payroll functions and creating effective teams.",
+    "location": {},
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Accountant",
+      "url": "",
+      "startDate": "2009-01-01",
+      "endDate": "Current",
+      "summary": "Responsible for all aspects of accounts payable, receivable and payroll. Banking liaison: reconciled statements, credit card and additional reconciliations. Month end analysis, closing and production of month and year end financial reporting. Preparation of monthly commission reports. Control and monitoring of complex, high volume Production Petty Cash and daily Cash Report. Preparation of 1099-s.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Accountant",
+      "url": "",
+      "startDate": "2006-01-01",
+      "endDate": "2009-01-01",
+      "summary": "Supervised, trained and managed a staff of four permanent employees, plus interns. Oversaw the general accounting department areas: accounts payable, receivable and payroll. Banking liaison: reconciled statements, credit card, lockbox and additional reconciliations. Month end analysis, closing and production of month and year end financial reporting. Preparation of monthly commission reports. Control and monitoring of complex, high volume Production Petty Cash process.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Junior Accountant",
+      "url": "",
+      "startDate": "2004-01-01",
+      "endDate": "2006-01-01",
+      "summary": "Responsible for all aspects of accounts payable and accounts receivable functions. Reorganizing and reconciling online based business transactions. Bank, credit card and other reconciliations. Month end analysis and closing. Managed and trained college interns. Preparation of royalty reports. Preparation of 1099-s.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Phoenix University",
+      "url": "",
+      "area": "Accounting",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Sheridan Technical Center",
+      "url": "",
+      "area": "Bookkeeping Fundamentals",
+      "studyType": "Certificate",
+      "startDate": "2003",
+      "endDate": "2003",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "CUC University",
+      "url": "",
+      "area": "Business Administration",
+      "studyType": "Bachelor",
+      "startDate": "1998",
+      "endDate": "1998",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Accounting",
+      "level": "",
+      "keywords": [
+        "General Accounting",
+        "Accounts Payable",
+        "Accounts Receivable",
+        "Microsoft Office",
+        "Outlook",
+        "Windows XP",
+        "Word",
+        "Excel",
+        "Quickbooks Enterprise 17.0"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [],
+  "references": [
+    {
+      "name": "Laurel Harris",
+      "reference": "President at Stellarhead (646) 382-8408"
+    },
+    {
+      "name": "David Walton",
+      "reference": "Vice president of Operation at Dogmatic (917) 671-6798"
+    }
+  ],
+  "projects": []
+}

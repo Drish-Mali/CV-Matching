@@ -1,0 +1,100 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Finance Business Partner",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Strategic and analytical finance professional with 6+ years of success in financial planning and analysis. Highly motivated Finance Business Partner who thrives in dynamic environments. Excellent financial reporting, budget forecasting and and relationship-building skills.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Finance Business Partner",
+      "url": "",
+      "startDate": "2015-06",
+      "endDate": "Current",
+      "summary": "Led and managed team in providing strategic insights into Americas DTC (ecommerce and retail) and eyewear product business lines, increasing visibility to the business and building models that analyzed potential growth opportunities and their financial impact...",
+      "highlights": [
+        "Led the implementation of new financial planning tool, Integrated Planning, to allow for more efficient and accurate planning",
+        "Helped in the re-design of monthly financial reporting package, providing timely and consistent insight into the business to Board of Directors and Leadership team..."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Financial Analyst",
+      "url": "",
+      "startDate": "2012-06",
+      "endDate": "2015-06",
+      "summary": "Worked collaboratively with budget managers to plan annual budgets, quarterly and rolling forecasts for Americas DTC sales channels and back office functions...",
+      "highlights": [
+        "Established strong working relationships with budget managers...",
+        "Contributed to key aspects of leveraged buyout of TOMS to Bain Capital..."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Analyst",
+      "url": "",
+      "startDate": "2011-06",
+      "endDate": "2012-06",
+      "summary": "Performed closed shop analysis for 55 U.S. malls in Westfield portfolio and analyzed leasing revenue and costs for recently vacated spots and new tenants moving in...",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Southern California, Marshall School of Business",
+      "url": "",
+      "area": "Business Administration Finance",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "2010-05",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Finance",
+      "level": "Master",
+      "keywords": [
+        "SAP Business Intelligence",
+        "Business Planning Consolidation",
+        "Capital IQ",
+        "Thomson ONE",
+        "Bloomberg",
+        "Microsoft Office",
+        "Host Analytics"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [
+    {
+      "name": "Personal",
+      "keywords": [
+        "Alpha Kappa Psi Professional Fraternity",
+        "Nutrition/Health",
+        "Sports",
+        "Traveling",
+        "Reading"
+      ]
+    }
+  ],
+  "references": [],
+  "projects": []
+}

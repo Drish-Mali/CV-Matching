@@ -1,0 +1,141 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Audit and Recovery Specialist",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Proficient and highly skilled Customer support specialist with years of experience seeking to use my extensive background in customer relations, collections and sales into an intermediate-level position with future advancement.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Audit and Recovery Specialist",
+      "url": "",
+      "startDate": "2016-01-01",
+      "endDate": "Current",
+      "summary": "Review, investigate, analyze, and resolve key issues at the provider and client level. Manage outstanding inventory as assigned by maintaining daily call volume and inventory turnover rate expectations. Adhere to all escalation timeframes and re-status inventory according to department guidelines.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Healthcare Collections Specialist",
+      "url": "",
+      "startDate": "2015-06-01",
+      "endDate": "2016-01-01",
+      "summary": "The handling of inbound and outbound calls from client customers. Conduct account research and general analysis in order to assist customers.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Student Advisor/Resolution Rep",
+      "url": "",
+      "startDate": "2014-12-01",
+      "endDate": "2015-06-01",
+      "summary": "Resolution of student questions. Track escalated calls in database. Follow basic procedures and phone scripts.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Customer Service Representative",
+      "url": "",
+      "startDate": "2014-05-01",
+      "endDate": "2014-07-01",
+      "summary": "Under direct supervision, responsible for conserving, maintaining, developing and increasing business volume through existing clients by phone.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Customer Service Representative / Sales Agent",
+      "url": "",
+      "startDate": "2013-03-01",
+      "endDate": "2014-05-01",
+      "summary": "Uses strong communication and listening skills to handle customer inquiries. Makes specific offers to customers based on customer interest.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Prairie State College",
+      "url": "",
+      "area": "Business Management",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "2018",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Harlan Community Academy Highschool",
+      "url": "",
+      "area": "General Studies",
+      "studyType": "High School Diploma",
+      "startDate": "",
+      "endDate": "2012",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Customer Service",
+      "level": "",
+      "keywords": [
+        "HIPPA",
+        "FDCPA",
+        "Medical Terminolgy",
+        "Call Center Service Operations",
+        "Multi phone/Multi Monitor Use",
+        "Complaint Handling/Dispute Resolution",
+        "Records Management",
+        "Account Management",
+        "Sales",
+        "Insurance",
+        "Collections",
+        "Data Collection",
+        "Data Entry",
+        "Documentation",
+        "Scheduling",
+        "Time Management",
+        "Vendor Management"
+      ]
+    },
+    {
+      "name": "Computer Skills",
+      "level": "",
+      "keywords": [
+        "Microsoft Office Suite",
+        "Microsoft Excel",
+        "Microsoft Word",
+        "Microsoft Outlook",
+        "Microsoft PowerPoint",
+        "Windows",
+        "PeopleSoft",
+        "Visual/Content Manager",
+        "Mainframe",
+        "Clarify",
+        "AS400",
+        "Epic",
+        "SAP",
+        "Typing"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

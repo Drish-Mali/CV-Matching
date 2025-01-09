@@ -1,0 +1,120 @@
+{
+  "basics": {
+    "name": "Member Services Representative",
+    "label": "",
+    "email": "",
+    "phone": "",
+    "summary": "Skilled relationship-builder who is able to establish easy rapport with customers, building trust and respect. Highly service-oriented individual who is responsive to need and thorough in follow-through. Organized, effective multitasker with excellent coordination skills and a keen attention to detail.",
+    "location": {
+      "city": "City",
+      "region": "State"
+    }
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Member Services Representative",
+      "startDate": "2015-03",
+      "endDate": "Current",
+      "summary": "Promoted from Cashier to Lead Cashier to help train staff and facilitated huddles in the morning...",
+      "highlights": [
+        "Promoted from Cashier to Lead Cashier, JP Morgan Chase Best of the Best Award, Top 5 Fraud Analyst, Member Service Representative promotion"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Risk Operations Analyst II",
+      "startDate": "2014-08",
+      "endDate": "2015-02",
+      "summary": "Pinpointed fraud trends specific to online money movement and communicated information to colleagues within department..."
+    },
+    {
+      "name": "Company Name",
+      "position": "Risk Operations Analyst",
+      "startDate": "2013-07",
+      "endDate": "2014-08",
+      "summary": "Answer high volume incoming calls from internal Chase colleagues and account holders who require assistance..."
+    },
+    {
+      "name": "Company Name",
+      "position": "Senior Service Specialist",
+      "startDate": "2012-12",
+      "endDate": "2013-06",
+      "summary": "Enforced relief to the customers by reviewing the situation, ensuring consumer satisfaction throughout the de-escalation process..."
+    },
+    {
+      "name": "Company Name",
+      "position": "Customer Service Specialist",
+      "startDate": "2010-01",
+      "endDate": "2012-11",
+      "summary": "Remained up to date for developments and changes in products, services, policies and procedures..."
+    },
+    {
+      "name": "Company Name",
+      "position": "Intern",
+      "startDate": "2008-06",
+      "endDate": "2008-08",
+      "summary": "Develop and prepare packets containing information about social service agencies..."
+    },
+    {
+      "name": "Company Name",
+      "position": "Customer Service Specialist",
+      "startDate": "2004-10",
+      "endDate": "2010-02",
+      "summary": "Monitor checkout stations to ensure that they have adequate cash available and that they are staffed appropriately..."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Wright State University",
+      "area": "Criminal Justice Sociology",
+      "studyType": "Associate of Arts",
+      "startDate": "2008",
+      "endDate": "2008",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Professional Skills",
+      "keywords": [
+        "analyst",
+        "banking",
+        "benefits",
+        "cashier",
+        "CD",
+        "coach",
+        "coaching",
+        "com",
+        "credit",
+        "clients",
+        "customer service",
+        "debit",
+        "email",
+        "issue receipts",
+        "legal",
+        "meetings",
+        "access",
+        "money",
+        "mortgage loans",
+        "navigation",
+        "policies",
+        "processes",
+        "progress",
+        "quality",
+        "reading",
+        "surveys",
+        "tax",
+        "telephone",
+        "phone skills",
+        "phone",
+        "trouble shooting",
+        "website"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

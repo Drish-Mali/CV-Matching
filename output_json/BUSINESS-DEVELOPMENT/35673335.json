@@ -1,0 +1,127 @@
+{
+  "basics": {
+    "name": "Unknown",
+    "label": "Business Development Consultant",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Strategic Business Development Executive Entrepreneurial and strategic sales and business development executive with a 7-year track record of exceeding $500,000/month in revenues.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Business Development Consultant",
+      "url": "",
+      "startDate": "2014-09",
+      "endDate": "Current",
+      "summary": "Establish sales systems, carry out sales campaigns, and provide product input on Business Intelligence Software.",
+      "highlights": [
+        "Recruited five retail chains within 2 months representing 167 store locations.",
+        "Implemented sales systems combining inbound and outbound lead generation.",
+        "Implemented a new CRM.",
+        "Re-launched the company website."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Distribution Manager",
+      "url": "",
+      "startDate": "2014-03",
+      "endDate": "2014-09",
+      "summary": "Develop distribution channels with auto dealerships and implement inbound marketing programs to sell the PLUGLESS charger for Electric Vehicles.",
+      "highlights": [
+        "Secured the #1 dealership selling Electric Vehicles in Canada as a reseller.",
+        "Implemented sales systems for inbound lead generation.",
+        "Implemented a new CRM.",
+        "Conducted lead generation programs and online marketing campaigns with 20%+ response rates."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Vice President of Marketing and Business Development",
+      "url": "",
+      "startDate": "2009-01",
+      "endDate": "2014-03",
+      "summary": "Created partnerships with Telecom carriers for a San Francisco-based technology startup.",
+      "highlights": [
+        "Brought company from $0 to $250,000/month within 10 months by closing exclusive deals with Verizon Wireless, T-Mobile, and Cricket Wireless.",
+        "Grew market share from 0% to 83% within 2 years by closing deals with 9 of the 11 largest cell phone carriers in North America.",
+        "Led negotiations for $3M/year Verizon Wireless contract.",
+        "Generated $90,000/month from co-marketing partnerships.",
+        "Improved customer loyalty by 35% by optimizing promotional messaging."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Virginia Commonwealth University",
+      "url": "",
+      "area": "Economics",
+      "studyType": "B.S",
+      "startDate": "",
+      "endDate": "2004",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Business Development",
+      "level": "",
+      "keywords": [
+        "accounting",
+        "ABC",
+        "advertising",
+        "Business Development",
+        "Business Intelligence Software",
+        "closing",
+        "CMS",
+        "consultant",
+        "content",
+        "Content Management",
+        "conversion",
+        "CRM",
+        "client",
+        "direct mail",
+        "economics",
+        "features",
+        "forecasting",
+        "internet marketing",
+        "Director",
+        "marketing",
+        "market",
+        "messaging",
+        "negotiation",
+        "negotiations",
+        "network",
+        "online marketing",
+        "producer",
+        "purchasing",
+        "retail",
+        "selling",
+        "sales",
+        "sales forecasting",
+        "Telecom",
+        "phone",
+        "website"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

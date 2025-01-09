@@ -1,0 +1,105 @@
+{
+  "basics": {
+    "name": "TOM P. PATNAIK",
+    "label": "SENIOR BUSINESS DEVELOPMENT MANAGER",
+    "summary": "Business development professional experienced in sales management, marketing and applications engineering of filtration and drying systems.",
+    "skills": [
+        {
+            "name": "Business Development",
+            "level": "Senior",
+            "keywords": [
+              "Sales",
+              "Marketing",
+              "Sales And",
+              "Consultative Sales",
+              "And Marketing",
+              "Marketing Management",
+              "Product Support",
+              "Strategic Planning",
+              "Direct Sales",
+              "Mixing",
+              "Chromatography",
+              "Equipment Sales",
+              "Filtration",
+              "Pricing",
+              "Product Manager",
+              "Product Positioning",
+              "Sales/marketing",
+              "Training",
+              "Selling And",
+              "Business Analysis",
+              "Financial Operations",
+              "Internet Marketing",
+              "Outside Sales",
+              "SEO",
+              "Testing"
+            ]
+        }
+    ],
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "",
+      "region": "State"
+    },
+    "profiles": [
+      {
+        "network": "",
+        "username": "",
+        "url": "" 
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Senior Business Development Manager",
+      "url": "",
+      "startDate": "2014-05",
+      "endDate": "2015-03",
+      "summary": "Responsible for growing engineering services to major Food & Beverage and Chemical clients.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Director, Sales & Marketing",
+      "url": "",
+      "startDate": "2011-04",
+      "endDate": "2014-05",
+      "summary": "Turned around the sales and profitability of this European manufacturer of centrifuges, filters.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Sales/Application Engineer",
+      "url": "",
+      "startDate": "2007-06",
+      "endDate": "2011-04",
+      "summary": "Provided direct sales and application engineering expertise to users.",
+      "highlights": []
+    } 
+  ],
+  "education": [
+    {
+      "institution": "",
+      "url": "",
+      "area": "Marketing",
+      "studyType": "MBA",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "languages": [],
+  "references": [],
+  "projects": []
+}

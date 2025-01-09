@@ -1,0 +1,92 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Franchise Owner",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Experienced professional with skills in product development, customer service relations, department operations and organizational structure development. Extensive knowledge in hiring, training development and team building/leadership in multiple areas, specifically consumer insights, trend analysis, field research, and product research.",
+    "location": {},
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Franchise Owner",
+      "url": "",
+      "startDate": "2006-10-01",
+      "endDate": "2016-11-01",
+      "summary": "Developed and directed all pre-opening marketing activities of the business ensuring brand recognition in the territory and a successful store launch. Researched market competitors and industry trends to identify potential new products and services. Developed and implemented yearly marketing strategies including social media, print, tv and digital advertising. Formulated a comprehensive business plan complete with clear and actionable sales goals and targets. Developed and implemented all strategies related to the operation of the business including but not limited to marketing, sales, staff development and customer satisfaction. Monitored sales and service records and investigated discrepancies. Determined staffing requirements and interviewed, hired and trained new employees. Created daily, weekly and monthly individual and team goals in order to ensure all of the business' duties were met on a timely manner.",
+      "highlights": ["Expertise in development and execution of marketing strategies","Excellent ability to prioritize and effectively complete multiple tasks","Well versed in payroll management procedures"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Department Supervisor",
+      "url": "",
+      "startDate": "2012-04-01",
+      "endDate": "2013-12-01",
+      "summary": "Developed and monitored processes to ensure the delivery of consistent high quality and cost efficient service to clients...",
+      "highlights": ["Reduced outstanding receivables from $32 Million to $6 Million in less than a 12 month period.","Implemented an imaging program that improved efficiency."]
+    },
+    {
+      "name": "Company Name",
+      "position": "Customer Development Analyst",
+      "url": "",
+      "startDate": "2006-02-01",
+      "endDate": "2007-12-01",
+      "summary": "Responsible for analysis of retail data...",
+      "highlights": ["Identified opportunities, recommended, communicated and executed short/long-term strategies to enhance the business relationship."]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "SALEM COLLEGE",
+      "url": "",
+      "area": "International Business",
+      "studyType": "Bachelor",
+      "startDate": "2002-01-01",
+      "endDate": "2002-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "CATHOLIC UNIVERSITY OF MANIZALES",
+      "url": "",
+      "area": "Advertising",
+      "studyType": "Degree",
+      "startDate": "1997-01-01",
+      "endDate": "1997-12-31",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Leadership",
+      "level": "Advanced",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Portuguese",
+      "fluency": "Conversational"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

@@ -1,0 +1,114 @@
+{
+  "basics": {
+    "name": "",
+    "label": "RESEARCH SCIENTIST",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Highly motivated Research Scientist possessing proficiency in numerous disciplines of the biotechnology and in-vitro diagnostic ( IVD ) industry. Self starter and knowledgeable analytical decision maker, and effective natural leader",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Saladax Biomedical, Inc.",
+      "position": "Research Scientist",
+      "url": "",
+      "startDate": "2013-06-01",
+      "endDate": "Current",
+      "summary": "Research Scientist developing automated immunochemical based diagnostic assays (ELISA) for oncology drugs. De facto leader for a project to troubleshoot an existing diagnostic assay. Responsible for writing regulatory reports",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Investigative Toxicology Intern",
+      "url": "",
+      "startDate": "2012-06-01",
+      "endDate": "2012-08-01",
+      "summary": "Preclinical drug development with emphasis on toxicology, molecular biology laboratory skills enhancement",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Research Assistant",
+      "url": "",
+      "startDate": "2010-08-01",
+      "endDate": "2011-01-01",
+      "summary": "Working on a project titled 'Isolation, Characterization & Cross Inoculation Studies of Rhizobia under Salinity Conditions",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Intern",
+      "url": "",
+      "startDate": "2009-06-01",
+      "endDate": "2009-07-01",
+      "summary": "Worked as part of a team in the Biochemistry, Immunology & Hematology departments",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Pennsylvania",
+      "url": "",
+      "area": "Biotechnology",
+      "studyType": "Masters of Science",
+      "startDate": "",
+      "endDate": "2013-05-01",
+      "score": "3.83/4.0",
+      "courses": []
+    },
+    {
+      "institution": "Birla Institute of Technology & Science",
+      "url": "",
+      "area": "Biotechnology",
+      "studyType": "Bachelor of Engineering (Honors)",
+      "startDate": "",
+      "endDate": "",
+      "score": "9.62/10",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [
+    {
+      "name": "Isolation and characterization of salt-tolerant rhizobia native to the desert soils of United Arab Emirates",
+      "publisher": "Emirates Journal of Food and Agriculture (Plant Science)",
+      "releaseDate": "2013-02-01",
+      "url": "",
+      "summary": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Technical Skills",
+      "level": "",
+      "keywords": [
+        "C", "C++", "ELISA", "GLP", "GMP", "Excel", "PowerPoint", "Windows", "Word", "OS", "RT-PCR", "troubleshoot", "Validation"
+      ]
+    },
+    {
+      "name": "Interpersonal Skills",
+      "level": "",
+      "keywords": ["communication skills", "presentations", "quick learner", "adaptability", "leadership"]
+    }
+  ],
+  "languages": [],
+  "interests": [
+    {
+      "name": "Volunteering",
+      "keywords": ["National Association of the Blind", "National Cancer Rose Day"]
+    }
+  ],
+  "references": [],
+  "projects": []
+}

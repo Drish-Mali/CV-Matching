@@ -1,0 +1,93 @@
+{
+ "basics": {
+    "name": "",
+    "label": "Patient Health Advocate",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "As a Patient Health Advocate, I am highly motivated and qualified in customer service. By establishing a quick rapport and utilizing both a calming and inquisitive style, I am confident that my many years of experience will prove to be an asset. I am seeking a position that will provide a variety of new skills and experience.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "US",
+      "region": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Patient Health Advocate",
+      "url": "",
+      "startDate": "2016-11-01",
+      "endDate": "Current",
+      "summary": "Ability to motivate patients to utilize therapy equipment in accordance with their physician's direction. Combined skills encouraging complying with equipment utilization while facilitating an effective and efficient resolution that the patient accepts and can adhere to. Manage all aspects of patient compliance monitoring for a specified regional and/or state demographic using patient monitoring applications and resources.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Senior Customer Qualification specialist",
+      "url": "",
+      "startDate": "2010-09-01",
+      "endDate": "2016-11-01",
+      "summary": "Respond to telephone, fax and EDI inquiries and orders from referral sources and homecare patients. Document referral request for coordination of care. Provide information on equipment supplies and services.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Customer Service Associate/Cashier",
+      "url": "",
+      "startDate": "2010-06-01",
+      "endDate": "2010-09-01",
+      "summary": "Receives payment from customers for the purchase of merchandise. Operates a cash register and manages cash to no variances. Provides service to customers. Processes customer sales to include accepting payment, packs merchandise and issues receipts and change.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Customer Service Supervisor",
+      "url": "",
+      "startDate": "2008-11-01",
+      "endDate": "2010-05-01",
+      "summary": "Supervise a Child Support customer service call center. Duties included maintaining daily statistics of the unit and monitoring daily performance of service representatives and providing constructive criticism to help them improve their skills.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Case Manager",
+      "url": "",
+      "startDate": "2006-04-01",
+      "endDate": "2008-11-01",
+      "summary": "Responsibilities included working with families low-income families to obtain child care assistance. Semi-annual reviews of cases to determine eligibility for assistance. Managing new client orientations and communicating daily with clients about the status of their case.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Alameda High School",
+      "url": "",
+      "area": "General",
+      "studyType": "High School",
+      "startDate": "",
+      "endDate": "1985-06-30",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Client relationships",
+      "level": "",
+      "keywords": ["Client relations specialist", "High customer service standards", "Conflict resolution techniques", "Call center management experience", "Focused on customer satisfaction", "Telecommunications knowledge", "Skilled multi-tasker", "Proficient with Microsoft Office Suite", "Careful and active listener", "Professional and friendly", "Multi-tasking", "Computer Proficiency", "Customer Needs Assessment", "Customer Service", "Data Collection", "Data Entry", "Documentation", "Email", "Typing", "Microsoft Excel", "Microsoft Office Suite", "Microsoft Outlook"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

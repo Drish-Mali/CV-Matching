@@ -1,0 +1,71 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Accountant",
+    "email": "",
+    "phone": "",
+    "summary": "Degreed accountant with more than 10 years of diversified accounting experience seeking accounting position at a well-established company in Houston.",
+    "location": {
+      "city": "Houston",
+      "countryCode": "US",
+      "region": "Texas"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Accountant",
+      "startDate": "2012-04-01",
+      "endDate": "2014-06-01",
+      "summary": "Prepare federal tax returns for individuals and small businesses. Perform bookkeeping and prepare financial statements for small businesses. Perform special projects & short-term assignments such as accountant at MCT Sheet Metal, Inc.",
+      "highlights": ["Team-oriented", "Detail-oriented", "Deadlines focused", "Excellent communication and presentation skills", "Quick learner", "Strong management skills", "Good analytical skills", "Ability of managing multi tasks"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Tax Accountant",
+      "startDate": "2011-10-01",
+      "endDate": "2012-04-01",
+      "summary": "Contributed to the overall production and enhanced the efficiency of the corporate tax services by exceeding production goals. Answered clients' queries regarding their tax filing status. Resolved clients' tax filing problems.",
+      "highlights": ["Prepared simple and complex tax returns for individuals and for small businesses", "Prepared and reviewed financial statements needed to prepare tax returns"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Accounting Manager",
+      "startDate": "2007-01-01",
+      "endDate": "2011-08-01",
+      "summary": "Established new strategies to maximize profitability. Played an overwhelming role in the developing and restructuring of the entire accounting department.",
+      "highlights": ["Improved the efficiency of the entire accounting department by 40%", "Reduced accounts receivable turnover by 50%", "Processed weekly and monthly invoices for accounts receivable", "Prepared bank reconciliations and periodic financial statements"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Tax Accountant",
+      "startDate": "2005-12-01",
+      "endDate": "2006-12-01",
+      "summary": "Played a vital role in the growth of the company by introducing new clients and maintaining good relationship with existing ones",
+      "highlights": ["Prepared individual and business tax returns", "Assisted in preparing corporate tax returns", "Prepared quarterly and annually payroll reports 940s & 941s and state sales taxes", "Reconciled monthly bank statements and prepared detailed financial statements"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Houston",
+      "area": "accounting",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "2005-12-31",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Accounting",
+      "level": "",
+      "keywords": ["Accounting Software", "Adobe Acrobat", "bank reconciliations", "bookkeeping", "Detail-oriented", "financial statements", "general ledger", "MS Access", "MS Excel", "PeopleSoft", "QuickBooks", "tax returns"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

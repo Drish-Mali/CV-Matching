@@ -1,0 +1,107 @@
+{
+  "basics": {
+    "name": "Not provided",
+    "label": "Food Server",
+    "image": "",
+    "email": "Not provided",
+    "phone": "Not provided",
+    "url": "",
+    "summary": "Hardworking professional with a history of exceeding expectations and delivering quantifiable results. Known for boosting company morale by fostering interdepartmental communication.",
+    "location": {
+      "address": "Not provided",
+      "postalCode": "Not provided",
+      "city": "Not provided",
+      "countryCode": "Not provided",
+      "region": "Not provided"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Food Server",
+      "url": "",
+      "startDate": "2013-08-01",
+      "endDate": "2015-05-01",
+      "summary": "Monitored food distribution, ensuring that meals are delivered to the correct recipients and that guidelines, such as those for special diets, are followed. Cleaned or sterilized dishes, kitchen utensils, equipment, or facilities. Served over 300 students daily. Loaded trays with accessories such as eating utensils, napkins, or condiments. Stocked service stations with items such as ice, napkins, or straws. Removed trays and stacked dishes for return to kitchen after meals are finished. Prepared food items, such as sandwiches, salads. Food preparation or serving techniques to ensure that proper procedures are followed.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Subsitute Pre K Teacher",
+      "url": "",
+      "startDate": "2007-08-01",
+      "endDate": "2011-05-01",
+      "summary": "Ordered or obtained materials needed for classes. Provided extra assistance to students with special needs, such as non-English-speaking students or those with physical and mental disabilities. Tutored and assisted children individually or in small groups to help them master assignments and to reinforce learning concepts presented by teachers. Enforced administration policies and rules governing students. Discussed assigned duties with classroom teachers to coordinate instructional efforts. Instructed and monitored students in the use and care of equipment and materials to prevent injuries and damage. Maintained computers in classrooms and laboratories and assisted students with hardware and software use.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Loan Processor",
+      "url": "",
+      "startDate": "1985-10-01",
+      "endDate": "1999-02-01",
+      "summary": "Encoded and cancelled checks, using bank machines. Compared previously prepared bank statements with cancelled checks and reconciled discrepancies. Matched statements with batches of cancelled checks by account numbers. Loaded machines with statements, cancelled checks, or envelopes to prepare statements for distribution to customers or stuff envelopes by hand. Fixed minor problems, such as equipment jams, and notified repair personnel of major equipment problems. Established and maintained relationships with individual or business customers or provided assistance with problems these customers may encounter. Examined, evaluated, or processed loan applications. Evaluated financial reporting systems, accounting or collection procedures, or investment activities and made recommendations for changes to procedures, operating systems, budgets, or other financial control functions.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Girl Scouts",
+      "position": "Volunteer",
+      "url": "",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "McEachern HS",
+      "url": "",
+      "area": "Business",
+      "studyType": "High School Diploma",
+      "startDate": "",
+      "endDate": "1982-05-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Serv Safe Certification",
+      "date": "Not provided",
+      "issuer": "Not provided",
+      "url": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Cash handling",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Professional and friendly",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Careful and active listener",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Data Entry",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "awards": [],
+  "publications": []
+}

@@ -1,0 +1,62 @@
+{
+  "basics": {
+    "name": "John Doe",
+    "label": "Engineering Planning Manager",
+    "summary": "Supervise/manage planning departments for 10 years and improvements were seen in production rates and shipments. Experience includes ISO, Lean, Six Sigma, and APICS environments. MRP/ ERP systems include WDS, Syteline, Microsoft Great Plains, and others."
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Engineering Planning Manager",
+      "startDate": "2015-05-01",
+      "endDate": "2017-08-01",
+      "summary": "Maintained inventory and managed Manufacturing Orders issues and receipts",
+      "highlights": ["Maintained inventory", "Manufacturing Orders management"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Senior Manufacturing Project Engineer",
+      "startDate": "1996-05-01",
+      "endDate": "2015-03-01",
+      "summary": "Supervised Planning Departments and looked after various aspects including careful reviewing of orders, monitoring shortages, working with purchasing for scheduling, and much more.",
+      "highlights": ["Supervised Planning Departments.", "Achieved delivery times improvement.", "Improved customer relations.", "Implemented paperless document.", "Capacity/Demand system implementation", "Trained employees in MRP software, capacity/demand, and a paperless manufacturing system.", "Improved product quality", "Shipment improvements"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Langston University",
+      "area": "Business Administration",
+      "studyType": "Bachelor",
+      "startDate": "1992-01-01",
+      "endDate": "1996-01-01",
+      "score": "3.5",
+      "courses": []
+    }
+  ],
+  "certificates": [
+    { "name": "SharePoint", "date": "", "issuer": "", "url": "" },
+    { "name": "Adobe Acrobat", "date": "", "issuer": "", "url": "" },
+    { "name": "MRP/ERP", "date": "", "issuer": "", "url": "" },
+    { "name": "Altium/Protel", "date": "", "issuer": "", "url": "" },
+    { "name": "Excel", "date": "", "issuer": "", "url": "" },
+    { "name": "AutoCAD", "date": "", "issuer": "", "url": "" },
+    { "name": "Word", "date": "", "issuer": "", "url": "" },
+    { "name": "CompliantPro", "date": "", "issuer": "", "url": "" },
+    { "name": "PowerPoint", "date": "", "issuer": "", "url": "" },
+    { "name": "Shop Floor Control", "date": "", "issuer": "", "url": "" },
+    { "name": "Access", "date": "", "issuer": "", "url": "" },
+    { "name": "Polydyne Quote Software", "date": "", "issuer": "", "url": "" },
+    { "name": "Windows", "date": "", "issuer": "", "url": "" },
+    { "name": "WDS MRP Software", "date": "", "issuer": "", "url": "" },
+    { "name": "Outlook", "date": "", "issuer": "", "url": "" },
+    { "name": "Syteline MRP Software", "date": "", "issuer": "", "url": "" },
+    { "name": "Project", "date": "", "issuer": "", "url": "" },
+    { "name": "MS Great Plains", "date": "", "issuer": "", "url": "" }
+  ],
+  "skills": [
+    { "name": "Management", "level": "Advanced", "keywords": ["Planning & Scheduling", "Shipping", "Receiving", "Drafting"] },
+    { "name": "Documentation", "level": "Advanced", "keywords": ["BOMs", "Routings", "SOP", "Routing", "Change management"] },
+    { "name": "Electronics", "level": "Intermediate", "keywords": [] },
+    { "name": "Research", "level": "Intermediate", "keywords": [] }
+  ]
+}

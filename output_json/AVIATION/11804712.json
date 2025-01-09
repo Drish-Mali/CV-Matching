@@ -1,0 +1,116 @@
+{
+  "basics": {
+    "name": "Aviation Mechanic",
+    "label": "Technical Proficiencies",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Quality-focused manager with of experience driving maintenance programs...",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "US",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Aviation Mechanic",
+      "url": "",
+      "startDate": "August 2010",
+      "endDate": "Current",
+      "summary": "Orchestrate aircraft maintenance activity across 12 work centers...",
+      "highlights": [
+        "Established schedules, organized workloads, and led multi-functional team to meet aggressive production timelines.",
+        "Supervised all aspects of maintenance including calibration, repair, and replacement of damaged or unserviceable parts... "
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Embry-Riddle Aeronautical University",
+      "url": "",
+      "area": "Technical Management / Occupational Safety and Health",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "2014",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Coastline Community College",
+      "url": "",
+      "area": "Aviation Technology and Healthy Technology",
+      "studyType": "Associate of Science",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "OSHA 30-Hour General Industry Safety & Standards Certificate",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Technical Skills",
+      "level": "Master",
+      "keywords": [
+        "Aviation", 
+        "Calibration", 
+        "Documentation", 
+        "Maintenance", 
+        "Accountability For", 
+        "Assembly", 
+        "Avionics", 
+        "Blueprints", 
+        "Budgets", 
+        "Electrical Systems", 
+        "Engines", 
+        "Hazardous Waste",
+        "Hydraulics",
+        "Internal Controls",
+        "Quality Assurance",
+        "Scheduling",
+        "Schematics",
+        "Sequencing",
+        "Technical Publications",
+        "Training",
+        "Turbine",
+        "Aircraft Maintenance",
+        "Audits",
+        "Aviation Maintenance",
+        "General Aviation",
+        "Logistics",
+        "Quality Control",
+        "Solutions",
+        "Testing",
+        "Excel",
+        "Ms Office",
+        "Operations",
+        "Osha 30",
+        "Outlook",
+        "Powerpoint",
+        "Security",
+        "Word",
+        "Associate"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

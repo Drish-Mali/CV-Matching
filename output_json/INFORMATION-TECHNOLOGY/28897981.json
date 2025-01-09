@@ -1,0 +1,143 @@
+{
+  "basics": {
+    "name": "Information Technology Specialist (Web), GS-11",
+    "label": "IT Specialist, GS-2210-9 (CUSTSPT)",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Experienced Systems Analyst with diverse industry experience in government, maritime, forestry, research and development.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Information Technology Specialist (Web), GS-11",
+      "startDate": "2013-08-01",
+      "endDate": "2016-02-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Computer Assistant, GS-5",
+      "startDate": "2010-03-01",
+      "endDate": "2013-08-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Computer Department Intern",
+      "startDate": "2008-09-01",
+      "endDate": "2009-06-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Database Intern",
+      "startDate": "2008-06-01",
+      "endDate": "2009-08-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Office/Building Manager",
+      "startDate": "2005-01-01",
+      "endDate": "2005-10-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Geek Squad Tech",
+      "startDate": "2004-10-01",
+      "endDate": "2004-12-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Marine Science Technician, E-6",
+      "startDate": "1984-11-01",
+      "endDate": "2004-05-01",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Warner Pacific University",
+      "area": "Management and Organizational Leadership",
+      "studyType": "Master",
+      "startDate": "",
+      "endDate": "2015-08-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "New Horizons",
+      "area": "ITIL Foundation",
+      "studyType": "Certification",
+      "startDate": "",
+      "endDate": "2016",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Eastern Washington University",
+      "area": "Technology",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "2009-06-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "OpenSourcery",
+      "area": "Drupal, Content Management",
+      "studyType": "Site Builder and Theming",
+      "startDate": "",
+      "endDate": "2012-08-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Awarded by the Forest Service, Pacific Northwest Research Station",
+      "date": "2013",
+      "awarder": "Forest Service, Pacific Northwest Research Station",
+      "summary": "For developing publishing innovations, multiple website support, and championing SharePoint, and superior performance."
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Technical Skills",
+      "level": "Expert",
+      "keywords": [
+        "System Analyst",
+        "System installs and upgrades",
+        "IT Support",
+        "MS SharePoint, MS Access",
+        "MS Office, Adobe Suite",
+        "OS(s) Windows, Linux, Mac",
+        "Skype, WebEx, Adobe Connect, MS Lync"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

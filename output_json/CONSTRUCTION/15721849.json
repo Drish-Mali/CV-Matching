@@ -1,0 +1,82 @@
+{
+  "basics": {
+    "name": "Construction Project Regional Manager",
+    "label": "Construction Manager",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Financial Planning /Analysis / Management Budgeting (Capital & Operations) P & L Administration Accounting Reporting / Disbursements Equity & Debt Financing New Business / Market Development Business Service Contract Negotiation Vendor / Sub Contractor Partnerships Customer Government Relations Human Resources Management Office information Technology Capital Equipment Acquisition Purchasing / Materials Management DadeStar Group, Ft. Washington Maryland Currently serving as Vice President of Construction, directly responsible for providing leadership and direction for all aspects of construction throughout the company, including land development, vertical construction, renovation construction, ancillary facilities, and design development.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Construction Project Regional Manager",
+      "url": "",
+      "startDate": "2009-01-01",
+      "endDate": "2015-01-01",
+      "summary": "Site Safety Coordinator, and Project Manager within field operations and ended my services with Polukai as a Regional Project Manager.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Operation Manager",
+      "url": "",
+      "startDate": "2003-01-01",
+      "endDate": "2009-01-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Quality Assurance Manager",
+      "url": "",
+      "startDate": "1989-01-01",
+      "endDate": "2002-01-01",
+      "summary": "Served as a QA/QC management professional that made significant contributions within the companies' quality management, project management, process improvement, business analysis/evaluation, development life cycle methodologies, and supplier management systems.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Pensacola Junior College",
+      "url": "",
+      "area": "Mechanical Engineering",
+      "studyType": "Associate",
+      "startDate": "",
+      "endDate": "1982",
+      "score": "",
+      "courses": ["Advanced coursework in Industrial Engineering", "Coursework in Environmental Law and Hazardous Waste Treatment"]
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Construction Management",
+      "level": "Expert",
+      "keywords": [
+        "Financial Planning", 
+        "Budgeting", 
+        "P & L Administration", 
+        "Accounting Reporting", 
+        "Business Service Contract Negotiation", 
+        "Leadership Development", 
+        "Troubleshooting",
+        "Regulatory Compliance"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

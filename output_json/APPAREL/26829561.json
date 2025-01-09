@@ -1,0 +1,147 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Inventory Analyst/Materials Planner",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Industrial Engineer with wide experience in manufacturing, quality, material planning and inventory control. Reach revenue goals through hard work and process improvement. Expert in MRP II, proficient in MS office and Exact Macola. Bilingual English/Spanish.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": [
+      
+    ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Inventory Analyst\\Materials Planner",
+      "url": "",
+      "startDate": "2008-06-01",
+      "endDate": "2013-08-01",
+      "summary": "Analyzed MRP output and exceptions. Worked with Procurement to expedite and prevent shortages, revised and corrected safety stock levels, audited inventory transactions and posted corrections.",
+      "highlights": [
+        "Achieved 99% inventory accuracy",
+        "Eliminated production disruption"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Operations Manager",
+      "url": "",
+      "startDate": "2005-11-01",
+      "endDate": "2008-05-01",
+      "summary": "Scheduled Job installation, placed and kept track of purchase orders and productions orders. Kept track of budget vs expenses. Prepared executive reports.",
+      "highlights": [
+        "Improved customer service",
+        "Improved cost control and project management"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Project Manager / Senior Consultant",
+      "url": "",
+      "startDate": "1998-02-01",
+      "endDate": "2005-03-01",
+      "summary": "Successfully managed numerous software implementations of Exact Macola (ERP), MP2 (maintenance), Goldmine (CRM). As senior consultant trained customers and automatized operations for medium and large companies.",
+      "highlights": [
+        "Reduced implementation time to 50%"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Warehouse Manager / Production Manager",
+      "url": "",
+      "startDate": "1994-03-01",
+      "endDate": "1998-02-01",
+      "summary": "Managed logistics and operations in the Distribution Center. Setup and launched production lines until fully operative.",
+      "highlights": [
+        "Implemented the Quality Control System",
+        "Reached desired efficiency in short time"
+      ]
+    }
+  ],
+  "volunteer": [
+    
+  ],
+  "education": [
+    {
+      "institution": "Pontificia Universidad Catolica Madre y Maestra",
+      "url": "",
+      "area": "Industrial Engineering",
+      "studyType": "Bachelor",
+      "startDate": "1993-01-01",
+      "endDate": "",
+      "score": "",
+      "courses": [
+        
+      ]
+    }
+  ],
+  "awards": [
+    
+  ],
+  "certificates": [
+    {
+      "name": "APICS Courses",
+      "date": "",
+      "issuer": "APICS",
+      "url": ""
+    }
+  ],
+  "publications": [
+    
+  ],
+  "skills": [
+    {
+      "name": "Crystal Reports",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "MS Office",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Project Management / MS Project",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Quickbooks - Contractor Edition",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "CRM - Goldmine",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": ""
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Bilingual"
+    }
+  ],
+  "interests": [
+    
+  ],
+  "references": [
+    
+  ],
+  "projects": [
+    
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Administration Office Assistant",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Enthusiastic student-teacher with superb leadership and communication skills. Easily cultivates trusting and productive relationships with students, parents, teachers administration, and others. Effective at providing quality instruction and fostering a positive working environment with excellent interpersonal and organization skills.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Administration Office Assistant",
+      "url": "",
+      "startDate": "2010-06-01",
+      "endDate": "2010-08-01",
+      "summary": "Worked with the Director of the Cultural Affairs department in filing papers, answering phone calls, assisting on historic preservation projects, working with clients, and educating young students about the importance of preserving the island's culture and language.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Administration Office Assistant and Public Safety Trainee",
+      "url": "",
+      "startDate": "2011-07-01",
+      "endDate": "2011-08-01",
+      "summary": "Assisted on paper works with public safety, arranged meetings, answered phone calls, filed paper works, assisted on traffic, worked with police officers on radar speed detection on highways, patrolled around the island for any vehicles not conforming to the law, had CPR training, worked with fire department on fire safety rules.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Nutrition and Agriculture Internship Trainee",
+      "url": "",
+      "startDate": "2012-07-01",
+      "endDate": "2012-08-01",
+      "summary": "Trained under the nutritional program with food safety and healthy diet, assisted on presentations for children about nutrition, made healthy ice cream and beef jerky to distribute to the community, taught the community about different types of healthy cooking methods, went around the island to visit farmers who are having problems with crops, educating farmers as to how to maintain their soil, studying the different diseases of plants and ways to identify symptoms, presented the importance of agriculture to the community.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "COOP Program Trainee",
+      "url": "",
+      "startDate": "2013-02-01",
+      "endDate": "2013-09-01",
+      "summary": "Assisted in tutoring students who are below average, worked with teachers on projects and plans to help improve both math and English departments, made assignments to help students practice their skills, made educational games, worked with SPED students, assisted on parent/teacher meetings, and joined hand in hand with teachers and staff to evaluate the progress of students throughout the school year.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Student Activities Office Assistant",
+      "url": "",
+      "startDate": "2013-08-01",
+      "endDate": "2014-12-01",
+      "summary": "Helped organized activities in the University's Campus. Worked with other Universities to create combined events. Assisted clubs and organizations for sponsored activities volunteering opportunities",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Rota High School",
+      "url": "",
+      "area": "",
+      "studyType": "High School Diploma",
+      "startDate": "",
+      "endDate": "2013",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "University of Portland",
+      "url": "",
+      "area": "Elementary Education",
+      "studyType": "Bachelor of Arts",
+      "startDate": "",
+      "endDate": "2017",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Communication Skills",
+      "level": "Expert",
+      "keywords": []
+    },
+    {
+      "name": "Interpersonal Skills",
+      "level": "Expert",
+      "keywords": []
+    },
+    {
+      "name": "Management Skills",
+      "level": "Expert",
+      "keywords": []
+    },
+    {
+      "name": "Organizational Skills",
+      "level": "Expert",
+      "keywords": []
+    },
+    {
+      "name": "Computer Skills",
+      "level": "Mastery",
+      "keywords": ["Microsoft Office Programs", "Excel", "Word", "PowerPoint", "Outlook"]
+    },
+    {
+      "name": "Attention to Detail",
+      "level": "Expert",
+      "keywords": []
+    },
+    {
+      "name": "Flexibility",
+      "level": "Expert",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

@@ -1,0 +1,94 @@
+{
+  "basics": {
+    "name": "",
+    "label": "IT Manager",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Experienced IT Manager with a focus on system availability, infrastructure upgrades, and problem resolution. Skilled in multiple systems such as Windows Server, Cisco, and Linux, while also managing corporate networks and databases.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "IT Manager",
+      "url": "",
+      "startDate": "2013-12-01",
+      "endDate": "Current",
+      "summary": "Stabilize and manage infrastructure and applications for corporate and remote facilities. Work with various departments to determine technology needs. Perform regular security audits of internal infrastructure and applications.",
+      "highlights": [
+        "Managed corporate website and necessary edits",
+        "Implemented Voice Over Internet Protocol Phone System for entire organization"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Senior Technical Analyst",
+      "url": "",
+      "startDate": "2010-10-01",
+      "endDate": "2013-12-01",
+      "summary": "Managed a team of help desk technicians to ensure excellent customer satisfaction and prompt issue resolution for over 30 clients",
+      "highlights": [
+        "Maintained consistent communications with client point of contact",
+        "Formulated monthly help desk budget and managed accordingly"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Maryland University College",
+      "url": "",
+      "area": "CyberSecurity",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "2015-05-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Middle Tennessee State University",
+      "url": "",
+      "area": "Computer Information Systems",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "1993-08-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Technical Skills",
+      "level": "",
+      "keywords": [
+        "Antivirus",
+        "Backup Exec",
+        "Backup",
+        "budget",
+        "Cisco Router",
+        "Cisco",
+        "Citrix",
+        "hardware",
+        "contracts",
+        "client",
+        "clients",
+        "customer satisfaction"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

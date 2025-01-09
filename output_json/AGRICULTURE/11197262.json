@@ -1,0 +1,103 @@
+{
+  "basics": {
+    "name": "Anonymous",
+    "label": "Plant Protection and Quarantine Technician",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Environmental Biologist and experienced researcher with expertise in data collection and study. Analytical and detail-oriented.",
+    "location": {
+        "address": "",
+        "postalCode": "",
+        "city": "",
+        "countryCode": "",
+        "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Plant Protection and Quarantine Technician",
+      "url": "",
+      "startDate": "2011-05-01",
+      "endDate": "2011-08-01",
+      "summary": "Regional specialist independently conducting Asian Long-Horned Beetle and Emerald Ash Borer ground based visual surveys in eight northeastern Pennsylvania counties.",
+      "highlights": [
+        "Implemented PPQ standards which safeguards agriculture and natural resources from risks associated with plant pests to ensure an abundant, high-quality forest canopy.",
+        "Employed industry standards effectively collecting forest and insect field data and reporting results in a timely manner."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Flammulated Owl Research Lab Technician",
+      "url": "",
+      "startDate": "1998-09-01",
+      "endDate": "1999-01-01",
+      "summary": "Laboratory analysis and documentation of Flammulated Owl prey delivery video, operating video editing equipment. Field data analysis of nest site foraging habits to determine regional insectivorous dietary selection, consumption, prey density and diversity.",
+      "highlights": [
+        "Organized insect collections with stereomicroscope, and invertebrate field guide.",
+        "Analysis of insect energy content, utilizing caloric centrifuge, to determine caloric requirements of individual nests."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Rutgers, The State University of New Jersey",
+      "url": "",
+      "area": "Wetland Delineation and Identification",
+      "studyType": "Certificate",
+      "startDate": "2012-01-01",
+      "endDate": "2012-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Keystone College",
+      "url": "",
+      "area": "Environmental Biology",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "2011-12-31",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Bench Chemistry",
+      "level": "Proficient",
+      "keywords": [
+        "Standard operating procedures"
+      ]
+    },
+    {
+      "name": "Data Analysis",
+      "level": "Advanced",
+      "keywords": [
+        "Wet and dry chemistry", "Qualitative and quantitative chemical measurements"
+      ]
+    },
+    {
+      "name": "Technical and Mechanical ability",
+      "level": "Keen",
+      "keywords": []
+    },
+    {
+      "name": "Teamwork",
+      "level": "Strong",
+      "keywords": [
+        "Work collaboratively", "Work independently", "Under a variety of challenging conditions"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

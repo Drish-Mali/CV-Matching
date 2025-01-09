@@ -1,0 +1,108 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Executive Chef",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Over 29 years experience in front and back of house.  Seeking a Management position. Expert in managing kitchen staff and preparing foods at reduced cost without compromising quality and taste. Executive Chef with 4 years of experience in high-pressure culinary environments. Skilled in preparing large volumes of food quickly and efficiently.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company",
+      "position": "Executive Chef",
+      "url": "",
+      "startDate": "2010-08-01",
+      "endDate": "2014-08-01",
+      "summary": "Innovative menu development and planning. Food and labor cost control. Food presentation and preparation. Managed special events. Purchasing and inventory management. One on one customer relations with clientele. Purchase or requisition supplies and equipment needed to ensure quality and timely delivery of services. Training and developing employees.",
+      "highlights": []
+    },
+    {
+      "name": "Company",
+      "position": "Kitchen Manager",
+      "url": "",
+      "startDate": "2009-08-01",
+      "endDate": "2010-07-01",
+      "summary": "Recommended measures for improving work procedures and workers performance. Created work schedules and organized employee time sheets. Assign duties, responsibilities, and work stations to employees in accordance to with work requirements. Performed various financial activities such as cash handling, deposits and payroll. Observe and evaluate workers and work procedures to insure quality and standards. Complete disciplinary write-ups and performance reports.",
+      "highlights": []
+    },
+    {
+      "name": "Company",
+      "position": "Sous Chef",
+      "url": "",
+      "startDate": "2007-08-01",
+      "endDate": "2009-09-01",
+      "summary": "Help train, develop and grow kitchen staff. Planning, preparing and direction food operations in kitchen and outgoing catering orders. Making sure all kitchen staff works to the highest culinary standards. Checking quality and quantity of food received from suppliers. Giving both positive and negative feedback to staff on a daily basis. Making sure that all in house kitchen and catering policies were implemented. Training and developing employees.",
+      "highlights": []
+    },
+    {
+      "name": "Company",
+      "position": "Lead Expeditor/Customer Service Rep",
+      "url": "",
+      "startDate": "2005-04-01",
+      "endDate": "2008-08-01",
+      "summary": "Delivering catering orders to surrounding airports. Customer service. Data entry using Quick books. Packaging and labeling orders for outgoing deliveries. Shopping for special requests throughout San Diego Area for an elite clientele. Training and developing Employees.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Penn Foster",
+      "url": "",
+      "area": "Restaurant/Hotel Management",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "2017",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "",
+      "url": "",
+      "area": "Management Serve Safe Certified",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "2015",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Cooking",
+      "level": "Expert",
+      "keywords": [
+        "Kitchen, Bar, & Dining Room Operations",
+        "Strategic Kitchen Planning",
+        "Integrated Inventory Control",
+        "Budget Management Culinary",
+        "Promotions & Up-selling",
+        "Staff Training and Development",
+        "Budgeting / Profit & Loss",
+        "Menu Management",
+        "Management Safety & Sanitation Compliance",
+        "Team Building and Leadership",
+        "Innovative Menu Planning",
+        "Outstanding Guest Relations",
+        "Vendor Management & Negotiation"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

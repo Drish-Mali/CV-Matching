@@ -1,0 +1,98 @@
+{
+  "basics": {
+    "name": "Engineering Technician V",
+    "email": "",
+    "phone": "",
+    "summary": "I have over 29 years of progressive experience in the electrical, communications, electronics, and telecommunications fields. I have extensive experience in USCG shipboard communications upgrades or installations. I also have over 10 years' experience supporting DGPS installations.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Virginia Beach",
+      "countryCode": "US",
+      "region": "VA"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Engineering Technician V",
+      "startDate": "04/2014",
+      "endDate": "07/2015",
+      "summary": "Oversaw major shipboard communications upgrades and was responsible for the planning and performing field implementation. I also provided technical leadership in the Topside Maintenance and Dockside Repair program.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Maintenance Technician",
+      "startDate": "08/1995",
+      "endDate": "04/1996",
+      "summary": "Installed electrical systems for various equipment and conveyors and supervised the maintenance department second shift.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Installation Technician",
+      "startDate": "09/1991",
+      "endDate": "08/1995",
+      "summary": "Installed electrical systems at shore and ship sites. Installed and maintained heating, ventilating, air conditioning, and chilled water systems.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Electrical/Mechanical Foreman",
+      "startDate": "01/1985",
+      "endDate": "01/1991",
+      "summary": "Installed various commercial/industrial electrical systems including uninterruptible power supplies, motor generators and switching systems.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Electrical Apprentice",
+      "startDate": "01/1983",
+      "endDate": "01/1985",
+      "summary": "Supported commercial, industrial, and residential electrical installations, and performed basic troubleshooting.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Norview High School",
+      "area": "Electrical Apprenticeship",
+      "studyType": "Diploma",
+      "startDate": "1988",
+      "endDate": "1988"
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Electrical Systems",
+      "level": "Master"
+    },
+    {
+      "name": "Communications",
+      "level": "Master"
+    },
+    {
+      "name": "Electronics",
+      "level": "Master"
+    },
+    {
+      "name": "Telecommunications",
+      "level": "Master"
+    },
+    {
+      "name": "GPS Installations",
+      "level": "Master"
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "certificates": [],
+  "awards": []
+}

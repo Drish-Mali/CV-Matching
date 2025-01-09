@@ -1,0 +1,92 @@
+{
+  "basics": {
+    "name": "Gradation Candidate Advocate",
+    "label": "Manager",
+    "email": "",
+    "phone": "",
+    "summary": "High-energy Manager successful in building and motivating dynamic teams. Cultivates a company culture in which staff members feel comfortable voicing questions and concerns, as well as contributing new ideas that drive company growth. Versatile child advocate professional with over 5 years experience working in a student-focused learning environment helping students improve their literacy.",
+    "location": {
+      "address": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Gradation Candidate Advocate",
+      "startDate": "Mar 2016",
+      "endDate": "Current",
+      "summary": "Served as mentor to junior team members. Routinely met with students' parents regarding in-class issues and learning interruptions to discuss solutions. Developed and implemented interesting and interactive learning mediums to increase student understanding of course materials. Employed activities and techniques to encourage student learning and build community within the classroom. Interviewed clients individually and with families to determine what services would best address their needs. Retrieved requested files and delivered to appropriate personnel."
+    },
+    {
+      "name": "Company Name",
+      "position": "Scout Master",
+      "startDate": "Jan 2012",
+      "endDate": "Current",
+      "summary": "Tutor and Supervise Children ages 5-14. Planning and Orchestrating various trips and activities. Mentoring / Coaching."
+    },
+    {
+      "name": "Company Name",
+      "position": "Department Supervisor",
+      "startDate": "Jan 2011",
+      "endDate": "Mar 2016",
+      "summary": "Maintain outstanding customer service as per Company standards, generating sales, merchandising and safeguarding company assets. Provide exceptional service by providing a friendly environment, and handling cash transactions. Use selling techniques to enhance salesmanship and reach store and position sales goals. Assist in floor moves and display maintenance. Contribute to efforts to maximize proceeds, minimize loss and improve customer satisfaction."
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of South Carolina",
+      "area": "Physical Education",
+      "studyType": "Bachelors of Science",
+      "startDate": "",
+      "endDate": "2010",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Management",
+      "level": "",
+      "keywords": [
+        "Operations management",
+        "Staff development",
+        "Inventory control",
+        "Supervision and training",
+        "Sound judgment",
+        "Computer-savvy"
+      ]
+    },
+    {
+      "name": "Sales",
+      "level": "",
+      "keywords": [
+        "Handle cash",
+        "Coaching",
+        "credit",
+        "customer satisfaction",
+        "customer service",
+        "delivery",
+        "inventory",
+        "Mentoring",
+        "merchandising",
+        "networking",
+        "organizing",
+        "quality",
+        "selling",
+        "sales",
+        "shipping"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "interests": [],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "languages": [],
+  "references": [],
+  "projects": []
+}

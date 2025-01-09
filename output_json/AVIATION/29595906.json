@@ -1,0 +1,149 @@
+{
+  "basics": {
+    "name": "Nolan",
+    "label": "Laborer",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Looking for an entry level job with challenges. Nolan has excellent communications skills, works well with others, while skillfully making independent decisions. Looking for a long term job to better myself.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Aircraft mechanics, aircraft clean up, and restoration",
+      "position": "Company Name",
+      "url": "",
+      "startDate": "08/2016",
+      "endDate": "12/2016",
+      "summary": "Aided in Aircraft mechanics, aircraft clean up, and restoration.",
+      "highlights": []
+    },
+    {
+      "name": "Laborer",
+      "position": "Company Name",
+      "url": "",
+      "startDate": "02/2016",
+      "endDate": "05/2016",
+      "summary": "Categorized livestock to be sold at auction. Worked with live animals in livestock pens and with auctioneers. In charge of loading and unloading livestock.",
+      "highlights": []
+    },
+    {
+      "name": "Laborer",
+      "position": "Company Name",
+      "url": "",
+      "startDate": "06/2014",
+      "endDate": "08/2014",
+      "summary": "Part time summer worker in charge of general labor and maintenance of parts and inventory.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "New River Community College",
+      "url": "",
+      "area": "HVAC",
+      "studyType": "",
+      "startDate": "2015",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Rural Retreat High School",
+      "url": "",
+      "area": "Advance Diploma",
+      "studyType": "",
+      "startDate": "2015",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Captain of high school Football and Baseball",
+      "date": "2014-2015",
+      "awarder": "",
+      "summary": ""
+    },
+    {
+      "title": "Voted Most Athletic by classmates",
+      "date": "2015",
+      "awarder": "",
+      "summary": ""
+    },
+    {
+      "title": "First Team All Region Football",
+      "date": "2014",
+      "awarder": "",
+      "summary": ""
+    },
+    {
+      "title": "Second Team All Conference Football",
+      "date": "2014",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "certificates": [
+    {
+      "name": "CDL Class A Learners",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "Pesticide Applicator Certificate ",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "Boating Safety Course Certificate",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "Hunter Safety Course Certificate",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Dependable",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Fast Learner",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Trustworthy",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Hard working",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

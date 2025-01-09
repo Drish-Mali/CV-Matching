@@ -1,0 +1,100 @@
+{
+  "basics": {
+    "name": "Not mentioned",
+    "label": "Software Support Specialist",
+    "image": "",
+    "email": "Not mentioned",
+    "phone": "Not mentioned",
+    "url": "Not mentioned",
+    "summary": "Dedicated Customer Service Representative motivated to maintain customer satisfaction and contribute to company success.",
+    "location": {
+      "address": "Not Mentioned",
+      "postalCode": "Not Mentioned",
+      "city": "City",
+      "countryCode": "Not Mentioned",
+      "region": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Software Support Specialist",
+      "url": "Not Mentioned",
+      "startDate": "Not Mentioned",
+      "endDate": "Not Mentioned",
+      "summary": "Evaluated system potential by testing compatibility of new programs with existing programs. Maximized use of software by training users; interpreting instructions; answering questions. Maintained system capability by testing computer components. Assisted customer with installation of software and hardware.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Financial Foundations Associate",
+      "url": "Not Mentioned",
+      "startDate": "Not Mentioned",
+      "endDate": "Not Mentioned",
+      "summary": "Acquired and applied developing knowledge of products, services, and processes. Recognized life events, understood member's needs and provided advice in order to deliver appropriate solutions to the member. Handled basic billing inquiries focusing on \"One & Done\" philosophy. Specific product knowledge includes Auto, Home, Renters, and Valuable Personal Property.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Admission Representative",
+      "url": "Not Mentioned",
+      "startDate": "Not Mentioned",
+      "endDate": "Not Mentioned",
+      "summary": "Executed high volume of outbound phone calls. Completed interview process with each prospective. Followed-up regularly with student until start of classes.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Branch Manager",
+      "url": "Not Mentioned",
+      "startDate": "Not Mentioned",
+      "endDate": "Not Mentioned",
+      "summary": "Trained administrative personnel and managers in loss prevention. Took measures for building precaution like alarm management and camera. Provided necessary training to loss prevention personnel. Completed weekly payroll using ADP payroll services. Accomplished recruiting and staffing as required by client. Took measures for equipment cost reduction and control audits.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Security Police Superintendent",
+      "url": "Not Mentioned",
+      "startDate": "Not Mentioned",
+      "endDate": "Not Mentioned",
+      "summary": "Supervised the Security Forces at Cheyenne Mountain AFS (NORAD). Supervised and trained all Information/Industrial Security Inspector for NORAD. Responsible for monitoring all emergency response exercise at NORAD. Ensured the safety of all base weapons, property and personnel from hostile forces. Directed vehicle and pedestrian traffic on base. Leads and organized Security Police operations. Enforced standards of conduct, discipline, and adherence to laws and directives.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Regis University",
+      "url": "Not Mentioned",
+      "area": "Business Administration",
+      "studyType": "Bachelor of Science",
+      "startDate": "Not Mentioned",
+      "endDate": "2015",
+      "score": "Not Mentioned",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Software Support",
+      "level": "Not Mentioned",
+      "keywords": [
+        "Strong organizational skills",
+        "Telecommunication skills",
+        "Energetic work attitude",
+        "Active listening skills",
+        "Customer service expert",
+        "Sharp problem solver"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

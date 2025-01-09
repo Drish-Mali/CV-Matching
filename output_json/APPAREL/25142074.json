@@ -1,0 +1,122 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Administrative Assistant",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Stylist informed by background in art history and design. Dedicated to clear and fruitful communication through delivery of unmatched customer experiences. My interdisciplinary studies in art have taught me to approach my work with a contextualized perspective and ingenuity.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "Instagram",
+        "username": "",
+        "url": ""
+      },
+      {
+        "network": "Twitter",
+        "username": "",
+        "url": ""
+      },
+      {
+        "network": "Facebook",
+        "username": "",
+        "url": ""
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Administrative Assistant",
+      "url": "",
+      "startDate": "2020-04-01",
+      "endDate": "2021-02-01",
+      "summary": "Remotely managed customer service, client scheduling, inventory and monthly profit of product sales."
+    },
+    {
+      "name": "Company Name",
+      "position": "Personal Assistant to Lead Stylist",
+      "url": "",
+      "startDate": "2018-10-01",
+      "endDate": "2020-03-01",
+      "summary": "Personal Assistant to a 2 million dollar book, which we grew to 3 million within a year. Personally managed the stylists business; coordinating client appointments, carrying out pre-appointment pulls, executing special orders, managing internal/external communications, and overseeing issue resolution."
+    }
+  ],
+  "education": [
+    {
+      "institution": "School of The Museum of Fine Arts - Boston",
+      "url": "",
+      "area": "Fine Arts",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "2017-01-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Brookline High School",
+      "url": "",
+      "area": "",
+      "studyType": "High School Diploma",
+      "startDate": "",
+      "endDate": "2010-01-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "The Graphic Arts Annual Show Best Illustration, Honorable Mention",
+      "date": "2017-01-01",
+      "awarder": "School of the Museum of Fine Arts",
+      "summary": "Check Check, Jumpsuit and Newsprint Page Print."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "200 Hour Yoga Teacher Certification",
+      "date": "2016-01-01",
+      "issuer": "Kripalu Center for Yoga and Health, Stockbridge, MA",
+      "url": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Graphic design, composition & illustration",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Painting, drawing, sculpture & weaving",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Writing & Proficient Typist",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Yoga & meditation, Certified Yoga Teacher",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Office Suite and social media platforms",
+      "level": "",
+      "keywords": ["Instagram", "Twitter", "Facebook"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

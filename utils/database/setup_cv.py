@@ -1,7 +1,7 @@
 import pandas as pd
 import psycopg2
 from sentence_transformers import SentenceTransformer
-
+import os
 # Initialize the model
 model = SentenceTransformer('all-MiniLM-L6-v2')
 
@@ -47,11 +47,11 @@ def insert_job_data_from_df(cv_df, db_config):
 
 # Database configuration
 db_config = {
-    "dbname": "vector_db",
-    "user": "postgres",
-    "password": "pass123",
-    "host": "localhost",
-    "port": "5432"
+    "dbname": os.getenv("DBNAME"),
+    "user": os.getenv("USER"),
+    "password": os.getenv("PASSWORD"),
+    "host": os.getenv("HOST"),
+    "port": os.getenv("PORT")
 }
 
 if __name__=="__main__":

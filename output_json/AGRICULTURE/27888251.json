@@ -1,0 +1,96 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Water Resources Specialist II",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Well organized Water Resources Specialist II offering four and a half years of experience in permit writing, land use planning, and development review. Serves as Natural Resources Department lead to assist Lummi Planning and Public Works in obtaining and complying with federal permits for all large development projects on the Lummi Indian Reservation.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Water Resources Specialist II",
+      "url": "",
+      "startDate": "2012-01-01",
+      "endDate": "Current",
+      "summary": "Review, conduct site visits, consult, develop permit conditions, and maintain records for all Land Use Applications received by the Lummi Planning and Public Works Department.",
+      "highlights": [
+        "Skilled in project management, record keeping,", "Use of Microsoft Access for permit tracking and documentation"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Water Resources Technician III",
+      "url": "",
+      "startDate": "2007-02-01",
+      "endDate": "2012-01-01",
+      "summary": "Coordinated and implemented the surface, marine and groundwater quality monitoring program for the Reservation.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "North Puget Sound Gypsy Moth Supervisor",
+      "url": "",
+      "startDate": "2005-05-01",
+      "endDate": "2006-11-01",
+      "summary": "Advertised, recruited, hired, trained and supervised six technicians as trappers for the Washington State Gypsy Moth Program.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Architectural Control Assistant",
+      "url": "",
+      "startDate": "2006-03-01",
+      "endDate": "2006-06-01",
+      "summary": "Performed building plan submittal, review, and record keeping. Served community members with questions on permit applications.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Western Washington University",
+      "url": "",
+      "area": "Environmental Science and Geology",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "2004",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Whatcom Community College",
+      "url": "",
+      "area": "Freshwater Ecology",
+      "studyType": "Associate of Science",
+      "startDate": "",
+      "endDate": "2002",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "",
+      "level": "",
+      "keywords": ["A tenacious, courteous, diplomatic, and professional self motivated individual who requires minimal supervision."]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

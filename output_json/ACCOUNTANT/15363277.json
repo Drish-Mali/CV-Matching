@@ -1,0 +1,107 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Accountant",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Senior-Level IT Finance Management Professional with 20 years of expertise in accounting, financial management, financial analysis, and controllership of IT operating & capital budgets within high-profile corporations.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "",
+      "position": "Accountant",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "",
+      "position": "Senior Accountant",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "",
+      "position": "Manager / New York State Licensed Real Estate Salesperson",
+      "url": "",
+      "startDate": "2012-01-01",
+      "endDate": "Current",
+      "summary": "Facilitation of marketing and generating client leads. Manage exclusive property listings secured throughout Northern Brooklyn, NY. Successful in closing more than 80 real estate deals in a period of two years.",
+      "highlights": ["Broker application approval pending with New York Department of State"]
+    },
+    {
+      "name": "",
+      "position": "Finance Manager",
+      "url": "",
+      "startDate": "2000-01-01",
+      "endDate": "2012-01-01",
+      "summary": "Developed and presented the annual budget to the Executive Committee. Supervised over 20 IT leaders. Prepared 5-year long-range plan with IT leadership. Financial architect responsible for evaluating the options to outsource several areas of the IT department.",
+      "highlights": ["Reduced staff from 110 to 46 associates resulting in a projected savings of $12M over a five-year period."]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Phoenix",
+      "url": "",
+      "area": "Business Administration",
+      "studyType": "Masters",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Hampton University",
+      "url": "",
+      "area": "Finance",
+      "studyType": "Bachelor of Science Degree",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Brand Ambassador Award",
+      "date": "",
+      "awarder": "",
+      "summary": "Received the Brand Ambassador Award in two consecutive years for outstanding performance in real estate"
+    },
+    {
+      "title": "MPV Award",
+      "date": "",
+      "awarder": "",
+      "summary": "Received the MPV Award for leadership."
+    }
+  ],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "SAP Financials, Oracle Financials, PeopleSoft, Cognos Budgeting System, Microsoft Office, Advanced Excel",
+      "level": "",
+      "keywords": ["accounting", "financial management", "financial analysis", "budgeting"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

@@ -1,0 +1,163 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Finance Manager",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Eclectic individual with 10+ years operations, finance and account management experience in small agency / start-up environments. Possess strong knowledge of and interest in digital marketing, broadcast media and communications.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "",
+      "region": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Finance Manager",
+      "url": "",
+      "startDate": "2015-03-01",
+      "endDate": "Current",
+      "summary": "Responsible for all AP/AR functions, monthly bank reconciliations, and financial reporting including cash management and forecasting. Manage company payroll and administer employee benefits. Collaborate with Project Managers on budgets/actuals for project-level metrics. Responsible for year-end reporting in collaboration with CPA."
+    },
+    {
+      "name": "Company Name",
+      "position": "Project Manager",
+      "url": "",
+      "startDate": "2014-06-01",
+      "endDate": "2014-12-01",
+      "summary": "Developed project proposals, estimates and timelines for a full suite of branding, marketing, messaging, and design services for both print and web. Performed press-checks and reviewed proofs to ensure quality color reproduction. Reviewed all work for typographical, grammar, spelling, and layout errors. Sought competitive bids for print and negotiated rates with vendors. Identified, developed and evaluated marketing strategies based on knowledge of client objectives and market trends. Collaborated with marketing and communications teams on standardization, design and production of marketing materials. Analyzed performance of all marketing programs to identify the best opportunities for optimization. Promoted brand awareness through SEO/SEM campaigns and attractive web design."
+    },
+    {
+      "name": "Company Name",
+      "position": "Bookkeeper",
+      "url": "",
+      "startDate": "2014-04-01",
+      "endDate": "2014-06-01",
+      "summary": "Processed bank reconciliations and financial reports to verify practice of proper due diligence. Maintained accounts receivable documentation electronically and on paper. Researched and resolved collections and billing disputes."
+    },
+    {
+      "name": "Company Name",
+      "position": "Operations Manager",
+      "url": "",
+      "startDate": "2011-11-01",
+      "endDate": "2014-04-01",
+      "summary": "Reconciled 11 corporate bank accounts retroactively to establish Quickbooks as a reliable and accurate representation of financial position. Streamlined and executed all Human Resources processes including benefits implementation and administration, recruiting, payroll. Coordinated and collaborated with advertising operations team on weekly email marketing communications; updated website regularly to feature new deals and discounts as per vendor advertising contracts. Coordinated all social, professional, and team-building events."
+    },
+    {
+        "name": "Company Name",
+        "position": "Service Administrator",
+        "url": "",
+        "startDate": "2008-01-01",
+        "endDate": "2011-06-01",
+        "summary": "Served as liaison between clients and in-house service technicians regarding repairs, orders, and technical inquiries. Offered production support to clients to ensure camera packages were complete and ready for shoots. Staged and photographed high-end camera packages for sale on company website."
+    },
+    {
+        "name": "Company Name",
+        "position": "Office Manager",
+        "url": "",
+        "startDate": "2006-10-01",
+        "endDate": "2007-12-01",
+        "summary": "Provided customer service and managed daily office operations of this design company focused on custom graphics- based fashion and home accessories. Developed long-term relationships with vendors and clients to help grow the overall business. Processed orders for multiple sales outlets including retail website, wholesale showrooms, department stores and boutiques. Maintained product inventory and supply management."
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Washington Improv Theater",
+      "url": "",
+      "area": "Long-Form Improv",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "",
+      "courses": []
+    },
+    {
+        "institution": "Columbia College Chicago",
+        "url": "",
+        "area": "Audio Arts & Acoustics",
+        "studyType": "Bachelor of Arts",
+        "startDate": "2002",
+        "endDate": "",
+        "courses": []
+    },
+    {
+        "institution": "University of Illinois",
+        "url": "",
+        "area": "Human Development & Family Studies",
+        "studyType": "General Studies",
+        "startDate": "1999",
+        "endDate": "",
+        "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Quickbooks",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Workamajig",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "MS Office Suite",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "InDesign",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Photoshop",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Google Analytics",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "GoogleDocs",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SEO/SEM",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Social Media",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Digital and Film photography",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Both Mac and PC environments",
+      "level": "Proficient",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

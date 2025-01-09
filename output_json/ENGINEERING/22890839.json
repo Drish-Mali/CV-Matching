@@ -1,0 +1,85 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Corporate Engineering Support Technician",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Accomplished in Technical Support with 4 years of experience troubleshooting and maintaining user applications, workstations, and accounts across multiple platforms (OS X, Linux, Windows, Android, iOS). Updated and written user-facing and IT-facing technical. Provides outstanding customer service and a strong ability to communicate technical concepts in a non-technical manner. Known for patience in dealing with frustrated users.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Corporate Engineering Support Technician",
+      "url": "",
+      "startDate": "2015-01-01",
+      "endDate": "Current",
+      "summary": "Remote Support more than 120,000 employments. Supported A wide variety of platforms including Windows, OS X, Linux (Ubuntu 14.04 LTS), ChromeOS. Installed/uninstalled, configured, and troubleshot end user software (i.e. SolidWorks, CAD, MSI, exe installers, dpkg binaries, and dmg binaries) and system management software (SCCM and Puppet). Managed user account access with Active Directory and Google Groups based on Google's security policies. Change, reset or lock user accounts.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Help Desk Support Analyst II",
+      "url": "",
+      "startDate": "2012-06-06",
+      "endDate": "2014-08-08",
+      "summary": "Provided Remote call center support for 600 New York Life Insurance agents. Advised agents on the recommended specifications for now computer equipment based on each agent's needs. Installed New York Life software along with WinMagic SecureDoc for Windows encryption. Reset agent port passwords and access to OWA. Installed and troubleshot end user software (Microsoft Office 2003-2008 including Outlook). Implemented Security with Windows Firewall, Antivirus software, and browser hardening.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Operating Systems",
+      "level": "",
+      "keywords": [
+        "Windows 7-10", "Ubuntu 14.04", "OS X 10.8-10.11", "ChromeOS", "iOS9", "Android"
+      ]
+    },
+    {
+      "name": "Applications",
+      "level": "",
+      "keywords": [
+        "MS Office 2010-2016", "Google Apps", "Internet Explorer", "Firefox", "Chrome", "Safari", "Edge", "OpenVPN", "Wireshark", "Sublime Text", "MSRA", "Microsoft RDP", "OpenSSH", "Puppet", "SCCM 2012 iOS-MDM"
+      ]
+    },
+    {
+      "name": "Networking",
+      "level": "",
+      "keywords": [
+        "TCP/IP", "DNS", "DHCP", "LAN/WAN", "VPN/Remote Connectivity - OpenVPN", "Cisco iOS", "Microsoft Virtual PC/Hyper-V", "TeamViewer", "Terminal Services", "Netgear", "Linksys", "Firewall", "Ports", "Routing & Switching (OSPF / BGP / VLAN / STP)"
+      ]
+    },
+    {
+      "name": "Hardware",
+      "level": "",
+      "keywords": [
+        "Dell", "HP", "IBM/Lenovo", "Apple", "Microsoft", "desktop", "laptops", "Android Smartphones tables", "iPhones and iPads", "Printers", "Routers", "Switches", "Modems", "Wireless Routers", "Video Conferencing equipment (TV, Projectors, Microphones, Speakers)"
+      ]
+    },
+    {
+      "name": "Security",
+      "level": "",
+      "keywords": [
+        "IPSEC", "SSL-VPN", "NAT", "GRE", "Authentication Protocols (Radius / TACACS)"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

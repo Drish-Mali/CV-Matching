@@ -1,0 +1,94 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Finance Consultant",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Strategic and analytical finance professional with 10+ years of success in reporting and analytics, financial planning & analysis, project management, technology, payments, vendor management, and treasury.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "",
+      "region": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Finance Consultant",
+      "url": "",
+      "startDate": "2016-02",
+      "endDate": "",
+      "summary": "Prepares monthly payment reporting and analytics dashboard for senior management. Ad hoc reporting from data warehouses utilizing Teradata SQL and Oracle Business Intelligence Enterprise. Supports M&A/divestitures and new product launches. Provides analysis to assist negotiations with credit card companies and payment processors.",
+      "highlights": [
+        "Data analysis and tracking leveraging Access databases and Excel pivot tables, charts and VBA/macros."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Senior Financial Analyst",
+      "url": "",
+      "startDate": "2009-04",
+      "endDate": "2016-02",
+      "summary": "Finance liaison for indirect sales channel. Provided insightful recommendations for a broad range of decision-making requirements. Participated in the development of business cases for projects. Developed and implemented B2B payment acceptance strategy, including optimization of commercial credit cards. Generated annual credit card interchange savings of $3.9M+ through various programs. System administrator and project manager for ReconNET reconciliation & journalization system. Was responsible for keeping system support costs and new development expenses in line with budget.",
+      "highlights": [
+        "Developed credit review processes in preparation of iPhone launches.",
+        "Temporary assignment as Finance Manager to oversee launch of Softcard mobile wallet payment processing in trial markets."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Treasury Assistant",
+      "url": "",
+      "startDate": "2005-05",
+      "endDate": "2007-02",
+      "summary": "Processed journal entries and assisted with other month end close duties. Led recovery of lost revenue associated with returned check payments.",
+      "highlights": [
+        "Partnered with fraud, audit and compliance teams to identify and address risk management concerns."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "STEVENS INSTITUTE OF TECHNOLOGY",
+      "url": "",
+      "area": "Management of Technology",
+      "studyType": "Master of Technology Management",
+      "startDate": "",
+      "endDate": "2014",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "SETON HALL UNIVERSITY",
+      "url": "",
+      "area": "Business Administration Finance",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "2005",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Finance",
+      "level": "",
+      "keywords": [
+        "Ad, B2B, budget, Business Intelligence, charts, credit, Data analysis, data warehouses, databases, decision-making, executive management, senior management, external audits, Finance, FP&A, financial reporting, macros, Marketing, Access, Excel, month end close, negotiations, Enterprise, optimization, Oracle, payment processing, pivot tables, processes, processors, reporting, retail, risk management, Sales, Sarbanes Oxley, SQL, strategy, System administrator, Teradata, VBA"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

@@ -1,0 +1,118 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Arts Instructor",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Motivated teaching professional with over 22 years' experience addressing student needs and ensuring proper student development through formative assessments and student-centered innovations in curriculum implementation of art across multiple content fields.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Arts Instructor",
+      "url": "",
+      "startDate": "1998-01-01",
+      "endDate": "2012-01-01",
+      "summary": "Designed and Implemented over 10 individually focused programs in the arts for after school programs including claymation, ceramics, mask making, drawing, photography, silk screening and painting.",
+      "highlights": [
+        "Applied Curriculum Design: designed, developed and implemented daily lessons for 150 students daily.",
+        "Plan Development: planned and conducted activities for a balanced program of instruction, demonstration, and work time that provided students with opportunities to observe, question, and investigate.",
+        "Goal Setting: established clear objectives for all lessons/projects and communicated with students, achieving a total understanding of grading rubric and overall class expectations.",
+        "Technology Integration: increased student participation and test scores by introducing relevant computer programs and exercises to encourage student interest and enjoyment."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Arts Instructor",
+      "url": "",
+      "startDate": "1990-08",
+      "endDate": "2012-05",
+      "summary": "Planned, implemented, monitored, and assessed a classroom instructional program which was consistent with Tempe and Arizona Board of Education Art standards Taught visual arts, specializing in photography, serigraphy, ceramics, mural painting, mask making, glass mosaics and commercial graphic arts applications.",
+      "highlights": [
+        "Recognized success in art curriculum. Curriculum Designed, developed and implemented daily lessons for 150 students daily",
+        "Effectively motivated students through interactive teaching with audio and visual aids and stimulation of the creative imagination.",
+        "Good working relationships with parents to resolve conflicting educational priorities and issues.",
+        "Successful experience in positions of leadership which demanded flexible problem solving skills and organizational abilities.",
+        "Participated in regular training courses to keep up-to-date with new teaching methods and developments in the field.",
+        "Used a variety of teaching methods such as lectures, discussions and demonstrations.Presented all class material and policies accurately and clearly for 8 classes each semester."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Arizona State University",
+      "url": "",
+      "area": "Education Curriculum Development",
+      "studyType": "Masters",
+      "startDate": "",
+      "endDate": "2002",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Arizona State University",
+      "url": "",
+      "area": "Art Photography",
+      "studyType": "Bachelor of Fine Arts",
+      "startDate": "",
+      "endDate": "1973",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Lifetime Achievement Award",
+      "date": "2012-01-01",
+      "awarder": "the Tempe Diablos at Grady Gammage, Arizona State University",
+      "summary": "Awarded for lifetime achievement in arts education."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Structured English Immersion K-12",
+      "date": "",
+      "issuer": "Arizona Board of Education",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Art Education Curriculum Design and development, Goal Setting and leadership, and organizational skills",
+      "level": "",
+      "keywords": [
+        "Art Education",
+        "Curriculum Design",
+        "Development",
+        "Goal Setting",
+        "Leadership",
+        "Organizational Skills"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [
+    {
+      "name": "Art Education",
+      "keywords": [
+        "National Art Education annual conference presenter",
+        "Chicago, New York City, Phoenix, San Francisco",
+        "Arizona Art Education Association President"
+      ]
+    }
+  ],
+  "references": [],
+  "projects": []
+}

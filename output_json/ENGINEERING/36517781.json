@@ -1,0 +1,114 @@
+{
+  "basics": {
+    "name": "",
+    "label": "LIGHTING FIELD ENGINEERING TECHNICIAN",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Engineering Technician with an impressive blend of technical expertise and people skills. Committed to providing quality and consistent technical support.",
+    "location": {
+      "address": "Unknown",
+      "postalCode": "Unknown",
+      "city": "Unknown",
+      "countryCode": "Unknown",
+      "region": "Unknown"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Unknown Company",
+      "position": "Lighting Field Engineering Technician",
+      "url": "Unknown",
+      "startDate": "2014-10",
+      "endDate": "2016-01",
+      "summary": "Supports Tampa Electric Company's lighting system construction...",
+      "highlights": [
+        "AutoCad Software Utilization",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Unknown Company",
+      "position": "Administrative Technical Aide",
+      "url": "Unknown",
+      "startDate": "2013-06",
+      "endDate": "2014-10",
+      "summary": "Assembles all new engineering work packages...",
+      "highlights": [
+        "Records Coordinator"
+      ]
+    },
+    {
+      "name": "Unknown Company",
+      "position": "Customer Service Professional",
+      "url": "Unknown",
+      "startDate": "2012-08",
+      "endDate": "2013-06",
+      "summary": "Serve as initial point of contact for both external and internal...",
+      "highlights": [
+        "Customer support"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of South Florida",
+      "url": "https://institution.com/",
+      "area": "Information Technology",
+      "studyType": "Bachelor",
+      "startDate": "Unknown",
+      "endDate": "2017-06",
+      "score": "3.4",
+      "courses": []
+    },
+    {
+      "institution": "Hillsborough Community College",
+      "url": "https://institution.com/",
+      "area": "Associates Degree",
+      "studyType": "Associate",
+      "startDate": "Unknown",
+      "endDate": "2014-02",
+      "score": "3.7",
+      "courses": [
+        "Principles of Accounting"
+      ]
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Microsoft Office Certified Associate",
+      "date": "2012-05",
+      "issuer": "Tampa Bay Technical High School",
+      "url": "Unknown"
+    },
+    {
+      "name": "Excel, Power Point, Word and Access",
+      "date": "2011-05",
+      "issuer": "Tampa Bay Technical High School",
+      "url": "Unknown"
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Engineer Technician Skills",
+      "level": "Unknown",
+      "keywords": [
+        "GIS",
+        "lighting designs using Visual Professional",
+        "Access",
+        "Excel",
+        "Microsoft Office",
+        "Power Point"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

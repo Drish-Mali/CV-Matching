@@ -1,0 +1,94 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Project Coordinator",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Effective project coordinator with well developed time management and communication skills. Extensive experience in handling project schedules, managing resources and budgets and facilitating meetings.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Project Coordinator",
+      "url": "",
+      "startDate": "",
+      "endDate": "Current",
+      "summary": "Manage various projects by ensuring effective communication with stakeholders, managing project resources and budgets using tools like MS Project 2013, SAP Guri, and Demand & Supply tool.",
+      "highlights": ["Develop and maintain project schedule information", "Manage day to day work priorities of the project manager and team", "Facilitate project resources", "Develop and maintain risk registers and escalate issues", "Manage the project budget", "Facilitate meetings"]
+    },
+    {
+      "name": "Telecom NZ Ltd",
+      "position": "Business Process Coordinator",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Coordinated business processes including setting up new WBSE for Capex and Opex Projects, coordinating staff movement to new buildings, managing access to online document systems, and arranging travel & accommodation for managers.",
+      "highlights": ["Set up new WBSE for Capex and Opex Projects", "Coordinated staff moving to a new building", "Maintained contractor details", "Managed access to online documents system"]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Unknown",
+      "url": "",
+      "area": "Health & Human Development, Frontline Management",
+      "studyType": "Diploma",
+      "startDate": "2012",
+      "endDate": "2013",
+      "score": "",
+      "courses": ["MS project Task Management", "Presenting with Impact", "Treaty of Waitangi Social Policy", "Client centred Practice Skills", "First Aid Course", "Privacy & Official Information Act", "Group Facilitation", "Introduction to Small Business Management", "Marketing & Selling", "Business planning Book-keeping & Records, Taxation Finance marketing & Presentation"]
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "First Aid Course",
+      "date": "Unknown",
+      "issuer": "Unknown Company",
+      "url": ""
+    },
+    {
+      "name": "NZ Certificate in Frontline Management",
+      "date": "Unknown",
+      "issuer": "Unknown Company",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Customer Service",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Office suite",
+      "level": "",
+      "keywords": ["MS Project", "Excel", "Word", "PowerPoint"]
+    },
+    {
+      "name": "Project Management",
+      "level": "",
+      "keywords": ["SAP Guri", "Demand & Supply", "Time Management", "Project Coordinator"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [
+      {
+          "name": "Telecom NZ Ltd",
+          "reference": ""
+      }
+  ],
+  "projects": []
+}

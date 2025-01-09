@@ -1,0 +1,106 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Administrative Assistant Director, Human Resources Manager, Production Manager, Engineering Manager",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Dedicated and focused Administrative Assistant who excels at prioritizing, completing multiple tasks simultaneously, and following through to achieve project goals.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Administrative Assistant Director, Human Resources Manager, Production Manager, Engineering Manager, Technical Services Manager, and Information Technology Manager",
+      "url": "",
+      "startDate": "2012-01-01",
+      "endDate": "2015-01-01",
+      "summary": "Provided administrative support to production departments, IT, and Human Resources. Established and maintained complete files and records. Composed and typed reports and correspondence. Responded to inquiries from employees.",
+      "highlights": [
+        "Created purchase requisitions, work orders, and goods receipts using proprietary software interfaced with SAP."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "SAP Site Security Administrator/SAP Training Records Coordinator",
+      "url": "",
+      "startDate": "2004-01-01",
+      "endDate": "2009-01-01",
+      "summary": "Supported all Human Resources functions. Generated reports from PeopleSoft and from site's Access personnel database.",
+      "highlights": ["Compiled statistics for site Safety Report", "Planned and managed Excellence Recognition Awards program and GSK Service Awards Program"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Administrative Assistant",
+      "url": "",
+      "startDate": "1998-01-01",
+      "endDate": "2009-01-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Computer Instructor",
+      "url": "",
+      "startDate": "1996-01-01",
+      "endDate": "2001-01-01",
+      "summary": "Provided instruction on use of Microsoft Word and Excel software packages.",
+      "highlights": ["Taught course entitled 'Introduction to Computers via Microsoft Windows.'"]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Virginia High School",
+      "url": "",
+      "area": "",
+      "studyType": "Diploma",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Administrative Skills",
+      "level": "",
+      "keywords": [
+        "Training and Instruction",
+        "Microsoft Office Proficiency",
+        "KRONOS Excel spreadsheets",
+        "Internet Software",
+        "Microsoft Word/PowerPoint/Excel",
+        "Office Management",
+        "Microsoft Access",
+        "Organizing Meetings/Materials Preparation",
+        "LotusNotes & Microsoft Outlook Email",
+        "Planning and Facilitating Large Events",
+        "SAP",
+        "Managing Confidential Records",
+        "PeopleSoft",
+        "Employee Benefits Counseling",
+        "Registrar",
+        "Arranging Domestic/International Travel",
+        "Oral and Written Communication",
+        "SAP Site Security",
+        "Skilled Proofreader"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

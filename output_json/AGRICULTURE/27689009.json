@@ -1,0 +1,100 @@
+{
+  "basics": {
+    "name": "No name given",
+    "label": "Detective",
+    "email": "",
+    "phone": "",
+    "summary": "Law Enforcement professional with 24 years experience investigating insurance fraud, such as health care provider/billing fraud, disability, workers' compensation and premium fraud, property & casualty fraud and staged automobile collisions. Knowledgeable in related crimes such as tax evasion, grand theft, identity theft, mail fraud, arson, and Medi-Cal/Medicare fraud. Intricately connected to the insurance industry and allied law enforcement agencies in the pursuit to combat fraud.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Detective",
+      "url": "",
+      "startDate": "1995-06",
+      "endDate": "current",
+      "summary": "Assigned to CDI's health care and disability fraud program since October 2010. Obtained a conviction in the largest disability and long term care fraud case in the history of San Diego County. Investigate diverse and complex cases involving both single and multiple suspects. Work cases independently with little to no supervision. Extensive networking with allied law enforcement agencies, NICB, as well as, with special investigative units and claims managers of several insurance companies. Generate FD-1's from consumer complaints and competently evaluate the evidentiary merit and strength of each referral.",
+      "highlights": [
+        "Detective assigned to Health care/disability Fraud Program",
+        "Member of the San Diego Medical Fraud Task Force",
+        "Public speaking/outreach to insurance industry and law enforcement",
+        "Detailed report writing",
+        "Team Leader/On-Site Supervisor when executing Search and Arrest warrants",
+        "Awarded officer of the year 2011 by my peers",
+        "100% conviction rate"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Senior Special Investigator",
+      "url": "",
+      "startDate": "1990-09",
+      "endDate": "1995-06",
+      "summary": "Investigated complex cases involving crimes of employer tax evasion, disability fraud, unemployment fraud, check forgery and related crimes. Wrote and served search warrants, conducted interviews/interrogations, submitted cases for successful criminal prosecution, testified in court, made arrests, was a defensive tactics instructor. Later assigned to the Professional Standards Unit and conducted background investigations on peace officer candidates, investigated crimes of embezzlement, forgery, sexual harassment, employee misconduct and threats to department employees.",
+      "highlights": [
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Special Investigator",
+      "url": "",
+      "startDate": "1989-08",
+      "endDate": "1990-09",
+      "summary": "Investigated violations of the Penal Code and Business and Professions Code, issued citations, conducted undercover operations, gathered evidence, submitted cases for successful criminal complaints, testified in court.",
+      "highlights": [
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "California State University, Fullerton",
+      "url": "",
+      "area": "Criminal Justice",
+      "studyType": "Bachelor of Arts",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": [
+        "Law Enforcement courses CA Peace Officer Standards and Training (P.O.S.T.)",
+        "Specialized Law Enforcement Advanced P.O.S.T. certificate. Courses include, but are not limited to, health care fraud, staged auto collisions, workers' compensation fraud, identity theft, interview and interrogation, arrest and control/defensive tactics, sexual harassment, cultural diversity and racial profiling, internal affairs investigations, advanced firearms, chain of custody evidence handling, search warrant procedures, communication and fire investigation, organized crime, emergency vehicle operation, first aid/CPR, building entry/mechanical breaching and more."
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Investigation",
+      "level": "Master",
+      "keywords": [
+        "Writing FD-1's from consumer complaints",
+        "Identifying \"red flags\" and evaluating fraud referrals",
+        "Outreach, consumer and industry training",
+        "Conduct interviews and interrogations",
+        "Microsoft Office suite",
+        "Use of database searches/methodologies",
+        "Skip tracing and witness locating",
+        "Obtaining judicial approval for Search and Arrest warrants",
+        "Execute Search and Arrest Warrants",
+        "Testify in court, to include, grand jury. Testified as expert witness",
+        "Surveillance (stationary and mobile)",
+        "Use of firearms",
+        "Emergency Vehicle Operations"
+      ]
+    }
+  ],
+  "languages": [],
+  "awards": [],
+  "volunteer": [],
+  "certificates": [],
+  "publications": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

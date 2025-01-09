@@ -1,0 +1,116 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Director of Theater",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Unknown",
+      "position": "Director of Theater",
+      "url": "",
+      "startDate": "2011-01",
+      "endDate": "Current",
+      "summary": "Re-built and developed award-winning theater program at an independent school where previous theater program had failed. Developed and taught courses in acting, playwrighting, physical theatre, improvisation, Shakespeare and a freshmen survey course of visual and performing arts. Directed and designed 3-4 main stage productions per year including a musical as well as 3-5 studio plays, including original and devised works. Arranged for visiting artists to meet and work with theater students. Collaborated with faculty members to create unique events connecting theatre to other disciplines. Served as academic adviser for 6-8 students per year.",
+      "highlights": ["Experience with photo and video editing software: Photoshop Elements, iPhoto, iMovie, MovieMaker", "Website design and maintenance through WYSIWYG platforms: Wix, Silverpoint School Suite"]
+    },
+    {
+      "name": "Unknown",
+      "position": "Actor, Education Artist",
+      "url": "",
+      "startDate": "2007-01",
+      "endDate": "2011-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Unknown",
+      "position": "Director of Theater, English and Fine Arts Teacher",
+      "url": "",
+      "startDate": "2001-01",
+      "endDate": "2007-01",
+      "summary": "Created and developed after-school theater company and academic theater curriculum for grades 6-12 at independent day school with no previous theater program.",
+      "highlights": []
+    },
+    {
+      "name": "Unknown",
+      "position": "Director of Theater and English Teacher",
+      "url": "",
+      "startDate": "1997-01",
+      "endDate": "2001-01",
+      "summary": "Taught Introduction to Theater, and Language Retraining, an Orton-Gillingham based course for the remediation of dyslexia. Expanded theater program to 3 productions per year and created extracurricular club and opportunities for students interested in design and technical theater.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Chicago College of Performing Arts at Roosevelt University",
+      "url": "",
+      "area": "Directing",
+      "studyType": "Master of Arts",
+      "startDate": "2004",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Wesleyan University",
+      "url": "",
+      "area": "Theater and English",
+      "studyType": "Bachelor of Arts",
+      "startDate": "1995",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "South East Theater Conference 2016",
+      "date": "2016-01-01",
+      "awarder": "South East Theater Conference",
+      "summary": "Superior Production, Best Costume Design, individual students recognized for Excellence in Acting, including Best Supporting Actor across the whole festival. "
+    }
+  ],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Directing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Teaching",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Website design",
+      "level": "",
+      "keywords": ["Wix", "Silverpoint School Suite"]
+    },
+    {
+      "name": "Photo and Video Editing",
+      "level": "",
+      "keywords": ["Photoshop Elements", "iPhoto", "iMovie", "MovieMaker"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

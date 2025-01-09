@@ -1,0 +1,92 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Assembly Mechanic",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Aircraft Mechanic with 16 years experience. Extensive background in rotary wing and fixed wing aircraft.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Assembly Mechanic",
+      "url": "",
+      "startDate": "2014-09-01",
+      "endDate": "2016-08-01",
+      "summary": "Sheet metal mechanic Boeing 737 fuselage assembly line. ",
+      "highlights": [
+        "Crew leader of a 3 man team, installing aft fuselage belly skins with minimal quality defects and under the required bar line, at a move rate of (2) units a day."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Flight Inspector",
+      "url": "",
+      "startDate": "2010-10-01",
+      "endDate": "2013-06-01",
+      "summary": "Functional Test QAR V-22/UH-1/AH-1Z",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Aviation Machinist Mate",
+      "url": "",
+      "startDate": "2000-09-01",
+      "endDate": "2010-10-01",
+      "summary": "Supervised 60 maintainers. Performed scheduled and unscheduled flight line maintenance of 16 Sikorsky MH-53E's.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "",
+      "url": "",
+      "area": "",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Navy Marine Corps Achievement medals (2)",
+      "date": "",
+      "awarder": "",
+      "summary": "One for the success of the shop I supervised. The second for my Quality Assurance duties."
+    }
+  ],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Assembly Mechanic Skills",
+      "level": "",
+      "keywords": [
+        "Blade Track and Balance",
+        "VISIPRISE, KRONOS, SAP and EWI programs Vibration Analysis",
+        "Blueprints Leadership skills",
+        "Fiberglass, composite and sheet metal Aircraft Inspection",
+        "Fuel Systems Flight Controls",
+        "Powerplant Hydraulic Systems",
+        "Transmissions"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

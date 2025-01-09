@@ -1,0 +1,121 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Administrative Coordinator",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Reliable and energetic arts administrator with a Master of Arts in Arts Management. A highly motivated individual with strong organizational and prioritization abilities. Areas of expertise include communications, public relations, marketing, event planning and outreach.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Administrative Coordinator",
+      "url": "",
+      "startDate": "2013-08-01",
+      "endDate": "Current",
+      "summary": "Developed and implemented new scheduling system for special events, portfolio reviews and advising. Manage front line communication between students, faculty and administration, prepares written communication for prospective and current student admittance.",
+      "highlights": [
+        "Assist with PR/Marketing with CVPA Academic Affairs and Admissions Offices",
+        "Serve as liaison for marketing School of Art Portfolio Review Day and Open House events",
+        "Websites management (i.e. edits and updates)",
+        "Departmental e-mail communications",
+        "Processing curricular paperwork, preparing syllabus for Web publication"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Production Coordinator",
+      "url": "",
+      "startDate": "2011-06-01",
+      "endDate": "2013-08-01",
+      "summary": "Manage Center for the Arts internal production calendar. Provide continuous data maintenance/entry in R-25 scheduling system. Rental recaps - track labor hours for FT staff and over-hire. Coordinate hiring ushers and stage hands for events. Union payroll.",
+      "highlights": [
+        "Managed HR duties",
+        "Assist Production Manager in performance logistics",
+        "Assist with GMU required training"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": " PR & Marketing Assistant",
+      "url": "",
+      "startDate": "2010-09-01",
+      "endDate": "2011-01-01",
+      "summary": "Identified and conducted market research to provide logistical marketing support to the Artistic Director. Assisted with developing creative summer camps and workshops.",
+      "highlights": [
+        "Gathered promotional material for summer classes",
+        "Developed sponsorship package",
+        "Provide PR and marketing support for Artistic Director"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Fundraising & Development Intern",
+      "url": "",
+      "startDate": "2009-03-01",
+      "endDate": "2009-05-01",
+      "summary": "Event management for Friends of the Hylton. Provided staff support for annual fundraising event \"Shooting for the Stars\". Responsible for logistics of Friends of the Hylton Center.",
+      "highlights": [
+        "Attend Friends of Hylton Center committee meetings",
+        "Assemble donor kits and presentation materials for events",
+        "Process donations and prepare acknowledgment letters and other correspondence",
+        "Logistics of donor and volunteer cultivation"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "George Mason University, College of Visual and Performing Arts",
+      "url": "",
+      "area": "Arts Management",
+      "studyType": "Master of Arts",
+      "startDate": "",
+      "endDate": "2009",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "New Mexico State University, College of Human Performance",
+      "url": "",
+      "area": "Dance & Recreation",
+      "studyType": "Bachelor of Arts",
+      "startDate": "",
+      "endDate": "2004",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Administrative Skills",
+      "level": "",
+      "keywords": [
+        "Good written communication skills",
+        "Working knowledge of WordPress and Photoshop",
+        "PR and marketing experience",
+        "Experience with Banner, Patriot Web, 25Live and eVA Purchasing systems",
+        "Event planning experience",
+        "Familiarity with Microsoft Office and social media",
+        "Experience with Banner, Patriot Web, 25Live and eVA Purchasing systems"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

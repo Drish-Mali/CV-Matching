@@ -1,0 +1,114 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Executive Director",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "An accomplished, skilled� leader � bringing 28 years of management experience and a willingness to take on added responsibility to meet tight deadlines. Enthusiastic team player with a strong work ethic and advanced complex problem solving skills.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Executive Director",
+      "url": "",
+      "startDate": "2012-07",
+      "endDate": "2015-02",
+      "summary": "Managed all business aspects of the company, including negotiation, business finance, association management and more. Prepared and distributed payroll for the staff. Represented the organization to customers, the public, government officials and other external sources. Developed legislative policy with Director of Public Affairs and managed implementation of the policy. Created new revenue streams through grant writing.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "President, Owner",
+      "url": "",
+      "startDate": "1998-06",
+      "endDate": "2012-07",
+      "summary": "Provided Association Management, meeting planning, conference planning and in-house registration processes for various associations. Responsible for all aspects of Association Management including staffing, budgets, AP/AR, public relations and public affairs, to include lobbying at both the state and national level.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Executive Director",
+      "url": "",
+      "startDate": "1986-08",
+      "endDate": "1998-06",
+      "summary": "Managed the Association as outlined in GGIA position from 2012-2015.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Statistician",
+      "url": "",
+      "startDate": "1983-04",
+      "endDate": "1988-06",
+      "summary": "Managed state database of over 150,000 agricultural professionals. � Prepared programming through Martin Marietta Data Services to select survey respondents that would ensure accurate survey results.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "The University of Georgia",
+      "url": "",
+      "area": "Marketing Education with Business Electives",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "1985",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Abraham Baldwin Agricultural College",
+      "url": "",
+      "area": "Core Curriculum with Business Electives",
+      "studyType": "Associate of Science",
+      "startDate": "",
+      "endDate": "1982",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Leadership",
+      "level": "Master",
+      "keywords": [ "Effective leader", "Consistently meet goals", "Project management", "Customer service-oriented", "Budget development", "Long-term business planning and execution", "Negotiation", "Staff training/development", "Executive presentation development" ]
+    },
+    {
+      "name": "Communication",
+      "level": "Master",
+      "keywords": [ "Exceptional interpersonal communication", "Effective communication", "Public speaking talent" ]
+    },
+    {
+      "name": "Software Knowledge",
+      "level": "Advanced",
+      "keywords": ["Advanced MS Office Suite knowledge", "Accounting software", "Constant Contact" ]
+    },
+    {
+      "name": "Planning",
+      "level": "Master",
+      "keywords": ["Conference planning", "Project planning", "Excellent planner and coordinator"]
+    },
+    {
+      "name": "Detail-Oriented",
+      "level": "Master",
+      "keywords": ["Accurate and detailed"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

@@ -1,0 +1,121 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Finance and Operations Manager",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Results-driven, efficiency-conscious International Business Management Executive with extensive experience including financial management, organizational development, business development and team building within diverse industries.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Finance and Operations Manager",
+      "url": "",
+      "startDate": "2015-03",
+      "endDate": "2016-09",
+      "summary": "A senior business partner participating in the development of the strategic direction, leadership, management and growth of the organization.",
+      "highlights": [
+        "Led the 2016 strategic planning process resulting in a detailed 2016 delivery plan",
+        "Developed a timely and accurate financial and operations reporting package",
+        "Recommended innovative alternatives to generate revenue and reduce unnecessary costs",
+        "Researched and implemented a robust 401K plan for US employees"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Chief Financial Officer",
+      "url": "",
+      "startDate": "2000-03",
+      "endDate": "2014-05",
+      "summary": "An executive business partner participating in the strategic leadership, management and growth of the company spanning over 14 years.",
+      "highlights": [
+        "Served as key contributing member to Leadership and Executive teams",
+        "Led and managed the M&A activity for company",
+        "Successfully grew business by 24% year over year",
+        "Led and managed annual strategic global planning process",
+        "Multimillion-dollar global P&L management",
+        "Responsible for creating and defining global company architecture",
+        "Implemented a global commercial risk program",
+        "Multinational staff recruitment, development and management"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Controller",
+      "url": "",
+      "startDate": "1997-09",
+      "endDate": "2000-03",
+      "summary": "Led and managed the full Accounting and Finance function including all aspects of reporting, analysis, budgeting and project accounting and management.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Controller",
+      "url": "",
+      "startDate": "1988-08",
+      "endDate": "1997-09",
+      "summary": "Managed the full Accounting and Finance function including all aspects of reporting, analysis, budgeting and project accounting and management.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "St Edwards University",
+      "url": "",
+      "area": "Finance and Accounting",
+      "studyType": "BBA",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Financial Management",
+      "level": "",
+      "keywords": [
+        "P&L Management",
+        "Budget and Forecasting Development",
+        "Policy and Process Development",
+        "Contracts Management",
+        "Performance Management",
+        "Business Development and Expansion",
+        "Staff Development and Management",
+        "Business and contract negotiation"
+      ]
+    },
+    {
+      "name": "Technology Skills",
+      "level": "",
+      "keywords": [
+        "MS Office",
+        "MS Project",
+        "Visio",
+        "Microsoft Dynamics GP",
+        "Epicor",
+        "QuickBooks",
+        "Salesforce",
+        "Projector PSA"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

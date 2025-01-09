@@ -1,0 +1,78 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Sr. Campus Recruiter",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Solutions and results driven professional with over 10 years of high volume recruitment experience across multiple disciplines and industries. Recognized and known for commitment to excellence and delivering high quality service.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "" ,
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Sr. Campus Recruiter",
+      "url": "",
+      "startDate": "2009-08-01",
+      "endDate": "2016-04-01",
+      "summary":"Utilize social media, referrals, marketing materials, university recruitment, information sessions, open house and virtual events for applicant sourcing and pipeline. Create and monitor key metrics for applicant tracking, admissions, and student yield utilizing DMAIC model. Perform cost and profitability analysis and functional cost reporting to support recruitment budget. Managed and maintained an annual budget of $300,000 to $335,000 for recruiting, marketing, awards, events and travel assignments. Write and update recruiting policies as needed. Develop local and regional recruitment and travel for the southeast (NC, SC, VA, WV, FL, TN, GA).",
+      "highlights": ["Metrics Reporting", "Full Life-Cycle", "SWOT Analysis", "Policy Development", "CRM Proficient", "Organization and Project Management", "EEO and OFFC Competent "]
+    },
+    {
+      "name": "Company Name",
+      "position": "Lead Recruiter (Seasonal)",
+      "url": "",
+      "startDate": "2015-03-01",
+      "endDate": "2015-08-01",
+      "summary":"Manage full cycle recruiting, hiring, marketing and placement of teachers, Instructional Coaches and Instructional Assistants throughout Charlotte Mecklenburg County 'Read to Achieve' summer program. Track metrics related to recruiting (e.g., candidates yielded by each source, time to hire, etc.) to evaluate various strategies and improve hiring efficiency Lead a team of 3 recruiters and 1 recruiting coordinator.",
+      "highlights": [""]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Webster University",
+      "url": "",
+      "area": "Human Resources",
+      "studyType": "MA",
+      "startDate": "",
+      "endDate": "2004-01-01",
+      "score": "",
+      "courses": [ "" ]
+    },
+    {
+      "institution": "South Carolina State University",
+      "url": "",
+      "area": "Education",
+      "studyType": "BA",
+      "startDate": "",
+      "endDate": "1997-01-01",
+      "score": "",
+      "courses": [ "" ]
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Technical Skills",
+      "level": "",
+      "keywords": [
+        "Microsoft Office: Word, Outlook, PP, Excel, Vurv, Taleo, Banner, Brass PeopleSoft, HireExpress, SAP & HRIS Policy, and FMP"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

@@ -1,0 +1,155 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Business Development Executive",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Top performing sales, marketing, and business development professional with proven ability to drive business expansion and development by planning and executing business strategies.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Business Development Executive",
+      "url": "",
+      "startDate": "2010-01-01",
+      "endDate": "Current",
+      "summary": "Developed new marketing strategies to capture market channels with new clients. Utilized sales and marketing tools to create brand awareness in the market.",
+      "highlights": [
+        "Designed, underwrote and administered new and existing insurance programs",
+        "Increased monthly submissions by 900%",
+        "Expanded on existing business as well as identified potential revenue opportunities",
+        "Acted as a direct intermediary between customers and product development within IRIS on a variety of different insurance products."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Administrative Coordinator",
+      "url": "",
+      "startDate": "2009-01-01",
+      "endDate": "2010-01-01",
+      "summary": "Directed daily operations and provided administrative support to the staff.",
+      "highlights": [
+        "Answered incoming calls and arranged appointments for guests to meet with company staff",
+        "Entered data into consumer relations database"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Sales and Marking Intern",
+      "url": "",
+      "startDate": "2009-01-01",
+      "endDate": "2009-01-01",
+      "summary": "Generating and executing sales leads for three popular radio stations in the Bay Area; KNBR, 101.7 The Bone and K-Fog.",
+      "highlights": [
+        "Writing and recording commercials for advertisers",
+        "Managing and updating the KNBR website"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Banquet Server, Food Server and Bartender",
+      "url": "",
+      "startDate": "2007-01-01",
+      "endDate": "2011-01-01",
+      "summary": "Over five years' hands-on experience in food serving and bartending.",
+      "highlights": [
+        "Highly skilled in greeting and guiding guests",
+        "Taking orders and communicating accurately to the kitchen and delivering correct orders to customers with a friendly and upbeat attitude"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "California State University",
+      "url": "",
+      "area": "Communication",
+      "studyType": "Bachelor of Arts",
+      "startDate": "",
+      "endDate": "2009-01-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Diablo Valley College",
+      "url": "",
+      "area": "Arts",
+      "studyType": "Associate",
+      "startDate": "",
+      "endDate": "2007-01-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Magna Cum Laude (top 3% of class)",
+      "date": "2009-01-01",
+      "awarder": "California State University East Bay",
+      "summary": ""
+    },
+    {
+      "title": "Honor Roll",
+      "date": "1996-01-01 to 2009-01-01",
+      "awarder": "",
+      "summary": ""
+    },
+    {
+      "title": "Achievement for Excellent Student of the Year",
+      "date": "2003-01-01 to 2004-01-01",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Property and Casualty License",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Marketing Skills",
+      "level": "",
+      "keywords": [
+        "Designed, developed and implemented marketing and sales campaigns",
+        "Evaluated target markets and proposed marketing strategies",
+        "Managed all phases of direct mail projects; monitored production teams; recruited and guided vendors"
+      ]
+    },
+    {
+      "name": "Writing Skills",
+      "level": "",
+      "keywords": [
+        "Wrote creative copy for catalogs, brochures and social media",
+        "Researched and conceived newsletter articles",
+        "Produced variety of business materials, including: letters, reports, proposals and forms",
+        "Proof read and edited all referenced written materials"
+      ]
+    },
+    {
+      "name": "Communication Skills",
+      "level": "",
+      "keywords": [
+        "Promoted products and services; generated leads and initiated sales"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

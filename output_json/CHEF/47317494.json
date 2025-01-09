@@ -1,0 +1,114 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Assistant Chef",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "",
+      "region": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Assistant Chef",
+      "url": "",
+      "startDate": "2015-05-01",
+      "endDate": "Current",
+      "summary": "Developed and prepared meals. Coordinated with manager and supervised kitchen staff. Communicated with clients to fulfill their needs.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Financial Aid Office Assistant",
+      "url": "",
+      "startDate": "2013-06-01",
+      "endDate": "2015-06-01",
+      "summary": "Developed excel projects for budgeting, calculating student needs, etc. Evaluated and processed numerous documents daily. Performed data entry. Consulted with students and assisted with financial aid documents.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Portland State University",
+      "url": "",
+      "area": "Finance CPA Eligible Business",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "2017-06-01",
+      "score": "3.84 GPA",
+      "courses": []
+    },
+    {
+      "institution": "Portland Community College",
+      "url": "",
+      "area": "",
+      "studyType": "Associate of Science",
+      "startDate": "",
+      "endDate": "2014-12-01",
+      "score": "3.89 GPA",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Microsoft Word",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Excel",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "PowerPoint",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Access",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Budgeting",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Data Entry",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "French",
+      "fluency": "Conversational"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

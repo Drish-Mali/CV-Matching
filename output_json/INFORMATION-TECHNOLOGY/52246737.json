@@ -1,0 +1,132 @@
+{
+  "basics": {
+    "name": "IT Provisioning Technician",
+    "label": "Information Security Leader",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Process driven, goal oriented, Information Security Leader with 5 years of IT and security experience. A self-motivated Governance manager adept at analyzing and remediating threat vectors on an enterprise level.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "McAfee EEPC",
+      "url": "",
+      "startDate": "08/2013",
+      "endDate": "11/2013",
+      "summary": "Worked with multiple departments and executive teams to ensure a timely and complete roll-out of product. Served as a technical lead and a tier 2 escalation resource for multiple applications and operating systems. Support included Windows (XP and 7), Linux (Red Hat), and Mac (OSX). Administration, troubleshooting, reclamation, and issuance of RSA soft and hard tokens. Served as main escalation point for de-synchronization issues and hardware-based troubles. Led the executive support team.",
+      "highlights": [
+        "Highly skilled in advanced administration and GPO creation",
+        "Provided immense technical support and acted as the main escalation point"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Information Technology Provisioning Technician",
+      "url": "",
+      "startDate": "10/2012",
+      "endDate": "08/2013",
+      "summary": "Provided remote and local support to an employee base of over 7000 employees, contractors, and consultants. Resolved complex hardware and software issues, and served as tier 2 and 3 support.",
+      "highlights": [
+        "Efficiently managed the network operations center",
+        "Provided high-quality support to large employee base"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Information Technology Consultant",
+      "url": "",
+      "startDate": "12/2011",
+      "endDate": "02/2013",
+      "summary": "Architected, implemented, and documented various Exchange and Active Directory deployments within each customer's individual ecosystem.",
+      "highlights": [
+        "Provided high-quality IT consultation",
+        "Successfully implemented Active Directory deployments"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Business Administration Software Technology",
+      "url": "",
+      "area": "Business Administration",
+      "studyType": "Associates of Arts and Sciences (AAS)",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Heald College",
+      "url": "",
+      "area": "Information Technology",
+      "studyType": "Associate of Arts (AA)",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Heald College",
+      "url": "",
+      "area": "Network Security",
+      "studyType": "Associate of Applied Sciences (AAS)",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Comptia A Certification",
+      "date": "",
+      "issuer": "Comptia",
+      "url": ""
+    },
+    {
+      "name": "Comptia Security Certification",
+      "date": "",
+      "issuer": "Comptia",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Technical Skills",
+      "level": "",
+      "keywords": [
+        "AD",
+        "Anti-Virus",
+        "Compliance Manager",
+        "CONTRACT NEGOTIATIONS",
+        "DNS",
+        "Firewall",
+        "Information Security",
+        "McAfee",
+        "Microsoft Exchange",
+        "Network Security",
+        "TCP/IP",
+        "CAD",
+        "VPN",
+        "Linux",
+        "Windows XP"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

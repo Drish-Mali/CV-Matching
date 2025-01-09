@@ -1,0 +1,164 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Business Development Representative",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Experienced administrative professional with excellent client and project management skills. Action-oriented with strong ability to communicate effectively with technology, executive, and business audiences.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Business Development Representative",
+      "url": "",
+      "startDate": "2014-11",
+      "endDate": "Current",
+      "summary": "Identified prospective customers using lead generating methods and performing sales duties, increasing division profits.",
+      "highlights": [
+        "Managed South Texas and West Texas region",
+        "Generated new accounts",
+        "Optimized current revenue streams",
+        "Delivered weekly performance updates and monthly business reviews"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Administrative Clerk",
+      "url": "",
+      "startDate": "2012-09",
+      "endDate": "2014-11",
+      "summary": "Managed receptionist area and handled administrative tasks such as planning and coordination.",
+      "highlights": [
+        "Processed new hire paperwork",
+        "Organized files and documents",
+        "Planned travel arrangements for executives and staff"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Registrar",
+      "url": "",
+      "startDate": "2009-10",
+      "endDate": "2012-09",
+      "summary": "Maintained administrative and procedural processes, maintained file system, and coordinated educational department functions.",
+      "highlights": [
+        "Directly supported Executive Director in managing operation",
+        "Communicated with students regarding updates on their educational status"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Admitting Specialist-ER Registration",
+      "url": "",
+      "startDate": "2008-03",
+      "endDate": "2009-10",
+      "summary": "Maintaining readiness and alertness for all incoming patients, collecting pertinent patient information.",
+      "highlights": [
+        "Demonstrated knowledge of HIPAA Privacy and Security Regulations",
+        "Verified patient information and insurance"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Taft High School",
+      "url": "",
+      "area": "",
+      "studyType": "High School",
+      "startDate": "",
+      "endDate": "2006",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Del Mar College",
+      "url": "",
+      "area": "",
+      "studyType": "Some coursework completed",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Employee of the Year 2010",
+      "date": "2010",
+      "awarder": "South Texas Vocational Technical Institute",
+      "summary": ""
+    },
+    {
+      "title": "Promotion to Registrar",
+      "date": "",
+      "awarder": "STVT",
+      "summary": "Promoted to Registrar after 1 year of employment at STVT."
+    },
+    {
+      "title": "Promotion to Business Development Representative",
+      "date": "",
+      "awarder": "GIS",
+      "summary": "Promoted to Business Development Representative after 18 months of employment at GIS."
+    },
+    {
+      "title": "Merit raises",
+      "date": "",
+      "awarder": "",
+      "summary": "Received merit raises for strong attention to detail, exemplary customer service and team-player attitude."
+    }
+  ],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Computer Proficiency",
+      "level": "",
+      "keywords": ["Microsoft Word", "Excel", "Outlook", "PowerPoint"]
+    },
+    {
+      "name": "Management",
+      "level": "",
+      "keywords": ["Multi-Task Management", "Reports Generation and Analysis"]
+    },
+    {
+      "name": "Sales",
+      "level": "",
+      "keywords": ["Territory Sales Experience"]
+    },
+    {
+      "name": "Problem Solving",
+      "level": "",
+      "keywords": ["Creative Problem Solving"]
+    },
+    {
+      "name": "Customer Service",
+      "level": "",
+      "keywords": ["Enthusiastic People Person", "Advanced Problem-Solving", "Great Organizational Skills"]
+    },
+    {
+      "name": "Language",
+      "level": "Intermediate",
+      "keywords": ["Spanish"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Intermediate level"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

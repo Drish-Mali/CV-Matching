@@ -1,0 +1,137 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Hospital & Physician Billing Specialist",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Highly-organized professional who excels at assisting healthcare providers with billing management & coding support. Problem solver who exercises critical thinking, and performs work ahead of schedule. Seeks to transition into a management role with a physician's office that will utilize the talents/skills of an experienced medical billing specialist, and aspiring office manager.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Hospital & Physician Billing Specialist",
+      "url": "",
+      "startDate": "2013-12-01",
+      "endDate": "Current",
+      "summary": "Responsible for managing and resolving insurance denials for medical, Workers Compensation and Personal Injury claims. Works with a team of Billing Specialists to interact with major insurance carriers, as well as government payers, including Medicare.",
+      "highlights": [
+        "Reduced receivables for a major North Carolina medical center from $4M to $520K in an 8-month period by reversing denials for patients via the insurance firms' appeal process, and by providing documentation confirming procedures were necessary",
+        "Created and implemented new processes to facilitate the timely filing of new insurance claims"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Healthcare Marketing Consultant / Freelancer",
+      "url": "",
+      "startDate": "2009-01-01",
+      "endDate": "Current",
+      "summary": "Provides ongoing marketing support to Scripps Memorial Hospital and Scripps Mercy Hospital in San Diego. Assists with projects including graphic design, marketing materials, industry trade shows, and implementing marketing to promote fundraising events.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Physician Billing Specialist",
+      "url": "",
+      "startDate": "2012-03-01",
+      "endDate": "2013-01-01",
+      "summary": "Served in a frontline role, and was tasked with managing 40 accounts on a daily basis as well as assisting with medical billing and collections software. Provided daily updates to physicians' office managers on the Athena billing software packages via teleconference.",
+      "highlights": [
+        "Slashed accounts receivables for 40 Florida-based member physician offices from $6M to $2M in a 10-month period"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Hospital and Physician Billing Specialist",
+      "url": "",
+      "startDate": "2009-06-01",
+      "endDate": "2010-05-01",
+      "summary": "Joined as an Insurance Verifier and was quickly promoted to a Billing Specialist. Responsible for auditing patient accounts for production of clean claims, which resulted in 15% fewer rejected claims, and reimbursement received from the carriers within an average of 45 days or less.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Canisius College",
+      "url": "",
+      "area": "Business Management",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "San Diego City College",
+      "url": "",
+      "area": "Medical Billing and Coding",
+      "studyType": "Associate",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Professional Skills",
+      "level": "",
+      "keywords": [
+        "Collections & Receivables",
+        "Patient Advocacy",
+        "ICD-9 & ICD-10 Standards",
+        "Medical Billing & Coding",
+        "Administrative Support",
+        "Electronic Medical Records",
+        "Insurance Verification",
+        "Marketing & Design",
+        "HIPPA Compliance",
+        "FACS",
+        "Athena",
+        "Centricity",
+        "Medical Manager",
+        "MediTech",
+        "MediSoft",
+        "TruCode",
+        "NueMD",
+        "Microsoft Office Suite (Word, Excel, Access, Outlook, PowerPoint)",
+        "QuickBooks",
+        "Knowledge of HMOs, Medicare and Medi-Cal",
+        "Medical Manager Software",
+        "Managed care contract knowledge",
+        "Electronic Medical Record (EMR) software",
+        "ICD-9 coding",
+        "Trained in ASC Coding",
+        "CPT and HCPCS coding",
+        "Internal medicine billing",
+        "HHM and Medisoft billing systems",
+        "HIPAA compliance",
+        "Medical billing software",
+        "Strong planning skills",
+        "Technical expertise",
+        "Patient-focused care",
+        "Strong work ethic",
+        "Team player with positive attitude",
+        "Deadline-driven Good written communication",
+        "Exercises good judgment"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

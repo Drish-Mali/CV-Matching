@@ -1,0 +1,105 @@
+{
+  "basics": {
+    "name": "Anonymous",
+    "label": "Program Administrator",
+    "summary": "Results-focused management professional offering 15 years of progressive leadership experience. Transforms high-potential staff into outstanding leaders who demonstrate the creativity and savvy that is critical to financial and operational success.",
+    "skills": [
+      {
+        "name": "Management",
+        "level": "",
+        "keywords": [
+          "analytical skills",
+          "attention to detail",
+          "budgets",
+          "excellent communication",
+          "concise",
+          "clients",
+          "data entry",
+          "database",
+          "delivery",
+          "Educator",
+          "Excel",
+          "Microsoft Office",
+          "PowerPoint",
+         "Windows",
+          "Word",
+          "multi-tasking",
+          "processes",
+          "proposal",
+          "speaking",
+          "quality",
+          "quality control",
+          "recruitment",
+          "researching",
+          "staffing",
+          "phone",
+          "typing skills",
+          "excellent oral/written skills"
+        ]
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Program Administrator",
+      "startDate": "2013-01",
+      "endDate": "2015-01",
+      "summary": "Impart support to Program Management team and Coordinated with Program Managers. Managed difficult and sensitive issues."
+    },
+    {
+      "name": "Company Name",
+      "position": "CBS Banking Representative",
+      "startDate": "2012-01",
+      "endDate": "2014-01",
+      "summary": "Provided excellent communication skills both verbal and written, including the ability to listen and explain complex subjects and convey solutions in a calm and clear manner to clients."
+    },
+    {
+      "name": "Company Name",
+      "position": "Assistant Social Services Coordinator",
+      "startDate": "2009-01",
+      "endDate": "2012-01",
+      "summary": "Assisted in providing expertise and implementing quality control measures for service delivery that meet Head Start performance standards, federal and state regulations and agency outcomes."
+    },
+    {
+      "name": "Company Name",
+      "position": "Director",
+      "startDate": "2006-01",
+      "endDate": "2009-01",
+      "summary": "Served as the Director of program and implemented all new programs and services involving children."
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "New Direction Christian Church",
+      "position": "Facilitate a 55+ Growth Group",
+      "startDate": "2013",
+      "endDate": "2015",
+      "summary": "Monthly facilitation of a 55+ Growth Group."
+    }
+  ],
+  "education": [
+    {
+      "institution": "High Point University",
+      "area": "Public Administration",
+      "studyType": "Masters Degree",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Indiana University",
+      "area": "Human Development and Family Studies",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": [
+        "Family Life Educator Certification", 
+        "Senior Services Group Facilitator Certification",
+        "Adult Basic Education/GED Consultant"
+      ]
+    }
+  ]
+}

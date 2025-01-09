@@ -1,0 +1,149 @@
+{
+  "basics": {
+    "name": "Aviation Supply Specialist",
+    "label": "Military professional",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Military professional with 11 years experience in team management, administrative accountability and supply management.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Aviation Supply Specialist",
+      "url": "",
+      "startDate": "2002-05-01",
+      "endDate": "2013-07-01",
+      "summary": "Supervise, lead, or perform highly technical functions in the areas of aviation unique applications of managing, regulating, coordinating, or otherwise exercising control over supplies, equipment, or other material. The work includes numerous phases of automated material management including initial planning, provisioning and requirements determination, acquisition and distribution, accountability, and ultimate issue for consumption, retention or disposal.",
+      "highlights": [
+        "Managed over $300 million of personal and command equipment with no deficiencies loses or damages",
+        "Maintained 100% accountability of a large section of equipment worth over $500 million during multiple overseas deployments",
+        "Received 100% mission capable grade for the Commanding General's Functional Area Inspection",
+        "Supervised, managed and pulled 2500 line items for forward operating support with zero discrepancies and 100% validity"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Marine Corps Institute",
+      "url": "",
+      "area": "BASIC LEADERSHIP AND MILITARY STUDIES",
+      "studyType": "Certificate of Completion",
+      "startDate": "2013-01-01",
+      "endDate": "2013-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Marine Corps Institute",
+      "url": "",
+      "area": "Military Leadership",
+      "studyType": "Certificate of Completion",
+      "startDate": "2006-01-01",
+      "endDate": "2006-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Marine Corps Institute",
+      "url": "",
+      "area": "NAVAL AVIATION SURVIVAL TRAINING",
+      "studyType": "Select One",
+      "startDate": "2006-01-01",
+      "endDate": "2006-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Monroe Senior High",
+      "url": "",
+      "area": "K1-12",
+      "studyType": "High School Diploma",
+      "startDate": "2000-01-01",
+      "endDate": "2001-12-31",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Global War on Terrorism Service Medal",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    },
+    {
+      "title": "Global War on Terrorism Expeditionary Medal",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    },
+    {
+      "title": "Afghanistan Campaign Medal",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    },
+    {
+      "title": "North Atlantic Treaty Organization Medal NON-Article 5",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    },
+    {
+      "title": "Good Conduct",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    },
+    {
+      "title": "Presidential Unit Citation",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Inventory Specialist",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Leader",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Communication",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Organization",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Computer",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

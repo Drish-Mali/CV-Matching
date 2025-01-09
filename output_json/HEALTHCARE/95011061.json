@@ -1,0 +1,106 @@
+{
+  "basics": {
+    "name": "Manager Field",
+    "label": "Healthcare Management Professional",
+    "email": "",
+    "phone": "",
+    "image": "",
+    "url": "",
+    "summary": "Service focused and strong knowledge of healthcare management, client services, healthcare systems, management, Social Security, DFCS and various other platforms and services.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Manager Field",
+      "url": "",
+      "startDate": "2014-01",
+      "endDate": "2016-01",
+      "summary": "Responsible for providing high quality client focused service and leadership direction to internal and external operations, supervised 6 employees and provided comprehensive and detailed training.",
+      "highlights": [
+        "Provided smooth and efficient operations of all facets of the hospital-patient-Change Healthcare partnership",
+        "In accordance with established policy and Federal/State rules and regulations",
+        "Served as Quality Assurance Specialist to ensure that each application completed was correct",
+        "Completed yearly performance Evaluations, monitored leave and punctuality for employees",
+        "Met all yearly goals at 95% for district and exceeded in some areas by 3%"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Healthcare Representative",
+      "url": "",
+      "startDate": "2002-01",
+      "endDate": "2014-01",
+      "summary": "Interviewed clients in a hospital setting/or home visits to assist with obtaining maximum coverage for Federal( SSI/ SSA Disability) and State Medicaid benefits. Traveled to several different hospitals throughout district in order to meet client needs.",
+      "highlights": [
+        "Worked effectively with all hospital staff to give exemplified customer service",
+        "Met goals as assigned by Change Healthcare yearly"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Case Manager",
+      "url": "",
+      "startDate": "1996-01",
+      "endDate": "2002-01",
+      "summary": "Under general supervision provided the following: Determined eligibility and managed on-going cases, intakes or renewals for eligibility programs. Processed applications and/or reviews using appropriate criteria and policies consistently and according to established guidelines.",
+      "highlights": [
+        "Recorded and evaluated personal and financial data obtained from individuals",
+        "Keyed in a high volume of data using standard office hardware and software",
+        "Exceeded/ Met all performance goals monthly as well as yearly"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Albany State College",
+      "url": "",
+      "area": "Sociology",
+      "studyType": "B.S",
+      "startDate": "",
+      "endDate": "1995-06",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Affordable Care Act",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "Licensed Navigator",
+      "date": "",
+      "issuer": "Licence #2984352",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Healthcare Management",
+      "level": "",
+      "keywords": [
+        "Microsoft Office Suite",
+        "Knowledgeable in various healthcare information systems",
+        "CPT Coding",
+        "ICD-10"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

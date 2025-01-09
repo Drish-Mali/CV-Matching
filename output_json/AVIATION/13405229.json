@@ -1,0 +1,90 @@
+{
+  "basics": {
+    "name": "",
+    "label": "SECURITY BAGGAGE HANDLER/PERSONNEL SCREENER",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Highly enthusiastic customer service professional with client interface experience. Customer-focused Retail Sales Associate with a solid understanding of the dynamics of the retail apparel and shoe industry.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "US",
+      "region": ""
+    },
+    "profiles": [
+     
+    ]
+  },
+  "work": [
+    {
+      "company": "Company Name",
+      "position": "Security baggage handler/Personnel Screener",
+      "url": "",
+      "startDate": "March 2014",
+      "endDate": "Current",
+      "summary": "Provide information to space 'A' travelers as well as PCS customers. Loaded over 5,000 60 to 75lb bags on state of the art Air Force 'X' ray equipment. Provided force protection security for the AMC military terminal.",
+      "highlights": []
+    },
+    {
+      "company": "Company Name",
+      "position": "Aviation Ordnanceman",
+      "url": "",
+      "startDate": "January 2010",
+      "endDate": "January 2012",
+      "summary": "Inspect, maintained and repaired aircraft mechanical and electrical armament/ordnance systems",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Saint Leo University",
+      "url": "",
+      "area": "Criminal Justice",
+      "studyType": "Bachelor of Arts",
+      "startDate": "",
+      "endDate": "2015",
+      "score": "3.778",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Deans List",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "",
+      "level": "",
+      "keywords": ["Ordnance", "Weapons", "Airborne Weapons", "Aircraft Mechanical", "Aircrew", "Aviation", "Calibration", "Corrosion", "Corrosion Control", "Inspection", "Inventory", "Missile", "Systems Design", "Testing", "Training", "Weapon", "Cashier", "Database", "Excel", "F-16", "Maintenance", "Retail", "Retail Marketing", "Pcs", "Scanning", "Security", "X-ray", "Access", "Acrobat", "Adobe Acrobat", "Enterprise Resource Planning", "Fedex", "Ms Access", "Ms Excel", "Ms Outlook", "Ms Word", "Outlook", "Word"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Bilingual"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "military": [
+    {
+      "company": "Company Name",
+      "position": "Aviation Ordnanceman",
+      "url": "",
+      "startDate": "January 1977",
+      "endDate": " January 2010",
+      "summary": "Provide information to space 'A' travelers as well as PCS customers. Loaded over 5,000 60 to 75lb bags on state of the art Air Force 'X' ray equipment. Provided force protection security for the AMC military terminal. Monitor all illegal material using the available x-ray, explosive and narcotics detection, magnetometer, hand held scanning equipment, and video monitoring camera. Illegal material includes weapons, explosives, narcotics, and any other materials which are unauthorized for air transportation. Oceana Naval Air Station/USS George Bush (CVN 77) Virginia Beach, Virginia 2010-2012 Aviation Ordnanceman Inspect, maintained and repaired aircraft mechanical and electrical",
+      "highlights": []
+    }
+  ]
+}

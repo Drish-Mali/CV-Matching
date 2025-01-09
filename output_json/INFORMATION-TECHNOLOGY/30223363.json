@@ -1,0 +1,84 @@
+{
+  "basics": {
+    "name": "BUSINESS SYSTEMS ANALYST I",
+    "label": "Business Systems Analyst",
+    "email": "",
+    "phone": "",
+    "summary": "Worked at University of Maryland as an active member of Student Council of Asian Students. Collaborated with multidisciplinary teams within Merkle to support solution delivery process.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Business Systems Analyst I",
+      "startDate": "2014-09",
+      "endDate": "Current",
+      "summary": "Lead on client team to support projects spanning multiple regional databases and support teams. Primary contact for client, client partners, and other stakeholders, managing daily responsibilities associated with multi-channel database marketing programs.",
+      "highlights": [
+        "Project: SMB CRM Marketing Database Solution",
+        "Project: Consumer Global Marketing Database Solution",
+        "Project: Dell Financial Services"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "IT Analyst Intern",
+      "startDate": "2011-05",
+      "endDate": "2011-12",
+      "summary": "Assisted IT Admin for managing user access rights, user groups, and documentation upload on MS SharePoint. Tested vendor solutions and newly modified systems to ensure meeting client specifications.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "IT Support",
+      "startDate": "2010-05",
+      "endDate": "2010-07",
+      "summary": "Handled service requests from library staff using Sys-Aid ticketing software. Responsible for troubleshooting hardware/software devices, maintained LAN of UM Libraries and performed Ghosting, G-Disking processes.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Maryland",
+      "area": "Information Management",
+      "studyType": "MS",
+      "startDate": "",
+      "endDate": "2011-12",
+      "score": "3.67 /4.0",
+      "courses": ["Database Design", "Web Enabled Databases (PHP)", "Information Architecture", "Management of Information and Services", "Project  Performance Measurement", "System and Software Requirements"]
+    },
+    {
+      "institution": "Mumbai University",
+      "area": "Computer Engineering",
+      "studyType": "B.E",
+      "startDate": "",
+      "endDate": "2009-05",
+      "score": "First Division",
+      "courses": ["Computer Engineering"]
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Business Systems Analysis",
+      "level": "",
+      "keywords": [
+        "Database", "Marketing", "Systems Analyst", "Project Management", "Business Requirements", "Solutions", "Metrics", "QA", "Documentation", "Accountable For", "Accounts To", "Adjustments", "And Account", "Basis", "Campaign Management", "Client Communication", "Clients", "Consumer Marketing", "Credit", "Data Analysis", "Data Quality", "Financial Services", "Mapping", "Marketing Analysis", "Marketing Campaign", "Marketing Research", "Process Documentation", "Product Manager", "Program Management", "Public Relations", "Quality Control", "Requirements Gathering", "Topo", "Databases", "Bsa", "Business Systems Analysis", "Change Management", "Crm", "Crm Marketing", "Customer Relationship Management", "Data Integration", "Database Marketing", "Deployment", "Gap Analysis", "Integration", "Integrator", "QA Process", "Root Cause Analysis", "Satisfaction", "Segmentation", "Access", "Business Intelligence", "Functional Specifications", "Liaison", "Microsoft Sharepoint", "MS Sharepoint", "Sharepoint", "User Access", "Writing Functional", "C++", "Data Warehouse", "Front End", "Front End Design", "Front-end", "HTML", "Informatica", "Java", "Lamp", "Lamp Stack", "Life Cycle", "Linux", "Microsoft Project", "MS Project", "MS SQL Server", "MS SQL Server 2005", "MS Visio", "MySQL", "Oracle", "Perl", "Rational", "Rational Rose", "ROI", "SAP", "Sorting", "SQL", "SQL Server", "SQL Server 2005", "Subject Matter Expert", "Technical Specifications", "Translated", "UML", "Visio", "Warranty", "Windows XP", "XML", "Ghosting", "IT Support", "Maintenance", "Architecture", "Database Design", "Information Architecture", "PHP", "Software Requirements"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

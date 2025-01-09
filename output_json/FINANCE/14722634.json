@@ -1,0 +1,149 @@
+{
+  "basics": {
+    "name": "",
+    "label": "FINANCE DIRECTOR",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Remarkably astute and analytical professional with over 12 years of hands-on experience in diverse accounting and finance management, human resources, facilities administration, and policy interpretation and implementation. Versatile with excellent ability to work independently or as part of a team. Highly skilled in financial and accounting analyses, combined with strong organizational, communication, and leadership abilities.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Finance Director",
+      "url": "",
+      "startDate": "2012-01-01",
+      "endDate": "2016-07-30",
+      "summary": "Administer 137 million in federal funding to over 15K low income families in Miami Dade County...",
+      "highlights": [
+        "Lead Accounting & Finance Team",
+        "Payroll Preparation and Administration",
+		"Maintaining Financial Goals",
+		"Procurement"
+      ]
+    },
+	{
+      "name": "Company Name",
+      "position": "Corporate Controller",
+      "url": "",
+      "startDate": "2008-01-01",
+      "endDate": "2012-01-01",
+      "summary": "Financial Management / Oversight: Responsible for all accounts, ledgers, and reporting systems...",
+      "highlights": [
+        "Cash Management",
+        "Compliance/Processes",
+		"Supervision"
+      ]
+    },
+	{
+      "name": "Company Name",
+      "position": "SR Tax Analyst",
+      "url": "",
+      "startDate": "2003-03-01",
+      "endDate": "2007-12-30",
+      "summary": "Review and correct Trust Returns (1041), Corporate Returns (1065), and apply CT K-1 to non-residents tax payers...",
+      "highlights": [
+        "Helped around 200 daily tax payers for related tax issues"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Eastern CT State University",
+      "url": "",
+      "area": "Business",
+      "studyType": "BA",
+      "startDate": "",
+      "endDate": "2004-01-01",
+      "score": "",
+      "courses": []
+    },
+	{
+      "institution": "University of Hartford",
+      "url": "",
+      "area": "Taxation",
+      "studyType": "MST",
+      "startDate": "",
+      "endDate": "2007-01-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "General Skills",
+      "level": "",
+      "keywords": [
+        "Accounting",
+        "general accounting",
+		"accruals",
+		"approach",
+		"trial balance",
+		"benefits",
+		"budgeting",
+		"budget",
+		"cash flow",
+		"analyze cash flow",
+		"Cash Management",
+		"interpersonal & communication",
+		"communication skills",
+		"contracts",
+		"decision making",
+		"delivery",
+		"documentation",
+		"drivers",
+		"Senior Management",
+		"filing",
+		"Finance",
+		"Financial",
+		"analyze financial data",
+		"Financial Management",
+		"financial reports",
+		"financial reporting",
+		"forecasting",
+		"functional",
+		"funds",
+		"general ledger",
+		"Hub",
+		"Human Resources",
+		"leadership",
+		"negotiating",
+		"negotiation",
+		"organizational",
+		"payables",
+		"Payroll",
+		"Policies",
+		"pricing",
+		"Processes",
+		"Procurement",
+		"reporting",
+		"sales",
+		"sound",
+		"Supervision",
+		"Tax",
+		"taxes",
+		"tax returns",
+		"telecommunication",
+		"treasury",
+		"vendor management"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

@@ -1,0 +1,98 @@
+{
+  "basics": {
+    "name": "Name not provided",
+    "label": "Sales Consultant",
+    "email": "Email not provided",
+    "phone": "Phone not provided",
+    "url": "URL not provided",
+    "summary": "I'm driven to develop and implement fresh sales and marketing strategies with financial and operational discipline. Friendly Sales Associate proficient in managing all areas of sales and customer service in fast-paced retail environments. Excellent multi-tasker and team player.",
+    "location": {
+      "address": "Address not provided",
+      "postalCode": "Postal code not provided",
+      "city": "City not provided",
+      "countryCode": "US",
+      "region": "Region not provided"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Boost Mobile of Mobile Factory",
+      "position": "Sales Consultant",
+      "url": "URL not provided",
+      "startDate": "2015-03-01",
+      "endDate": "2015-11-01",
+      "summary": "Strategically managed and implemented sales and marketing plans. Trained new sales associates on effective techniques and helped customers select products that best fit their personal needs.",
+      "highlights": [
+        "Sold 31 phones in a single day along with accessories.",
+        "Sales week record selling 199 phones and $3088 worth in accessories",
+        "Fulfilled all supervisory duties when Store Manager was on vacation"
+      ]
+    },
+    {
+      "name": "Michaels Arts & Crafts",
+      "position": "Cashier",
+      "url": "URL not provided",
+      "startDate": "2014-10-01",
+      "endDate": "2014-12-01",
+      "summary": "Assisted customers with their needs, handled money throughout the day and gave change back. ",
+      "highlights": []
+    },
+    {
+      "name": "Company Name not provided",
+      "position": "Front Clerk",
+      "url": "URL not provided",
+      "startDate": "2014-02-01",
+      "endDate": "2014-06-01",
+      "summary": "Accepted payment from customers, cleaned up spills and trash, and took cake orders over the phone",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Northwood High School",
+      "url": "URL not provided",
+      "studyType": "High School Diploma",
+      "startDate": "2010-01-01",
+      "endDate": "2014-01-01",
+      "score": "N/A",
+      "courses": [
+        "N/A"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Professional skills",
+      "level": "N/A",
+      "keywords": [
+        "Sales expertise",
+        "Customer service",
+        "Communication skills",
+        "Inventory management",
+        "Staff training and development",
+        "Verbal/written communication in English & Spanish",
+        "Active listening",
+        "Excellent multi-tasker",
+        "Cash handling accuracy",
+        "Detail-oriented",
+        "Fast paced worker",
+        "Attention to detail",
+        "Fast learner"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

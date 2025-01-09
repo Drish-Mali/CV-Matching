@@ -1,0 +1,107 @@
+{
+  "basics": {
+    "name": "INDUSTRIAL ENGINEERING INTERN",
+    "label": "Industrial Engineer",
+    "email": "",
+    "phone": "",
+    "summary": "Outstanding productivity as high potential project supervisor and design engineer. Hands-on experience in data analysis, discrete event simulations, manufacturing processes, process improvement, machine shop practices, welding and fabrication, and quality control.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Industrial Engineering Intern",
+      "startDate": "2014-08-01",
+      "endDate": "2014-12-01",
+      "summary": "Re-developed existing company labor system application and performed on-site data collection. Assisted in creating customized model, animations, and discrete event simulations and analysis for Airline project."
+    },
+    {
+      "name": "Company Name",
+      "position": "Industrial Engineer",
+      "startDate": "2011-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Redesigned equipment layout and process flow that reduced cycle time 13%. Assisted in capital budgeting/return on investment (ROI) analysis and trained and guided technicians in lean and continuous process improvement methodologies."
+    },
+    {
+      "name": "Company Name",
+      "position": "Industrial Engineer",
+      "startDate": "2007-01-01",
+      "endDate": "2010-12-01",
+      "summary": "Revamped workstation layout and implemented ergonomic philosophy in equipment placing. Conducted research and developed new/existing manufacturing equipment, processes and methods. Implemented process control plans and assisted with design of manufacturing tools and fixtures. Designed, implemented and documented standard work instructions and standard operating procedures. Supported company initiatives."
+    },
+    {
+      "name": "Company Name",
+      "position": "Manufacturing Quality Engineer",
+      "startDate": "2005-01-01",
+      "endDate": "2006-12-01",
+      "summary": "Performed inspections, checks, tests, and sampling procedures of incoming materials. Conducted and documented process, environmental and quality control system audits."
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Texas Arlington",
+      "area": "Industrial and Manufacturing Engineering",
+      "studyType": "Master",
+      "startDate": "",
+      "endDate": "2014-12-01",
+      "score": "4.00",
+      "courses": []
+    },
+    {
+      "institution": "Federal University of Technology",
+      "area": "Materials and Metallurgical Engineering",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "2004-06-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "PMI, Certified Project Management Professional (PMP)",
+      "date": "2013-07-01",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Industrial Engineering",
+      "level": "",
+      "keywords": [
+        "C#", 
+        "ASP.NET", 
+        "Visual Basic", 
+        "Ms Visual Studio", 
+        "Ms Office Suite (Word, Excel, Project, PowerPoint, Access, Outlook, Visio)",
+        "Simulations using Witness13 and SIMIO", 
+        "ERP-SAP", 
+        "SAS-STAT", 
+        "AutoCAD"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [
+    {
+      "name": "Professional Interests",
+      "keywords": [
+        "Member, Institute of Industrial Engineers",
+        "Member, Tau Beta Pi Engineering Honor Society"
+      ]
+    }
+  ],
+  "references": [],
+  "projects": []
+}

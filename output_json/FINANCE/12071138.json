@@ -1,0 +1,114 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Director of Finance",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Progressive financial and managerial experience in not-for-profit and for-profit organizations. Accountable for financial management of $15M not-for-profit health center with responsibility of financial reporting, investment reporting, budget preparation in collaboration with Senior Management, staff supervision and coaching, and financial systems.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Director of Finance",
+      "url": "",
+      "startDate": "2012-01-01",
+      "endDate": "Current",
+      "summary": "Prepare financial statements for presentation to the Treasurer of the Board of Directors, Finance Committee, and senior staff.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Chief Financial Officer",
+      "url": "",
+      "startDate": "2009-01-01",
+      "endDate": "2012-01-01",
+      "summary": "Prepared and analyzed the financial statements for monthly presentation to Senior Management, the Finance Committee of the Board of Directors, and the Board of Directors.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Director of Finance",
+      "url": "",
+      "startDate": "2007-01-01",
+      "endDate": "2009-01-01",
+      "summary": "Prepared and analyzed general ledger, including cost centers, in compliance with Federal, State and grant funding requirements.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Treasury/Investment Analyst",
+      "url": "",
+      "startDate": "2007-01-01",
+      "endDate": "2007-01-01",
+      "summary": "Prepared monthly endowment investment performance and allocation report for Investment Committee and Chief Financial Officer using BNY Mellon Analytical Solutions and Excel worksheets.",
+      "highlights": []
+    },
+     {
+      "name": "Company Name",
+      "position": "Director of Finance and Administration",
+      "url": "",
+      "startDate": "2000-01-01",
+      "endDate": "2007-01-01",
+      "summary": "Provided financial analysis of investments of $72M including the reconciliation of trust operating system to investment managers, valuation of common investment funds, and reconciliation of customer accounts.",
+      "highlights": []
+    } 
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "SOUTHERN NEW HAMPSHIRE UNIVERSITY",
+      "url": "",
+      "area": "Business Administration",
+      "studyType": "Masters",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "SOUTHERN NEW HAMPSHIRE UNIVERSITY",
+      "url": "",
+      "area": "Office Administration Accounting",
+      "studyType": "B.S",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Finance",
+      "level": "",
+      "keywords": [
+        "Accounting",
+        "Finance",
+        "Budget",
+        "Billing",
+        "Investments",
+        "Payroll processing", 
+        "Project management", 
+        "Microsoft Office",
+        "Financial analysis", 
+        "Financial audits", 
+        "Financial statements"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

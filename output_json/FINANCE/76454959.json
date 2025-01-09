@@ -1,0 +1,133 @@
+{
+"basics": {
+    "name": "Finance Director",
+    "label": "Finance Professional",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Dedicated and accomplished Finance Professional with extensive experience in FINANCIAL MANAGEMENT & BUDGETING seeks a management position where I can further enhance the achievement of an organization's objectives and targets.",
+    "location": {
+        "address": "",
+        "postalCode": "",
+        "city": "",
+        "countryCode": "",
+        "region": ""
+    },
+    "profiles": []
+},
+"work": [
+    {
+        "name": "Company Name",
+        "position": "Finance Director",
+        "url": "",
+        "startDate": "2013-01-01",
+        "endDate": "Current",
+        "summary": "Reports directly to the Vice President of Finance and supports the CFO organization with financial and strategic insight.",
+        "highlights": [
+            "Led the design and implementation of a more comprehensive incentive compensation plan that improved sales compensation effectiveness and minimized potential liability exposure to the company."
+        ]
+    },
+    {
+        "name": "Company Name",
+        "position": "Finance Manager",
+        "url": "",
+        "startDate": "2008-01-01",
+        "endDate": "2012-12-31",
+        "summary": "Prepared and managed the annual budget, forecast and strategic long term plan process for the Concord & Paypoint divisions with revenue of $225M.",
+        "highlights": [
+            "Administered and managed the National Sales compensation plans in a timely and efficient manner in order to accurately pay commissions totaling $4M annually."
+        ]
+    },
+    {
+        "name": "Company Name",
+        "position": "Finance Manager",
+        "url": "",
+        "startDate": "2005-04-01",
+        "endDate": "2008-01-01",
+        "summary": "Developed and managed the annual budget and forecast process for the Cross Sales division with revenue of $57M.",
+        "highlights": [
+            "Implemented process improvements including streamlining operations which positively impacted the bottom line by $1M."
+        ]
+    },
+    {
+        "name": "Company Name",
+        "position": "Senior Financial Analyst",
+        "url": "",
+        "startDate": "2000-04-01",
+        "endDate": "2005-04-01",
+        "summary": "Prepared annual budget for the Medical Products division with revenue of $550M.",
+        "highlights": [
+            "Recipient of numerous Q inside the O (Quality inside Olympus) awards."
+        ]
+    },
+    {
+        "name": "Company Name",
+        "position": "Financial Analyst",
+        "url": "",
+        "startDate": "1997-01-01",
+        "endDate": "2000-04-01",
+        "summary": "Prepared annual budgets for the Medical and Industrial Products divisions with combined revenue of $380M.",
+        "highlights": []
+    },
+    {
+        "name": "Company Name",
+        "position": "Financial Analyst",
+        "url": "",
+        "startDate": "1995-03-01",
+        "endDate": "1997-01-01",
+        "summary": "Prepared annual budget with revenue of $55M.",
+        "highlights": []
+    },
+    {
+        "name": "Company Name",
+        "position": "Financial Analyst",
+        "url": "",
+        "startDate": "1992-10-01",
+        "endDate": "1995-03-01",
+        "summary": "Prepared annual budget with revenue of $41M.",
+        "highlights": []
+    },
+    {
+        "name": "Company Name",
+        "position": "Budget Analyst",
+        "url": "",
+        "startDate": "1990-12-01",
+        "endDate": "1992-10-01",
+        "summary": "Prepared annual expense budget totaling $6M for 47 Macy's Northeast stores.",
+        "highlights": []
+    }
+],
+"education": [
+    {
+        "institution": "Hofstra University",
+        "url": "",
+        "area": "Economics",
+        "studyType": "Bachelor of Arts",
+        "startDate": "1989-01-01",
+        "endDate": "1989-12-31",
+        "score": "",
+        "courses": []
+    }
+],
+"skills": [
+    {
+        "name": "Finance",
+        "level": "",
+        "keywords": [
+            "Microsoft Office software (Excel, Word, PowerPoint and Access)",
+            "Oracle",
+            "JD Edwards",
+            "Hyperion",
+            "Accounting"
+        ]
+    }
+],
+"languages": [],
+"interests": [],
+"references": [],
+"projects": [],
+"volunteer": [],
+"awards": [],
+"publications": [],
+"certificates": []
+}

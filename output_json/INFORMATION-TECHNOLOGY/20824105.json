@@ -1,0 +1,119 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Information Technology and AWS Admin Intern",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Actively seeking full time opportunities from December 2019",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "",
+      "position": "Information Technology and AWS Admin Intern",
+      "url": "",
+      "startDate": "04/2019",
+      "endDate": "",
+      "summary": "Researched and implemented a secure cloud infrastructure for migrating the financial data into AWS with seamless integration for company's financial department. Achieved an overall increment of 30% in efficiency by migrating the company's infrastructure to AWS cloud. Reduced the company's infrastructure cost by 10 times. Implemented secure off-site backups through scheduled weekly SSH dumps to remote server. Configured and troubleshot switches, routers and firewalls using TCP/IP protocols.",
+      "highlights": []
+    },
+    {
+      "name": "",
+      "position": "Network Engineer Intern",
+      "url": "",
+      "startDate": "10/2015",
+      "endDate": "",
+      "summary": "Built LAN and WAN for small-scale business enterprises using HTTP, DHCP, DNS, OSPF, VLAN.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Northeastern University, Solapur University",
+      "url": "",
+      "area": "Telecommunication and Networks",
+      "studyType": "Master of Science",
+      "startDate": "",
+      "endDate": "12/2019",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "",
+      "url": "",
+      "area": "Electronics and Telecommunications",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "",
+      "endDate": "06/2016",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "AWS Certified Solutions Architect- Associate",
+      "date": "10/2018",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "Cisco Certified Network Associate - CCNA 200-125",
+      "date": "04/2019",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Networking",
+      "level": "",
+      "keywords": [
+        "TCP/IP","UDP","HTTP/S","DHCP","DNS","STP","HSRP","ISIS","RIP","OSPF","MPLS","FTP","SMTP","IPSec","VLAN","VPN"
+      ]
+    },
+    {
+      "name": "Network Tools",
+      "level": "",
+      "keywords": [
+        "Wireshark","VMware","Cisco Packet Tracer","VirtualBox", "Oracle","Windows Server","AWS","Active Directory"
+      ]
+    },
+    {
+      "name": "Operating Systems",
+      "level": "",
+      "keywords": [
+        "Windows","Linux","CentOs","Ubuntu","RHEL"
+      ]
+    },
+    {
+      "name": "Programming languages",
+      "level": "",
+      "keywords": [
+        "Python","Bash Scripting"
+      ]
+    },
+    {
+      "name": "Coursework",
+      "level": "",
+      "keywords": [
+        "Data Networking","Linux for Network Engineers","Internet Protocols & Architecture","Network Security","Computer Communication Networks","Multimedia Communication"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

@@ -1,0 +1,117 @@
+{
+  "basics": {
+    "name": "Storekeeper II",
+    "label": "Inventory Management Professional",
+    "summary": "A professional with over 10 years of experience in procurement and purchasing. Has a friendly attitude and worm personality, known for building positive relationships with customers. Skilled at maintaining and reconciling inventory, processing purchase orders and interfacing with vendors. Commitment to serving and devoted to accomplishing tasks quickly and efficiently.",
+    "location": {
+      "city": "Peoria",
+      "countryCode": "US"
+    }
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Storekeeper II",
+      "startDate": "2002-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Managed inventory, provided customer service to Departmental and Fleet Maintenance Personnel, and acted as a trainer for Forklift Operator Safety. Also involved in shipping procedures.",
+      "highlights": [
+        "Utilized PeopleSoft for procurement and receiving shipments",
+        "Processed work orders and fill Fleet Purchase Requisitions",
+        "Conducted inventory cycle counts and coordinated stocks"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Warehouse Floor Supervisor",
+      "startDate": "1996-01-01",
+      "endDate": "2001-01-01",
+      "summary": "Responsibilities included: Interviewing prospective employees, providing daily instructions to warehouse personnel and dispatching drivers, conducting routine cycle counts, verifying incoming shipments, and maintaining inventory and quality control procedures."
+    },
+    {
+      "name": "Company Name",
+      "position": "Aviation Structural Mechanic",
+      "location": "City, State",
+      "summary": "Worked as an aircraft hydraulic and structural systems mechanic as a member of Naval Aircraft Squadron VS-38."
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Grand Canyon University",
+      "area": "Business Management Administration",
+      "studyType": "Bachelor's Degree",
+      "location": "City, State"
+    },
+    {
+      "institution": "National Education Center",
+      "studyType": "Associate Degree",
+      "location": "City, State"
+    },
+    {
+      "institution": "Naval Aviation A School",
+      "studyType": "Graduate Course",
+      "location": "City, State"
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Certified Trainer",
+      "issuer": "Forklift Truck Operator Safety"
+    },
+    {
+      "name": "AutoCAD Certificate",
+      "issuer": "Architectural Drafting"
+    },
+    {
+      "name": "Certificate",
+      "issuer": "Electro Mechanical Systems Repair",
+      "location": "City, State"
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Inventory Management",
+      "level": "Advanced"
+    },
+    {
+      "name": "Procurement",
+      "level": "Advanced"
+    },
+    {
+      "name": "Purchasing",
+      "level": "Advanced"
+    },
+    {
+      "name": "Customer Service",
+      "level": "Advanced"
+    },
+    {
+      "name": "Autocad",
+      "level": "Proficient"
+    },
+    {
+      "name": "PeopleSoft",
+      "level": "Proficient"
+    },
+    {
+      "name": "Microsoft Office",
+      "level": "Proficient",
+      "keywords": [
+        "Excel",
+        "Word",
+        "PowerPoint"
+      ]
+    },
+    {
+      "name": "Forklift Operation",
+      "level": "Certified Trainer"
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

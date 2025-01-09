@@ -1,0 +1,111 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Mortgage Group Operations Manager, Banking Officer",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Self-motivated banking professional offering strong communication and quick thinking skills. Works effectively on teams, as well as independently, in fast-paced environments.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "",
+        "username": "",
+        "url": ""
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "BB&T",
+      "position": "Mortgage Group Operations Manager, Banking Officer",
+      "url": "",
+      "startDate": "2014-08",
+      "endDate": "Current",
+      "summary": "Monitor and approve pricing deviations in accordance with BB&T policy. Monitor pipelines to ensure compliance and timely action for clients by Mortgage Loan Officers (MLOs).",
+      "highlights": [
+        "Monitoring",
+        "Coaching",
+        "Regulations Compliance"
+      ]
+    },
+    {
+      "name": "BB&T",
+      "position": "Home Mortgage Direct Mortgage Loan Counselor",
+      "url": "",
+      "startDate": "2013-08",
+      "endDate": "2014-08",
+      "summary": "Provide mortgage clients sound mortgage advice based on a full understanding of client needs as well as BB&T Mortgage products and their benefits.",
+      "highlights": []
+    },
+    {
+      "name": "BB&T",
+      "position": "Credit Analyst 1",
+      "url": "",
+      "startDate": "2011-01",
+      "endDate": "2013-08",
+      "summary": "Responsible for spreading financial statements and tax returns according to GAAP and internal credit policies.",
+      "highlights": []
+    },
+    {
+      "name": "BB&T",
+      "position": "Commercial Loan Documentation Specialist",
+      "url": "",
+      "startDate": "2010-01",
+      "endDate": "2011-04",
+      "summary": "Loan administration duties include the review and preparation for assigned loan portfolio.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Guilford College",
+      "url": "",
+      "area": "Business Management",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "2015",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Dan Mohr Estate School",
+      "url": "",
+      "area": "Real Estate Broker",
+      "studyType": "Salesperson / Broker Course",
+      "startDate": "",
+      "endDate": "2003-04",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Banking",
+      "level": "",
+      "keywords": [
+        "MS Office proficient",
+        "Reliable",
+        "Risk management evaluation background",
+        "Strong sense of banking ethics",
+        "Excellent communication skills",
+        "Strong compliance and operational background",
+        "Organized"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

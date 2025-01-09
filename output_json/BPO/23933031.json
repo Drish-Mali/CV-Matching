@@ -1,0 +1,75 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Sr. Workforce Manager",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Results-oriented Workforce & Relationship Manager with diverse background in management & customer service, dedicated to providing excellent customer service and making operational and procedural improvements that drive savings.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Sr. Workforce Manager",
+      "url": "",
+      "startDate": "2014-12-01",
+      "endDate": "2015-05-01",
+      "summary": "Reduction of non-productive agent time by 33%, forecasting 14 million yearly contacts within +/- 5% of projection FY16. Managed a team for operational efficiency and made significant savings through effective resource allocation.",
+      "highlights": ["33% reduction of non-productive agent time", "Forecasted 14 million yearly contacts within +/- 5%", "Saving of $250,000 for FY16 Q1", "Reduced onshore hours by 46%; saved $17 million annually", "Saved $1.14 million annually with 30% performance improvement"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Consultant",
+      "url": "",
+      "startDate": "2000-01-01",
+      "endDate": "2011-11-01",
+      "summary": "Managed operations and project readiness, implementation of policies for marketing and client satisfaction, account management and business development while maintaining and keeping up with client expectations. Managed resources and saved $1.14 million annually with 30% performance improvement.",
+      "highlights": ["Managed client accounts and identified business opportunities", "Integrated senior management staff duties and saved over $1.14 million annually", "Launched three T-Mobile authorized stores with net revenues of $600,000 annually"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Intraday Operations Analyst",
+      "url": "",
+      "startDate": "1996-10-01",
+      "endDate": "2000-01-01",
+      "summary": "Managed workforce operations staff and reviewed performance metrics and workforce adherence to ensure client expectations. Handled daily metrics of help desk performance and involved in recruitment, training and performance reviews.",
+      "highlights": ["Supervised workforce operations staff", "Reported daily metrics of help desk performance", "Leveraged workforce according to contractual stipulations"]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Portland State University",
+      "url": "",
+      "area": "Social Science",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Workforce Management",
+      "level": "Senior",
+      "keywords": ["account management", "b2b", "budgets", "business development", "Business Intelligence", "contract negotiations", "Customer Services", "e-Commerce", "executive management", "financial", "Gateway", "Help Desk", "HP", "hiring", "Kronos", "leadership", "marketing", "Enterprise", "optimization", "policies", "proposals", "quality", "QA", "Quality Assurance", "real-time", "recruiting", "Reporting", "Sales", "scheduling", "staffing", "Symantec", "technical support", "telecommunications"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

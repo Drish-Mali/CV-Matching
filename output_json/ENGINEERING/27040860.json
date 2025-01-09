@@ -1,0 +1,112 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Engineering Technologist",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "To obtain a position within an organization that utilizes my skill set to continuously add value and achieve best-in-class results.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Engineering Technologist",
+      "url": "",
+      "startDate": "2016-12-01",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": []
+    },{
+      "name": "Company Name",
+      "position": "Sr Administrative Assistant/Technologist",
+      "url": "",
+      "startDate": "2014-06-01",
+      "endDate": "2016-12-01",
+      "summary": "",
+      "highlights": []
+    },{
+      "name": "Company Name",
+      "position": "Assistant Office Manager",
+      "url": "",
+      "startDate": "2010-03-01",
+      "endDate": "2010-12-01",
+      "summary": "Managed Sales team as well as Dispatch Team. Responsible for training new employees, supervising and scheduling, along with delegating tasks. Main focus was to build and maintain good relationships with customers and carriers to ensure prosperous business.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Simiyu House",
+      "position": "Volunteer",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Volunteered in Kenya for Simiyu House organization",
+      "highlights": []
+    },
+    {
+      "organization": "Peruvian Hearts",
+      "position": "Volunteer",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Volunteered in Peru for the Peruvian Hearts program",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Purdue University",
+      "url": "",
+      "area": "Sociology Business Management",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "2006-12-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Data Analysis",
+      "level": "",
+      "keywords": [
+        "Microsoft Office",
+        "OpenWells",
+        "Spotfire",
+        "SAP",
+        "Concur",
+        "QuickBooks",
+        "Adobe"
+      ]
+    },{
+      "name": "Administration",
+      "level": "",
+      "keywords": []
+    },{
+      "name": "Customer Service",
+      "level": "",
+      "keywords": []
+    },{
+      "name": "Inventory Management",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

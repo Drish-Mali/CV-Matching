@@ -1,0 +1,86 @@
+{
+  "basics": {
+    "name": "Not Provided",
+    "label": "Adjunct Instructor, Volunteer Career Adviser",
+    "image": "",
+    "email": "Not Provided",
+    "phone": "Not Provided",
+    "url": "Not Provided",
+    "summary": "Administrative professional with extensive experience in academia, sales, customer service in a number of venues.",
+    "location": {
+      "address": "Not Provided",
+      "postalCode": "Not Provided",
+      "city": "Not Provided",
+      "countryCode": "Not Provided",
+      "region": "Not Provided"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Adjunct Instructor, Volunteer Career Adviser",
+      "url": "Not Provided",
+      "startDate": "2013-10",
+      "endDate": "Current",
+      "summary": "Teach courses on American and International Politics. Work with career staff to assist undecided and graduating seniors.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Consultant",
+      "url": "Not Provided",
+      "startDate": "2009-01",
+      "endDate": "Current",
+      "summary": "Began consultancy as a professional and academic writer specializing in grant writing projects. Currently completing coursework in the extension program at University California for certification as an Independent Educational Consultant.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Fordham University",
+      "url": "Not Provided",
+      "area": "Middle East Studies",
+      "studyType": "B.A",
+      "startDate": "Not Provided",
+      "endDate": "1986-05",
+      "score": "Summa cum Laude",
+      "courses": []
+    },
+    {
+      "institution": "Fordham University",
+      "url": "Not Provided",
+      "area": "Political Science",
+      "studyType": "M.A",
+      "startDate": "Not Provided",
+      "endDate": "1989",
+      "score": "4.0",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Academic advising",
+      "level": "Not Provided",
+      "keywords": []
+    },
+    {
+      "name": "Consulting",
+      "level": "Not Provided",
+      "keywords": []
+    },
+    {
+      "name": "Grant writing",
+      "level": "Not Provided",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

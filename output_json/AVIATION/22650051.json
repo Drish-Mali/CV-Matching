@@ -1,0 +1,104 @@
+{
+  "basics": {
+    "name": "Not provided",
+    "label": "Customer Service Representative",
+    "image": "",
+    "email": "Not provided",
+    "phone": "Not provided",
+    "url": "Not provided",
+    "summary": "To find a long term career that is enjoyable and a great place to work. Being able to support a family is a big plus as well!",
+    "location": {
+      "address": "Not provided",
+      "postalCode": "Not provided",
+      "city": "Not provided",
+      "countryCode": "US",
+      "region": "Not provided"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Customer Service Rep",
+      "url": "Not provided",
+      "startDate": "2015-07",
+      "endDate": "Current",
+      "summary": "Collected customer feedback and made process changes to exceed customer satisfaction goals. Made reasonable procedure exceptions to accommodate unusual customer requests. Provided accurate and appropriate information in response to customer inquiries. Demonstrated mastery of customer service call script within specified timeframes. Addressed customer service inquiries in a timely and accurate fashion. Maintained up-to-date records at all times. Developed effective relationships with all call center departments through clear communication...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Aprentice Tech",
+      "url": "Not provided",
+      "startDate": "2014-06",
+      "endDate": "2015-05",
+      "summary": "Followed checklists to verify that all important parts were examined. Examined vehicles to determine the extent of damage or malfunctions. Communicated with customers regarding vehicle issues and potential repairs. Operated pneumatic tools and air compressors. Removed and replaced tires, Wheels and Lugs...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Aviation Warfare Operator Electronic Operator",
+      "url": "Not provided",
+      "startDate": "2012-06",
+      "endDate": "2014-06",
+      "summary": "Coordinated all department functions for team of 250 employees. Verified and logged in deadlines for responding to daily inquiries. Coordinated with airport vendors regarding fueling and catering logistics. Operated full cabin management systems, including the APY-10 Radar, ELetronic Support Measure, Radios, Integrated Friend or Foe...",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Aviation Warfare Operator-A1 A School",
+      "url": "Not provided",
+      "area": "Electronic Warfare Operator training",
+      "studyType": "On The Job Training",
+      "startDate": "2014",
+      "endDate": "2014",
+      "score": "Not provided",
+      "courses": ["On The job training for Electronic Warfare Operator"]
+    },
+    {
+      "institution": "Naval Aircrew Candidate School",
+      "url": "Not provided",
+      "area": "Qualification for flight",
+      "studyType": "Special Course",
+      "startDate": "2012",
+      "endDate": "2012",
+      "score": "Not provided",
+      "courses": ["Aviation Physiology, Combat First aid, Aviation mis-hap survival skills"]
+    },
+    {
+      "institution": "Moon Valley High School",
+      "url": "Not provided",
+      "area": "High School",
+      "studyType": "High School Diploma",
+      "startDate": "Not provided",
+      "endDate": "Not provided",
+      "score": "Not provided",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Global War on Terrorism Service Medal",
+      "date": "Not provided",
+      "awarder": "U.S. Military",
+      "summary": "Received Global War on Terrorism Service Medal."
+    }
+  ],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Operations management",
+      "level": "Not provided",
+      "keywords": ["Natural leader", "Proficiency in management and weapons training", "Mathematical aptitude", "Preventative maintenance",
+                    "Proficient communicator", "Quick learner", "Conflict resolution proficiency", "Microsoft Office", "Strong analytical skills", "Troubleshooting skills",
+                    "Excellent problem solving skills"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

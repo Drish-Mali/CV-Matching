@@ -1,0 +1,120 @@
+{
+  "basics": {
+    "name": "QA ENGINEERING MANAGER",
+    "label": "Engineering Manager",
+    "summary": "Seasoned Engineering Manager with ability to build and motivate high-performing engineering team with over 14+ years of experience in cards and payments industry, committed to rapidly and efficiently completing projects by leveraging team-based frameworks to best leverage available engineering talent. Self-motivated, forward thinking mindset, solution-focused, clear communicator, decision maker and problem solver.",
+    "skills": [
+      {
+        "name": "QA Engineering software",
+        "level": "Expert",
+        "keywords": [
+          "Design, Estimate, Execute, Maintain, Document, Organization, Time management, resource planning"
+        ]
+      },
+      {
+        "name": "Technical Communication",
+        "level": "Expert",
+        "keywords": [
+          "Bug Triage, reporting, technical reviews, Root cause analysis"
+        ]
+      },
+      {
+        "name": "Leadership",
+        "level": "Expert",
+        "keywords": [
+          "Strategic Planning, Team building, Conflict resolution, Training & Development, mentoring"
+        ]
+      },
+      {
+        "name": "Automation tools",
+        "level": "Expert",
+        "keywords": [
+          "Design and Implement"
+        ]
+      },
+      {
+        "name": "Collaborating with stakeholders",
+        "level": "Expert",
+        "keywords": [
+          "Roadmap, Managing releases, Demos, Risk mitigation planning"
+        ]
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "QA Engineering Manager",
+      "startDate": "2016-01-01",
+      "summary": "20+ EMV certs in calendar year with team of 2+ cert Analysts. Managed fast-paced project delivery from QA for time-sensitive and key projects for the company. Managed and implemented spreadsheet-based automation, that helped in improved test coverage and reduced production bug by 20% and rollbacks by 80%. Managed team of 8 employees, overseeing hiring, training, and professional growth of employees. 4 promotions within the team including 1 lead and 1 manager."
+    },
+    {
+      "name": "Company Name",
+      "position": "Software Certification Analyst",
+      "startDate": "2015-04-01",
+      "endDate": "2016-01-01",
+      "summary": "Instrumental in procuring 1st EMV certification within 6 months of joining. Established myself as the go-to person for any QA issue within QA and Merchant Implementations team."
+    },
+    {
+      "name": "Company Name",
+      "position": "Project Lead",
+      "startDate": "2005-09-01",
+      "endDate": "2015-04-01",
+      "summary": "Received core value awards - �SYNERGY� in 2009 for team building and �SMART� in 2012 for Individual performances. Nominated for BRAVO award in First Data (2012 and 2014)."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Devi Ahilya University",
+      "area": "Computer Applications, Software Engineering, Databases, Networking, and Operating Systems",
+      "studyType": "Master of Computer Applications (MCA)",
+      "endDate": "2005"
+    },
+    {
+      "institution": "Devi Ahilya University",
+      "area": "Electronics",
+      "studyType": "Bachelors of Science",
+      "endDate": "2002"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certified Scrum Master (CSM)",
+      "date": "2022-05-01",
+      "issuer": ""
+    },
+    {
+      "name": "Certified Tester Foundation Level (CTFL)",
+      "date": "",
+      "issuer": ""
+    },
+    {
+      "name": "Agile Scrum Foundation",
+      "date": "",
+      "issuer": ""
+    },
+    {
+      "name": "Using Python for Automation",
+      "date": "",
+      "issuer": "LinkedIn"
+    },
+    {
+      "name": "Python: XML, JSON, and the Web",
+      "date": "",
+      "issuer": "LinkedIn"
+    },
+    {
+      "name": "SQL for Testers",
+      "date": "",
+      "issuer": "LinkedIn"
+    }
+  ],
+  "skills": [
+    {
+        "name": "Technical Skills",
+        "keywords": [
+          "Test Methodologies, Test Artifacts, Programming Tools, Operating Systems, Virtual Systems, Payment terminals, Version Control Tools, Database and Tools, Project Management, Project Management Methodologies, Talent Management tools, POS Systems, EMV Systems"
+        ]
+    }
+  ]
+}

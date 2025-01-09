@@ -1,0 +1,109 @@
+{
+  "basics": {
+    "name": "S.Mohamed Mohideen",
+    "label": "Senior Executive - Finance",
+    "email": "",
+    "phone": "",
+    "summary": "To be part of an Esteemed Organization, that gives immense opportunities for growth and innovation thereby rendering satisfaction to self and to the employer by way of performance. Should see myself in a responsible position with massive work efficiency, which will increase the image of the organization.",
+    "location": "",
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Senior Executive - Finance",
+      "startDate": "2008-08-01",
+      "endDate": "2015-09-01",
+      "summary": "Resolving payment issues and ensures timely payment to the vendors (Including Local and foreign vendors). Working on GR/IR report etc.",
+      "highlights": [
+        "Developed GL guidelines and circulated to regional offices",
+        "Developed Manual BRS format to simplify month end close activities",
+        "Mass Upload JV to simplify month end close activities.",
+        "Streamlined the procedure and process of Custom duty, Air/Ocean Freight and clearing charges payments"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Accounts Executive",
+      "startDate": "2005-07-01",
+      "endDate": "2008-07-01",
+      "summary": "Handling Petty cash on daily basis. Preparation of journal vouchers and commission statement. General ledger Reconciliation etc.",
+      "highlights": [
+        "Maintained Fixed Asset register",
+        "Inter Branch reconciliations",
+        "Monitoring branch Accounts",
+        "Making vendor payments and Preparation of all kinds of MIS Reports",
+        "Internal audit to branches Cash flow and fund flow preparation",
+        "Making Journal entries TDS, Service Tax, ESI & P F."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Manonmaniam Sundaranar University",
+      "area": "Finance",
+      "studyType": "M.B.A",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Kamaraj College of Arts and science affiliated to Manonmaniam Sundaranar University",
+      "area": "",
+      "studyType": "Bachelor of Commerce",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Finance",
+      "level": "",
+      "keywords": [
+        "Accounts receivables",
+        "Accounts Payable",
+        "Bank reconciliation",
+        "Cash flow",
+        "ERP",
+        "Fixed Asset register",
+        "Forex",
+        "General Ledger",
+        "Internal audit",
+        "MS Excel",
+        "MS Power Point",
+        "Operating System",
+        "Procurement",
+        "Reporting",
+        "SAP",
+        "Tax",
+        "TDS",
+        "MIS",
+        "Month end close activities"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Tamil",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Arabic",
+      "fluency": "Read & Write"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "volunteer": [],
+  "awards": [],
+  "publications": [],
+  "certificates": []
+}

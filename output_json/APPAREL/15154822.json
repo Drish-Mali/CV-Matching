@@ -1,0 +1,167 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Creative Director & Fashion Designer",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Passionate about the fashion industry, I wish to deploy my skills by working with a dedicated and innovative team of designers and fashion professionals...",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Creative Director & Fashion Designer",
+      "url": "",
+      "startDate": "2007-04",
+      "endDate": "2015-02",
+      "summary": "Designed the complete collection with clothing and accessories...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Fashion Designer / Consultant / apparel manufacturer",
+      "url": "",
+      "startDate": "2012-07",
+      "endDate": "2015-09",
+      "summary": "Offered operations advice and designed lines to present to potential investors...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Fashion Designer",
+      "url": "",
+      "startDate": "2002-02",
+      "endDate": "2007-10",
+      "summary": "Responsible for bringing market trends, color, fabric, trim...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Personal Asistance",
+      "url": "",
+      "startDate": "1999-01",
+      "endDate": "2002-12",
+      "summary": "Produced documents, briefing papers, reports and presentations...",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Fashion Institute of Technology",
+      "url": "",
+      "area": "Social Media Marketing",
+      "studyType": "Coursework",
+      "startDate": "2016-01-01",
+      "endDate": "2016-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Fashion Institute of Technology",
+      "url": "",
+      "area": "Fashion Styling Home Fashion Business",
+      "studyType": "Coursework",
+      "startDate": "2016-01-01",
+      "endDate": "2016-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Parsons NYC",
+      "url": "",
+      "area": "Fashion Industry Profile NYC",
+      "studyType": "Associate of Arts",
+      "startDate": "2015-01-01",
+      "endDate": "2015-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Parsons NYC",
+      "url": "",
+      "area": "Fabric Selection And Design Style",
+      "studyType": "Associate of Arts",
+      "startDate": "2015-01-01",
+      "endDate": "2015-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Central Saint Martins",
+      "url": "",
+      "area": "Marketing& Technologie In Fashions Brands",
+      "studyType": "Coursework",
+      "startDate": "2014-01-01",
+      "endDate": "2014-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "ORT Argentina",
+      "url": "",
+      "area": "Dise�ador De Producto E Imagen En Indumentaria",
+      "studyType": "College",
+      "startDate": "2008-01-01",
+      "endDate": "2008-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "INTI / Emilia Romangna Argentina",
+      "url": "",
+      "area": "En Marketing De Moda",
+      "studyType": "Tecnico Superior",
+      "startDate": "2003-01-01",
+      "endDate": "2003-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Universidad de Palermo Argentina",
+      "url": "",
+      "area": "Licenciada En Dise�o Textil E Indumentaria",
+      "studyType": "College",
+      "startDate": "2002-01-01",
+      "endDate": "2002-12-31",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Creative thinking",
+      "level": "Master",
+      "keywords": ["Brand identity development", "Leadership", "Design conception", "Organization and order", "Quality Control", "Communication", "Problem Solving"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Medium-High"
+    },
+    {
+      "language": "Italian",
+      "fluency": "Basic"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

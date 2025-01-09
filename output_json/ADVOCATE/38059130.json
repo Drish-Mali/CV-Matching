@@ -1,0 +1,108 @@
+{
+  "basics": {
+    "name": "Not Provided",
+    "label": "HUMAN RESOURCES MANAGER",
+    "email": "Not Provided",
+    "phone": "Not Provided",
+    "summary": "To continue my professional Human Resource career in a position of leadership focused on creative people strategies and that improve employee engagement, drive business initiatives and focuses on overall operating performance and achieving strategic results.",
+    "location": {
+      "city": "City",
+      "countryCode": "US"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Human Resources Manager",
+      "startDate": "2012-08",
+      "endDate": "Current",
+      "summary": ["Effective leader and change agent. Member of Sr Leadership team. Microsoft Office including: Word, Excel and PowerPoint"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Senior Human Resources Representative",
+      "startDate": "2009-01",
+      "endDate": "2012-08",
+      "summary": ["Strategic partner to leadership; Provide advice and counsel on workforce related activities"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Area Manager - Partner",
+      "startDate": "2003-01",
+      "endDate": "2004-01",
+      "summary": ["Source and engage clients to develop and implement staffing strategies to drive business goals"]
+    },   
+    {
+      "name": "Company Name",
+      "position": "Management Selection Consultant - Organizational Development",
+      "startDate": "2001-01",
+      "endDate": "2003-01",
+      "summary": ["Responsible for recruitment, selection, training and development of management/exempt level personnel"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Regional Recruitment Manager",
+      "startDate": "1998-01",
+      "endDate": "2001-01",
+      "summary": ["80% travel among 21 matrixed facilities, establishing recruitment processes and practices that generated results"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Client Service Manager - Branch Manager",
+      "startDate": "1996-01",
+      "endDate": "1998-01",
+      "summary": ["Responsible for guiding team of HR professionals dedicated to selecting qualified candidates to work at various client locations"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Store Manager",
+      "startDate": "1988-01",
+      "endDate": "1996-01",
+      "summary": ["Managed 24hr location. Generated $13 million in sales annually, supervising and motivating 46 employees"]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Keller Graduate School of Management / Tinley Park, IL",
+      "area": "Human Resource Management",
+      "studyType": "Masters",
+      "startDate": "Not Provided",
+      "endDate": "Not Provided"
+    },
+    {
+      "institution": "Alcorn State University / Lorman, Mississippi",
+      "area": "Business Administration",
+      "studyType": "Bachelor of Science",
+      "startDate": "Not Provided",
+      "endDate": "Not Provided"
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Human Resources Certification Institute (HRCI)",
+      "date": "Not Provided",
+      "issuer": "Not Provided",
+      "url": "Not Provided"
+    },
+    {
+      "name": "Senior Professional in Human Resources (SPHR)",
+      "date": "Not Provided",
+      "issuer": "Not Provided",
+      "url": "Not Provided"
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Human Resources",
+      "keywords": ["Training", "Employee Relations", "Recruitment", "Organizational Development", "Payroll", "Purchasing", "Equal Employment Opportunity", "Recruiting", "Staffing", "Project Management", "Labor Law", "Strategic Planning", "Benefits", "Budget", "Employee Engagement", "Employment Law", "Labor Laws", "Microsoft Office", "PowerPoint", "Word", "Human Resource Management"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

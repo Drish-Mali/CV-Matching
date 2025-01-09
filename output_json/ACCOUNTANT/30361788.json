@@ -1,0 +1,137 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Accountant",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Innovative and energetic Accountant proficient in extracting financial data from various reporting systems and suggesting key operational changes to establish budgetary stability. Has a strong background in school fund accounting with an emphasis on general ledger reconciliation and budget analysis.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Accountant",
+      "url": "",
+      "startDate": "2014-07",
+      "endDate": "Current",
+      "summary": "Perform all general ledger duties for district. Reconcile multiple bank accounts monthly. Record and project cash flows. Perform Accounts Payable/Receivable duties. Simplified the governmental reporting process. Analyze budgets and amend as necessary. Assist auditors with yearly financial statements. Supply school board members with financial data. Create Purchase Orders and supply to vendors. Reconcile student lunch account purchases. Prepare calendar year-end tax documents. Assisted and trained staff with various accounting software tasks � such as purchase order entry and budget report generating.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Staff Accountant",
+      "url": "",
+      "startDate": "2010-11",
+      "endDate": "2014-07",
+      "summary": "Performed Accounts Payable duties for three local area public school districts. Processed Purchase Orders and supplied to vendors. Prepared and processed 1099's at calendar year-end. Prepared various reports on a weekly basis and supplied local districts with valuable information. Streamlined document attachment process within accounting software.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Package Handler",
+      "url": "",
+      "startDate": "2007-08",
+      "endDate": "2010-09",
+      "summary": "Earned Employee of the Month on multiple occasions for customer focus and taking initiative.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Western Michigan University",
+      "url": "",
+      "area": "Accountancy",
+      "studyType": "BBA",
+      "startDate": "",
+      "endDate": "2010-04",
+      "score": "",
+      "courses": ["Haworth College of Business"]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Chief Financial Officer (CFO) certification",
+      "date": "",
+      "awarder": "Michigan School Business Officials organization",
+      "summary": ""
+    }
+  ],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "school fund accounting",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "general ledger accounting",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "account reconciliation",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "accounts payable/receivable",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "cash flow projections",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "governmental reporting",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "budget analysis/forecasting",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "school bond experience",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Creative problem solving skills",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Advanced computer skills",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Works great with others",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Continuous initiative for process improvement",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

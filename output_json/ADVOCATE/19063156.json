@@ -1,0 +1,94 @@
+{
+  "basics": {
+    "name": "Shanna Scruggs",
+    "label": "Senior Member Service Advocate",
+    "email": "",
+    "phone": "",
+    "summary": "Motivated customer service specialist with over 20 years experience in a fast-paced, team-based environment high call volume environments.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Senior Member Service Advocate",
+      "url": "",
+      "startDate": "2015-10",
+      "endDate": "Current",
+      "summary": "Assisting members with their prescription benefits coverage for Medicare part D plan, commercial plans, state Medicaid plans, ChampVa plans, Ohio Bureau of Workers Compensation and Mail Order. Reviewing rejected claims, processing coverage determinations for prescription coverage. Assisting pharmacies with rejected claims and overrides. Help guide and educate customers on their prescription benefits, use of plan, formulary, premiums and status of orders, and claims or inquiries. Also assist in by doing side by sides to help other agents with their KPI's. I'm on a team of super users that will assist agents with their computer and system issues.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Hosting Consultant",
+      "url": "",
+      "startDate": "2015-01",
+      "endDate": "2015-10",
+      "summary": "Provide immediate and appropriate technical/product support to customers regarding GoDaddy hosting products. Provide assistance to customers with purchases, technical issues, questions, and generally resolving any customer concerns. Consult with customers on their business needs by matching GoDaddy products and/or solutions to their online goals.",
+      "highlights": ["Managing and Troubleshooting with: FTP, cPanel, Plesk and MySQL"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Designer Care Associate",
+      "url": "",
+      "startDate": "2014-03",
+      "endDate": "2015-01",
+      "summary": "Assisting our independent designers and customers via inbound calls, outbound calls and emails with order issues, product questions, tracking orders, processing requests for refunds, missing items and replacements for defective products.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Mesa Community College",
+      "url": "",
+      "area": "",
+      "studyType": "GED",
+      "startDate": "1996",
+      "endDate": "1996",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Customer Service",
+      "level": "",
+      "keywords": ["Account Reconciliations", "Accounting", "Accounts Payable", "Apollo", "Auditing", "Benefits", "Billing System", "Coach", "Com", "Credit", "Client", "Customer Satisfaction",
+"data entry", "database", "delivery", "fashion", "features", "FTP", "General Ledger accounts", "http", "legal documents", "Managing", "Access", "MS Excel", "Mail", "MS Office", "Word", "MySQL", "Owl", "pick", "pricing", "processes", "Express", "reconciling", "maintain records", "research", "shipping", "Troubleshooting"]
+    },
+    {
+      "name": "Problem Solver",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Self-Motivation",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Leadership",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Organization",
+      "level": "Extremely",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

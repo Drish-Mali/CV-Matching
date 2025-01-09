@@ -1,0 +1,114 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Accountant",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Financial Accountant specializing in financial planning, reporting and analysis within the Department of Defense.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Accountant",
+      "url": "",
+      "startDate": "2011-07-01",
+      "endDate": "2012-11",
+      "summary": "In this position as an Accountant assigned to the Defense Enterprise Accounting and Management System (DEAMS) ERO I was responsible for identifying and resolving issues affecting the DEAMS General Ledger.",
+      "highlights": [
+        "Served on a tiger team which identified and resolved General Ledger postings in DEAMS totaling $360B in accounting adjustments.",
+        "In collaboration with DFAS Europe, developed an automated tool that identified duplicate obligations."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Resource Advisor",
+      "url": "",
+      "startDate": "2010-04",
+      "endDate": "2011-06",
+      "summary": "In this position as Resource Advisor for the 1st Air Communications Operation Squadron (1ACOS) I was responsible for providing financial advice and decision support to the Commander.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Staff Accountant",
+      "url": "",
+      "startDate": "2008-07",
+      "endDate": "2010-04",
+      "summary": "In my position as the Staff Accountant for HQ USAFE I was responsible for providing accounting and financial oversight and advice to customers throughout the Command in support of the USAFE Comptroller.",
+      "highlights": ["In collaboration with DFAS Europe, developed an automated tool that identifies duplicate obligations by comparing records in the accounting system to the contracting system and provided notification to the funds manager for review and resolution."]
+    },
+    {
+      "name": "Company Name",
+      "position": "Chief, Reports Branch. Accounts Maintenance and Control",
+      "url": "",
+      "startDate": "2007-01",
+      "endDate": "2009-07",
+      "summary": "In my position as Chief of the Reports Branch in Accounts Maintenance & Control (AM&C) I was responsible for ensuring the development and standardization of various managerial and system reports.",
+      "highlights": ["Worked with staff to reduce reconciliations from $6.9 million in February 2007 to $1.1 million in August, accomplished this despite loss in experienced personnel and realigning resources to support critical initiatives in Accounts Payable."]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Northern Maine Community College",
+      "url": "",
+      "area": "Accounting",
+      "studyType": "Associate",
+      "startDate": "",
+      "endDate": "1994",
+      "score": "3.41",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Certified Defense Financial Manager",
+      "date": "2005-05",
+      "issuer": "CDFM",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Accounting",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "General Accounting",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Accounts Payable",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Program Management",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [
+    {
+      "name": "American Society Of Military Comptrollers",
+      "keywords": []
+    }
+  ],
+  "references": [],
+  "projects": []
+}

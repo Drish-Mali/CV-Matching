@@ -1,0 +1,69 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Finance Project Coordinator",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Accommodating Project Coordinator who effectively manages strict deadlines, schedules and repetitive tasks with a positive, can-do attitude. Areas of strength include professionalism, high level organizational skills, detail oriented, multi-tasking capabilities, self-directed resourceful learner and ability to adapt easily to change.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Finance Project Coordinator",
+      "url": "",
+      "startDate": "2012-07-01",
+      "endDate": "Present",
+      "summary": "Monitor regulatory activity to maintain compliance with health care records and document management laws. Implement electronic document processing, retrieval, and distribution systems in collaboration with other information technology specialists. Check figures, postings, and documents for correct entry, mathematical accuracy, and proper codes. Classify, record, and summarize numerical and financial data to compile and keep financial records, using journals and ledgers or computers. Debit, credit, and total accounts on computer spreadsheets and databases, using specialized accounting software.",
+      "highlights": [
+        "Oversaw implementation of cash applications system which resulted in more cost-effective service.",
+        "Increased office organization with the implementation of an improved cash management and accounting system."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Liberty University",
+      "url": "",
+      "area": "Business Administration",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "2014",
+      "score": "",
+      "courses": [
+        "Human Resources",
+        "Community and Public Health",
+        "Non-Profit Management",
+        "Strategic Planning & Management",
+        "Advanced Computer Applications",
+        "Economics",
+        "Organizational Behavior",
+        "Marketing",
+        "Theological Studies"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Financial statement analysis",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Account reconciliation",
+      "level": "Expert",
+      "keywords": []
+    }
+  ],
+  "references": [],
+  "projects": []
+}

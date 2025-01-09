@@ -1,0 +1,124 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Adult Education Instructor",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Seasoned Agriculture Teacher with more than 20 years of experience in this world of education. Excellent teaching and leadership skills. Track record of achieving exceptional results in not only FFA programs but also Credit Recovery Programs at my current high school and program improvement in numbers at not only Covina High School but also Bloomington High School. I have also been involved with bringing to life the Adult Education Program in the Colton Joint Unified School District. Compassionate teacher excited to take on new professional challenges and assist students in improving learning skills, and abilities.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": [
+    ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Adult Education Instructor",
+      "url": "",
+      "startDate": "2016-08-01",
+      "endDate": "Present",
+      "summary": "Developed a diploma program that fit the needs of the community, continues to work with the community and wants to see the students succeed move on into either industry or college.",
+      "highlights": [
+        "Developed interesting course plans to meet academic, intellectual and social needs of students.",
+        "Received high remarks for the creativity of classroom lesson plans and instructional techniques from students, parents and faculty.",
+        "Implemented student discipline measures, decreasing classroom disruptions by 80%."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Agriculture/Credit Recovery Teacher",
+      "url": "",
+      "startDate": "2000-08-01",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Planned and conducted activities for a balanced program of instruction, demonstration, and work time that provided students with opportunities to observe, question, and investigate.",
+        "Goal Setting Established clear objectives for all lessons/projects and communicated with students, achieving a total understanding of grading rubric and overall class expectations.",
+        "Parent Communication Regularly met with parents to discuss student issues and course weakness areas."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Agriculture Teacher",
+      "url": "",
+      "startDate": "1995-08-01",
+      "endDate": "2000-08-01",
+      "summary": "",
+      "highlights": [
+        "Developed interesting course plans to meet academic, intellectual and social needs of students.",
+        "Developed and implemented interesting and interactive learning mediums to increase student understanding of course materials.",
+        "Implemented student discipline measures, decreasing classroom disruptions by 80%."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "UCR Extension Program",
+      "url": "",
+      "area": "Science",
+      "studyType": "Subject Matter Authorization in Science",
+      "startDate": "",
+      "endDate": "2016-01-01",
+      "score": "",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "University Of San Diego",
+      "url": "",
+      "area": "Crosscultural Language and Academic Development",
+      "studyType": "Certification",
+      "startDate": "",
+      "endDate": "2005-01-01",
+      "score": "",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "",
+      "url": "",
+      "area": "Agriculture Education",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "1995-01-01",
+      "score": "",
+      "courses": [
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Excellent classroom management",
+      "level": "",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Experience working with special needs students",
+      "level": "",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Effectively work with parents",
+      "level": "",
+      "keywords": [
+      ]
+    }
+  ],
+  "languages": [
+  ],
+  "interests": [
+  ],
+  "references": [
+  ],
+  "projects": [
+  ]
+}

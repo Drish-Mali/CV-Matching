@@ -1,0 +1,79 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Chemical Engineering Intern",
+    "email": "",
+    "phone": "",
+    "summary": "To obtain employment as an entry level Chemical Engineer utilizing my current experience and education.",
+    "location": {
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Chemical Engineering Intern",
+      "startDate": "2017-05-01",
+      "endDate": "Current",
+      "summary": "Intern at AkzoNobel, assigned to the Columbus, Mississippi plant working 30-40 hours weekly in the Hydrogen Peroxide division."
+    },
+    {
+      "name": "Company Name",
+      "position": "Chemical Engineering Summer School (ChESS Vienna)",
+      "startDate": "2016-07-01",
+      "endDate": "2016-08-01",
+      "summary": "The focus of the Chemical Engineering Summer school course, ChESS Vienna, was on practical exploration of unit operations of process engineering in lab scale and touring various chemical processing facilities in Vienna."
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Alabama",
+      "area": "Chemical Engineering",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "2018-05-01"
+    },
+    {
+      "institution": "Fairhope High School",
+      "area": "International Baccalaureate Program",
+      "studyType": "High School Diploma",
+      "startDate": "",
+      "endDate": "2013-05-01"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Technical Skills",
+      "level": "",
+      "keywords": [
+        "Project management", "Process piping", "Scheduling tools", "Microsoft Office", "ChemCad, OAM, MES and EPI",
+        "Quality control", "Structural red-line revisions skills", "Strong presentation skills", "Process improvement",
+        "Monitor and analyze data from processes and experiments", "Follow safety procedures", "Improve processes to separate components",
+        "Troubleshoot problems", "Evaluate chemical equipment and processes", "Research engineering aspects", "Conduct validation tests",
+        "Determine causes of operational problems or failures", "Evaluate characteristics of equipment or systems",
+        "Proficient in Microsoft Office, OAM, MES, and EPI", "Working knowledge of SAP, ChemCad, C+, Java",
+        "Advanced written and conversational German", "Intermediate conversational Spanish"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "German",
+      "fluency": "Advanced"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Intermediate"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "volunteer": []
+}

@@ -1,0 +1,77 @@
+{
+  "basics": {
+    "name": "Anonymous",
+    "label": "Director of Finance",
+    "email": null,
+    "phone": null,
+    "url": null,
+    "summary": "Dynamic, results-oriented Controller with over 25 years of experience, demonstrating expertise in financial reporting and analysis.",
+    "location": null,
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Director of Finance",
+      "url": null,
+      "startDate": "2014-12",
+      "endDate": "Current",
+      "summary": "Providing effective financial leadership by developing and implementing efficient accounting controls, segregation of duties and defined roles within the accounting department. enable strategic foresight into the business by modeling, planning and executing financial processes.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Assistant Controller/Accounting Manager",
+      "url": null,
+      "startDate": "2004-06",
+      "endDate": "2014-12",
+      "summary": "Manage all accounting operations, financial close, financial reporting and reconciliations. Prepare, review and present accurate financial statements at each month end.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Controller",
+      "url": null,
+      "startDate": "1992-01",
+      "endDate": "2004-01",
+      "summary": "Managed accounting operations, financial close, account reporting and monthly reconciliations. Prepared accurate consolidated financial statements pertaining to cash receipts, expenditures and profit and loss at each month end.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Colorado State University",
+      "url": null,
+      "area": "Arts",
+      "studyType": "Bachelor",
+      "startDate": "2000-01",
+      "endDate": "2002-12",
+      "score": null, 
+      "courses": []
+    },
+    {
+      "institution": "Front Range Community College",
+      "url": null,
+      "area": "Accounting",
+      "studyType": "Associate",
+      "startDate": null, 
+      "endDate": "1995-01",
+      "score": null,
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Financial Reporting",
+      "level": null,
+      "keywords": ["Corporate Accounting", "Accounting Operations", "Audits", "Cash", "Filing", "Financial Statements", "Payroll and PR Reconciliations", "Accounts Payable", "Bank Reconciliations", "Sarbanes-oxley", "Adp Payroll System", "Asset Management", "Excel", "Finance", "Financial Analysis", "Financial Operations", "Kronos", "Oracle", "Oracle Financials", "Peoplesoft", "Process Improvement", "Quickbooks", "Regulatory Compliance", "Sales analysis", "Sales Tax", "Testing", "Training", "Treasury Management"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

@@ -1,0 +1,88 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Business Owner",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Results-driven management professional with extensive experience for large-scale businesses and entrepreneurial endeavors through innovative leadership, market research, and identification of new business opportunities. Recognized as an effective leader with excellent interpersonal and communication abilities. Work well in diverse team settings, handling multiple tasks to meet important deadlines.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "State",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Business Owner",
+      "url": "",
+      "startDate": "2002-02-01",
+      "endDate": "2009-01-01",
+      "summary": "Planned, created and executed Women's contemporary clothing store from idea to opening. Managed all functions of store operations. Developed engaging visuals that increased sales while enhancing the consumer experience. Produced novel and unique concepts for merchandise presentation. Established close ties with customers to ensure repeat business.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Apparel Production Coordinator",
+      "url": "",
+      "startDate": "1994-03-01",
+      "endDate": "2001-04-01",
+      "summary": "Generated sketches and tech packs for Missy apparel line. Ensured quality control standards in areas of lab dips, print approvals and strike-offs. Knowledge of Lab Dip process and procedures. Facilitated daily communications with international and domestic offices.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Business Owner",
+      "url": "",
+      "startDate": "1997-10-01",
+      "endDate": "2000-02-01",
+      "summary": "Planned, created, and executed Women's contemporary clothing store. Developed a private label brand for target customers from initial design through bulk production. Supervised fittings, reviewed samples, and provided fit comments on garment construction. Shopped competition stores regularly to identify opportunities, labels and trends. Built a reputation of credibility and responsiveness with vendors.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Sweater Production Coordinator",
+      "url": "",
+      "startDate": "1990-01-01",
+      "endDate": "1994-05-01",
+      "summary": "Responsible for research, design, and development of Missy sweater line. Provided design expertise that reflected trends, while focusing on key details that made them work for a broader audience. Communicated with international factories on a daily basis to provide sample comments through all stages of the development process. Created color and seasonal trend analysis, concept ideas, silhouettes, presentation and mood boards.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Colorado",
+      "url": "",
+      "area": "Fine Arts: Painting",
+      "studyType": "Bachelor of Arts",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Art Institute of Colorado",
+      "url": "",
+      "area": "Fashion Merchandising",
+      "studyType": "Associate of Arts",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

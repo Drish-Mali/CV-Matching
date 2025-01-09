@@ -1,0 +1,151 @@
+{
+  "basics": {
+    "name": "Associate Director Business Development",
+    "label": "Operations Supervisor, Project Engineer",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Persuasive business development professional, successful at establishing and maintaining key partnerships with corporate decision makers. Offering more than 12 years of successful corporate business development and operations experience.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Associate Director Business Development",
+      "url": "",
+      "startDate": "12/2012",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Operations Supervisor",
+      "url": "",
+      "startDate": "01/2012",
+      "endDate": "12/2012",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Integrated Marketing Campaign",
+      "url": "",
+      "startDate": "01/2012",
+      "endDate": "01/2012",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "BV AND ASSOCIATES, INC",
+      "position": "Project Engineer",
+      "url": "",
+      "startDate": "01/2000",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of North Florida, Coggin School of Business",
+      "url": "",
+      "area": "Essentials of Financial Management",
+      "studyType": "Master",
+      "startDate": "",
+      "endDate": "May, 2008",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Sun Yan Set University",
+      "url": "",
+      "area": "Global Branding Strategy",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "May, 2007",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "EAFIT University",
+      "url": "",
+      "area": "Production Engineering Continuous Improvement and Management",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Values in Action Award",
+      "date": "",
+      "awarder": "",
+      "summary": "Recognized for leading teams to exceed results in fast paced, high growth business environments"
+    },
+    {
+      "title": "Coffee Bean Brilliance Award, 2015",
+      "date": "2015",
+      "awarder": "Kraft Foods",
+      "summary": ""
+    },
+    {
+      "title": "President Choice Award, 2013",
+      "date": "2013",
+      "awarder": "Kraft Foods",
+      "summary": ""
+    }
+  ],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+        "name": "Business Development",
+        "level": "",
+        "keywords": []
+    },
+    {
+        "name": "Operations Management",
+        "level": "",
+        "keywords": []
+    },
+    {
+        "name": "Project Management",
+        "level": "",
+        "keywords": []
+    },
+    {
+        "name": "Account Management",
+        "level": "",
+        "keywords": []
+    },
+    {
+        "name": "Manufacturing Process",
+        "level": "",
+        "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

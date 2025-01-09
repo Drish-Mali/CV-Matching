@@ -1,0 +1,121 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Consumer Services Advocate",
+    "email": "",
+    "phone": "",
+    "summary": "Dedicated Customer Service Representative motivated to maintain customer satisfaction and contribute to company success.",
+    "location": {"address": "", "postalCode": "",  "city": "", "countryCode": "", "region": ""},
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "",
+      "position": "Consumer Services Advocate",
+      "url": "",
+      "startDate": "2014-06",
+      "endDate": "2015-01",
+      "summary": "Answered the phones, sent emails, placed orders, spoke with customers, provided troubleshooting tips, and trained new hires. Helped the company grow into a multi-branded company. Cross-trained and provided back-up for other customer service representatives when needed. Developed highly empathetic client relationships and earned a reputation for exceeding sales goals. Generated sales and inventory reports with a 100% accuracy rate. Prepared and sold a broad range of customized merchandise.",
+      "highlights": ["Helped the company grow into a multi branded company", "Exceeding sales goals"]
+    },
+    {
+      "name": "",
+      "position": "Account Manager",
+      "url": "",
+      "startDate": "2014-01",
+      "endDate": "2014-06",
+      "summary": "",
+      "highlights": ["Assisted my agent in surpassing his sales goal for the month by $30,000"]
+    },
+    {
+      "name": "",
+      "position": "Customer Service Representative",
+      "url": "",
+      "startDate": "2013-04",
+      "endDate": "2013-12",
+      "summary": "",
+      "highlights": ["Accurately logged all daily shipping and receiving orders", "Assisted customers with store and product complaints", "Developed highly empathetic client relationships and earned reputation for exceeding sales goals"]
+    },
+    {
+      "name": "",
+      "position": "Shipping and Receiving",
+      "url": "",
+      "startDate": "2012-08",
+      "endDate": "2013-04",
+      "summary": "",
+      "highlights": ["Responded to general inquiries", "Interacted with customers and expedited orders", "Assisted customers with store and product complaints", "Developed new customer prospects or referrals"]
+    },
+    {
+      "name": "",
+      "position": "Hostess and Server",
+      "url": "",
+      "startDate": "2011-06",
+      "endDate": "2012-08",
+      "summary": "",
+      "highlights": ["Prevented store losses using awareness, attention to detail and integrity", "Assisted customers in finding out-of-stock items", "Performed store opening duties"]
+    },
+    {
+      "name": "",
+      "position": "Seaman Recruit",
+      "url": "",
+      "startDate": "2010-05",
+      "endDate": "2011-06",
+      "summary": "Fulfilled the responsibilities of a Seaman Recruit in US Navy basic training program.",
+      "highlights": ["Selected to lay watch over entire division", "Selected as Guidon for my division"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Southern University",
+      "url": "",
+      "area": "Computer Science",
+      "studyType": "Associate of Science",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Alabama State University",
+      "url": "",
+      "area": "Dance",
+      "studyType": "High School Diploma",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Alabama School of Fine Arts",
+      "url": "",
+      "area": "Dance",
+      "studyType": "High School Diploma",
+      "startDate": "",
+      "endDate": "2008",
+      "score": "3.7",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Professional skills",
+      "level": "",
+      "keywords": [
+        "Cash handling",
+        "Shipping and receiving",
+        "Active listener",
+        "Multi-tasking",
+        "Professional",
+        "Friendly"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "volunteer": [],
+  "awards": [],
+  "publications": [],
+  "certificates": []
+}

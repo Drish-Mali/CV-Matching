@@ -1,0 +1,97 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Research Assistant",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Seeking a position in a research institution or a university",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Research Assistant",
+      "url": "",
+      "startDate": "2005-02-01",
+      "endDate": "2005-05-01",
+      "summary": "Do market research, prepare and write business and marketing plans for start-up companies. Work under the supervision of Dr. Kevin Boberg, Associate Dean.",
+      "highlights": []
+    },
+    {
+      "name": "Industrial and Commercial Bank of Vietnam",
+      "position": "Officer",
+      "url": "http://www.icb.com.vn",
+      "startDate": "2002-01-01",
+      "endDate": "2003-01-01",
+      "summary": "Translated banking documents in English to Vietnamese. Acted as an interpreter when needed. Developed and maintained the correspondent banking relationship with Russian banks. Kept track of loans borrowed from foreign banks. Worked on the Returnee project between Vietnam and the German Reconstruction Bank. Did other administrative and clerical work.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "New Mexico State University",
+      "url": "",
+      "area": "Business Administration",
+      "studyType": "Master",
+      "startDate": "",
+      "endDate": "2005-05-20",
+      "score": "4.00",
+      "courses": []
+    },
+    {
+      "institution": "Foreign Trade University",
+      "url": "",
+      "area": "Economics",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "2002",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Glen Yoquelet Scholarship",
+      "date": "2004",
+      "awarder": "College of Business Administration and Economics, New Mexico State University, NM",
+      "summary": ""
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certificate of Liaison Officer",
+      "date": "1999-02-01",
+      "issuer": "Ministry of Trade, Vietnam",
+      "url": "http://www.mot.gov.vn"
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Managerial Accounting, Legal Environment of Business, Financial Management",
+      "level": "",
+      "keywords": [
+        "Operations Management", "Business Information Systems", "Managerial Economics", "Organizational Behavior and Management Processes", "Quantitative Analysis for Business Decisions", "Financial Statement Analysis", "Marketing Management", "Strategic Management"
+      ]
+    },
+    {
+      "name": "Microsoft Excel, Microsoft PowerPoint, Microsoft Project, Microsoft Access, Microsoft Word, Outlook Express",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

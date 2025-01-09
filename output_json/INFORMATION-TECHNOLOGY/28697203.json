@@ -1,0 +1,219 @@
+{
+  "basics": {
+    "name": "N/A",
+    "label": "Information Technology Project Manager",
+    "image": "",
+    "email": "N/A",
+    "phone": "N/A",
+    "url": "N/A",
+    "summary": "Skilled IT professional with 7 years of proven success in developing and leading cross-functional technical teams to execute and deliver major technology initiatives using the Agile methodology and Scaled Agile Framework (SAFe). Well-versed in managing projects with co-located and off-site teams. Expertise in gathering and translating requirements, leading scrum teams, and release management, owning the release management lifecycle for multiple applications across different environments.",
+    "location": {
+      "address": "N/A",
+      "postalCode": "N/A",
+      "city": "N/A",
+      "countryCode": "N/A",
+      "region": "N/A"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Information Technology Project Manager",
+      "url": "N/A",
+      "startDate": "2019-03",
+      "endDate": "Current",
+      "summary": "Support Design-Build Supervisory Control and Data Acquisition (SCADA) Upgrade Project using project management expertise. Identify and implement technology tools to facilitate resource planning for multiple projects to encourage real-time team collaboration. Introduced the concept of SAFe to lead planning event for fiscal year acquisition and procurement needs. Developed annual planning process to support capital improvement planning activities.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Agile Project Manager",
+      "url": "N/A",
+      "startDate": "2014-10",
+      "endDate": "2019-03",
+      "summary": "Led transition of risk-assessment tools from downloadable software to web-based platform. Developed project plans and cost estimates with well-defined milestones. Tracked project level-of-effort to deliver work products. Provided cost projections using labor rates. Managed communication of project status, including risks. Gathered and communicated performance metrics. Identified and managed project risks. Worked with team members to participate in the quarterly SAFe PI planning events.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Release Manager",
+      "url": "N/A",
+      "startDate": "2014-10",
+      "endDate": "2019-03",
+      "summary": "Negotiated, planned, and managed all release activities. Established deployment needs and ensure compatible architecture of final deliverable. Facilitated production readiness reviews and release retrospective meetings. Served as the primary point of contact with IT partners. Identified ways to optimize platform capabilities. Performed root-cause analysis. Worked with developers to resolve deployment issues and system outages. Tracked release metrics to identify process improvements.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Business Analyst / Scrum Master",
+      "url": "N/A",
+      "startDate": "2014-10",
+      "endDate": "2019-03",
+      "summary": "Facilitated requirements meetings and grooming sessions with the development team and the client. Facilitated daily scrums, sprint reviews, sprint retrospectives, and sprint planning with the project team. Captured and translated requirements to the development team. Tested the application across desired platforms in the development, staging, and production environments.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Scaled Agile Framework (SAFe)",
+      "url": "N/A",
+      "area": "N/A",
+      "studyType": "Agilist certification",
+      "startDate": "2019",
+      "endDate": "2019",
+      "score": "N/A",
+      "courses": []
+    },
+    {
+      "institution": "Project Management Professional (PMP)",
+      "url": "N/A",
+      "area": "N/A",
+      "studyType": "Certification",
+      "startDate": "2018",
+      "endDate": "2018",
+      "score": "N/A",
+      "courses": []
+    },
+    {
+      "institution": "American University",
+      "url": "N/A",
+      "area": "International Affairs",
+      "studyType": "Master of Arts",
+      "startDate": "N/A",
+      "endDate": "2011",
+      "score": "N/A",
+      "courses": []
+    },
+    {
+      "institution": "American University",
+      "url": "N/A",
+      "area": "Natural Resources",
+      "studyType": "Master of Arts",
+      "startDate": "N/A",
+      "endDate": "2011",
+      "score": "N/A",
+      "courses": []
+    },
+    {
+      "institution": "Clemson University",
+      "url": "N/A",
+      "area": "Biological Sciences",
+      "studyType": "Bachelor of Arts",
+      "startDate": "N/A",
+      "endDate": "2008",
+      "score": "N/A",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Budget",
+      "level": "Expert",
+      "keywords": []
+    },
+    {
+      "name": "Business analyst",
+      "level": "Expert",
+      "keywords": []
+    },
+    {
+      "name": "Concept",
+      "level": "Expert",
+      "keywords": []
+    },
+    {
+      "name": "Agile methodology Client",
+      "level": "Expert",
+      "keywords": []
+    },
+    {
+      "name": "Project management Client relations",
+      "level": "Expert",
+      "keywords": []
+    },
+    {
+      "name": "SAFe Program Increment (PI) Planning Features",
+      "level": "Expert",
+      "keywords": []
+    },
+    {
+      "name": "Scrum / Kanban / Scrumban Functional",
+      "level": "Expert",
+      "keywords": []
+    },
+    {
+      "name": "Aptitude for resolving challenging problems Team building",
+      "level": "Expert",
+      "keywords": []
+    },
+    {
+      "name": "Client relations Managing",
+      "level": "Expert",
+      "keywords": []
+    },
+    {
+      "name": "Team building Meetings",
+      "level": "Expert",
+      "keywords": []
+    },
+    {
+      "name": "Release management Procurement",
+      "level": "Expert",
+      "keywords": []
+    },
+    {
+      "name": "Scrum master / Business analyst Project Management",
+      "level": "Expert",
+      "keywords": []
+    },
+    {
+      "name": "Atlassian suite (JIRA, Confluence, Trello) Project plans",
+      "level": "Expert",
+      "keywords": []
+    },
+    {
+      "name": "Public Trust Clearance Level 4 Real-time",
+      "level": "Expert",
+      "keywords": []
+    },
+    {
+      "name": "Agile Risk-assessment",
+      "level": "Expert",
+      "keywords": []
+    },
+    {
+      "name": "Approach SCADA",
+      "level": "Expert",
+      "keywords": []
+    },
+    {
+      "name": "Supervisory Control and Data Acquisition",
+      "level": "Expert",
+      "keywords": []
+    },
+    {
+      "name": "Fluent in Spanish",
+      "level": "Expert",
+      "keywords": []
+    },
+    {
+      "name": "Upgrade",
+      "level": "Expert",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

@@ -1,0 +1,92 @@
+{
+  "basics": {
+    "name": "Aviation Supply Specialist",
+    "label": "Inventory & Stock Management Professional",
+    "email": "",
+    "phone": "",
+    "summary": "Organized professional with superior work ethic and team player attitude. Exceptional quality control, inspection abilities. Service-minded Stock Management professional with over 8 years of experience. Experienced Stock Clerk with over 8 years of experience. Enthusiastic individual with superior skills.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": [
+    ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Aviation Supply Specialist",
+      "startDate": "05/2015",
+      "endDate": "05/2019",
+      "summary": "Tracked inventory, conducted cycle counts and audits and resolved issues to maintain accurate records. Replenished inventory with focus on addressing customer needs."
+    },
+    {
+      "name": "Company Name",
+      "position": "Aviation Supply Clerk",
+      "startDate": "05/2011",
+      "endDate": "05/2015",
+      "summary": "Improved customer satisfaction by finding creative solutions to problems. Enforced safety regulations and FAA standards governing production, maintenance and operation of aircraft."
+    },
+    {
+      "name": "Company Name",
+      "position": "Care Aide",
+      "startDate": "12/2010",
+      "endDate": "05/2011",
+      "summary": "Created safe environment, preventing falls and accidents. Motivated clients to perform physical exercise according to age and abilities."
+    },
+    {
+      "name": "Company Name",
+      "position": "Shift Supervisor",
+      "startDate": "09/2009",
+      "endDate": "12/2010",
+      "summary": "Monitored employee performance and safety. Sustained safety protocols to ensure proper, cost-effective and safe handling of equipment and materials."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Orange County Community College",
+      "area": "Mathematics Ad Science Emphasis",
+      "studyType": "Associate of Arts",
+      "startDate": "09/2019",
+      "endDate": "",
+      "score": ""
+    },
+    {
+      "institution": "Broward College",
+      "area": "Social Work",
+      "studyType": "",
+      "startDate": "12/2020",
+      "endDate": "",
+      "score": ""
+    },
+    {
+      "institution": "Coral Springs High School",
+      "area": "",
+      "studyType": "High School Diploma",
+      "startDate": "06/2004",
+      "endDate": "",
+      "score": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Stockroom procedures",
+      "level": "Expert"
+    },
+    {
+      "name": "Team management",
+      "level": "Expert"
+    },
+    {
+      "name": "Problem resolution",
+      "level": "Expert"
+    },
+    {
+      "name": "Inventory management",
+      "level": "Expert"
+    }
+   ]
+}

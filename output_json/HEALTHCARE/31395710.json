@@ -1,0 +1,87 @@
+{
+  "basics": {
+    "name": "Licensed Practical Nurse- Step-down Unit",
+    "label": "Licensed Practical Nurse",
+    "summary": "Licensed Practical Nurse with 15 years in providing direct care under RN and MD supervision in diagnosis, treatment prescription and follow-up with patients from pediatrics to geriatrics. Additional expertise includes management and staff supervision. Strong desire to focus on preventative care and health education. Energetic and motivational and leader dedicated to driving top-quality patient care. Looking for a position in a top-notch facility with a commitment to innovative processes.�",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "US",
+      "region": ""
+    }
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Licensed Practical Nurse- Step-down Unit",
+      "startDate": "01/2017",
+      "endDate": "09/2017",
+      "summary": "Recorded patients' medical history, vital statistics and test results in medical records. Administered IV therapy and medications per MD orders�. Monitored post-op vitals, set up PCA, fluids, reviewed post-op orders and orient patients to unit. Developed and maintained quality care systems and standards, including but not limited to, creating and improving medical protocols/guidelines."
+    },
+    {
+      "name": "Company Name",
+      "position": "License Practical Nurse",
+      "startDate": "01/2015",
+      "endDate": "09/2017",
+      "summary": "Travel nurse to different nursing homes and hospitals. Administered IV therapy and treadmill stress tests and ran nerve conduction tests in cardiac unit."
+    },
+    {
+    "name": "Company Name",
+      "position": "LPN- Woundcare Nurse",
+      "startDate": "02/2015",
+      "endDate": "01/2017",
+      "summary": "Achieved departmental goals and objectives by instituting new processes and standards for in-patient care. Responsible for primary care, case management and medication management."
+    },
+    {
+    "name": "Company Name",
+      "position": "Correctional Nurse",
+      "startDate": "01/2012",
+      "endDate": "02/2015",
+      "summary": "Managed and treatment of patients in an correctional setting providing sick call daily and triage care. Recorded patients' medical history, vital statistics and test results in medical records."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Samford University",
+      "area": "(Pre-Med) Foundations in Counseling",
+      "studyType": "Bachelor of Science",
+      "startDate": "2012",
+      "endDate": ""
+    },
+    {
+      "institution": "Lawson State Community College",
+      "area": "Pre- Nursing RN",
+      "studyType": "",
+      "startDate": "2009",
+      "endDate": ""
+    },
+    {
+      "institution": "Bessemer State Technical College",
+      "area": "Licensed Practical Nurse",
+      "studyType": "",
+      "startDate": "2003",
+      "endDate": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Nursing",
+      "level": "",
+      "keywords": [
+        "Geriatrics",
+        "Pediatrics",
+        "Correctional Nursing",
+        "Occupational Health",
+        "Med- Surg",
+        "Home Healthcare",
+        "Hospice Care",
+        "School Nursing",
+        "Travel Nursing Agencies",
+        "Hospitals",
+        "Doctor Offices",
+        "Nursing Homes"
+      ]
+    }
+  ]
+}

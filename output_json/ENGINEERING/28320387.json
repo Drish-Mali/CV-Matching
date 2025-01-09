@@ -1,0 +1,91 @@
+{
+  "basics": {
+    "name": "Unidentified",
+    "label": "Engineering Intern",
+    "email": "",
+    "phone": "",
+    "summary": "Petroleum Engineering Graduate and Military Veteran seeking a full-time position in an organization that will allow for professional growth, a long career, and meaningful employment. Over 4 years of operations and management experience and 6 months of Engineering Internship experience working on multi-million dollar projects. Highly-motivated and quick learner. Can perform in fast-paced environments, make sound decisions, and direct and provide personnel with technical guidance. Embraces new challenges.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "Unidentified",
+      "region": "Unidentified"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Engineering Intern",
+      "startDate": "2015-06-01",
+      "endDate": "2015-08-01",
+      "summary": "Reviewed project instructions and specifications to identify, modify and plan requirements. Used software applications to simulate working conditions of units and components in order to investigate proposals for improving equipment performance. Conferred with technicians, submitted reports to engineering department staff, and recommended design changes."
+    },
+    {
+      "name": "Company Name",
+      "position": "Field Engineering Intern",
+      "startDate": "2014-06-01",
+      "endDate": "2014-08-01",
+      "summary": "Prepared production progress reports for management. Scheduled the project in logical steps and budgeted time required to meet deadlines. Conferred with supervisory personnel, owners, contractors, and design professionals to discuss and resolve matters such as work procedures, complaints, and construction problems."
+    },
+    {
+      "name": "Company Name",
+      "position": "Assistant Service Manager",
+      "startDate": "2011-09-01",
+      "endDate": "2012-01-01",
+      "summary": "Provided customer service by greeting and assisting customers and responding to customer inquiries. Supervised employees who were engaging in sales, inventory-taking, reconciling cash receipts, and performing services for customers. Monitored sales activities to ensure that customers received satisfactory service and quality goods."
+    },
+    {
+      "name": "Company Name",
+      "position": "Non-Commissioned Officer",
+      "startDate": "2006-09-01",
+      "endDate": "2010-10-01",
+      "summary": "provided leadership, instruction, training, supervision, and mentoring to a team of 4 to 30 members. Ensured team readiness through quality control of equipment, risk management assessment, and constant updated training. Monitored execution of operations involving security, safety, logistics, communication, equipment and personnel tracking."
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "LOUISIANA STATE UNIVERSITY",
+      "area": "Petroleum Engineering",
+      "studyType": "Bachelor of Science",
+      "startDate": "Unidentified",
+      "endDate": "2016-05-01",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Core Qualifications",
+      "level": "Unidentified",
+      "keywords": [
+        "SolidWorks 2005",
+        "Electrical drafting",
+        "Tube furnaces"
+      ]
+    },
+    {
+      "name": "Interests",
+      "level": "Unidentified",
+      "keywords": [
+        "administrative, cash receipts, customer service, directing, instruction, inventory, leadership, logistics, machinery, marketing, mentoring, natural gas, organizing, personnel, police, progress, promotion, proposals, quality, quality control, reading, reconciling, risk management, safety, sales, supervisory, supervision"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [
+    {
+      "name": "EXTRACURRICULAR ACTIVITIES",
+      "keywords": [
+        "THETA CHI FRATERNITY Philanthropy Committee Chairman",
+        "INTRAMURAL SPORTS Flag Football Soccer"
+      ]
+    }
+  ],
+  "references": [],
+  "projects": []
+}

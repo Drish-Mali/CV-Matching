@@ -1,0 +1,83 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Key Holder",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Creative, hands-on professional with expertise in art direction and project management, Marketing and special promotions.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Key Holder",
+      "url": "",
+      "startDate": "2015-01-01",
+      "endDate": "Current",
+      "summary": "Mod, manager on duty when managers aren't present, opening and closing of store, running daily stores performance reports, opening day and end of day paperwork, management duties, pushing associates to sell, back stock coordinator, inventory closing, cashier, safe count and money handling.",
+      "highlights": [
+        "Knowledge of office practices and its procedures",
+        "Public Relations",
+        "Rules",
+        "Policies",
+        "Procedure",
+        "Handled complaints and transactions",
+        "Spent extensive time troubleshooting and assisting customers over the phone for great customer experience",
+        "Salesman expertise in retail business and phone environment",
+        "Skill in operation of office equipment",
+        "Cash register e-mail",
+        "In-person contacts and by other means of internal and external customers collate and classify information about data referrals upon request."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Columbus State Community College",
+      "url": "",
+      "area": "",
+      "studyType": "Associate of Arts",
+      "startDate": "",
+      "endDate": "2010",
+      "score": "3.6",
+      "courses": [
+        "Scicology 101",
+        "Scicology 103",
+        "Scicology 104", 
+        "Hum101-114", 
+        "Chem 101-111"
+      ]
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Clerical",
+      "level": "",
+      "keywords": [
+        "Data Entry",
+        "Database Management",
+        "Fashion",
+        "Interior design",
+        "Inventory",
+        "Marketing",
+        "Office administration"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

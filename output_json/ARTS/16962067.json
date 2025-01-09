@@ -1,0 +1,102 @@
+{
+  "basics": {
+    "name": "AS",
+    "label": "K-12 Principal",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Committed and passionate, K-12 educational leader and lifelong learner with effective communication skills and 10 years of experience. Builds trusting, authentic relationships with students, staff, and parents. Believes in analyzing and synthesizing classroom, district, and state assessment data to drive instruction.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "K-12 Principal",
+      "url": "",
+      "startDate": "2011-08-01",
+      "endDate": "Current",
+      "summary": "Provided teacher feedback from formal and informal observations and walk-throughs. Built trusting and authentic relationships with staff...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Sixth Grade Middle School Language Arts Teacher",
+      "url": "",
+      "startDate": "2009-08-01",
+      "endDate": "2012-07-01",
+      "summary": "Developed and implement school-wide middle school homework policy. Helped students develop important learning skills...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Elementary Teacher",
+      "url": "",
+      "startDate": "2006-08-01",
+      "endDate": "2008-07-01",
+      "summary": "Taught 6th grade (2006-2007 school year). Taught 4th grade (2007-2008 school year). Communicated student progress...",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Western Governors University",
+      "url": "",
+      "area": "Educational Leadership",
+      "studyType": "Master of Science",
+      "startDate": "",
+      "endDate": "2008-12-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Western Governors University",
+      "url": "",
+      "area": "K-8 Teaching",
+      "studyType": "Master of Arts",
+      "startDate": "",
+      "endDate": "2005-12-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Colorado Mesa University",
+      "url": "",
+      "area": "Mass Communication",
+      "studyType": "Bachelor of Arts",
+      "startDate": "",
+      "endDate": "1996-12-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "K-12 Education",
+      "level": "Master",
+      "keywords": [
+        "Relationship building and networking",
+        "Policy and procedure adherence",
+        "Common Core learning standards",
+        "Group facilitation and presentations",
+        "Elementary, Middle, and High School Education",
+        "High Performance Standards"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

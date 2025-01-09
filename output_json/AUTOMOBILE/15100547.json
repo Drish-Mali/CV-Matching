@@ -1,0 +1,176 @@
+{
+  "basics": {
+    "name": "Not Provided",
+    "label": "Student Attorney - Criminal Defense",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Recent law school graduate, excited to begin my new career, offering skill in innovative problem solving and finding unique theories, ideas and solutions to create effectual case arguments. Works aggressively to achieve continued success. Dedicated insurance professional with more than 13 years of experience investigating and processing complex automobile insurance claims. Excels in analyzing damages, causes, interpreting policies and negotiating payment solutions. Effectively managed multiple high priority projects Takes pride in providing exemplary customer service.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Student Attorney - Criminal Defense",
+      "url": "",
+      "startDate": "2015-08-01",
+      "endDate": "2016-05-01",
+      "summary": "Offered extensive case status explanations to each client. Advised clients of their rights. Explained the legal process to each client and answered questions to help ease concerns. Conducted legal research and facts investigation for case litigation. Drafted necessary motions relevant to each case. Interviewed witnesses/Crime scene reconstruction. Worked on a high profile writ for habeas corpus Negotiated plea deals with prosecutor.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Claims Specialist Lead",
+      "url": "",
+      "startDate": "2008-01-01",
+      "endDate": "2015-07-01",
+      "summary": "Managed files in litigation and worked closely with defense counsel to develop strategy to bring cases to resolution. Attended, negotiated and resolved close to 100 features in mediation. Mentored new members of the claim staff. Entrusted with $75,000 in settlement authority.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Team Leader",
+      "url": "",
+      "startDate": "2004-08-01",
+      "endDate": "2006-01-01",
+      "summary": "Responsible for overseeing daily administration of claims work flow for my assigned team. Supervised, coached, and developed team to ensure quality outcomes and superior customer service. Mentored team members to Casualty promotion Explored alternatives to find innovative ways to leverage opportunities for team to improve quality of work/life balance.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Claims Trainee",
+      "url": "",
+      "startDate": "2002-10-01",
+      "endDate": "2004-08-01",
+      "summary": "Mastered basic claims handling in a high demand atmosphere. Estimated vehicle damages, managed preferred repair shops, informed customers of the repair process, repair quality assurance Casualty Adjuster.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "St. Mary's University",
+      "url": "",
+      "area": "Law",
+      "studyType": "J.D.",
+      "startDate": "",
+      "endDate": "2016",
+      "score": "",
+      "courses": ["Coursework in Criminal Justice"]
+    },
+    {
+      "institution": "Texas A&M University - College",
+      "url": "",
+      "area": "English Literature",
+      "studyType": "Bachelor of Arts",
+      "startDate": "",
+      "endDate": "2000",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Legal License",
+      "date": "2016-11",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Interpersonal and communication",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Customer service",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "File management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Insurance",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Legal Research & Writing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Litigation",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Mediation",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Medical record review",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "High level claim evaluation",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Commercial needs",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Negotiation",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Processes",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Quality assurance",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Risk Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Settlements",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Strategy",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

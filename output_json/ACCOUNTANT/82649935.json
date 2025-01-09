@@ -1,0 +1,85 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Senior Accountant",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "A highly competent, motivated, reliable and result-driven Accountant with extensive experience supporting the finance needs of the organization. A self-starter and team player with excellent organizational and computer skills. Proven ability to take on extra responsibilities and manage multiple projects simultaneously while working under stringent deadlines and maintaining high degree of confidentiality.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Senior Accountant",
+      "url": "",
+      "startDate": "2015-05-01",
+      "endDate": "Current",
+      "summary": "Financial Reporting and daily operations: Oversee cash management - daily. Manage financial closings - monthly. Manage general ledger - monthly...",
+      "highlights": [
+        "MS Excel, Word (60 WPM), Outlook, Intacct, Professional Accounting System, SAGE 100 Fund Accounting, and BOA CashPro, ADP, BenefitMall Payroll, Fidelity, Choice Strategies"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Finance Associate",
+      "url": "",
+      "startDate": "2011-08-01",
+      "endDate": "2015-05-01",
+      "summary": "Oversight and maintaining of AP/AR vendors, payment, processing orders, invoices, bank wires, and deposits...",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "City College of New York",
+      "url": "",
+      "area": "Economics",
+      "studyType": "Bachelor of Arts",
+      "startDate": "",
+      "endDate": "",
+      "score": "3.2",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Accounting",
+      "level": "Senior",
+      "keywords": [
+        "MS Excel", 
+        "Word", 
+        "Outlook", 
+        "Intacct",
+        "Professional Accounting System",
+        "SAGE 100 Fund Accounting",
+        "BOA CashPro",
+        "ADP",
+        "BenefitMall Payroll",
+        "Fidelity",
+        "Choice Strategies"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

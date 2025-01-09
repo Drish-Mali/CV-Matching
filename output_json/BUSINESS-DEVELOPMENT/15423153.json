@@ -1,0 +1,84 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Business Development Rep",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Results-oriented, high-energy, ambitious marketing professional, with a successful record of accomplishments. 10+ years' experience in sales, marketing, and business development. Passionate, skilled social media expert with five years of experience managing professional social media accounts and content marketing.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Business Development Rep",
+      "url": "",
+      "startDate": "2015-09-01",
+      "endDate": "2017-07-01",
+      "summary": "Reached daily goal set by the company 90% of each month by generating warm leads for contracted vendors sales teams who provide business technology services. Met revenue and lead generation goals by means of proactive outbound prospecting making 200+ calls per day. Used strong selling and influencing skills to qualify an average of 10-15 quality leads per day. Logged customer contacts and exceptional notes in company CRM, Halo. Attended sales meetings, vendor training, local trade shows to stay current on technology and SaaS.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Business Development Coordinator",
+      "url": "",
+      "startDate": "2008-03-01",
+      "endDate": "2014-05-01",
+      "summary": "Responsible for on-boarding and operations: 4 new customers in 2012 that represented over $2.25M of the annual revenue. Worked cross-functionally with IT and operations to implement B2B solutions that were client specific. Oversight of margin management.Implemented and evolved high-impact strategies to target new business opportunities and tap into new markets.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Assistant Site Manager",
+      "url": "",
+      "startDate": "2005-01-01",
+      "endDate": "2008-01-01",
+      "summary": "Assisted in managing a team of 5 professionals and performed administrative duties as needed. Streamlined strategic initiatives to ensure the maximum amount of mortgage loans were closed each month for Regions Bank.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Full Sail University",
+      "url": "https://fullsail.edu/",
+      "area": "Internet Marketing",
+      "studyType": "Masters of Science",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "University of Phoenix",
+      "url": "https://phoenix.edu/",
+      "area": "Marketing Business",
+      "studyType": "Bachelors of Science",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "certificates": [],
+  "skills": [
+    {
+      "name": "Administration",
+      "level": "",
+      "keywords": [
+        "Administrative duties", "Ad", "B2B", "Budget Planning", "Business development", "Content Management", "CRM", "Customer service", "Designing", "E-commerce", "Email", "Google Analytics", "HTML", "Managerial", "Marketing Strategy", "Market", "Project Management", "Recruitment", "Relationship management", "Selling", "Web Development"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

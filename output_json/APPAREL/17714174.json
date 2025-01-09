@@ -1,0 +1,63 @@
+{
+  "basics": {
+    "name": "Given name not found",
+    "label": "Account Manager/Business Development",
+    "email": "No email found",
+    "phone": "No phone number found",
+    "summary": "To obtain a sales position where my 13 years experience, accomplishments, and proficiency will allow me the opportunity for growth. Proficient in conducting business to business sales, managing staff and accounts, and product demonstrations/presentations.",
+    "location": {
+      "address": "Address not found",
+      "postpostalcode": "Postcode not found",
+      "city": "City not specified",
+      "countryCode": "Country code not found",
+      "region": "Region not specified"
+    },
+    "profiles": [],
+    "languages": [
+      {
+      "language": "English",
+      "fluency": "Fluent"
+      },
+      {
+      "language": "Spanish",
+      "fluency": "Fluent"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Account Manager/Business Development, Laboratory Consumables Sales Representative, National Sales Executive, Market Analyst/ Business Development Specialist/ Client Advocate, Business Manager/Sales Manager",
+      "startDate": "09/2006",
+      "endDate": "07/2019",
+      "summary": "13 years of progressive experience in managing staff and accounts, consistently exceeding sales goals, conducting business to business sales, coordinating special events and tradeshows. Fluent in Spanish and English."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Florida State University",
+      "studyType": "Bachelor of Science",
+      "area": "Area of Study Not Specified"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Ranked 6th in the state of FL as the Top Sales Representatives for Estee Lauder in 2009",
+      "date": "2009",
+      "awarder": "Estee Lauder",
+      "summary": "Exceeded sales goals by 15%, maintained excellent client retention rates under 1%, expanded market share for Dove Professional Apparel by more than 40% of last year's numbers. Re-wrote territory business plan for Estee Lauder resulting in 80% goal attainment."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Sales and Management",
+      "level": "Experienced",
+      "keywords": ["Sales", "Management", "Business Planning", "Customer Service", "Presentations", "Recruiting", "Marketing"]
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "certificates": [],
+  "publications": []
+}

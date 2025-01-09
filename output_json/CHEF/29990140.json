@@ -1,0 +1,114 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Project Manager and Photographer",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Executive Assistant who is skilled at multi-tasking and maintaining a strong attention to detail. Employs professionalism and superior communication skills to meet client and company needs.Highly focused and results-oriented office professional who successfully supports complex, deadline-driven operations. Customer-oriented and computer-savvy.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Project Manager and Photographer",
+      "url": "",
+      "startDate": "2007-04-01",
+      "endDate": "2016-01-31",
+      "summary": "Professionally trained through the military. Over 15+ years of experience with digital photography. Project manager and freelance photographer. Event photographer for weddings, bridal showers, prom and graduation photos.",
+      "highlights": [
+        "Scheduled events, planned and coordinated venues",
+        "Provided customers with digital photography of events",
+        "100% customer satisfaction"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Independent Consultant",
+      "url": "",
+      "startDate": "2012-11-01",
+      "endDate": "2014-01-31",
+      "summary": "Market and sell high quality kitchen tools and accessories through in-home demonstrations, booths at trade shows, and fundraiser programs. Provided excellent marketing, sales, demonstrations, order entry, shipping, receiving and customer service.",
+      "highlights": [
+        "Maintained inventory, accounting and data entry for small business"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Tax Preparer",
+      "url": "",
+      "startDate": "2008-10-01",
+      "endDate": "2010-04-01",
+      "summary": "Provided timely and accurate tax preparation and advice for individuals, families and businesses. Perform e-filing tasks as per schedule, addressed complex tax issues and tax deduction problems of clients.",
+      "highlights": [
+        "Achieved 100% customer satisfaction and client retention utilizing company guided client relations techniques"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Intelligence Analyst",
+      "url": "",
+      "startDate": "1988-07-01",
+      "endDate": "2008-07-01",
+      "summary": "Honorable discharge after 20 years as a Naval intelligence analyst. Compared, correlated and disseminated valuable intelligence information to executive level directors during global crisis like 9/11, Haitian earthquake, and the Malaysian tsunami. Living overseas in Italy as an operational intelligence analyst providing analysis and administrative assistance at an executive level.",
+      "highlights": [
+        "Leading Petty Officer of a division of 30 junior enlisted sailors",
+        "Head of Intelligence Collection team"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Old dominion UNIVERSITY",
+      "url": "",
+      "area": "History",
+      "studyType": "Bachelors of Art",
+      "startDate": "",
+      "endDate": "2013-01-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "",
+      "level": "",
+      "keywords": [
+        "Microsoft Office proficiency",
+        "Articulate and well-spoken",
+        "Excel spreadsheets",
+        "Customer service-oriented"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "French",
+      "fluency": "Able to speak, read, and write"
+    }
+  ],
+  "interests": [
+    {
+      "name": "",
+      "keywords": [
+        "Junior League Of Hampton Roads",
+        "Gamma Sigma Sigma National Service Sorority",
+        "Student Veterans of America"
+      ]
+    }
+  ],
+  "references": [],
+  "projects": []
+}

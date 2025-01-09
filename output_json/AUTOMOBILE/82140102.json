@@ -1,0 +1,53 @@
+{
+  "basics": {
+    "name": "ADJUSTER",
+    "label": "Insurance Claims Adjuster",
+    "summary": "Insurance Claims Adjuster with 12 year background in the auto and homeowners insurance industry. Looking to build a long term career with a dynamic company that allows opportunity for career growth. Designated Home State All-Lines Adjuster's License. Team- Orientated candidate who is able to provide assistance where needed to complete tasks. Communicate effectively with the ability to adjust to the audience as necessary. Licensed property and casualty adjuster with multiple licenses for several states.",
+    "location": {
+      "city": "City",
+      "state": "State"
+    }
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Adjuster",
+      "startDate": "10/2006",
+      "endDate": "Current",
+      "summary": "Investigate, evaluate and negotiate moderate to high exposures, multi vehicle, disputed/undisputed liability claims. Interact effectively with customers, lawyers, medical providers, insurance agents and other public personnel involved in the claims process. Document claims files accurately and promptly while maintain company metric goals. Provide excellent customer service while delivering difficult conversations.",
+      "highlights": [
+        "Investigate, evaluate and negotiate moderate to high exposures",
+        "Interact effectively with customers, lawyers, medical providers, insurance agents and other public personnel involved in the claims process",
+        "Provide excellent customer service while delivering difficult conversations",
+        "Mentoring less experienced adjusters and assisting in their training and development"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "John F. Kennedy High School",
+      "area": "High School Diploma",
+      "studyType": "Diploma"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Benefits",
+      "level": "High",
+      "keywords": [
+        "Benefits",
+        "excellent customer service",
+        "customer service",
+        "insurance",
+        "IQ",
+        "mentoring",
+        "personnel",
+        "police",
+        "settlements",
+        "phone",
+        "valuation",
+        "written"
+      ]
+    }
+  ]
+}

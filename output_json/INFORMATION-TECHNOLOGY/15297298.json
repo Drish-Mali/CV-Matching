@@ -1,0 +1,134 @@
+{
+  "basics": {
+    "name": "",
+    "label": "PRACTICE MANAGER",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Strategic, motivational, and solutions-focused leader with an MBA and with extensive experience in analyzing systems/processes and implementing mission-critical infrastructure improvements Broad based experience in the healthcare industry including regulatory/corporate compliance, strategic planning, and contract negotiations. Craft and implement key quality improvements to enhance quality patient care and secure regulatory compliance Proven track record of success in developing solutions which significantly improve the efficiency of business operations; experience developing and implementing multi-year budgets and operational plans. Excel in corporate environments across diverse industries with the ability to collaborate effectively with colleagues, executives, and client groups.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Practice Manager",
+      "url": "",
+      "startDate": "2014-08-01",
+      "endDate": "Current",
+      "summary": "Develop annual planning, budgeting and productivity levels for corporate accounting. Prepare detailed business and financial activity reports and use financial ratios and statistical trending for market-wide growth. Improvements to top line growth by 39.4% through building an effective hospital team, ensuring a safe and engaging environment, and improving medical quality and business performance. Responsible for cost containment, cash control/banking, asset protection, loss prevention, inventory management, Federal and DEA compliance. Develop and deploy new hospital initiatives including training physician partners, implementing an efficient patient workflow from intake to discharge and community marketing/outreach campaigns. Build client base by providing extraordinary service to existing clients and by initiating new marketing plans.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Information Technology Manager",
+      "url": "",
+      "startDate": "2012-02-01",
+      "endDate": "2013-09-01",
+      "summary": "Ensured regulatory compliance and integrity of health information systems. Provided support during surveys, ADR, and internal audits. Mentored and ensured the professional development of new clinical employees by providing onsite educational programs and supported seasoned clinical staff by making field visits. Member of the Performance Improvement committee and oversaw compliance department operations.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Information Technology Manager",
+      "url": "",
+      "startDate": "2008-09-01",
+      "endDate": "2011-05-01",
+      "summary": "Revised technology initiatives, and developed strategic/operations plans to drive business operations. Provided all technical support for EMR (Allscripts) projects.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Marketing Director",
+      "url": "",
+      "startDate": "2007-02-01",
+      "endDate": "2008-09-01",
+      "summary": "Led marketing initiatives including service packaging, advertising campaigns, seminar rollouts agency placements, endorsements, media activities, service reviews, and website referrals.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Director of Information Systems",
+      "url": "",
+      "startDate": "2004-01-01",
+      "endDate": "2007-02-01",
+      "summary": "Managed and improved agency computer/security training collateral and instruction to increase end user knowledge and minimize agency risks. Reduced maintenance costs, improved productivity, increased employee security, and decreased travel expenses.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Keller Graduate School of Management",
+      "url": "",
+      "area": "",
+      "studyType": "Master of Business Administration (MBA)",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "DeVry University",
+      "url": "",
+      "area": "Telecommunications Management",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Cisco Certified Network Associate (CCNA/CCAI)",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "ITIL Foundations Certification",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "Sniffer University - Sniffer Distributed Training Certified",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "Certified Novell Administrator (CNA 5.1)",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "HIPAA/HITECH Regulation",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Windows, Novell NetWare, EMR, TCP/IP Enterprise Networks, Enterprise Virus Protection, Asset Management/ITIL, Arcserve/Backup Exec/Net Backup, Symantec Ghost",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

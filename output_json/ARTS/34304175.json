@@ -1,0 +1,87 @@
+{
+  "basics": {
+    "name": "",
+    "label": "WAREHOUSE LEAD",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "A position in Warehouse Management requiring a self-starter with a reputation for dependability. Highly qualified warehouse professional with cross functional and cross industry management experience including staff training, inventory control, shipping, receiving and customer service.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "WAREHOUSE LEAD",
+      "url": "",
+      "startDate": "April 2011",
+      "endDate": "Current",
+      "summary": "Reduced operating budget by certain percentage and misships by certain amount by implementing new policies and procedures. Established transportation cost standards and economical shipping practices. Negotiated bulk shipping discounts with contracted carriers.",
+      "highlights": [""]
+    },
+    {
+      "name": "Company Name",
+      "position": "Warehouse / Support Service",
+      "url": "",
+      "startDate": "June 2008",
+      "endDate": "April 2011",
+      "summary": "Evaluated operational records and made scheduling adjustments to maximize efficiency.",
+      "highlights": [""]
+    },
+    {
+      "name": "Company Name",
+      "position": "MARKETING & EVENT MANAGER",
+      "url": "",
+      "startDate": "October 2006",
+      "endDate": "June 2008",
+      "summary": "Worked effectively in a heavily cross-functional, fast paced environment.",
+      "highlights": [""]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Shoreline Community College",
+      "url": "",
+      "area": "Business Software Applications",
+      "studyType": "Certificate of Completion",
+      "startDate": "2010",
+      "score": "",
+      "courses": [""]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Warehouse Management",
+      "level": "Expert",
+      "keywords": [
+        "Shipping and receiving",
+        "Production scheduling",
+        "Results-oriented",
+        "Safety-oriented",
+        "Mac and PC-Word, PowerPoint, Publisher, Outlook, Access, ACT!, Strong Internet and Research Experience, Multi-tasker, Vendor management, Strong communication skills, Adaptable, Exceptional problem solver, Natural leader"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "awards": [
+    {
+      "title": "Employee of the Month",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "volunteer": [],
+  "certificates": [],
+  "publications": []
+}

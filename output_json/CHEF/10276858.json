@@ -1,0 +1,95 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Food Prep Chef",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Motivated food serving professional with 5+ years food and beverage experience in casual and fine dining.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Food Prep Chef",
+      "url": "",
+      "startDate": "2010-09-01",
+      "endDate": "2011-04-01",
+      "summary": "Followed all established restaurant practices and procedures. Carefully maintained sanitation, health and safety standards in all work areas. Prepared items according to written or verbal orders, working on several different orders simultaneously.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Cook",
+      "url": "",
+      "startDate": "2011-06-01",
+      "endDate": "2012-11-01",
+      "summary": "Followed all established restaurant practices and procedures. Maintained a neat, well groomed appearance including impeccable personal hygiene, hair restraint and minimal jewelry that met company standards. Closely followed standard procedures for safe food preparation, assembly and presentation to ensure customer satisfaction. Cut and chopped food items and cooked on a grill or in fryers.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Cook",
+      "url": "",
+      "startDate": "2012-12-01",
+      "endDate": "2013-03-01",
+      "summary": "Operated large-volume cooking equipment such as grills, deep-fat fryers and griddles. Took necessary steps to meet customer needs and effectively resolve food or service issues. Served fresh, hot food with a smile in a timely manner. Accurately measured ingredients required for specific food items. Followed all established restaurant practices and procedures.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Chef",
+      "url": "",
+      "startDate": "2014-06-01",
+      "endDate": "2014-11-01",
+      "summary": "Developed strategies to enhance catering and retail food service revenue and productivity goals. Prepared healthy, enjoyable breakfasts and dinners for diners. Effectively managed and assisted kitchen staff in producing food for banquets, catered events and member dining areas. Effectively used items in stock to decrease waste and profit loss. Ensured consistent high quality of plate presentation. Seasoned and cooked food according to recipes or personal judgment and experience. Created and explored new cuisines. Instructed cooks and other workers in the preparation, cooking, garnishing, and presentation of food. Cooked food properly and in a timely fashion, using safety precautions. Used all food handling standards.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "William M Davies Career & Tech",
+      "url": "",
+      "area": "Culinary/ Auto Body",
+      "studyType": "High School Diploma",
+      "startDate": "2011-01-01",
+      "endDate": "2011-12-31",
+      "score": "",
+      "courses": [
+        "Food Preparation",
+        "Kitchen Management",
+        "Patisserie and Confectionery",
+        "International Cuisine"
+      ]
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Culinary",
+      "level": "Master",
+      "keywords": [
+        "Cooking",
+        "Sanitation",
+        "Kitchen equipment operation",
+        "Recipe knowledge",
+        "Food preparation"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

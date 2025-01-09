@@ -1,0 +1,99 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Finance Director",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Seasoned professional accountant with extensive experience in financial accounting in both private and public sector entities. Recruited to multiple positions to restructure/reorganize/revitalize non-performing teams.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Finance Director",
+      "url": "",
+      "startDate": "2012-02",
+      "endDate": "Present",
+      "summary": "Accounting & Finance functions, managing IT outsourcing vendor for $20 million government entity.",
+      "highlights": [
+        "Moved IT function to outsourced vendor.",
+        "Developed monthly financial reporting to all department heads & elected officials.",
+        "Support County Negotiations Committee in union negotiations."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Director of Finance & Human Resources",
+      "url": "",
+      "startDate": "2009-01",
+      "endDate": "2012-01",
+      "summary": "First Human Resource & Accounting professional hired by 19 year old fitness equipment sales & repair company.",
+      "highlights": [
+        "Developed standard financial reporting."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Mount Mary College",
+      "url": "",
+      "area": "Accounting",
+      "studyType": "Bachelor of Arts",
+      "startDate": "",
+      "endDate": "1995-11",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Central of Clifton High School",
+      "url": "",
+      "area": "",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Accounting",
+      "level": "",
+      "keywords": [
+        "General Accounting",
+        "Budgeting",
+        "Controller",
+        "Cost Analysis and Analytical Reporting",
+        "Credit",
+        "Facilities Management",
+        "Finance",
+        "Financial Reporting",
+        "Forecasting",
+        "Governmental Accounting",
+        "Human Resource",
+        "Inventory",
+        "Leadership",
+        "Negotiations",
+        "Processes",
+        "Sarbanes-Oxley"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

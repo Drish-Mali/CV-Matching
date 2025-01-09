@@ -1,0 +1,104 @@
+{
+  "basics": {
+    "name": "Aviation Executive Officer",
+    "label": "Seasoned leader",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Seasoned leader who possesses effective decision making, analytical, organizational, communication, and problem solving skills. A strong background in cross-functional team leadership, with extensive experience leading and coaching a very diverse group of employees.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "",
+      "region": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Aviation Executive Officer",
+      "url": "",
+      "startDate": "April 2015",
+      "endDate": "Current",
+      "summary": "Second in command over a 42 personnel United States Army Air Ambulance Detachment, assuming responsibilities of detachment commanding officer in supervisor's absence.",
+      "highlights": [
+        "Managed $60mil of organizational property",
+        "Received an average 15% higher evaluation rating from the previous Aviation Resource Management inspection"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Aviation Platoon Leader",
+      "url": "",
+      "startDate": "July 2010",
+      "endDate": "July 2012",
+      "summary": "Led, trained, and mentored 24 Soldiers; developed specific combat readiness-based training for deployment in support of Operation Enduring Freedom",
+      "highlights": [
+        "Planned the detailed logistics coordination between two facilities over 1,750 miles apart",
+        "Chosen out of 27 Captains to serve as a remote outpost Base OperationsSupport Integrator"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Aviatiaon Unit Maintenance Platoon Leader",
+      "url": "",
+      "startDate": "June 2009",
+      "endDate": "July 2010",
+      "summary": "Led, trained, and mentored 57 Soldiers of a multi-functional Aviation Unit Maintenance Company (AVUM) on the safe operation of all aviation ground support equipment and aviation specific tools.",
+      "highlights": [
+        "Supervised scheduled maintenance and conducted comprehensive Phase Maintenance Inspections (PMI) for 11 x UH-60A/L Blackhawks and 11 x CH-47F Chinooks",
+        "Balanced thousands of man hours of unscheduled maintenance while conducting PMI inspections"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Jacksonville State University",
+      "url": "",
+      "area": "Criminal Justice",
+      "studyType": "#N/A",
+      "startDate": "2007",
+      "endDate": "#N/A",
+      "score": "#N/A",
+      "courses": []
+    },
+    {
+      "institution": "University of Alabama",
+      "url": "",
+      "area": "Management",
+      "studyType": "MBA",
+      "startDate": "2017",
+      "endDate": "Enrolled",
+      "score": "#N/A",
+      "courses": []
+    },
+    {
+      "institution": "Aviation Captains Career Course",
+      "url": "",
+      "area": "Military Science",
+      "studyType": "",
+      "startDate": "2013",
+      "endDate": "#N/A",
+      "score": "#N/A",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Leadership",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

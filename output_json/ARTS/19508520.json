@@ -1,0 +1,75 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Coordinator of Student Personnel Services",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "summary": "I am an experienced, engaging and dynamic leader seeking an opportunity for growth within CCISD's Student Personnel Services Department. I consistently demonstrate effective communication, public relations, and interpersonal skills and maintain a personal expectation for positive, customer-service-driven, interactions with all students, parents, faculty/staff, and community stakeholders. I possess excellent organizational skills as well as the ability to maintain emotional control under stress and to work with frequent interruptions.",
+    "location": {
+      "city": "City",
+      "countryCode": "US"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Coordinator of Student Personnel Services",
+      "startDate": "July 2015",
+      "endDate": "Current",
+      "summary": "I lead the Clear Falls High School counseling team..."
+    },
+    {
+      "name": "Company Name",
+      "position": "Lead Counselor/Director of College Counseling",
+      "startDate": "March 2010",
+      "endDate": "June 2015",
+      "summary": ""
+    },
+    {
+      "name": "Company Name",
+      "position": "Counselor",
+      "startDate": "August 2006",
+      "endDate": "March 2010",
+      "summary": ""
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Houston Clear",
+      "area": "Counseling",
+      "studyType": "Master of Science",
+      "startDate": "",
+      "endDate": "2006"
+    },
+    {
+      "institution": "Texas Tech University",
+      "area": "English and History",
+      "studyType": "Bachelor of Arts",
+      "startDate": "",
+      "endDate": "2000"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Project management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Conflict resolution",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Counseling",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

@@ -1,0 +1,81 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Art Director, Key Holder, Sales Planner",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Art Director with strong background in production management. Specializes in sales, fashion marketing and editorial film making. Well versed in team building and creative planning. Extensive high-profile brand knowledge.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Key Holder, Sales Planner",
+      "url": "",
+      "startDate": "2016-03-01",
+      "endDate": "2016-07-01",
+      "summary": "Controlled the release of proprietary and confidential information for general client lists. Created strategies to develop and expand existing customer sales. Maintained productive relationships with existing clients through exceptional personal follow-up after sales.",
+      "highlights": ["Resulted in a 6% increase in monthly sales."]
+    },
+    {
+      "name": "Company Name",
+      "position": "Editorial Producer",
+      "url": "",
+      "startDate": "2015-10-01",
+      "endDate": "present",
+      "summary": "Worked in direct relation with designer during editorial production to create the look and feel of the brand. Collaborated with modeling agencies, stylists, editors and designers.",
+      "highlights": ["Shot and produced look books for Fall2015/Spring 2016", "Directed all styling and outfitting for a production cast."]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Hunter University",
+      "url": "",
+      "area": "Production Managment",
+      "studyType": "Bachelor of Science",
+      "startDate": "2014-01-01",
+      "endDate": "2016-01-01",
+      "score": "",
+      "courses": ["Communication-Journalism", "Media Studies", "Film Studies", "Creative Writing"]
+    },
+    {
+      "institution": "University of Ballarat",
+      "url": "",
+      "area": "International Affairs",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "2014-01-01",
+      "score": "",
+      "courses": ["Social Science", "Arts and Humanistic Studies", "Global Politics and International Relations", "Creative Writing and Humanistic Studies"]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Film and Photography",
+      "level": "Master",
+      "keywords": ["Camera operating", "film directing", "art directing", "creative planning", "production management", "budgeting skills", "non-linear editing", "creative writing", "product advertising", "editorial"]
+    },
+    {
+      "name": "Production Managing",
+      "level": "Master",
+      "keywords": ["Advertising", "brand management", "Strong interpersonal skills", "client contacts", "special events", "market research", "marketing strategies", "merchandising", "modeling", "selling", "trend awareness"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "volunteer": [],
+  "awards": [],
+  "certificates": [],
+  "publications": []
+}

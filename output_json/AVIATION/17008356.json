@@ -1,0 +1,129 @@
+{
+  "basics": {
+    "name": "Account Executive",
+    "label": "Account Executive",
+    "summary": "Accomplished sales-management professional with 5+ years...",
+    "location": {
+        "city": "City"
+     },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Account Executive",
+      "startDate": "10/2017",
+      "endDate": "01/2019",
+      "summary": "Expanded YOY revenue...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Account Manager",
+      "startDate": "04/2015",
+      "endDate": "08/2017",
+      "summary": "Increased sales by 151.66%...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Operations Manager",
+      "startDate": "12/2014",
+      "endDate": "04/2015",
+      "summary": "Increased productivity by 21%...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Operations Supervisor",
+      "startDate": "03/2014",
+      "endDate": "12/2014",
+      "summary": "Increased employee efficiency 14%...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Account Manager",
+      "startDate": "11/2013",
+      "endDate": "03/2014",
+      "summary": "Completed over 300 cold calls...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Account Manager",
+      "startDate": "08/2013",
+      "endDate": "11/2013",
+      "summary": "Developed new sales territory...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Aviation Ordnance Technician",
+      "startDate": "07/2009",
+      "endDate": "07/2013",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Southern Illinois University",
+      "area": "Business Management",
+      "studyType": "B.S.",
+      "startDate": "",
+      "endDate": "04/2013"
+    },
+    {
+      "institution": "Strayer University",
+      "area": "Business Management",
+      "studyType": "MBA",
+      "startDate": "",
+      "endDate": ""
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "B2B Strategic Selling",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Negotiation",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Business Development and Planning",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Time Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Territory Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Growth Oriented",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Market Research",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

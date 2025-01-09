@@ -1,0 +1,102 @@
+{
+  "basics": {
+    "name": "Unknown",
+    "label": "Marketing Manager",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Summary: Multidisciplinary professional with track record of exceeding revenue goals, driving high-volume new user acquisition and growing subscription-based businesses. Versed in all aspects of marketing campaigns from concept development to execution and launch.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "position": "Marketing Manager",
+      "startDate": "2009-04-01",
+      "endDate": "2015-03-01",
+      "summary": "Handled both inbound and outbound marketing campaigns to generate new business and to support partner and sales teams. Managed the complete redesign and launch of the company's website in 2 months.",
+      "highlights": ["Brand development", "New customer acquisition", "Multi-media marketing", "Prospecting", "Channel strategy", "Account management", "CRM understanding", "Skilled negotiator"]
+    },
+    {
+      "position": "Banking and Workout Attorney",
+      "startDate": "2006-01-01",
+      "endDate": "2009-01-01",
+      "summary": "Full-service law firm with over 100 employees...",
+      "highlights": []
+    },
+    {
+      "position": "National Sales Director",
+      "startDate": "2003-01-01",
+      "endDate": "2005-01-01",
+      "summary": "Commercial real estate firm specializing in accelerated sales...",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "CHICAGO-KENT COLLEGE OF LAW",
+      "area": "Law",
+      "studyType": "Juris Doctorate (JD)",
+      "startDate": "",
+      "endDate": "2001",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "TULANE UNIVERSITY",
+      "area": "American and European History",
+      "studyType": "Bachelor of Arts",
+      "startDate": "",
+      "endDate": "1998",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "SEO, SEM, Social Media",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Launch Strategies",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Social-Digital Marketing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Traffic Generation",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Media and Marketing Analysis",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Interactive Web Campaigns/E-Commerce",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "volunteer": []
+}

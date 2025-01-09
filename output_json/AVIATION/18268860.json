@@ -1,0 +1,96 @@
+{
+  "basics": {
+    "name": "Unnamed",
+    "label": "Quality Control Inspector",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Highly qualified aerospace inspector with over 18 years of rotary and fixed wing aircraft maintenance, inspection, and modification experience on military and commercial aircraft.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "US",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Quality Control Inspector",
+      "url": "",
+      "startDate": "2011-10-01",
+      "endDate": "Current",
+      "summary": "Completes classroom and on-the-job training to acquire, exercise, and maintain knowledge of the duties required to perform all inspection task ranging from First Article inspections to process inspections.",
+      "highlights": [
+        "Reviewing written quality or inspection procedures for adequacy",
+        "Analyzing quality data to detect unsatisfactory trends or weaknesses in the quality/inspection system."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Aviation Structural Mechanic",
+      "url": "",
+      "startDate": "2009-08-01",
+      "endDate": "2011-05-01",
+      "summary": "Performs acceptance inspection on all inbound aircraft to assess the total damage before beginning overall Reset.",
+      "highlights": [
+        "Ordered necessary components to complete Aircraft reset",
+        "Assisted electrical runs and ring outs to ensure the turnaround time was achieved."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Aviation Structural Mechanic / Grade E-5",
+      "url": "",
+      "startDate": "1999-10-01",
+      "endDate": "2007-10-01",
+      "summary": "Eight years of active duty service in the Navy (Honorable Discharge).",
+      "highlights": [
+        "Installed/replaced pneumatic actuators and servos, landing gear and flight controls on the F/A-18 hornet.",
+        "On board the USS Nimitz CVN-68 Aircraft Carrier for a six-month deployment during Operation Iraqi Freedom."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Riddle Aeronautical University",
+      "url": "",
+      "area": "Professional Aeronautics",
+      "studyType": "B.S",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": [
+        "U.S. Navy Aviation F/A-18 Hydraulic/Structural Repair School",
+        "U.S Navy Aircraft Paint Touch Up and Markings",
+        "Catia V"
+      ]
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Quality Control",
+      "level": "Master",
+      "keywords": [
+        "Blueprints",
+        "Catia V",
+        "Inspecting",
+        "Inspection",
+        "Inspector",
+        "Risk Management",
+        "Technical Manuals"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

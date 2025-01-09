@@ -1,0 +1,118 @@
+{
+  "basics": {
+    "name": "S",
+    "label": "Engineering Instructor",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Seeking an Internship/Co-op in the field of Electrical/Instrumentation & Control Engineering for Spring & Summer 2017",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "[Company Name]",
+      "position": "Engineering Instructor",
+      "url": "http://www.bluestampengineering.com/meet-the-students/palo-alto-16/",
+      "startDate": "2016-06-01",
+      "endDate": "2016-07-01",
+      "summary": "Instruct and supervise high school students to build engineering projects.",
+      "highlights": []
+    },
+    {
+      "name": "[Company Name]",
+      "position": "Graduate Teaching Assistant",
+      "url": "",
+      "startDate": "2015-06-01",
+      "endDate": "Current",
+      "summary": "Assist professor in teaching courses Control system, Electrical & Electronic circuits, Computer based industrial power system protection, & Introduction to C++ programming.",
+      "highlights": []
+    },
+    {
+      "name": "[Company Name]",
+      "position": "Instrumentation & Control Engineer",
+      "url": "",
+      "startDate": "2012-10-01",
+      "endDate": "2014-12-01",
+      "summary": "Execution experience with DCS (Honeywell Experion PKS (C300 controller)) & ESD systems. Supervised all Electrical & Instrumentation Installation & Commissioning activities...",
+      "highlights": []
+    },
+    {
+      "name": "[Company Name]",
+      "position": "Intern",
+      "url": "",
+      "startDate": "2011-12-01",
+      "endDate": "2011-12-01",
+      "summary": "Interacted & worked with plant operator and chief engineer on SCADA, HMI, PLC, control panel wiring, flow, pressure, level transmitter & control valves.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Houston",
+      "url": "",
+      "area": "Electrical Engineering",
+      "studyType": "Master of Science",
+      "startDate": "",
+      "endDate": "2017-05-01",
+      "score": "3.85",
+      "courses": []
+    },
+    {
+      "institution": "Nirma University",
+      "url": "",
+      "area": "Instrumentation & Control Engineering",
+      "studyType": "Bachelor of Technology",
+      "startDate": "",
+      "endDate": "2012-05-01",
+      "score": "3.5",
+      "courses": []
+    }
+  ],
+  "awards": [
+     {
+      "title": "Runners up in Robocon 2010, India",
+      "date": "2010-01-01",
+      "awarder": "Asia - Pacific Broadcasting Union",
+      "summary": ""
+    },
+    {
+      "title": "Graduate Tuition Fellowship, University of Houston",
+      "date": "2015-01-01",
+      "awarder": "University of Houston",
+      "summary": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Engineering Instructor",
+      "level": "Expert",
+      "keywords": ["MATLAB", "Simulink", "C++", "MS office", "PLC programming", "Siemens PLC", "HMI", "SCADA"]
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "certificates": [
+    {
+      "name": "Certificate in Industrial Automation & Control",
+      "date": "2012-07-01",
+      "issuer": "Apollo Knowledge Institute",
+      "url": ""
+    },
+    {
+      "name": "Certificate in SPI Intools",
+      "date": "2014-04-01",
+      "issuer": "Smart Brains Engineering Pvt. Ltd.",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "volunteer": [],
+  "projects": []
+}

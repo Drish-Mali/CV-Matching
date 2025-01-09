@@ -1,0 +1,125 @@
+{
+  "basics": {
+    "name": "Director of Engineering",
+    "label": "Engineering Manager",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Versatile and highly competent mechanical engineering professional offering over 10 years experience...",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": [
+      
+    ]
+  },
+  "work": [
+    {
+      "name": "Roberts Filter Group",
+      "position": "Director of Engineering",
+      "url": "",
+      "startDate": "2013-01-01",
+      "endDate": "Current",
+      "summary": "Responsible for running the engineering department...",
+      "highlights": [
+        "Brought three new products to market...",
+        "Managed project budgets to ensure profitable delivery"
+      ]
+    },
+    {
+      "name": "Amer Industrial Technologies",
+      "position": "Project Engineer/Engineering Manager/Production Director",
+      "url": "",
+      "startDate": "2009-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Responsible for development of welding...",
+      "highlights": [
+        "Built the production department from a staff of zero to 20 in about 5 weeks",
+        "Managed engineering of $30MM+ nuclear safety related project"
+      ]
+    }
+  ],
+  "volunteer": [
+    
+  ],
+  "education": [
+    {
+      "institution": "Tulane University",
+      "url": "",
+      "area": "Mechanical Engineering",
+      "studyType": "Masters",
+      "startDate": "",
+      "endDate": "2005",
+      "score": "",
+      "courses": [
+        
+      ]
+    },
+    {
+      "institution": "Tulane University",
+      "url": "",
+      "area": "Mechanical Engineering",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "2003",
+      "score": "",
+      "courses": [
+        
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "2002 ASHRAE Outstanding Junior Award",
+      "date": "2002-01-01",
+      "awarder": "ASHRAE",
+      "summary": "Outstanding Junior Award for excellence in the field of Thermal Studies and Fluids"
+    },
+    {
+      "title": "2014 IRONMAN Lake Placid Finisher",
+      "date": "2014-01-01",
+      "awarder": "IRONMAN",
+      "summary": ""
+    }
+  ],
+  "publications": [
+    
+  ],
+  "skills": [
+    {
+      "name": "Engineering Manager Skills",
+      "level": "",
+      "keywords": [
+        "ANSYS",
+        "Autocad",
+        "C Programming",
+        "CAD",
+        "client management",
+        "product development",
+        "drafting",
+        "MATLAB",
+        "MS Office",
+        "Pro-Engineer",
+        "SolidWorks",
+        "Unigraphics"
+      ]
+    }
+  ],
+  "languages": [
+    
+  ],
+  "interests": [
+    
+  ],
+  "references": [
+    
+  ],
+  "projects": [
+    
+  ]
+}

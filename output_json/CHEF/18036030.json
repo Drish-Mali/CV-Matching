@@ -1,0 +1,62 @@
+{
+  "basics": {
+    "name": "Ashanique Gray",
+    "summary": "Diligently coordinates all warehouse activities to keep products moving quickly and meet continuous shipping demands. Highly organized leader with good program management and team-building abilities focused on maximizing efficiency and performance. Proven track record of enforcing best practices in fast-paced environments.",
+    "skills": [
+      "Mental health assessments",
+      "Machine operations",
+      "Behavior modification",
+      "Team lead",
+      "Conflict mediation",
+      "Communication skills",
+      "Data analysis and reporting",
+      "Structured value",
+      "Loading unloading trailers",
+      "Cleanliness and professionalism"
+    ]
+  },
+  "work": [
+    {
+      "name": "Express Employment Professionals",
+      "position": "Warehouse Associate",
+      "startDate": "2014-01-01",
+      "endDate": "2021-05-01",
+      "summary": "Worked for several companies including FedEx, Amazon, Dap, and Goetes Candy Company. Employed skills in crisis intervention, workflow streamlining, and team leadership."
+    },
+    {
+      "name": "First Team Staffing",
+      "position": "Warehouse Associate",
+      "startDate": "2013-03-01",
+      "endDate": "2020-08-01",
+      "summary": "Authored business correspondence, provided productivity insight, reported on metrics, and carried out special projects."
+    },
+    {
+      "name": "Restaurant",
+      "position": "Server, Waiter, Team Lead",
+      "startDate": "2013-09-01",
+      "endDate": "2016-12-01",
+      "summary": "Serviced over 200 customers per day, managed table setting, restaurant operations, and collaborated with kitchen staff."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Chesapeake High School",
+      "area": "General Education",
+      "studyType": "High School Diploma",
+      "endDate": "2012-06-01",
+      "score": "3.5"
+    },
+    {
+      "institution": "CCBC Essex Campus",
+      "area": "Human Services Social Worker",
+      "studyType": "Bachelors",
+      "summary": "Working towards bachelors degree. Completed continuing education."
+    }
+  ],
+  "awards": [
+    {
+      "title": "Employee Recognition",
+      "summary": "Led team to achieve improvements on work productions, earning recognition from upper management and financial reward."
+    }
+  ]
+}

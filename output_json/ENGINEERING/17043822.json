@@ -1,0 +1,139 @@
+{
+  "basics": {
+    "name": "Unspecified",
+    "label": "CLINICAL ENGINEERING MANAGER",
+    "image": "",
+    "email": "Unspecified",
+    "phone": "Unspecified",
+    "url": "Unspecified",
+    "summary": "A accomplished clinical engineering manager with more than 12 years of training and experience. Proven track record managing the execution of the medical equipment management plan at various health facilities in the West Virginia regional area. Exceptional team building and leadership skills. Proficient at medical equipment compliance and risk management by developing and implementing policies according to agency standards.",
+    "location": {
+      "address": "Unspecified",
+      "postalCode": "Unspecified",
+      "city": "Unspecified",
+      "countryCode": "Unspecified",
+      "region": "Unspecified"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Clinical Engineering Manager",
+      "url": "Unspecified",
+      "startDate": "06/1996",
+      "endDate": "01/2016",
+      "summary": "Managed Clinical Biomedical Service, Inc., handled all company budgets, project estimates, training, evaluations, recruitment and more. Developed plan for hospitals and medical facilities in West Virginia. Maintained proficiency in various areas such as TJC, CHS, NFPA, OHFLAC, etc.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Imaging Service Engineer",
+      "url": "Unspecified",
+      "startDate": "06/2012",
+      "endDate": "06/2014",
+      "summary": "Managed repair service and preventive maintenance of medical imaging and biomedical equipment, established excellent customer relationships through ownership of the accounts, performed installations and managed LAN and WLAN server/workstations on different systems.",
+      "highlights": []
+    },
+   {
+      "name": "Company Name",
+      "position": "Imaging Service Engineer",
+      "url": "Unspecified",
+      "startDate": "08/2007",
+      "endDate": "10/2009",
+      "summary": "Installed and performed repair service and preventive maintenance on CT, MRI and Nuclear Medicine systems, established excellent customer relationships by ownership of the accounts, installed and maintained DICOM protocol connections to TCP/IP ports for medical imaging systems.",
+      "highlights": []
+    },
+   {
+      "name": "Company Name",
+      "position": "Biomedical Equipment Technician II",
+      "url": "Unspecified",
+      "startDate": "02/1980",
+      "endDate": "06/1996",
+      "summary": "Provided repair service, preventive maintenance and electrical safety for medical equipment, physiological monitoring systems and medical treatment devices, coordinated scheduled preventive maintenance work orders for the biomedical technicians and developed completion reports for management, managed server/workstations, LAN and WLAN on different systems used in the diagnostic monitoring of the patients' physiological parameters.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "West Virginia State University",
+      "url": "https://institution.com/",
+      "area": "Electronic Technology",
+      "studyType": "AAS",
+      "startDate": "Unspecified",
+      "endDate": "Unspecified",
+      "score": "Unspecified",
+      "courses": []
+    },
+   {
+      "institution": "Marshall University",
+      "url": "https://institution.com/",
+      "area": "Business Management",
+      "studyType": "BA",
+      "startDate": "Unspecified",
+      "endDate": "Unspecified",
+      "score": "Unspecified",
+      "courses": []
+    },
+   {
+      "institution": "Center College",
+      "url": "https://institution.com/",
+      "area": "Computer Programming",
+      "studyType": "Diploma",
+      "startDate": "Unspecified",
+      "endDate": "Unspecified",
+      "score": "Unspecified",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Basic and Advanced Supervision",
+      "level": "Proficient",
+      "keywords": []
+    },
+   {
+      "name": "Certified Biomedical Equipment Technician",
+      "level": "Proficient",
+      "keywords": []
+    },
+   {
+      "name": "Toshiba certified service",
+      "level": "Proficient",
+      "keywords": []
+    },
+    {
+      "name": "Aramark service",
+      "level": "Proficient",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Applications",
+      "level": "Proficient",
+      "keywords": []
+    },
+    {
+      "name": "Foresight Imaging Systems",
+      "level": "Skilled",
+      "keywords": []
+    },
+    {
+      "name": "Operation of Networks",
+      "level": "Skilled",
+      "keywords": []
+    },
+    {
+      "name": "Operation of Workstations and Servers",
+      "level": "Skilled",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

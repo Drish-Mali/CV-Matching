@@ -1,0 +1,134 @@
+{
+  "basics": {
+    "name": "Annika Kay",
+    "label": "Assistant Director",
+    "email": "",
+    "phone": "",
+    "summary": "Previously doing executive administrative work; experienced in multiple work settings: maintenance, marketing, finance, health care, customer service, hospitality, educational and instructional; also achieving artistic experience work as a Choreographer, Dancer, Videographer, Producer, and Professor; culturally aware and diverse having traveled internationally; philanthropy work serving as a board member for various non-profit organizations, volunteering at hospitals, and being active within the community.",
+    "location": {},
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Assistant Director",
+      "startDate": "12/2012",
+      "endDate": "03/2016",
+      "summary": "Assist in the oversight of Plant Operation services; provide information and serve as a resource to department Administrator(s) and staff; achieve defined objectives by assisting in planning, evaluating, developing, implementing and maintaining services in compliance with established guidelines, codes, and regulations; and supervising and directing assigned staff."
+    },
+    {
+      "name": "Idyllwild Elementary School",
+      "position": "Instructor/After School Program Specialist",
+      "startDate": "09/2012",
+      "endDate": "01/2013",
+      "summary": "Assisted children with their homework; planned and supervised activities; provided instruction, maintain order and safety among children"
+    },
+    {
+      "name": "Self Owned",
+      "position": "Owner/Artistic Director",
+      "startDate": "06/2011",
+      "endDate": "",
+      "summary": "Taught and Instructed children from ages 3-16 and adults ages 18-65 in areas of Modern, Jazz, Hip-Hop, Ballet, Tap, Tribal Fusion"
+    },
+    {
+      "name": "Company Name",
+      "position": "Office Manager",
+      "startDate": "06/2009",
+      "endDate": "06/2010",
+      "summary": "Billing, accounts payable/receivable; scheduling; documentation; meet with parents and students regarding any concerns, questions, explanations with their lessons or instructors"
+    }
+  ],
+  "education": [
+    {
+      "institution": "California Institute of the Arts",
+      "area": "",
+      "studyType": "Master's of Fine Arts",
+      "startDate": "2007",
+      "endDate": ""
+    },
+    {
+      "institution": "California State University of Fullerton (CSUF)",
+      "area": "",
+      "studyType": "Bachelor of Arts",
+      "startDate": "2003",
+      "endDate": ""
+    },
+    {
+      "institution": "Orange County Educational Arts Academy",
+      "area": "",
+      "studyType": "High School",
+      "startDate": "2000",
+      "endDate": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Final Cut Pro proficient, motion, live-type, camera operation, editing. Computer: Microsoft Office, Excel, Power Point, Quickbooks, Creative Suite, html, 120 wpm, 10-key proficient, online databases, filing and back-up drives, troubleshooting, web-design and graphic design. Writing: copy writing, letters, grants, project proposals, spreadsheets, cost analysis, memos, budget reports, meeting minutes, job descriptions, policies and procedures, handbooks, etc. "
+    }
+  ],
+  "interests": [
+    {
+      "name": "Gave demonstrations and open instruction for multiple dance styles that coincided with the concert in the park series."
+    },
+    {
+      "name": "Isis Theater Company"
+    },
+    {
+      "name": "Art Alliance of Idyllwild"
+    },
+    {
+      "name": "Various Finnish Organizations Finnish Lutheran Church, Los Angeles Finlandia Foundation, Los Angeles Scandinavian Foundation, National Finlandia Foundation, The Ladies of the Kalevala, Finnish Club of North Hollywood"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Golden Key International Honor Society",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    },
+    {
+      "title": "Member of Dean's List and National Dean's List",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    },
+    {
+      "title": "Distinguished Scholar Award",
+      "date": "2000",
+      "awarder": "",
+      "summary": ""
+    },
+    {
+      "title": "GSE Recognition in Excellence in Chemistry and Reading & High Honor Roll",
+      "date": "2000",
+      "awarder": "",
+      "summary": ""
+    },
+    {
+      "title": "Ahmanson Grant for Choreographic Work",
+      "date": "2007",
+      "awarder": "",
+      "summary": ""
+    },
+    {
+      "title": "Interdisciplinary Project Committee Selection",
+      "date": "",
+      "awarder": "",
+      "summary": "Selects and delegates grant expenditures to project proposals by students at CalArts"
+    },
+    {
+      "title": "Video/Media Assistantship at CalArts",
+      "date": "2006",
+      "awarder": "",
+      "summary": ""
+    },
+    {
+      "title": "Distinguished Scholar Award",
+      "date": "May 2003",
+      "awarder": "",
+      "summary": "Presented a speech, representing the dance department at the graduation commencement ceremony"
+    }
+  ],
+  "projects": []
+}

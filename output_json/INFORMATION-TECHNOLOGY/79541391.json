@@ -1,0 +1,135 @@
+{
+  "basics": {
+    "name": "SUBJECT MATTER EXPERT (INFORMATION TECHNOLOGY ASSISTANT)",
+    "label": "Information Technology Assistant",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "SAP, HP ALM, Network Configuration, Database Management, Document Management, Troubleshooting / Resolution, System Development & Execution, End-user Training, Customer Service, Website Maintenance, Mac, AUTOCAD",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "State",
+      "region": "US"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Subject Matter Expert (Information Technology Assistant)",
+      "url": "",
+      "startDate": "September 2013",
+      "endDate": "Current",
+      "summary": "SAP Data Validation and Population for Real Estate, Fixed Asset and Plant Maintenance Modules ... UVT) cycles for Umoja Cluster 3",
+      "highlights": [
+        "Promoted twice for excellent customer service",
+        "Recognized as 1 of top 4 agents"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Information Technology Assistant (OSAU)",
+      "url": "",
+      "startDate": "October 2010",
+      "endDate": "August 2013",
+      "summary": "Conduct walk-throughs on UN floors to verify Locations, Staff and Space configurations ...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Information Technology Assistant (PMICU)",
+      "url": "",
+      "startDate": "January 2008",
+      "endDate": "October 2011",
+      "summary": "Organize all PMICU Stockrooms ...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Information Technology Assistant (BCSS)",
+      "url": "",
+      "startDate": "September 2007",
+      "endDate": "December 2007",
+      "summary": "Managed a variety of expendable and non-expendable audio-visual supplies ...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Technical Support Representative",
+      "url": "",
+      "startDate": "July 2005",
+      "endDate": "September 2007",
+      "summary": "Managed Inventory of assigned IT products in assigned work car ...",
+      "highlights": ["Recognized as 1 of top 4 agents, promoted twice for excellent customer service"]
+    },
+    {
+      "name": "Company Name",
+      "position": "QA Compliance",
+      "url": "",
+      "startDate": "September 2002",
+      "endDate": "July 2005",
+      "summary": "Tracked and managed resources, using Great Plains and MS Excel ...",
+      "highlights": ["Put in charge of 3 persons"]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Oneonta State University",
+      "url": "https://www.oneonta.edu/",
+      "area": "Computer Science & Business",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": [ "" ]
+    },
+    {
+      "institution": "The Chubb Institute",
+      "url": "https://www.chubbinstitute.tci-usa.org/",
+      "area": "Network Security",
+      "studyType": "Certification",
+      "startDate": "2003",
+      "endDate": "2005",
+      "score": "",
+      "courses": [ "" ]
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Certification in Network Security",
+      "date": "2005",
+      "issuer": "The Chubb Institute",
+      "url": "https://www.chubbinstitute.tci-usa.org/"
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "IT product management",
+      "level": "",
+      "keywords": [
+        "SAP",
+        "HP ALM",
+        "Network Configuration",
+        "Database Management",
+        "Document Management",
+        "Troubleshooting / Resolution",
+        "System Development",
+        "End-user Training",
+        "Customer Service",
+        "Website Maintenance",
+        "Mac",
+        "AUTOCAD"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

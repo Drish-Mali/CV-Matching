@@ -1,0 +1,104 @@
+{
+  "basics": {
+    "name": "",
+    "label": "HEALTH INFORMATION SPECIALIST",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Highly efficient, detail oriented HIM Specialist with extensive experience in all types of request relating to release of information and medical record management. Over 10 years Health Information experience. Enhanced knowledge of HIPAA and HITECH compliance; state and federal laws governing release of protected health information. Technologically advanced in utilizing release of information database with advanced proficiency in various EMR database.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": [
+    ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Health Information Specialist",
+      "url": "",
+      "startDate": "2016-01-01",
+      "endDate": "Present",
+      "summary": "Process release of protected health information... in accordance with federal and state law as well SLRI policy and procedure.",
+      "highlights": [
+        "Validates and releases protected health information for legal proceedings including subpoenas and court orders, audits, regulatory requirements, research and reviews.",
+        "Assembles and ensures patient chart completeness through ICR management.",
+        "Performs most favorable guest relations interaction with diverse clients."
+      ]
+    },
+    {
+        "name": "Company Name",
+        "position": "Health Information Specialist",
+        "url": "",
+        "startDate": "2013-04-01",
+        "endDate": "2016-01-01",
+        "summary": "Collaborated/coordinated with physicians and various coding/insurance companies...",
+        "highlights": [
+            "Key team member to ensuring adequate patient chart documentation.",
+            "Managed process to ensure that billing errors rate of resolutions remained under 10 days.",
+            "Supported the revenue cycle process by reducing outstanding billing of $800K to under $400K."
+        ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Spokane Community College",
+      "url": "",
+      "area": "Health Information Technology",
+      "studyType": "Associate of Arts Degree",
+      "startDate": "2009",
+      "endDate": "2009",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Health Records Clerk certification",
+      "date": "2009",
+      "issuer": "Spokane Community College",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+        "name": "Health Information Management",
+        "level": "Expert",
+        "keywords": [
+            "HIPAA and HITECH compliance",
+            "Medical record management",
+            "Release of information",
+            "EMR databases proficiency"
+        ]
+    },
+    {
+        "name": "Customer Service",
+        "level": "Expert",
+        "keywords": [
+            "Interpersonal relations",
+            "Problem solving",
+            "Communications"
+        ]
+    },
+    {
+        "name": "Billing",
+        "level": "Expert",
+        "keywords": [
+            "Billing process",
+            "Coding",
+            "Documentations"
+        ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

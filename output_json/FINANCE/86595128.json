@@ -1,0 +1,103 @@
+{
+  "basics": {
+    "name": "Anonymous",
+    "label": "VP of Finance",
+    "email": "",
+    "phone": "",
+    "summary": "Ambitious Chief Executive Officer who creates strategic alliances with organization leaders to effectively align with and support key business initiatives. Builds and retains high performance teams by hiring, developing and motivating skilled professionals.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "US",
+      "region": "State"
+    }
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "VP of Finance",
+      "startDate": "2014-01-01",
+      "endDate": "current",
+      "summary": "Direct the accounting, finance and administrative functions of this newly formed hospitality management company currently overseeing 8 hotels.",
+      "highlights": [
+        "Increased annual revenue from $[Amount] to $[Amount] in just [Number] years.",
+        "Grew business from [Number] employees to [Number] employees in [Number] years.",
+        "Garnered more than [Number] excellent performance reviews and testimonials from clients."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Managing Partner",
+      "startDate": "2012-06-01",
+      "endDate": "2013-12-31",
+      "summary": "Managed all departments of the newly $5M built hotel on Lake Texoma.",
+      "highlights": [
+        "Achieved $1M (76%) in revenue during the first fiscal based on initial projection of a Tier 3 market.",
+        "Hired and trained 15 new employees of day-to-day 24/7 operation and managed payroll to maximize profitability."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "VP of Finance / Controller",
+      "startDate": "2010-05-01",
+      "endDate": "2012-10-31",
+      "summary": "Direct the accounting, financial planning and analysis, information technology and risk management functions of this $250M privately-held quick service franchise restaurant enterprise with over 200 stores.",
+      "highlights": [
+        "Implemented a new cloud base technology platform to reduce technology cost by 75% with new vendor partnership."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Director of Business Operations",
+      "startDate": "2005-04-01",
+      "endDate": "2009-12-31",
+      "summary": "Managed all operational activities of a single hotel location.",
+      "highlights": [
+        "Reached a 99.7% customer satisfaction rating by providing additional amenities and services through the hotel"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Dallas",
+      "area": "Project, Engineering & Business Management",
+      "studyType": "MBA",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "University of Texas at Dallas",
+      "area": "Finance, Accounting & Information Management",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": [
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Finance",
+      "level": "Master",
+      "keywords": [
+        "Accounting",
+        "Business Strategy",
+        "Cash Management",
+        "Customer Satisfaction",
+        "Financial Planning and Analysis",
+        "Forecasting",
+        "Information Technology",
+        "Marketing",
+        "Payroll",
+        "Risk Management",
+        "Sales",
+        "Strategy"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "basics": {
+    "name": "VP OF BUSINESS DEVELOPMENT",
+    "label": "Business Development Executive",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Accomplished Business Development executive with 7 years of experience in life science startups and clinical research organizations.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "PainQx",
+      "position": "VP of Business Development",
+      "url": "",
+      "startDate": "2016-01-01",
+      "endDate": "Current",
+      "summary": "Incorporated the PQX platform in six clinical trials to be used as a pain biomarker to gauge the efficacy of experimental therapeutics. Raised $500k from angel groups and venture funds and so on.",
+      "highlights": []
+    },
+    {
+      "name": "LSN",
+      "position": "Co-Founder VP of Business Development",
+      "url": "",
+      "startDate": "2012-06-01",
+      "endDate": "2016-01-01",
+      "summary": "LSN tracks the funding and partnering preferences of 5,000 investors and strategic partners by actively interviewing them on a 90-day rolling cycle and so on.",
+      "highlights": []
+    },
+    {
+      "name": "Abpro",
+      "position": "Business Development",
+      "url": "",
+      "startDate": "2011-02-01",
+      "endDate": "2012-07-01",
+      "summary": "Abpro specializes in the generation of custom monoclonal antibodies. The foundation of Abpro's technology is the HTP platform, a genetically engineered mouse with a boosted immune system, enabling the mouse to have a broader epitope spread facilitating the generation of antibodies to traditionally difficult targets such as GPCR's, and 100% homologous target.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "McCallum Graduate School at Bentley University",
+      "url": "",
+      "area": "Finance",
+      "studyType": "Master",
+      "startDate": "",
+      "endDate": "2012-12-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Bentley University",
+      "url": "",
+      "area": "Economics & Finance",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "2011-05-01",
+      "score": "Cum Laude",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Business Development",
+      "level": "Master",
+      "keywords": ["streamline", "approach", "balance sheet", "bonds", "budgeting", "business development", "cash flow", "clinical research", "clinical trials", "com", "consulting", "corporate finance", "CRM", "database", "email", "English", "equities", "Fast", "financials", "financing", "financial", "fundraising", "funds", "graphical user interface", "information systems", "Innovation", "inventory", "marketing", "network", "neural", "next", "presentations", "Speaker", "sales", "scientific", "Spanish", "strategy", "strategic", "websites"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "International Experience",
+      "keywords": ["USA (14 years)", "London (6 years)", "Colombia (5 years)", "China (2 years)"]
+    }
+  ],
+  "references": [],
+  "projects": []
+}

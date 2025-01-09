@@ -1,0 +1,98 @@
+{
+  "basics": {
+    "name": "PERSONNEL SECURITY SPECIALIST",
+    "label": "",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Dedicated Security Specialist professional that possess and excutes a broad knowledge of division processes to include Personnel Security, Information Security, Physical Security and Industrial Security. Personable leader who comfortably interacts with people from diverse cultures and backgrounds.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Personnel Security Specialist",
+      "url": "",
+      "startDate": "05/2014",
+      "endDate": "Current",
+      "summary": "Experience Details",
+      "highlights": ["highlight1", "highlight2"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Security Specialist",
+      "url": "",
+      "startDate": "07/2012",
+      "endDate": "05/2014",
+      "summary": "Experience Details",
+      "highlights": ["highlight1", "highlight2"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Assistant Command Security Manager/ Aviation Ordnanceman",
+      "url": "",
+      "startDate": "01/2008",
+      "endDate": "01/2011",
+      "summary": "Experience Details",
+      "highlights": ["highlight1", "highlight2"]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Concordia University",
+      "url": "",
+      "area": "Curriculum and Instruction",
+      "studyType": "Masters",
+      "startDate": "",
+      "endDate": "2015",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "ECPI University",
+      "url": "",
+      "area": "Criminal Justice",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "2013",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Security Asset Protection Professional Certification (SAPPC)",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "Security Fundamentals Professional Certification (SFPC)",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Joint Personnel",
+      "level": "",
+      "keywords": ["Adjudication System", "Microsoft Office", "e-QIP", "JPAS"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

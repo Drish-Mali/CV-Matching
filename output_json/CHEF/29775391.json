@@ -1,0 +1,124 @@
+{
+  "basics": {
+    "name": "Ex�cutive Banquette Sous Chef",
+    "label": "Chef",
+    "email": "",
+    "phone": "",
+    "summary": "Chef with a strong combination of over 14 years of culinary experience and management skills. Specializes in banquettes operations including events and functions, and proficient in baking, pastry making, roasting, cooking and grilling. Experienced in all sections with major experience in events, functions, catering, weddings, and corporate occasions. Skilled in food preparation procedures in line with high-end establishment standards. A fast learner, flexible and highly motivated both independently and as a team member.",
+    "location": {
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "ex�cutive Banquette sous chef",
+      "startDate": "2012-01-01",
+      "endDate": "2014-06-01",
+      "summary": "Managed kitchen staff by recruiting, selecting, hiring, orienting, training, assigning, scheduling, supervising, evaluating and enforcing discipline. Ensured all staff understood expectations and parameters of kitchen goals and daily kitchen work.",
+      "highlights": [
+        "Reduced food costs by 18 percent by using seasonal ingredients, setting standards for portion size and minimizing waste."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Head-chef",
+      "startDate": "2008-01-01",
+      "endDate": "2012-01-01",
+      "summary": "Managed a busy caf�/bistro/restaurant, serving over 600 meals daily and reducing costs for the business. Developed menus, pricing and special food offerings to increase revenue and customer satisfaction.",
+      "highlights": [
+        "Reduced food costs by 15 percent by using seasonal ingredients, setting standards for portion size and minimizing waste."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Sous Chef",
+      "startDate": "2006-01-01",
+      "endDate": "2008-02-01",
+      "summary": "Assisted customers in placing special orders for large-scale events such as weddings and birthday parties. Successfully reduced the restaurant's annual food and labor costs by 27 % through proper budgeting, scheduling and management of inventory.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Academia International",
+      "area": "Hospitality Management, hotels, tourism and food services",
+      "studyType": "Diploma",
+      "startDate": "",
+      "endDate": "2009",
+      "score": "",
+      "courses": [
+        "Culinary Arts Certificate",
+        "Coursework in Culinary and Restaurant Management",
+        "Coursework in Hospitality Management",
+        "Food Services Technology classes",
+        "Basic Vocational Certificate: Bakery Assistant",
+        "Basic Vocational Certificate: Lead Baker",
+        "Basic Vocational Certificate: First Cook",
+        "Coursework in Professional Cooking and Baking",
+        "Coursework in Hotel Management and Restaurant Food Service",
+        "Coursework in Hotel Administration",
+        "Coursework in Business Administration and Management",
+        "Culinary Arts coursework",
+        "Hotel and Restaurant Administration coursework",
+        "Coursework in Sales and Marketing Management",
+        "Food Systems Management coursework",
+        "Certified Nutrition Consultant Personal Training certificate",
+        "Advanced coursework in Food Systems Management"
+      ]
+    },
+    {
+      "institution": "Shalon Secondary College",
+      "area": "",
+      "studyType": "Secondary Education",
+      "startDate": "",
+      "endDate": "2004",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Culinary Skills",
+      "keywords": ["Cake decorating expertise","Mediterranean cuisine expert","Effective planner","Hospitality and service industry background","Team building","Skilled negotiator"]
+    },
+    {
+      "name": "Management Skills",
+      "keywords": ["Event planning and coordination","Hotel operations and management","Staff training","Inventory management systems"]
+    },
+    {
+      "name": "Communication Skills",
+      "keywords": ["Superior communication", "Natural leader", "Courteous and helpful"]
+    },
+    {
+      "name": "Food Handling and Safety", 
+      "keywords": ["Strong attention to safe food handling procedures"]
+    },
+    {
+      "name": "Language Skills", 
+      "keywords": ["Fluent in English", "Hebrew"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Personal",
+      "keywords": [
+        "Swimming",
+        "Tennis",
+        "Gym",
+        "Travel",
+        "Cooking",
+        "Exploring new cuisines",
+        "Music",
+        "Writing",
+        "Interior Design"
+      ]
+    }
+  ]
+}

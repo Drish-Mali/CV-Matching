@@ -1,0 +1,135 @@
+{
+  "basics": {
+    "name": "Edgardo M. Dubose",
+    "label": "Technician",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "The purpose of submitting my resume to your company is to obtain a position with the opportunity to utilize my training and skills in the technician industry.",
+    "location": {
+    },
+    "profiles": [ ]
+  },
+  "work": [
+    {
+      "name": "Construction Company Name",
+      "position": "Construction Worker",
+      "url": "",
+      "startDate": "2014-01-01",
+      "endDate": "2015-01-01",
+      "summary": "Construction of houses, subcontract with Aslide. Applying Sofit, Siding. Use of saw, hammer, drill, tape measure etc.",
+      "highlights": []
+    },
+    {
+      "name": "Wire-man Assembler Company Name",
+      "position": "Wire-man Assembler",
+      "startDate": "2014-01-01",
+      "endDate": "2014-01-01",
+      "summary": "Assemble Chromatograph. Build product from scratch. Inspect all products before use. Apply circuit board. Soldering. Wire.",
+      "highlights": []
+    },
+    {
+      "name": "Wire-man Company Name",
+      "position": "Wire-man",
+      "startDate": "2011-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Read electronic circuits schematics. Circuit board and soldering. Wire. Multi-task using voltage reading for assembly production.",
+      "highlights": []
+    },
+    {
+      "name": "Security Guard Company Name",
+      "position": "Security Guard",
+      "startDate": "2011-01-01",
+      "endDate": "2012-01-01",
+      "summary": "Front desk answer phones supplying customer service. HVAC systems, elevators. Security cameras. Patrol building secure.",
+      "highlights": []
+    },
+    {
+      "name": "Technician Company Name",
+      "position": "Technician",
+      "startDate": "2010-01-01",
+      "endDate": "2012-01-01",
+      "summary": "Consult helping customers plan for direct TV. Multi-tasking building satellites while installing. Assigning membership and handling account information. Install wire outlets, cut wire, ground wire, check for output of wire.",
+      "highlights": []
+    },
+    {
+      "name": "Supervisor Company Name",
+      "position": "Supervisor",
+      "startDate": "2009-01-01",
+      "endDate": "2009-01-01",
+      "summary": "Provided excellent customer service and satisfaction. Fielded phone calls and emails. Managed inventory. Maintained building equipment. Supervised employees. Track incoming and outgoing packages. Assemble appliances and furniture.",
+      "highlights": []
+    },
+    {
+      "name": "Sales Representative/Care Provider Company Name",
+      "position": "Sales Representative/Care Provider",
+      "startDate": "2004-01-01",
+      "endDate": "2008-01-01",
+      "summary": "Sale Representative for incoming patients. Scheduled appointments for potential clients to visit the site. Answered inquires about the benefits and services of the site. Provided potential clients with different services and packages.",
+      "highlights": []
+    } 
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "BAKERSFIELD COLLEGE",
+      "url": "",
+      "area": "Fire Science",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "HOUSTON COMMUNITY COLLEGE",
+      "url": "",
+      "area": "",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certifications": [
+    {
+      "name": "Driver Safety Test Certificate",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "Certified to work with Autistic Individuals",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "Security Certification- Levels 1, 2, 3",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "Forklift and Pallet Jack Certificate",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Technician",
+      "level": "",
+      "keywords": ["Forklift", "hammer", "HVAC", "Inspect", "inventory", "Team lead", "Multi-tasking", "Pallet Jack", "cameras", "power tools", "reading", "Read", "Safety", "schematics", "shipping", "Soldering", "tape measure", "answer phones", "phone", "TV"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

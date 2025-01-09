@@ -1,0 +1,80 @@
+{
+  "basics": {
+    "name": "EXECUTIVE CHEF",
+    "label": "Executive Chef",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Award winning executive chef with comprehensive experience in kitchen, banquets, and a-la-carte operations, for hotels, resorts and restaurants.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Executive Chef",
+      "url": "",
+      "startDate": "06/2003",
+      "endDate": "01/2015",
+      "summary": "Flagship Restaurant to promote Harris Ranch Agricultural products; Food and Beverage Revenue 13 million, 500,000+ guests per year.",
+      "highlights": [
+        "Created new revenue streams through Culinary Classes for the public.",
+        "Accountable for culinary department including overall customer satisfaction."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Kitchen Manager",
+      "url": "",
+      "startDate": "01/2001",
+      "endDate": "01/2003",
+      "summary": "High-end retirement community, up to 300 guests, and was the model for future properties.",
+      "highlights": [
+        "Developed new seasonal menus based off local farm product for healthy alternatives."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Saint Augustine Culinary School",
+      "url": "",
+      "area": "Culinary Arts",
+      "studyType": "Associate of Arts",
+      "startDate": "",
+      "endDate": "1982",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Culinary Skills",
+      "level": "Master",
+      "keywords": [
+        "Leadership/communication skills",
+        "Product development Staff Training",
+        "Menu Development Staff Retention",
+        "New product delivery Team Building",
+        "Budgeting expertise Staff Motivation",
+        "Employee relations Cost Controlling",
+        "Self-motivated",
+        "Customer-oriented"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

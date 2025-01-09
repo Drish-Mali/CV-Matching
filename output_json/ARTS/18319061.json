@@ -1,0 +1,68 @@
+{
+  "basics": {
+    "name": "N/A",
+    "label": "Eighth, Ninth and Tenth English Teacher",
+    "email": "N/A",
+    "phone": "N/A",
+    "summary": "Motivated Literacy Specialist, Reading/ LA Teacher with extensive knowledge of the education system and educational testing standards.",
+    "location": {
+      "address": "N/A",
+      "postalCode": "N/A",
+      "city": "N/A",
+      "countryCode": "N/A",
+      "region": "N/A"
+    },
+    "profiles": []
+  },
+  "work":[
+    {
+      "name": "Company Name",
+      "position": "Eighth, Ninth and Tenth English Teacher",
+      "startDate": "2015-03",
+      "endDate": "2015-06",
+      "summary": "Develop general knowledge of entire program's 8-10 curriculum and very detailed knowledge of courses for which responsible",
+      "highlights": ["Support students and parents with alternate strategies", "provide additional assistance with daily assignments and projects"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Seventh and Eighth Grade Reading Teacher and Department Chair",
+      "startDate": "2010-08",
+      "endDate": "2014-07",
+      "summary": "Performing to an exceptional standard in this position, where demonstrate skills and abilities earn promotion to position of Reading Department Chair.",
+      "highlights": ["Utilizing expertise of curriculum to ensure provision of an engaging, facilitative learning environment", "efficiently managing classroom with gifted and advanced reading students."]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Grand Canyon University",
+      "area": "Curriculum and Instruction Reading",
+      "studyType": "M.Ed",
+      "startDate": "N/A",
+      "endDate": "2010",
+      "score": "N/A"
+    },
+    {
+      "institution": "University of Central Florida",
+      "area": "Liberal Studies English Writing and Multi-Cultural Anthropology",
+      "studyType": "B.A",
+      "startDate": "N/A",
+      "endDate": "2005",
+      "score": "N/A"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Teaching",
+      "level": "Master",
+      "keywords": ["Communication", "Curriculum", "Literacy", "Lesson Planning", "Critical Thinking", "Documentation", "Email", "Microsoft Outlook", "Microsoft Office","Organizational", "Reading Comprehension", "Research", "Time Management", "Travel Planning", "Writing"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "projects": [],
+  "references": [],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "volunteer": []
+}

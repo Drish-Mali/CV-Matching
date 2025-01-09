@@ -1,0 +1,94 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Information Technology Administrator",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "I am a jack of all trades IT guy at one of the premier intellectual property law schools in the world, whose job description and responsibilities continue to evolve with the ever-changing opportunities that new technology provides. Extremely self-motivated, detail oriented, and organized, I thrive most when presented with opportunities to creatively solve new and interesting challenges.",
+    "location": {
+      "address": "2 White Street",
+      "postalCode": "03301",
+      "city": "Concord",
+      "countryCode": "US",
+      "region": "NH"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "University of New Hampshire School of Law",
+      "position": "Information Technology Administrator",
+      "url": "",
+      "startDate": "2014-09-01",
+      "endDate": "Present",
+      "summary": "I oversee the purchasing, management, and maintenance of all infrastructure-related hardware and software...",
+      "highlights": []
+    },
+    {
+      "name": "University of New Hampshire School of Law",
+      "position": "Associate Director of Computer Services",
+      "url": "",
+      "startDate": "2000-07-01",
+      "endDate": "2014-09-01",
+      "summary": "Primary responsibilities included the day-to-day support of end-user hardware, software...",
+      "highlights": []
+    },
+    {
+      "name": "",
+      "position": "District Computer Technician",
+      "url": "",
+      "startDate": "1999-08-01",
+      "endDate": "2000-07-01",
+      "summary": "I supported all end-user related hardware and software demands for the entire school district.",
+      "highlights": []
+    },
+    {
+      "name": "",
+      "position": "Electrician's Apprentice",
+      "url": "",
+      "startDate": "1990-06-01",
+      "endDate": "1999-07-01",
+      "summary": "Predominately industrial electrical work, mostly in a manufacturing setting, with some residential work mixed in.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Colby-Sawyer College",
+      "url": "",
+      "area": "Exercise and Sports Sciences",
+      "studyType": "Bachelor of Science",
+      "startDate": "1995",
+      "endDate": "1999",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Systems administration",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Network administration",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Strong verbal and written communication",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

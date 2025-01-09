@@ -1,0 +1,98 @@
+
+{
+  "basics": {
+    "name": "",
+    "label": "Regional Recruiter",
+    "email": "",
+    "phone": "",
+    "summary": "Motivated program management professional, a problem-solver and decision maker; specialized in team leadership, resource coordination and customer service, who seeks to re-enter the workforce with both feet.",
+    "location": {
+      "city": "",
+      "countryCode": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Regional Recruiter",
+      "startDate": "2016-10-01",
+      "endDate": "Current",
+      "summary": "Carry out the full life-cycle recruitment process for a wide range of positions...Ensure the recruitments are effectively meeting the business needs."
+    },
+    {
+      "name": "Company Name",
+      "position": "Healthcare and Education Coordinator",
+      "startDate": "2012-08-01",
+      "endDate": "2014-01-01",
+      "summary": "Principal point of contact for all healthcare and education queries...Meticulously identified and rectified inconsistencies, deficiencies and discrepancies in medical documentation."
+    },
+    {
+      "name": "Company Name",
+      "position": "Oracle Administration Officer",
+      "startDate": "2010-05-01",
+      "endDate": "2011-09-01",
+      "summary": "Responsible for the financial administration of the British Defense Staff...Oversaw all travel, medical, and personal claims."
+    },
+    {
+      "name": "Company Name",
+      "position": "Lead Pre-Kindergarten Teacher",
+      "startDate": "2009-10-01",
+      "endDate": "2010-05-01",
+      "summary": "Devised and implemented lesson plans for twenty-eight four and five-year old children...Monitored students' educational progress with individual charts and files."
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Maryland",
+      "area": "Sociology",
+      "studyType": "Bachelor of Arts",
+      "startDate": "",
+      "endDate": "2008-05-01",
+      "score": "3.6"
+    },
+    {
+      "institution": "Baltimore County Community College",
+      "area": "Nursing",
+      "studyType": "Associate of Science",
+      "startDate": "",
+      "endDate": "2018",
+      "score": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Professional Caregiver",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Program Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Conflict Resolution",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Project Coordination",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Conversational Speaking, Intermediate Reading and Writing"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "certificates": [],
+  "awards": [],
+  "publications": [],
+  "volunteer": []
+}

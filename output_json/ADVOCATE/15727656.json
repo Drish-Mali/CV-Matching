@@ -1,0 +1,118 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Transitional Housing Advocate",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Diversified background in providing services to culturally sensitive issues that involve clients. Proven record of absorbing new concepts easily and adapting to highly demanding situations. Exceptionally strong interpersonal and teamwork skills. Exhibits dependability in performing work and willingness to accept responsibilities. Strong skills in appropriate levels of written and verbal communication necessary in the job description. Combined with abilities to maintain effective and productive working relationships with fellow employees, supervisors and the public.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "",
+      "region": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Transitional Housing Advocate",
+      "url": "",
+      "startDate": "2013-09-01",
+      "endDate": "Current",
+      "summary": "Provide case management (goal planning, safety planning, resources, regular home visits). Identify barriers to housing to prevent homelessness. Provide on-going education about domestic violence and sexual assault issues. Provide advocacy to help victims stay in their home (landlord tenant issues). Manage multiple sources of funding through T-housing grant to assist victims.",
+      "highlights": [
+        "Facilitated Empowerment through Art classes for survivors",
+        "Facilitated Healthy Relationship classes/Parenting classes",
+        "Increased office organization by developing more efficient data base RPMS",
+        "Coordinated office assistant functions for team of 3 employees"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Mental Health Support Specialist",
+      "url": "",
+      "startDate": "2013-05-01",
+      "endDate": "2013-09-01",
+      "summary": "Behavioral Services. Develop service recipient's basic living skills (e.g., social, domestic, and hygiene) through instruction and encouragement. Coordinate and maintain service recipient's schedule (doctor appointments, professional team appointments). Adhere to service recipient's behavior health management plans (administration of medication, use of behavior modification techniques). Maintain documentation on each recipient served. Serve as a good role model to service recipients.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Truckee Community College",
+      "url": "",
+      "area": "Psychology",
+      "studyType": "Associate of Science",
+      "startDate": "",
+      "endDate": "1995",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Southwester Polytechnic Institute",
+      "url": "",
+      "area": "General Studies",
+      "studyType": "Associate of Arts",
+      "startDate": "",
+      "endDate": "1995",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Sexual Assault Response Team (SART)",
+      "position": "Volunteer",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Provide support to victims in crisis, document vital information related to assault, and make appropriate referrals available victims.",
+      "highlights": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Office Skills",
+      "level": "",
+      "keywords": [
+        "Peer counseling",
+        "Customer service",
+        "Database",
+        "Documentation",
+        "Internet Applications",
+        "Excel",
+        "Email",
+        "Office",
+        "Outlook",
+        "Power Point",
+        "Publisher",
+        "Microsoft Word",
+        "Personnel",
+        "Policies",
+        "Presentations",
+        "Safety",
+        "Transportation"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": [
+    {
+      "name": "",
+      "startDate": "",
+      "endDate": "",
+      "description": "Facilitated Empowerment through Art classes for survivors. Facilitated Healthy Relationship classes/Parenting classes.",
+      "highlights": [],
+      "url": ""
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": []
+}

@@ -1,0 +1,107 @@
+{
+  "basics": {
+    "name": "Chu-Hsiang Wu",
+    "label": "Engineering Intern",
+    "email": "",
+    "phone": "",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "US",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Engineering Intern",
+      "startDate": "2016-08-01",
+      "endDate": "2016-12-01",
+      "summary": "Developed a solids transport model for predicting cuttings/cavings bed height during a hole-cleaning operation in the cavings transport project.",
+      "highlights": [
+        "Developed a numerical model",
+        "Investigated competitive landscape",
+        "Designed commercialization plan for numerical model"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Engineering Intern",
+      "startDate": "2016-05-01",
+      "endDate": "2016-08-01",
+      "summary": "Worked on project to optimize diverter pumping schedule for better production performance after well re-stimulation.",
+      "highlights": [
+        "Built a Simulator to model proppant, diverter, and slurry distribution",
+        "Derived a proxy model",
+        "Provided recommendation for pumping schedule design in a fracturing treatment"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Process Engineer",
+      "startDate": "2012-04-01",
+      "endDate": "2013-05-01",
+      "summary": "Improvement of display yield through statistical modeling, process control, and tool modifications.",
+      "highlights": [
+        "Won Qualstar award in November 2012",
+        "Increased uptime of panel encapsulation station from 73% to 92%",
+        "Optimized sealing process of interferometric modulator (iMoD) display"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "The University of Texas at Austin",
+      "area": "Petroleum Engineering Scientific Computation",
+      "studyType": "PhD",
+      "startDate": "",
+      "endDate": "2018-05-01",
+      "score": "3.9",
+      "courses": []
+    },
+    {
+      "institution": "National Taiwan University",
+      "area": "Mechanical Engineering",
+      "studyType": "MS",
+      "startDate": "",
+      "endDate": "2010-06-01",
+      "score": "3.9",
+      "courses": []
+    },
+    {
+      "institution": "National Tsing Hua University",
+      "area": "Power Mechanical Engineering",
+      "studyType": "BS",
+      "startDate": "",
+      "endDate": "2008-06-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming",
+      "level": "Experienced",
+      "keywords": [
+        "C++",
+        "Python",
+        "MATLAB",
+        "Git",
+        "Bash",
+        "R",
+        "SQL (basic)"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [
+    {
+      "name": "Publications",
+      "keywords": []
+    }
+  ],
+  "references": [],
+  "projects": []
+}

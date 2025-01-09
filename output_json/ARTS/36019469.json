@@ -1,0 +1,122 @@
+
+{
+  "basics": {
+    "name": "Community Outreach Specialist",
+    "label": "Education Professional",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Dynamic professional driven to fostering love of learning and ensuring leadership skills within people so they may reach their full potential.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Community Outreach Specialist",
+      "url": "",
+      "startDate": "2014-07-01",
+      "endDate": "Current",
+      "summary": "Liaison for Junior Board which entails board management by providing direction and leadership to young board members wanting to serve their community. Responsible for providing relevant and interesting content for social media, newsletter and website; in addition created organization brochures and secured larger-scale marketing with partnerships. ",
+      "highlights": [
+        "Increased mentor retention by over 50% in 9 months by developing and executing strategic volunteer engagement plan",
+        "Managed all aspects of potential intern and mentor interviews",
+        "Developed and posted job descriptions for Internships and Program Leaders;"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Exceed Program Manager",
+      "url": "",
+      "startDate": "2013-09-01",
+      "endDate": "2014-02-01",
+      "summary": "Planned all aspects of Exceed 4 day Intensive retreat in Payson for mentors and mentees",
+      "highlights": [
+        "Developed and maintained strong partnerships with high school administrators and counselors, mentors and student mentees to promote and grow a shared vision of the Exceed Mentoring Program",
+        "Implemented strategic program plan for recruiting new mentees and on-boarding new mentors, also directing workload of Program Assistant"
+      ]
+    },
+    {
+      "name": "Arizona State University",
+      "position": "Spanish Teacher/Language Arts Teacher 7-8 Grades",
+      "url": "",
+      "startDate": "2008-07-01",
+      "endDate": "2013-06-01",
+      "summary": "Developed innovative and relevant course plans using Core Curriculum Standards to increase student engagement",
+      "highlights": [
+        "Served on District Curriculum Planning Committee as Spanish Department Representative",
+        "Responsible for administrative duties such as filing, grade entry, data analysis and student evaluation"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Arizona State University",
+      "url": "",
+      "area": "Elementary Education",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "",
+      "score": "3.9",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Elementary Education Certificate",
+      "date": "",
+      "issuer": "Arizona State University",
+      "url": ""
+    },
+    {
+      "name": "Secondary Spanish Education Certificate",
+      "date": "",
+      "issuer": "Arizona State University",
+      "url": ""
+    },
+    {
+      "name": "Structured English Immersion Certificate",
+      "date": "",
+      "issuer": "Arizona State University",
+      "url": ""
+    },
+    {
+      "name": "Middle School Language Arts Certificate",
+      "date": "",
+      "issuer": "Arizona State University",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Education",
+      "level": "",
+      "keywords": [
+        "Academic", "Administrative", "Branding", "Budget Management", "Coaching", "Communication Skills", "Customer Service Skills", "Data Analysis", "Database", "Fundraising", "Hiring", "Instructor", "Team Building", "Leadership Skills", "Logistics", "Directing", "Marketing", "Management", "Mentoring", "Microsoft Office Suite", "Newsletter", "Programming", "Recruitment", "Relationship Building", "Scheduling", "Spanish", "Strategic Planning", "Teaching", "Training", "Vision Planning", "Website"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Italian",
+      "fluency": "Conversational"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

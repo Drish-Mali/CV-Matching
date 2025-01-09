@@ -1,0 +1,103 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Finance And Accounting Specialist",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Diligent Office Administrative Assistant with 25 years of hands-on experience in performing front office duties. A creative problem-solver with outstanding critical thinking abilities. Capable of managing calendars, scheduling meetings, and taking initiative.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "",
+      "region": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Finance And Accounting Specialist",
+      "url": "",
+      "startDate": "2005-11-01",
+      "endDate": "2017-11-01",
+      "summary": "Managed all payments processing, invoicing and collections tasks. Improved communication efficiency as primary liaison between departments, clients and vendors.",
+      "highlights": [
+        "Collaborated extensively with auditors during preliminary and year-end audit processes",
+        "Increased customer satisfaction by greeting visitors promptly and professionally"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Buyer",
+      "url": "",
+      "startDate": "1996-07-01",
+      "endDate": "2005-02-01",
+      "summary": "Worked closely with managers to plan buys. Recommended optimal suppliers after qualifying vendors and evaluating proposals.",
+      "highlights": [
+        "Directed transportation initiatives to maximize efficiency",
+        "Negotiated favorable contracts and determined lowest possible cost, factoring in quality and reliability, by analyzing data"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Administrative Assistant",
+      "url": "",
+      "startDate": "1990-03-01",
+      "endDate": "1995-05-01",
+      "summary": "Managed the receptionist area, including greeting visitors and responding to telephone and in-person requests for information. Wrote reports and correspondence from dictation and handwritten notes. Dispersed incoming mail to correct recipients throughout the office.",
+      "highlights": [
+        "Organized files, developed spreadsheets, faxed reports",
+        "Managed the day-to-day calendar for the company's senior director"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Lake Michigan College",
+      "url": "",
+      "area": "Accounting Business",
+      "studyType": "Associate of Science",
+      "startDate": "",
+      "endDate": "",
+      "score": "25",
+      "courses": []
+    },
+    {
+      "institution": "Milwaukee Area Technical College",
+      "url": "",
+      "area": "Computer Science Accounting",
+      "studyType": "Associate of Applied Science",
+      "startDate": "",
+      "endDate": "",
+      "score": "75",
+      "courses": []
+    },
+    {
+      "institution": "Houston Community College",
+      "url": "",
+      "area": "Material Management",
+      "studyType": "Associate of Arts",
+      "startDate": "",
+      "endDate": "",
+      "score": "00",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Administrative",
+      "level": "",
+      "keywords": ["AP", "AR", "Billing", "contracts", "client", "customer satisfaction", "customer support", "database", "dictation", "faxes", "finance", "human resources", "Invoicing", "Microsoft Excel", "mail", "Microsoft Office", "Microsoft Word", "presentations", "reporting", "Scheduling", "spreadsheets", "telephone"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

@@ -1,0 +1,120 @@
+{
+  "basics": {
+    "name": "Not provided",
+    "label": "Sales Associate",
+    "image": "",
+    "email": "Not provided",
+    "phone": "Not provided",
+    "url": "Not provided",
+    "summary": "Creative problem solver offers exceptional analytical, communication and interpersonal skills; extensive Mental Health and I/DD experience; management/supervisory skills and a commitment to proficiency and effectiveness for a progressive, quality-driven organization.",
+    "location": {
+      "address": "Not provided",
+      "postalCode": "Not provided",
+      "city": "Not provided",
+      "countryCode": "Not provided",
+      "region": "Not provided"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Not Provided",
+      "position": "Sales Associate",
+      "url": "Not provided",
+      "startDate": "2013-04-01",
+      "endDate": "Present",
+      "summary": "Greeted customers in a timely fashion while quickly determining their needs. Recommended merchandise to customers based on their needs and preferences. Maintained knowledge of current sales and promotions, policies regarding payment and exchanges and security practices. Responded to customer questions and requests in a prompt and efficient manner. Contacted other store locations to determine merchandise availability. Engaged with customers in a sincere and friendly manner. Completed all cleaning, stocking and organizing tasks in assigned sales area. Built relationships with customers to increase likelihood of repeat business.",
+      "highlights": ["Contributed to team success by exceeding team sales goals by a certain percentage"]
+    },
+    {
+      "name": "Not Provided",
+      "position": "Utilization Management Specialist",
+      "url": "Not provided",
+      "startDate": "2012-12-01",
+      "endDate": "Present",
+      "summary": "Collected and analyzed data on the effectiveness of programs and projects. Developed and streamlined systems for monitoring and tracking program effectiveness. Documented and investigated complaints and potentially fraudulent claims. Displayed sensitivity to the cultural and linguistic needs of the clients and families served. Attended monthly staff training sessions.",
+      "highlights": []
+    },
+    {
+      "name": "Not Provided",
+      "position": "Case Manager",
+      "url": "Not provided",
+      "startDate": "2012-10-01",
+      "endDate": "2012-11-01",
+      "summary": "Developed treatments and casework programs for patients each month etc",
+      "highlights": []
+    },
+    {
+      "name": "Not Provided",
+      "position": "Office Manager",
+      "url": "Not provided",
+      "startDate": "2010-03-01",
+      "endDate": "Present",
+      "summary": "Developed company personnel policies, standard operating procedures and employee handbooks etc",
+      "highlights": []
+    },
+    {
+      "name": "Not Provided",
+      "position": "Teacher/Lecturer, Music Director, Director/Office Manager, Case Manager",
+      "url": "Not provided",
+      "startDate": "Not provided",
+      "endDate": "Not provided",
+      "summary": "Multiple roles spanning over years with different responsibilities",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Bellevue University",
+      "url": "Not provided",
+      "area": "Business Administration",
+      "studyType": "MBA",
+      "startDate": "Not provided",
+      "endDate": "Present",
+      "score": "Not provided",
+      "courses": []
+    },
+    {
+      "institution": "Bellevue University",
+      "url": "Not provided",
+      "area": "Management",
+      "studyType": "Master of Arts",
+      "startDate": "Not Provided",
+      "endDate": "2001-06-01",
+      "score": "Not provided",
+      "courses": []
+    },
+    {
+      "institution": "North Carolina A&T State University",
+      "url": "Not provided",
+      "area": "Early Childhood",
+      "studyType": "Bachelor of Science",
+      "startDate": "Not Provided",
+      "endDate": "1994-12-01",
+      "score": "Not provided",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "NC SNAP",
+      "date": "Not provided",
+      "issuer": "Not provided",
+      "url": "Not provided"
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Customer relations, Project management, Quality control, Strategic planning, Personnel management, Budgeting and finance, Customer-oriented, Recruitment and talent development, Accounts payable and receivable, Process improvement, Flexible thinker, Visionary, Complex problem solving, Microsoft Office Suite expert, Customer needs assessment",
+      "level": "Not specified",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

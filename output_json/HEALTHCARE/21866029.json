@@ -1,0 +1,93 @@
+{
+  "basics": {
+    "name": "Senior Analyst",
+    "label": "Business Intelligence and Analytics - Healthcare",
+    "summary": "My 9 years of experience working in Retail, Analytics, and Reporting have given me a strong understanding of both business objectives and technical capabilities. I have worked on Data Visualization, Data Analysis, Analytical Reporting, Retail Reporting, Retail Forecasting, Retail Inventory Management, and Retail Product Management, as well as capabilities consulting on broader initiatives. The knowledge I have developed through this work and my strengths in problem solving, critical thinking, and effective communication allow me to develop creative solutions to complicated problems and clearly communicate with both development teams and end users.",
+    "location": {
+      "city": "City",
+      "region": "State"
+    }
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Senior Analyst - Business Intelligence and Analytics - Healthcare",
+      "startDate": "2013-05",
+      "endDate": "Current",
+      "summary": "Prioritize and scope a ...",
+      "highlights": [
+        "Collaborative worker",
+        "Mentor and leader",
+        "Creative problem solver",
+        "Requirements gathering",
+        "Critical thinker",
+        "User acceptance testing"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Analyst - Business Intelligence and Analytics - Strategic Pricing",
+      "startDate": "2012-02",
+      "endDate": "2013-05",
+      "summary": "Consulted with our clients ...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Merchandise Reporting Manager",
+      "startDate": "2011-05",
+      "endDate": "2012-02",
+      "summary": "Worked with vendors and ...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Merchandise Reporting Analyst",
+      "startDate": "2009-06",
+      "endDate": "2011-05",
+      "summary": "Developed reports from MicroStrategy, ...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Merchandise Assistant",
+      "startDate": "2008-06",
+      "endDate": "2009-05",
+      "summary": "Analyzed store selling to ...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Business Analyst/Assistant Buyer II",
+      "startDate": "2006-06",
+      "endDate": "2008-05",
+      "summary": "Worked with Buyer to ...",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Carlson School of Management, University of Minnesota",
+      "area": "Strategic Management",
+      "studyType": "MBA",
+      "startDate": "2014-01-01",
+      "endDate": "2014-12-31",
+      "courses": []
+    },
+    {
+      "institution": "Carlson School of Management/School of Journalism and Mass Communication, University of Minnesota",
+      "area": "Marketing and Advertising",
+      "studyType": "Bachelor of Science",
+      "startDate": "2006-01-01",
+      "endDate": "2006-12-31",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Program knowledge",
+      "level": "",
+      "keywords": []
+    }
+  ]
+}

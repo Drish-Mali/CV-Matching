@@ -1,0 +1,131 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Director of Information Technology",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Senior Project Management Position Senior Project Manager with over 25 years of diverse experience including health care, private sector, local and state government and aerospace/defense contracting...",
+    "location": {},
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Director of Information Technology",
+      "url": "",
+      "startDate": "10/2013",
+      "endDate": "Current",
+      "summary": "Implemented Service Now, ITIL Active Directory and Office 365 for the agency...",
+      "highlights": ["Implemented two major Cerner upgrades", "Developed the technology plan to implement the agency's new hospital"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Senior Project Manager/Architect/Business Analyst",
+      "url": "",
+      "startDate": "04/2001",
+      "endDate": "10/2013",
+      "summary": "Managed the implementation of a $50 million Cerner system across two hospitals...",
+      "highlights": ["Managed projects between $500K and $1million in size"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Principal Consultant/Senior Project Manager Principal consultant",
+      "url": "",
+      "startDate": "03/1997",
+      "endDate": "04/2001",
+      "summary": "Acted in roles including Project Management, Architect and Lead Designer...",
+      "highlights": ["Managed the design and development of a customer B2B portal", "Managed the design and development of a Web-based workflow enabled electronic new account form system"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Senior Project Manager",
+      "url": "",
+      "startDate": "03/1992",
+      "endDate": "03/1997",
+      "summary": "Implemented Customer Support Desk, introduction and implementation of Project Management processes...",
+      "highlights": ["Managed the implementation of a custom engineering drawing change solution"]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Pepperdine University",
+      "url": "",
+      "area": "Business",
+      "studyType": "MBA",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Loyola Marymount University",
+      "url": "",
+      "area": "Biology Computer Science",
+      "studyType": "BS",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Professional Skills",
+      "level": "Advanced",
+      "keywords": [
+        "Active Directory",
+        "ADP",
+        "B2B",
+        "Behavioral Health",
+        "billing",
+        "BroadVision",
+        "CRM",
+        "clients",
+        "Cisco",
+        "Contract",
+        "ITIL",
+        "Leadership",
+        "mentor",
+        "Office",
+        "MS Project",
+        "PACS",
+        "Permitting",
+        "Project Management",
+        "Project Leadership",
+        "Quality Assurance",
+        "SAP",
+        "SQL",
+        "Telecommunications",
+        "VoIP",
+        "Web Development"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": [
+    {
+      "name": "Health Care Agency - Electronic Health Record System",
+      "startDate": "",
+      "endDate": "",
+      "description": "Managed the implementation of a $50 million Cerner system across two hospitals...",
+      "highlights": [],
+      "url": ""
+    },
+    {
+      "name": "Fire Department Enterprise Architecture",
+      "startDate": "",
+      "endDate": "",
+      "description": "Initialization, analysis and estimating for a $6 million upgrade of the Fire Department's IT systems...",
+      "highlights": [],
+      "url": ""
+    }
+  ]
+}

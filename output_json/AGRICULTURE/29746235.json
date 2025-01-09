@@ -1,0 +1,107 @@
+{
+  "basics": {
+    "name": "Security Aide I",
+    "label": "Therapeutic Recreation",
+    "email": "",
+    "phone": "",
+    "summary": "A compassionate Security Aide with strong experience working with developmentally disabled adults and creating individualized recreational plans for community integration.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    }
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Security Aide I",
+      "url": "",
+      "startDate": "2017-01-01",
+      "endDate": "Present",
+      "summary": "Obtained documents, clearances, certificates and approvals from local, state and federal agencies. Performed initial client assessment and analysis to begin research process. Analyzed departmental documents for appropriate distribution and filing. Worked directly with department, clients, management to achieve result. Developed new process for employee evaluation which resulted in marked performance improvements. Responsible for creative design for prominent project. Supported Chief Operating Officer with daily operational functions."
+    },
+    {
+      "name": "Company Name",
+      "position": "Student Worker",
+      "url": "",
+      "startDate": "2016-01-01",
+      "endDate": "2017-01-01",
+      "summary": "Complete clerical and data entry tasks, interoffice mail and file important documents. Support and provide coverage of the administrative desk; Adhere to the code of confidentiality in certain cases where discretion is required; Record odometer reading and maintenance support provided to University's vehicles and driver assistance during event functions when additional support as needed."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Lincoln University",
+      "url": "",
+      "area": "Wellness-Kinesiology",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "2017-05-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "GC Foster College of Physical Education and Sports",
+      "url": "",
+      "area": "Coaching",
+      "studyType": "Diploma",
+      "startDate": "",
+      "endDate": "2013-01-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "NCAA Track and Field Outdoors, All American Award",
+      "date": "2014-01-01",
+      "awarder": "NCAA",
+      "summary": ""
+    }
+  ],
+  "certificates": [
+    {
+      "name": "CPR Certificate",
+      "date": "2017-01-01",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Strong Verbal Communication",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Therapeutic Recreation",
+      "keywords": []
+    }
+  ],
+  "references": [
+    {
+      "name": "",
+      "reference": ""
+    }
+  ],
+  "projects": [
+    {
+      "name": "",
+      "startDate": "",
+      "endDate": "",
+      "description": "",
+      "highlights": [],
+      "url": ""
+    }
+  ]
+}

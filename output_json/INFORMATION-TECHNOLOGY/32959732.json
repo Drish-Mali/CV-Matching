@@ -1,0 +1,126 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Senior Director, Information Technology",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "A distinguish Director of Information technology with expertise in diverse range of industries within multiple industries settings globally. Demonstrated success in Network design and management, Enterprise Resource Planning implementation and management, Cloud Technologies and Internet Technologies. Well Organized, results oriented individual with proven ability to implement standards, processes and procedures the improve business functionality. Solid management skills, capable of building, leading and motivating individuals to maximize productivity while forming cohesive team environments. Exceptional communicator focused on building strong client relationships.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Weston Educational Group Inc",
+      "position": "Senior Director, Information Technology",
+      "url": "",
+      "startDate": "02/2015",
+      "endDate": "11/2016",
+      "summary": "As the Senior Director, I oversaw the day to day operations of all aspects of technology. This included a student and faculty portal that needed to be support 24/7, a Student Information System (SIS) that was used to manage all aspects of the student matriculation from a lead, through financial aid to academics, student services and career services.",
+      "highlights": [
+        "Spearheaded phone system migration to the cloud , resulting in a 99.999 % uptime in the phone system.",
+        "Managed team of 6 IT professionals."
+      ]
+    },
+    {
+      "name": "American Career College and West Coast University",
+      "position": "Senior Manager, Student Information System",
+      "url": "",
+      "startDate": "07/2009",
+      "endDate": "02/2015",
+      "summary": "American Career College and West Coast University is a private post-secondary institution that trains students in the Allied Health sector with annual revenue of over $300 million. Oversaw the Student Information System for both brands which had a student portal, faculty portal and several integrations into other systems such as a CRM system and internal applications developed on SharePoint platform.",
+      "highlights": []
+    },
+    {
+      "name": "Aldreteem Inc",
+      "position": "President",
+      "url": "",
+      "startDate": "01/2005",
+      "endDate": "08/2009",
+      "summary": "Aldreteem Inc was created to support small to mid-sized organizations that wanted to implement Enterprise Resource Planning systems but did not have the resources to manage the system in-house.",
+      "highlights": []
+    },
+    {
+      "name": "BatchMaster Software Inc",
+      "position": "Director, Client Services",
+      "url": "",
+      "startDate": "03/2001",
+      "endDate": "12/2004",
+      "summary": "BatchMaster Software Inc develops an Enterprise Resource Planning system for the process manufacturing industries integrated into Sage Platinum, SAP Business One and Microsoft Great Plains. Prior to joining eWorkPlace, their solution was deployed through a network of resellers who did the implementation and primary support.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Walden University",
+      "url": "",
+      "area": "Business Administration",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "2010",
+      "score": "3.85",
+      "courses": []
+    },
+    {
+      "institution": "University of Essex",
+      "url": "",
+      "area": "Information and Business Systems Technology",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Enterprise Resource Planning Systems",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Cloud Technologies",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Server",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Linux",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Networking",
+      "level": "",
+      "keywords": [
+        "Juniper switches, routers and firewalls",
+        "Netgear switches, routers and firewalls",
+        "CISCO switches, routers and firewalls"
+      ]
+    },
+    {
+      "name": "Cloud based phone systems",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

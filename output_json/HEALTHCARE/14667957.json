@@ -1,0 +1,124 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Field Based Nurse Chart Reviewer",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Seventeen years of nursing experience from multiple different facilities and hospitals: Diverse background in nursing as a Registered Nurse.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Field Based Nurse Chart Reviewer - Healthcare Informatics",
+      "url": "",
+      "startDate": "2010-07",
+      "endDate": "",
+      "summary": "Founder, CEO, Director of Nursing and Business Operations Provide high quality nursing care to individual and corporate clients",
+      "highlights": [
+        "Electronic medical record implementation and support",
+        "Workflow system analysis and redesign"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Director of Nursing Services",
+      "url": "",
+      "startDate": "2010-04",
+      "endDate": "2011-01",
+      "summary": "Admissions screener, as well as the employee health department.",
+      "highlights": [
+        "Ensured qualified employees and contractors provided patient care/safety"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Syracuse University",
+      "url": "",
+      "area": "Nursing",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "1999",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "SUNY Syracuse",
+      "url": "",
+      "area": "Nursing",
+      "studyType": "Master of Science",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": [
+        "Post Master's teaching certificate"
+      ]
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "RN Registered Nurse",
+      "date": "",
+      "issuer": "American Association of Managed Care Nurses",
+      "url": ""
+    },
+    {
+      "name": "CAA CAT Registered Nurse Manager Registered Nurse/MDS Coordinator",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Nursing and Medical Skills",
+      "level": "",
+      "keywords": [
+        "Registered Nurse",
+        "Healthcare",
+        "Medicare",
+        "Clients",
+        "Quality Assurance",
+        "Staffing",
+        "Business Operations",
+        "Contracts",
+        "Operations",
+        "System Analysis",
+        "Workflow",
+        "Secretary",
+        "Assistant Director",
+        "Infection Control",
+        "Client Services",
+        "Root Cause Analysis",
+        "Medicaid",
+        "Audits",
+        "Cms",
+        "Federal Regulations",
+        "Qa",
+        "Budgets",
+        "Payroll",
+        "Scheduling",
+        "Training",
+        "Managed Care",
+        "Teaching"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

@@ -1,0 +1,118 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Field Support Specialist",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Technology support representative providing workstation and application support. Proficient in Windows and Internet Technologies and efficient in data management. Skilled in Network traces, Technical standards and deliverables, Telecommunications field service, network security and Cisco routers and switches. Experience with supporting IP Telephony and Visio. Proficient in analysis and problem solving.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "US",
+      "region": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "",
+      "position": "Field Support Specialist",
+      "url": "",
+      "startDate": "2017-06-01",
+      "endDate": "Current",
+      "summary": "Download radio and alarm panel programming information into new/existing accounts in response to telephone requests. Provide real-time installation quotes to field technicians and limited technical support to customers. Enter order information into the system for technician upsells and process payments as applicable. Troubleshoot system functionality related to radio registrations and panel programming in response to failed confirmation requests. Process data changes received via mail, fax, phone or internal ticket on Informix and MasterMind. Supports reps with CPQ and Matrix. Schedules new installations and add-on equipment (Order Entry). Supports system and device upgrades. Verifies customer contract/billing accuracy. Captures, maintains and verifies customer information with painstaking attention to detail. Utilizes contingency plans during system outages to continue to support our internal customers. Provides site redundancy for Home Heath Provisioning and Technical Assistance Groups."
+    },
+    {
+      "name": "",
+      "position": "Technical Support Representative",
+      "url": "",
+      "startDate": "2017-01-01",
+      "endDate": "2017-01-01",
+      "summary": "Provided technical & customer service support via phone & video chat, to customers who require assistance with Intuit and Turbo Tax Products. Resolved customer complaints and concerns with strong verbal and negotiation skills. Provided thorough support and problem resolution for customers. Managed IT setup and service requests for Intuit and Turbo Tax."
+    },
+    {
+      "name": "",
+      "position": "8th Grade Reading/ Language Arts Teacher",
+      "url": "",
+      "startDate": "2005-01-01",
+      "endDate": "Current",
+      "summary": "Prepared lessons reflecting accommodations for differences in students learning styles. Developed lessons with district mission in mind, aligned to district and state instructional goals and objectives. Maintained a classroom that promote safe, effective learning. Collaborated with professional staff to identify and address student needs regarding health and learning styles. Established and implemented effective classroom management procedures. Created systems to monitor and assess student learning. Presented subject matter according to guidelines established by Texas Education Agency, Board of Trustee policies, and administrative regulations."
+    },
+    {
+      "name": "",
+      "position": "Customer Service",
+      "url": "",
+      "startDate": "2000-06-01",
+      "endDate": "2003-08-01",
+      "summary": "Collected customer feedback and made process changes to exceed customer satisfaction goals. Provided accurate and appropriate information in response to customer inquiries. Demonstrated mastery of customer service call script within specified timeframes. Addressed customer service inquiries in a timely and accurate fashion."
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Keller Graduate School of Management",
+      "url": "",
+      "area": "Network Communications Management",
+      "studyType": "Master",
+      "startDate": "",
+      "endDate": "2016",
+      "score": "3.15",
+      "courses": [
+        "Data model normalization",
+        "Process modeling",
+        "Object oriented analysis",
+        "Created Entity Relationship Diagrams in MS Visio",
+        "Knowledge of user interface design"
+      ]
+    },
+    {
+      "institution": "Texas Southern University",
+      "url": "",
+      "area": "Interdisciplinary Studies with a concentration in Mathematics",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "2003",
+      "score": "3.1",
+      "courses": [
+        "Coursework in Interdisciplinary Studies",
+        "Mathematics",
+        "Elementary and Middle School Education"
+      ]
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "IT Skills",
+      "level": "",
+      "keywords": [
+        "Knowledge of Telecom industry",
+        "Experience in 2-way radio systems, satellite systems and FCC/FAA",
+        "Functional understanding of 802.11, Wireless VOIP protocols and Wireless Mobility",
+        "Proficient in Network Protocols TCP/IP/SIP/MGCP/SCCP/MPLS",
+        "Windows 7, Windows 10",
+        "Active Directory",
+        "TCP/IP networking",
+        "Tablet Technologies",
+        "Smartphone technologies",
+        "Microsoft Office proficiency",
+        "Messaging technologies including but not limited to Exchange and SMTP",
+        "Wireless technologies",
+        "VPN technologies",
+        "PC Security",
+        "Telecommunications",
+        "Web Technologies",
+        "Video Conferencing"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

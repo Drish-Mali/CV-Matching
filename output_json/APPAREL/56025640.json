@@ -1,0 +1,97 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Light Industrial maintenance / residential",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Skilled Laborer who thrives independently or as a team member. Proactive in creating a safe and productive environment. Reliable Customer Service Representative with extensive track record in demanding sales and account management environments.",
+    "location": {
+      "city": "City",
+      "countryCode": "State",
+      "region": "United States"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Light Industrial maintenance / residential",
+      "startDate": "2014-05",
+      "endDate": "Current",
+      "summary": "Tested machinery, equipment and parts to identify any defects. Disassembled broken and defective equipment to facilitate repair. Reassembled equipment after completed repairs. Assembled and maintained physical structures using hand and power tools. Operated tools such as hoists and saws.",
+      "highlights": [
+        "Performed pipe fabrication, installation and fitting according to proper specifications.",
+        "Installed and replaced water heaters, drain pipes and water supply lines.",
+        "Performed emergency on-call work hours during the evening, weekends and some holidays."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Operator",
+      "startDate": "2014-03",
+      "endDate": "2015-05",
+      "summary": "Simonton windows - vinyl window manufacturing, raw material handling, cutting raw material, automated two point welding, bending vinyl shapes (trapezoid, octagon,hexagon, eyebrow, half-round), assembly, automated two point corner cleaner."
+    },
+    {
+      "name": "Company Name",
+      "position": "Extrusion operator",
+      "startDate": "2013-01",
+      "endDate": "2014-01",
+      "summary": "Machine operation and maintenance, Weight and quality checks, Fork truck certified, Raw material handling, Finished product handling."},
+    {
+      "name": "Company Name",
+      "position": "CSR/Delivery/Warehouse",
+      "startDate": "2012-05",
+      "endDate": "2013-08",
+      "summary": "Dry Van delivery (IN, Ill) / loading & un-loading / customer service and sales / warehouse stocking"}
+  ],
+  "education": [
+    {
+      "institution": "Terre Haute North",
+      "area": "General Studies",
+      "studyType": "High school diploma",
+      "startDate": "",
+      "endDate": "1996",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Ivy Tech",
+      "area": "Information Technology",
+      "studyType": "College courses",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": ["Intro to Microcomputers", "Microsoft"]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Project Management",
+      "level": "Master",
+      "keywords": ["Results-oriented", "Excel in customer service/sales", "Proficiency in Microsoft software", "Territory Sales Experience", "Computer proficient", "Client Relations", "Quick learner", "Creative Problem Solving", "Contract negotiation/review/drafting"]
+    },
+    {
+      "name": "Machine Operation and Maintenance",
+      "level": "Master",
+      "keywords": ["Raw material handling", "Finished product handling", "Fork truck certified"]
+    },
+    {
+      "name": "CSR/Delivery/Warehouse",
+      "level": "Master",
+      "keywords": ["Dry Van delivery", "Loading & un-loading", "Customer service and sales", "Warehouse stocking"]
+    },
+    {
+      "name": "Extrusion operator",
+      "level": "Master",
+      "keywords": ["Machine operation and maintenance", "Weight and quality checks", "Fork truck certified", "Raw material handling", "Finished product handling"]
+    }
+  ],
+  "interests": [
+    {
+      "name": "Hobbies",
+      "keywords": ["Building custom PC's", "Softball", "Electronics", "Running", "Sports", "Carpentry", "Computer software"]
+    }
+  ]
+}

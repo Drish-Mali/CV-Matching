@@ -1,0 +1,94 @@
+{
+  "basics": {
+    "name": "G",
+    "label": "Healthcare Recruiter",
+    "email": "",
+    "phone": "",
+    "summary": "",
+    "location": {
+      "city": "City",
+      "countryCode": "",
+      "region": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Healthcare Recruiter",
+      "startDate": "2016-07-01",
+      "endDate": "2017-03-01",
+      "summary": "Managed full cycle recruiting process to meet staffing goals. Developed strong relationships and partnered with hiring manager, to maximize effectiveness of recruiting process. Tracked and reported key metrics. Partnered with hiring manager and interview teams to ensure job requirements were clearly understood. Presented candidates and coordinated the interview process. Built a network and pipeline of healthcare professionals that matched hospital partners culture. Sourced and screened candidates to meet the high volume of open positions.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Professional Recruiting Specialist",
+      "startDate": "2013-06-01",
+      "endDate": "2015-12-01",
+      "summary": "Sought, interviewed, reference checked and placed contract employees that completely satisfied the client requirements. Participated in networking groups and other business and community programs to increase skill knowledge. Ensured all hiring paperwork was completed thoroughly including I-9's for all new hires as well as, drugtests and background checks when required by the client.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Pricing Coordinator/ Phone Representative",
+      "startDate": "2010-01-01",
+      "endDate": "2013-04-01",
+      "summary": "Processed field partner's requests for pricing with accuracy, promptness and diligence. Entered pricing into system with efficiency to ensure timely delivery of product. Served as contact pricing support for assigned pricing groups. Assisted team members with keying pricing per deadlines. One of four Override Phone Team members of the first dedicated Pricing phone team.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Administrative Assistant/Billing Specialist",
+      "startDate": "2005-08-01",
+      "endDate": "2008-11-01",
+      "summary": "Managed accounts for 7 loan officers. Completed data processing. Maintained inventory, placed orders for office. Organized conference room for presentations and meetings. Provided delinquency report to property manager.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "VIRGINIA STATE UNIVERSITY",
+      "area": "Psychology",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "2002-01-01",
+      "courses": [
+        "General Psychology",
+        "Early Education Psychology",
+        "Adolescent Psychology",
+        "Developmental Psychology",
+        "Psychology of Learning",
+        "Psychological Testing",
+        "Abnormal Psychology",
+        "Sensation & Perception",
+        "Social Psychology",
+        "Psychological Research",
+        "Experimental Psychology"
+      ]
+    },
+    {
+      "institution": "EXPERT RATING-ONLINE PROGRAM",
+      "area": "Life Coaching",
+      "studyType": "Certificate",
+      "startDate": "",
+      "endDate": "2017-01-01",
+      "courses": ["Career Coaching", "Personal Coaching", "Relationship Coaching"]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Recruiting",
+      "level": "Master",
+      "keywords": ["ads", "autism", "benefits", "billing", "Coach", "Coaching", "client", "clients", "data processing", "delivery", "drivers", "Filing", "Financial statements", "hiring", "inventory","managing", "meetings", "access", "office", "network", "networking", "payroll", "Personal Coaching", "presentations", "Pricing", "Psychology", "recruiting", "researching", "Research", "sales", "seminars", "staffing", "Phone", "Workshops"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "volunteer": [],
+  "awards": [],
+  "certificates": [],
+  "publications": []
+}

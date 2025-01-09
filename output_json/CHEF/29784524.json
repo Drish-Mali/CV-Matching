@@ -1,0 +1,106 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Manager/Pizza Chef, Cashier, House Painter",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Expert in managing kitchen staff and preparing foods at reduced cost without compromising quality and taste. Skilled Pizza Chef with exceptional knowledge of baking times, methods, temperatures and flavors. Possessing an innate skill in creating exceptional menu items and leading productive working environments. Motivated and offers over 30 years experience in the food industry. Focused on high standards for taste and quality, while maintaining profitable margins. Superior communication and leadership skills. Flexible person who excels in a fast-paced environment looking for a position with growth opportunities.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "",
+        "username": "",
+        "url": ""
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Manager/Pizza Chef",
+      "url": "",
+      "startDate": "1989-01-01",
+      "endDate": "2007-04-01",
+      "summary": "Made gourmet Pizza, neapolitan pizza, pan pizza, sicilian stromboli, calzone, insideout pizza, bolibuns, garlic knots, Helped with fryer and grill when needed. Inventoried and restocked items throughout day. Developed and maintained positive working relationships with others to reach business goals. Routinely cleaned work areas, glassware and silverware throughout each shift. Skillfully promoted items on beverage lists and restaurant specials. Developed and maintained positive working relationships with others to reach business goals. Inventoried and restocked items throughout day. Verified cash drawer against the day's receipts. Restocked, refilled condiments, organized pantry area and swept and mopped floors. Assertively upsold beverages, appetizers and desserts. Assisted co-workers whenever possible. Operated all kitchen equipment adeptly. Stocked and maintained cleanliness of stations."
+    },
+    {
+      "name": "Company Name",
+      "position": "Cashier",
+      "url": "",
+      "startDate": "2008-05-01",
+      "endDate": "2013-02-01",
+      "summary": "Consistently provided professional, friendly and engaging service. Skillfully promoted items. Routinely supported other areas of the restaurant as requested, including answering telephones and completing financial transactions for other staff. Demonstrated genuine hospitality while greeting and establishing rapport with guests. Provided friendly and attentive service. Verified cash drawer against the day's receipts. Maintained complete knowledge of restaurant menu. Assisted with guest inquiries, take-out orders and restaurant cleanliness. Operated all kitchen equipment adeptly. Routinely removed trash and debris from restaurant. Stocked and maintained cleanliness of stations."
+    },
+    {
+      "name": "",
+      "position": "House Painter",
+      "url": "",
+      "startDate": "1985-01-01",
+      "endDate": "current",
+      "summary": "Painted surfaces using brushes, spray guns and paint rollers. Applied putty, wood filler, spackling and caulks to prep uneven surfaces. Mixed and matched paints according to customer specifications. Applied primer, paints, varnishes and lacquers to walls and surfaces. Protected all surfaces with drop cloths prior to and during painting. Applied exterior caulking to building joints and seams. Performed flat glass repairs and minor structural repairs to concrete and wood decks, window trim, windows and door casings. Minimized disruption of client space and thoroughly cleaned up after the completion of each job."
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "South Philadelphia High School",
+      "url": "",
+      "area": "",
+      "studyType": "High School Diploma",
+      "startDate": "1986-01-01",
+      "endDate": "1986-12-31",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Kitchen Management",
+      "level": "Expert",
+      "keywords": [
+        "Pizza Making",
+        "Utensil and Equipment Maintenance",
+        "Menu Creation",
+        "Communication",
+        "Leadership"
+      ]
+    },
+    {
+      "name": "Cashier",
+      "level": "Skilled",
+      "keywords": [
+        "Customer Service",
+        "Telephone Handling",
+        "Financial Transactions",
+        "Restaurant Cleanliness",
+        "Kitchen Equipment Operation"
+      ]
+    },
+    {
+      "name": "House Painting",
+      "level": "Experienced",
+      "keywords": [
+        "Surface Preparation",
+        "Paint Mixing",
+        "Paint Application",
+        "Surface Protection",
+        "Clean Up"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

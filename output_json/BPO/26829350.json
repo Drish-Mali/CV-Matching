@@ -1,0 +1,110 @@
+{
+  "basics": {
+    "name": "Anonymous",
+    "label": "Buyer",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Over 1 year of end to end experience in worldwide Procurement operations *Over 5 years of end to end experience with Accounts payable and reconciliation *Great team player with the ability to instill and reinforce confidence, self-esteem and optimistic attitude. *Organized, Analytic and versatile thinker, effective at developing and implementing creative ideas",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Buyer",
+      "url": "",
+      "startDate": "2014-01-01",
+      "endDate": "2015-01-01",
+      "summary": "Global procurement operations- Taking care of end to end worldwide procurement operations irrespective of categories.",
+      "highlights": [
+        "Proficient in Oracle, SAP ECC 6.0 version, Helios and Sun system version 5, MS-Word, Excel and PowerPoint."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Senior Executive",
+      "url": "",
+      "startDate": "2013-01-01",
+      "endDate": "2014-01-01",
+      "summary": "Handling and Guiding team of Accounts Payable PO & Non Po Vendors Invoice processing, reconciliation and Payments.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Senior Executive",
+      "url": "",
+      "startDate": "2010-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Handle end to end AP processing activities Accurate reconciliation of Supplier Statements.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Executive",
+      "url": "",
+      "startDate": "2008-01-01",
+      "endDate": "2010-01-01",
+      "summary": "Work with Purchasing, Central Receiving, Vendors and Leads to resolve the invoicing discrepancies.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "CMR Institute of Management studies, Bangalore University",
+      "url": "",
+      "area": "Finance & Human Resource",
+      "studyType": "Master",
+      "startDate": "",
+      "endDate": "2008-01-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Narmada college of Science and Commerce, Veer Narmada South Gujarat University",
+      "url": "",
+      "area": "Marketing",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "2006-01-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Skills",
+      "level": "",
+      "keywords": [
+        "Accounts payable",
+        "Accruals",
+        "Automation",
+        "Trial Balance",
+        "Client",
+        "Invoicing",
+        "Oracle",
+        "Problem Solving",
+        "Procurement",
+        "Reconciling",
+        "SAP",
+        "Team Player",
+        "Vendor Management"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

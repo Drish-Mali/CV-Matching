@@ -1,0 +1,124 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Administration Assistant",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Professional and knowledgeable Receptionist versed in administrative support and customer service. Offering over 10 years of experience managing company reputation with customers. Highly efficient and accurate with strong planning, problem-solving and communication skills.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Administration Assistant",
+      "url": "",
+      "startDate": "2018-12-01",
+      "endDate": "Current",
+      "summary": "Transferred and directed phone calls, guests and mail to correct staff members...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Office Assistant",
+      "url": "",
+      "startDate": "2018-01-01",
+      "endDate": "2018-12-01",
+      "summary": "Opened and properly distributed incoming mail to promote quicker response to client inquiries...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Certified Medical Assistant",
+      "url": "",
+      "startDate": "2000-09-01",
+      "endDate": "2012-09-01",
+      "summary": "Collected and documented patient medical information such as blood pressure and weight...",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "American International University",
+      "url": "",
+      "area": "Business Administration",
+      "studyType": "Associate of Arts",
+      "startDate": "",
+      "endDate": "",
+      "score": "3.3",
+      "courses": [
+        "Billing, coding and medical ICD"
+      ]
+    },
+    {
+      "institution": "Resurrection Hospital",
+      "url": "",
+      "area": "Certified Nursing Assisting",
+      "studyType": "Some College (No Degree)",
+      "startDate": "1998",
+      "endDate": "1998",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Bryant School",
+      "url": "",
+      "area": "Certified Medical Assistant",
+      "studyType": "Some College (No Degree)",
+      "startDate": "1976",
+      "endDate": "1976",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Administration",
+      "level": "",
+      "keywords": [
+        "Scheduling",
+        "Office administration",
+        "Medical office administration",
+        "Administrative support",
+        "Insurance claims",
+        "Budgeting",
+        "Completing insurance forms",
+        "Appointment setting",
+        "Appointment scheduling",
+        "Recordkeeping",
+        "Billing and coding",
+        "Documentation and control",
+        "Customer service",
+        "Document retrieval"
+      ]
+    },
+    {
+      "name": "Languages",
+      "level": "Fluent",
+      "keywords": [
+        "Spanish"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

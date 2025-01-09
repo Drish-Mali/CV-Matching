@@ -1,0 +1,80 @@
+{
+  "basics": {
+    "name": "Not provided",
+    "label": "Senior Advisor and National Fundraising Director",
+    "image": "",
+    "email": "Not provided",
+    "phone": "Not provided",
+    "url": "Not provided",
+    "summary": "An agile and hungry project manager with nearly five years of experience leading cross-functional teams in the political campaign world. Expert at drinking from the fire hose. A people person and problem solver who loves to operate in ambiguous roles and will run through walls to deliver.",
+    "location": {
+      "address": "Not provided",
+      "postalCode": "Not provided",
+      "city": "Not provided",
+      "countryCode": "Not provided",
+      "region": "Not provided"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Not provided",
+      "position": "Senior Advisor and National Fundraising Director",
+      "url": "Not provided",
+      "startDate": "09/2020",
+      "endDate": "12/2020",
+      "summary": "Created project plan to implement a new business strategy and organizational structure to optimize workflow, leading team to raise $2.25MM in two months, the largest congressional raise in the country over that period. Led 14-person staff composed of digital marketing, data, communications, and sales teams to surpass engagement and fundraising KPIs. Managed $4.25MM budget and all fundraising-related projects including launching a mobile-compatible website, and an activist-targeted digital marketing campaign that increased engagement across all digital channels by 43%.",
+      "highlights": []
+    },
+    {
+      "name": "Not provided",
+      "position": "Campaign and Fundraising Special Projects Advisor",
+      "url": "Not provided",
+      "startDate": "01/2020",
+      "endDate": "08/2020",
+      "summary": "Developed budgets, timelines, deliverables, and KPIs for a portfolio of 8 congressional campaigns throughout the Midwest, leading each campaign to increase money raised by at least 100%. Collaborated with heads of event, operations, and fundraising departments to flawlessly execute over 100 appearances from former presidents and high- profile celebrities.",
+      "highlights": []
+    },
+    {
+      "name": "Not provided",
+      "position": "Campaign Chief of Staff and Fundraising Director",
+      "url": "Not provided",
+      "startDate": "03/2019",
+      "endDate": "12/2019",
+      "summary": "Built and oversaw a $4MM budget and all campaign projects ranging from external communications and fundraising strategies to lawn sign placement. Advised the Congressman on all political decisions and developments involving his re-election efforts.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Emory University",
+      "url": "Not provided",
+      "area": "US History",
+      "studyType": "Bachelor of Arts",
+      "startDate": "Not provided",
+      "endDate": "Not provided",
+      "score": "summa cum laude",
+      "courses": ["Certificate in Gender and Sexuality", "Diversity and Inclusion in the Workplace - Four-week course offered by University of Pittsburgh", "Certificate in Spanish Language - Universidad De Salamanca"]
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Marketing",
+      "level": "Expert",
+      "keywords": ["Excel and Google Sheets", "Familiarity with multiple CRM Databases", "Budgets", "Business Development", "Business strategy", "CRM", "Databases", "Direct mail", "Fundraising", "Legal", "Litigation", "Marketing and Communications", "Excel", "Money", "Organizational", "Problem Solver", "Project Management", "Sales", "Spanish Language", "Strategy", "Website", "Workflow"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Conversational"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

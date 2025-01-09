@@ -1,0 +1,153 @@
+{
+  "basics": 
+  {
+    "name": "",
+    "label": "Business Development",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Results-driven and highly skilled account manager and marketing professional with over 10 years of experience in business development.",
+    "location": 
+    {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": 
+  [
+    {
+      "name": "Company Name",
+      "position": "Business Development",
+      "url": "",
+      "startDate": "2014-09",
+      "endDate": "Current",
+      "summary": "Responsible for overall company branding and marketing at trade shows and industry organizations. Business Development role responsible for obtaining new customers and building current customer base to increase sales revenue across all product lines throughout the company.",
+      "highlights": 
+      [
+        "Grown Erect-A-Step sales revenue 85% in a depressed oil and gas market.",
+        "Build strong relationships with new and current customers.",
+        "Operate as a stand alone business within SunnySide Supply, therefore responsible for day to day operations, which includes: prospecting, customer contact, qualifying customers, presentations/demos, quoting, sales, follow-up, inventory management, and logistics."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Director of New Products",
+      "url": "",
+      "startDate": "2013-03",
+      "endDate": "2014-08",
+      "summary": "Create strategies to develop and expand existing customer sales, which resulted in a 30% increase in monthly sales.",
+      "highlights": 
+      [
+        "Earned an elevated position as a 'Statistical Tracker.'",
+        "Compile and report sales statistics as requested by management to maximize sales efforts of the team.",
+        "Respond to all customer inquiries in a timely manner."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Director of Sales and Marketing/Business Development Manager",
+      "url": "",
+      "startDate": "2006-05",
+      "endDate": "2013-03",
+      "summary": "Create sales and revenue-generating opportunities in new markets to improve the bottom line.",
+      "highlights": 
+      [
+        "Developed strategies to position the business to shape and capitalize on emerging customer and market needs.",
+        "Managed/supervised a total of 26 employees.",
+        "Increased client base resulting from secured contracts."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Business Development Associate",
+      "url": "",
+      "startDate": "2003-01",
+      "endDate": "2006-05",
+      "summary": "Developed and implemented cold calling strategies to increase client base.",
+      "highlights": 
+      [
+        "Identified market trends to maximize revenue.",
+        "Built long-term client relationships to position the business for growth."
+      ]
+    }
+  ],
+  "volunteer": 
+  [
+    {
+      "organization": "The Consortium for Public Education",
+      "position": "Member of Board of Directors",
+      "url": "",
+      "startDate": "2010",
+      "endDate": "Present",
+      "summary": "Active Member of Board of Directors, contributing to public education initiatives.",
+      "highlights": 
+      [
+      ]
+    },
+    {
+      "organization": "Turner Elementary School",
+      "position": "Creator and operator of Student of the Month Program",
+      "url": "",
+      "startDate": "2004",
+      "endDate": "Present",
+      "summary": "Designed a program to recognize and reward outstanding students each month.",
+      "highlights": 
+      [
+      ]
+    },
+    {
+      "organization": "Evergreen Elementary School",
+      "position": "Creator and operator of Read-A-Thon program",
+      "url": "",
+      "startDate": "2007",
+      "endDate": "Present",
+      "summary": "Created and manage a program to encourage reading among students. Quarterly 'limo lunches' are donated for the students that read the most books in each contest period.",
+      "highlights": 
+      [
+      ]
+    }
+  ],
+  "education": 
+  [
+    {
+      "institution": "Duquesne University",
+      "url": "",
+      "area": "Marketing and Legal Studies in Business",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "2006",
+      "score": "",
+      "courses": 
+      [
+      ]
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": 
+  [
+    {
+      "name": "Business Development and Marketing",
+      "level": "",
+      "keywords": 
+      [
+        "Relationship Building",
+        "Business Development",
+        "Networking",
+        "Account Management",
+        "Sales/Market Analysis",
+        "Strategic Planning"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

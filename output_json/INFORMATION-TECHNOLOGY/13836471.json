@@ -1,0 +1,124 @@
+{
+  "basics": {
+    "name": "Information Technology Manager",
+    "label": "Information Technology Manager",
+    "email": "",
+    "phone": "",
+    "summary": "Vast experience in IT management with powerful technical skills.",
+    "location": {
+      "city": "",
+      "countryCode": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Information Technology Manager",
+      "startDate": "April 2007",
+      "endDate": "Current",
+      "summary": "Annual budget planning for department, network administration, implementation of new technology, developed company applications, daily backups and technical support for 80 users. Administration of security firewall, spam firewall and web filter...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Information Technology Manager",
+      "startDate": "July 2001",
+      "endDate": "March 2007",
+      "summary": "Develop, maintain and support in-house applications. Responsibilities include software licensing, updating operating system for desktop computers and servers and technical support for 25 users...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Information Systems Administrator",
+      "startDate": "January 2001",
+      "endDate": "July 2001",
+      "summary": "Technical support for 10 network users and 100 branch offices. Implemented Terminal Service to be able to connect to five new branches in Colombia...",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Fundacion Universidad Autonoma de Colombia",
+      "area": "Computer System Engineer",
+      "studyType": "BS",
+      "startDate": "",
+      "endDate": "January 29 2000",
+      "courses": []
+    },
+    {
+      "institution": "Centro Colombiano de Estudios Profesionales Pontificia Universidad Javeriana",
+      "area": "LAN Network Administration",
+      "studyType": "Certification",
+      "startDate": "",
+      "endDate": "January 1997",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Technical skills",
+      "level": "",
+      "keywords": [
+        "4D",
+        "Active Directory",
+        "Adobe Products",
+        "Apple",
+        "Automation",
+        "backup",
+        "Broadcast",
+        "budget planning",
+        "Computer Technician",
+        "Hardware installation and configuration",
+        "Hardware",
+        "databases",
+        "Database",
+        "DHCP",
+        "DNS",
+        "editing",
+        "Final Cut",
+        "firewall",
+        "FTP",
+        "inventory",
+        "LAN",
+        "Mac",
+        "Magic",
+        "access",
+        "Microsoft Exchange Server",
+        "Windows 7",
+        "Windows",
+        "2000",
+        "Windows XP",
+        "Network Administration",
+        "network",
+        "OS",
+        "operating system",
+        "Power Builder 6.5",
+        "Power Builder 9.0",
+        "processes",
+        "QuickBooks Pro",
+        "research",
+        "Sales",
+        "SAN",
+        "Servers",
+        "Software installation",
+        "Microsoft SQL Server",
+        "Streaming Video",
+        "Sybase SQL Anywhere 7.0",
+        "Sybase SQL Anywhere 9.0",
+        "Sybase SQL Anywhere",
+        "Symantec",
+        "Technical support",
+        "Television",
+        "video",
+        "VPN",
+        "Windows Server",
+        "Windows 2000 Server"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

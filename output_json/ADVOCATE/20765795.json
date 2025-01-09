@@ -1,0 +1,105 @@
+{
+  "basics": {
+    "name": "Anonymous",
+    "label": "Patient Advocate",
+    "summary": "Compassionate and professional� Crisis Specialist � who believes excellent people skills and open communication are essential functions of successful client advocacy.",
+    "highlights": [
+      "Creative problem solver",
+      "Exceptional organizational skills",
+      "Empathetic",
+      "Mediation",
+      "Emergency response training",
+      "State� government background",
+      "Natural leader",
+      "Proficient in NIMS and ICS�",
+      "Excellent interpersonal skills"
+    ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Patient Advocate",
+      "startDate": "2015-11",
+      "summary": "Created and maintained all patient accounts in Mpower and updated the hospital on any progression in obtaining Medicaid coverage. Educated patients about the different types of Medicaid. Advocated for the patients on their behalf when working with the county to get Medicaid coverage. Managed a caseload up to 50-60 patients. Maintained patient privacy and confidential patient information."
+    },
+    {
+      "name": "Company Name",
+      "position": "Case Assistant/Job and Life Skills Coach",
+      "startDate": "2013-07",
+      "endDate": "2015-11",
+      "summary": "Reported and documented relevant information as it pertained to the clients behaviors and their well being to the Job Developer and DVR. Conducted comprehensive initial in-home and in-office� vocational assessments prior to first wraparound meetings. Documented all� clients' information including service plans,� vocational reports and progress notes. Conducted outreach, advocacy and rehabilitative services for� vocational cases and crisis intervention if needed. Taught clients anger management techniques, relaxation skills, impulse control, social skills, emotional coping skills and functional living skills for successful community employment and life skills. Created, Job Coaching 101 and presented to new and existing job coaches."
+    },
+    {
+      "name": "Company Name",
+      "position": "Office Administration Specialist Senior",
+      "startDate": "2012-01",
+      "endDate": "2013-02",
+      "summary": "Promoted to Office Administrator in 2012 in the OPH prison education department. Supervised offenders within the education department and� kept track of their discipline/payroll. Proficient in the MARCS and Crystal Reports databases. Drafted memos and letterheads for the Education Director using Microsoft Office. Administered TABE testing for offenders obtaining their GED/HSED. Coordinated the Reading is Fundamental Book Fair for institution offenders as well as the offender graduation. Successfully learned the OPH Offender Education Channel media software, designing a custom schedule for televised education lessons within the institution."
+    },
+    {
+      "name": "Company Name",
+      "position": "Correctional Officer",
+      "startDate": "2005-07",
+      "endDate": "2012-01",
+      "summary": "Enforced resident behavior management system and wrote incident reports for infractions following ICS protocol. Employed de-escalation techniques, verbal commands and used physical and mechanical restraints to address unruly inmates. Implemented defensive tactics and physical restraints to maintain the safety and security of personnel and the general public. Served as a new officer mentor, member of the Conflict Resolution Committee and a Diversity Instructor. Created the� training module, Generations in the Workplace using Power Point while a Diversity Instructor. Successfully completed the Learning to Lead training seminar and the only non-supervisory staff to attend and complete this series. Promoted into two Work out of Class opportunities (Corrections Manufacturing Specialist and Office Administration Senior) during my time as an officer."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Fort Hays State University",
+      "area": "Sociology Leadership Studies",
+      "studyType": "Current student",
+      "courses": ["Minor: Leadership Studies"]
+    },
+    {
+      "institution": "Rasmussen College",
+      "area": "Criminal Justice",
+      "studyType": "A.A.S.",
+      "endDate": "2005-06",
+      "courses": ["Criminal Justice"]
+    }
+  ],
+  "certificates": [
+    {
+      "name": "FEMA - IS-00019.15 Supervisor EEO Course Certification",
+      "date": "2015-10"
+    },
+    {
+      "name": "ICS 100 for Hospitals",
+      "date": "2015-10",
+      "issuer": "FEMA"
+    },
+    {
+      "name": "Minnesota Department of Corrections Learning to Lead Certificate",
+      "date": "2012-01",
+      "summary": "Part one of the department's supervisory course",
+      "issuer": "Minnesota Department of Corrections"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Public Relations"
+    },
+    {
+      "name": "Case Management"
+    },
+    {
+      "name": "Client Advocacy"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "American Red Cross - Altoona, WI (Northwestern Region)",
+      "position": "Disaster Responder",
+      "startDate": "2016-01",
+      "summary": "Currently training via online for Disaster Relief certification"
+    },
+    {
+      "organization": "Turning Point Domestic Abuse Shelter - River Falls WI",
+      "position": "Child Adocate",
+      "startDate": "2005-03",
+      "endDate": "2005-06",
+      "summary": "Worked with children of domestic abuse situations. Led circle groups for children 5 to 10 years old."
+    }
+  ]
+}

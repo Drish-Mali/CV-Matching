@@ -1,0 +1,103 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Volunteer Accountant",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "CPA candidate with 15+ years of strong financial accounting and audit experience and knowledge of Internal Control, Enterprise Risk Management and GL, PL, BS reconciliations, work papers, cost, cash control, AP and AR on different accounting software's. Participated in the coordination of financial planning and budget management functions Monitored and analyzed monthly operating results against budget Managed preparation of the official annual report of actual revenues, transfers, and expenses, financial outlooks and forecasts. Proficiency in bookkeeping, reporting, journal entries, and account reconciliation.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Volunteer Accountant",
+      "url": "",
+      "startDate": "2012-11",
+      "endDate": "2013-09",
+      "summary": "Federal compliance, review, and preparation of corporation, insurance, partnership and private foundation tax returns. Coordinate with fixed asset accountant the necessary information for correct tax depreciation calculations, review tax depreciation calculations and schedules for accuracy. Analyze accrual accounts for deductibility pertaining to the provision and tax return. Assist in the completion of the tax footnotes for the annual statements. Identify reportable transaction disclosures for consolidated tax return and prepare tax filings for new entities, dissolutions and liquidations and assist with audit requests, research and implementation of tax consequences. Participate in the implementation of new provision, fixed assets, and ERP systems.",
+      "highlights": [
+        "Formally recognized for excellence achieved in financial analysis, budgeting and forecasting."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Accountant",
+      "url": "",
+      "startDate": "2009-05",
+      "endDate": "2012-10",
+      "summary": "Responsible for various general accounting duties including accounts payable, banking, check requests and special projects as needed. Processed accounts payable; including purchase order entry, invoice approval and entry, follow up with vendors, aging reporting, processed daily checks and various credits. Assisted with month-end close and financial reporting. Performed monthly reconciliation of all bank accounts, including reconciliation of deposits with accounts receivable. Maintaining accounting records and preparing accounts and management information for small businesses (accountancy); advising clients on business transactions, such as mergers and acquisitions (corporate finance); Advising clients on areas of business improvement, or dealing with insolvency; detecting and preventing fraud (forensic accounting);",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Accountant / Manager",
+      "url": "",
+      "startDate": "1997-11",
+      "endDate": "2005-05",
+      "summary": "Performed periodic budgeting/modeling to project monthly cash requirements and prepared financial and regulatory reports required by laws and regulations for the addition and opening of offices in Ajman and Sharjah. Prepared monthly and annual expense forecasts, including any necessary recommended action required to manage costs to achieve budget. Managed accounting operations, accounting close, account reporting and reconciliations and received, recorded, and banked cash, checks, and vouchers as well as reconciled records of bank transactions. Developed online invoicing procedures with several customers in order to streamline the accounts receivable process, which reduced invoice turn-around by a minimum of 30 days. Performed complex general accounting functions, including preparation of journal entries, account analysis and balance sheet reconciliations.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Keller Graduate School of Management",
+      "url": "",
+      "area": "Accounting",
+      "studyType": "Masters of Business Administration",
+      "startDate": "2013-08",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Keller Graduate School of Management",
+      "url": "",
+      "area": "Accounting & Financial Management",
+      "studyType": "Masters of Science",
+      "startDate": "2014",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "New York City College Of Technology",
+      "url": "",
+      "area": "Bookkeeping and Computerized Accounting",
+      "studyType": "Certificate",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Accounting",
+      "level": "",
+      "keywords": [
+        "Financial statement analysis",
+        "Compliance testing knowledge",
+        "Account reconciliation",
+        "PeopleSoft knowledge",
+        "Budget forecasting expertise"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

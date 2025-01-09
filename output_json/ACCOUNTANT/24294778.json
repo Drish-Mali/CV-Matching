@@ -1,0 +1,89 @@
+{
+  "basics": {
+    "name": "",
+    "label": "STAFF ACCOUNTANT",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Flexible Accountant who adapts seamlessly to constantly evolving accounting processes and technologies. Committed to keeping accurate accounting records. Possesses a natural knack for numerical accuracy and calculating balances.",
+    "location": {
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Staff Accountant",
+      "url": "",
+      "startDate": "December 2009",
+      "endDate": "Current",
+      "summary": "Prepares general ledger entries by maintaining, coding, and processing records and files; reconciling accounts. Responsible for recording journal entries, compiles, identifies and analyzes changes in account reconciliations, researching and resolving variances. Prepares consolidated internal and external financial statements by gathering and analyzing information from the general ledger system and from sub- companies. Maintains and balances an automated consolidation system by inputting data; verifying data. Analyzes information and options by developing spreadsheet reports; verifying information. Assisting with financial statement review and preparation, providing support toward interim and annual financial statement audits. Receive, maintain and control payable for 10 companies for a multi-million dollar corporation, using an internal system to process dissimilar documents and refunds. Audit and reconcile purchase orders with incoming invoices. Contact vendors to advise them of ordering requirements and to discuss pricing. Ensuring correctness of billings and supporting documentation. Record, process and reconcile General Ledger entries. Drafting correspondence, data entry in various computer systems, established a filing systems and record keeping. Consult with staff to discuss price quotes, technical specifications and other matters to purchases. Work with the requester to justify using certain vendors, large business or sole source orders. Provides immediate staff assistance to my supervisor on a variety of confidential and sensitive matters involving operations. Identifies activities or situations that may adversely impact company plans. Process payroll for contract employees. Performs research and consolidates information from various offices and advises supervisor and senior management on recommended solutions to conflicts or problems.",
+      "highlights": [
+        "Maintained accurate accounts including cash, inventory, prepaid, fixed assets, accounts payable, accrued expenses and line of credit transactions.",
+        "Researched and resolved billing problems that had been previously missed.",
+        "Successfully trained staff in all office systems and databases, policies and procedures while focusing on minimizing errors and generating superior results."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Strayer University",
+      "url": "",
+      "area": "Accounting",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "2014",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Strayer University",
+      "url": "",
+      "area": "Business Management",
+      "studyType": "Associate of Applied Science",
+      "startDate": "",
+      "endDate": "2011",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Accounting Skills",
+      "level": "Expert",
+      "keywords": [
+        "Account reconciliations",
+        "Microsoft Office proficiency",
+        "Cash-flow report generation",
+        "Excel spreadsheets",
+        "ACCPAC accounting skills",
+        "Meticulous attention to detail",
+        "Accounts receivable professional",
+        "Results-oriented",
+        "Accounting operations professional",
+        "Self-directed",
+        "Knowledge of Sage",
+        "Time management",
+        "General ledger accounting aptitude",
+        "Professional and mature",
+        "Complex problem solving",
+        "Resourceful",
+        "Great Plains knowledge",
+        "Strong interpersonal skills",
+        "Effective time management",
+        "Strong communication skills",
+        "Proficient in SAP",
+        "Expert in customer relations"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

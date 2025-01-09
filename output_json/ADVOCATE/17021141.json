@@ -1,0 +1,149 @@
+{
+  "basics": {
+    "name": "Not Provided",
+    "label": "PH INPATIENT/FINANCIAL ADVOCATE SUPERVISOR",
+    "email": "Not Provided",
+    "phone": "Not Provided",
+    "url": "Not Provided",
+    "summary": "Not Provided",
+    "location": {
+      "address": "Not Provided",
+      "postalCode": "Not Provided",
+      "city": "Not Provided",
+      "countryCode": "US",
+      "region": "Not Provided"
+    },
+    "profiles": [
+      {
+        "network": "Not Provided",
+        "username": "Not Provided",
+        "url": "Not Provided"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "PH Inpatient/Financial Advocate Supervisor",
+      "startDate": "September 2015",
+      "endDate": "Not Provided",
+      "summary": "Transition to PH Inpatient/Financial Advocate Supervisor. Work on Rapid Improvement team to reduce denials within the CDS. Meet with cashiers in CDS and create consistent reporting of collections.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "PH Patient Service Representative Supervisor",
+      "startDate": "November 2015",
+      "endDate": "September 2015",
+      "summary": "Transition to Downtown PH as PSR supervisor. Implement monthly meetings to bring unity to PSR department. Implement cross training of employees to multiple areas.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "RMC Supervisor",
+      "startDate": "January 2014",
+      "endDate": "November 2015",
+      "summary": "Transition to supervisor for all Patient Access departments in Rio Rancho. Establish the expectation of cross-training for current and new employees for Rio Rancho.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Registrar",
+      "startDate": "October 2005",
+      "endDate": "November 2008",
+      "summary": "Work as registrar for the following departments: Outpatient, ER, Day Surgery, and GI Lab. Register patients in MPAC for hospital services.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Repair Technician",
+      "startDate": "May 1997",
+      "endDate": "October 2005",
+      "summary": "Manage warehouse when coverage is needed. Act as a liaison for all new hires including HR functions.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Service Department Manager",
+      "startDate": "June 1992",
+      "endDate": "May 1997",
+      "summary": "Manager of service related aspects including repairs, ordering, and scheduling. Provide excellent customer service in selling and furniture related issues.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Phoenix",
+      "area": "Master of Business Administration",
+      "studyType": "Master",
+      "startDate": "2013",
+      "endDate": "2013",
+      "score": "3.87",
+      "courses": []
+    },
+    {
+      "institution": "University of Phoenix",
+      "area": "Bachelor of Science : Human Service Management",
+      "studyType": "Bachelor",
+      "startDate": "2011",
+      "endDate": "2011",
+      "score": "3.96",
+      "courses": []
+    },
+    {
+      "institution": "University of Phoenix",
+      "area": "Associate of Arts : Health Administration",
+      "studyType": "Associate",
+      "startDate": "2009",
+      "endDate": "2009",
+      "score": "3.97",
+      "courses": []
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Not Provided",
+      "position": "Not Provided",
+      "startDate": "Not Provided",
+      "endDate": "Not Provided",
+      "summary": "Not Provided",
+      "highlights": []
+    }
+  ],
+  "awards": [
+  ],
+  "certificates": [
+  ],
+  "publications": [
+  ],
+  "skills": [
+    {
+      "name": "Leadership",
+      "level": "Not Provided",
+      "keywords": ["Coaching", "Team building", "Leadership"]
+    },
+    {
+      "name": "Management",
+      "level": "Not Provided",
+      "keywords": ["Scheduling", "Managing"]
+    },
+    {
+      "name": "Customer Service",
+      "level": "Not Provided",
+      "keywords": ["Customer service", "Excellent customer service"]
+    },
+    {
+      "name": "Miscellaneous",
+      "level": "Not Provided",
+      "keywords": ["Cashiering", "Computer Training", "HR"]
+    }
+  ],
+  "languages": [
+  ],
+  "interests": [
+  ],
+  "references": [
+  ],
+  "projects": [
+  ]
+}

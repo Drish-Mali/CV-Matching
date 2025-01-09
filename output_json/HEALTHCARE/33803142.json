@@ -1,0 +1,110 @@
+{
+  "basics": {
+    "name": "Administrator",
+    "label": "Healthcare industry executive",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Healthcare industry executive with over 20 years' experience including 16 years managing full service home healthcare facilities including profit and loss responsibility, clinical and operations management, quality improvement and control, personnel/employee relations, recruiting, customer service and business development.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Administrator",
+      "url": "",
+      "startDate": "2005-01-01",
+      "endDate": "2015-01-01",
+      "summary": "Develop and implement short and long term plans. Establish clear objectives. Coordinates the efforts of business success. Responsibilities include: Full P&L responsibility; Sales and market development; Financial status; Patient Care Delivery; Client Services, Strategic planning and profitability and accountable for all operations and programs.",
+      "highlights": [
+        "Successful business growth and development through marketing programs, consistently increasing agency census over the course of 9 years.",
+        "Expanded Private Duty market through successful performance and productivity improvement; contract negotiations and reimbursement strategies, consistently increasing agency census from 31 to 240 in the course of 9 years.",
+        "Prepared and analyzed weekly/monthly reports, identifying payer issues, maximizing reimbursement and improving operational efficiencies.",
+        "Cultivated strong relationships with area hospitals, vendors/suppliers and payer sources.",
+        "Maintained high level of business standards through persistence and diligence; high ethics and Integrity.",
+        "Led State and Federal Regulatory surveys.",
+        "Improved and maintained efficiency in HR functions, billing management and clinical operations through effective communication and leadership abilities."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Phoenix",
+      "url": "",
+      "area": "Healthcare Administration",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "2005-01-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Northwest Mississippi Community College",
+      "url": "",
+      "area": "Healthcare Administration Registered Nurse",
+      "studyType": "BS",
+      "startDate": "",
+      "endDate": "1996-01-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Methodist Hospital School of Nursing",
+      "url": "",
+      "area": "Nursing - Registered Nurse",
+      "studyType": "Diploma",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Southwest Tennessee Community College",
+      "url": "",
+      "area": "Pre-requisite coursework working toward nursing degree",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Graduated with Honors",
+      "date": "2005-01-01",
+      "awarder": "University of Phoenix, Bachelors of Healthcare Administration",
+      "summary": ""
+    }
+  ],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Healthcare Management",
+      "level": "Expert",
+      "keywords": [
+        "Strategic Planning",
+        "Team Building & Leadership",
+        "Implementing Best Practices",
+        "Contract Negotiations",
+        "Performance and Productivity Improvements",
+        "Operational Management",
+        "Collaborative Problem-Solving"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

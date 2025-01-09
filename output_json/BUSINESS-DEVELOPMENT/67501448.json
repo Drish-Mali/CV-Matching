@@ -1,0 +1,104 @@
+{
+  "basics": {
+    "name": "Business Development Coordinator/Event Coordinator",
+    "label": "Marketing and Communications Professional",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Dynamic and creative Business Development Coordinator with a successful career in marketing, promotions, public relations, project and communications management.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Business Development Coordinator/Event Coordinator",
+      "url": "",
+      "startDate": "2013-11",
+      "endDate": "Current",
+      "summary": "Identify Customer care needs. Networking during events and established good and strong relations. Co-develop and implement strategic marketing...",
+      "highlights": ["Event Management", "Social Networking", "Negotiation skills", "Online Marketing Strategies", "Customer Targeting", "Teamwork"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Dental Hygienist",
+      "url": "",
+      "startDate": "2008-01",
+      "endDate": "2013-10",
+      "summary": "Prepares treatment room for patient by adhering to prescribed procedures and protocols. Provides information to patients...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Waitress/Bartender/Cashier/Floor Manager",
+      "url": "",
+      "startDate": "2003-10",
+      "endDate": "2008-08",
+      "summary": "Assigned tasks to associates, staffed projects and tracked progress. Customers care. Cash out monthly meetings...",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "LICEO LINGUISTICO EUROPEO CADORNA",
+      "url": "",
+      "area": "Foreign Languages",
+      "studyType": "High School Diploma",
+      "startDate": "",
+      "endDate": "2002",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "UNIVERSITÀ' DEGLI STUDI DEL PIEMONTE ORIENTALE AMEDEO AVOGADRO",
+      "url": "",
+      "area": "Dental Hygiene",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "2007",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Unknown Institution",
+      "url": "",
+      "area": "Social Media and Digital Marketing",
+      "studyType": "Master",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Various",
+      "level": "",
+      "keywords": ["Responsible and reliable","Highly motivated for career advancement", "Good attitude around others", "Calm and focused", "Good knowledge of social media", "Excellent communication and organizational skills"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Italian",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": ""
+    },
+    {
+      "language": "Spanish",
+      "fluency": ""
+    },
+    {
+      "language": "French",
+      "fluency": ""
+    }
+  ]
+}

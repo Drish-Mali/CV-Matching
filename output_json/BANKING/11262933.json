@@ -1,0 +1,106 @@
+{
+  "basics": {
+    "name": "Account Receivable",
+    "label": "Profesional",
+    "email": "",
+    "phone": "",
+    "summary": "Champion of continual process improvements to create more efficient work environments. Leads by example, developing, mentoring and sharing best practices across lines of businesses. Analytical judgment with the ability to analyze and determine course of action required to meet client delivery requirements. Excellent communication skills, organizational skills and customer service skills. Supports diversity, organizational astuteness, and demonstrates consistent ability to develop and deepen client and partner relationships.",
+    "location": { },
+    "profiles": [ ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Account Receivable",
+      "startDate": "2014-01-01",
+      "endDate": "2014-01-01",
+      "summary": "Processed and verified all incoming checks inputting the client information into the system. Prepared invoices for recording, process all account receivable and deposit cash receipts. Maintained records of the debits and credits and update the system. Audited financial reports for accurate recording and process. Provide daily report for to ensure proper debits and credits are applied.",
+      "highlights": [ ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Treasury Services Advisor",
+      "startDate": "2013-01-01",
+      "endDate": "2014-01-01",
+      "summary": "Researched, analyzed, and resolved a wide range of treasury, cash management and or depository products and service for Global Large Corporate accounts. ..."
+    },
+    {
+      "name": "Company Name",
+      "position": "Lead Ops Representative",
+      "startDate": "2007-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Assisted and managed a team geared to retrieve checks from Image ATM and organize the daily Workflow. Responsible for debiting/crediting customer's general ledger accounts, with minimal impact to the Bank and clients. ..."
+    },
+    {
+      "name": "Company Name",
+      "position": "Cash Vault",
+      "startDate": "2010-01-01",
+      "endDate": "2012-01-01",
+      "summary": "Prepared incoming cash from customers, counting and strapping it with the help of a cash counting machine. Executed all aspects of system hardware operations that required the input of large quantities of cash into the machine. ..."
+    },
+    {
+      "name": "Company Name",
+      "position": "Customer Service Representative",
+      "startDate": "2008-01-01",
+      "endDate": "2010-01-01",
+      "summary": "Executed all aspects of customer service incoming call center including inquiries, billing and activation of cellular service. Answered telephone for service questions for customer support,document the client needs."
+    },
+    {
+      "name": "Company Name",
+      "position": "Lead Sorter Operator",
+      "startDate": "1997-01-01",
+      "endDate": "2007-01-01",
+      "summary": "Check Processing) Managed a team of experts that executed all aspects of system hardware installs and repairs regarding check 21 Sorter Operations. ..."
+    }
+  ],
+  "education": [
+    {
+      "institution": "DeKalb Technical Institute",
+      "area": "Applied Science, Criminal Justice",
+      "studyType": "Associates Degree",
+      "startDate": "",
+      "endDate": "2009-01-01",
+      "courses": [ ]
+    },
+    {
+      "institution": "M&K : Education",
+      "area": "Education",
+      "studyType": "Certification",
+      "startDate": "2004-01-01",
+      "endDate": "2004-01-01",
+      "courses": ["Nursing Assistant", "CPR certified and First Aid Training", "MLS Real Estate School", "Compliance training for Anti-Money Laundering, timekeeping, and other bank and federal regulation"]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Microsoft Office skills",
+      "level": "",
+      "keywords": ["Microsoft Office", "Excel", "Access", "PowerPoint", "Lotus notes", "Outlook", "10 key", "Data entry"]
+    },
+    {
+      "name": "Customer Service skills",
+      "level": "",
+      "keywords": ["customer service", "customer satisfaction", "customer support", "telephone service questions", "billing", "activation of cellular service"]
+    },
+    {
+      "name": "Professional skills",
+      "level": "",
+      "keywords": ["workflow management", "account management", "cash vault operation", "cash management", "hardware operation", "CPR certified", "general ledger accounts management"]
+    }
+  ],
+  "languages": [ ],
+  "interests": [ ],
+  "references": [ ],
+  "projects": [ ],
+  "awards": [
+    {
+      "title": "Bank of America Silver Medal",
+      "date": "",
+      "awarder": "Bank of America",
+      "summary": "for customer satisfaction score rating in top percentile."
+    }
+  ],
+  "certificates": [ ],
+  "publications": [ ],
+  "volunteer": [ ]
+}

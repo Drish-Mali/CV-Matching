@@ -1,0 +1,120 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Faculty, Clinical Instructor, & Clinical Coordinator",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Doctorate-prepared registered nurse and medical author with extensive clinical experience, excellent physical assessment skills, proven strength in teaching, and a passion for health education. Specialized training in pediatric primary care, chronic disease management, sports medicine, nutrition, pediatric cardiology, and mental wellness.",
+    "location": "",
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company",
+      "position": "Faculty, Clinical Instructor, & Clinical Coordinator",
+      "url": "",
+      "startDate": "05/2016",
+      "endDate": "Current",
+      "summary": "Responsible for course lecture, and leadership of clinical instructors within the Master's Entry Nursing Program (MENP). Designed and provided evidence-based information achieving course objectives as required through university program protocol and the national guidelines of competencies for registered nurses.",
+      "highlights": []
+    },
+    {
+     "name": "Company",
+     "position": "School Nurse",
+     "url": "",
+     "startDate": "08/2011",
+     "endDate": "Current",
+     "summary": "Demonstrates advance skills in the nursing process of physical assessment, implementation, and evaluation with students and staff.",
+     "highlights": []
+    },
+    {
+     "name": "Company",
+     "position": "Clinical Specialist",
+     "url": "",
+     "startDate": "09/2009",
+     "endDate": "09/2011",
+     "summary": "Provided contractual clinical services to a global medical device company specializing in design, development, and commercializing complex spine and minimally invasive spine technologies and operative techniques."
+    },
+    {
+     "name": "Company",
+     "position": "Nurse Clinician II (RN)",
+     "url": "",
+     "startDate": "05/1994",
+     "endDate": "02/2010",
+     "summary": "Specialized in Pediatric Intensive Care Unit & Pediatric Surgical Heart Unit. Responsible for the complete nursing process of critically ill or injured patients in a Level I Trauma Unit and pre and post-surgical patients in Pediatric Cardiac Surgical Unit.",
+     "highlights": []
+    }
+  ],
+  
+  "volunteer": [],
+  
+  "education": [
+    {
+      "institution": "Rush University",
+      "url": "",
+      "area": "Pediatric Primary Care",
+      "studyType": "Doctorate in Nursing Practice",
+      "startDate": "",
+      "endDate": "2016",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Richard J. Daley College",
+      "url": "",
+      "area": "Nursing",
+      "studyType": "Associate of Applied Science",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Northern Illinois University",
+      "url": "",
+      "area": "Nutrition",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": ["Minor in Journalism"]
+    }
+  ],
+  
+  "awards": [],
+  
+  "certificates": [
+    {
+      "name": "Registered Nurse",
+      "date": "1994",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "Nationally Certified School Nurse, National Board for Certification of School Nurses",
+      "date": "2017",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "Designation for Individualized Education Program (IEP) privileges, Illinois State Board of Education",
+      "date": "2017",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  
+  "publications": [],
+  
+  "skills": [],
+  
+  "languages": [],
+  
+  "interests": [],
+  
+  "references": [],
+  
+  "projects": []
+}

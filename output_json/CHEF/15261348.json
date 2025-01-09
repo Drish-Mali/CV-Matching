@@ -1,0 +1,107 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Chef and Restaurant Manager",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Chef with 15 years of highly recognized work in catering and restaurant management in 4 star hotels and leading restaurants. Specializes in creating menus that attract and retain customers for events and parties. Looking for a challenging role in culinary management.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "",
+      "region": "State"
+    },
+    "profiles": [
+      {
+        "network": "",
+        "username": "",
+        "url": ""
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Chef and Restaurant Manager",
+      "url": "",
+      "startDate": "2007-12-01",
+      "endDate": "2018-01-01",
+      "summary": "Managed front and back of the house with team members. Increased sales by 17% over a two-year period. Prepared correspondence, accounting and financial documents for analysis.",
+      "highlights": [
+        "Successfully managed a kitchen staff of 15 employees during high volume dinner services for more than125 covers each night.",
+        "Grossed over 20k per week in food and Beverage sales",
+        "Systematically tasted and smelled all prepared dishes, and observed color, texture and garnishes."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Chef and Sous Chef",
+      "url": "",
+      "startDate": "2001-02-01",
+      "endDate": "2006-09-01",
+      "summary": "Provided courteous and informative customer service in an open kitchen format. Implemented and supported company initiatives and programs. Ensured smooth kitchen operation by overseeing daily product inventory, purchasing and receiving.",
+      "highlights": [
+        "Effectively managed and assisted kitchen staff in producing food for banquets, catered events and member dining areas.",
+        "Established and maintained open, collaborative relationships with the kitchen team.",
+        "Prepared healthy, enjoyable breakfasts and dinners for guests and VIP's"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Pennsylvania Culinary Institute",
+      "url": "",
+      "area": "Specalized Culinary Techonolgy",
+      "studyType": "Associate of Arts",
+      "startDate": "2002-01-01",
+      "endDate": "2002-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Salem International",
+      "url": "",
+      "area": "Business",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Account Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Project Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Computer Proficient",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "awards": [
+    {
+      "title": "Attendance Achievement Award",
+      "date": "2002-01-01",
+      "awarder": "Pennsylvania Culinary Institute",
+      "summary": "Top 10 % of class"
+    }
+  ],
+  "publications": [],
+  "references": [],
+  "volunteer": [],
+  "certificates": [],
+  "projects": []
+}

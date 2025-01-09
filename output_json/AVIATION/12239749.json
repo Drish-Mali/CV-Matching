@@ -1,0 +1,129 @@
+{
+  "basics": {
+    "name": "SPECIALIST OF INFANTRY",
+    "label": "Social Services Provider",
+    "email": "",
+    "phone": "",
+    "summary": "Professional learning, occupational consultant and life-skills counselor seeking a position as a Social Services Provider. Disabled veteran and education specialist conversant with social and personal barriers to employment, civic life and independent living.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Specialist of Infantry",
+      "url": "",
+      "startDate": "Mar 2000",
+      "endDate": "Sep 2002",
+      "summary": "Maintained and operated weapons and communications systems of the $3,000,000 M2A2 Bradley Infantry Fighting Vehicle. Maintained mechanical functions and marksman qualification for the M16 service rifle. Trained in Infantry tactics according to Army doctrine on Fire and Maneuver.",
+      "highlights": [
+        "Battalion Soldier of the Month honors",
+        "Medic Combat Life Saver Certified",
+        "Maintained personal physical fitness for military duty.",
+        "Leadership and training for subordinate soldiers",
+        "Medical retirement with Honorable Discharge"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Logistics Coordinator",
+      "url": "",
+      "startDate": "Jan 1998",
+      "endDate": "Mar 2000",
+      "summary": "Researched and identified vendors for commercial equipment, parts and supplies for infrastructure/building maintenance by work order. Data entry and procurement of commercial freight. Received, inspected, offloaded, warehoused and data entered commercial freight into inventory.",
+      "highlights": [
+        "Operated a vertical forklift",
+        "Managed accounts and inventory for contract tools and equipment via database",
+        "Processed defective product for return and reclamations"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Aviation Mechanist Mate, AD",
+      "url": "",
+      "startDate": "Mar 1988",
+      "endDate": "Mar 1996",
+      "summary": "Maintained and repaired power plant/engine systems and subsystems of the $24,000,000 MH53E Helicopter. Conducted pre-flight maintenance and safety inspections. Facilitated launch and recovery of aircraft as part of a ground crew.",
+      "highlights": [
+        "Handled and disposed of hazardous material in accordance with local, State and Federal regulations",
+        "Maintained personal physical fitness for military duty."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Mount St. Joseph University",
+      "url": "",
+      "area": "Education",
+      "studyType": "Master of Arts",
+      "startDate": "",
+      "endDate": "2014",
+      "score": "3.58",
+      "courses": []
+    },
+    {
+      "institution": "University of the Pacific",
+      "url": "",
+      "area": "History and Philosophy",
+      "studyType": "Bachelor of Arts",
+      "startDate": "",
+      "endDate": "2008",
+      "score": "3.49",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "PRAXIS: Principles of Learning and Teaching",
+      "date": "2013",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "PRAXIS: Social Studies Content Knowledge",
+      "date": "2013",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Communication and Interpersonal Skills",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Windows Based Operating Systems",
+      "level": "Advanced",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Office: Word, Excel, Access and PowerPoint",
+      "level": "Advanced",
+      "keywords": []
+    },
+    {
+      "name": "Educator",
+      "level": "",
+      "keywords": ["Identifying and servicing diverse learning styles"]
+    },
+    {
+      "name": "Database Information Systems (DBA)",
+      "level": "Experienced",
+      "keywords": ["Designing", "Supporting"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

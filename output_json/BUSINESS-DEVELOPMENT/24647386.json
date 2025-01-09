@@ -1,0 +1,66 @@
+{
+  "basics": {
+    "name": "Anonymous",
+    "label": "Director of Business Development",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Looking for the greatest opportunity to use my years of experience in business development and client relationship building to work for a reputed company that I can help grow and prosper!",
+    "location": {},
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Director of Business Development",
+      "url": "",
+      "startDate": "2009-05-01",
+      "endDate": "Current",
+      "summary": "Responsible for developing new business opportunities for corporate, municiple and university markets over $43 million in annual revenues.Created over 25 new commuter programs from the ground up for fortune 500 companies in the Bay Area. Created new revenue streams through new municiple and University accounts including the City of Los Angeles, University of California, Berkeley and San Francisco State University - over $10 million annually.",
+      "highlights": [
+        "Obtained new multi-million dollar account within first four months of employment."
+      ]
+    },{
+      "name": "Company Name",
+      "position": "Bay Area General Manager",
+      "url": "",
+      "startDate": "2006-02-01",
+      "endDate": "2009-05-01",
+      "summary": "Executive management of the Bay Area market; responsibilities include marketing and business development, operations and accounting related functions. Management oversight of approximately 80 locations throughout the Bay Area encompassing San Francisco, Oakland-East Bay, San Jose and Marin County; over $65 Million dollars in gross parking revenues annually. ",
+      "highlights": [
+        "Successful business transactions of 35 new locations in the Bay Area region, with additional net profits of over $750K annually.",
+        "Achieved positive financial results on the successful integration of Bay Area operations, reducing overhead through technology and best practices for improvement of over $300,000 in Bay Area net profit."
+      ]
+    }
+  ],
+
+  "education": [
+    {
+      "institution": "East Central University",
+      "url": "",
+      "area": "Business Administration Marketing / Management",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Business Development",
+      "level": "",
+      "keywords": [
+        "Client Relations", "Sales", "Proposal Preparation", "CRM planning and management", "Cold Calling", "Networking", "Budget Preparation", "Contract Negotiations", "Executive management", "Financial Analysis", "Marketing Transportation Route Planning and Analysis"
+      ]
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "awards": [],
+  "publications": [],
+  "volunteer": [],
+  "certificates": [],
+  "projects": []
+}

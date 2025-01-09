@@ -1,0 +1,112 @@
+{
+  "basics": {
+    "name": "John Doe",
+    "label": "Accountant",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Accomplished professional with exceptional skills developed in diverse and demanding business settings, delivering outstanding operational and financial performance. Has comprehensive knowledge of accounting in distribution, hospitality and service operations. Proven ability to establish productive relationships and lead, train, and focus staffs to improve efficiency and accomplish organizational growth and productivity objectives. Has a strong proficiency in identifying and responding to opportunities that improve profitability.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Accountant",
+      "url": "",
+      "startDate": "2006-01-01",
+      "endDate": "2014-01-01",
+      "summary": "Management of finance functions, cashflows, ledgers, reports etc.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Financial Analyst",
+      "url": "",
+      "startDate": "2005-01-01",
+      "endDate": "2006-01-01",
+      "summary": "Preparation of budget, analysis, managerial accounting and analysis",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Accounting Specialist",
+      "url": "",
+      "startDate": "2004-01-01",
+      "endDate": "2005-01-01",
+      "summary": "Execution of payment for invoices, managing revenue",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Title Specialist",
+      "url": "",
+      "startDate": "2002-01-01",
+      "endDate": "2004-01-01",
+      "summary": "Reviewing titles, mortgages documentation, managing comprehensive title examination team",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "General Manager",
+      "url": "",
+      "startDate": "2000-01-01",
+      "endDate": "2002-01-01",
+      "summary": "Management of property, managing employees",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "National University",
+      "url": "",
+      "area": "Accountancy",
+      "studyType": "Master",
+      "startDate": "2004-02-01",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "University of Nevada Las",
+      "url": "",
+      "area": "Hotel Management",
+      "studyType": "Bachelor",
+      "startDate": "1997-05-01",
+      "endDate": "1999-12-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Parkland College",
+      "url": "",
+      "area": "Business Administration",
+      "studyType": "Associate",
+      "startDate": "",
+      "endDate": "1997-05-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Accounting",
+      "level": "Master",
+      "keywords": ["Cash Management", "Bank Reconciliations", "Peachtree", "Budgeting and Forecasting", "QuickBooks Enterprise Solutions", "Microsoft Office", "A/R and A/P", "ADP Payroll", "Database", "Human Resources", "Visual Basic", "ORACLE"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

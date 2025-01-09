@@ -1,0 +1,105 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Sushi Chef",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Reliable and responsible sushi chef with an extensive hospitality background. Excellent sales techniques, interpersonal skills and mathematical aptitude. Works well under pressure and maintains a positive, upbeat attitude. ServSafe Certified. Experienced in food preparation and maintaining cleanliness of kitchen equipment.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Sushi Chef",
+      "url": "",
+      "startDate": "2014-10",
+      "endDate": "Current",
+      "summary": "Working at Wasabi's Downtown as the second chef, preparing sushi and maintaining cleanliness of kitchen.",
+      "highlights": []
+    },
+    {
+      "name": "The 5 Spot",
+      "position": "Dishwasher/ Line Cook",
+      "url": "",
+      "startDate": "2014-04",
+      "endDate": "2014-10",
+      "summary": "Worked in a highly fast-paced kitchen, provided conventional style kitchen and line cook experience. Left due to management changes and a job offer from a previous employer.",
+      "highlights": []
+    },
+    {
+      "name": "Sushi Time Towa",
+      "position": "Host, Server, Dishwasher, Cook",
+      "url": "",
+      "startDate": "2008-03",
+      "endDate": "2014-03",
+      "summary": "Started at the very bottom and worked up to the top over six years. Built strong work ethic and developed great knife skills. Handled inventory, cooking, preparation of sushi and customer service. Received serve safe managerial training. Gained passion for food and seeing customer satisfaction.",
+      "highlights": ["Serve safe managerial training"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Savannah Technical College",
+      "url": "",
+      "area": "Electrical-Computer Engineering",
+      "studyType": "Associate of Applied Science",
+      "startDate": "",
+      "endDate": "2012",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Wayne County Highschool",
+      "url": "",
+      "area": "General Education",
+      "studyType": "GED",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Sushi preparation",
+      "level": "Master",
+      "keywords": []
+    },
+    {
+      "name": "Interpersonal skills",
+      "level": "Master",
+      "keywords": []
+    },
+    {
+      "name": "Mathematical aptitude",
+      "level": "Master",
+      "keywords": []
+    },
+    {
+      "name": "Responsible and reliable",
+      "level": "Master",
+      "keywords": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "ServSafe Certified",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

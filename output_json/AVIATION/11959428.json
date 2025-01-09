@@ -1,0 +1,88 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Maintenance Mechanic",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "I am a graduate with an Associate of Applied Science in Power-plant & Airframe Technology and with an FAA A&P license with experience in troubleshooting, repairing and maintaining aircraft engines and systems as well as repairing and rebuilding aircraft structures and functional components. I'm currently working as a maintenance mechanic with Fairmount Santrol, with experience in splicing belts, rebuilding pumps, changing motors, bearing and gearboxes. Detail-oriented and very efficient, I am seeking a position with a company that fully utilizes my experience and abilities.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": [ ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Maintenance Mechanic",
+      "url": "",
+      "startDate": "2017-12-01",
+      "endDate": "Current",
+      "summary": "Preventative maintenance, maintenance, inspections, and repairs, troubleshooting",
+      "highlights": [ ]
+    },
+     {
+      "name": "Company Name",
+      "position": "A&P Mechanic",
+      "url": "",
+      "startDate": "2017-06-01",
+      "endDate": "2017-12-01",
+      "summary": "Aircraft Maintenance, preventative maintenance, inspection and repair, troubleshooting.",
+      "highlights": [ ]
+    }
+    ],
+  "volunteer": [ ],
+  "education": [
+    {
+      "institution": "Hallmark University",
+      "url": "",
+      "area": "Airframe & Power-plant Technology",
+      "studyType": "Associate of Applied Science",
+      "startDate": "",
+      "endDate": "2016",
+      "score": "",
+      "courses": [ ]
+    }
+  ],
+  "awards": [ ],
+  "certificates": [
+    {
+      "name": "FAA Airframe & Power-plant License",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "publications": [ ],
+  "skills": [
+    {
+      "name": "Maintenance",
+      "level": "",
+      "keywords": [ ]
+    },
+    {
+      "name": "Inspections",
+      "level": "",
+      "keywords": [ ]
+    },
+    {
+      "name": "Repairs",
+      "level": "",
+      "keywords": [ ]
+    },
+    {
+      "name": "Troubleshooting",
+      "level": "",
+      "keywords": [ ]
+    }
+  ],
+  "languages": [ ],
+  "interests": [ ],
+  "references": [ ],
+  "projects": [ ]
+}

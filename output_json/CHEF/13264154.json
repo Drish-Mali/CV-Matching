@@ -1,0 +1,104 @@
+{
+"basics": {
+    "name": "Not Provided",
+    "label": "Chef Instructor",
+    "image": "",
+    "email": "Not Provided",
+    "phone": "Not Provided",
+    "url": "Not Provided",
+    "summary": "Pastry chef/baker/cake decorator with 5 year history creating beautiful specialty cakes for events. Highly organized and supportive team player with knowledge in seasonality of ingredients and passion for local, sustainable and organic ingredients.",
+    "location": {
+      "address": "Not Provided",
+      "postalCode": "Not Provided",
+      "city": "Not Provided",
+      "countryCode": "Not Provided",
+      "region": "Not Provided"
+    },
+    "profiles": [
+      {
+        "network": "Not Provided",
+        "username": "Not Provided",
+        "url": "Not Provided"
+      }
+    ]
+  },
+  "work": [
+    {
+        "name": "Not Provided",
+        "position": "Chef Instructor",
+        "url": "Not Provided",
+        "startDate": "2016-04-01",
+        "endDate": "Current",
+        "summary": "Teaching classes to small and large groups, creating lesson plans and menus, and honing current culinary skills.",
+        "highlights": []
+    },
+    {
+        "name": "Not Provided",
+        "position": "Sales Representative",
+        "url": "Not Provided",
+        "startDate": "2016-02-01",
+        "endDate": "Current",
+        "summary": "Traveling the New Jersey, Pennsylvania and Delaware areas selling cake and pastries for a wholesale bakery.",
+        "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Illinois Institute of Art",
+      "url": "Not Provided",
+      "area": "Culinary and Pastry Arts",
+      "studyType": "Associate of Arts",
+      "startDate": "Not Provided",
+      "endDate": "2007",
+      "score": "Not Provided",
+      "courses": ["Food Preparation", "Kitchen Management", "Patisserie and Confectionery", "International Cuisine", "Recipe and Menu Planning"]
+    },
+    {
+      "institution": "Chesterton High School",
+      "url": "Not Provided",
+      "area": "High School Diploma",
+      "studyType": "High School",
+      "startDate": "Not Provided",
+      "endDate": "2005",
+      "score": "Not Provided",
+      "courses": ["Culinary Arts Vocational Senior year"]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Photoshop",
+      "level": "Not Provided",
+      "keywords": []
+    },
+    {
+      "name": "budgeting",
+      "level": "Not Provided",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Basic"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Baking",
+      "keywords": [
+        "pastry", "cake decoration"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Not Provided",
+      "reference": "Not Provided"
+    }
+  ],
+  "projects": []
+}

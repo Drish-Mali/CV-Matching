@@ -1,0 +1,137 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Assistant to CFO",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Dedicated and focused Office Administrator who excels at prioritizing, completing multiple tasks simultaneously and following through to achieve project goals. Seeking a role of increased responsibility and authority.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "",
+      "region": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Assistant to CFO",
+      "url": "",
+      "startDate": "2008-04",
+      "endDate": "Current",
+      "summary": "Managed operations in accordance with budget requirements. Maintained compliance with company and legal requirements. Oversaw operations for Charter and Dispatch Department.",
+      "highlights": [
+        "Managed office inventory and placed new supply orders",
+        "Managed operations in accordance with budget requirements",
+        "Improved communication efficiency as primary liaison between departments, clients and vendors"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Charter Sales Rep and Flight Dispatcher",
+      "url": "",
+      "startDate": "2006-05",
+      "endDate": "2008-02",
+      "summary": "Fielded an average of 50 customer service calls per day. Confirmed that appropriate changes were made to resolve customers' problems.",
+      "highlights": [
+        "Managed wide variety of customer service and administrative tasks to resolve customer issues quickly and efficiently",
+        "Updated database with customer and sales information",
+        "Evaluated competitors and performed market research"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Charter Sales and Flight Dispatcher",
+      "url": "",
+      "startDate": "2000-03",
+      "endDate": "2005-03",
+      "summary": "Maintained detailed administrative and procedural processes to improve accuracy and efficiency.",
+      "highlights": [
+        "Coordinated meetings with other department managers and served as main liaison between sales and flight staff",
+        "Managed incoming and outgoing calls",
+        "Successfully established effective systems for record retention by creating database for daily correspondence tracking"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Lake Weir High School",
+      "url": "",
+      "area": "General",
+      "studyType": "High School Diploma",
+      "startDate": "1995",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Administrative skills",
+      "level": "",
+      "keywords": [
+        "Computer Proficiency",
+        "Service-minded",
+        "Motivational leadership style",
+        "Professional demeanor",
+        "Self-directed",
+        "Time management ability",
+        "Ability to prioritize",
+        "Customer service",
+        "System improvements",
+        "Strong initiative",
+        "Resourcefulness",
+        "Forward-thinking mindset",
+        "Account Management",
+        "Calendaring",
+        "Client Relations",
+        "Coordination",
+        "Creative Problem Solving",
+        "Critical Thinking",
+        "Customer Needs Assessment",
+        "Customer Service",
+        "Data Collection",
+        "Data Entry",
+        "Documentation",
+        "Email",
+        "Executive Management Support",
+        "Filing",
+        "Grammar",
+        "Internet Research",
+        "Letters and Memos",
+        "Microsoft Excel",
+        "Microsoft Office Suite",
+        "Microsoft Outlook",
+        "Microsoft PowerPoint",
+        "Microsoft Word",
+        "Multi-Task Management",
+        "Organizational Skills",
+        "Prioritization",
+        "Proofreading",
+        "Reading Comprehension",
+        "Report Transcription",
+        "Research",
+        "Scheduling",
+        "Spreadsheets",
+        "Telephone Skills",
+        "Time Management",
+        "Travel Arrangements",
+        "Travel Booking",
+        "Travel Planning",
+        "Vendor Management"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

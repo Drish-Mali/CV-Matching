@@ -1,0 +1,131 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Program Support Assistant",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "State",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Program Support Assistant",
+      "url": "",
+      "startDate": "2012-06-01",
+      "endDate": "2015-01-01",
+      "summary": "Responsible for claims matching, adjustments, refunds and complete account audits of veteran's accounts. Produced voucher refunds, processed returned First Party checks. Prepared public vouchers for processing, refund reviews, pre-payments, claims- matching reports, and audit requests from Veterans or other VA entities.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Agriculture Teacher",
+      "url": "",
+      "startDate": "2008-08-01",
+      "endDate": "2012-01-01",
+      "summary": "Served as high school agriculture teacher, FFA Advisor, facility manager, counselor, mentor and performed other assigned duties as required. Prepared course material and curriculum at multiple educational levels for diverse audience.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Agriculture Teacher",
+      "url": "",
+      "startDate": "2004-10-01",
+      "endDate": "2008-07-01",
+      "summary": "Served as high school agriculture teacher, FFA Advisor, facility manager, and performed other assigned duties as required. Assisted in writing USDA grants. Developed and designed instruction for classroom use.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Agriculture Teacher",
+      "url": "",
+      "startDate": "2001-08-01",
+      "endDate": "2004-07-01",
+      "summary": "Taught high school agriculture. Served as FFA advisor. Oversaw greenhouse facility and performed other assigned duties as required.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Texas A&M University",
+      "url": "",
+      "area": "Agriculture Education",
+      "studyType": "Doctor of Education",
+      "startDate": "",
+      "endDate": "2014-08-01",
+      "score": "4.0",
+      "courses": []
+    },
+    {
+      "institution": "Texas State University",
+      "url": "",
+      "area": "Agriculture Education",
+      "studyType": "Masters of Education",
+      "startDate": "",
+      "endDate": "",
+      "score": "3.7",
+      "courses": []
+    },
+    {
+      "institution": "Texas State University",
+      "url": "",
+      "area": "Animal Science",
+      "studyType": "Bachelors of Science",
+      "startDate": "",
+      "endDate": "1997-08-01",
+      "score": "2.73",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Teacher of the Year",
+      "date": "2012",
+      "awarder": "Pinecrest High School",
+      "summary": ""
+    },
+    {
+      "title": "Teacher's Turn the Key Award",
+      "date": "2006-11-01",
+      "awarder": "",
+      "summary": "National Award for Teaching"
+    },
+    {
+      "title": "Iron Mike Award for Volunteerism",
+      "date": "2010-01-01",
+      "awarder": "",
+      "summary": "Fort Bragg, North Carolina"
+    },
+    {
+      "title": "Treasured Employee Award",
+      "date": "2012-11-01",
+      "awarder": "CPCPAC",
+      "summary": ""
+    }
+  ],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Technical",
+      "level": "",
+      "keywords": [
+        "Credit", "Dreamweaver", "Flash", "Class", "Comprehensive Large Array Data Stewardship System", "Data Analysis", "Marketing Analysis", "Needs Assessment", "Usda", "Animal Science", "Career Development", "Cash", "Databases", "Documentation", "Front Page", "Integration", "Integrator", "Its", "Leadership Development", "Mentor", "Powerpoint", "Progress", "Training", "Recruitment", "Sales", "Sales And", "Accounting", "Adjustments", "Audit", "Audits", "Basis", "Claims", "Clerical", "Correspondence", "Operations", "Patient Account", "Payments", "Technical Support", "Vouchers", "Instructional Design", "Adult Education", "Content Management", "Content Management Systems", "Frontpage", "Learning Management", "Learning Management Systems", "Mac", "Microsoft Office", "Ms Office", "Spss", "Typing", "Award", "Deployment", "Dissemination Of Information", "Fundraising", "Liaison", "Logging", "Pmo", "Program Manager", "Steering", "Collection", "Data Collection", "Product Development", "Teaching", "Transmissions"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

@@ -1,0 +1,116 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Finance Officer",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Bilingual self-starter with broad customer service background. Skilled in developing relationships and providing exceptional individualized service. Enthusiastic, resourceful recent graduate with academic and professional background. Ability to establish priorities and meet challenges head-on.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Finance Officer",
+      "url": "",
+      "startDate": "2014-11-01",
+      "endDate": "Current",
+      "summary": "Monitor the financial system of Grant Answers by using Turbo Cash and Microsoft Excel. Assist with the arrangement of the budget. Prepare income statements and balance sheets. Maintained integrity of general ledger, including the chart of accounts. Optimized and managed research and development spending through collaboration with key business leaders."
+    },
+    {
+      "name": "Company Name",
+      "position": "Teller",
+      "url": "",
+      "startDate": "2014-04-01",
+      "endDate": "Current",
+      "summary": "Process customer transactions while engaging in conversation in order to provide pleasing customer service and to detect possible fraud"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Company Name",
+      "position": "Volunteer",
+      "url": "",
+      "startDate": "2010-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Committed to community services with free financial literacy seminars to improve low income communities by educating teenagers and homeless parents.",
+      "highlights": [
+        "Volunteered at soup kitchens, community clean up and at schools."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Lehman College",
+      "url": "",
+      "area": "Economics Political Science and Spanish",
+      "studyType": "Bachelor of Arts",
+      "startDate": "",
+      "endDate": "2014-05-01",
+      "courses": [
+        "Labor Economics", "Econometrics", "Managerial Economics", "International Economics", "Intermediate Microeconomics", "Intermediate Macroeconomics", "Principles of Management", "Calculus", "Statistics"
+      ]
+    },
+    {
+      "institution": "ACADEMICS OF FLIGHT",
+      "url": "",
+      "area": "Flight",
+      "studyType": "40 hour Flight Attendant program",
+      "startDate": "",
+      "endDate": "2012-01-01",
+      "courses": [
+        "Aerodynamics", "Meteorology", "Regulations", "Aircraft Systems", "Passenger Handling through Five Phases of Flight", "First Aid", "Passengers Requiring Special Treatment"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Fluent in Spanish",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Outlook, Word, Excel and PowerPoint",
+      "level": "Excellent",
+      "keywords": []
+    },
+    {
+      "name": "Driving skills",
+      "level": "Excellent",
+      "keywords": []
+    },
+    {
+      "name": "Interpersonal skills",
+      "level": "Effective",
+      "keywords": []
+    }
+  ],
+  "languages": [
+      {
+          "language": "English and Spanish",
+          "fluency": "Fluent"
+      }
+  ],
+  "interests": [
+    {
+      "name": "ATHLETIC ACTIVITIES",
+      "keywords": [
+        "Soccer", "Volleyball", "Track Club", "Lehman College Swimming team"
+      ]
+    }
+  ],
+  "reference": [
+    {
+      "name": "",
+      "reference": ""
+    }
+  ]
+}

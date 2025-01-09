@@ -1,0 +1,141 @@
+{
+  "basics": {
+    "name": "Paralegal",
+    "label": "Paralegal",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Licensed Paralegal demonstrating confidence and tenacity in project analysis, as well as sound business judgment.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Paralegal",
+      "url": "",
+      "startDate": "2013-01-01",
+      "endDate": "",
+      "summary": "General Litigation, Commercial Litigation, Bankruptcy, Estate Planning, Worker's Compensation Researching legal issues on West Law...",
+      "highlights": [
+        "Working knowledge of all aspects of the discovery process",
+        "Hands-on experience with PracticeMaster and Tabs3 legal",
+        "Demonstrated ability to conduct legal research using Westlaw",
+        "Proficient in managing clerical duties pertinent to a law office",
+        "Highly skilled at organizing and presenting information objectively"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Receptionist",
+      "url": "",
+      "startDate": "2009-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Provided quality customer service to guests upon entering lobby...",
+      "highlights": []
+    },
+    {
+      "name": "",
+      "position": "Administrative Assistant",
+      "url": "",
+      "startDate": "2007-01-01",
+      "endDate": "2009-01-01",
+      "summary": "Provided quality customer service to people with diverse backgrounds...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Customer Service Representative",
+      "url": "",
+      "startDate": "2005-01-01",
+      "endDate": "2007-01-01",
+      "summary": "Provided high quality customer service to Pilots and Business Aviation Companies...",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Manor College",
+      "url": "",
+      "area": "Paralegal Studies",
+      "studyType": "A.S. and Paralegal Certificate",
+      "startDate": "",
+      "endDate": "2012-01-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Nazareth Academy High School",
+      "url": "",
+      "area": "",
+      "studyType": "High School Diploma",
+      "startDate": "",
+      "endDate": "2004-01-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Paralegal Skills",
+      "level": "",
+      "keywords": [
+        "accounts payable",
+        "accounts receivable",
+        "Administrative",
+        "advertising",
+        "attorney",
+        "balance",
+        "credit",
+        "clients",
+        "Customer Service",
+        "Drafting",
+        "filing",
+        "Law",
+        "Legal",
+        "letters",
+        "Litigation",
+        "managerial",
+        "Managing",
+        "meetings",
+        "Access",
+        "Excel spreadsheets",
+        "Excel",
+        "mail",
+        "Microsoft Office Suite",
+        "office",
+        "PowerPoint",
+        "network",
+        "Paralegal",
+        "phone system",
+        "POS",
+        "proposals",
+        "quality",
+        "radio",
+        "receptionist",
+        "Researching",
+        "sales",
+        "scanner",
+        "Scheduling",
+        "phones",
+        "typing",
+        "Westlaw"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

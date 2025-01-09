@@ -1,0 +1,117 @@
+{
+  "basics": {
+    "name": "Rachel Guardado",
+    "label": "Warehouse Picker",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Polished and professional team member skilled at counting money, processing payments, building relationships with patrons, and more. Proficient in processing purchases and returns with high accuracy. Sales expert promotes products and plans to boost store profits.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "",
+      "region": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Warehouse Picker",
+      "url": "",
+      "startDate": "2021-05-01",
+      "endDate": "Current",
+      "summary": "Prepared inventory for shipment, packaged items, marked and labeled containers, assembled cartons, crates and containers, and more. Promoted workplace safety and used a website to keep track of items shipped daily.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Warehouse Employee",
+      "url": "",
+      "startDate": "2021-02-01",
+      "endDate": "2021-04-01",
+      "summary": "Prepared inventory for shipment, counted and stocked merchandise, packed and labeled merchandise, lifted materials of varied weights, and more. Mentored new employees.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Sales Associate and Cashier",
+      "url": "",
+      "startDate": "2020-10-01",
+      "endDate": "2020-12-01",
+      "summary": "Maintained knowledge of current promotions, sold various products, answered incoming telephone calls, provided customer assistance and more. Mentored new employees.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Host",
+      "url": "",
+      "startDate": "2020-07-01",
+      "endDate": "2020-08-01",
+      "summary": "Scheduled reservations, greeted guests, escorted guests to seating area, accommodated guests with children and special needs, and more.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Clifton High School",
+      "url": "",
+      "area": "",
+      "studyType": "High School Diploma",
+      "startDate": "",
+      "endDate": "2023-06-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Cash and Credit Transactions",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Tagging Expertise",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Issue Resolution",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Automatic Packing Equipment",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Scanner Operations",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Office",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

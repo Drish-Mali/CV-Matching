@@ -1,0 +1,124 @@
+{
+  "basics": {
+    "name": "Anonymous",
+    "label": "IT Director",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Accomplished IT Director with years of experience and a background in networking and management.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "UA",
+      "region": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "IT Director",
+      "url": "",
+      "startDate": "2015-08",
+      "endDate": "Current",
+      "summary": "Formulate and deploy long-term strategic plans for acquiring and enabling efficient and cost effective information processing and communication technologies. Manage IT department operational and strategic planning, including business requirements, project planning, and organizing and negotiating the allocation of resources. Operational Management Where necessary, reengineer applications support to ensure it aligns with business processes, tactical planning, and strategic vision.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Business Application Specialist",
+      "url": "",
+      "startDate": "2013-08",
+      "endDate": "2015-08",
+      "summary": "Support major components of distributed business applications such as Pivotal CRM, Sage MAS100/200, MoveTrack, EMC, Crystal Reporting, Scribe, Salesforce PaaS. Improve standards and techniques used to provide security in client/server environment. Diagram components at each tier of client/server environment for Disaster Recovery.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Information Technology Specialist",
+      "url": "",
+      "startDate": "2011-02",
+      "endDate": "2013-08",
+      "summary": "Completive experience of VMware vSphere environment: Install, Configure, Manage Provide expertise and support for Citrix Infrastructure, XenApp, Access Gateway and NetScaler. Perform support and administrative tasks pertaining to end-user environment.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Information Technology Specialist I",
+      "url": "",
+      "startDate": "2010-10",
+      "endDate": "2011-01",
+      "summary": "Provide expertise in imaging machines using Norton Ghost, Macrium Reflect, Acronis, FOG, Clonezilla. Hands-on resolution at the desktop level, including installing, configuring and upgrading software, systems and applications.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Network Assistant",
+      "url": "",
+      "startDate": "2010-02",
+      "endDate": "2010-07",
+      "summary": "Work-study Assess network performance Set up and observe network system recommends, upgrades, or improvements Support development of technical standards and application uses Resolve network problems and offer technical assistance to users.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "General Manager",
+      "url": "",
+      "startDate": "2004-07",
+      "endDate": "2006-01",
+      "summary": "Trained and coordinated 25 office personnel Provided supervision; supported and motivated employees Organized maintenance features, inventory control and ordered necessary materials Formulated daily sales reports Participated in development of company advertisement.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Hennepin Technical College",
+      "url": "",
+      "area": "Network Administration",
+      "studyType": "Associate of Applied Science",
+      "startDate": "2010",
+      "endDate": "",
+      "score": "3.71/4.0",
+      "courses": []
+    },
+    {
+      "institution": "Buchach University of Business and Management",
+      "url": "",
+      "area": "Business Management",
+      "studyType": "IT Security Essentials - Certificate",
+      "startDate": "2006",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Zaporizhzhya Pedagogical College",
+      "url": "",
+      "area": "Elementary Teacher",
+      "studyType": "Bachelor of Science",
+      "startDate": "1999",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Technical Skills",
+      "level": "",
+      "keywords": [
+        "Active Directory", "DHCP", "DNS", "WINS", "GPO", "Backups", "Budgeting", "Citrix", "XenApp", "VMware", "Hyper V", "Dynamic CRM", "Dynamic GP", "ERP", "Crystal", "Data Analysis", "Databases", "Disaster Recovery", "Documentation", "Financial Management", "Firewalls", "Imaging", "Inventory Control", "LAN", "WAN", "Linux", "Microsoft Exchange", "Office365", "Office", "Microsoft SQL", "Windows", "Migration", "Enterprise", "Network", "PBX", "Printer", "Processes", "Procurement", "Project Planning", "Project Management", "Purchasing", "Reporting", "Research", "Sage", "Sales Reports", "Servers", "Strategic Plans", "Strategic Planning", "Supervision", "Technical Support", "Cloud", "Azure"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

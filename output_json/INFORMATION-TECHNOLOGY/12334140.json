@@ -1,0 +1,115 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Production Associate, Information Technology Technician",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Experienced and knowledgeable Information Technology Professional seeking to contribute training and acquired skills within a Tier One Technical Support and/or Help Desk role. Work well independently, or in a group setting providing all facets of computer support such as troubleshooting, installations, and maintenance. In-depth knowledge and understanding of numerous software packages and operating systems. Skilled in providing Customer and End-User Help Desk Support. Easily identify and resolve technical issues and concerns. Excellent communication and presentation capabilities.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Production Associate",
+      "url": "",
+      "startDate": "2006-03",
+      "endDate": "Current",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Information Technology Technician",
+      "url": "",
+      "startDate": "2000-01",
+      "endDate": "2002-10",
+      "summary": "Provided computer help desk support via telephone communications with end-users. Performed diagnostics and troubleshooting of system issues, documented help desk tickets/resolutions, and maintained equipment inventory lists.",
+      "highlights": []
+    },
+     {
+      "name": "Company Name",
+      "position": "Information Technology Technician",
+      "url": "",
+      "startDate": "1996-02",
+      "endDate": "2000-01",
+      "summary": "Provided computer help desk support and technical training on hardware/software to end users. Documented help desk tickets/resolutions, and provided overall assistance in daily administration of a Novell Netware 4.11 Network. Performed set-up, break-down, and transport of agency equipment on an as-needed basis.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "KnowledgeSoft, Inc.",
+      "url": "",
+      "area": "Intranetware 4.11 Administration and 4.1a Advanced Administration",
+      "studyType": "Course",
+      "startDate": "1997-03",
+      "endDate": "1997-03",
+      "score": "",
+      "courses": [
+        ""
+      ]
+    },
+    {
+      "institution": "Shippensburg University of Pennsylvania",
+      "url": "",
+      "area": "Business Administration/Office Administration",
+      "studyType": "B.S.B.A",
+      "startDate": "1993-12",
+      "endDate": "1993-12",
+      "score": "",
+      "courses": [
+        "Business Communication", "Business Programming", "Marketing", "Finance", "IBM Software Applications", "Management"
+      ]
+    },
+    {
+      "institution": "Harrisburg Area Community College",
+      "url": "",
+      "area": "Business Administration/Office Administration",
+      "studyType": "A.A",
+      "startDate": "1991-05",
+      "endDate": "1991-05",
+      "score": "3.11",
+      "courses": [
+   "Accounting", "IBM Software Applications", "Intermediate Lotus 2.1", "Advanced Lotus 2.1 Macros", "MS-DOS Commands", "IBM Basic Programming", "Advanced WordPerfect 5.1", "Novell Netware"
+      ]
+    },
+    {
+      "institution": "East Pennsboro Area High School",
+      "url": "",
+      "area": "Academics/Business",
+      "studyType": "",
+      "startDate": "1988-01",
+      "endDate": "1988-01",
+      "score": "",
+      "courses": [
+   "Typing", "Word Processing", "Office Procedures", "Bookkeeping", "Shorthand"
+      ]
+    }  
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "",
+      "level": "",
+      "keywords": [
+        "Accounting", "administrative", "agency", "Basic Programming", "Bookkeeping", "Business Communication", "hardware", "Finance", "fundraising", "help desk support", "help desk", "IBM", "IBM Software", "inventory", "letters", "Lotus 2.1", "Macros", "Marketing", "mail", "Office", "MS-DOS", "Network", "networking", "Novell Netware", "Novell Netware 4.11", "page", "Programming", "express", "Shorthand", "technical training", "telephone", "troubleshooting", "Typing", "Word Processing", "WordPerfect 5.1", "written"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

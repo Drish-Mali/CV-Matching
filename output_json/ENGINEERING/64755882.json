@@ -1,0 +1,168 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Engineering Officer",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Looking for opportunities to work in an research environment for creating solutions using digital systems at circuit as well as system level.",
+    "location": {
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Engineering Officer",
+      "url": "",
+      "startDate": "2014-07",
+      "endDate": "2015-06",
+      "summary": "",
+      "highlights": [
+        "Spearheaded a team of electricians and technicians to carry out preventive maintenance of equipment of LPG bottling plant.",
+        "Maintenance and calibration of equipment",
+        "Upkeep of electrical panels and control systems.",
+        "Maintenance of drive units, compressors, LPG pumps",
+        "Modified and developed various plant equipments to improve production line throughput."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Operations Officer",
+      "url": "",
+      "startDate": "2013-06",
+      "endDate": "2014-06",
+      "summary": "",
+      "highlights": [
+        "Oversaw the operations of LPG bottling plant production activities",
+        "Managed workforce on the production line"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Intern",
+      "url": "",
+      "startDate": "2012-06",
+      "endDate": "2012-07",
+      "summary": "",
+      "highlights": [
+        "Engaged in various automation and control system design",
+        "Interfacing of instruments with Controllers"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "North Carolina State University",
+      "url": "",
+      "area": "Electrical Engineering",
+      "studyType": "Master",
+      "startDate": "2013",
+      "endDate": "2017",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Netaji Subhas Institute Of Technology",
+      "url": "",
+      "area": "Instrumentation and Control Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2009",
+      "endDate": "2013",
+      "score": "78.34%",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Academic Merit Award",
+      "date": "2011-12",
+      "awarder": "Netaji Subhas Institute Of Technology",
+      "summary": ""
+    },
+    {
+      "title": "Academic Merit Award",
+      "date": "2012-13",
+      "awarder": "Netaji Subhas Institute Of Technology",
+      "summary": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Design Software",
+      "level": "",
+      "keywords": [
+        "LabVIEW",
+        "Synopsys Design Vision",
+        "Modelsim",
+        "Cadence Virtuoso"
+      ]
+    },
+    {
+      "name": "Programming Languages",
+      "level": "",
+      "keywords": [
+        "C/C++",
+        "Verilog"
+      ]
+    },
+    {
+      "name": "Operating Systems",
+      "level": "",
+      "keywords": [
+        "Windows",
+        "Linux",
+        "OSX"
+      ]
+    },
+    {
+      "name": "Equipment",
+      "level": "",
+      "keywords": [
+        "Oscilloscope",
+        "Spectrum Analyzer",
+        "Multimeter"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Programmable Logic Controller (PLC) Based Chain Conveyor Tripping System",
+      "startDate": "2014-12",
+      "endDate": "",
+      "description": "Designed a control loop which was interfaced with a Allen Bradely PLC controller to read the current readings of individual drive units and provide appropriate tripping signals as per the motor health.",
+      "highlights": [],
+      "url": ""
+    },
+    {
+      "name": "Infrared Sensor based telescopic boom tripping system",
+      "startDate": "2014-06",
+      "endDate": "",
+      "description": "IR sensor based intrinsically safe system that detects presence of objects in front of moving machinery and trips them instantly.",
+      "highlights": [],
+      "url": ""
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "publications": [
+    {
+      "name": "Virtual Instrumentation Approach to Neural Network Based Thermistor Linearization on Field Programmable Gate Array",
+      "publisher": "Experimental Techniques",
+      "releaseDate": "2013-01",
+      "url": "",
+      "summary": "K.P.S. Rana, N. Mittra, N. Pramanik , P. Dwivedi and P. Mahajan"
+    },
+    {
+      "name": "Some Applications of FPGA in Custom Waveform Generation and Triggering for Metrology",
+      "publisher": "8th International Conference on Advances in Metrology",
+      "releaseDate": "2013-02",
+      "url": "",
+      "summary": "K. P. S. Rana, Vineet Kumar, Neel Pramanik , Nishant Mitra, Sumit Kumar Shakya"
+    }
+  ],
+  "certificates": [],
+  "volunteer": []
+}

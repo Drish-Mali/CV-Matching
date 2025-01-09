@@ -1,0 +1,118 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Finance Supervisor",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Able to adapt and flexible enough to help manage changing priorities and maintain a high standard of work and accuracy in spite of changes. Reliable resource and highly valued team member within my department by providing assistance to managers, co-workers, FPDPs, interns and taking ownership of my responsibilities in order to meet deadlines and team goals.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Finance Supervisor",
+      "url": "",
+      "startDate": "2012-05-01",
+      "endDate": "Current",
+      "summary": "Develop and consolidate financial plans/forecasts for various business units. Supervise and manage an employee within the Finance Professional Development Program rotation. Prepare financial package of monthly business results for senior management review. Other responsibilities include Sox Testing, month-end reporting, balance sheet analysis etc.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Senior Mutual Fund Accountant",
+      "url": "",
+      "startDate": "2004-08-01",
+      "endDate": "2005-11-01",
+      "summary": "Promoted to senior level within a year. Responsibilities included preparing and analyzing financial statements and shareholder reports, assisting management with special projects, participating in Mentor Program etc.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Accounting/Finance Internship",
+      "url": "",
+      "startDate": "2002-06-01",
+      "endDate": "2003-03-01",
+      "summary": "Intern in Accounting Department at headquarters of Westfield Bank. Performed daily accounting routines, completed reconcilements, commercial loan audits and budgets etc.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Mount Union College",
+      "url": "",
+      "area": "Business Administration, Finance Concentration",
+      "studyType": "Bachelor of Arts",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Finance",
+      "level": "",
+      "keywords": [
+        "Financial Analyst",
+        "Budget",
+        "Forecasts",
+        "Sarbanes Oxley",
+        "Sarbanes-oxley (sox)",
+        "Sox",
+        "Testing",
+        "Marketing",
+        "Budgets",
+        "Finance",
+        "Financial Reporting",
+        "Month End Close",
+        "Therapeutic",
+        "Basis",
+        "Accounts With",
+        "Balance Sheet",
+        "Daily Sales",
+        "General Ledger",
+        "Inventory",
+        "Of Sales",
+        "Sales",
+        "Sales And",
+        "State Tax",
+        "Statistics",
+        "Filings",
+        "Financial Statements",
+        "Mentor",
+        "Accountant",
+        "Mutual Fund",
+        "Accounting",
+        "Audits",
+        "Commercial Loan",
+        "Daily Accounting",
+        "Lotus Notes",
+        "Microsoft Office",
+        "Ms Office",
+        "Outlook",
+        "Reconcilements",
+        "Sap",
+        "Subject Matter Expert",
+        "Tableau Software",
+        "Team Player"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

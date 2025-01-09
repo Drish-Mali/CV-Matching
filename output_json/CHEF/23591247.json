@@ -1,0 +1,131 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Chef / Operations Manager",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Focused Operations Manager successful in contract negotiation and process improvement. Leverages in-depth knowledge of industry trends and shifts to offer valuable insights on opportunities for new growth and expansion.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "",
+        "username": "",
+        "url": ""
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Chef",
+      "url": "",
+      "startDate": "2015-04",
+      "endDate": "Current",
+      "summary": "Cooking and Prepping food for guests. Daily inventory assignments providing friendly customer service.",
+      "highlights": [
+        "Accurate money handling",
+        "Strong creative vision",
+        "Verbal/written communication",
+        "Management skills",
+        "Hard-working Inventory control",
+        "Strong communication skills",
+        "Sound judgment",
+        "Adaptable",
+        "Computer-savvy",
+        "Creative",
+        "Calm under pressure",
+        "Team player",
+        "Complex problem solving"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Head Cashier",
+      "url": "",
+      "startDate": "2011-10",
+      "endDate": "2013-08",
+      "summary": "Provided customer service to customers. Handled daily money counts. Also, provided change to other cashiers."
+    },
+    {
+      "name": "Company Name",
+      "position": "Head Cashier",
+      "url": "",
+      "startDate": "2010-03",
+      "endDate": "2011-12",
+      "summary": "Provided a comfortable environment for customers; knowledge of movies and videos. Maintain inventory counts of merchandise and other products, daily cash counts."
+    }
+  ],
+  "education": [
+    {
+      "institution": "High School for Environmental Studies",
+      "url": "",
+      "area": "",
+      "studyType": "High School",
+      "startDate": "",
+      "endDate": "2008",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Kingsborough Community College",
+      "url": "",
+      "area": "Liberal Arts",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "General Skills",
+      "level": "",
+      "keywords": [
+        "Accurate money handling",
+        "Strong creative vision",
+        "Verbal/written communication",
+        "Management skills",
+        "Computer savvy",
+        "Calm under pressure",
+        "Team player",
+        "Complex problem solving"
+      ]
+    },
+    {
+      "name": "Special Skills",
+      "level": "",
+      "keywords": [
+        "Balance",
+        "Cashier",
+        "Cooking",
+        "Customer service",
+        "Delivery",
+        "Forklift Operator",
+        "Inventory",
+        "Microsoft Excel",
+        "Microsoft Word",
+        "Problem solving",
+        "Shipping",
+        "Video editing",
+        "Adobe Premiere"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "projects": [],
+  "volunteer": []
+}

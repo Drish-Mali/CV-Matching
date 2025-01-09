@@ -1,0 +1,115 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Line Chef/Expediter",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Chef with 12 years of experience cooking in high pace restaurant environments. Prior work as prep cook, line chef, and sous chef. Energetic culinary professional with a blend of creativity, passion for food and exceptional cooking skills. Works well as a dynamic leader in high-pressure settings.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Line Chef/Expediter",
+      "url": "",
+      "startDate": "2013-04-01",
+      "endDate": "Current",
+      "summary": "Led shifts while personally preparing food items and executing requests based on required specifications. Maintained smooth and timely operations in preparation and delivery of meals and kitchen sanitation.",
+      "highlights": [
+        "Properly labeled and stored all raw food ingredients"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Kitchen Manager",
+      "url": "",
+      "startDate": "2012-09-01",
+      "endDate": "2013-03-01",
+      "summary": "Maintained a skilled kitchen staff by properly coaching, counseling and disciplining employees.",
+      "highlights": [
+        "Instructed new staff in proper food preparation"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "East Jefferson High School",
+      "url": "",
+      "area": "",
+      "studyType": "High School Diploma",
+      "startDate": "",
+      "endDate": "2004",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Houston University",
+      "url": "",
+      "area": "Culinary and Restaurant Management",
+      "studyType": "Associate of Arts",
+      "startDate": "",
+      "endDate": "2006",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Delgado Community College",
+      "url": "",
+      "area": "Hospitality Management",
+      "studyType": "Associate of Arts",
+      "startDate": "",
+      "endDate": "2007",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Culinary Arts Certificate",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Chef",
+      "level": "Master",
+      "keywords": [
+        "coaching",
+        "cooking",
+        "counseling",
+        "customer satisfaction",
+        "delivery",
+        "hiring",
+        "pricing",
+        "quality",
+        "recruiting",
+        "safety",
+        "scheduling",
+        "supervising"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

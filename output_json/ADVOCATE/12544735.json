@@ -1,0 +1,118 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Patient Advocate",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Highly driven, organized and motivated Patient Advocate with over 7 years of experience in the healthcare field and customer relations. Skilled in providing compassionate, efficient patient care with a background in clinical settings. Experience in leading a team, new hire training, billing, claims, and records management.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Patient Advocate",
+      "url": "",
+      "startDate": "2016-01-01",
+      "endDate": "Current",
+      "summary": "Served as liaison between the patient and hospital to coordinate patient care. Provided patient and staff support to better facilitate communication. Referred clients to social service agencies such as home health and hospice. Worked on call for any emergent patient needs. Provided off-site visits at local hospitals to offer emotional support. Established patient and provider boundaries to ensure appropriate behavior.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Claims, Eligibility and Benefits Specialist III",
+      "url": "",
+      "startDate": "2015-05-01",
+      "endDate": "2015-12-01",
+      "summary": "Identified and resolved discrepancies with patient eligibility/insurance coverage. Assisted in maintaining and developing procedure manuals. Trained new hires in eligibility and benefit and claims processes. Aided in development of strategies for revenue cycle initiatives. Managed, updated, and executed claims processing, as well as assisted team members in adjudicating claims. Developed streamlined methods of standard operating procedures. Worked with patients to obtain summary plan descriptions and ensure proper and timely claim adjudication.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Certified Data Entry Pharmacy Technician",
+      "url": "",
+      "startDate": "2013-05-01",
+      "endDate": "2015-05-01",
+      "summary": "Work from Home. Carefully reviewed patient medical histories and diagnoses. Properly interpreted prescriptions, input written date, patient information, physician and ids, medication name and strength, correct and appropriate directions, quantities and dosage, additional patient allergies and diagnoses. Entered prescriptions into the EPost system efficiently and without errors. Researched CPT and ICD-9 coding discrepancies for compliance and reimbursement accuracy. Maintained knowledge of proper procedures, medical updates, changes in State and Federal laws.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Lead Certified Pharmacy Technician",
+      "url": "",
+      "startDate": "2009-09-01",
+      "endDate": "2013-05-01",
+      "summary": "Interviewed and trained new technicians, greeted patients, obtained personal information and medical history, interpreted and typed prescriptions accurately, dispensed drugs, released to patients. Retained knowledge of drug names and their generics, as well as knowing proper doses, sig codes, quantities and drug classes. Responsible for using computer system to type prescriptions, abide by HIPAA and other State and Federal regulations, interacting with patients, doctors and insurance companies, carried out many tasks necessary within the pharmacy. Created work and rotation schedules, filed 709 and other forms, handled medturn, supply orders, etc.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Grand Canyon University",
+      "url": "",
+      "area": "Health Care Management",
+      "studyType": "Master",
+      "startDate": "2013-01-01",
+      "endDate": "2015-01-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Arizona State University",
+      "url": "",
+      "area": "Family and Human Development",
+      "studyType": "Bachelor",
+      "startDate": "2009-01-01",
+      "endDate": "2011-01-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Patient Advocacy",
+      "level": "Master",
+      "keywords": [
+        "allergies",
+        "Attention to detail",
+        "CPT",
+        "clients",
+        "emotional support",
+        "forms",
+        "home health",
+        "hospice",
+        "ICD-9",
+        "ids",
+        "insurance",
+        "leadership",
+        "law",
+        "Medical terminology",
+        "coordinate patient care",
+        "processes",
+        "coding",
+        "Quality assurance",
+        "Safety",
+        "Self-motivated",
+        "team player",
+        "type",
+        "written"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

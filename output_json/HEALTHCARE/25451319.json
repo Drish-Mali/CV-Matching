@@ -1,0 +1,113 @@
+{
+  "basics": {
+    "name": "N/A",
+    "label": "Operations Manager",
+    "image": "",
+    "email": "N/A",
+    "phone": "N/A",
+    "url": "N/A",
+    "summary": "Excellent time management abilities with sound relationship and building skills. Able to manage effectively at all levels, strong leadership skills and strong financial/analytical understandings.",
+    "location": {
+      "address": "N/A",
+      "postalCode": "N/A",
+      "city": "N/A",
+      "countryCode": "N/A",
+      "region": "N/A"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Operations Manager",
+      "url": "N/A",
+      "startDate": "03/2004",
+      "endDate": "02/2008",
+      "summary": "Performed all business responsibilities for the Rehab Department of a Physician group practice. Program development, business growth, and customer service.",
+      "highlights": ["Developed and managed monthly and yearly budgets", "Implemented Total Quality Management (TQM)", "Managed multiple sites Program development", "Hire and terminations of all employees"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Healthcare Business Director",
+      "url": "N/A",
+      "startDate": "07/2000",
+      "endDate": "02/2004",
+      "summary": "Implemented business plans and growth potential through expanding outreach clinics and outpatient facilities.",
+      "highlights": ["Increased awareness of hospital to outlying population through free clinics and community education"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Business Director",
+      "url": "N/A",
+      "startDate": "03/1993",
+      "endDate": "07/2000",
+      "summary": "Performed business duties to increase revenue through higher patient referrals by means of marketing strategies, decreased debt and increased overall profit so company could re-sell clinic for higher profit.",
+      "highlights": ["Developed a system of staff communication that ensured proper implementation of treatment plans and comprehensive patient care"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Business Manager",
+      "url": "N/A",
+      "startDate": "04/1989",
+      "endDate": "02/1993",
+      "summary": "Led the planning and achievement of goals and objectives consistent with the agency mission and philosophy.",
+      "highlights": ["Established and maintained systems that safely met residents' needs"]
+    },
+    {
+      "name": "Company Name",
+      "position": "staff/Business office",
+      "url": "N/A",
+      "startDate": "06/1986",
+      "endDate": "02/1989",
+      "summary": "Introduced, negotiated and implemented new projects to expand scope of engagement.",
+      "highlights": ["Established standards for selection, promotion and termination of staff"]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Greece Historical Society",
+      "position": "Board Member",
+      "url": "",
+      "startDate": "N/A",
+      "endDate": "N/A",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of South Alabama",
+      "url": "N/A",
+      "area": "Business Management/Healthcare",
+      "studyType": "Bachelor of Science",
+      "startDate": "1986",
+      "endDate": "1986",
+      "score": "N/A",
+      "courses": ["N/A"]
+    },
+    {
+      "institution": "Monroe Community College",
+      "url": "N/A",
+      "area": "Human Services",
+      "studyType": "Associate of Applied Science",
+      "startDate": "1984",
+      "endDate": "1984",
+      "score": "N/A",
+      "courses": ["N/A"]
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Leadership skills",
+      "level": "Advanced",
+      "keywords": ["Budgeting proficiency", "Strategic planning capability", "Accomplished leader", "Analytical thinker", "Independent judgment and decision making", "Quality improvement competency", "Promotes positive behavior"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

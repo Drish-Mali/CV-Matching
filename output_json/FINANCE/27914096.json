@@ -1,0 +1,113 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Finance Manager",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Efficient, dedicated, hard-working Financial Manager skilled at consistently meeting strict deadlines, paying high attention to detail and effectiveness when reporting to senior management. Extensive experience in budgeting, forecasting, strategic planning and analysis.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "",
+        "username": "",
+        "url": ""
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Finance Manager",
+      "url": "",
+      "startDate": "2003-03",
+      "endDate": "Current",
+      "summary": "Serving as a business and financial advisor to a portfolio of ten trade show teams ...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Portfolio Administrator",
+      "url": "",
+      "startDate": "2000-06",
+      "endDate": "2001-06",
+      "summary": "Managed, tracked and ensured the integrity of financial data for over 70 portfolio companies...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Staff Accountant",
+      "url": "",
+      "startDate": "1998-10",
+      "endDate": "2000-06",
+      "summary": "Prepared monthly, quarterly and yearly financial statements for consolidation process...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Advanced Staff Auditor",
+      "url": "",
+      "startDate": "1996-10",
+      "endDate": "1998-10",
+      "summary": "Performed financial statement audits for high-tech, food and beverage, financial services...",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Massachusetts",
+      "url": "",
+      "area": "Accounting",
+      "studyType": "BBA",
+      "startDate": "",
+      "endDate": "1996",
+      "score": "3.3",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Finance and Accounting",
+      "level": "",
+      "keywords": [
+        "Financial statement analysis",
+        "budgeting",
+        "forecasting",
+        "strategic planning",
+        "financial modeling",
+        "strong communication",
+        "interpersonal and organizational skills"
+      ]
+    },
+    {
+      "name": "Computer",
+      "level": "",
+      "keywords": [
+        "Microsoft Access",
+        "Excel",
+        "MicroSoft Office",
+        "Microsoft Outlook",
+        "Powerpoint",
+        "Microsoft Word",
+        "Onyx",
+        "PeopleSoft",
+        "Citrix"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

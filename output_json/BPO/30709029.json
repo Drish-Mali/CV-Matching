@@ -1,0 +1,145 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Realtor",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Motivated real estate professional with 16 years of experience. Versed in all aspects of real estate, time management, negotiation, conflict resolution, property management, asset and portfolio management and administrative functions.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Realtor",
+      "url": "",
+      "startDate": "10/1999",
+      "endDate": "Current",
+      "summary": "Manage the entire process of selling real estate. Minimized losses on foreclosures through analysis, management, marketing and liquidation of real estate owned properties by clients and investors. Evaluate economics of the property (including BPO and appraisal analysis) for month-end figures and the best marketing disposition plans. Prepare listings, sales contracts, counter-offers for negotiation with the banks",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "In-House Realtor",
+      "url": "",
+      "startDate": "04/2014",
+      "endDate": "12/2015",
+      "summary": "Buyer's Agent for Restore Utah. Successfully negotiated and closed 55 MLS transactions during my one year contract. Identified long term value in properties. Prepared documents such as representation contracts, purchase contracts and estimated settlement statements. Evaluated properties, established values, and developed marketing strategies that maximized sales proceeds & reduce marketing time. Monitored multiple databases to keep track of all company inventory.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Sr. REO Asset Manager",
+      "url": "",
+      "startDate": "07/2007",
+      "endDate": "06/2011",
+      "summary": "Effectively managed the marketing of REO assets according to a specific time lines while focusing on lowering loss severity. Monitored the eviction process & negotiated cash-for-keys with occupants. Evaluated properties, established values, and developed marketing strategies that maximized sales proceeds & reduce marketing time. Supervised brokers to ensure that properties were being marketed according to client standards. Managed third party vendors and obtained bids, overseeing repairs and maintaining properties. Negotiated contracts based on the best interests of clients. Met all monthly and quarterly sales goals.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "DW Moore",
+      "url": "",
+      "area": "Title and Escrow",
+      "studyType": "Escrow License",
+      "startDate": "2003",
+      "endDate": "2003",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Stringham Real Estate School",
+      "url": "",
+      "area": "Real Estate",
+      "studyType": "Real Estate License",
+      "startDate": "1999",
+      "endDate": "1999",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Asset Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Administrative",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Conflict Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Contract Negotiation",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Digital Photography",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "File Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Marketing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Office",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Organizational Skills",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Problem Solving",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Property Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Real Estate and Tax Research",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Sales Software: Sales Force, Social Media",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

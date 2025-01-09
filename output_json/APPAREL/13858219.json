@@ -1,0 +1,119 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Assistant Manager",
+    "email": "",
+    "phone": "",
+    "summary": "General Associates with emphasis in Business Admin. and Communications. Current 3.0 GPA. Volunteer Junior Achievement teacher Grades 1st and 3rd 3 yrs. as a volunteer in special needs classroom. Routinely helped as many as 350 customers each day in a high-volume retail Store. Consistently exceeding daily sales targets with an average of $3000 in sales each day. Over 13 years in retail/customer service. Has managed over 13 people at one time.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "",
+      "region": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Assistant Manager",
+      "startDate": "2015-02-01",
+      "endDate": "Current",
+      "summary": "Closing and opening store and all daily operations. Loss prevention. Banking and merchandising."
+    },
+    {
+      "name": "Company Name",
+      "position": "Assistant Manager",
+      "startDate": "2013-01-01",
+      "endDate": "2015-02-01",
+      "summary": "Communicated information to customers about product quality, value and style. Communicated merchandise needs and issues to appropriate supervisors in a timely fashion. Completed floor replenishment to guarantee size availability and promote customer satisfaction."
+    },
+    {
+      "name": "Company Name",
+      "position": "Store Manager",
+      "startDate": "2011-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Educated customers on product and service offerings. Offered exceptional customer service to differentiate and promote the company brand. Communicated store policy violations to the leadership team in a timely manner."
+    },
+    {
+      "name": "Company Name",
+      "position": "Swing Manager",
+      "startDate": "2008-01-01",
+      "endDate": "2011-01-01",
+      "summary": "Worked hands on with H.S Students in their training and development to manager trainees. Recruited, hired, developed and retained retail talent for the company. Held each team member accountable for achieving brand and performance goals. Offered direction and gave constructive feedback to motivate team members."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Siena Height University",
+      "area": "Communications",
+      "studyType": "BA",
+      "startDate": "",
+      "endDate": "",
+      "courses": []
+    },
+    {
+      "institution": "Lansing Community College",
+      "area": "General",
+      "studyType": "General Associates",
+      "startDate": "",
+      "endDate": "",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Banking",
+      "level": ""
+    },
+    {
+      "name": "Closing",
+      "level": ""
+    },
+    {
+      "name": "Customer Satisfaction",
+      "level": ""
+    },
+    {
+      "name": "Customer Service",
+      "level": ""
+    },
+    {
+      "name": "Direction",
+      "level": ""
+    },
+    {
+      "name": "Fashion",
+      "level": ""
+    },
+    {
+      "name": "Leadership",
+      "level": ""
+    },
+    {
+      "name": "Loss Prevention",
+      "level": ""
+    },
+    {
+      "name": "Merchandising",
+      "level": ""
+    },
+    {
+      "name": "Quality",
+      "level": ""
+    },
+    {
+      "name": "Retail",
+      "level": ""
+    }
+  ],
+  "volunteer": [],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

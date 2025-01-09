@@ -1,0 +1,116 @@
+{
+  "basics": {
+    "name": "John Doe",
+    "label": "Intern",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "An intern with experience in various fields including legal, documentation, and staff training.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "VE",
+      "region": "Venezuela"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Intern",
+      "url": "",
+      "startDate": "2014-06-01",
+      "endDate": "2015-08-01",
+      "summary": "Assisted lawyers in their cases paperwork and legal documents. Transcribed court notes and minutes, managed schedules. Attended to local courts with lawyers to evaluate legal proceedings. Performed deli servings, event organization, inventory control, and new staff training.",
+      "highlights": [
+        "Microsoft Office",
+        "Stata"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Boston University",
+      "url": "",
+      "area": "Economics and Political Science",
+      "studyType": "Bachelor",
+      "startDate": "2014-01-01",
+      "endDate": "Present",
+      "score": "3.3",
+      "courses": []
+    },
+    {
+      "institution": "Colegio Moral y Luces",
+      "url": "",
+      "area": "",
+      "studyType": "High School",
+      "startDate": "",
+      "endDate": "2013-07-01",
+      "score": "16.18/20",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Computer Skills",
+      "level": "Intermediate",
+      "keywords": [
+        "Microsoft Office",
+        "Stata"
+      ]
+    },
+    {
+      "name": "Legal Skills",
+      "level": "Intermediate",
+      "keywords": [
+        "Documentation",
+        "Staff Training",
+        "Legal Documents",
+        "Notes",
+        "Inventory Control"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Hebrew",
+      "fluency": "Basic"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Piano playing",
+      "keywords": []
+    },
+    {
+      "name": "Sports",
+      "keywords": [
+        "High School's varsity team player",
+        "Captain of the soccer team",
+        "FRATELSA sport club player"
+      ]
+    },
+    {
+      "name": "Mathematics Olympics",
+      "keywords": [
+        "Represented school at National Math Olympics for 5 years"
+      ]
+    }
+  ],
+  "references": [],
+  "projects": []
+}

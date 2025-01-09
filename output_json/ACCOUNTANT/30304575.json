@@ -1,0 +1,123 @@
+{
+  "basics": {
+    "name": "Abby Bello",
+    "label": "Accountant II",
+    "email": "",
+    "phone": "",
+    "summary": "Multi-faceted Financial Professional with solid and progressive experience in all facets of accounting and financial management.",
+    "location": {
+      "city": "",
+      "countryCode": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Accountant II",
+      "startdate": "2014-11",
+      "endDate": "2016-10",
+      "summary": "Performed month-end General Ledger close and prepared manual journal entries. Prepared balance sheet accounts reconciliation and roll forward schedules."
+    },
+    {
+      "name": "Company Name",
+      "position": "Senior Accountant (TEMP)",
+      "startdate": "2013-11",
+      "endDate": "2013-12",
+      "summary": "Assisted in the on-going development of current accounting and reporting functions."
+    },
+    {
+      "name": "Company Name",
+      "position": "Accountant (TEMP)",
+      "startdate": "2012-02",
+      "endDate": "2013-11",
+      "summary": "Maintained responsibility for accounting and financial management associated with general ledger activity, cash flow management, and financial reporting."
+    },
+    {
+      "name": "Company Name",
+      "position": "Staff Accountant (TEMP)",
+      "startdate": "2011-12",
+      "endDate": "2012-02",
+      "summary": "Charged with handling general ledger reviews, bank reconciliations, and month end close."
+    },
+    {
+      "name": "Company Name",
+      "position": "Junior Accountant (TEMP)",
+      "startdate": "2010-08",
+      "endDate": "2011-12",
+      "summary": "Heavily performed billing duties Led efforts to track all cash flows."
+    },
+    {
+      "name": "Company Name",
+      "position": "Eqquity Research Analyst (TEMP)",
+      "startdate": "2009-09",
+      "endDate": "2010-07",
+      "summary": "Eliminated financial statement discrepancies by making sure items were accurately entered and balanced."
+    },
+    {
+      "name": "Company Name",
+      "position": "Bookkeeper (TEMP)",
+      "startdate": "2009-06",
+      "endDate": "2009-09",
+      "summary": "Performed accounting and finance duties associated with accounts receivable and accounts payable"
+    },
+    {
+      "name": "Company Name",
+      "position": "Operation Budget (INTERN)",
+      "startdate": "2008-04",
+      "endDate": "2009-05",
+      "summary": "Prepared weekly analytical Pay-Hour report for over 10,000 Bus Operator and Bus Maintenance employees"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Phoenix",
+      "area": "Master of Business Administration",
+      "studyType": "Master",
+      "startDate": "",
+      "endDate": "2012",
+      "score": "",
+      "courses": [ ]
+    },
+    {
+      "institution": "City University of New York",
+      "area": "Accounting Finance & Economics",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "2009",
+      "score": "",
+      "courses": [ ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Accounting and Financial Reporting",
+      "level": "Expert",
+      "keywords": [
+        "Accounting", 
+        "Financial Reporting", 
+        "SEC & GAAP Compliances", 
+        "Cash Flow Management and Financial Statement Analysis", 
+        "Accruals", 
+        "GL Activity", 
+        "Month End Close", 
+        "Budget Management", 
+        "Microsoft Excel", 
+        "QuickBooks Pro", 
+        "Mas 90", 
+        "Lawson", 
+        "PeopleSoft", 
+        "Axiom", 
+        "Bloomberg Terminal"
+      ]
+    }
+  ],
+  "languages": [ ],
+  "interests": [ ],
+  "references": [ ],
+  "projects": [ ],
+  "volunteer": [ ],
+  "publications": [ ],
+  "awards": [ ],
+  "certificates": [ ]
+}

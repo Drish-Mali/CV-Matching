@@ -1,0 +1,107 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Shelter Advocate",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Dynamic shelter advocate with years of clerical experience that is great with communication skills and confidentiality. Very experienced with computers and a tremendous amount of office skills.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Lead Teller",
+      "url": "",
+      "startDate": "2012-06",
+      "endDate": "2013-08",
+      "summary": "Established new customer accounts including checking, savings..",
+      "highlights": [
+        "Promoted to Lead Teller after 9 months of employment.",
+        "Balanced daily cash deposits and bank vault inventory with a zero error rate."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Municipal Court Clerk",
+      "url": "",
+      "startDate": "2014-01",
+      "endDate": "2014-03",
+      "summary": "Processed summons, subpoenas, appeals and motions.",
+      "highlights": [
+        "Processed and distributed invoices to bill clients.",
+        "Organized and maintained law libraries, documents and case files."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Shelter Advocate",
+      "url": "",
+      "startDate": "2014-07",
+      "endDate": "2015-08",
+      "summary": "Tested clients for drug use and referred them to other community resources.",
+      "highlights": [
+        "Promoted healthy habits and practices in outreach materials and presentations.",
+        "Conducted outreach, advocacy and rehabilitative services."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Jefferson City High School",
+      "url": "",
+      "area": "General",
+      "studyType": "High School Diploma",
+      "startDate": "",
+      "endDate": "2000",
+      "score": "3.4",
+      "courses": [
+        "Coursework in Business, Communications and Advertising",
+        "Coursework in Accounting 1 & 2",
+        "Coursework includes Human Computer Interaction",
+        "Coursework in Technical and Professional Writing"
+      ]
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Office Skills",
+      "level": "Master",
+      "keywords": [
+        "Microsoft Office Suite",
+        "Crisis intervention and resolution",
+        "Customer service",
+        "Data entry",
+        "Fundraising",
+        "Event planning and coordination",
+        "10 key",
+        "Adding machine",
+        "Cash handling",
+        "Conflict resolution",
+        "Counseling",
+        "Multitasking",
+        "Organizing",
+        "Personnel",
+        "Public relations",
+        "Record keeping",
+        "Researching"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

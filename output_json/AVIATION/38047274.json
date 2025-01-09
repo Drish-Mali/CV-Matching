@@ -1,0 +1,97 @@
+{
+  "basics": {
+    "name": "Not specified",
+    "label": "Planner/Scheduler",
+    "image": "",
+    "email": "Not specified",
+    "phone": "Not specified",
+    "url": "Not specified",
+    "summary": "Highly motivated, effective communicator and problem solver. Works well with team members and groups from diverse backgrounds. Pursuing an exciting new career in the health field.",
+    "location": {
+      "address": "Not specified",
+      "postalCode": "Not specified",
+      "city": "Not specified",
+      "countryCode": "Not specified",
+      "region": "Not specified"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Planner/Scheduler",
+      "url": "Not specified",
+      "startDate": "2011-11-01",
+      "endDate": "2015-01-01",
+      "summary": "Determined schedules, sequences, and assignments for work activities, based on work priority, quantity of equipment, and skill of personnel. Monitored employees' work levels and review work performance.",
+      "highlights": [
+        "Achieved Sailor of the year for NAS Oceana Virginia Beach, Va 1999",
+        "Achieved 4 Naval Achievement Medals",
+        "Advanced from Field work for Chevron Coalinga to Maintenance Planner in under 1 year."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Maintenance Head operator",
+      "url": "Not specified",
+      "startDate": "2010-10-01",
+      "endDate": "2011-11-01",
+      "summary": "Used tools ranging from common hand and power tools, such as hammers, hoists, saws, drills, and wrenches, to precision measuring instruments and electrical and electronic testing devices.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Aviation Machinist Mechanic",
+      "url": "Not specified",
+      "startDate": "1990-12-01",
+      "endDate": "2006-12-01",
+      "summary": "Implemented airfield safety procedures to ensure a safe operating environment for personnel and aircraft operation. Monitored the arrival, parking, refueling, loading, and departure of all aircraft.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "SOUTH ALBANY HIGH SCHOOL",
+      "url": "Not specified",
+      "area": "Not specified",
+      "studyType": "High School Diploma",
+      "startDate": "Not specified",
+      "endDate": "1989-06-01",
+      "score": "Not specified",
+      "courses": []
+    },
+    {
+      "institution": "Westhills College",
+      "url": "Not specified",
+      "area": "Certified Nurse Assistant",
+      "studyType": "Technical Training",
+      "startDate": "Not specified",
+      "endDate": "Not specified",
+      "score": "Not specified",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "skills": [
+    {
+      "name": "Certified Nurse Assistant",
+      "level": "Certified",
+      "keywords": []
+    },
+    {
+      "name": "Green Belt for Lean Sigma",
+      "level": "Certified",
+      "keywords": []
+    },
+    {
+      "name": "Health Care provider CPR qualified",
+      "level": "Qualified",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

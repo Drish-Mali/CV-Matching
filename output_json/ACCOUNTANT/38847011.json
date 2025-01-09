@@ -1,0 +1,101 @@
+{
+  "basics": {
+    "name": "N/A",
+    "label": "Staff Accountant",
+    "image": "",
+    "email": "N/A",
+    "phone": "N/A",
+    "url": "N/A",
+    "summary": "To gain payroll skills",
+    "location": {
+      "address": "N/A",
+      "postalCode": "N/A",
+      "city": "N/A",
+      "countryCode": "N/A",
+      "region": "N/A"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Staff Accountant",
+      "url": "N/A",
+      "startDate": "2014-08-01",
+      "endDate": "Current",
+      "summary": "Process times sheets with the use of the Kronos timekeeping system for all employees of the schools assigned.",
+      "highlights": [
+        "Successfully transitioned company from use of paper timesheets to an automated payroll system within six months.",
+        "Worked with human resources to develop streamlined way to track paid time off.",
+        "Simplified payroll processing procedure to increase department productivity by 25%."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Payroll Administrator",
+      "url": "N/A",
+      "startDate": "2009-07-01",
+      "endDate": "2014-01-01",
+      "summary": "Updated payroll records; including changes in employee tax exemptions, direct deposit, benefit deductions, and applicable garnishments.",
+      "highlights": [
+        "Provided timesheet training and granted access credentials for all new hires.",
+        "Maintained payroll guidelines by writing and updating policies and procedures."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "Position": " Payroll Specialist",
+      "startDate": "2001-03-01",
+      "endDate": "2005-03-01",
+      "url": "N/A",
+      "summary": "Developed and processed confidential payroll documentation for approximately 300 employees located throughout the Southeast Region.",
+      "highlights": [
+        "Acted as Point of Contact for ADP and eTime systems for the Blood Services Division of the Alabama Gulf Coast Region.",
+        "Conducted a study which resulted in improved accuracy of timesheet input, enhanced actual payroll output, and streamlined the payroll timesheet process which yielded greater efficiency."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Phoenix",
+      "url": "N/A",
+      "area": "N/A",
+      "studyType": "MBA",
+      "startDate": "N/A",
+      "endDate": "2010",
+      "score": "N/A",
+      "courses": []
+    },
+    {
+      "institution": "Alabama A&M University",
+      "area": "Business Adminstration",
+      "studyType": "B.S",
+      "startDate": "N/A",
+      "endDate": "1992",
+      "score": "N/A",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "accounting software",
+      "level": "N/A",
+      "keywords": ["Deltek Time and Expense 8.1", "Costpoint 6.1", "ADP Enterprise HR 5.0", "ADP 5.30", "eTime 3A", "Ceridian", "SAP Equity Edge", "Acuity 4.10", "Kronos", "Nextgen"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "affiliations": [
+    {
+      "name": "American Payroll Association",
+      "role": "Member",
+      "url": "N/A"
+    }
+  ]
+}

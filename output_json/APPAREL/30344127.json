@@ -1,0 +1,159 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Senior Materials Analyst",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Requirements for this position include: Bachelor's Degree in Business, Management, or related field Minimum 5 years' directly relevant work or related experience.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": [
+    ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Senior Materials Analyst",
+      "url": "",
+      "startDate": "11/2014",
+      "endDate": "Present",
+      "summary": "Analysis, ideation, information presentation to the Materials Leadership team.",
+      "highlights": [
+        "Materials Analyst",
+        "Visibility to MLT on vendor key performance indicator reports."
+      ]
+    },
+	{
+      "name": "Nike",
+      "position": "Apparel and Equipment Product Integrity - Quality Analyst",
+      "url": "",
+      "startDate": "04/2010",
+      "endDate": "11/2014",
+      "summary": "Work cross-functionally with various Nike teams to maximize the reach and impact of global quality data.",
+      "highlights": [
+        "Led an initiative project for Product Integrity."
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Nike Materials Library",
+      "position": "Volunteer",
+      "url": "",
+      "startDate": "2011",
+      "endDate": "2013",
+      "summary": "",
+      "highlights": [
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Colorado School of Mines",
+      "url": "",
+      "area": "Metallurgy and Materials Engineering",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "2007",
+      "score": "",
+      "courses": [
+        ""
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Key to the City of Montrose",
+      "date": "1999",
+      "awarder": "Montrose City Council",
+      "summary": "Awarded key to the City of Montrose"
+    }
+  ],
+  "certificates": [
+    
+  ],
+  "publications": [
+    
+  ],
+  "skills": [
+    {
+      "name": "Materials Analyst",
+      "level": "",
+      "keywords": [
+        "AIA",
+		"Alpha",
+		"Analyst",
+		"Billing",
+		"Brio",
+		"Charts",
+		"Continuous Improvement",
+		"Contracts",
+		"Council",
+		"Experiments",
+		"Focus",
+		"Drawing",
+		"Hyperion",
+		"Internal Audits",
+		"ISO",
+		"Leadership",
+		"Lean Manufacturing",
+		"Director",
+		"Manufacturing Processes",
+		"Mapper",
+		"Materials",
+		"Mechanical",
+		"Excel",
+		"Microsoft Office",
+		"Outlook",
+		"PowerPoint",
+		"SharePoint",
+		"Word",
+		"PDM",
+		"Pricing",
+		"Processes",
+		"Improve Processes",
+		"Process Improvement",
+		"Quality",
+		"Reporting",
+		"Sales",
+		"Six Sigma",
+		"SPC",
+		"Statistics",
+		"Tableau",
+		"Validation",
+		"x-ray"
+      ]
+    }
+  ],
+  "languages": [
+    
+  ],
+  "interests": [
+    {
+      "name": "Sports Activities",
+      "keywords": [
+        "Holiday Half Marathon, 2011",
+		"Nike Women's Full Marathon, 2011",
+		"Hood to Coast team T.E.A.M., 2011",
+		"Fueled by Fine Wine Half Marathon, 2011",
+		"Lacamas Lake Half Marathon, 2010",
+		"National Breast Cancer Half Marathon, 2010",
+		"Coed Kickball and Softball",
+		"2010 - 2011",
+		"Spokane Half Marathon, 2009",
+		"Bloomsday, 2008 - 2010"
+      ]
+    }
+  ],
+  "references": [
+  ],
+  "projects": [
+  ]
+}

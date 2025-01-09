@@ -1,0 +1,72 @@
+{
+  "basics": {
+    "name": "Name not provided",
+    "label": "FINANCE OFFICER",
+    "email": "Email not provided",
+    "phone": "Phone number not provided",
+    "summary": "To attain a full-time position in the accounting and finance field where I can utilize the concepts I have learned and the experience I have gained to add value to the company.",
+    "location": {
+      "address": "Address not provided",
+      "postalCode": "Postal Code not provided",
+      "city": "City not provided",
+      "countryCode": "Country Code not provided",
+      "region": "Region not provided"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Finance Officer",
+      "startDate": "1997-01-01",
+      "endDate": "2014-04-01",
+      "summary": "Managed working funds of the office.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Tourism Assistant",
+      "startDate": "1994-01-01",
+      "endDate": "1997-01-01",
+      "summary": "Handled accounting and financial reports.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Finance Officer and Acting BIR Representative",
+      "startDate": "1985-06-01",
+      "endDate": "1993-12-31",
+      "summary": "Managed Consulate funds averaging $600,000 per month.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Account Examiner",
+      "startDate": "1980-01-01",
+      "endDate": "1985-01-01",
+      "summary": "Examined financial reports of Foreign Service posts such as New York, Stockholm, Pakistan and San Francisco.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Batangas (formerly Western Philippine Colleges)",
+      "studyType": "Bachelor of Science",
+      "area": "Commerce Accounting",
+      "startDate": "Not provided",
+      "endDate": "1975-01-01",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Accounting",
+      "level": "Expert",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

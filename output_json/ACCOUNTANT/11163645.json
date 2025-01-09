@@ -1,0 +1,114 @@
+{
+  "basics": {
+    "name": "Gail L. Lugo",
+    "label": "Accountant",
+    "email": "",
+    "phone": "864-472-709",
+    "summary": "To obtain a position in a fast-paced business office environment, demanding a strong organizational, technical, and interpersonal position utilizing my skills and attributes.",
+    "location": {
+      "city": "City",
+      "countryCode": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Accountant",
+      "startDate": "2011-01",
+      "endDate": "2015-11",
+      "summary": "Processed accounts receivables payments received by ACH, Lockbox, Credit Card and Checks. Maintained all banking activity. Documented all loan and other payments to the proper G/L Accounts. Review and maintain all positive pay processing with the bank. Reviewed and processed accounts payables reports. Processed all accounts payables by check, domestic and international wires, ACH, and credit card. Reconcile all bank statements. Maintained all credit card activity for all credit card holders, documented transactions to the proper G/L Accounts. Calculated and processed all Sales quarterly commission reports. Reviewed and completed all credit checks and reference checks on new customers. Maintained and filed the quarterly reports for the Job Development Credit with the State of South Carolina. Ordered passports and Visa's for international travel."
+    },
+    {
+      "name": "Company Name",
+      "position": "Accounts Receivable Clerk",
+      "startDate": "2008-01",
+      "endDate": "2010-01",
+      "summary": "Performed data entry. Processed accounts receivable payments. Reconciled delivery driver's cash and checks with daily invoices. Corresponded with customers through email and phone calls on overdue invoices. Sent bi-weekly and monthly statements. Created and maintained monthly inventory depletion and sales reports to suppliers. Balanced and solved problems with customer's accounts. Filed customer and suppliers invoices. Ran daily trial balance. Ran the end of day closing reports."
+    },
+    {
+      "name": "Company Name",
+      "position": "Commercial Auto Underwriter",
+      "startDate": "2004-01",
+      "endDate": "2006-01",
+      "summary": "Processed new business commercial auto applications and issued endorsements. Performed data entry, reviewed applications, loss runs and driving records. Provided clear and consistent written and verbal communications with customers/brokers."
+    },
+    {
+      "name": "Company Name",
+      "position": "Personal Auto Underwriter",
+      "startDate": "2001-01",
+      "endDate": "2004-01",
+      "summary": "Processed new business, renewals and endorsements. Performed data entry, reviewed applications, loss runs and driving records. Processed account receivable premium checks for insurance premiums. Consistently resolved and answered customer concerns and questions by properly and promptly reviewing policies, endorsements and premium payments."
+    },
+    {
+      "name": "Company Name",
+      "position": "Claims Examiner",
+      "startDate": "1983-01",
+      "endDate": "2001-01",
+      "summary": "Trained coworkers on multiple tasks and administrative functions. Reviewed medical records and made decisions regarding disability payments. Performed data entry. Created, designed and maintained various insurance documents which complied with Truth and Lending regulations. Responded to and resolved all customer inquiries via telecommunications and written correspondence. Developed and maintained measures of self-directed team performance which improved workflow. Consistently exceeded company goal of required number of paid claims per hour. Performed journal entries and ledger postings. Reconciled bank statements, budget accounts, and accounts receivable/payable records. Rapidly promoted from Level I to Level III within a one-year period due to excellent work performance."
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Martinez Adult Education, Business Training Center",
+      "area": "Computer Applications Specialist Certificate Program ",
+      "studyType": "Certificate",
+      "startDate": "2008",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Accounting",
+      "level": "Advanced",
+      "keywords": [
+        "accounts payables",
+        "accounts receivables",
+        "Accounts Payable",
+        "Accounts Receivable",
+        "administrative functions",
+        "trial balance",
+        "banking",
+        "budget",
+        "bi",
+        "closing",
+        "Computer Applications",
+        "Credit",
+        "clients",
+        "Customer Service",
+        "data entry",
+        "delivery",
+        "driving",
+        "email",
+        "insurance",
+        "inventory",
+        "ledger",
+        "Access",
+        "Excel",
+        "Outlook",
+        "PowerPoint",
+        "Word",
+        "mortgage loan",
+        "Enterprise",
+        "policies",
+        "QuickBooks",
+        "Sales",
+        "sales reports",
+        "telecommunications",
+        "phone",
+        "workflow",
+        "written"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

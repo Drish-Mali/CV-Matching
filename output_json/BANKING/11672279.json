@@ -1,0 +1,127 @@
+{
+  "basics": {
+    "name": "Not Provided",
+    "label": "Assistant Vice President",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Assistant Vice President",
+      "url": "",
+      "startDate": "2013-02-01",
+      "endDate": "Present",
+      "summary": "Managed various banking operations, training, and documentation creation.",
+      "highlights": [
+        "Oversaw the domestic migration of the Post Trade Confirmation function",
+        "Managed a large global in-sourcing project",
+        "Provided Portfolio Management Support"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Middle Office Analyst",
+      "url": "",
+      "startDate": "2006-05-01",
+      "endDate": "2013-02-01",
+      "summary": "Performed client analysis, created reports, and supported in various departmental initiatives.",
+      "highlights": [
+        "Executed Credit Rapid Exposure Drill (RED)",
+        "Executed risk analysis on cash flow breaks",
+        "Provided operational support and analysis"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Project Analyst",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Developed Business Process Models and coordinated UAT testing.",
+      "highlights": [
+        "Coordinated a dynamic UAT testing plan",
+        "Managed the 'Air Traffic Control' function",
+        "Created forecast models and project plans"
+      ]     
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Greater Life Christian Center",
+      "position": "Treasurer /Trustee",
+      "url": "",
+      "startDate": "2012-01-01",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "organization": "JPMorgan Recruiting Team for University of Maryland College Park",
+      "position": "Co-Captain",
+      "url": "",
+      "startDate": "2007-08-01",
+      "endDate": "2012-02-01",
+      "summary": "Managed the End to End recruiting and hiring process at Univ. of MD for both full time analyst and interns.",
+      "highlights": []
+    },
+    {
+      "organization": "Philadelphia Youth Network (PYN)",
+      "position": "Mentor & Seminar Facilitator",
+      "url": "",
+      "startDate": "2005-06-01",
+      "endDate": "2007-11-01",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Temple University Real Estate Institute",
+      "url": "",
+      "area": "Real Estate",
+      "studyType": "Honors Certificate & Licensed Pennsylvania Real Estate Agent",
+      "startDate": "",
+      "endDate": "2013-04-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "University of Maryland",
+      "url": "",
+      "area": "Finance",
+      "studyType": "B.S",
+      "startDate": "",
+      "endDate": "2007-05-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Finance & Banking Skills",
+      "level": "",
+      "keywords": [
+        "accounting", "Analyst", "Banking", "Bloomberg", "Business Process", "Cash Flow", "Conversion", "Credit", "Credit Risk", "Client", "Clients", "Derivatives", "Documentation", "Drafting", "Senior Management", "Financial", "Financial Statements", "Fixed Income", "HP", "Investment Banking", "ISDA", "Legal", "Meetings", "MS Office Suite", "Migration", "MIS", "Policies", "Project Management", "Project Plans", "Quality", "Real Estate", "Reporting", "Reuters", "Risk Analysis", "Sales", "Securities", "Scripts", "Strategic", "Structured", "Swaps", "SWIFT"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

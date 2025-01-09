@@ -1,0 +1,95 @@
+{
+  "basics": {
+    "name": "",
+    "label": "INFORMATION TECHNOLOGY (IT) SPECIALIST",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "US",
+      "region": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Information Technology (IT) Specialist",
+      "url": "",
+      "startDate": "2009-12-01",
+      "endDate": "Current",
+      "summary": "IT Specialist Project Engineer. U.S. Army Information Systems Engineering Command (USAISEC).",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Systems Integration Analyst",
+      "url": "https://company.com",
+      "startDate": "2009-07-01",
+      "endDate": "2009-12-01",
+      "summary": "Supervisor: Randy Devine - (520) 459-3174.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Communications Engineer",
+      "url": "https://company.com",
+      "startDate": "2001-04-01",
+      "endDate": "2009-09-01",
+      "summary": "Functional Area Expert (Command and Control)Sierra Vista, Arizona Supervisor: Robert Kessler - (520) 417-0959.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Phoenix",
+      "url": "https://institution.com/",
+      "area": "Information Technology",
+      "studyType": "Bachelor",
+      "startDate": "2001-01-01",
+      "endDate": "2005-01-01",
+      "score": "3.67",
+      "courses": []
+    },
+    {
+      "institution": "Cochise College",
+      "url": "https://institution.com/",
+      "area": "Electronic Technology",
+      "studyType": "Associates of Applied Science",
+      "startDate": "2001-01-01",
+      "endDate": "2003-01-01",
+      "score": "4",
+      "courses": []
+    },
+    {
+      "institution": "Cochise College",
+      "url": "https://institution.com/",
+      "area": "General Studies",
+      "studyType": "Associate",
+      "startDate": "2001-01-01",
+      "endDate": "2001-01-01",
+      "score": "4",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Administrative",
+      "level": "Master",
+      "keywords": ["Analyst", "Army", "Agency", "cable", "cabling", "Cat5", "documentation", "Engineer","engineering support", "financial"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

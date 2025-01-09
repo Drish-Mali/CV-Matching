@@ -1,0 +1,79 @@
+{
+  "basics": {
+    "name": "Unknown",
+    "label": "Carpenter Apprentice",
+    "summary": "Former construction and carpentry worker committed to high-quality workmanship and safe environments. Over 4 years of hands-on experience working with remodeling projects in residential and commercial construction. Dedicated work ethic and exceptional attendance record. I am motivated to learn new trades and skills. Interested in growing career and fostering leadership capabilities. Professional Construction Laborer with excellent interpersonal skills. Works in timely and efficient manner to see tough jobs through to completion.",
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Carpenter Apprentice",
+      "startDate": "10/2017",
+      "endDate": "09/2019",
+      "summary": "Assisted with movement of materials and equipment to job sites. Worked with master carpenters to install decks for both residential and commercial customers. Installed and repaired woodwork, millwork and cabinetry under supervision of master carpenter. Kept job site cleaned up properly and all debris disposed of in respective containers. Interpreted specifications and construction drawings to understand tasks necessary to complete each job.",
+      "highlights": [
+        "Accepted feedback from foreman and journeyman carpenter, implementing suggestions into later work.",
+        "Observed all OSHA and corporate safety regulations and procedures",
+        "Led variety of projects from start to finish, including garages, residential homes and additions",
+        "Repaired roofs and flooring and remodeled bathrooms and kitchens to complete projects in satisfactory time",
+        "Proactively managed projects to obtain 100% customer satisfaction for all custom work"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Construction Worker",
+      "startDate": "08/2016",
+      "endDate": "09/2017",
+      "summary": "Supported customer preferences with basic carpentry work such as installing wooden floors and crown molding. Consulted with customers to understand desires and help each owner meet individual property objectives. Gathered and disposed of work site debris to remove safety hazards and boost team productivity. Monitored materials inventory and requested items for restocking for each job.",
+      "highlights": [
+        "Loaded and unloaded building materials used for construction",
+        "Safely operated mowers, chain saws, electric clippers, sod cutters and pruning saws to clear construction sites, roadbeds and access roads",
+        "Erected and removed temporary structures such as trench liners and scaffolding to meet team needs",
+        "Enhanced team efficiency and multitasking abilities by effectively using hand tools, power tools and equipment",
+        "Gathered waste and trash from job sites for placement in refuse containers to keep job sites clean and organized"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Buffalo High School",
+      "area": "High School Diploma",
+      "studyType": "Diploma",
+      "startDate": "Unknown",
+      "endDate": "04/2010"
+    },
+    {
+      "institution": "TEEX",
+      "area": "CSHO (Certified Safety & Health Official)",
+      "studyType": "Certification",
+      "startDate": "Unknown",
+      "endDate": "01/2020"
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Carpentry",
+      "level": "Apprentice",
+      "keywords": [
+        "Cabinetry",
+        "Materials handling",
+        "Material prepping",
+        "New construction and renovation",
+        "Construction drawing interpretation",
+        "Drywalling",
+        "Carpentry techniques",
+        "Safety and compliance",
+        "Oral and written communication"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

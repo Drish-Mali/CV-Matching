@@ -1,0 +1,127 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Bank Teller",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Personable, high-energy nursing professional. An ambitious individual who has a demonstrated ability to address patient's needs in a timely manner. Proven success in dealing with patients and families from different backgrounds. Eager to work in a busy environment to achieve the highest level of patients' satisfaction.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": [ ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Bank Teller",
+      "url": "",
+      "startDate": "2015-09-01",
+      "endDate": "Current",
+      "summary": "Professional tellers are responsible for providing a positive customer experience that leads to improved satisfaction and sales. Professional tellers process transactions accurately and efficiently in a fast-paced environment while simultaneously introducing products and services that meet the customer's needs and encouraging customers to expand their relationship with Bank of America.",
+      "highlights": [
+      ]
+    }, 
+	{
+      "name": "Company Name",
+      "position": "Retail Sales Consultant",
+      "url": "",
+      "startDate": "2014-09-01",
+      "endDate": "2015-05-01",
+      "summary": "Interacting among clients with a primary focus on business retention and new business roll outs; provided superior support services aligned to the client's priorities in order to drive loyalty and maximize the business value of their investment.",
+      "highlights": [
+      ]
+    },
+	{
+      "name": "Company Name",
+      "position": "Aviation Resource Manager",
+      "url": "",
+      "startDate": "2011-12-01",
+      "endDate": "Current",
+      "summary": "Review, plan, and implement aircraft and crew schedules from day of scheduled events to 6 months in advance to ensure optimum crew and aircraft usage relative to clients requests while accounting for crew rest requirements, crew schedules, aircraft maintenance, and unexpected developments.",
+      "highlights": [
+      ]
+    },
+	{
+      "name": "Company Name",
+      "position": "Administrative Executive",
+      "url": "",
+      "startDate": "2011-07-01",
+      "endDate": "2011-12-01",
+      "summary": "Provided high-level administrative support to 5 leading military officials by conducting research, preparing statistical reports, handling information requests, and performing clerical functions such as preparing correspondence, emailing, receiving visitors, arranging conference calls, and scheduling meetings.",
+      "highlights": [
+      ]
+    }
+  ],
+  "education": [
+   {
+      "institution": "Jefferson County High School",
+      "url": "",
+      "area": "High School",
+      "studyType": "Diploma",
+      "startDate": "",
+      "endDate": "2012",
+      "score": "3.7",
+      "courses": [ ]
+    },
+	{
+      "institution": "Community College of the Air Force",
+      "url": "",
+      "area": "Aviation Management",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "2015",
+      "score": "3.5",
+      "courses": [ ]
+    },
+	{
+      "institution": "Georgia Southern University",
+      "url": "",
+      "area": "Associates in Pre Nursing",
+      "studyType": "",
+      "startDate": "2016",
+      "endDate": "2017",
+      "score": "3.6",
+      "courses": [ ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Medical Terminology",
+      "level": ""
+    },
+	{
+      "name": "Vital Signs & Patient Monitoring",
+      "level": ""
+    },
+	{
+      "name": "Electronic Health Record",
+      "level": ""
+    },
+	{
+      "name": "HIPPA Regulations/ Privacy",
+      "level": ""
+    },
+	{
+      "name": "Patient Safety & Care",
+      "level": ""
+    },
+	{
+      "name": "Patient Advocacy and Support",
+      "level": ""
+    },
+	{
+      "name": "Medication Administration",
+      "level": ""
+    }
+  ],
+  "languages": [ ],
+  "interests": [ ],
+  "references": [ ],
+  "projects": [ ]
+}

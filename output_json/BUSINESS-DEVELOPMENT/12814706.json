@@ -1,0 +1,131 @@
+{
+  "basics": {
+    "name": "Anonymous",
+    "label": "Business Development Director",
+    "email": "",
+    "phone": "",
+    "summary": "Business Development Director driven to exceed sales goals and build long-term relationships with customers. Creates a positive shopping experience through high-quality customer care.",
+    "location": {
+      "city": "",
+      "region": ""
+    }
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Business Development Director",
+      "startDate": "2012-11",
+      "endDate": "Current",
+      "summary": "Managed 3 Franchise, Kia, Hyundai, CDJR (Chrysler,Dodge,Jeep & Ram). Trained/Developed Sales Team on engagement w/customers. Trained/Developed Sales Team on CRM usage. Met Weekly/Monthly with GM and Service Director for any emails and mail out Marketing campaigns. Built Strong Relationships with Fleet Organizations. Developed a two man team that handles all heat cases."
+    },
+    {
+      "name": "Company Name",
+      "position": "Sales Representative",
+      "startDate": "2009-01",
+      "endDate": "2012-05",
+      "summary": "Developed and managed five Home Depot accounts, generating over $5MM in annual revenue. Built strong relationships with Home Depot Management, Associates, Professional Contractors, ISD's, Government Agencies, Cities, Municipalities, Multi - Family Apartment Groups, Investors, and DIY'ers. Trained and developed Home Depot associates to excel at driving both Home Depot and Behr/Kilz value while increasing sales through non-stop hands on training. Won the Sales Driver Award, FY 2009 and 'Rookie of The Year' Award, 2010. Serviced 2 territories due to lack of human capitol, total of 10 accounts, keeping them profitable & constantly growing. Won 'Ultimate Team Player' Award, 2011."
+    },
+    {
+      "name": "Company Name",
+      "position": "New Home Counselor",
+      "startDate": "2004-10",
+      "endDate": "2007-07",
+      "summary": "Sold 28 new homes and produced $5,236,000 in revenue in first six months. Achieved 97% capture rate for in-house lending company. Built strong strategic alliances with investor community. Held first-time home buyer workshops to build comfort and demand."
+    },
+    {
+      "name": "Company Name",
+      "position": "New Business Development Sales Manager",
+      "startDate": "1992-11",
+      "endDate": "2004-07",
+      "summary": "Achieved 154% of FY 2000 sales quota. Implemented weekly training with sales team. Managed 21 wholesale distributer accounts. Increased territory sales by 14% in Q2 and Q3 of 1998. Broadened market base by identifying new opportunities to expand the focus of wholesalers. Tracked customer acquisition cost versus profitability."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Beazer University",
+      "area": "Theology",
+      "studyType": "Associate of Arts",
+      "endDate": "2003"
+    },
+    {
+      "institution": "CFNI",
+      "area": "Theology",
+      "studyType": "Theology",
+      "endDate": "2003"
+    },
+    {
+      "institution": "CSRE",
+      "area": "Psychology",
+      "studyType": "CSRE",
+      "endDate": "2011"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Sales and Marketing Strategy",
+      "level": "Expert"
+    },
+    {
+      "name": "Execution",
+      "level": "Expert"
+    },
+    {
+      "name": "Account Management",
+      "level": "Expert"
+    },
+    {
+      "name": "Business Development",
+      "level": "Expert"
+    },
+    {
+      "name": "Client Relations",
+      "level": "Expert"
+    },
+    {
+      "name": "Cold Calling",
+      "level": "Expert"
+    },
+    {
+      "name": "Computer Literate",
+      "level": "Expert"
+    },
+    {
+      "name": "Creative Problem Solving",
+      "level": "Expert"
+    },
+    {
+      "name": "CRM Systems",
+      "level": "Expert"
+    },
+    {
+      "name": "Customer Needs Assessment",
+      "level": "Expert"
+    },
+    {
+      "name": "Customer Satisfaction",
+      "level": "Expert"
+    },
+    {
+      "name": "Customer Service",
+      "level": "Expert"
+    },
+    {
+      "name": "Lead Development",
+      "level": "Expert"
+    },
+    {
+      "name": "Marketing",
+      "level": "Expert"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Fluent"
+    }
+  ]
+}

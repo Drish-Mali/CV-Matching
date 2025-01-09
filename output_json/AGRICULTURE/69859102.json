@@ -1,0 +1,198 @@
+{
+  "basics": {
+    "name": "Not specified",
+    "label": "Costumer Services",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Costumer representative with background as sandwich artist and security looking to join a growing entrepreneurial organization as part of the executive team.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Costumer Services",
+      "url": "",
+      "startDate": "2018-02",
+      "endDate": "Current",
+      "summary": "Answered customer questions and took orders. Assisted customers with finding solutions to their complaints, concerns and inquiries.",
+      "highlights": ["Top sales performer"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Sandwich Artist",
+      "url": "",
+      "startDate": "2017-01",
+      "endDate": "2018-02",
+      "summary": "Prepared food items, including sandwiches and other products to meet customer specifications.",
+      "highlights": ["Top performing team member"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Security Guard",
+      "url": "",
+      "startDate": "2015-05",
+      "endDate": "2016-01",
+      "summary": "Maintained order, responded to emergencies and enforced federal and local laws.",
+      "highlights": ["Enforced all building rules and regulations in government facilities"]
+    },
+    {
+      "name" : "Company Name",
+      "position" : "Florist helper / Delivery driver",
+      "url" : "",
+      "startDate" : "2011-02",
+      "endDate" : "2011-03",
+      "summary" : "Communicated information to customers about product quality, value and style. Consulted with customers on the latest styles and trends.",
+      "highlights" : ["Kept the showroom clean and maintained neat, orderly product displays"]
+    },
+    {
+      "name" : "Company Name",
+      "position" : "Seasonal Field Worker",
+      "url" : "",
+      "startDate" : "2006-05",
+      "endDate" : "2006-08",
+      "summary" : "Seasonal migrant worker that would return every summer till 2012",
+      "highlights" : ["Installed rock gardens, ponds and irrigation systems in accordance with client specifications."]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "WBCA",
+      "position": "Volunteer",
+      "url": "",
+      "startDate": "2012",
+      "endDate": "2017",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "organization": "Food bank",
+      "position": "Volunteer",
+      "url": "",
+      "startDate": "2013",
+      "endDate": "2013",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "organization": "Habitat for humanity",
+      "position": "Volunteer",
+      "url": "",
+      "startDate": "2012",
+      "endDate": "2013",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "organization": "Farmers Market",
+      "position": "Volunteer",
+      "url": "",
+      "startDate": "2014",
+      "endDate": "2014",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "organization": "Softball games",
+      "position": "Volunteer",
+      "url": "",
+      "startDate": "2015",
+      "endDate": "2016",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Psja Early College High School",
+      "url": "",
+      "area": "",
+      "studyType": "High School Diploma",
+      "startDate": "",
+      "endDate": "2012",
+      "score": "4.0",
+      "courses": []
+    },
+    {
+      "institution": "Texas A&M International University",
+      "url": "",
+      "area": "Criminal Justice, Business Administration",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "Expected Graduation date December 2020",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Operations management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Financial records and processing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Quick learner",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Client-focused",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Computer proficient",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Active listening skills",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Telephone inquiries specialist",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Cash handling accuracy",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Superior communication skills",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

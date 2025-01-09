@@ -1,0 +1,146 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Director, Information Technology",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Results-driven IT director with over 30 years of experience in diverse industries, including Port and Higher Education. Expertise includes team leadership, technical architecture, training and development, disaster recovery planning, and information protection analysis. Dynamic, resourceful, and extremely driven individual with a deep passion for creating and delivering programs and solutions that empower a team, company, and customer to meet and exceed desired expectations.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Board of Commissioners of the Port of New Orleans",
+      "position": "Director, Information Technology",
+      "url": "",
+      "startDate": "2008-08",
+      "endDate": "Current",
+      "summary": "Manages information technology computer center for the Board of Commissioners of the Port of New Orleans (Board). Developed, initiated, implemented and monitored procedures necessary to determine the need for improvement of the system and operational activities. Made recommendations on the acquisition, lease or rental of equipment and computer services, the development and implementation of new data processing programs and the expansion of existing equipment and programs.",
+      "highlights": []
+    },
+    {
+      "name": "",
+      "position": "Associate Vice-President for Information Technology and Telecommunication",
+      "url": "",
+      "startDate": "1980-04",
+      "endDate": "2004-10",
+      "summary": "Oversight responsibility for staff of 22 people, including 19 professionals. Created and managed the Office of Information Technology. Developed and implemented the Strategic Plan for the Office of Information Technology. Awarded and directed $1.2 million grant to install the telecommunications fiber optic infrastructure for university. Integrated the Management Information System department and the Telecommunication department into one cohesive department.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "State University of New York",
+      "url": "",
+      "area": "Coastal Oceanography",
+      "studyType": "Ph.D",
+      "startDate": "",
+      "endDate": "1996",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Marine Sciences Research Center School of Marine and Atmospheric Sciences Computer Science",
+      "url": "",
+      "area": "Computer Science",
+      "studyType": "M.S",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "University of Evansville",
+      "url": "",
+      "area": "Mathematics",
+      "studyType": "B.S",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Xavier University",
+      "url": "",
+      "area": "",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Turner Fellowship",
+      "date": "",
+      "awarder": "State University of New York at Stony Brook",
+      "summary": ""
+    },
+    {
+      "title": "United Negro College Fund Fellowship",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    },
+    {
+      "title": "National Consortium of Educational Access Fellowship",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    },
+    {
+      "title": "William and Mary Simon Fellowship",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certified Port Executive",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "MCSE (Microsoft Certified Systems Engineer)",
+      "date": "",
+      "issuer": "Microsoft",
+      "url": ""
+    },
+    {
+      "name": "LDCCA Certified Installer for Fiber Optic and Category 5/5E",
+      "date": "",
+      "issuer": "LDCCA",
+      "url": ""
+    },
+    {
+      "name": "Certified Construction Quality Management for Contractors by U.S. Army Core of Engineers",
+      "date": "",
+      "issuer": "U.S. Army Core of Engineers",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "IT management",
+      "level": "Master",
+      "keywords": ["Problem resolution", "Results-oriented", "Team leadership", "Operations management", "Decisive leader", "Budget administration", "Cost reduction", "Change management"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

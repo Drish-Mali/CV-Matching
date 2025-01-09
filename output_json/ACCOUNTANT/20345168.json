@@ -1,0 +1,84 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Staff Accountant",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Skilled Accountant successful at managing multiple projects and consistently meeting deadlines under pressure. Extensive knowledge of accounting software and processes. Additional background in payroll, employee management, hiring, training and benefits. Highly detail-oriented and organized.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Staff Accountant",
+      "url": "",
+      "startDate": "2012-08-01",
+      "endDate": "current",
+      "summary": "Process Receivables for 7 church locations with over 20,000 attendees and approximately $45M annual revenue. Process Retail Sales Revenue for multiple entities at each location. Provide monthly financial statements and budget analysis. Prepare monthly Use Tax returns. Streamline Procedures and Write Procedure Manual. Assist with Accounts Payable as needed.",
+      "highlights": ["Financial statement analysis", "Effective time management", "Account reconciliation expert", "Strong organizational skills", "General ledger accounting", "Flexible team player"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Independent Accounting Consultant",
+      "url": "",
+      "startDate": "2008-08-01",
+      "endDate": "2012-08-01",
+      "summary": "Provide various accounting services to clients in multiple industries. Work with CPA to provide information for year-end tax preparation.",
+      "highlights": ["Assist clients in Worker's Compensation Audits", "Full knowledge of all Payroll functions", "Bank Statement Reconciliations"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Accounting Manager/Human Resources",
+      "url": "",
+      "startDate": "2007-02-01",
+      "endDate": "2010-06-01",
+      "summary": "Report to CFO and work directly with Directors of Marketing Agency. Manage Accounts Receivable and perform monthly billing. Verify all Accounts Payable transactions. Handle all accounting duties for 2 separate smaller commercial leasing companies.",
+      "highlights": ["Process payroll using online payroll processing services", "Manage new employee paperwork and benefits"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Accounting and Human Resources Manager",
+      "url": "",
+      "startDate": "2002-05-01",
+      "endDate": "2007-02-01",
+      "summary": "Report directly to President of 2 corporations and manage office of 2 separate corporations simultaneously. Manage all aspects of Accounting Department and produce all necessary financial statements. Research and implement new industry specific software to improve overall performance of business.",
+      "highlights": ["Process weekly payroll and payroll taxes", "Researched, implemented, and maintain employee benefits program"]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Arizona State University",
+      "url": "",
+      "area": "Business Management",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Accounting",
+      "level": "",
+      "keywords": ["Microsoft Office (Word, Excel, Power Point, Outlook)", "Abila MIP Fund Accounting Software", "QuickBooks, QuickBooks Pro, Quicken", "ADP, Paychex, Payroll Experts, QuickBooks Payroll Systems"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

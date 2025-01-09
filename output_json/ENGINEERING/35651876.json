@@ -1,0 +1,89 @@
+{
+  "basics": {
+    "name": "Director of Engineering",
+    "label": "Maintenance and Repair",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "To successfully implement my communication and engineering skills into a strong and growing company. Self-motivated; able to work independently and as a team member to meet operational deadlines.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Continental Luxury Property Management",
+      "position": "Chief Engineer",
+      "url": "",
+      "startDate": "2016-01-01",
+      "endDate": "Present",
+      "summary": "Evaluates electrical systems, products, components, applying knowledge of electricity and materials. Install, repair, and maintain electrical and air conduction system.Provide mentorship to maintenance staff by advising on safety procedure. Develops and maintain positive customer relationship, helping to contribute to company's star rating.Evaluate generator load for whole house.",
+      "highlights": ["Whole-house generator load evaluation", "Mentorship of maintenance staff"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Director of Engineering",
+      "url": "",
+      "startDate": "2014-01-01",
+      "endDate": "2016-01-01",
+      "summary": "Familiar and complies with the hotels mission and standards in performing maintenance activities. Repairs wide variety of kitchen and refrigeration equipment. Troubleshooting and repair of commercial laundry equipment. Maximizing maintenance team potential with a balanced focus on operations, guests, employee, and owner's satisfaction.",
+      "highlights": ["Improved maintenance team potential", "Troubleshooting and repair of commercial laundry equipment"]
+    },
+    {
+      "name": "Atlantis Paradise Island",
+      "position": "Director of Engineer",
+      "url": "",
+      "startDate": "1993-01-01",
+      "endDate": "2010-01-01",
+      "summary": "Responsible for the day-to-day operations of the engineering, providing leadership and guidance. Includes Kitchens, & fourteen Restaurants, select, develop, and retain protected class employees.",
+      "highlights": ["Daily operations of engineering", "Leadership and guidance", "Employee development"]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Penn Foster School",
+      "url": "",
+      "area": "Electrical Revisions, National Electrical code, loads, Service, and Over current Protection",
+      "studyType": "Course",
+      "startDate": "2014-01-01",
+      "endDate": "2014-01-01",
+      "score": "",
+      "courses": ["Revisions for the: national Electrical code, loads, Service, and Over current Protection"]
+    },
+    {
+      "institution": "Central Piedmont College",
+      "url": "",
+      "area": "Electrical Installation and Maintenance",
+      "studyType": "Associate Degree",
+      "startDate": "1993-01-01",
+      "endDate": "1993-01-01",
+      "score": "",
+      "courses": ["Electrical Installation and Maintenance"]
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Maintenance and Repair",
+      "level": "Master",
+      "keywords": ["Repairs", "Safety", "Inventory", "HVAC", "Leadership skills", "Communication skills", "Troubleshooting", "Type", "Wiring"]
+    }
+  ],
+  "languages": [],
+  "interests": [
+    {
+      "name": "Maintenance and Repair",
+      "keywords": ["Kitchens", "Restaurants", "Painting", "Carpentry", "Electrical repair / service", "Air conditions", "Locksmith", "Engineering", "Landscaping"]
+    }
+  ],
+  "references": [],
+  "projects": []
+}

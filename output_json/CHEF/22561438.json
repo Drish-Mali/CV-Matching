@@ -1,0 +1,98 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Chef De Cuisine",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "My culinary background started with a simple cooking class in high school that grew into a love for all things food. I went to Le Cordon Bleu culinary school where I developed a solid foundation in french cuisine, techniques and flavours. After graduating I spent the winter in southern Italy training under Michelin star Chef Richard Titi.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Chef De Cuisine",
+      "url": "",
+      "startDate": "2016-04-01",
+      "endDate": "current",
+      "summary": "Developed seasonal menu, maintained quality of food while constantly keeping a low food cost, in charge of inventory/ordering, responsible for hiring and firing of employees, trained all new employees to uphold our standards.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Chef De Cuisine",
+      "url": "",
+      "startDate": "2014-09-01",
+      "endDate": "2016-04-01",
+      "summary": "Assisted in seasonal menu development, in charge of inventory/ordering, fabricating proteins, handmade pastas daily.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Sous Chef",
+      "url": "",
+      "startDate": "2014-01-01",
+      "endDate": "2014-09-01",
+      "summary": "Ran lunch service and Worked all stations for dinner in busy 300-400-person restaurant, in charge of inventory and ordering, responsible for fabricating all proteins.",
+      "highlights": []
+    }
+
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Le Cordon Bleu College of Culinary Arts",
+      "url": "",
+      "area": "Culinary Arts",
+      "studyType": "Associate of Occupational Studies Degree",
+      "startDate": "",
+      "endDate": "2010-02-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Cuisine",
+      "level": "Expert",
+      "keywords": [
+        "Focused and disciplined",
+        "High volume production capability",
+        "ServSafe certified ",
+        "Well-tuned palette",
+        "Focus on portion and cost control",
+        "Hand made pastas",
+        "Excellent multi-tasker",
+        "Staff management"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [
+    {
+      "name": "Mateo Rogers",
+      "reference": "Executive Chef The Hatch Rotisserie, (559) 836-0455"
+    },
+    {
+      "name": "Scott Howard",
+      "reference": "Executive Chef Citizen Beverly hills, (415) 246-8542"
+    },
+    {
+      "name": "Laurie Sisneros",
+      "reference": "Owner of Spaghettini restaurant group, (562) 307-3111"
+    }
+  ],
+  "projects": []
+}

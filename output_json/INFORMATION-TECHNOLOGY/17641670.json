@@ -1,0 +1,247 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Information Technology Specialist",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "To secure a position as an Information Technology in a challenging and competitive environment, where my information systems, and network development, design , diagnostics which will fully utilized, and offer new and refreshing ideas in an environment for improvement and efficiency in Networking and Security related areas and offer an opportunity for advancement.",
+    "location": {},
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Information Technology Specialist",
+      "url": "",
+      "startDate": "December 2014",
+      "endDate": "July 2015",
+      "summary": "On-Site headquarters in VPSI. Establish and maintain a high level of customer service relative to internal and external customers...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Network Management System Engineer",
+      "url": "",
+      "startDate": "May 2008",
+      "endDate": "December 2014",
+      "summary": "Working with NMS team to designs and develops BSM/ NNMi-iSPI / HPNA to analyze, anticipate and remediate service health issues quickly, efficiently...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Information Technology Deployment, Specialist",
+      "url": "",
+      "startDate": "May 2007",
+      "endDate": "May 2008",
+      "summary": "Under general supervision, monitors, operates and maintains hardware, software, and networks for a computing platform...",
+      "highlights": []
+    },
+    {
+      "name": "",
+      "position": "Help Desk Analyst",
+      "url": "",
+      "startDate": "July 2006",
+      "endDate": "May 2007",
+      "summary": "Handle incoming customer call (Classified and unclassified) and gather information about the customer�s problem, resolving user problems and create a ticket for all customer inquiries in Remedy system...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Lab Tech",
+      "url": "",
+      "startDate": "January 1999",
+      "endDate": "July 2006",
+      "summary": "Responsible for gathering and assimilating data on batteries for cellular qualification in the battery research department...",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Onsite training by Brocade Brocade",
+      "url": "",
+      "area": "",
+      "studyType": "Certified Network Engineer (BCNE), Certified Layer 4-7 Engineer (BCLE), Certified Network Professional (BCNP)",
+      "startDate": "2010",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Onsite training by COMTIA",
+      "url": "",
+      "area": "Security",
+      "studyType": "+",
+      "startDate": "2009",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Onsite training by Juniper and Cisco",
+      "url": "",
+      "area": "",
+      "studyType": "Juniper Networks Certified Internet Associate (Firewall/ VPN - SSL), Juniper Networks Junos Associate (JNCIA-Junos), Cisco Certified Network Associate (CCNA)",
+      "startDate": "2005",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "MicroSkills Certification Specialists",
+      "url": "",
+      "area": "",
+      "studyType": "Microsoft Certified System Engineer (MCSE 2003)",
+      "startDate": "2003",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "University of San Diego extension",
+      "url": "",
+      "area": "",
+      "studyType": "Network+, A+, CCNA",
+      "startDate": "2001",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "San Diego Education and Technology",
+      "url": "",
+      "area": "Electronics Technology",
+      "studyType": "(900 hours Lecture and Lab)",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Juniper Networks Certified Internet Associate (JNCIA)",
+      "date": "2002",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "Microsoft Certified Professional (MCP)",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "Microsoft Certified Systems Administrator (MCSA)",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "Microsoft Certified Systems Engineer 2003 (MCSE)",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "Microsoft Certified IT Professional (MCIP)",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "Microsoft Certified Technology Specialist (MCTS)",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "Security+",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "Network+",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "Certificate in Electronic Technician",
+      "date": "2002",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "Brocade Certified Network Engineer (BCNE)",
+      "date": "2011",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "Brocade Certified Network Professional (BCNP)",
+      "date": "2011",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Platforms",
+      "level": "",
+      "keywords": [
+        "Windows XP",
+        "Windows 7",
+        "Server 2003",
+        "Server 2008"
+      ]
+    },
+    {
+      "name": "Hardware",
+      "level": "",
+      "keywords": [
+        "PC's",
+        "Dell Servers",
+        "HP ProLiant Servers",
+        "HP-UX",
+        "Sun Servers",
+        "Printers set up and installation"
+      ]
+    },
+    {
+      "name": "Applications",
+      "level": "",
+      "keywords": [
+        "MS Office",
+        "Symantec",
+        "Active Directory",
+        "VMware vSphere",
+        "BSM (HP Business Service Management)",
+        "NNMi - iSPI",
+        "HPNA (HP Network Automation)"
+      ]
+    },
+    {
+      "name": "",
+      "level": "",
+      "keywords": [
+        "Adobe Acrobat",
+        "Microsoft Office /MS Outlook 2000/2003",
+        "Remote Desktop",
+        "PC Anywhere",
+        "VNC",
+        "NetMeeting",
+        "HTML EDS/ NMCI (Navy Marine Corps Intranet"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

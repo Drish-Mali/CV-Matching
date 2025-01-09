@@ -1,0 +1,121 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Engineering Technician",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "To obtain a position in the field of civil engineering technician where I can apply and impart the knowledge I have gained through experience and college, as well as to acquire new insight through experience and application.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Engineering Technician",
+      "url": "",
+      "startDate": "2007-08-01",
+      "endDate": "Current",
+      "summary": "Design/Drafting of various capital improvement projects. Storm Water Utility Assessment, Surveying city infrastructure and utilities, File Maintenance",
+      "highlights": [
+        "Design/Drafting",
+        "Storm Water Utility Assessment",
+        "Surveying",
+        "File Maintenance"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Senior Engineering Technician",
+      "url": "",
+      "startDate": "2006-04-01",
+      "endDate": "2007-08-01",
+      "summary": "Surveying duties, Construction Inspection, Design/Drafting - Design of a street reconstruction project",
+      "highlights": [
+        "Surveying",
+        "Construction Inspection",
+        "Design/Drafting"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Engineering Technician",
+      "url": "",
+      "startDate": "1998-05-01",
+      "endDate": "2006-04-01",
+      "summary": "Surveying, Environmental Sampling, Construction Inspection, Stream Gauging, Drafting",
+      "highlights": [
+        "Surveying",
+        "Environmental Sampling",
+        "Construction Inspection",
+        "Stream Gauging",
+        "Drafting"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Northern Iowa",
+      "url": "",
+      "area": "Construction Management",
+      "studyType": "BS",
+      "startDate": "",
+      "endDate": "2004-05-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Hawkeye Community College",
+      "url": "",
+      "area": "Civil and Construction Engineering Technology",
+      "studyType": "AAS",
+      "startDate": "",
+      "endDate": "1998-05-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Engineering Skills",
+      "level": "",
+      "keywords": [
+        "ArcView",
+        "AutoCad",
+        "Drafting",
+        "GPS",
+        "Graphic",
+        "Inspection",
+        "Microsoft Access",
+        "Microstation",
+        "File Maintenance",
+        "Repairs",
+        "Supervision",
+        "Surveys",
+        "Utilities"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [
+    {
+      "name": "Interests",
+      "keywords": [
+        "Home Improvement Projects",
+        "Outdoor Sports"
+      ]
+    }
+  ],
+  "references": [],
+  "projects": []
+}

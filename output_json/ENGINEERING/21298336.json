@@ -1,0 +1,92 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Engineering Intern",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Motivated Entry Level Civil Engineer with technical knowledge and a quality assurance mindset necessary to conquer unforeseen obstacles. Organized, detail-oriented, and efficient work ethics. Committed to high performance and mastering tasks to better future duties.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Engineering Intern",
+      "url": "",
+      "startDate": "2017-05-01",
+      "endDate": "2017-08-01",
+      "summary": "Worked on spreadsheets, estimating, dealt with subcontractors/suppliers and plan revisions."
+    },
+    {
+      "name": "Company Name",
+      "position": "Field Engineering Intern",
+      "url": "",
+      "startDate": "2016-05-01",
+      "endDate": "2016-08-01",
+      "summary": "Managed Drill Logs, Time Cards, Drilled Shaft Concrete Pours and Quantities."
+    },
+    {
+      "name": "Company Name",
+      "position": "Field Engineering Intern",
+      "url": "",
+      "startDate": "2015-05-01",
+      "endDate": "2015-08-01",
+      "summary": "Worked on spreadsheets, concrete, RFI's and Soil Nail Wall Installation."
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Pittsburgh at Johnstown",
+      "area": "Civil Engineering",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "2018-01-01",
+      "score": "3.01",
+      "courses": [
+        "Materials of Construction Engineering Leadership",
+        "Construction Management Foundation Design",
+        "Reinforced Concrete Environmental Engineering",
+        "Structural Steel Design Soil Engineering",
+        "Survey Transportation Engineering"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Dean's List",
+      "date": "2013-01-01",
+      "awarder": "University of Pittsburgh at Johnstown",
+      "summary": ""
+    }
+  ],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Engineering Skills",
+      "level": "Competent",
+      "keywords": [
+        "Bluebeam",
+        "Mathcad",
+        "Microsoft Word",
+        "Excel",
+        "Project",
+        "Powerpoint",
+        "Autocad Civil 3D"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

@@ -1,0 +1,82 @@
+{
+    "basics": {
+        "name": "Gregorio Luna",
+        "label": "Operations Manager",
+        "image": "",
+        "email": "",
+        "phone": "",
+        "url": "",
+        "summary": "Experienced client service professional accustomed to managing teams functioning in a fast-paced environment in support of multiple products across various business units. Solid background in building strong and effective teams",
+        "location": {"address": "", "postalCode": "", "city": "", "countryCode": "", "region": ""},
+        "profiles": []
+    },
+    "work": [
+        {
+            "name": "Company Name",
+            "position": "Operations Manager",
+            "url": "",
+            "startDate": "2010-02-01",
+            "endDate": "2014-08-01",
+            "summary": "Managed a team of four client service officers responsible for day-to-day operations and onboarding process. Directed and supervised the daily activities of the teams with primary focus in enhancing the client's experience, mitigating risk, and identifying areas of improvement.",
+            "highlights": ["Quality Assurance reviews", "Department policies improvement", "Managed cross-functional teams"]
+        },
+        {
+            "name": "",
+            "position": "Client Service Manager",
+            "url": "",
+            "startDate": "2007-09-01",
+            "endDate": "2010-02-01",
+            "summary": "Managed a team of eight client service officers servicing our base of Commercial Real Estate clients, Mortgage Servicers, and Regulated Cash. Serviced a portfolio of 300 clients with deposits in excess of 80 billion.",
+            "highlights": ["Increased efficiency by 20%", "Increased staff performance accuracy levels to 99%"]
+        },
+        {
+            "name": "Company Name",
+            "position": "Client Service Manager",
+            "url": "",
+            "startDate": "2002-02-01",
+            "endDate": "2007-09-01",
+            "summary": "Supervised a team of seven client service professionals focused in delivering excellent client service, improving processes, and leveraging technology. Partnered with Bankers to collect, analyze, and validate all appropriate due diligence and on-boarding documentation provided by client.",
+            "highlights": ["Proactive workplace environment", "Conducting OFAC reviews", "Improving processes"]
+        }
+    ],
+    "volunteer": [],
+    "education": [
+        {
+            "institution": "DeVry Institute of Technology",
+            "url": "",
+            "area": "Computer Information Systems",
+            "studyType": "Bachelor",
+            "startDate": "2003-01-01",
+            "endDate": "2003-12-31",
+            "score": "",
+            "courses": []
+        },
+        {
+            "institution": "Kingsborough Community College",
+            "url": "",
+            "area": "Business Management and administration",
+            "studyType": "Associate",
+            "startDate": "1989-01-01",
+            "endDate": "1989-12-31",
+            "score": "",
+            "courses": []
+        }
+    ],
+    "awards": [] ,
+    "languages": [
+        {
+            "language": "Spanish",
+            "fluency": "Fluent"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Professional Skills",
+            "level": "",
+            "keywords": ["KYC", "Anti Money Laundering", "legal documentations", "Organizational and Time Management Skills", "Interpersonal and Communication Skills", "Microsoft Office", "Adobe Products"]
+        }
+    ],
+    "interests": [],
+    "references": [],
+    "projects": []
+}

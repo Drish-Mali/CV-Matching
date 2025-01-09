@@ -1,0 +1,149 @@
+{
+  "basics": {
+    "name": "Information Technology Specialist III (Drupal Dev)",
+    "label": "Drupal Developer",
+    "summary": "Drupal developer with five years of experience in site building, and frontend and backend development. Skills in theming, as well...",
+    "location": {
+      "city": "City",
+      "region": "State",
+      "countryCode": "US"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Information Technology Specialist III (Drupal Dev)",
+      "startDate": "2015-08-01",
+      "endDate": "Current",
+      "summary": "Lead Drupal Developer for the NYSED.GOV redesign project...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Information Technology Specialist II",
+      "startDate": "2013-09-01",
+      "endDate": "2015-08-01",
+      "summary": "Developed and maintained IT (systems) written in LINC, COBOL, Java, Struts, PL/SQL, and XML...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Intern Application Developer",
+      "startDate": "2013-01-01",
+      "endDate": "2013-06-01",
+      "summary": "Maintained the support system to provide services to the clients...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Intern iOS Developer",
+      "startDate": "2012-08-01",
+      "endDate": "2012-12-01",
+      "summary": "Designed and built applications for the iOS platform...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Assistant Store Supervisor",
+      "startDate": "2010-02-01",
+      "endDate": "2013-09-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Supervisor of Footwear Department",
+      "startDate": "2008-02-01",
+      "endDate": "2009-12-01",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Employees Association",
+      "position": "IT Chair of the IT Committee Board",
+      "startDate": "2016-05-01",
+      "endDate": "Present",
+      "summary": "Create and maintain the website along with the other committee members..."
+    }
+  ],
+  "education": [
+    {
+      "institution": "City College of New York of the City University of New York, The",
+      "area": "Computer Science",
+      "studyType": "Bachelor of Science",
+      "startDate": "2013",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "Drupal 7 and Drupal 8",
+        "Drupal Ajax and jQuery",
+        "HTML5 and CSS3"
+      ]
+    },
+    {
+      "name": "Operating Systems",
+      "level": "",
+      "keywords": [
+        "Windows",
+        "OS X",
+        "UNIX"
+      ]
+    },
+    {
+      "name": "Programming and Scripting Languages",
+      "level": "",
+      "keywords": [
+        "C++",
+        "Java",
+        "JavaScript",
+        "PHP",
+        "Python",
+        "AJAX"
+      ]
+    },
+    {
+      "name": "Data-Oriented Languages and Databases",
+      "level": "",
+      "keywords": [
+        "SQL",
+        "PL/SQL",
+        "Oracle Database",
+        "DMS II",
+        "PL/SQL",
+        "JDBC"
+      ]
+    },
+    {
+      "name": "Software Applications",
+      "level": "",
+      "keywords": [
+        "MS Office",
+        "Oracle Database Server"
+      ]
+    },
+    {
+      "name": "Automated Testing Tools",
+      "level": "",
+      "keywords": [
+        "Selenium",
+        "Behat"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

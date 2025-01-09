@@ -1,0 +1,155 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Software Quality Assurance Analyst II",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "12 years of experience in Software Quality Assurance requirements analysis, test planning, creating test cases, and test process coordination. Experienced with functional, end to end, regression and user acceptance testing of Web based and Client Server interfaces. Familiar with the Waterfall and Agile SDLC.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Software Quality Assurance Analyst II",
+      "url": "",
+      "startDate": "2012-01-01",
+      "endDate": "current",
+      "summary": "",
+      "highlights": ["Work Environment: Agile, Windows based, Acuity Electronic Health Record System suite testing and administration", "T-SQL used to query/insert/update SQL DB to verify input/output of test scenarios"]
+    },
+    {
+      "name": "Company Name",
+      "position": "User Support Specialist II, Payments Specialist",
+      "url": "",
+      "startDate": "2011-01-01",
+      "endDate": "2012-01-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Test Execution Manager",
+      "url": "",
+      "startDate": "2006-01-01",
+      "endDate": "2010-01-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Software Test Analyst",
+      "url": "",
+      "startDate": "2000-01-01",
+      "endDate": "2006-01-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Internal Operations Analyst",
+      "url": "",
+      "startDate": "1999-01-01",
+      "endDate": "2000-01-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Sr. Operations Officer",
+      "url": "",
+      "startDate": "1998-01-01",
+      "endDate": "1999-01-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Money Transfer Customer Liaison",
+      "url": "",
+      "startDate": "1997-01-01",
+      "endDate": "1998-01-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Customer Service Representative",
+      "url": "",
+      "startDate": "1995-01-01",
+      "endDate": "1997-01-01",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Golden Gate University",
+      "url": "",
+      "area": "Computer Information Systems",
+      "studyType": "BS",
+      "startDate": "",
+      "endDate": "2004-01-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Heald College",
+      "url": "",
+      "area": "Computer Technology",
+      "studyType": "AAS",
+      "startDate": "",
+      "endDate": "2002-01-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Heald College",
+      "url": "",
+      "area": "Electronics Technology",
+      "studyType": "AAS",
+      "startDate": "",
+      "endDate": "2001-01-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Cosumnes River College",
+      "url": "",
+      "area": "Health Care Information Technology",
+      "studyType": "Certificate",
+      "startDate": "",
+      "endDate": "2013-01-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Software Quality Assurance",
+      "level": "Master",
+      "keywords": ["Functional testing", "End to end testing", "Regression testing", "User acceptance testing"]
+    },
+    {
+      "name": "Software Development",
+      "level": "Master",
+      "keywords": ["Waterfall", "Agile SDLC"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

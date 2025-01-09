@@ -1,0 +1,65 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Construction Estimator",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Energetic Construction Manager consistently involved in all facets of building construction. Specialty in commercial structures and municipal bridges. Proactive Project Manager experienced in managing a variety of construction teams and projects. Successful in creating effective communication between personnel, general contractors and the management team. Dependable and self-motivated professional with 6+ years' progressively responsible experience in the construction estimation field.", 
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Construction Estimator",
+      "url": "",
+      "startDate": "2012-12",
+      "endDate": "Current",
+      "summary": "Managed a team of onsite general contractors for months. Reviewed and investigated Proposed Change Order Requests (PCOR).",
+      "highlights": ["Qualified competitive subcontractor bids prior to execution of contracts.", "Carefully coordinated plans and specs using marketing programming standards.", "Educated general contractor personnel on the quality standards throughout the construction process.", "Managed a team of onsite general contractors for months.", "Reviewed and investigated Proposed Change Order Requests (PCOR).", "Assigned projects and tasks to employees based on their competencies and specialties.", "Followed through with competent execution of project plans by providing proper tools and equipment to all construction personnel.", "Performed construction site pre-inspections and coordinated post-construction audits.", "Accurately provided status information on project progress to the project management.", "Efficiently recorded and rejected incorrect deliveries of material to site."]
+    },
+    {
+      "name": "Company Name",
+      "position": "Construction Manager",
+      "url": "",
+      "startDate": "2009-12",
+      "endDate": "2012-06",
+      "summary": "Managed the rights of way, easement and dedication processes. Educated general contractor personnel on the quality standards throughout the construction process.",
+      "highlights": ["Qualified competitive subcontractor bids prior to execution of contracts.", "Carefully coordinated plans and specs using marketing programming standards.", "Submitted all project closeout documents in accordance with the contract.", "Assigned projects and tasks to employees based on their competencies and specialties.", "Followed through with competent execution of project plans by providing proper tools and equipment to all construction personnel.", "Performed construction site pre-inspections and coordinated post-construction audits.","Accurately provided status information on project progress to the project management."]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Gettysburg College",
+      "url": "",
+      "area": "Business Management",
+      "studyType": "Bachelor",
+      "startDate": "2004",
+      "endDate": "",
+      "score": "",
+      "courses": ["Coursework in Economics", "Coursework in Computer Science"]
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Residential construction materials, methods, and systems.",
+      "level": "Master",
+      "keywords": ["Obtaining bids from suppliers", "Negotiating prices", "Calculating cost factors and prepares estimates", "Problem solving", "Time and resource management", "Proficiency in MS Office", "AutoCAD", "PlanSwift e stimating software"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

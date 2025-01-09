@@ -1,0 +1,129 @@
+{
+  "basics": {
+    "name": "Name not provided",
+    "label": "Tax Accountant",
+    "image": "",
+    "email": "Email not provided",
+    "phone": "Phone not provided",
+    "url": "URL not provided",
+    "summary": "Self-motivated tax accountant with more than 3 years of experiences in tax filing for individuals, pass-through entities and corporations. Prepared     and reviewed hundreds of tax returns. Provided comprehensive accounting service for 20 ongoing clients. Receive all 5-star reviews from clients.",
+    "location": {
+      "address": "Address not provided",
+      "postalCode": "Postal code not provided",
+      "city": "City not provided",
+      "countryCode": "Country code not provided",
+      "region": "Region not provided"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Tax Accountant",
+      "url": "",
+      "startDate": "2016-01-01",
+      "endDate": "Current",
+      "summary": "Prepared and reviewed hundreds of federal and multi-state tax returns for Individuals, Partnerships, LLCs, S Corporations, and C Corporations....",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Intern",
+      "url": "",
+      "startDate": "2015-07",
+      "endDate": "2015-08",
+      "summary": "Prepared applications for fund transfers and submitted to headquarter to ensure the circulation of funds. Collected and sent contracts and invoices to banks. Created Excel reports...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Wholesale Banking Intern",
+      "url": "",
+      "startDate": "2014-05",
+      "endDate": "2014-08",
+      "summary": "Organized marketing campaign to develop client relationship and complete business transactions. Assisted client relationship manager with daily administrative work...",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of California",
+      "url": "",
+      "area": "Professional Accountancy",
+      "studyType": "Master",
+      "startDate": "Date not provided",
+      "endDate": "2016-06",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "The Pennsylvania State University, University Park",
+      "url": "",
+      "area": "Accounting, Economics",
+      "studyType": "Bachelor of Science",
+      "startDate": "Date not provided",
+      "endDate": "2015-05",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Accounting",
+      "level": "",
+      "keywords": [
+        "account reconciliation",
+        "accounting",
+        "administrative",
+        "bookkeeping",
+        "consulting",
+        "contracts",
+        "credit",
+        "client",
+        "clients",
+        "QuickBooks",
+        "documentation",
+        "filing",
+        "financial analysis",
+        "forms",
+        "funds",
+        "general ledger",
+        "Mandarin",
+        "marketing",
+        "Excel",
+        "Microsoft Office Suite",
+        "payroll",
+        "real estate",
+        "reporting",
+        "sales",
+        "tax compliance",
+        "tax",
+        "taxes",
+        "tax returns",
+        "telemarketing",
+        "venture capital"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Mandarin",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Leadership & Volunteer",
+      "keywords": [
+        "Pennsylvania State University Chinese Students and Scholars Association",
+        "Recreation and Sports Department Coordinator"
+      ]
+    }
+  ],
+  "references": [],
+  "projects": []
+}

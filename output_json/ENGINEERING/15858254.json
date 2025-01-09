@@ -1,0 +1,88 @@
+{
+    "basics": {
+        "name": "",
+        "label": "Electrical Engineering Lab Technician",
+        "image": "",
+        "email": "",
+        "phone": "",
+        "url": "",
+        "summary": "Over 10 years experience in technical support in high speed networking semiconductor, lab network administration, problem resolution, documentation and lab management. Self-driven team player with strengths in communication and developing interpersonal ralationships. Possess excellent planning, organization, time management and decision-making skills. Strategically coordinate and collaborate with cross-functional departments and individual to maximize performance in facilitating goals and attaining operational excellence.",
+        "location": {
+            "address": "",
+            "postalCode": "",
+            "city": "",
+            "countryCode": "",
+            "region": ""
+        },
+        "profiles": []
+    },
+    "work": [
+        {
+            "name": "Company Name",
+            "position": "Electrical Engineering Lab Technician",
+            "url": "",
+            "startDate": "2007-08-01",
+            "endDate": "2014-10-01",
+            "summary": "Developed and implemented test and troubleshooting procedures for HSIO, Digital Home, Access and Transport products. Supported products design verification, characterization, and validation. Successfully managed lab: lab network, PCs and test stations installation. Evaluation boards testing, troubleshooting, reworking, components purchasing, and assembly vendors interfacing. ISO 9000 equipment calibration, laboratory procedures and ESD control administration. Created schematic symbols, captured schematics. Reviewed schematic, and gave recommendations. Understood schematic and assembly drawings, Successfully built, assembled, tested, and debugged test fixtures, evaluation and reference boards. Provided on-going support for modification and de-bugging of design hardware and software products. Performed PCB rework down to 0402 and 0201 components.",
+            "highlights": []
+        },
+        {
+            "name": "Company Name",
+            "position": "Electrical Engineering Lab Technician",
+            "url": "",
+            "startDate": "2002-01-01",
+            "endDate": "2007-06-01",
+            "summary": "Developed and implemented and troubleshooting procedures procedures for TCP Offload Engines, SONET Framer Products. Supported products design verification, characterization, and validation. Successfully managed lab: lab network, PCs and test stations installation. Evaluation boards testing, troubleshooting, reworking, components purchasing, and assembly vendors interfacing. ISO 9000 equipment calibration, laboratory procedures and ESD control administration. Created schematic symbols, captured schematics. Reviewed schematic, and gave recommendations. Understood schematic and assembly drawings, Successfully built, assembled, tested, and debugged test fixtures, evaluation and reference boards. Provided on-going support for modification and de-bugging of design hardware and software products. Performed PCB rework down to 0402 and 0201 components.",
+            "highlights": []
+        },
+        {
+            "name": "Company Name",
+            "position": "Electrical Engineering Technician and PCB Layout Designer",
+            "url": "",
+            "startDate": "1995-04-01",
+            "endDate": "2001-11-01",
+            "summary": "Developed and implemented and troubleshooting procedures procedures for T1/E1 Framers, Routers, Switches, Ethernet, SONET, ATM Processing Products. Supported products design verification, characterization, and validation. Successfully managed lab: lab network, PCs and test stations installation. Evaluation boards testing, troubleshooting, reworking, components purchasing, and assembly vendors interfacing. ISO 9000 equipment calibration, laboratory procedures and ESD control administration. Created schematic symbols, captured schematics. Reviewed schematic, and gave recommendations. Understood schematic and assembly drawings, Successfully built, assembled, tested, and debugged test fixtures, evaluation and reference boards. Provided on-going support for modification and de-bugging of design hardware and software products. Performed PCB rework down to 0402 and 0201 components.",
+            "highlights": []
+        }
+    ],
+    "volunteer": [],
+    "education": [
+        {
+            "institution": "Solano College",
+            "url": "",
+            "area": "Electronics Engineering Technology",
+            "studyType": "Associate Degree",
+            "startDate": "",
+            "endDate": "",
+            "score": "",
+            "courses": []
+        }
+    ],
+    "awards": [],
+    "certificates": [
+        {
+            "name": "Certificate in Quality Assurance Technology",
+            "date": "",
+            "issuer": "De Anza College, CA",
+            "url": ""
+        },
+        {
+            "name": "Certificate in PCB Design",
+            "date": "",
+            "issuer": "The Copper Connection, CA",
+            "url": ""
+        }
+    ],
+    "publications": [],
+    "skills": [
+        {
+            "name": "Technical Skills",
+            "level": "",
+            "keywords": ["assembly", "ATM", "Cadence", "calibration", "CA", "hardware", "DC", "de-bugging", "Ethernet", "Graphic", "ISO 9000", "LabView", "layout", "Linux OS", "Logic", "Mentor", "Access", "MS Office", "Windows", "multimeters", "network", "networking", "ORCAD", "oscilloscopes", "power supplies", "procurement", "purchasing", "Quality Assurance", "Routers", "schematics", "signal generators", "SONET", "Switches", "T1", "test equipment", "troubleshooting", "validation", "View"]
+        }
+    ],
+    "languages": [],
+    "interests": [],
+    "references": [],
+    "projects": []
+}

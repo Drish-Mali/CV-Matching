@@ -1,0 +1,145 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Project Administrator Engineering",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "A consistent team leader with great analytic and interpersonal skills; highly focused in achieving and maintaining excellent customer relationships to assist in achieving organizational goals. Over 10 years progressive experience in Accounting, Property Accounting and Project Administration.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Project Administrator Engineering",
+      "url": "",
+      "startDate": "2007-01-01",
+      "endDate": "2009-01-01",
+      "summary": "Direct reporting responsibilities to the Executive Vice President Maintained general ledger, financial statements and other financial reports analyzed and interpreted monthly variances and trends.",
+      "highlights": [
+        "Maintained general ledger",
+        "Financial statement analysis",
+        "Analytical reasoning",
+        "Budget forecasting expertise",
+        "Expert in customer relations"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Project Administrator",
+      "url": "",
+      "startDate": "2000-01-01",
+      "endDate": "2007-01-01",
+      "summary": "Prepared monthly billings and revenue forecast, office earnings report and distribute to the Officers.",
+      "highlights": [
+        "Prepared financial reports",
+        "Monthly billings",
+        "Analyzed variances"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Senior Staff accountant",
+      "url": "",
+      "startDate": "1998-01-01",
+      "endDate": "2000-01-01",
+      "summary": "Prepared and analyzed financial statements on a monthly basis",
+      "highlights": [
+        "Reconciled and process employees expense report",
+        "Reviewed and analyzed General Ledger",
+        "Reconciled monthly bank reconciliation"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Project Accountant",
+      "url": "",
+      "startDate": "2009-07-01",
+      "endDate": "",
+      "summary": "Aligned all financial activity with the regulations of the GAAP. Provide weekly cash forecast for the Eastern Region. Ensure accurate timely billing for both external and internal customers.",
+      "highlights": [
+        "Aligned financial activity with GAAP regulations",
+        "Provided weekly cash forecast",
+        "Ensured accurate timely billing"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "American Intercontinental University",
+      "url": "",
+      "area": "Business Administration",
+      "studyType": "MBA",
+      "startDate": "",
+      "endDate": "2005",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Florida International University",
+      "url": "",
+      "area": "Accounting",
+      "studyType": "BA",
+      "startDate": "",
+      "endDate": "1997",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Project Management",
+      "level": "Master",
+      "keywords": [
+        "accounts receivable",
+        "AIA",
+        "bank reconciliation",
+        "billing",
+        "budgets",
+        "daily cash receipts",
+        "cash flow",
+        "Consultant",
+        "Contracts",
+        "Controller",
+        "clients",
+        "financial",
+        "financial reports",
+        "financial statements",
+        "Forms",
+        "General Ledger",
+        "general ledger accounts",
+        "Government",
+        "insurance",
+        "meetings",
+        "Microsoft office applications",
+        "office",
+        "PowerPoint",
+        "Pivot tables",
+        "presentations",
+        "Prime",
+        "progress",
+        "proposals",
+        "Express",
+        "reporting",
+        "spreadsheet",
+        "Timberline"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

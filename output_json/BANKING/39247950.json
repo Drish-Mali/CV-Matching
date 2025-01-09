@@ -1,0 +1,66 @@
+{
+  "basics": {
+    "name": "Software Engineer",
+    "label": "",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Software engineer with the skills of C# 3.0, PL/SQL, JavaScript, HTML 4, CSS 2, .NET 3.5, SQL Server 2008, Oracle 9i, etc.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Software Engineer",
+      "url": "",
+      "startDate": "2010-07-01",
+      "endDate": "2014-03-01",
+      "summary": "With 3 years and 9 months of experience in web and windows applications development and support.",
+      "highlights": ["Developed webbased tools in ASP .NET 3.5, and provided customizable solutions."]
+    },
+    {
+      "name": "Company Name",
+      "position": "Manager",
+      "url": "",
+      "startDate": "2013-01-01",
+      "endDate": "2014-03-01",
+      "summary": "Managed technological issues and developed online tools for IT vendors and LBG for tracking Service Level Agreement (SLA) of all projects.",
+      "highlights": ["Developed tools using C#, PL/SQL, HTML, AJAX extensions, and applications hosting."]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Easwari Engineering College",
+      "url": "",
+      "area": "Electronics/Communication",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "",
+      "endDate": "2010",
+      "score": "",
+      "courses": ["ITIL ASM Basic", "Windows and Web Application Development using .Net Framework"]
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Software Engineering",
+      "level": "Professional",
+      "keywords": ["C# 3.0", "PL/SQL", "JavaScript", "HTML 4", ".NET 3.5", "SQL Server 2008", "Oracle 9i", "ASP.NET 2.0","TOAD", "HP Service Manager", "WinSCP", "Visual SourceSafe", "BusinessObjects XI 3.1 Universe Designer", "Desktop Intelligence"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

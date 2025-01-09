@@ -1,0 +1,132 @@
+{
+  "basics": {
+    "name": "Executive Chef",
+    "label": "Professional Chef",
+    "summary": "I bring with me culinary creativity, strong leadership foundation and hard work. I have over twenty years experience in many facets of the restaurant business. I'm a very skilled and resourceful chef that leads by example.",
+    "location": {
+      "city": "",
+      "countryCode": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Executive Chef",
+      "startDate": "March 2012",
+      "endDate": "April 2015",
+      "summary": "Regularly developed new recipes in accordance with consumer tastes, nutritional needs, and budgetary considerations. Interviewed and hired all back of the house employees. Effectively managed and assisted kitchen staff in producing food for banquets, catered events, large sporting events and comedy shows. Ensured smooth kitchen operation by overseeing daily product inventory, purchasing and receiving. Displayed a positive and friendly attitude towards customers and fellow team members. Assisted in kitchen design. Expertly estimated staffing needs and adjusted hourly schedules in accordance with demand patterns and budget. Consistently produced exceptional menu items that regularly garnered diners' praise."
+    },
+    {
+      "name": "Company Name",
+      "position": "Executive Chef",
+      "startDate": "January 2011",
+      "endDate": "February 2012",
+      "summary": "Created menus for all outlets including breakfast, lunch, dinner and a bar menu. Provided courteous and informative customer service in an open kitchen format. Displayed a positive and friendly attitude towards customers and fellow team members, and club members. Collaborated closely with the Food and Beverage Director to conduct staff meetings and resolve service, product and personnel issues. Effectively managed and assisted kitchen staff in producing food for banquets, catered events and member dining areas. Established and maintained open, collaborative relationships with the kitchen team."
+    },
+    {
+      "name": "Company Name",
+      "position": "Lead line cook",
+      "startDate": "October 2009",
+      "endDate": "January 2011",
+      "summary": "Responsible for ticket times and coordinating the flow of the food as well as the grill and broiler. Assisted with production of food for banquets, catered events."
+    },
+    {
+      "name": "Company Name",
+      "position": "Sous chef",
+      "startDate": "January 2010",
+      "endDate": "October 2010",
+      "summary": "Worked all of stations in the kitchen and trained all new hires. Recreate the chef specials. Implemented and supported company initiatives and programs. Consistently kept a clean and safe environment by adhering to all federal, state and local sanitation and safety requirements. Established and maintained open, collaborative relationships with the kitchen team."
+    },
+    {
+      "name": "Company Name",
+      "position": "Lead chef",
+      "startDate": "February 2007",
+      "endDate": "September 2009",
+      "summary": "Implemented and supported company initiatives and programs of Chappy's L.A.Kitchen Ensured smooth kitchen operation by overseeing daily product inventory, purchasing and receiving. Established and maintained open, collaborative relationships with the kitchen team and wait staff. Consistently produced exceptional menu items that regularly garnered diners' praise."
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Pinellas Technical Education Center",
+      "area": "CULINARY ARTS",
+      "studyType": "DIPLOMA",
+      "startDate": "1998",
+      "endDate": "",
+      "courses": [
+        "Food Preparation",
+        "Kitchen Management",
+        "Patisserie and Confectionery",
+        "International Cuisine"
+      ]
+    },
+    {
+      "institution": "Johnson & Wales University",
+      "area": "GENERAL COURSES",
+      "studyType": "",
+      "startDate": "1997",
+      "endDate": "",
+      "courses": [
+        "American and Continental cuisine",
+        "stocks and sauces",
+        "baking and pastries",
+        "dining room essentials"
+      ]
+    },
+    {
+      "institution": "Gibbs High School",
+      "area": "General Education",
+      "studyType": "General education",
+      "startDate": "",
+      "endDate": "",
+      "courses": [
+        "Attended four years of R.O.T.C. leadership training"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Florida Restaurant Association Achievement Award",
+      "date": "1998",
+      "awarder": "Florida Restaurant Association",
+      "summary": "Top 1% of class"
+    }
+  ],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Culinary Skills",
+      "level": "",
+      "keywords": [
+        "Attention to detail",
+        "budget",
+        "color",
+        "cost control",
+        "customer service",
+        "inventory",
+        "leadership skills",
+        "leadership training",
+        "Director",
+        "meetings",
+        "personnel",
+        "producing",
+        "purchasing",
+        "receiving",
+        "Fast learner"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [
+    {
+      "name": "Professional Development",
+      "keywords": [
+        "Being a good member of anyone's team includes taking ownership and performing at their best to get the job done. Ownership is leadership, and I bring that with me as well as creativity, enthusiasm, hard work, and a great attitude"
+      ]
+    }
+  ],
+  "references": [],
+  "projects": []
+}

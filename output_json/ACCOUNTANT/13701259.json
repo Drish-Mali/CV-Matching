@@ -1,0 +1,105 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Senior Accountant",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Senior Accounting Professional with extensive experience in various areas of accounting and finance. Visionary with strategic analytical skills. Practical, articulate and creative with proven ability to positively impact an organization's financial health. Proven ability to resolve conflict, improve processes, and is Lean Six Sigma certified. An expert negotiator with a continuous focus on ROI. Able to consistently meet challenges in a demanding work environment to achieve and exceed organizational goals.Results-orientated in a deadline-driven environment. Performance improvement and excellent vendor relations and customer service skills. Conceptual and exceptional multitasking abilities.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": [
+    ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Senior Accountant",
+      "url": "",
+      "startDate": "2009-11-01",
+      "endDate": "2016-01-31",
+      "summary": "Managed Subsidy Revenue and A/R process associated with over 70 contracts totaling $53 million in revenue. Preparation of monthly invoices, audit lead- schedules, budgeting and forecasting revenue, collections and expense control activities. Accruals, contract reviews. Quality measure benchmarks. Awarded employee of the quarter for reducing Company's outstanding A/R by 70% in 30 days.",
+      "highlights": [
+        "Awarded employee of the quarter for reducing Company's outstanding A/R by 70% in 30 days.",
+        "Increased Revenue by 20% by implementing an in-depth auditing process which maximized revenue recognition."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Senior Accountant",
+      "url": "",
+      "startDate": "2006-02-01",
+      "endDate": "2009-11-01",
+      "summary": "A health care organization with an annual revenue of over $5 million specializing in drug and alcohol rehabilitation with a primary focus on substance abuse.",  
+      "highlights": [
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Senior Accountant",
+      "url": "",
+      "startDate": "2006-01-01",
+      "endDate": "2009-01-01",
+      "summary": "A health care organization that operated a contract with the State of Florida Department of Juvenile Justice to provide psychiatric and other behavioral health services principally to at-risk troubled female youth.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Controller",
+      "url": "",
+      "startDate": "2001-01-01",
+      "endDate": "2006-01-01",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Mercy College",
+      "url": "",
+      "area": "Accounting",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Accounting",
+      "level": "Master",
+      "keywords": [
+        "Cost control", 
+        "Analytical and critical thinker", 
+        "Month-end reconciliation and analysis", 
+        "Self-starter", 
+        "Budgeting and forecasting"
+      ]
+    },
+    {
+        "name": "Software",
+        "level": "",
+        "keywords": [
+            "Microsoft Word/Excel",
+            "Great Plains Dynamics",
+            "BI360 (BusinessIntelligence Tool)",
+            "Keane Care"
+        ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

@@ -1,0 +1,140 @@
+{
+  "basics": {
+    "name": "",
+    "label": "School Library Media Specialist",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "My goal is to bring my unique set of skills and experiences from my professional background to the position of College and Career Coordinator, at Broken Arrow Public Schools, which will allow me to provide an irreplaceable viewpoint and ensure every student receives the highest quality instruction each day...",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "School Library Media Specialist",
+      "url": "",
+      "startDate": "2008-08",
+      "endDate": "Current",
+      "summary": "Chaired the Oklahoma Sequoyah Award committees which required serving as the liaison...",
+      "highlights": [
+        "Introduced, raised funds and implemented reading programs",
+        "Analyze data, research, and collaborate with colleagues"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "School Library Media Specialist",
+      "url": "",
+      "startDate": "2002-09",
+      "endDate": "2008-08",
+      "summary": "Wrote grants and developed strategic marketing plans to raise funds for educational programs...",
+      "highlights": [
+        "Interpreted and enforced provisions of state education",
+        "Effectively used books, Internet, and current professional journals"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "English Language Arts Teacher",
+      "url": "",
+      "startDate": "1999-08",
+      "endDate": "2002-09",
+      "summary": "Prepared course outlines, lesson plans and other education material...",
+      "highlights": [
+        "Collaborated with team members to plan, develop, organize and promote integrative instruction"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Northeastern State University",
+      "url": "",
+      "area": "School Administration",
+      "studyType": "Masters of Education",
+      "startDate": "",
+      "endDate": "2015-05",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "University of Oklahoma",
+      "url": "",
+      "area": "Library",
+      "studyType": "Masters",
+      "startDate": "",
+      "endDate": "2003-05",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Northeastern State University",
+      "url": "",
+      "area": "Education English",
+      "studyType": "Bachelor of Arts",
+      "startDate": "",
+      "endDate": "1998-12",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Educational Skills",
+      "level": "",
+      "keywords": [
+        "curriculum development", 
+        "educational programs",
+        "English",
+        "fundraising",
+        "funds",
+        "government",
+        "grants",
+        "instruction",
+        "lesson plans",
+        "profit",
+        "promotional material",
+        "reading",
+        "research",
+        "strategic marketing",
+        "teacher",
+        "author",
+        "Composition"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "affiliations": [
+    {
+      "organization": "Software & Information Industry Association",
+      "date": "2013-2014",
+      "position": "SIIA CODiE AWARDS",
+      "url": ""
+    },
+    {
+      "organization": "Oklahoma Library Association",
+      "position": "",
+      "url": "",
+      "details": [
+        "Oklahoma Sequoyah Award Committee - Administrative Team Chairman",
+        "Oklahoma Sequoyah Award Intermediate Reading Team",
+        "Oklahoma Sequoyah Award Young Adult Reading Team",
+        "Intellectual Freedom Committee"
+      ]
+    }
+  ]
+}

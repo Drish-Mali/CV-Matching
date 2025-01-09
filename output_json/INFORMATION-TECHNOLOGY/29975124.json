@@ -1,0 +1,86 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Consultant",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Information Technology professional with 20+ years of experience working in various roles. Possesses written and verbal communication skills and excellent interpersonal and leadership skills.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "State",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Consultant",
+      "url": "",
+      "startDate": "05/2017",
+      "endDate": "Current",
+      "summary": "Managed project schedule and local and remote staff to collect Water Main data and update GIS system. Developed business process, productivity reports, and secure FTP scripts. Provided Application support.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Utility Solutions Consultant",
+      "url": "",
+      "startDate": "02/2006",
+      "endDate": "04/2017",
+      "summary": "Configured and installed applications. Led system administration team. Provided training and application support. Assisted the City of Cleveland.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "CEO/Consultant",
+      "url": "",
+      "startDate": "02/2000",
+      "endDate": "02/2006",
+      "summary": "Managed Griffin Technology Group budget, taxes, expenses and contracts. Developed applications using Access and Visual basic. Assisted System Administrators in infrastructure upgrades.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "GEORGIA INTITUTE OF TECHNOLOGY",
+      "url": "",
+      "area": "Computer Science",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "12/1993",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Computer Skills",
+      "level": "",
+      "keywords": [
+        "Software Development Life Cycle",
+        "Project Management",
+        "Oracle and SQL Server databases",
+        "Crystal Reports",
+        "Windows and UNIX environments",
+        "Automated Meter Reading and Utility Billing systems",
+        "Shell Scripting and SharePoint",
+        "Programming Languages: C/C++",
+        "PL/SQL",
+        "Visual Basic",
+        "Uniface",
+        "PHP",
+        "HTML",
+        "XML"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

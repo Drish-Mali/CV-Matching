@@ -1,0 +1,105 @@
+{
+  "basics": {
+    "name": "Executive Chef",
+    "label": "Executive Chef",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Talented Executive Chef with twenty five years experience developing menus and working as head chef/owner of mobile catering business, fast food Cajun and Classical Seafood/Cajun/Creole Family restaurant. Twenty five years professional experience as a dynamic, resourceful and skilled Executive Head Chef with a proved success record in both fine dining and catering.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Executive Chef",
+      "url": "",
+      "startDate": "1987-12-01",
+      "endDate": "",
+      "summary": "Responsible for coordination of up to 12 servers in restaurant with a capacity of 200. Baked, roasted, broiled, and steamed meats, fish, vegetables and other foods. Estimated amounts and costs of required supplies. Helped with preparation, set-up, and service for catering events. Developed variety of menu items catering to customers with food allergies and diet restrictions such as gluten-free and vegan items. Managed kitchen operations overseeing 10 cooks and a Sous Chef as part of overall back of the house operations. Managed food and produce receiving process with 100% accuracy. Executed various kitchen stations and assisted with meat, fish, saut� or pantry. Stocked and rotated products. Maintained system of control for storage temperatures and proper functioning of kitchen equipment.",
+      "highlights": [
+        "Responsible for all kitchen operations such as banquet events, buffet lines, room service orders and hotel restaurant.",
+        "Adjusted monthly menus to maximize use of seasonal local ingredients and delicacies.",
+        "Frequently switched positions as Cold Food prep, Soup Station Chef and Relief Chef mid shift.",
+        "Developed popular daily specials with personally sourced ingredients for broiler and sauté stations.",
+        "Directed the operation and organization of kitchens and all food-related activities, including the presentation and serving of food",
+        "Suggested additional items to customers, as appropriate, to increase restaurant sales"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Le Cordon Bleu Culinary School",
+      "url": "",
+      "area": "Culinary Arts Hospitality and Restaurant Management",
+      "studyType": "Associate of Arts",
+      "startDate": "2011-01-01",
+      "endDate": "2011-12-31",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Culinary",
+      "level": "Master",
+      "keywords": [
+        "allergies", 
+        "Basic", 
+        "Cash handling", 
+        "closing", 
+        "oral communication", 
+        "cooking", 
+        "cost analysis", 
+        "cost control", 
+        "customer service", 
+        "fashion", 
+        "fast", 
+        "features", 
+        "inventory", 
+        "leadership skills", 
+        "office", 
+        "Works", 
+        "Operations Management", 
+        "personnel", 
+        "presentation skills", 
+        "profit", 
+        "quality", 
+        "receiving", 
+        "safety", 
+        "safety codes", 
+        "selling", 
+        "sales", 
+        "scheduling", 
+        "servers", 
+        "supervisor", 
+        "trainer",
+        "Health Department certified"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "professionalAffiliations": [
+    {
+      "name": "Small Business Association",
+      "membershipPeriod": "2005 - present"
+    },
+    {
+      "name": "USPCA United States Private Chef Association",
+      "membershipPeriod": ""
+    }
+  ]
+}

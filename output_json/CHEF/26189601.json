@@ -1,0 +1,104 @@
+{
+  "basics": {
+    "name": "Aaron LeRoi Hodge",
+    "label": "Lead Chef & Food Truck Manager",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "www.ChefAaronLeRoi.com",
+    "summary": "I am well trained in both classic and contemporary culinary methods and techniques and developed a strong understanding of how to prepare a wide variety of global cuisines, as well as wine & beer pairing.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "US",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Lead Chef & Food Truck Manager",
+      "url": "",
+      "startDate": "2015-05-01",
+      "endDate": "Current",
+      "summary": "Helped make a concept become a reality and currently working to become a brand. Working under a talented former French Laundry Executive Chef, and a team of passionate individuals.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Executive Chef",
+      "url": "",
+      "startDate": "2012-10-01",
+      "endDate": "2013-02-01",
+      "summary": "Gained invaluable experience is a fine dining, high production kitchen",
+      "highlights": []
+    },
+    {
+      "name": "Chef Aaron LeRoi Hodge",
+      "position": "Chef, Owner",
+      "url": "www.ChefAaronLeRoi.com",
+      "startDate": "2010-05-01",
+      "endDate": "Current",
+      "summary": "Prepares healthy cuisine and personal fit meals.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Culinary Apprentice under Executive Chef",
+      "url": "",
+      "startDate": "2010-05-01",
+      "endDate": "2012-02-01",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Glenelg High School",
+      "url": "",
+      "area": "Culinary Arts Academy Culinary Arts",
+      "studyType": "High School Diploma",
+      "startDate": "",
+      "endDate": "2011",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Howard County Community College",
+      "url": "",
+      "area": "Culinary Arts",
+      "studyType": "L'Academie de Cuisine",
+      "startDate": "",
+      "endDate": "2012",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "The Culinary Institute of America",
+      "url": "",
+      "area": "Culinary Arts & Culinary Arts Management",
+      "studyType": "Bachelor of Arts",
+      "startDate": "",
+      "endDate": "2014",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Culinary Skills",
+      "level": "",
+      "keywords": ["Knowledge of the personal chef/private catering business", "Maintain great quality of food", "Fast and capable of handling large projects"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

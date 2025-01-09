@@ -1,0 +1,94 @@
+{
+  "basics": {
+    "name": "Not Given",
+    "label": "Finance Controller",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Established goals and objectives, developed policies and procedures, recruited and trained staff, initiated and enhanced automated systems. Turned around 'problem areas'. Ensures compliance with and knowledge of governmental regulations and requirements. Defined and closely monitored short-and long-term goals and objectives for all departments.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "USA",
+      "region": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Finance Controller",
+      "url": "",
+      "startDate": "2010-08-01",
+      "endDate": "2017-09-01",
+      "summary": "Managed team 100 professionals... Managed and tracked the revenue of invested assets to ensure compliance with company policies and investment guidelines."
+    },
+    {
+      "name": "Company Name",
+      "position": "Administrator",
+      "url": "",
+      "startDate": "2008-10-01",
+      "endDate": "2017-09-01",
+      "summary": "Manage the 32-person Corporate Practice Group..."
+    },
+    {
+      "name": "Company Name",
+      "position": "Manager of Finance",
+      "url": "",
+      "startDate": "1997-02-01",
+      "endDate": "2006-12-01",
+      "summary": "Improved collections through the development of receivables... Worked as hospital/department liaison..."
+    },
+    {
+      "name": "Company Name",
+      "position": "Controller",
+      "url": "",
+      "startDate": "1990-02-01",
+      "endDate": "1996-12-01",
+      "summary": "Established line of credit used in financing working capital requirements. Implemented departmental budget vs. actual reporting system..."
+    }
+  ],
+  "education": [
+    {
+      "institution": "New york institute of technology",
+      "url": "",
+      "area": "",
+      "studyType": "Bachelor of Science",
+      "startDate": "Not Given",
+      "endDate": "1996-01-01"
+    },
+    {
+      "institution": "New york institute of technology",
+      "url": "",
+      "area": "",
+      "studyType": "MBA : Finance",
+      "startDate": "",
+      "endDate": "1998-01-01"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Finance Control",
+      "level": "Not Given",
+      "keywords": [
+        "Leadership/communication skills",
+        "Project management",
+        "Product development",
+        "Small business development",
+        "Budgeting expertise",
+        "Client account management",
+        "Self-motivated",
+        "Customer-oriented"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "awards": [],
+  "publications": [],
+  "certificates": []
+}

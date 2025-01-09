@@ -1,0 +1,164 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Finance Manager",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Top performing Individual with a consistent track record of surpassing sales goals and meeting objections. Extensive sales experience in the retail and customer service industry specializing in auto sales. An innovative manager who has lead a cohesive sales team in consistently achieving aggressive stretch goals with unique abilities in making decisions and problem solving.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "",
+      "region": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "position": "Finance Manager",
+      "startDate": "2010-11-01",
+      "endDate": "2015-01-01",
+      "summary": "Understands automobiles by studying characteristics, capabilities, and features; comparing and contrasting competitive models; inspecting automobiles.",
+      "highlights": [
+        "Exceeded Sales goals by 40% on a monthly basis, which led to promotion to Finance Manager in 4 months."
+      ],
+      "company": {
+        "name": "Company Name"
+      }
+    },
+    {
+      "position": "Finance Manager",
+      "startDate": "2015-11-01",
+      "endDate": "2016-08-01",
+      "summary": "Negotiated and reviewed business contracts and financial models with profitability and financial success in mind. Hands-on negotiations with clients. Secured loans for customers.",
+      "highlights": [
+      ],
+      "company": {
+        "name": "Company Name"
+      }
+    },
+    {
+      "position": "CNA",
+      "startDate": "2003-01-01",
+      "endDate": "2010-07-01",
+      "summary": "Performed patient care in a long term, geriatric care Hospice and terminally ill care of. patients and family Daily care of 13 bed unit Bathing and care of patients.",
+      "highlights": [
+      ],
+      "company": {
+        "name": "Company Name"
+      }
+    }
+  ],
+  "education": [
+    {
+      "institution": "UDS",
+      "area": "Finance & Automotive Insurance",
+      "studyType": "Certificate",
+      "startDate": "2014-01-01",
+      "endDate": "2014-12-31"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Automobiles",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Bi",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Contracts",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Features",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Financing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Financial",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Hospice",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Inspecting",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Leadership",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Marketing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Negotiating",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Negotiation",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Bathing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Patient Care",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Personnel",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Policies",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Rapport",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Sales",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "volunteer": [],
+  "awards": [],
+  "certificates": [],
+  "publications": []
+}

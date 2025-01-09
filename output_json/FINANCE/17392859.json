@@ -1,0 +1,90 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Director of Finance",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Seeking a position in financial/general accounting. Highly meticulous and reliable Finance Director with an outstanding client service record. Adept multitasker able to handle a number of cash management projects with professionalism and accuracy. Strong research skills in optimizing current and efficient cash management team operation.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Director of Finance",
+      "url": "",
+      "startDate": "2016-05-01",
+      "endDate": "Current",
+      "summary": "Manages the day to day accounting department, including hands on monthly close, commission reports, financial statements. Manages financial tasks, budgeting and overall accounting of the company...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Sr. Operations Analyst-Fund Accounting",
+      "url": "",
+      "startDate": "2015-09-01",
+      "endDate": "2016-04-01",
+      "summary": "Process funds' trade activity and communicate with the funds' investment manager on a daily basis...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Financial Analyst-General Accounting",
+      "url": "",
+      "startDate": "2013-10-01",
+      "endDate": "2015-09-01",
+      "summary": "Prepares month-end, quarter-end, year-end account analysis and reconciliation, including reconciliation of bank statements to the finance ledger...",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Johnson & Wales University",
+      "url": "",
+      "area": "Accounting",
+      "studyType": "MBA",
+      "startDate": "",
+      "endDate": "2011-01-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Johnson & Wales University",
+      "url": "",
+      "area": "Accounting",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "2009-01-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Accounting Software",
+      "level": "",
+      "keywords": ["Bloomberg", "DTCC", "PACE", "Asset Arena", "Essbase", "Great Plains", "Hyperion", "ELedger/SAP", "Access", "Excel", "Word", "PowerPoint", "Oracle", "QuickBooks"]
+    },
+    {
+      "name": "Accounting Knowledge",
+      "level": "",
+      "keywords": ["fiscal budgeting knowledge", "financial reporting"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

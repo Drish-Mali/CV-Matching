@@ -1,0 +1,129 @@
+{
+  "basics": {
+    "name": "",
+    "label": "AVP, Finance",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Accounting professional with extensive experience financial and managerial accounting practices and procedures. Detail oriented with strong organizational skills; diligent and hardworking with proven ability to handle multiple projects simultaneously and prioritize efficiently while meeting deadlines. Ability to identify problems and recommend feasible solutions.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "AVP, Finance",
+      "url": "",
+      "startDate": "2015-02",
+      "endDate": "Current",
+      "summary": "Managed accounting operations, accounting close, account reporting and reconciliations for Research Sales & Trading Division. Provided reliable and timely project by project expense, capitalization, amortization for our Market Research Healthcare Division. Reviewed accountant's book entries to ensure accuracy of the G/L. Prepared monthly and annual expense forecasts, including any necessary recommended action required to manage costs to achieve budget. Worked with management to document and offset unusual expense variances in their respective areas.",
+      "highlights": [
+        "Conducted detailed technical and analytical review of cost and proposed measures to trim costs related to outsourcing work and other major projects. This initiative resulted in a significant cost reduction.",
+        "Established policies and procedures for a division who was not in compliance with the firms goals."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Senior Accountant",
+      "startDate": "2010-10",
+      "endDate": "2015-06",
+      "summary": "Work with Project Managers to ensure accurate and timely invoicing. Received, recorded, and banked cash, checks, and vouchers as well as reconciled records of bank transactions. Managing banks accounts including making remote deposits Schedule appropriate collection reminders and follow-up past-due receivables. Recording of AP and issuing payment to vendors. Recognizing all expenses at project completion and making accruals as necessary. Booking all prepaid expenses. Monthly preparation of bank reconciliations. Preparation and analysis of Financial Statements. Recording deferred revenue and recognizing revenue at project completion. Perform month-end closing. Maintain weekly cash flow management. Working on AD HOC reports Working with external entities. Preparing the ground work for external auditors. General Ledger Accounting in JD Edwards.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Senior Accountant",
+      "startDate": "2009-06",
+      "endDate": "2010-10",
+      "summary": "Work with Project Managers to ensure accurate and timely invoicing. Managed banks accounts including making remote deposits. Schedule appropriate collection reminders and follow-up past-due receivables. Recorded of AP and issuing payment to vendors. Recognising all expenses at project completion and making accruals as necessary. Perform month-end closing. Maintain weekly cash flow management. Working on AD HOC reports. Working with external entities. Preparing the ground work for external auditors. General Ledger Accounting in Quickbooks.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Accountant",
+      "startDate": "2006-05",
+      "endDate": "2009-03",
+      "summary": "Executed accounts receivable reporting enhancements and reconciliation procedures. Managed monthly bank reconciliations. Performed account reconciliations and general ledger entries. Managed A/P and A/R, as well as weekly and monthly billing. Prepared weekly payroll and payroll taxes. Communicated extensively with employees, customers, and bank representatives. Bank deposits and application of payments to A/R accounts. Maintained weekly cash flow management. Prepared financial reports as required. Negotiated and enforced collections to ensure the clearance of outstanding accounts.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Accountant",
+      "startDate": "2005-08",
+      "endDate": "2006-05",
+      "summary": "Monthly preparation of bank reconciliations. Invoiced customers. Updated chart of accounts. Monthly preparation of AR statements. Recorded cash receipts and applied against invoices. Hands-on Journal Entries. General Ledger Accounting in Great Plains.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Accountemps Salaried Professional Service - Accountant",
+      "startDate": "2005-08",
+      "endDate": "2006-05",
+      "summary": "Monthly preparation of bank reconciliations. Preparation of A/R invoices. Bank deposits and application of payments to AR accounts. Updated daily cash, check register statistics, and bank reports in spreadsheet. Hands-on Journal Entries. General Ledger Accounting in Great Plains.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Accountant",
+      "startDate": "2005-08",
+      "endDate": "2006-05",
+      "summary": "Monthly preparation of bank reconciliations. Responsible for Accounts Payable from entering invoices through cutting checks. Updated chart of accounts for new vendors. Use of Property Management system Timberline to enter, terminate and renew leases. Deposited checks received from clients and tenants. Prepared monthly reports including Statement Cash Receipts and Disbursement, Statement of Operating Cost, Expense Distribution summary, Aged Receivables, Accounts Payable Check Register, Cash Report Activity. Prepared annual budgets for various housing companies. Competent in use of Timberline Accounting Software.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Tax Specialist",
+      "startDate": "2003-12",
+      "endDate": "2010-04",
+      "summary": "Prepared Individual tax returns including Schedules A, B, C, D, and E. Correction and transmission of returns rejected by the IRS and amendment of prior years tax returns. Prepared the end of day journals.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Cameron University",
+      "url": "",
+      "area": "Accounting",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Accounting",
+      "level": "",
+      "keywords": [
+        "Account reconciliations",
+        "Accounting Software",
+        "Bank reconciliations",
+        "Budgets",
+        "Financial reports",
+        "Analysis of Financial Statements",
+        "Variance analysis",
+        "General Ledger Accounting",
+        "JD Edwards",
+        "Quickbooks",
+        "Excel",
+        "Payroll"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

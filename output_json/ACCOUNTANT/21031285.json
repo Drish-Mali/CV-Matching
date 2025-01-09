@@ -1,0 +1,103 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Accountant",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "A skilled accountant with deep knowledge in financial controls, GL, financial operations, Sarbanes-Oxley, and PeopleSoft.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "US",
+      "region": ""
+    },
+    "profiles": {}
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Accountant",
+      "url": "",
+      "startDate": "08/2014",
+      "endDate": "Current",
+      "summary": "Accountant for the Experimental Therapeutics Research department. Prepare financial reports, create financial models, reconcile accounts, assist with operating budgets, and review transactions for financial compliance.",
+      "highlights": [
+        "Constructed a macro-enabled reconciliation template to reduce errors and maximize efficiency",
+        "Prepared training materials to standardize processes"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Staff Accountant",
+      "url": "",
+      "startDate": "12/2012",
+      "endDate": "08/2014",
+      "summary": "Full cycle accountant for several operating companies. Prepared financial statements, verified ledger entries, reconciled transactions, and provided information to auditors.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Accountant/Auditor",
+      "url": "",
+      "startDate": "01/2010",
+      "endDate": "02/2012",
+      "summary": "Both accountant and auditor in the department of financial services. Compiled and summarized accounting information, examined accounting documents for compliance, and prepared adjusting and closing entries.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Prairie View A&M University",
+      "url": "",
+      "area": "Accounting",
+      "studyType": "Masters of Science",
+      "startDate": "",
+      "endDate": "May 2011",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Prairie View A&M University",
+      "url": "",
+      "area": "Accounting",
+      "studyType": "BBA",
+      "startDate": "",
+      "endDate": "Dec 2009",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Financial Controls",
+      "level": "Advanced",
+      "keywords": []
+    },
+    {
+      "name": "PeopleSoft",
+      "level": "Advanced",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Office",
+      "level": "Intermediate",
+      "keywords": ["Excel", "Word", "PowerPoint", "Outlook", "Access"]
+    },
+    {
+      "name": "SAP",
+      "level": "Advanced",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

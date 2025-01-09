@@ -1,0 +1,135 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Business Development Executive",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Business development/Marketing professional experienced in sales management, marketing, technical presentation creation and service training. Diligent and driven individual who has achieved success in a variety of roles with increasing levels of responsibility. An effective communicator and team-builder with strong analytical, management and organizational skills.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Business Development Executive",
+      "url": "",
+      "startDate": "2010-06-01",
+      "endDate": "Current",
+      "summary": "Conducted informational and educational workshops at CUNY/SUNY College campuses benefit fairs that increased credit union membership and exposure. Implemented in house marketing design for brochures, posters, articles, flyers, newsletters, e-marketing, social media/web page content which saved over $10,000 annually. Generated and maintained social media calendar for Facebook, Twitter, Corporate bog, etc. to ensure member engagement and that all content is reflective of current media and new product/service campaigns. Identified issues with existing marketing material to drive process improvements. Collaborated with account executives to penetrate new accounts, identify potential customers and coordinate product demonstrations.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Loan Manager",
+      "url": "",
+      "startDate": "2001-09-01",
+      "endDate": "2010-06-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Credit/Collections Analyst",
+      "url": "",
+      "startDate": "1998-01-01",
+      "endDate": "2001-09-01",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Zicklin School of Business, Baruch College",
+      "url": "",
+      "area": "Finance",
+      "studyType": "Master of Science",
+      "startDate": "",
+      "endDate": "2011-01-01",
+      "score": "3.47",
+      "courses": []
+    },
+    {
+      "institution": "Baruch College",
+      "url": "",
+      "area": "Computer Information Systems",
+      "studyType": "BBA",
+      "startDate": "",
+      "endDate": "1997-01-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Bronx Community College",
+      "url": "",
+      "area": "Marketing",
+      "studyType": "Associate of Applied Science",
+      "startDate": "",
+      "endDate": "1994-01-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "New Customer Acquisition",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Brand Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Account Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Prospecting",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Analytical Problem Solver",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "New Program and Promotion Implementation",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Financial Analysis",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Adept Multi-Tasker",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "MS Office (Word, Excel, Powerpoint, Publisher, Outlook), Constant Contact, ASA/400",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

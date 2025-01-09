@@ -1,0 +1,99 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Accountant",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Capable Accountant successful at managing multiple projects and consistently meeting deadlines under pressure. Extensive knowledge of accounting software and processes. 35 years of experience in industries including Public Accounting, Petrochemical/Research and Technology, Oil and Gas Services, Equestrian Farms, Manufacturing and Health Care.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Republic Services",
+      "position": "Accountant",
+      "url": "",
+      "startDate": "2014-11",
+      "endDate": "2015-03",
+      "summary": "Due diligence work on a couple acquisitions. Balance sheet reconciliations for five divisions, various other miscellaneous reconciliations in various systems.",
+      "highlights": []
+    },
+    {
+      "name": "",
+      "position": "Cost/Inventory Accountant",
+      "url": "",
+      "startDate": "2011-01",
+      "endDate": "2014-05",
+      "summary": "Performed various functions in the Cost/Inventory Accounting department such as month-end close, setting up new and updating current SUC's, warehouse mapping, MAC mapping, CASS weekly import, Open Payables Account and Inventory reconciliations after month-end close.",
+      "highlights": ["Process changes in January 2013 changing from SUC to AUC, analyzing costs weekly to verify reasonableness."]
+    },
+    {
+      "name": "",
+      "position": "Accountant II - Environmental Solutions Spare Parts HUB-Closed",
+      "url": "",
+      "startDate": "2008-10",
+      "endDate": "2011-01",
+      "summary": "Performed all accounting functions for supply hub. Analyze financial reports and records, ensure accuracy and report any anomalies. Review and verify the accuracy of journal entries. Reconciliation of cycle/physical counts and management reports of the same. Provide reports for auditors. Serve as a resource for US Districts regarding cycle counts, in-transit reconciliation and any/all inventory issues. Processed all payables for purchase orders. This was a new facility so I also set-up all procedures for the accounting functions.",
+      "highlights": []
+    },
+    {
+      "name": "Dagen Personnel",
+      "position": "Fixed Asset Accountant",
+      "url": "",
+      "startDate": "2008-03",
+      "endDate": "2008-10",
+      "summary": "Appropriation Request reconciliations using Oracle, CETA and SAM software packages to reconcile CIP accounts in the Corporate Accounting Fixed Asset Group. Tracked all capital spending against approved capital requests. Coordinated fixed asset additions.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Ashford University",
+      "url": "",
+      "area": "Supply Chain Management",
+      "studyType": "Bachelor of Arts",
+      "startDate": "",
+      "endDate": "2017",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Scott Community College",
+      "url": "",
+      "area": "Accounting Technology",
+      "studyType": "Associate of Arts",
+      "startDate": "",
+      "endDate": "02/80",
+      "score": "3.51",
+      "courses": ["Accounting over 40 credit hours and thirty-five years of progressive experience."]
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Financial Analysis",
+      "level": "",
+      "keywords": ["Accounting Month-End", "SAP Power User", "Variance Explanations", "Core Process Review Team", "Budgeting", "Fixed Asset", "Cost Reductions"]
+    },
+    {
+      "name": "Computer Applications",
+      "level": "",
+      "keywords": ["SAP Financial-Accounting Module","SAP FI/CO Module","SAP Asset Management Module","PB Views/Six Sigma","Lawson/InfoPro","Oracle-GL/OPM/Payables/Fixed Assets","BPCS","COGNOS Upfront","COGNOS PowerPlay","Sam","CETA","MAS90/Best FAS","MS Excel, Access, Word, PowerPoint","Great Plains","Platinum","QuickBooks","Peachtree","SBT","Libra","Open Systems","Various Others"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

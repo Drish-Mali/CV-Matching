@@ -1,0 +1,74 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Main Chef",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Lead emergency department training officer at NMH in Chicago. Food service professional with 6 plus years of restaurant experience adept at FOH and BOH operations. Demonstrated team leader with excellent staff management skills. Highly proactive customer service specialist. Driven, dedicated, and hardworking individual offering focused leadership and operational knowledge.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "",
+      "position": "Main Chef, Assistant General Manager, Main prep, Cook",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Responsible for the well being and security of the client, staff, site, and/or property. Led and directed team members on effective methods, operations and procedures. Ensured high customer service and maintains positive environment. Ensured goals are met timely and in a respectable manner. Involved in cost control, sanitation, menu development, training, recruitment, private dining and catering.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Malcolm X College - Chicago, IL",
+      "url": "",
+      "area": "EMT/Paramedic",
+      "studyType": "Associate of Applied Science",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": [
+        "EMT-I Certificate class series",
+        "Coursework in Human Anatomy and Physiology",
+        "Disaster and Emergency Management"
+      ]
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Food service",
+      "level": "",
+      "keywords": [
+        "Conflict resolution",
+        "Cost control",
+        "Excellent customer service",
+        "Customer service specialist",
+        "Documentation",
+        "Inventory control",
+        "Leadership",
+        "Team leader",
+        "Safety",
+        "Fast learner",
+        "Goal driven",
+        "Microsoft office proficiency"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

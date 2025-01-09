@@ -1,0 +1,117 @@
+{
+  "basics": {
+    "name": "Unknown",
+    "label": "Finance Controller",
+    "email": "unknown",
+    "phone": "unknown",
+    "summary": "Hands on Controller with over 12 years of experience in financial accounting and management, acknowledged for sound decision-making abilities, analytical skills, business acuity and problem solving skills. Strategic, methodical and reliable, enjoy the challenge of resolving long term issues, and influencing positive bottom line outcomes...",
+    "location": {
+      "city": "City",
+      "countryCode": "unknown"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Finance Controller",
+      "startDate": "July 2014",
+      "endDate": "Current",
+      "summary": "Manage large scale revenue cycle contracts in day to day operational finance & accounting activities including budgeting/forecasting, revenue recognition and financial reporting..."
+    },
+    {
+      "name": "Company Name",
+      "position": "Division Controller",
+      "startDate": "November 2008",
+      "endDate": "July 2014",
+      "summary": "Managed accounting operations for a $700M IT Services Division, including monthly close, revenue recognition, billing and BS reconciliation..."
+    },
+    {
+      "name": "Company Name",
+      "position": "Corporate Controller",
+      "startDate": "February 2002",
+      "endDate": "May 2008",
+      "summary": "Managed all aspects of accounting operations and financial reporting for a $45 million hardwood flooring wholesale distribution company with locations in the U.S., Malaysia and Europe..."
+    },
+    {
+      "name": "Company Name",
+      "position": "Senior Accounting Consultant",
+      "startDate": "August 2001",
+      "endDate": "January 2002",
+      "summary": "Post acquisition integration of vendors and purchasing processes..."
+    },
+    {
+      "name": "Company Name",
+      "position": "Senior Business Analyst",
+      "startDate": "October 2000",
+      "endDate": "August 2001",
+      "summary": "Planned and directed the analysis of Industry \"Best Practices\" to improve financial operations Evaluated and maintained GAAP compliance for reporting..."
+    },
+    {
+      "name": "Company Name",
+      "position": "Finance Director Education and Client Support Services",
+      "startDate": "October 1996",
+      "endDate": "August 2000",
+      "summary": "Directed the development of financial software training programs, delivered content and mentored consulting staff, reporting directly to the CFO..."
+    },
+    {
+      "name": "Company Name",
+      "position": "Senior Financial Analyst",
+      "startDate": "unknown",
+      "endDate": "unknown",
+      "summary": "Analyzed accounting processes, resolved system processing issues System consolidations and budgeting process Managed project deliverables, including development of project plans, budgets and staffing for ERP financial systems imp lementations across varied industries..."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Hawaii Pacific University",
+      "area": "Accounting",
+      "studyType": "MBA",
+      "startDate": "unknown",
+      "endDate": "May 1994"
+    },
+    {
+      "institution": "Hawaii Pacific University",
+      "area": "Business Administration",
+      "studyType": "Bachelor of Science",
+      "startDate": "unknown",
+      "endDate": "May 1993"
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Accounting",
+      "level": "Expert",
+      "keywords": [
+        "ERP Implementations",
+        "Peoplesoft",
+        "NVision",
+        "Oracle 11i",
+        "Essbase tools",
+        "Epicor",
+        "Assurenet & Blackline",
+        "Intercompany Accounting",
+        "Balance Sheet Consolidations",
+        "Purchase Accounting"
+      ]
+    },
+    {
+      "name": "Management",
+      "level": "Expert",
+      "keywords": [
+        "Financial statement analysis",
+        "Account reconciliation",
+        "Budget forecasting",
+        "Complex problem solving",
+        "Time management"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

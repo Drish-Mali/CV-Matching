@@ -1,0 +1,65 @@
+{
+  "basics": {
+    "name": "A La Carte Chef/ Chef De Cuisine",
+    "label": "Professional Cook",
+    "summary": "A professional cook with 10+ years of combined on the job work training and experience...",
+    "location": {
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "A La Carte Chef/ Chef De Cuisine",
+      "startDate": "2015-10-01",
+      "summary": "Supervise 10 cooks across two kitchens...",
+      "highlights": ["Management of protein, perishable, and dry goods inventory with a focus on utilisation and cost effectiveness"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Sous Chef",
+      "startDate": "2015-04-01",
+      "summary": "Effectively Managing a kitchen team of 12 cooks and stewards over two kitchens on property...",
+      "highlights": ["Planning and executing a daily changing dinner menu"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Lead Expeditor",
+      "startDate": "2014-02-01",
+      "endDate": "2015-02-01",
+      "summary": "The Masters Golf Tournament...",
+      "highlights": ["Effective Planning and Organisational Skills."]
+    },
+    {
+      "name": "Company Name",
+      "position": "Various Positions",
+      "startDate": "2009-12-01",
+      "endDate": "2014-05-01",
+      "summary": "Assorted positions including Junior Sous Chef, Chef/Instructor, Cook, Stage, and Intern...",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Culinary Institute of America",
+      "area": "Culinary Arts and Restaurant Management",
+      "studyType": "Bachelor",
+      "startDate": "2009-01-01",
+      "courses": ["Culinary Arts"]
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Culinary Skills",
+      "level": "Professional",
+      "keywords": ["Interpersonal Skills", "cooking", "critical thinking", "dependability focused", "human relations", "inventory", "listening skills", "management", "leadership", "enthusiasm", "passion for cooking", "problem solving"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

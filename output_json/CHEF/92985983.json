@@ -1,0 +1,104 @@
+{
+  "basics": {
+    "name": "Anonymous",
+    "label": "Executive Chef",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Executive chef and certified chef for more than 8 years. Expertly trained in classic French cuisine at Le Cordon Bleu, and specializes in Caribbean, Mediterranean, Indian, Central American cuisine. Currently looking t o obtain a position in the Hospitality field that provides opportunities for continued growth and development, and to utilize my current knowledge and skills to continuously improve operational quality and efficiency.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Executive Chef",
+      "url": "",
+      "startDate": "2014-02-01",
+      "endDate": "Present",
+      "summary": "Acting manager of staff of 50+ employees. Continuously improving the menus for seasonal, sustainable, and local products available. Managing inventory and training staff. Responsible for special functions.",
+      "highlights": [
+        "Received Core 4 award",
+        "Received CFE award",
+        "Number one account for monthly retention meetings"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "R&D Executive Chef",
+      "url": "",
+      "startDate": "2013-04-01",
+      "endDate": "2013-11-01",
+      "summary": "Responsible for creating/testing recipes, creating programs, as well as training.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Head Chef",
+      "url": "",
+      "startDate": "2011-09-01",
+      "endDate": "2013-04-01",
+      "summary": "Acting manager of staff of 100 employees and maintaining the standards of the unit.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Sous Chef",
+      "url": "",
+      "startDate": "2010-09-01",
+      "endDate": "2011-09-01",
+      "summary": "Acting manager of staff of 70 employees and maintaining the standards of the unit.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Le Cordon Bleu College of Culinary Arts Atlanta",
+      "url": "",
+      "area": "Culinary",
+      "studyType": "Associate of Occupational Science Degree",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": [
+        "Nutrition courses",
+        "Coursework in Pastry Arts",
+        "Classes in Restaurant and Facility Operations"
+      ]
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Culinary",
+      "level": "Master",
+      "keywords": [
+        "Controlling budget",
+        "Designing menus",
+        "Organizational inventory skills",
+        "Management",
+        "Marketing",
+        "Conducting meetings",
+        "Public speaking",
+        "Trainer",
+        "Microsoft (Office, Excel, Publisher, Powerpoint)",
+        "Purchasing",
+        "Retail sales"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

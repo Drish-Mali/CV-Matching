@@ -1,0 +1,164 @@
+{
+  "basics": {
+    "name": "Name not provided",
+    "label": "Accountant",
+    "image": "",
+    "email": "Email not provided",
+    "phone": "Phone not provided",
+    "url": "URL not provided",
+    "summary": "Capable Accountant successful at managing multiple projects and consistently meeting deadlines under pressure. Extensive knowledge of accounting software and processes. Team-oriented who prepares clear, comprehensive financial reports for executive-level management. Dynamic and highly qualified with extensive knowledge of accounting principles.",
+    "location": {
+      "address": "Address not provided",
+      "postalCode": "Postal code not provided",
+      "city": "City not provided",
+      "countryCode": "Country code not provided",
+      "region": "Region not provided"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Accountant",
+      "url": "URL not provided",
+      "startDate": "2017-04-01",
+      "endDate": "Current",
+      "summary": "Performed debit, credit and total accounts on computer spreadsheets/databases, using specialized accounting software. Performed field audits on wide variety of clientele using Quick Books System.",
+      "highlights": ["Performed field audits on wide variety of clientele using Quick Books System"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Accountant",
+      "url": "URL not provided",
+      "startDate": "2017-02-01",
+      "endDate": "Current",
+      "summary": "Evaluated accounting requirements during discovery meetings with potential clients.",
+      "highlights": ["Evaluated accounting requirements during discovery meetings with potential clients"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Bookkeeper",
+      "url": "URL not provided",
+      "startDate": "2016-10-01",
+      "endDate": "2017-04-01",
+      "summary": "Updated confidential employee banking information with accuracy and speed.",
+      "highlights": ["Updated confidential employee banking information with accuracy and speed"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Controller Assistant",
+      "url": "URL not provided",
+      "startDate": "2016-10-01",
+      "endDate": "2017-04-01",
+      "summary": "Maintained compliance with company and legal requirements.",
+      "highlights": ["Maintained compliance with company and legal requirements"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Controller",
+      "url": "URL not provided",
+      "startDate": "2010-05-01",
+      "endDate": "2016-08-01",
+      "summary": "Restructured and analyzed Profit Software System to improve budget reporting.",
+      "highlights": ["Restructured and analyzed Profit Software System to improve budget reporting"]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Andr�s Bello Catholic University",
+      "url": "URL not provided",
+      "area": "Accounting",
+      "studyType": "BBA",
+      "startDate": "2009-01-01",
+      "endDate": "2014-01-01",
+      "score": "Score not provided",
+      "courses": [
+        "General Accepted Accounting Principles, 4 semesters",
+        "International Financial Reporting Standards, 4 semesters",
+        "International Auditing Standards, 4 semesters",
+        "International Accounting Standards, 4 semesters",
+        "Costs, 4 semesters",
+        "Business & Managements, 2 semesters",
+        "Economics, 4 semesters",
+        "Financial Math, 4 semesters"
+      ]
+    },
+    {
+      "institution": "Andr�s Bello Catholic University",
+      "url": "URL not provided",
+      "area": "Informatics Engineering",
+      "studyType": "Course",
+      "startDate": "2008-01-01",
+      "endDate": "2009-01-01",
+      "score": "Score not provided",
+      "courses": []
+    },
+    {
+      "institution": "Saint Anthony of La Florida",
+      "url": "URL not provided",
+      "area": "Science",
+      "studyType": "High School Diploma",
+      "startDate": "2008-01-01",
+      "endDate": "2008-01-01",
+      "score": "Score not provided",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Certified Public Accountant CPA",
+      "date": "2014-01-01",
+      "issuer": "Venezuela",
+      "url": "URL not provided"
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Accounting",
+      "level": "Advanced",
+      "keywords": [
+        "Account Reconciliation", 
+        "Budget forecasting", 
+        "Analytical reasoning", 
+        "Financial planner", 
+        "Effective time management"
+      ]
+    },
+    {
+      "name": "Software Proficiency",
+      "level": "Advanced",
+      "keywords": [
+        "Microsoft Windows", 
+        "Word", 
+        "Excel", 
+        "Adobe", 
+        "Accounting Software : Quickbooks Pro 2015/2016/2017", 
+        "Accounting Software: Profit Pluss 2k8", 
+        "Accounting Software: SAP , Tax Software: Lacerte", 
+        "Forms Tax Software , ComplyRight", 
+        "Real Estate P.M.A.S. , AppFolio", 
+        "ADP Ezlabor, ADP Payroll"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Bilingual"
+    },
+    {
+      "language": "English",
+      "fluency": "Bilingual"
+    },
+    {
+      "language": "Portuguese",
+      "fluency": "Fluent reading/writing"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

@@ -1,0 +1,99 @@
+{
+  "basics": {
+    "name": "Candidate",
+    "label": "Engineering Project Manager III",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Results-focused, safety conscientious team leader/player with more than 15 years of successful experience in the aviation industry as Field Engineer, Maintenance Support Engineer, A&P Mechanic, and Avionics Technician on various types of rotary and fixed wing aircraft. Experienced in all phases of commercial and military aviation maintenance, aviation business, engineering, logistics, support, and supply.",
+    "location": {},
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Engineering Project Manager III",
+      "url": "",
+      "startDate": "2018-02-01",
+      "endDate": "Current",
+      "summary": "Performs a variety of duties associated with the development and revision of aircraft maintenance work instruction cards.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Field Engineer/Maintenance Support Engineer",
+      "url": "",
+      "startDate": "2011-08-01",
+      "endDate": "2018-02-01",
+      "summary": "Aircraft Repair/Modification Representative on-site at domestic and international locations with protocol in heavy maintenance, repair and overhaul, Block Upgrades, Prototypes, and modification activities on CC-130J aircraft.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Aircraft Mechanic / Electrician / Avionics Technician",
+      "url": "",
+      "startDate": "2001-03-01",
+      "endDate": "Current",
+      "summary": "Qualified to clear Red-X (Quality Control for C-130 aircraft electrical systems), accountable for the total airworthiness of assigned aircraft.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Eastern New Mexico University",
+      "url": "",
+      "area": "Business",
+      "studyType": "MBA",
+      "startDate": "2013-01-01",
+      "endDate": "2015-12-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Embry-Riddle Aeronautical University",
+      "url": "",
+      "area": "Professional Aeronautics",
+      "studyType": "Bachelor of Science",
+      "startDate": "2005-01-01",
+      "endDate": "2008-01-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Enterprise Community College",
+      "url": "",
+      "area": "Airframe & Power Plant Technology",
+      "studyType": "Associate of Science",
+      "startDate": "2001-01-01",
+      "endDate": "2004-05-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Project Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Quality Assurance/Control",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Safety Compliance",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

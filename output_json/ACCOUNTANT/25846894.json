@@ -1,0 +1,102 @@
+{
+  "basics": {
+    "name": "Accountant",
+    "label": "Accountant",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Experienced and goal-oriented Accountant with a demonstrated track record in preparation and analysis of financial reports to summarize and forecast financial position.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City ",
+      "countryCode": "US",
+      "region": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "FDH Velocitel",
+      "position": "Accountant",
+      "url": "",
+      "startDate": "2014-07-01",
+      "endDate": "Current",
+      "summary": "Independent contributor committed to superior quality, teamwork and proficient internal and external customer service. An Accountant experienced in driving efficiency, productivity, and implementation of process improvements to support achievement of overall corporate goals and objectives.",
+      "highlights": ["Accounting Management", "Cash Management"]
+    },
+    {
+      "name": "Northwood Ravin",
+      "position": "Accounting Manager",
+      "url": "",
+      "startDate": "2010-04-01",
+      "endDate": "2014-07-01",
+      "summary": "Responsible for financial management functions including preparation and delivery of monthly/quarterly financial statements, and variance analysis for several cost centers. Responsible for processing of general accounting functions, balance sheet account reconciliation, time and material and AIA billing for Government work, inventory, and job costing.",
+      "highlights": ["Financial management", "General accounting"]
+    },
+    {
+      "name": "Diebold Fire Services",
+      "position": "Senior Accountant",
+      "url": "",
+      "startDate": "2005-05-01",
+      "endDate": "2009-06-01",
+      "summary": "Responsible for property and development accounting for several entities which includes preparation financial statements. Work closely with Developers and property management personnel.",
+      "highlights": ["Property and development accounting", "General accounting"]
+    },
+    {
+      "name": "Mid-City Urban, LLC",
+      "position": "Finance Manager/Accountant",
+      "url": "",
+      "startDate": "2004-11-01",
+      "endDate": "2005-05-01",
+      "summary": "Responsible for financial management functions including preparation and delivery of monthly/quarterly financial statements, variance analysis, and financial forecasts.",
+      "highlights": ["Financial management", "General accounting"]
+    },
+    {
+      "name": "Bozzuto Management Company",
+      "position": "Assistant Controller",
+      "url": "",
+      "startDate": "2001-11-01",
+      "endDate": "2004-11-01",
+      "summary": "Responsible for overseeing accounting procedures, internal controls (implementing, monitoring, enhancing), and database management.",
+      "highlights": ["Overseeing accounting procedures", "Internal controls"]
+    },
+    {
+      "name": "AIMCO",
+      "position": "Project Accountant",
+      "url": "",
+      "startDate": "2001-01-01",
+      "endDate": "1999-01-01",
+      "summary": "Closed and compiled monthly financial reporting packages for management and owners of residential developments. Performed monthly account reconciliations and monitored general ledger transactions.",
+      "highlights": ["Financial reporting", "Account reconciliations"]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of South Carolina - Upstate",
+      "url": "",
+      "area": "Accounting & Finance",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "1993-01-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Accounting",
+      "level": "Master",
+      "keywords": ["Timberline", "MRI", "YARDI", "Peachtree", "Peoplesoft", "OneSite", "QuickBooks", "Microsoft Word", "Excel"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

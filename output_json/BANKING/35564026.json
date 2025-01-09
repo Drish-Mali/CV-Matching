@@ -1,0 +1,108 @@
+{ 
+  "basics": { 
+    "name": "", 
+    "label": "Assistant Manager", 
+    "image": "", 
+    "email": "", 
+    "phone": "", 
+    "url": "", 
+    "summary": "Committed and motivated office professional with exceptional customer service and decision making skills. Strong work ethic, professional demeanor and great initiative.", 
+    "location": { 
+      "address": "", 
+      "postalCode": "", 
+      "city": "", 
+      "countryCode": "", 
+      "region": "" 
+    }, 
+    "profiles": [] 
+  }, 
+  "work": [ 
+    { 
+      "name": "Company Name", 
+      "position": "Assistant Manager", 
+      "url": "", 
+      "startDate": "2014-06", 
+      "endDate": "2015-01", 
+      "summary": "Coach, motivate and develop staff; prepare disciplinary notes and performance evaluations. Responsible for branch, vault, and ATM settlement daily and reconciling differences as needed.", 
+      "highlights": [ 
+        "Oversaw implementation of instant issue datacard system which resulted in more cost-effective service.", 
+        "Improved office organization by compiling monthly sales and performance reports for employee evaluations using advanced Microsoft Excel functions.",
+        "Successfully trained staff in all office systems and databases, policies and procedures while focusing on minimizing errors and generating superior results.",
+        "Demonstrated proficiencies in telephone, e-mail, fax and front-desk reception within high-volume environment."
+      ] 
+    }, 
+    {
+      "name": "Company Name",
+      "position": "Head Teller & Training Assistant",
+      "url": "",
+      "startDate": "2011-03",
+      "endDate": "2014-05",
+      "summary": "Ensure all policy and procedures are understood and followed by branch staff. Responsible for branch, vault, and ATM settlement daily and reconciling differences as needed.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "State Farm Agent Staff",
+      "url": "",
+      "startDate": "2010-09",
+      "endDate": "2011-03",
+      "summary": "Process quotes and applications for auto, home, and life insurance. Assist policy holders with policy changes and maintenance. Recognize and discuss insurance needs with policy holders.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Retail Banking Branch Operations Manager",
+      "url": "",
+      "startDate": "2008-04",
+      "endDate": "2010-09",
+      "summary": "Manage the teller staff to ensure the teller line runs smoothly. Ensure all transactions are processed accurately. Ensure all policy / procedures are understood and followed.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Senior Personal Banking Representative",
+      "url": "",
+      "startDate": "2003-08",
+      "endDate": "2008-04",
+      "summary": "Actively sell Sovereign Bank products and services. Analyze and determine the financial needs of each customer. Meet and exceed personal sales goals. Open new accounts, process loan applications and close loans.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "York College of Pennsylvania",
+      "url": "",
+      "area": "Criminal Justice",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ], 
+  "awards": [],
+  "certificates": [], 
+  "publications": [], 
+  "skills": [
+    {
+      "name": "Professional Skills",
+      "level": "",
+      "keywords": [
+        "Professional and mature",
+        "Strong interpersonal skills",
+        "Microsoft Office proficiency",
+        "People-oriented",
+        "Meticulous attention to detail",
+        "Excellent work ethic",
+        "Problem resolution",
+        "Excellent time management skills",
+        "Schedule management"
+      ]
+    }
+  ],
+  "languages": [], 
+  "interests": [], 
+  "references": [], 
+  "projects": [] 
+}

@@ -1,0 +1,179 @@
+{
+  "basics": {
+    "name": "Director Of Finance",
+    "email": "",
+    "phone": "(814) 274-4877",
+    "summary": "Director of Finance responsible for the business operations and financial management. Experienced in project management, Business operations organization, Product development, Account Management and client account management.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "",
+      "region": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Director of Finance",
+      "startDate": "2017-01-01",
+      "endDate": "current",
+      "summary": "I am responsible for the direction of the Finance Division of HSC Shared Services. I currently supervise a team of three supervisors and six accountants."
+    },
+    {
+      "name": "Company Name",
+      "position": "Unit Business Manager - Intermediate",
+      "startDate": "2011-10-01",
+      "endDate": "2017-02-01",
+      "summary": ""
+    },
+    {
+      "name": "Company Name",
+      "position": "Unit Business Manager",
+      "startDate": "2010-04-01",
+      "endDate": "2010-09-01",
+      "summary": ""
+    },
+    {
+      "name": "Company Name",
+      "position": "Program Assistant Senior",
+      "startDate": "2007-10-01",
+      "endDate": "2010-04-01",
+      "summary": ""
+    },
+    {
+      "name": "Company Name",
+      "position": "Service Delivery Coordinator",
+      "startDate": "2006-01-01",
+      "endDate": "2007-01-01",
+      "summary": ""
+    },
+    {
+      "name": "Company Name",
+      "position": "Teacher/Teacher's Aid",
+      "startDate": "2004-01-01",
+      "endDate": "2007-01-01",
+      "summary": "I taught Microsoft Office products, such as Excel, Word, Access, Outlook, and Windows, Wilton Cake Decorating and other Adult Education Classes."
+    },
+    {
+      "name": "Company Name",
+      "position": "Secretary/Owner",
+      "startDate": "2000-01-01",
+      "endDate": "2008-01-01",
+      "summary": ""
+    },
+    {
+      "name": "Company Name",
+      "position": "Owner/Operator",
+      "startDate": "1997-01-01",
+      "endDate": "2004-01-01",
+      "summary": ""
+    },
+    {
+      "name": "Company Name",
+      "position": "Secretary/State Network Liaison",
+      "startDate": "1996-01-01",
+      "endDate": "1997-01-01",
+      "summary": ""
+    },
+    {
+      "name": "Company Name",
+      "position": "Secretary",
+      "startDate": "1991-01-01",
+      "endDate": "1996-01-01",
+      "summary": ""
+    },
+    {
+      "name": "Company Name",
+      "position": "Executive Secretary",
+      "startDate": "1990-01-01",
+      "endDate": "1991-01-01",
+      "summary": ""
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Liberty High School",
+      "area": "Basic Business Courses, Accounting I & II, French I & II, College Prep English",
+      "studyType": "",
+      "startDate": "1988-06-01",
+      "endDate": "",
+      "score": ""
+    },
+    {
+      "institution": "West Virginia Business College",
+      "area": "Computer Technology and Accounting",
+      "studyType": "",
+      "startDate": "1990-09-01",
+      "endDate": "",
+      "score": ""
+    },
+    {
+      "institution": "University of Louisville",
+      "area": "Organizational Leadership & learning Leadership & Organizational Development",
+      "studyType": "degree",
+      "startDate": "",
+      "endDate": "2017-05-01",
+      "score": "Cum Laude"
+    },
+    {
+      "institution": "University of Louisville",
+      "area": "Higher Education Administration",
+      "studyType": "Master",
+      "startDate": "",
+      "endDate": "2018-01-01",
+      "score": ""
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Leadership & communication skills",
+      "level": ""
+    },
+    {
+      "name": "Project management",
+      "level": ""
+    },
+    {
+      "name": "Business operations organization",
+      "level": ""
+    },
+    {
+      "name": "Product development",
+      "level": ""
+    },
+    {
+      "name": "Budgeting expertise",
+      "level": ""
+    },
+    {
+      "name": "Client account management",
+      "level": ""
+    },
+    {
+      "name": "Administrative Skills",
+      "level": ""
+    },
+    {
+      "name": "Self-motivated",
+      "level": ""
+    },
+    {
+      "name": "Account Management",
+      "level": ""
+    },
+    {
+      "name": "Customer-oriented",
+      "level": ""
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

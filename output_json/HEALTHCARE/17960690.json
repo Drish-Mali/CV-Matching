@@ -1,0 +1,105 @@
+{
+  "basics": {
+    "name": "Professional Healthcare Representative",
+    "summary": "Dynamic sales professional delivering success in driving product growth through strong sales skills and patient focus. Background encompasses almost 15 years of experience in pharmaceutical sales selling to an array of specialties.",
+     "skills": [
+      {
+        "name": "Professional Skills",
+        "level": "Advanced",
+        "keywords": [
+          "emergency care",
+          "palliative care",
+          "patient advocate",
+          "surgery"
+        ]
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Professional Healthcare Representative",
+      "startDate": "July 2003",
+      "endDate": "Current",
+      "summary": "Responsible for executing various initiatives and wellness programs. Mentored new team members and led multiple special assignments.",
+      "highlights": [
+        "2017 - Xtandi - Ended the year Ranked #15 / 162",
+        "2016 - Awarded lateral transfer to Atlanta East District",
+        "2015 - Ranked 29/75 with 102.15% Lyrica, 107.32% Toviaz, and 92.41% Viagra goal attainment"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Registered Nurse",
+      "startDate": "April 2003",
+      "endDate": "July 2003",
+      "summary": "Assisted in daily patient management through surgery scheduling, patient insurance claims and prior authorizations, and educating patients on procedures, treatments, and medications."
+    },
+    {
+      "name": "Company Name",
+      "position": "Registered Nurse",
+      "startDate": "April 2002",
+      "endDate": "April 2003",
+      "summary": "Surgical nurse with responsibilities including surgical assistance, operating room management, recording of all events and tasks during surgery, and acting as patient advocate during surgery."
+    },
+    {
+      "name": "Company Name",
+      "position": "Registered Nurse",
+      "startDate": "August 2000",
+      "endDate": "April 2002",
+      "summary": "Practiced as a Registered Nurse in the Neonatal Intensive Care Unit"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Junior Auxiliary",
+      "position": "Active Member",
+      "startDate": "2006",
+      "endDate": "2011",
+      "summary": "Managed several projects including Prom Closet, Buckets of Happiness, and Dental Days. Also implemented program called 'Challenge Day' in local schools.",
+      "highlights": [
+        "Implemented 'Challenge Day' program in local schools",
+        "Chaired projects: Prom Closet, Buckets of Happiness, and Dental Days"
+        ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Mississippi College",
+      "area": "Nursing",
+      "studyType": "Bachelors of Science",
+      "startDate": "N/A",
+      "endDate": "May 2000"
+    },
+    {
+      "institution": "Hinds Community College",
+      "studyType": "Associate of Arts",
+      "startDate": "N/A",
+      "endDate": "May 1997"
+    }
+  ],
+  "awards": [
+    {
+      "title": "People in Culture Lead for Atlanta East",
+      "date": "2017",
+      "awarder": "Company Name",
+      "summary": "Peer Selection Award"
+    },
+    {
+      "title": "Championship Culture Award",
+      "date": "2017",
+      "awarder": "Company Name",
+      "summary": "Awarded for outstanding culture contribution"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Volunteering",
+      "keywords": [
+        "William's Wings",
+        "MS Diabetes Association",
+        "MS March of Dimes"
+      ]
+    }
+  ]
+}

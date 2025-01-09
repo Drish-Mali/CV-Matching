@@ -1,0 +1,106 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Executive Sous Chef",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Dynamic, resourceful and skilled Executive Head Chef with 25 years of success in fine dining, casual dining and catering.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Executive Sous Chef",
+      "url": "",
+      "startDate": "2016-12-01",
+      "endDate": "Current",
+      "summary": "Taste all prepared dishes, and observed color, texture and garnishes. Adhere to staffing needs and adjusted hourly schedules in accordance with demand patterns, budget and local labor laws.",
+      "highlights": [
+        "Successfully managed two kitchen staffs of 40 employees during high volume dinner services for more than 250 diners each night."
+      ]
+   },
+   {
+      "name": "Company Name",
+      "position": "Executive Chef",
+      "url": "",
+      "startDate": "2012-01-01",
+      "endDate": "2016-12-01",
+      "summary": "Reduced food costs by 2% by expertly estimating purchasing needs and buying through approved suppliers. Effectively managed and assisted kitchen staff in producing food for banquets, catered events and member dining areas.",
+      "highlights": []
+   },
+   {
+      "name": "Company Name",
+      "position": "Executive Chef",
+      "url": "",
+      "startDate": "2005-04-01",
+      "endDate": "",
+      "summary": "Reduced food costs by 2% percent by expertly estimating purchasing needs and buying through approved suppliers. Ensured smooth kitchen operation by overseeing daily product inventory, purchasing and receiving.",
+      "highlights": []
+   }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "BIC",
+      "url": "",
+      "area": "Culinary Arts",
+      "studyType": "Bachelor of Arts",
+      "startDate": "",
+      "endDate": "2001",
+      "score": "",
+      "courses": [
+        "Restaurant and Facility Operations",
+        "Pastry Arts",
+        "Food Preparation",
+        "Kitchen Management",
+        "Patisserie and Confectionery",
+        "International Cuisine",
+        "Nutrition"
+      ]
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Cooking skills",
+      "level": "Expert",
+      "keywords": [
+        "Staff development and training",
+        "Inventory control",
+        "ServSafe certified Operations management",
+        "Follows propers SOP's of all organizations",
+        "Focused and disciplined",
+        "Cross-functional team management",
+        "High volume production capability",
+        "Well-tuned palette",
+        "Supervision and training",
+        "Focus on portion and cost control",
+        "Bilingual (English/Spanish)"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Bilingual"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Bilingual"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

@@ -1,0 +1,93 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Purchasing Agent",
+    "email": "",
+    "phone": "",
+    "summary": "Experienced buyer with demonstrated organization, customer service, communication, management and relationship-building skills.",
+    "location": {
+      "city": "City",
+      "countryCode": "State"
+    },
+    "skills": [
+      {
+        "name": "Key Skills",
+        "keywords": ["Retail Management", "Outlook", "10-key By Touch", "Problem Resolution", "MS Office", "Regulatory Compliance", "PowerPoint", "Front-Office Operations", "Customer Service", "Report Preparation", "Scheduling", "Marketing & Sales", "New customer acquisition", "PhotoShop", "Fluent in Spanish", "Dependable and reliable"]
+      }
+    ],
+    "languages": [
+      {
+        "language": "Spanish",
+        "fluency": "Fluent"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Purchasing Agent",
+      "startDate": "2011-01-01",
+      "summary": "Source, develop and maintain dynamic supplier relationships in order to obtain competitive pricing for components and raw materials."
+    },
+    {
+      "name": "Company Name",
+      "position": "Banking Center Manager II",
+      "startDate": "2009-01-01",
+      "endDate": "2011-01-01",
+      "summary": "Manage all aspects of day-to-day operations as manager of retail branch for 15 associates."
+    },
+    {
+      "name": "Company Name",
+      "position": "Assistant Banking Center Manager",
+      "startDate": "2004-01-01",
+      "endDate": "2009-01-01",
+      "summary": "Assisted branch manager in a retail banking branch with direct accountability of 17 associates Assisted in the deployment of communications to assist banking center in product sales goal adoption and sustainment."
+    },
+    {
+      "name": "Company Name",
+      "position": "Teller/Teller Operations Specialist",
+      "startDate": "1999-01-01",
+      "endDate": "2004-01-01",
+      "summary": "Directly managed seven associates' performance to include sales, compliance, operational excellence, and the customer experience Created tools and resources to ensure associate readiness of new initiatives."
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Little League Volunteer U6 Soccer Coach",
+      "position": "Volunteer"
+    },
+    {
+      "organization": "Team Bank of America Community Volunteer",
+      "position": "Volunteer"
+    }
+  ],
+  "education": [
+    {
+      "institution": "ST. EDWARD'S UNIVERSITY",
+      "area": "Communication",
+      "studyType": "Bachelor of Arts",
+      "startDate": "2001-01-01"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Queen of Hearts Award for most team involvement in community service activities",
+      "date": "2010-01-01",
+      "awarder": "Team Bank of America Community Volunteer"
+    },
+    {
+      "title": "Top Performer Award",
+      "date": "2008-01-01"
+    },
+    {
+      "title": "Top Teller Performer Award",
+      "date": "2004-01-01"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Community Services",
+      "keywords": ["Little League Volunteer U6 Soccer Coach", "Team Bank of America Community Volunteer"]
+    }
+  ]
+}

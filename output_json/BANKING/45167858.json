@@ -1,0 +1,94 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Banking Relationship Specialist",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Highly enthusiastic customer service professional with 7 years of client interface experience. Dedicated Customer Service Representative motivated to maintain customer satisfaction and contribute to company success. Strong organizational skills, Customer service expert, Active listening skills, Adaptive team player, Courteous demeanor, also seasoned in conflict resolution with an energetic work attitude.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Banking Relationship Specialist",
+      "url": "",
+      "startDate": "2005-07-01",
+      "endDate": "2011-09-01",
+      "summary": "Customer Assistance Worked with company systems such as Live Support and diligently completed all assigned tasks, working overtime as needed. Customer Service Customer Service Inbound Call Center Transfer calls to appropriate department when necessary Researched, calmed and rapidly resolved client conflicts to prevent loss of key accounts. Computed Data Reports Provided required weekly, monthly and quarterly reports listing sales figures and client track records.",
+      "highlights": [
+        "Consistently achieved a 100% teller balancing average, as well as balanced daily cash drawers and vaults totaling an average of $ 900,000."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Merchant Teller",
+      "url": "",
+      "startDate": "2004-12-01",
+      "endDate": "2005-07-01",
+      "summary": "Processed large deposits for merchant customers, assisted with incoming and outgoing courier transactions. Responsible for balancing accurately on a daily basis. Assisted Operations Manager with teller line, answered phones, filing, and all other duties associated with the position of a Merchant Teller.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Teller",
+      "url": "",
+      "startDate": "2004-06-01",
+      "endDate": "2004-12-01",
+      "summary": "Cashed checks for new and existing customers, processed incoming daily reports, completed mail deposits in dual control. Processed cashiers checks and money orders, processed credit card payments, and all other responsibilities associated with the position of a Teller.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Los Angeles Southwest College",
+      "url": "",
+      "area": "Inter Social Behavioral Sciences",
+      "studyType": "Associate of Science",
+      "startDate": "",
+      "endDate": "2016-01-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Fingerprinting",
+      "date": "2016-01-01",
+      "issuer": "Los Angeles Southwest College",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "In and outbound call center",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Excellent customer service assistance",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Fax, Filing, Answering phones, Type 50 wpm, Microsoft word and excel",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

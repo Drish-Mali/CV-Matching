@@ -1,0 +1,79 @@
+{
+  "basics": {
+    "name": "Director of Business Development",
+    "label": "Healthcare Sales Professional",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Healthcare Sales Professional with over 6 years of experience as a successful Director of Sales. Sales experience includes hospice / home health management, durable medical equipment (DME), and pharmaceuticals. Awarded for being the top performer for five consecutive years. Recognized for growth development and delivering bottom-line results.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Director of Business Development",
+      "startDate": "2015-02-01",
+      "endDate": "2015-09-01",
+      "summary": "Director of Sales for the business line of Homecare and Hospice. Implement sales and marketing plans for the Plains Region.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Director of Sales / Area Sales Manager",
+      "startDate": "2012-01-01",
+      "endDate": "2014-03-01",
+      "summary": "Working in the healthcare industry of Hospice and Home Health in the Dallas Texas and Western Iowa locations.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Senior Provider Relations Manager",
+      "startDate": "2003-02-01",
+      "endDate": "2012-12-01",
+      "summary": "Successfully rebranded the company despite stringent budget, building agency from eight patients to 130 patients as one of top five Provider Relations Managers.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Senior Account Executive",
+      "startDate": "1997-01-01",
+      "endDate": "2002-09-01",
+      "summary": "Achieved #1 ranking Salesperson in Southern California Region within five months and maintained that for 3 years. Developed managed care contracts throughout California.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "California State University of Bakersfield",
+      "area": "Political Science",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Business Development",
+      "level": "",
+      "keywords": ["agency", "benefits", "brochure", "budget", "business development", "business plan", "coach", "contracts", "Client Relations", "financial", "Home Health", "Homecare", "Hospice", "leadership", "notes", "Director", "market analysis", "marketing plans", "marketing", "market", "Nursing", "rapport", "Sales", "sales training", "strategic", "written"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

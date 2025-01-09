@@ -1,0 +1,108 @@
+{
+  "basics": {
+    "name": "NS Placeholder",
+    "label": "RN Staff Nurse",
+    "email": "Not Provided",
+    "phone": "Not Provided",
+    "summary": "Experienced RN Staff Nurse with various skills including Therapeutic touch/communication, teach back communication, assessments, IV care, telemetry care, wound care including wound vacs, dressing changes and more.",
+    "location": {
+      "address": "Not Provided",
+      "postalCode": "Not Provided",
+      "city": "Not Provided",
+      "countryCode": "Not Provided",
+      "region": "Not Provided"
+    },
+    "profiles": [
+      {
+        "network": "Facebook",
+        "username": "Not Provided",
+        "url": "Not Provided"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "Not Provided",
+        "url": "Not Provided"
+      },
+      {
+        "network": "Twitter",
+        "username": "Not Provided",
+        "url": "Not Provided"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "RN Staff Nurse",
+      "startDate": "2008-08",
+      "endDate": "2014-04",
+      "summary": "Participated in multidisciplinary plan of care, implemented changes to unit-based methods of practice and more.",
+      "highlights": ["Management of Aggressive Behavior (MOAB) in house Certified Instructor", "Patient Experience Champion", "Shared Governance Chair of Policy & Procedure Committee", "Oncology Certification", "Implementation of unit Bedside Report and hourly rounding"]
+    },
+    {
+      "name": "Company Name",
+      "position": "RN- Resident Care Manager",
+      "startDate": "2007-07",
+      "endDate": "2008-07",
+      "summary": "Responsible for Care Management of adult and senior patient population, participating in care conferences and more.",
+      "highlights": ["Created, communicated and modeled a unit Mission Statement", "Developed effective teamwork model for licensed staff and caregivers"]
+    },
+    {
+      "name": "Company Name",
+      "position": "RN Charge Nurse",
+      "startDate": "2000-07",
+      "endDate": "2007-06",
+      "summary": "Handled tasks such as assessment of acuity, assignment of staff, Review of charts, obtaining and signing off orders and more.",
+      "highlights": ["Geriatric Resource Nurse (GRN) certification 2003-2008", "Hospital based NICHE member", "Pain Management Resource team member", "Participant in Evidence Based Practice implementation", "Geriatric Assessment Center on call RN"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Administrative Assistant",
+      "startDate": "1990-04",
+      "endDate": "1996-04",
+      "summary": "Performed duties such as maintaining informational material and application packets availability, assisting applicants accurately complete and provide information required form application completion and more.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Washington State University",
+      "area": "Nursing",
+      "studyType": "BSN",
+      "startDate": "2007",
+      "endDate": "Not Provided",
+      "courses": []
+    },
+    {
+      "institution": "Clark College",
+      "area": "Nursing",
+      "studyType": "ADN",
+      "startDate": "2000",
+      "endDate": "Not Provided",
+      "courses": []
+    },
+    {
+      "institution": "Clark College",
+      "area": "General Studies",
+      "studyType": "AA",
+      "startDate": "1987",
+      "endDate": "Not Provided",
+      "courses": []
+    },
+    {
+      "institution": "Western Business College",
+      "area": "Medical Admin. Assistant in Front/back office Med. Ass't.",
+      "studyType": "Not Provided",
+      "startDate": "1982",
+      "endDate": "Not Provided",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Nursing Skills",
+      "level": "Not Provided",
+      "keywords": ["balance", "banking", "basic", "charts", "oral", "Basic computer skills", "conferences", "direction", "Instructor", "meetings", "office", "organizational skills", "progress", "Protocols", "tax", "teamwork", "Telemetry", "vision", "written communication"]
+    }
+  ]
+}

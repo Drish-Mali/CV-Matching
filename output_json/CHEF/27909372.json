@@ -1,0 +1,109 @@
+{
+  "basics": {
+    "name": "Unknown",
+    "label": "Chef Assistant",
+    "email": "Unknown",
+    "phone": "Unknown",
+    "summary": "Certified Chef Assistant with experience in the hospitality and tourism industry. Skilled in managing kitchen operations, coordinating volunteers and excellent customer service.",
+    "location": {
+      "city": "Unknown",
+      "countryCode": "US",
+      "region": "Unknown"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Unknown",
+      "position": "Chef Assistant",
+      "startDate": "2016-09-01",
+      "summary": "Ensure cleanliness of kitchen work stations, assist chef in preparation and plating of meals, manage team of students and delegate preparation tasks. Also worked as a Public Relations Intern and Property Operations Intern.",
+      "highlights": [
+        "Managed team of 10-15 students",
+        "Secured sponsorships for 'Puppy Pow Wow",
+        "Inspected apartment homes for company standards"
+      ]
+    },
+    {
+      "name": "Unknown",
+      "position": "Sales Associate",
+      "startDate": "2012-05-01",
+      "endDate": "2016-01-01",
+      "summary": "Contributed to store being placed first in the district for sales associate credit card enrollments."
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Massachusetts",
+      "area": "Hospitality and Tourism Management",
+      "studyType": "Bachelor of Science",
+      "startDate": "Unknown",
+      "endDate": "2017-05-01",
+      "score": "3.99",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "CVENT",
+      "date": "Unknown",
+      "issuer": "Unknown"
+    },
+    {
+      "name": "TIPS",
+      "date": "Unknown",
+      "issuer": "Unknown"
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "MS Word",
+      "level": "Advanced"
+    },
+    {
+      "name": "MS Excel",
+      "level": "Intermediate"
+    },
+    {
+      "name": "PowerPoint",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Mac OS",
+      "level": "Unknown"
+    }
+  ],
+  "languages": [],
+  "interests": [
+    {
+      "name": "Delta Sigma Pi (Professional B usiness Fraternity)",
+      "keywords": [
+        "Recruiting",
+        "Fundraising",
+        "Community Service",
+        "Professional Events"
+      ]
+    },
+    {
+      "name": "HTM Career Day Board",
+      "keywords": [
+        "Event Organizing",
+        "Fundraising",
+        "Marketing"
+      ]
+    },
+    {
+      "name": "Eta Sigma Delta Honor Society",
+      "keywords": [
+        "Community Activities",
+        "Fundraising",
+        "Volunteer Programs"
+      ]
+    }
+  ],
+  "references": [],
+  "projects": []
+}

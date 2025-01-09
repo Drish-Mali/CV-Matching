@@ -1,0 +1,129 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Dental Hygienist",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "I am a dedicated and energetic Dental Hygienist with a total of sixteen years experience in the dental profession. My focus has always been to provide exceptional patient care, counseling and motivation to each of my patients. I have experience with patients of all ages including those that are medically compromised. I am enthusiastic about dental health and enjoy educating patients as well as dental staff members on dental care and hygiene.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Dental Hygienist",
+      "url": "",
+      "startDate": "September 2015",
+      "endDate": "Current",
+      "summary": "Provide optimal dental hygiene care for every patient, reinforce oral hygiene instructions to every patient and each appointment...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Dental Hygienist",
+      "url": "",
+      "startDate": "February 2008",
+      "endDate": "August 2014",
+      "summary": "Assess patients oral health conditions, review dental and medical histories...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Dental Hygienist",
+      "url": "",
+      "startDate": "June 2006",
+      "endDate": "December 2010",
+      "summary": "Worked on an as-needed basis as a part-time hygienist providing dental care to patients...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Dental Assistant",
+      "url": "",
+      "startDate": "February 2003",
+      "endDate": "June 2005",
+      "summary": "Provided dental and hygiene assistance during surgery, services, and cleanings...",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Nova Southeastern University",
+      "url": "",
+      "area": "Health Sciences",
+      "studyType": "Master",
+      "startDate": "Unknown",
+      "endDate": "2015",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "St Petersburg College",
+      "url": "",
+      "area": "Dental Hygiene",
+      "studyType": "Bachelor",
+      "startDate": "Unknown",
+      "endDate": "2011",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Florida State College",
+      "url": "",
+      "area": "Dental Hygiene",
+      "studyType": "Associate",
+      "startDate": "Unknown",
+      "endDate": "2005",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Tidewater Technical Institute",
+      "url": "",
+      "area": "Dental Assisting",
+      "studyType": "Certificate",
+      "startDate": "Unknown",
+      "endDate": "1999",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "State of Florida Registered Dental Hygienist",
+      "date": "Unknown",
+      "issuer": "Unknown",
+      "url": "Unknown"
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Dental Hygienist Skills",
+      "level": "Unknown",
+      "keywords": [
+        "Nutritional Counseling",
+        "Soft Tissue Management",
+        "Oral Cancer Screenings",
+        "Dentrix Dental Software",
+        "Smoking Cessation",
+        "Digital Radiographs",
+        "Preventative Care"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

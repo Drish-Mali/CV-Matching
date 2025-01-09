@@ -1,0 +1,97 @@
+{
+  "basics": {
+    "name": "Anonymous",
+    "label": "Sr. Manager",
+    "email": "",
+    "phone": "",
+    "summary": "Over twenty-five years Management experience in Vendor Compliance, Product Integrity/Quality, Customer Support/Sales and Business Office Management."
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Sr. Manager",
+      "startDate": "2008-10-01",
+      "endDate": "2012-07-31",
+      "summary": "Vendor Management and Product Integrity/Quality Responsibilities. Accomplishments: Implemented a new vendor website providing all company policy and procedures as well as educational tools. Implemented with the QA team a shared audit tracking report and disposition process. Implemented a Correction and Chargeback Policy for vendor Non-Compliance resulting in savings of $400k annually.",
+      "highlights": ["Vendor Management", "Implemented new vendor website", "Implemented shared audit tracking report&disposition process", "Implemented a correction and chargeback policy"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Sr. Manager",
+      "startDate": "2005-02-01",
+      "endDate": "2008-10-01",
+      "summary": "Manage the Technical Design Department. Developed and implemented a Standard Operating Procedure Manual to streamline processes.",
+      "highlights": ["Managed Technical Design Department", "Implemented Standard Operating Procedure Manual"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Promotional Sales Manager",
+      "startDate": "2000-09-01",
+      "endDate": "2005-02-01",
+      "summary": "Responsible for all promotional and up sell programs in an inbound call center.",
+      "highlights": ["Managed promotional and up sell programs"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Manager of Customer Sales/Support",
+      "startDate": "1998-10-01",
+      "endDate": "2000-09-01",
+      "summary": "Manage an inbound call center handling both sales and support.",
+      "highlights": ["Managed inbound call center"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Executive Assistant",
+      "startDate": "1983-01-01",
+      "endDate": "1988-01-01",
+      "summary": "Assisted Sr. Managing Partner with managing the business.",
+      "highlights": ["Assisted in business management"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Eastern Nazarene College",
+      "area": "Business Administration",
+      "studyType": "B.S",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Burdett Business School",
+      "area": "Certified Legal Assistant",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "vendor management",
+      "level": "Master",
+      "keywords": []
+    },
+    {
+      "name": "streamline",
+      "level": "Master",
+      "keywords": []
+    },
+    {
+      "name": "customer service",
+      "level": "Master",
+      "keywords": []
+    },
+    {
+      "name": "project management",
+      "level": "Master",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

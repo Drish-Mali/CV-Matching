@@ -1,0 +1,190 @@
+{
+  "basics": {
+    "name": "VP",
+    "label": "Professional",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Career Focus: To lead the executive management of a financial institution's lending team. To align our lending objectives so we compliment other departmental efforts and achieve the organization's highest goal. By uniting culture, teamwork, training, technology, policy, and support, we will uphold tradition, minimize risk, and provide best-in-class service while offering products which satisfy the ever-changing wants and needs of our retail and business members.",
+    "location": {},
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "IAA Credit Union",
+      "position": "Supervisor Consumer Loans",
+      "startDate": "2014-01-01",
+      "endDate": "Current",
+      "url": "",
+      "summary": "215MM asset credit union",
+      "highlights": []
+    },
+    {
+      "name": "Busey Bank",
+      "position": "VP Small Business Banking",
+      "startDate": "2011-01-01",
+      "endDate": "2014-01-01",
+      "url": "",
+      "summary": "3.9B asset bank",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "AVP- Business Banking",
+      "startDate": "2003-01-01",
+      "endDate": "2011-01-01",
+      "url": "",
+      "summary": "Sold clients personal deposit accounts, credit cards, home equities, mutual funds, life insurance, fixed annuities, consumer loans. Implemented new needs-based cross-selling techniques and retention strategies to significantly grow sales results across our retail team.",
+      "highlights": []
+    },
+    {
+      "name": "JPMorgan Chase Bank, N.A.",
+      "position": "AVP",
+      "startDate": "2003-01-01",
+      "endDate": "2011-01-01",
+      "url": "",
+      "summary": "Aggressively prospected and fostered new business relationships. Focus was on small businesses from $250k sole proprietors to $20MM C-corporations. Underwrote and funded many small business loans. Managed an annual $260k+, net revenue producing portfolio- approximately $22MM in size. Created new communication paths across division lines which integrated retail, mortgage, and small business.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "United Way Steering Committee",
+      "position": "Member & Sub-committee Chair",
+      "startDate": "2008",
+      "endDate": "Present",
+      "url": "",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "organization": "Leadership McLean County (LMC)",
+      "position": "Graduate, Mentor, Business Day Chair",
+      "startDate": "2011",
+      "endDate": "Present",
+      "url": "",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "organization": "Project Oz Board",
+      "position": "Fundraising Chair, Vice President",
+      "startDate": "2011",
+      "endDate": "Present",
+      "url": "",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "organization": "Eastview Christian Church",
+      "position": "Member",
+      "startDate": "2008",
+      "endDate": "Present",
+      "url": "",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Eastern Illinois",
+      "area": "Chemistry Business and Accounting",
+      "studyType": "BS",
+      "startDate": "2002",
+      "endDate": "",
+      "url": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "banking",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "cash flow",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "customer service",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "equities",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "funds",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "insurance",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "modeling",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "mortgage loans",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Retail",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [
+    {
+      "name": "Football and basketball coaching",
+      "keywords": []
+    }
+  ],
+  "references": [],
+  "certificates": [
+    {
+      "name": "Affluent client certified",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "Consumer loan compliance certified",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "Operational Excellence yellow belt certified",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "CPR certified",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "CUNA Financial counseling certified (FiCEP)",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "projects": []
+}

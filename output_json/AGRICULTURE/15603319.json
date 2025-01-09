@@ -1,0 +1,79 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Graduate Research Assistant",
+    "email": "",
+    "phone": "",
+    "summary": "Dedicated professional with excellent technical, analytical and communication skills demonstrated in ten years of experience in the agricultural sector, specifically in the Research and Development division with an extensive knowledge of biological control in the field of Entomology",
+    "location": {
+      "city": "",
+      "countryCode": ""
+    }
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Graduate Research Assistant",
+      "startDate": "2013-01-01",
+      "endDate": "2016-04-01",
+      "summary": "Assist with various research project in the Center of Biological control lab",
+      "highlights": [ "Developing a potential biological control for Croton Scales ( Phalacrococcus howertoni )" ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Plant Protection Officer - Entomology",
+      "startDate": "2011-10",
+      "endDate": "2012-12",
+      "summary": "Rear Parasitoids wasp ( Anagyrus kamali ) and release in areas affected by the Pink Hibiscus Mealy bug ( Maconellicoccus hirsutus ) with 95% success rate and determined parasitism levels at each site",
+      "highlights": [ "Develop solutions for pest problems in yam ( Dioscorea spp .) in Jamaica", "Develop Citrus Greening Management Programme in Jamaica in collaboration with Food and Agriculture Organization and Government of Jamaica Components", "Develop management program for the Beet Army Worm( Spodoptera exigua ) and monitoring of farms in affected parishes" ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Field And Lab Research Assistant",
+      "startDate": "2002-12",
+      "endDate": "2011-10",
+      "summary": "Receive diagnostic samples from extension officers and farmers",
+      "highlights": [ "Establish experimental plots", "Work on all research projects in the unit" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Florida Agricultural & Mechanical University",
+      "area": "Entomology",
+      "studyType": "Masters",
+      "startDate": "2016",
+      "score": "",
+      "courses": [ "" ]
+    },
+     {
+      "institution": "Knox Community College",
+      "area": "Environmental Science",
+      "studyType": "Bachelor",
+      "startDate": "2011",
+      "score": "",
+      "courses": [ "" ]
+    },
+      {
+      "institution": "College of Agriculture Science and Education",
+      "area": "General Agriculture",
+      "studyType": "Associate",
+      "startDate": "2006",
+      "score": "",
+      "courses": [ "" ]
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Data collection, maintain inventory,statistical analysis, prepare sample and Microsoft office",
+      "level": "",
+      "keywords": [ "" ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

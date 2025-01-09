@@ -1,0 +1,112 @@
+{
+  "basics": {
+    "name": "Unnamed",
+    "label": "Sous Chef",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "A highly skilled Sous Chef with experience starting at the Hilton Barbados as a commis 1 and has been promoted to Demi Chef de Partie, Chef de partie and Senior Chef de Partie. Currently at the rank of Sous Chef. Has a passion for the Culinary Arts and believes in team engagement. Is a hard working pro active Sous Chef who is very dependable. Is quality focused, resourceful and is seeking to use skills and talent to add to the operation. Is ready and qualified for the next challenge.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": [
+
+    ]
+  },
+  "work": [
+    {
+      "name": "Unnamed Company",
+      "position": "Sous Chef",
+      "url": "",
+      "startDate": "2013-10",
+      "endDate": "Current",
+      "summary": "Responsible for managing 3 restaurants in a hotel consisting of 350 rooms. Trains new team members, writes the rosters for approximately 65 chefs including casuals while managing the payroll budget. Also responsible for facilitating off property functions, assisting in menu writing and doing the costings once the menus are written.",
+      "highlights": [
+        "Opening chef and closing chef",
+        "Skills trainer",
+        "Supervisor of the year 2010, 2011",
+        "Trainer of the year 2012",
+        "Perfect attendance 2005, 2006, 2007, 2009, 2010, 2011, 2012, 2013, 2014",
+        "Employee of the month nominee on 2 occasions at Hilton Barbados"
+      ]
+    },
+    {
+      "name": "Fairmont Royal Pavilion",
+      "position": "General Cook",
+      "url": "",
+      "startDate": "2003-09",
+      "endDate": "2005-02",
+      "summary": "Responsible for Breakfast ,lunch , dinner A La Carte Service , interacting with guest on the Action stations.",
+      "highlights": [
+        "Nominated employee of the month"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Birmingham",
+      "url": "",
+      "area": "Management Techniques for Senior Chefs",
+      "studyType": "Certificate",
+      "startDate": "2011",
+      "endDate": "2011",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Culinary Institute of America",
+      "url": "",
+      "area": "Baking and Hot Breads",
+      "studyType": "Certificate",
+      "startDate": "2010",
+      "endDate": "2010",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+
+  ],
+  "certificates": [
+    {
+      "name": "Management Techniques for Senior Chefs",
+      "date": "2011",
+      "issuer": "University of Birmingham",
+      "url": ""
+    }
+  ],
+  "publications": [
+
+  ],
+  "skills": [
+    {
+      "name": "Culinary Skills",
+      "level": "Advanced",
+      "keywords": [
+        "Advanced Sushi Skills",
+        "Very Organized",
+        "Creating Team Engagement",
+        "Understanding Client Needs",
+        "Controlling the Bottom Line",
+        "Multitasking"
+      ]
+    }
+  ],
+  "languages": [
+    
+  ],
+  "interests": [
+    
+  ],
+  "references": [
+    
+  ],
+  "projects": [
+    
+  ]
+}

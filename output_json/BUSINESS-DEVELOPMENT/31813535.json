@@ -1,0 +1,128 @@
+{
+  "basics": {
+    "name": "Anonymous",
+    "label": "Sr. Business Development Director",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "summary": "Top producing sales professional and expert in the aerospace industry. Dynamic communicator who consistently exceeds goals and company expectations. Motivated business developer with solid experience managing all levels of large-scale projects, including budgeting and administration.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Unknown",
+      "position": "Sr. Business Development Director",
+      "url": "",
+      "startDate": "2014-01-01",
+      "endDate": "Current",
+      "summary": "Manage and develop business relations with insurance marketplace clients sales. Direct sales team with software sales nationally. Consult clients to assess technology requirements and advise on software to address their needs.",
+      "highlights": [
+        "Implemented marketing strategies which resulted in 12% growth of customer base."
+      ]
+    },
+    {
+      "name": "Unknown",
+      "position": "IT Program Manager",
+      "url": "",
+      "startDate": "2012-12-01",
+      "endDate": "2014-01-01",
+      "summary": "Successfully built the confidence and trust of major companies, in Xerox software and support through astute assessment of client needs and the development of strategies to meet them, raising customer satisfaction ratings from 'not happy' to 'extremely happy'.",
+      "highlights": [
+        "Provided product sales support in closing client software purchases resulting in 1.8 million in sales in one physical year"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Argosy University",
+      "area": "Business Administration Management",
+      "studyType": "Doctor",
+      "startDate": "",
+      "endDate": "",
+      "score": ""
+    },
+    {
+      "institution": "Embry Riddle University",
+      "area": "Avaition",
+      "studyType": "MBA",
+      "startDate": "",
+      "endDate": "2004",
+      "score": ""
+    },
+    {
+      "institution": "Southern Adventist University",
+      "area": "Computer Science",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "1984",
+      "score": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Powerful negotiator",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Risk management processes and analysis",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Team leadership",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Client assessment and analysis",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Project management",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Eagle Award (Cost saving to company of $500,000)",
+      "date": "2002",
+      "awarder": "",
+      "summary": ""
+    },
+    {
+      "title": "High Performance Achievement Award (F22 & F35 Tactical Fighter Jets)",
+      "date": "2001",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certified Airman certificate (private pilot)",
+      "date": "Ongoing",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "Six Sigma",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

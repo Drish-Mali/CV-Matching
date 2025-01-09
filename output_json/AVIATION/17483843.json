@@ -1,0 +1,129 @@
+{
+  "basics": {
+    "name": "Unspecified",
+    "label": "Unmanned Aviation Technician Supervisor",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Solutions-focused, versatile management professional offering a comprehensive background supporting U.S. military operations in roles of increasing responsibility during a 9-year career in the Marine Corps. Effective communicator who quickly masters new roles and technologies to achieve positive results with minimal resources. To include 6 years in logistics, transportation, and embarking.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Unmanned Aviation Technician Supervisor",
+      "url": "",
+      "startDate": "2011-02",
+      "endDate": "Current",
+      "summary": "Supervised unmanned aviation systems maintenance. Coordinated work with engineers, technicians and other aircraft maintenance personnel.",
+      "highlights": [
+        "Microsoft Office Suite, Microsoft Word, Outlook, Internet, Excel, Publisher"
+      ]
+    },
+    {
+      "name": "",
+      "position": "Volunteer",
+      "url": "",
+      "startDate": "2007-05",
+      "endDate": "2010-05",
+      "summary": "Provided emotional assistance to military spouses who lost loved ones during Operation Enduring Freedom and Operation Iraqi Freedom.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Production, Planning, and Expediting Clerk",
+      "url": "",
+      "startDate": "2008-03",
+      "endDate": "2010-03",
+      "summary": "Supervised production planning and expediting clerical work.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Production, Planning, and Expediting Clerk Supervisor",
+      "url": "",
+      "startDate": "2006-03",
+      "endDate": "2007-03",
+      "summary": "Directly supervised 15+ military personnel. Evaluated employees' work performance.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "National University Thomas Jefferson High School",
+      "url": "",
+      "area": "Unmanned Aviation System",
+      "studyType": "Diploma",
+      "startDate": "2004-01",
+      "endDate": "2004-06",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Unspecified",
+      "level": "Unspecified",
+      "keywords": [
+        "Approach",
+        "Basic",
+        "Budget",
+        "Ca",
+        "Product Development",
+        "Documentation",
+        "Fast",
+        "Functional",
+        "Hand Tools",
+        "Logistics",
+        "Materials",
+        "Mentor",
+        "Excel",
+        "Microsoft Office",
+        "Outlook",
+        "Publisher",
+        "Microsoft Word",
+        "Oscilloscopes",
+        "Personnel",
+        "Power Tools",
+        "Procurement",
+        "Progress",
+        "Project Plans",
+        "Radio",
+        "Safety",
+        "Sales",
+        "Scheduling",
+        "Six Sigma",
+        "Soldering",
+        "Spanish",
+        "Supervisor",
+        "Switches",
+        "Technical Project Management",
+        "Technician",
+        "Test Equipment",
+        "Trainer",
+        "Transportation",
+        "Troubleshoot"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Intermediate"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

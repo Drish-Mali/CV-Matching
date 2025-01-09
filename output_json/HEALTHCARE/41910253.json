@@ -1,0 +1,82 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Healthcare Associate",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Energetic, resourceful, and results-driven professional. Skilled at working effectively both independently and collaboratively as part of a team within fast-paced environments to complete projects and responsibilities while adhering to deadlines and quality standards.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Healthcare Associate",
+      "url": "",
+      "startDate": "2002-02-01",
+      "endDate": "Current",
+      "summary": "Maintain full responsibility for demonstrating initiative, strong leadership and communication skills, and medical and healthcare knowledge to support efficient and productive day-to-day operations.",
+      "highlights": [
+        "Maintaining diversity of patient/unit support activities",
+        "Enhancing individual performance",
+        "Maintaining professional and courteous communications",
+        "Anticipating problems, presenting effective solutions/recommendations"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "American InterContinental University",
+      "url": "",
+      "area": "Healthcare Management",
+      "studyType": "BBA",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": [
+        "Healthcare Finance",
+        "Risk Management",
+        "Information Systems",
+        "Management",
+        "Ethics",
+        "Policy Making"
+      ]
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Healthcare",
+      "level": "",
+      "keywords": [
+        "EPIC",
+        "Microsoft Office Suite",
+        "Healthcare Systems",
+        "Insurance/Billing",
+        "Sorian Scheduling",
+        "Health/Medical Records",
+        "Research",
+        "Reports",
+        "Data Analysis",
+        "Regulatory Compliance",
+        "Patient Care Support",
+        "Project Management"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

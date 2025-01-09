@@ -1,0 +1,135 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Finance",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "A versatile, highly motivated, adaptable, and responsible accounting graduate. Possessing highly analytical skill and ability to manage and complete projects to the highest standards. Now wish to transition solid background in accounting and finance towards business and property consultancy, which is a challenging position that will enable me to capitalise my own knowledge and work experience.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "ID",
+      "region": "Region"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Finance",
+      "url": "",
+      "startDate": "2013-07-01",
+      "endDate": "Current",
+      "summary": "Proposed and achieved cost savings by reducing expenses on the company. Forecasted operating costs for scheduled projects by strategizing with other departments. Analyzed budgets, financial reports and projections for accurate reporting of financial standing. Worked with management at the project level to ensure expense plans are achieved. Worked with managers to develop annual expense plan goals. Collected and reported monthly expense variances and explanations. Performed periodic budgeting/modeling to project monthly cash requirements. Calculated commissions for sales stores. Responsible for petty cash and bank transactions.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Junior Auditor",
+      "url": "",
+      "startDate": "2012-02-01",
+      "endDate": "2012-06-01",
+      "summary": "Analyzed and reviewed cost reports and communicated final results to clients. Reported internal control issues to management and supplied comprehensive recommendations to mitigate the associated risks. Gathered data for internal audits through interviews, financial research and downloads. Articulated audit findings, risks and detailed recommendations to upper management. Met with clients to identify and assess business controls, risks, process gaps and work flow inefficiencies.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Kwik Kian Gie School of Business",
+      "url": "",
+      "area": "Accounting",
+      "studyType": "S.E",
+      "startDate": "",
+      "endDate": "2013",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Don Bosco 2 Senior High School",
+      "url": "",
+      "area": "",
+      "studyType": "High School Diploma",
+      "startDate": "",
+      "endDate": "2008",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "SPO ( Sales Promotion Officer) / SPG",
+      "date": "2012",
+      "issuer": "Wall Street Institute",
+      "url": ""
+    },
+    {
+      "name": "Junior Auditor (Intern)",
+      "date": "2012",
+      "issuer": "KAP A.K Rahman",
+      "url": ""
+    },
+    {
+      "name": "Finance",
+      "date": "2013",
+      "issuer": "PT. Mitra Manunggal Mahardika",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Finance Skills",
+      "level": "Master",
+      "keywords": [
+        "Multilingual in English and Indonesian Languange",
+        "Superior time management",
+        "Proficient in Ms. Office",
+        "Customer relations",
+        "Critical thinking",
+        "Self-motivated professional",
+        "Attention to detail",
+        "Excellent communication skills",
+        "Creative thinker",
+        "Strong interpersonal skills",
+        "Excellent managerial techniques"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "fluent"
+    },
+    {
+      "language": "Indonesian",
+      "fluency": "fluent"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Hobbies",
+      "keywords": [
+        "Boxing",
+        "Yoga",
+        "Jogging",
+        "Travelling"
+      ]
+    },
+    {
+      "name": "Job Preference",
+      "keywords": [
+        "Accounting",
+        "Finance",
+        "Auditor",
+        "Marketing"
+      ]
+    }
+  ],
+  "references": [],
+  "projects": []
+}

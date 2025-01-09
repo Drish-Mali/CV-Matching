@@ -1,0 +1,132 @@
+{
+  "basics": {
+    "name": "CHIEF OPERATING OFFICER",
+    "label": "Chief Operating Officer",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "WA, ORE, ID",
+      "region": "South Puget Sound"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Chief Operating Officer",
+      "url": "",
+      "startDate": "June 2008",
+      "endDate": "January 2010",
+      "summary": "Oversaw all aspects of this 35+ year old medical practice...",
+      "highlights": [
+        "Recruited by the Board of Directors.",
+        "Revenues grew from $48MM in 2008 to over $53MM in 2014.",
+        "Saved the company over $160,000 in 2015 due to hard negotiations.",
+        "Brought two construction projects, under budget and on time saving $200,000 in total."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Vice President and Commercial Banker",
+      "url": "",
+      "startDate": "May 1998",
+      "endDate": "May 2008",
+      "summary": "Recruited by and joined as Vice President and Commercial Banker...",
+      "highlights": [
+        "Grew portfolio to over $30MM in outstandings and $50MM in commitments in three years.",
+        "Promoted to SVP due to growth of portfolio and fee income/referrals 06/2001",
+        "Promoted to SVP and SWWA Commercial Banking Manager 06/2003",
+        "Overall TEAM portfolio grew from outstandings of $100MM to over $160MM.",
+        "Implemented monthly sales meetings.",
+        "This resulted in deposit growth within the group."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Pacific Lutheran University",
+      "url": "",
+      "area": "Chemistry",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "University of Washington",
+      "url": "",
+      "area": "Pacific Coast Banking School Certification",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Strategic Planning/Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Strong communication skills",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Strong credit/financial analysis skills",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Team builder/collaborator",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Sales management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Negotiation skills",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Strong multi-tasker",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Project management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Planning/execution",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Cross Functional leadership",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

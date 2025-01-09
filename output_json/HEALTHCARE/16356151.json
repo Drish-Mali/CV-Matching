@@ -1,0 +1,94 @@
+{
+  "basics": {
+    "name": "Not provided",
+    "label": "Occupational Health Nurse Coordinator",
+    "image": "",
+    "email": "Not provided",
+    "phone": "Not provided",
+    "url": "Not provided",
+    "summary": "Dedicated RN with over 20 years experience in nursing seeking career transition into a new clinical setting. Able to offer a solid foundation in occupational health, office management, triage, endoscopy, homecare, primary patient care and current healthcare advancements. Highly motivated, dedicated, flexible and compassionate with proven expertise in communication, organization and documentation skills.",
+    "location": {
+      "address": "Not provided",
+      "postalCode": "Not provided",
+      "city": "Not provided",
+      "countryCode": "Not provided",
+      "region": "Not provided"
+    },
+    "profiles": [
+    ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Occupational Health Nurse Coordinator",
+      "url": "Not provided",
+      "startDate": "2011-09",
+      "endDate": "2012-05",
+      "summary": "Provided comprehensive occupational and environmental health services including but not limited to occupational medicine, industrial hygiene, industrial safety and administrative tasks.",
+      "highlights": [
+        "Respond to all medical emergencies immediately * Provide Cardiovascular Pulmonary Resuscitation/Automated External Defibrillator and first aid; annual training to support staff in AED and periodic device monitoring * Submit and track Medical Incident Reports within five days of occurrence and follow-up * Provide and disperse over-the-counter drugs in accordance with Standard Operating Procedures (SOP) or Standing Orders * Provide and perform physicals and medical examinations including job specific testing"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Physician Liaison/Nurse Triage/GI Nurse",
+      "url": "Not provided",
+      "startDate": "2000-12",
+      "endDate": "2011-10",
+      "summary": "Assisted the physicians in all aspects of patient care.",
+      "highlights": ["Assessed, planned, implemented, supervised and evaluated direct and indirect nursing care for patients in the endoscopy setting."]
+     },
+      {
+      "name": "Company Name",
+      "position": "Home Healthcare Nurse",
+      "url": "Not provided",
+      "startDate": "1990-05",
+      "endDate": "2000-07",
+      "summary": "Performed a comprehensive range of clinical functions in the home setting within the community.",
+      "highlights": ["Assessed patients' developmental stages and conditions, administered medications, maintained patient charts/care plans and responded to medical emergencies."]
+     }
+  ],
+  "volunteer": [
+  ],
+  "education": [
+    {
+      "institution": "Gannon University",
+      "url": "Not provided",
+      "area": "Nursing",
+      "studyType": "Bachelor",
+      "startDate": "Not provided",
+      "endDate": "Not provided",
+      "score": "3.85",
+      "courses": [
+        "NxStage/US Renal Care: Home Dialysis education & training, BCLS, CPR, Trauma Certification"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Nurse of the year",
+      "date": "1992",
+      "awarder": "Not provided",
+      "summary": "Elected for nurse of the year in 1992."
+    }
+  ],
+  "certificates": [
+  ],
+  "publications": [
+  ],
+  "skills": [
+    {
+      "name": "Medical",
+      "level": "Expert",
+      "keywords": ["Patient Management", "Patient Assessment", "Homecare", "Hospice Care", "Communication & Documentation", "Healthcare Education", "JCAHO Standards", "Relations", "Homecare Skills/Oasis", "Quality Assurance ", "Quality Control", "Records Maintenance", "Healthcare", "Training", "Access", "Customer Service", "Laboratory", "Liaison", "Office Management", "Phlebotomy", "Scheduling", "Telephone", "Self-directed", "CPR", "Administrative Tasks", "Arrangements", "Cardiovascular"]
+    }
+  ],
+  "languages": [
+  ],
+  "interests": [
+  ],
+  "references": [
+  ],
+  "projects": [
+  ]
+}

@@ -1,0 +1,131 @@
+    {
+  "basics": {
+    "name": "ENGINEERING SYSTEMS INSTALLER",
+    "label": "Information Technology Professional",
+    "summary": "Seasoned Information Technology professional with over 7 plus years of experience working in various industries. Excellent knowledge on computer hardware, software, peripherals, central processing units, network administration, servers, network routers, Microsoft applications, technology support specialist, Windows OS, Windows Server, Mac OS, Managing, QA testing, client support, and help desk. Highly experienced in procedures for installing, configuring, upgrading, troubleshooting and repairing applicable software, hardware and peripherals. Excellent communication and interpersonal skills. Professional work ethic, strong attention to detail and an ability to produce top quality results in deadline driven environments.",
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Engineering Systems Installer",
+      "startDate": "2006-08-01",
+      "endDate": "2013-01-01",
+      "summary": "Worked with all Microsoft Applications (Word, Excel, PowerPoint, Access, Exchange, InfoPath, Lync, Onenote, Outlook, Project, Publisher, Sharepoint(s), Visual Studios, ETC). Authored procedure for entering inspection results into the computer database. Maintain, inspect, tested, and tested computer hardware components as needed."
+    },
+    {
+      "name": "Company Name",
+      "position": "IT Technician/QA Tester",
+      "startDate": "2013-08-01",
+      "endDate": "2014-09-01",
+      "summary": "Worked with almost all Microsoft applications (word, excel, powerpoint, access, exchange, InfoPath, Lync, OneNote, outlook, project, publisher, SharePoint(s), visual studios, etc). Wrote up reports at the end of shift on progress and any problems that occurred doing shift."
+    },
+    {
+      "name": "Company Name",
+      "position": "Installation/Service Technician",
+      "startDate": "2014-07-01",
+      "summary": "Installed, programmed, serviced, & repaired home security systems, home surveillance systems, & home automation systems."
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "ITT Tech Electronics and Communications Engineering Technology & Software Development",
+      "area": "Electronics and Communications Engineering Technology",
+      "studyType": "BACHELOR DEGREE",
+      "startDate": "",
+      "endDate": "2018",
+      "courses": []
+    },
+    {
+      "institution": "Glen Oaks High School",
+      "area": "Software Development",
+      "studyType": "HIGH SCHOOL DIPLOMA",
+      "endDate": "2013"
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "CompTia Certification",
+      "issuer": ""
+    },
+    {
+      "name": "Microsoft Certification",
+      "issuer": "",
+      "date": "2013"
+    }  
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Microsoft Applications",
+      "level": "Expert",
+      "keywords": [
+        "Word",
+        "Excel",
+        "PowerPoint",
+        "Access",
+        "Exchange",
+        "InfoPath",
+        "Lync",
+        "Onenote",
+        "Outlook",
+        "Project",
+        "Publisher",
+        "Sharepoint(s)",
+        "Visual Studios"
+      ]
+    },
+    {
+      "name": "Networking",
+      "level": "Expert"
+    },
+    {
+      "name": "Technical Support",
+      "level": "Expert"
+    },
+    {
+      "name": "Team Leadership",
+      "level": "Expert"
+    },
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "HTML5",
+        "CSS3",
+        "Php",
+        "MSQL",
+        "Java",
+        "Java Script"
+      ]
+    },
+    {
+      "name": "Management Skills",
+      "level": "Expert"
+    },
+    {
+      "name": "Application Development",
+      "level": "Expert"
+    }
+  ],
+  "languages": [],
+  "interests": [
+    {
+      "name": "Freelancing"
+    },
+    {
+      "name": "Web & App Development"
+    },
+    {
+      "name": "Tech Support Microsoft Applications Training"
+    },
+    {
+      "name": "Network Administration"
+    }
+  ],
+  "references": [],
+  "projects": []
+}

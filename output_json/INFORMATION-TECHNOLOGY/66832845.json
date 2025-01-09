@@ -1,0 +1,79 @@
+{
+  "basics": {
+    "name": "Not Provided",
+    "label": "Information Technology Specialist I",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Professional Summary not provided",
+    "location": {},
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Information Technology Specialist I",
+      "url": "",
+      "startDate": "07/2008",
+      "endDate": "Current",
+      "summary": [
+        "I serve as the Lan Administrator.",
+        "I manage Active Directory user accounts and troubleshoot Active Directory replication issues."
+      ],
+      "highlights": [
+        "Installed and maintain over 100 servers.",
+        "Installed and maintain a Hyper V cluster of 9 nodes."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Technology Specialist III",
+      "url": "",
+      "startDate": "06/2001",
+      "endDate": "07/2008",
+      "summary": "Install and configure HP network switches, troubleshooting network port communication errors. Implemented the district Geographic Information system by recommending ArcGIS software. Provide high level user support.",
+      "highlights": [
+        "Installed and maintained Blackberry Enterprise server for MS Exchange server.",
+        "Installed and maintained Whats up network device connectivity monitoring software."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Programming",
+      "level": "",
+      "keywords": [
+        "Visual Basic Programming",
+        "UNIX",
+        "Linux"
+      ]
+    },
+    {
+      "name": "Systems Administration",
+      "level": "",
+      "keywords": [
+        "SANs",
+        "Active Directory Account Management",
+        "Hyper V Server Management"
+      ]
+    }, 
+    {
+      "name": "Network", 
+      "level": "", 
+      "keywords": [
+        "Switch Configuration", 
+        "TCP/IP utilities"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

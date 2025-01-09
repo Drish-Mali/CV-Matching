@@ -1,0 +1,94 @@
+{
+  "basics": {
+    "name": "Not provided",
+    "label": "LINE SERVICE TECHNICIAN",
+    "image": "",
+    "email": "Not provided",
+    "phone": "Not provided",
+    "url": "Not provided",
+    "summary": "Currently have 42 flying hours. A Sophomore student at Southwestern Illinois College in the Aviation Pilot Program. Currently working on a Private Pilot Certificate at Ideal Aviation. Also an employee at Ideal Aviation as a Line Service Technician.",
+    "location": {
+      "address": "Not provided",
+      "postalCode": "Not provided",
+      "city": "Freeburg",
+      "countryCode": "United States",
+      "region": "Illinois"
+    },
+    "profiles": []
+  },
+  "work": [
+    { 
+      "name": "Not provided",
+      "position": "Line Service Technician",
+      "url": "Not provided",
+      "startDate": "2017-03",
+      "endDate": "Current",
+      "summary": "Fuel Aircraft from Cessna to Gulfstream as well as helicopters. Marshaling in Aircraft. Pilot and Passenger communication. Towing and Pushing aircraft. Aircraft Cleaning. Aircraft Management.",
+      "highlights": []
+    },
+    { 
+      "name": "Not provided",
+      "position": "Ramp Agent",
+      "url": "Not provided",
+      "startDate": "2016-07",
+      "endDate": "2017-03",
+      "summary": "Fueling of F-18, T-38, Boeing 737, E-2. Marshaling of inbound and outbound aircraft. Baggage for Allegiant Airlines. Pushback Operator for Allegiant Airlines. Use of Unicom and Deicing Military and Commercial Aircraft. Lavatory Service Use and Ground Power Unit. Pilot Communications.",
+      "highlights": []
+    },
+    { 
+      "name": "Not provided",
+      "position": "Team Member",
+      "url": "Not provided",
+      "startDate": "2015-12",
+      "endDate": "2016-05",
+      "summary": "In charge of running the computer system which entailed cash register and returns. Responsible for helping customers with problems and showing them where certain things were in the store. Self thinking to solve their problems. Loading of multiple bags of 50 pounds of animal feed into the store. Main skills acquired were customer service and organization.",
+      "highlights": []
+    },
+    { 
+      "name": "Not provided",
+      "position": "Event Staff",
+      "url": "Not provided",
+      "startDate": "2015-04",
+      "endDate": "2016-06",
+      "summary": "In charge of setting up for weddings, birthday parties, bridal showers, baby showers, etc. Driving customers in gas-powered golf carts and using the four-wheeler to pull trailers. Setting up chairs and tables which required heavy lifting. Working long days and nights. Landscaping jobs around the property. Required good people skills and time management.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Southwestern Illinois College",
+      "url": "Not provided",
+      "area": "Aviation Pilot",
+      "studyType": "Associate of Applied Science",
+      "startDate": "Not provided",
+      "endDate": "2018",
+      "score": "Not provided",
+      "courses": []
+    },
+    {
+      "institution": "FREEBURG COMMUNITY HIGH SCHOOL",
+      "url": "Not provided",
+      "area": "Not provided",
+      "studyType": "High School",
+      "startDate": "Not provided",
+      "endDate": "2016",
+      "score": "Not provided",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "General",
+      "level": "Not provided",
+      "keywords": ["Great People Skills", "Private Pilot Knowledge", "Microsoft Office", "Worked at two Airports", "Fueling Aircrafts", "Airport Ramp Knowledge", "Invoice Knowledge", "Customer Service Experience", "Leadership", "Team leadership", "Outlook", "Fast learner", "Verbal Communication"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

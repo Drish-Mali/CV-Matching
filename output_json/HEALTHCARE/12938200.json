@@ -1,0 +1,87 @@
+{
+  "basics": {
+    "name": "Emergency Room Admitting Specialist/Quality Assurance",
+    "label": "Quality Assurance Specialist",
+    "summary": "Driven, highly dedicated to my job and duties (Quality Assurance). I am an active listener, excellent problem solver and Speak,write and read Spanish fluently. Very professional and articulate. Strongly motivated, and have excellent customer service skills. Fast leaner and excel in building dynamic teams in an effort to achieve a goal for continual improvement.",
+    "languages": [
+      {
+        "language": "English",
+        "fluency": "Speak, Read and Write English Fluently"
+      },
+      {
+        "language": "Spanish",
+        "fluency": "Speak, Read and Write Spanish Fluently"
+      }      
+    ],
+    "skills": [
+      {
+        "name": "Bilingual",
+        "level": "Fluent",
+        "keywords": ["Speak", "Read", "Write", "English", "Spanish"]
+      },
+      {
+        "name": "Software",
+        "level": "Advanced",
+        "keywords": ["Word", "Microsoft", "Explorer", "Lotus", "Outlook", "MIDAs"]
+      },
+      {
+        "name": "Technical Skills",
+        "level": "Proficient",
+        "keywords": ["Excel"]
+      },
+      {
+        "name": "Soft Skills",
+        "level": "Excellent",
+        "keywords": ["Customer service", "Critical thinker", "Problem solver"]
+      },
+      {
+        "name": "CPR",
+        "level": "Certified",
+        "keywords": ["CPR certified"]
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Emergency Room Admitting Specialist/Quality Assurance",
+      "startDate": "Sep 2014",
+      "summary": "Arrange efficient and orderly admission of patients. Insures that patient information is collected and that patients are aware of hospital policies and procedures. Interview incoming patient or representative and enter information required for admission into computer database. Collect co-pays and deductibles from patients. Distribute appropriate information to ancillary departments. Cross trained in other areas and perform any other duties as assigned (OP and IP)."
+    },
+    {
+      "name": "Company Name",
+      "position": "HealthCare Rep",
+      "startDate": "Oct 2009",
+      "endDate": "Aug 2014",
+      "summary": "Interviewing clients in a hospital setting and/or home visits to assist them in obtaining maximum benefit coverage. Completing applications for state and federal program, reviewing medical records and taking all actions necessary to expedite benefit approval. Maintain ongoing communications with government agencies regarding the status of claims. Provide updates and assistance to hospital personnel and other staff as needed. Knowledge of federal and state programs to benefit coverage for the client."
+    },
+    {
+      "name": "Company Name",
+      "position": "Developmentalist/Caregiver",
+      "startDate": "Jul 2009",
+      "endDate": "Oct 2009",
+      "summary": "Provide direct care and training for developmentally disabled and/or mentally retarded (DD/MR), ambulatory and non-ambulatory individuals at the Utah State Developmental Center. Properly manage aggressive, self-abusive, and non-compliant individuals. Implement and follow prescribed behavioral programs. Transfer individuals correctly. Perform direct care services to include: bathing, showering, dressing, toileting or changing incontinent briefs (diapering), oral hygiene, feeding."
+    },
+    {
+      "name": "Company Name",
+      "position": "Mental Health Worker II",
+      "startDate": "Jan 2008",
+      "endDate": "Mar 2009",
+      "summary": "Update and maintain client charts with medical services. Meet with treatment team (psychiatrist, MFT's and Psychologists) to discuss clients treatment plan. Facilitate STEP group for clients parents. Facilitate Anger Management groups for Clients. Coordinate client services with local agencies. Provide rehab services to medication only clients 1x/month. Provide interpretations to Spanish as needed to facilitate access to services. Home-visits. Parent and family support. Intense Case management. Attend clinic meetings. Participate as a tx team member."
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Utah College of Social Work",
+      "area": "Social Work",
+      "studyType": "Master",
+      "startDate": "Spring 2016"
+    },
+    {
+      "institution": "California State University",
+      "area": "Social Work",
+      "studyType": "Bachelor",
+      "startDate": "Summer 2007"
+    }
+  ]
+}

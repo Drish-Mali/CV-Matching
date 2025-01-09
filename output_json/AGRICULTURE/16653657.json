@@ -1,0 +1,111 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Quality Assurance Associate",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Enthusiastic Chemist eager to pursue a lasting career in the Agriculture industry. Detail-oriented Chemist with expertise in the instrumentation, physical and wet chemistry, and formulation as well as coordinating testing and development.",
+    "location": {},
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Quality Assurance Associate",
+      "url": "",
+      "startDate": "2011-01-01",
+      "endDate": "Current",
+      "summary": "Preparation, configuration, execution and authoring of reports for IQ, OQ and PQ protocols for Labware LIMS...",
+      "highlights": [ "Led the pre-formulation and formulation development of a topical cream and gel for psoriases which successfully entered clinical trials."]
+    },
+    {
+      "name": "Company Name",
+      "position": "Senior Researcher Formulation",
+      "url": "",
+      "startDate": "2005-01-01",
+      "endDate": "2011-01-01",
+      "summary": "Lead formulation chemist in the design and execution of development programs to deliver specific topical and lyophilized product attributes...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Quality Control Chemist",
+      "url": "",
+      "startDate": "2003-01-01",
+      "endDate": "2005-01-01",
+      "summary": "Responsible for performing dissolution testing, content uniformity, acid resistance and assay of solid oral dosage products in a cGMP environment...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Quality Control / Analytical Chemist",
+      "url": "",
+      "startDate": "2001-01-01",
+      "endDate": "2003-01-01",
+      "summary": "Responsible for performing physical and chemical cGMP testing of ophthalmic formulations...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Chemist / Supervisor",
+      "url": "",
+      "startDate": "1998-01-01",
+      "endDate": "2001-01-01",
+      "summary": "Supervision of a busy contract laboratory...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Chemist",
+      "url": "",
+      "startDate": "1995-01-01",
+      "endDate": "1997-01-01",
+      "summary": "Performed toxicological screening and conformational studies using GC/MS on horse serum and urine for illegal or banned drugs and their metabolites...",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of North Carolina",
+      "url": "",
+      "area": "Chemistry",
+      "studyType": "Master of Science",
+      "startDate": "2013-01-01",
+      "endDate": "2014-01-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Michigan State University",
+      "url": "",
+      "area": "Forensic Science",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "1996-01-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Chemistry Skills",
+      "level": "",
+      "keywords": [
+        "HPLC",
+        "GC",
+        "Physical Chemistry",
+        "UV/VIS"
+      ]
+    }
+  ]
+}

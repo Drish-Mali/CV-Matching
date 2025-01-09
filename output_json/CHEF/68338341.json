@@ -1,0 +1,92 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Executive Chef-Partner",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Proven abilities in fine dining restaurants, catering, corporate dining and provisioning.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Executive Chef-Partner",
+      "url": "",
+      "startDate": "2014-07-01",
+      "endDate": "Current",
+      "summary": "Daily supervision of BOH team members. Expertly estimated staffing needs and adjusted hourly schedules in accordance with demand patterns, budget and local labor laws.",
+      "highlights": [
+        "Implemented portioning systems throughout all areas of the kitchen.",
+        "Reduced food costs by 9% by expertly estimating purchasing needs and buying through approved suppliers."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Catering Manager/Executive Chef",
+      "url": "",
+      "startDate": "2014-03-01",
+      "endDate": "2014-07-01",
+      "summary": "Plan and execute all off site catering and events for catering department. Obtain new clients and track sales.",
+      "highlights": [
+        "Event planning of all sizes at all stages.",
+        "Menu planning and execution from prep to production."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "The Culinary Institute Of America",
+      "url": "",
+      "area": "Culinary Arts",
+      "studyType": "Associate of Science",
+      "startDate": "",
+      "endDate": "1991-01-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Kingsborough Community College Abraham Lincoln High School",
+      "url": "",
+      "area": "Business administration",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "1987-01-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Chef Skills",
+      "level": "Master",
+      "keywords": [
+        "POS usage",
+        "Microsoft",
+        "Aloha",
+        "Cateredge",
+        "Excellent communication skills",
+        "Ability to work well either alone or as part of a team",
+        "Multi-tasking abilities",
+        "Great decision making skills",
+        "Detail oriented"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

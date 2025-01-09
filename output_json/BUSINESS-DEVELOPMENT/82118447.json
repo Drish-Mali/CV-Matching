@@ -1,0 +1,168 @@
+{
+  "basics": {
+    "name": "Anonymous",
+    "label": "Business Development Manager/Program Director",
+    "summary": "Marketing and sales executive who thrives in energetic, high-pressure, competitive environments. Expertise in direct sales and brand management. Exceptional problem solver, natural leader and skilled mediator who excels at bringing out the best in all employees.",
+    "location": { },
+    "profiles": [ ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Business Development Manager/Program Director",
+      "startDate": "2014-02-01",
+      "summary": "Designed and implemented a strategic marketing initiative for First Interstate Bank. Market share and revenue grew by over 300%. Developed sales training protocols for ADP's new product line. Recruited, trained and managed an agent sales force for AT&T's GBS Division which grew to in excess of 250 million dollars in revenue per year.",
+      "highlights": [ "Designed strategic marketing initiative", "Market share and revenue grew by 300%"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Program Director",
+      "startDate": "2011-09-01",
+      "endDate": "2015-01-01"
+    },
+    {
+      "name": "Company Name",
+      "position": "Senior Counselor",
+      "startDate": "2008-11-01",
+      "endDate": "2011-08-01"
+    },
+    {
+      "name": "Company Name",
+      "position": "Substance Abuse Counselor",
+      "startDate": "2006-08-01",
+      "endDate": "2008-11-01"
+    },
+    {
+      "name": "Company Name",
+      "position": "Substance Abuse Counselor",
+      "startDate": "1993-09-01",
+      "endDate": "2006-08-01"
+    },
+    {
+      "name": "Company Name",
+      "position": "President/CEO",
+      "startDate": "1990-01-01",
+      "endDate": "1993-05-01",
+      "summary": "Chief Executive Officer of medium-size Telecommunications Corporation. Managed the day-to-day tactical and long-term strategic activities within the business. Capitalized on industry changes to maximize company revenue. Conducted cost, schedule, contract performance, variance and risk analysis.",
+      "highlights": [ "Increased monthly sales by 70%", "Optimized revenue streams", "Developed management, sales strategies and business plans" ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Senior Territorial Manager",
+      "startDate": "1988-04-01",
+      "endDate": "1990-01-01",
+      "summary": "Spearheaded Agent Program, resulting in a 300% increase in revenue",
+      "highlights": [ "Increase in revenue by 300%", "Trained all sales agents" ]
+    },
+    {
+      "name": "Company Name",
+      "position": "District Manager",
+      "startDate": "1986-05-01",
+      "endDate": "1988-03-01"
+    },
+    {
+      "name": "Company Name",
+      "position": "Credit/Marketing Manager V.P",
+      "startDate": "1984-03-01",
+      "endDate": "1986-04-01"
+    }
+  ],
+  "education": [
+    {
+      "institution": "California Coast University",
+      "area": "Business Administration",
+      "studyType": "Ph.D",
+      "startDate": "2001-01-01",
+      "endDate": "2003-01-01",
+      "score": "9",
+      "courses": [ "Strategic Business Policy", "Marketing and Economic Policy", "Organizational Psychology", "Corporate Finance" ]
+    },
+    {
+      "institution": "California Coast University",
+      "area": "Business Administration",
+      "studyType": "MBA",
+      "startDate": "2000-01-01",
+      "endDate": "2002-01-01",
+      "score": "0",
+      "courses": [ "Organizational Behavior", "Managerial Decision Making", "E-Business", "Management Science", "Human Relations", "Financial and Marketing Management", "Business Law" ]
+    },
+    {
+      "institution": "California Coast University",
+      "area": "Business Administration",
+      "studyType": "Bachelor of Science",
+      "startDate": "1998-01-01",
+      "endDate": "2000-01-01",
+      "score": "0",
+      "courses": [ "Psychology", "Sociology", "Business Management", "Organizational Theory and Behavior", "Marketing","Economics and Communications" ]
+    },
+    {
+      "institution": "Palo Verde Junior College",
+      "area": "Hospital Corpsman/Psychiatric Technician",
+      "studyType": "Certificate",
+      "startDate": "1979-01-01",
+      "endDate": "1980-01-01",
+      "courses": [ "Hospital Corpsman School", "EMT-II", "Psych Technician", "Crisis Intervention" ]
+    }
+  ],
+  "awards": [ ],
+  "certificates": [ ],
+  "publications": [ ],
+  "skills": [
+    {
+      "name": "Business Development",
+      "level": "Master",
+      "keywords": [
+        "Account management", 
+        "Business Law",
+        "Case Management",
+        "Corporate Finance",
+        "Counselor",
+        "Crisis Intervention",
+        "Client Relations",
+        "Decision Making",
+        "Direct Sales",
+        "Documentation",
+        "E-Business",
+        "Financial",
+        "Human Resource Management",
+        "Human Relations",
+        "International Business",
+        "International Marketing",
+        "Leadership Skills",
+        "Managerial",
+        "Marketing",
+        "Market",
+        "Marketing Management",
+        "Negotiator",
+        "Communicator",
+        "Optimization",
+        "Organizational",
+        "Payroll",
+        "P.C.",
+        "Problem solving",
+        "Protocols",
+        "Psychology",
+        "Research",
+        "Sales",
+        "Sales Training",
+        "Strategic",
+        "Strategic Marketing",
+        "Technician",
+        "Telecommunications",
+        "Trainer"
+      ]
+    }
+  ],
+  "languages": [ ],
+  "interests": [
+    {
+      "name": "Volunteer work",
+      "keywords": [
+        "Pegasis Riding Academy",
+        "At-risk teens"
+      ]
+    }
+  ],
+  "references": [ ],
+  "projects": [ ]
+}

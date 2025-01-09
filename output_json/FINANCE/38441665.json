@@ -1,0 +1,99 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Finance Director",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Results oriented, dependable and motivated professional with 15 years of various experience in the field of accounting, payroll, tax, procurement and administration. Desires a challenging role in business processes.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Finance Director",
+      "url": "",
+      "startDate": "2003-06",
+      "endDate": "2014-01",
+      "summary": "Manage all aspects of accounting operations, overseeing day to day transactions related to general ledger, accounts payable, accounts receivable, etc.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Finance Officer",
+      "url": "",
+      "startDate": "2000-10",
+      "endDate": "2013-05",
+      "summary": "Prepares financial statement of regional headquarters. Consolidates financial statement of companies and reports to the higher management.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Accounting Staff",
+      "url": "",
+      "startDate": "1999-01",
+      "endDate": "2000-10",
+      "summary": "Prepare invoices and follow-up on payments. Prepare payments to vendors. Prepare tax returns and other regulatory reports Process payroll.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Miriam College Foundation Inc",
+      "url": "",
+      "area": "Accountancy",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "1997",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Certified Public Accountant",
+      "date": "",
+      "issuer": "Philippines",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Accounting",
+      "level": "",
+      "keywords": [
+        "General and Tax Accounting",
+        "Account reconciliation",
+        "Budget forecasting expertise",
+        "Financial statement analysis",
+        "Compensation and benefits administration",
+        "System implementation",
+        "Inventory systems",
+        "Poilcy/program development",
+        "Proficiency in Oracle Financials, Microsoft Office, Microsoft Dynamics, Peach Tree Accounting"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "professionalAffiliations": [
+    {
+      "name": "Philippine Institute of Certified Public Accountants (PIPCA)",
+      "membershipStart": "2000",
+      "membershipEnd": "Present"
+    }
+  ]
+}

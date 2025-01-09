@@ -1,0 +1,95 @@
+{
+  "basics": {
+    "name": "Raymond Strange",
+    "label": "Operation Manager",
+    "url": "www.linkedin.com/in/raymondstrange",
+    "summary": "Accomplished Operation Management professional with 20+ years' with a broad scope of experience driving process improvements, financial administrative, and staff productivity in military environments. Cultivate strong relations through contract negotiation, project management, and policy/program development. Oversee all aspects of operations including HR/financial/accounting, and inventory control.",
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "raymondstrange",
+        "url": "www.linkedin.com/in/raymondstrange"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Operation Manager",
+      "startDate": "09/2013",
+      "endDate": "Current",
+      "summary": "Coordinates all training of 3000+ employees within the regional footprint with 100% mission completion. Ensures compliance with established policies and procedures; led staff training initiatives to maximize productivity. Analyzes key aspects of the business to evaluate the factors driving results and summarized results into presentations. Writes office job descriptions and directives. Develops and executes marketing programs and general business solutions resulting in increased regional exposure, customer traffic, and tracking system."
+    },
+    {
+      "name": "Company Name",
+      "position": "General Manager",
+      "startDate": "11/2009",
+      "endDate": "08/2012",
+      "summary": "Managed the Quality Control, Unit Supply, Aviation Automated Logistical Supply, Production Control, and Administration section. Assisted the planning, organizing, directing, and supervising all Company level training, oversees the accuracy of monthly reports. Supervised preparation and maintenance of unit movement and unit load plans and supervise the execution of the plans on order."
+    },
+    {
+      "name": "Company Name",
+      "position": "Logistic Manager",
+      "startDate": "01/2012",
+      "endDate": "10/2012",
+      "summary": "Coordinated and managed resident training activities in the field of aviation logistics and maintenance, to include utilization of training resources, facilities utilization, upkeep and modernization, and the recognition and establishment of new facilities requirements as necessary to maintain the quality of the training facilities. Coordinated aviation maintenance resident and non-resident training issues such as unique on-site instruction of Active Army and Reserve components through the use of Displaced Equipment, and New Equipment Training Teams."
+    },
+    {
+      "name": "Company Name",
+      "position": "Senior Training Specialist",
+      "startDate": "11/2009",
+      "endDate": "12/2011",
+      "summary": "Served as a Training Instructor and subject matter expert performing instructional and training development work in the Structural Branch, at the Structural and Pneudralic Division (SPD). Managed the course material for assigned blocks of instruction within comprehensive courses, providing training materials and aids as needed, conducts platform instruction, and administers practical exercises and examinations for students. Administer and proctors written and performance examinations. Conducted evaluation and certified training instructors within the Division as a Senior Evaluator."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Trident University International",
+      "area": "Business Administration",
+      "studyType": "Bachelor",
+      "startDate": "Current"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Project management",
+      "level": "Master"
+    },
+    {
+      "name": "Critical thinking",
+      "level": "Master"
+    },
+    {
+      "name": "Team building",
+      "level": "Master"
+    },
+    {
+      "name": "Budget analysis",
+      "level": "Master"
+    },
+    {
+      "name": "Written and oral communication skills",
+      "level": "Master"
+    },
+    {
+      "name": "Training / Development",
+      "level": "Master"
+    },
+    {
+      "name": "Process improvement",
+      "level": "Master"
+    },
+    {
+      "name": "Schedule management",
+      "level": "Master"
+    },
+    {
+      "name": "Microsoft Office Suite expert",
+      "level": "Master"
+    },
+    {
+      "name": "Secret Security Clearance",
+      "level": "Master"
+    }
+  ]
+}

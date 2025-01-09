@@ -1,0 +1,100 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Domestic Violence and Sexual Assault Advocate",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Certified Massachusetts Domestic Violence and Sexual Assault Advocate driven to help survivors overcome numerous intersecting social, mental and emotional obstacles.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Domestic Violence and Sexual Assault Advocate",
+      "url": "",
+      "startDate": "July 2014",
+      "endDate": "Current",
+      "summary": "One-on-one counseling addressing emotional needs, coping skills, goals, and planning for survivors of domestic violence and sexual assault. Cross-trained as court advocate. Conducted training and presentations in the community regarding relevant social issues.",
+      "highlights": [
+        "Registered attendance of 10-20 women at the YWCA Haverhill's first successful women's support group for survivors."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Student Intern",
+      "url": "",
+      "startDate": "January 2014",
+      "endDate": "May 2014",
+      "summary": "Assisted attorney during major homicide trial including input on trial strategy, client interviews, organized case files in preparation for trial, and performed background research."
+    },
+    {
+      "name": "Company Name",
+      "position": "Student Advocate and Assistant Outreach Coordinator",
+      "url": "",
+      "startDate": "January 2010",
+      "endDate": "January 2014",
+      "summary": "Organized the Community Educators, planned and arranged presentations, and designed new workflow processes to improve productivity. Also staffed emergency help line on campus."
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of New Hampshire",
+      "url": "",
+      "area": "Psychology and Justice Studies Forensics",
+      "studyType": "Bachelor of the Arts",
+      "startDate": "",
+      "endDate": "May 2014",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Advocacy",
+      "level": "",
+      "keywords": [
+        "Conflict resolution",
+        "Advocacy",
+        "Group facilitation",
+        "Program development",
+        "Youth advocacy",
+        "Outreach",
+        "Microsoft Office",
+        "Training",
+        "Counseling",
+        "Customer service skills",
+        "Data entry",
+        "Editing skills",
+        "Money handling",
+        "Multitasking",
+        "Presenting",
+        "Problem-solving",
+        "Public speaking",
+        "Research",
+        "Safety",
+        "Seminars",
+        "Staffing",
+        "Statistical analysis",
+        "Supervising",
+        "Time management"
+      ]  
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

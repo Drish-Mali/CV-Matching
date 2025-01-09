@@ -1,0 +1,84 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Software Engineer",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Experienced Software Engineer generalist with a strong interest in Game Play, and AI programming.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "State",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Software Engineer",
+      "url": "",
+      "startDate": "08/2010",
+      "endDate": "Current",
+      "summary": "Worked with product managers to implement in game telemetry, created various features for different platforms, including IOS/Android, and PC games. Also responsible for enhancing, implementing and debugging code for different parts of the games.",
+      "highlights": [
+        "Worked with artists to develop player animation and movement code",
+        "Developed AI behaviors, and a system that used dynamic navigation mesh",
+        "Profiled and optimized server-side (Lua/C++) code to improve performance",
+        "Implemented HUD features such as objective system",
+        "Refactored server logging system initialization to improve log coverage at startup."
+      ]
+    },
+    {
+      "name": "Trion Worlds",
+      "position": "Software Engineer",
+      "url": "",
+      "startDate": "09/2008",
+      "endDate": "08/2010",
+      "summary": "Developed automated load test scenarios, implemented UI features, performed feature development and maintenance of platform products. Also designed and developed Distributed Testing Service.",
+      "highlights": ["Released part of the Trion Platform Foundation code base"]
+    },
+    {
+      "name": "Midway",
+      "position": "Software Engineer",
+      "url": "",
+      "startDate": "08/2006",
+      "endDate": "08/2008",
+      "summary": "Implemented features, fixed bugs, and created tools aimed at improving workflow. Contributed to the Unreal Engine 3 based Core Technology Platform code used across all Midway's games.",
+      "highlights": ["Worked in an interrupt-driven environment"]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Georgia State University",
+      "url": "",
+      "area": "Computer Science",
+      "studyType": "Bachelors of Science",
+      "startDate": "",
+      "endDate": "05/2006",
+      "score": "",
+      "courses": [ "Computer Science" ]
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Software Engineering",
+      "level": "",
+      "keywords": [
+        "3D", "alpha", "animation", "AI", "C++", "client-server", "codebase", "content", "client", "customer service", "data collection", "database", "debugging", "editor", "features",
+        "functional", "game design", "logging", "C#", "navigation", "next", "developer", "physics", "QA", "real-time", "servers", "Script", "Strategy", "telemetry", "workflow"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

@@ -1,0 +1,139 @@
+{
+  "basics": {
+    "name": "Natalia Garcia",
+    "label": "Business Management Professional",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Versatile and solutions-driven professional with outstanding strategic planning. Eager to contribute strong sales management, general business administration, CRM, HR, operations planning, coordination and monitoring skills. Proficient at identifying cost-effective strategies to promote significant savings. Effectively define, develop and implement action plans and policies to maximize productivity and efficiency.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Assistant to Managing Director",
+      "startDate": "2013-12-01",
+      "endDate": "2014-04-01",
+      "summary": "Offered dedicated support to the Managing Director as to other Executives when required, conducting research, issuing all corporate presentations, arranging meetings, appointments, and travel accommodations improving overall quality and efficiency.",
+      "highlights": [
+        "Overhauled and solved an accumulated discrepancy on a series of vendor invoices and succeeded on the reconciliation.",
+        "Carrying out background research and presenting successful findings",
+        "Producing documents, briefing papers, reports and weekly and monthly presentations",
+        "Notably organized and arranged meetings and corporate events; ensuring the Manager is well prepared."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Business Manager",
+      "startDate": "2008-04-01",
+      "endDate": "2011-12-01",
+      "summary": "Organized, planned and supervised essential central services such as reception, security, maintenance, mail, as well as day to day running of the office. Responsible for making sure that contracts, insurance requirements and safety standards are correctly complied with.",
+      "highlights": [
+        "Operations planning, organization, coordination and monitoring, during projects and working along with the technical team to ensure on-time, budget-compliant completion while maintaining high quality standards.",
+        "Managing time, establish priorities and delegating effectively.",
+        "Able to prepare budgets and cost estimates.",
+        "Liaising with local authorities and regulatory bodies on business related issues."
+      ]
+    },
+    {
+      "name": "Viajes Marsans, S.A. (Travel agency)",
+      "position": "Travel Consultant",
+      "startDate": "2004-10-01",
+      "endDate": "2008-04-01",
+      "summary": "Acted as key person, after office Director. Possessed touristic market knowledge as different booking & management systems: Global Amadeus, Sire (Spanish railway company booking system) & tour operator booking websites. Managed intranet and accounting system.",
+      "highlights": [
+        "Department manager: Remarkably developed the creation and coordination of a new department in order to provide European Tour operators with all touristic services required in Spain."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "ENyD Business School & Universidad Europea Miguel de Cervantes",
+      "area": "Digital Marketing and 2.0 Communications",
+      "studyType": "Masters",
+      "startDate": "2013-10-01",
+      "endDate": "",
+      "courses": []
+    },
+    {
+      "institution": "EAE (school of business administration)",
+      "area": "Business Administration",
+      "studyType": "MBA",
+      "startDate": "",
+      "endDate": "2012-05-01",
+      "courses": []
+    },
+    {
+      "institution": "National University of Distance Education",
+      "area": "Tourism Business Management",
+      "studyType": "Bachelors of Arts",
+      "startDate": "",
+      "endDate": "2002-06-01",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Accountancy",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Accounting system",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Business Plan",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Marketing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Client Relations",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Contract Negotiation",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Bilingual"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Bilingual"
+    },
+    {
+      "language": "French",
+      "fluency": "Conversational"
+    },
+    {
+      "language": "Italian",
+      "fluency": "Conversational"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

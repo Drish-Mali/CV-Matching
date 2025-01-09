@@ -1,0 +1,114 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Office Manager",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Office Manager",
+      "url": "",
+      "startDate": "2004-01-01",
+      "endDate": "2016-10-01",
+      "summary": "Verified, edited and approved job postings. Assisted employers with technical problems and job posting as needed. Managed main desk including monitoring phone calls, appointments and walk-ins.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Sales Manager/Account Executive",
+      "url": "",
+      "startDate": "2000-07-01",
+      "endDate": "2004-01-01",
+      "summary": "Responsible and handled all specialty and major department stores accounts. Developed division's sales and marketing plans strategies and goals. Traveled to high-profile fashion market conventions in Dallas, Atlanta and Las Vegas.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Merchandiser Assistant",
+      "url": "",
+      "startDate": "1999-09-01",
+      "endDate": "2000-04-01",
+      "summary": "Managed company account for Reebok, Inc. which included men's athletic apparel and Women's Olympic 2000 collection...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Sales Coordinator",
+      "url": "",
+      "startDate": "1997-05-01",
+      "endDate": "1999-09-01",
+      "summary": "Managed progression of garment sampling (i.e. counter, production and salespeople sampling) for Misses Sportswear...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Sales Manager Assistant/Sales Representative",
+      "url": "",
+      "startDate": "1994-10-01",
+      "endDate": "1997-05-01",
+      "summary": "Oversaw department's customer service. Communication liaison for buying department, identifying market research information...",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Mount Saint Mary's University",
+      "url": "",
+      "area": "Business Administration",
+      "studyType": "Bachelor of Science",
+      "startDate": "2018-04-01",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "FIDM / Fashion Institute of Design & Merchandising",
+      "url": "",
+      "area": "Merchandise Marketing",
+      "studyType": "Associate of Arts Degree",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Office Management",
+      "level": "",
+      "keywords": [
+        "Microsoft Office",
+        "Social Media Marketing",
+        "Critical Thinking",
+        "Problem Solving Skills",
+        "Detailed & Organized",
+        "Type 53 words per minute",
+        "Written & Verbal Communication",
+        "Leadership",
+        "Team Development",
+        "Project Management"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

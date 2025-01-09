@@ -1,0 +1,138 @@
+{
+    "basics": {
+        "name": "Not Specified",
+        "label": "Aviation Safety Assistant, Administrative Assistant, Human Resources/Administrative Assistant, Group Secretary",
+        "email": "Not Specified",
+        "phone": "Not Specified",
+        "summary": "Not Specified",
+        "location": {
+            "address": "Not Specified",
+            "postalCode": "Not Specified",
+            "city": "Not Specified",
+            "countryCode": "Not Specified",
+            "region": "Not Specified"
+        },
+        "profiles": []
+    },
+    "work": [
+        {
+            "name": "Company Name",
+            "position": "Aviation Safety Assistant",
+            "startDate": "2014-08-01",
+            "endDate": "Not Specified",
+            "highlights": []
+        },
+        {
+            "name": "Company Name",
+            "position": "Administrative Assistant",
+            "startDate": "2013-03-01",
+            "endDate": "2014-07-01",
+            "highlights": []
+        },
+        {
+            "name": "Company Name",
+            "position": "Human Resources/Administrative Assistant",
+            "startDate": "2011-04-01",
+            "endDate": "2013-03-01",
+            "highlights": []
+        },
+        {
+            "name": "Company Name",
+            "position": "Group Secretary",
+            "startDate": "2008-08-01",
+            "endDate": "2009-09-01",
+            "highlights": []
+        }
+    ],
+    "education": [
+        {
+            "institution": "University Of Memphis",
+            "studyType": "Some College",
+            "major": "Nursing Organizational Leadership",
+            "startYear": "",
+            "endYear": "2012-12-01"
+        },
+        {
+            "institution": "Southwest Tennessee Community College",
+            "studyType": "Some College",
+            "major": "Nursing Business",
+            "startYear": "",
+            "endYear": "2006-01-01"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Financial Management",
+            "level": ""
+        },
+        {
+            "name": "Office Operations Management",
+            "level": ""
+        },
+        {
+            "name": "Record Keeping",
+            "level": ""
+        },
+        {
+            "name": "Typing",
+            "level": "55 Wpm"
+        },
+        {
+            "name": "Language",
+            "level": "Novice Novice Spanish"
+        },
+        {
+            "name": "MS Office",
+            "level": "Novice"
+        },
+        {
+            "name": "Logistics",
+            "level": ""
+        },
+        {
+            "name": "Human Resources",
+            "level": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Spanish",
+            "fluency": "Novice"
+        }
+    ],
+    "certificates": [
+        {
+            "name": "Not specified",
+            "date": "Not specified",
+            "issuer": "Not specified"
+        }
+    ],
+    "awards": [
+        {
+            "title": "Monetary Award For Performance On The Job",
+            "date": "2012",
+            "awarder": "Not specified",
+            "summary": "Not specified"
+        },
+        {
+            "title": "Monetary Award For Sustained Outstanding Performance On The Job",
+            "date": "2008",
+            "awarder": "Not specified",
+            "summary": "Not specified"
+        },
+        {
+            "title": "Pin Award For Valuable Suggestion Submitted To Save Money For The Facility",
+            "date": "2008",
+            "awarder": "Not specified",
+            "summary": "Not specified"
+        },
+        {
+            "title": "Monetary Award For Team Effort And Achievement",
+            "date": "2005",
+            "awarder": "Not specified",
+            "summary": "Not specified"
+        }
+    ],
+    "interests": [],
+    "references": []
+}

@@ -1,0 +1,224 @@
+{
+  "basics": {
+    "name": "Name",
+    "label": "Information Technology Specialist",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Highly skilled and results-oriented IT specialist with extensive experience in Software Development, Software Configuration Management, Project Management, System Planning & Specification Development, CMMI5, Quality Assurance and Testing.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Information Technology Specialist",
+      "url": "",
+      "startDate": "2006-08-01",
+      "endDate": "Current",
+      "summary": "Track and control over 150 change requests per month. Manage the repository for Software and Customer Requirements Documents, Agreements and Governance Specifications. Document and communicate defects and problems with stakeholders and developers. Develop and report critical metrics related to CRSMB change request activity. Ensure that all activities involved in the software design, coding and testing of the application software have been successfully completed before releasing software for independent testing and deployment into the production environment.",
+      "highlights": ["Process improvement", "Productivity improvement", "Quality assurance and control", "Project development and lifecycle", "Results-oriented", "Detail-oriented", "Relationship building", "Work flow planning"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Computer Specialist",
+      "url": "",
+      "startDate": "1996-08-01",
+      "endDate": "2006-08-01",
+      "summary": "Detailed and refined requirements, wrote algorithms, developed programs and command procedures. Developed solutions to improve software performance. Enhanced testing procedures. Performed software testing, debugging, and validation using internally developed test scripts, test plans, and results criteria. Developed and delivered software products.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Computer Specialist",
+      "url": "",
+      "startDate": "1994-07-01",
+      "endDate": "1996-08-01",
+      "summary": "Designed and developed electronic questionnaires, 'instruments', for Computer Assisted Survey Information Collection (CASIC) activities. Led meetings with subject matter staff to review project status and proposed changes. Met with the subject matter staff and the sponsor on the details and development of the programming specifications, design and testing of the CAI.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Mathematical Statistician",
+      "url": "",
+      "startDate": "1988-02-01",
+      "endDate": "1994-07-01",
+      "summary": "Worked in the Research & Methodology Branch of the Industry Division. Worked with team on the statistical methodology for designing a ratio estimation procedure. Developed estimation and variance methodologies. Developed the sampling frame, and independent probability proportional-to-size sampling (PPS) maintenance of surveys.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Maryland",
+      "url": "",
+      "area": "",
+      "studyType": "Applied Probabilty and Statistics",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "USDA Graduate School",
+      "url": "",
+      "area": "",
+      "studyType": "Survey Theory",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Indiana University of Pennsylvania",
+      "url": "",
+      "area": "",
+      "studyType": "Master of Science",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": ["Urban Regional Planning"]
+    },
+    {
+      "institution": "Indiana University of Pennsylvania",
+      "url": "",
+      "area": "",
+      "studyType": "Bachelor of Arts",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": ["Physical Geography"]
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Configuration Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Process Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Process Improvement",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Database Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Software Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Software Testing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Serena Version Manager",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Serena Business Manager",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Serena Business Administrator",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Reflections",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "WinSCP",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JavaScript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "LINUX",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Access",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Office",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SharePoint",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Enterprise",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Oracle",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "PL/SQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Oracle SQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "C",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SAS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Visual Basic",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

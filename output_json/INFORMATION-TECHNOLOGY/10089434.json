@@ -1,0 +1,119 @@
+{
+  "basics": {
+    "name": "Information Technology Technician I",
+    "label": "Systems Administrator",
+    "summary": "Versatile Systems Administrator possessing superior troubleshooting skills for networking issues, end user problems, and network security. Experienced in server management, systems analysis, offering in-depth understanding of IT infrastructure areas. Detail-oriented, independent, focuses on taking a systematic approach to solving complex problems.",
+    "location": {
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Information Technology Technician I",
+      "startDate": "2007-08",
+      "endDate": "Current",
+      "summary": "Tasks include, but not limited to, migrating and managing user accounts in Microsoft Office 365 and Exchange Online, creating and managing virtual machines for systems such as domain controllers in Microsoft Windows Azure, installing and configuring StorSimple iSCSI cloud array, and working in collaboration on various projects.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Information Services Liaison, T",
+      "startDate": "2005-08",
+      "endDate": "2007-08",
+      "summary": "Tasks include, but not limited to, troubleshooting hardware and software problems, installing and configuring McAfee anti-virus software on desktops, administering and maintaining of end user accounts in Microsoft Active Directory, Installing and supporting printers on the print servers.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Florida International University",
+      "area": "Information Technology",
+      "studyType": "Bachelor of Science",
+      "startDate": "unknown",
+      "endDate": "2005",
+      "score": "unknown",
+      "courses": [
+        "Programming",
+        "Web Administration",
+        "Network Administration",
+        "Database Administration",
+        "Systems Administration � Linux"
+      ]
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "CompTIA Network+",
+      "date": "2014"
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Technical Skills",
+      "keywords": [
+        "Active Directory",
+        "Azure",
+        "anti-virus",
+        "Backup Exec",
+        "bash",
+        "batch",
+        "Cacti",
+        "Cisco ASA",
+        "databases",
+        "DHCP",
+        "DNS",
+        "DataDomain",
+        "EMC",
+        "Enterprise Vault",
+        "ePO",
+        "file servers",
+        "firewall",
+        "GPO",
+        "HTML",
+        "IIS",
+        "ISA",
+        "LDAP",
+        "Linux",
+        "McAfee",
+        "Exchange",
+        "Microsoft Office",
+        "Microsoft Windows",
+        "security",
+        "policies",
+        "PowerShell",
+        "programming",
+        "proxy server",
+        "servers",
+        "scripts",
+        "SolarWinds",
+        "SQL",
+        "StorSimple",
+        "troubleshooting",
+        "TMG",
+        "Ubuntu",
+        "Visual Basic Script",
+        "VBS",
+        "Veritas Netbackup",
+        "VPN",
+        "VRanger",
+        "Veeam",
+        "VMWare",
+        "VDI",
+        "virtual machine",
+        "NMap",
+        "ZenMap"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

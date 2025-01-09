@@ -1,0 +1,146 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Non Commissioned Security Officer",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Seeking an entry level position in a technology based company using my skills and familiarization with Apple/Mac/Windows operating systems.",
+    "location": {
+      "address": "Various Locations",
+      "postalCode": "",
+      "city": "Various Cities",
+      "countryCode": "US",
+      "region": "Various Regions"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Various Companies",
+      "position": "Security Officer, Aviation Ordnanceman, Home Delivery Technician, Warehouse Associate",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Various Security and Logistics roles across multiple organizations",
+      "highlights": [
+        "Provided security and physical protection for service members.",
+        "Trained colleagues in security duties.",
+        "Assisted in riot control and prevention.",
+        "Provided attack, defense and logistic support to the fleet.",
+        "Conducted clinical trials of FDA drugs.",
+        "Delivered and installed appliances in customers' homes."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Austin Community College",
+      "url": "",
+      "area": "Criminal Justice",
+      "studyType": "Associate's",
+      "startDate": "2010-08-25",
+      "endDate": "2011-12-15",
+      "score": "",
+      "courses": [
+        "Introduction to Criminal Justice",
+        "Crime in America",
+        "Court Systems and Practices",
+        "Introduction to Sociology",
+        "United States History I&II",
+        "English Composition I"
+      ]
+    },
+    {
+      "institution": "Air Launch Weapons School, NAS North Island",
+      "url": "",
+      "area": "Air Launch Weapons",
+      "studyType": "Certification",
+      "startDate": "2003-03-01",
+      "endDate": "2003-03-22",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Small Arms Training, NAS North Island",
+      "url": "",
+      "area": "Small Arms",
+      "studyType": "Certification",
+      "startDate": "2004-02-03",
+      "endDate": "2004-02-16",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Special Response Training, NAS North Island",
+      "url": "",
+      "area": "Special Response",
+      "studyType": "Certification",
+      "startDate": "2004-04-15",
+      "endDate": "2004-04-30",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "W.B. RAY High School",
+      "url": "",
+      "area": "General Studies",
+      "studyType": "High School",
+      "startDate": "1996-08-28",
+      "endDate": "2000-05-28",
+      "score": "",
+      "courses": [
+        "Science",
+        "History",
+        "Math",
+        "English",
+        "Art"
+      ]
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Air Launch Weapons School Certification",
+      "date": "2003-03-22",
+      "issuer": "Air Launch Weapons School, NAS North Island",
+      "url": ""
+    },
+    {
+      "name": "Small Arms Training Certification",
+      "date": "2004-02-16",
+      "issuer": "Small Arms Training, NAS North Island",
+      "url": ""
+    },
+    {
+      "name": "Special Response Training Certification",
+      "date": "2004-04-30",
+      "issuer": "Special Response Training, NAS North Island",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Security Operations",
+      "level": "Advanced",
+      "keywords": ["Security", "Aviation", "Weapons", "Electronics"]
+    },
+    {
+      "name": "Logistics and Management",
+      "level": "Intermediate",
+      "keywords": ["Inventory", "Delivery", "Installation"]
+    },
+    {
+      "name": "Technical Skills",
+      "level": "Intermediate",
+      "keywords": ["Mac", "Windows", "Hardware", "Software", "Email"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

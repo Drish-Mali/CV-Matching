@@ -1,0 +1,117 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Accountant",
+    "email": "",
+    "phone": "",
+    "summary": "Accountant with over a decade of diverse professional experience including corporate and small business accounting, tax preparation and accounting services. Dedicated and reliable team member who enjoys learning and taking on new challenges.",
+    "location": {
+        "city": "Colorado",
+        "countryCode": "US",
+        "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+        "name": "Company Name",
+        "position": "Accountant",
+        "startDate": "August 2011",
+        "endDate": "Present",
+        "summary": "Responsible for consistent, accurate and timely period end close Calculate, process and analyze journal entries and accruals. Maintain general ledger for multiple entities worldwide. Prepare account reconciliations for multiple accounts across multiple entities. Work as member of team to prepare 10-Q and 10-K reports. Prepare XBRL instance document for submission to SEC. Responsible for completion of various U.S. Government surveys. Monthly sales tax reporting.",
+        "highlights": []
+    },
+    {
+        "name": "Company Name",
+        "position": "Staff Accountant",
+        "startDate": "January 2006",
+        "endDate": "October 2006",
+        "summary": "Maintained general ledger for multiple clients. Prepared journal entries and adjusting journal entries. Responsible for monthly reconciliations. Prepared financial statement compilations. Prepared individual income tax returns. Calculated and prepared monthly payroll deposits. Prepared quarterly and annual payroll reports for multiple clients. Prepared annual Form 1099 for multiple clients. Assisted in preparation of financial and operating reports.",
+        "highlights": []
+    }
+  ],
+  "volunteer": [
+    {
+        "organization": "Local Cub Scout Pack & Boy Scout Troop - Boy Scouts of America",
+        "position": "Pack Committee Chair, Den Leader, Fundraising Chair, Merit Badge Counselor",
+        "startDate": "Fall 2011",
+        "endDate": "Present",
+        "summary": "",
+        "highlights": []
+    }
+  ],
+  "education": [
+    {
+        "institution": "Colorado State University",
+        "area": "Business Administration Accounting",
+        "studyType": "M.S",
+        "startDate": "",
+        "endDate": "May 2005",
+        "score": "",
+        "courses": []
+    },
+    {
+        "institution": "Regis University",
+        "area": "Accounting",
+        "studyType": "B.S",
+        "startDate": "",
+        "endDate": "May 2003",
+        "score": "",
+        "courses": []
+    },
+    {
+        "institution": "University of Colorado at Boulder",
+        "area": "Business Administration",
+        "studyType": "B.S",
+        "startDate": "",
+        "endDate": "August 1998",
+        "score": "",
+        "courses": []
+    },
+    {
+        "institution": "",
+        "area": "Certified Public Accountant",
+        "studyType": "Accounting",
+        "startDate": "",
+        "endDate": "",
+        "score": "",
+        "courses": []
+    },
+    {
+        "institution": "",
+        "area": "Certificate in Taxation",
+        "studyType": "",
+        "startDate": "",
+        "endDate": "",
+        "score": "",
+        "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+        "name": "Accounting",
+        "level": "",
+        "keywords": [
+            "Accounts Receivable/Payable",
+            "General Ledger Accounting",
+            "Sales Tax Reporting",
+            "GAAP Knowledge",
+            "Period End Close",
+            "Team Oriented",
+            "Tax Preparation",
+            "Financial Statement Preparation",
+            "High Attention to Detail",
+            "Microsoft Office programs",
+            "Proficient in Microsoft Windows operating systems",
+            "Experienced with accounting, bookkeeping, and ERP programs"
+        ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

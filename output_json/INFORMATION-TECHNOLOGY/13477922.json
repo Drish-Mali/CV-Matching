@@ -1,0 +1,186 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Information Technology Specialist",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "To continue work in the Information Technology field while developing my skills in Information Systems and Networking.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Information Technology Specialist",
+      "url": "",
+      "startDate": "2015-04-01",
+      "endDate": "Present",
+      "summary": "Set up and maintained the network infrastructure both wired and wireless configuration. Setup and maintained all user's computers including hardware and software. Set up and assisted users with their e-mail accounts. I maintained security on our networks in which only company users could access the network. Setup and configured users android phones so they could access the company's resources. I maintained security on all companies' machines.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Computer Technical Specialist",
+      "url": "",
+      "startDate": "2007-09-01",
+      "endDate": "2014-01-01",
+      "summary": "Set up and maintain all software on Faculty and Staff computers in a Windows and McIntosh environment. Troubleshoot all software and hardware problems on user's machines. Check network connectivity issues on the client side. Set up and maintain all printers' scanners and fax machines for staff and faculty and students. Configure and setup all PDA s for all faculty and staff.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Senior Computer Network Support Technician",
+      "url": "",
+      "startDate": "2001-11-01",
+      "endDate": "2007-09-01",
+      "summary": "Provide statewide data telecommunications and on the-site problem analysis and resolution; consultation; hardware and software installations; technical guidance and support for personal computing equipment.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Junior Network Administrator",
+      "url": "",
+      "startDate": "1999-09-01",
+      "endDate": "2001-11-01",
+      "summary": "Performed the installation and removal of all programs on a network in a teaching and testing facility. Assigned rights and permissions to users and servicing them on the network. Troubleshoot all hardware as well as software problems on the network.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Northern Virginia Community College",
+      "url": "",
+      "area": "Computer Science",
+      "studyType": "A.A.S Networking",
+      "startDate": "",
+      "endDate": "2001-06-25",
+      "score": "Dean's Lists GPA: 3.4",
+      "courses": [
+        "Comp A+ Course",
+        "Windows 7 course",
+        "CompTIA Network+ course",
+        "CompTIA Security+ course",
+        "Windows Server 2012 class",
+        "CCNA Class",
+        "Certified Ethical Hacker class"
+      ]
+    },
+    {
+      "institution": "Virginia Commonwealth University",
+      "url": "",
+      "area": "Biology",
+      "studyType": "B.S",
+      "startDate": "",
+      "endDate": "15",
+      "score": "GPA: 3.4",
+      "courses": []
+    },
+    {
+      "institution": "George Mason University",
+      "url": "",
+      "area": "Education Biology and General Science",
+      "studyType": "M.A",
+      "startDate": "",
+      "endDate": "1982",
+      "score": "Dean's Lists",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "CompTIA Network+ certification",
+      "date": "",
+      "issuer": "CompTIA",
+      "url": ""
+    },
+    {
+      "name": "CompTIA Security+ certification",
+      "date": "",
+      "issuer": "CompTIA",
+      "url": ""
+    },
+    {
+      "name": "CompTIA A+ certification",
+      "date": "",
+      "issuer": "CompTIA",
+      "url": ""
+    },
+    {
+      "name": "MCSE - Microsoft Certified Professional Systems Engineer",
+      "date": "2003",
+      "issuer": "Microsoft",
+      "url": ""
+    },
+    {
+      "name": "CCNA (Cisco Certified Network Associate",
+      "date": "1988",
+      "issuer": "Cisco",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Technical",
+      "level": "",
+      "keywords": [
+        "A+",
+        "A+ certification",
+        "active directory",
+        "CCNA",
+        "Cisco Certified Network Associate",
+        "hardware",
+        "consultation",
+        "client",
+        "DHCP",
+        "e-mail",
+        "fax machines",
+        "ghost",
+        "IP",
+        "LANs",
+        "access",
+        "Microsoft Certified Professional",
+        "MCSE",
+        "Windows 7",
+        "Windows",
+        "Network",
+        "Networking",
+        "networks",
+        "printers",
+        "problem analysis and resolution",
+        "protocols",
+        "real time",
+        "router",
+        "routers",
+        "scanners",
+        "servers",
+        "switches",
+        "switch",
+        "Systems Engineer",
+        "teaching",
+        "telecommunications",
+        "phones",
+        "Troubleshoot",
+        "troubleshooting",
+        "video",
+        "video conferencing",
+        "Windows Server",
+        "wiring"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

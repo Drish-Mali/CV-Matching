@@ -1,0 +1,103 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Finance Manager",
+    "image": "",
+    "email": "",
+    "phone": "09643890956",
+    "url": "",
+    "summary": "To attain a responsible position in an organization of repute where I can utilize my accounting expertise to prepare fair and accurate financial documents for the organization.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Kochi",
+      "countryCode": "IN",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "RICOH India Ltd",
+      "position": "Senior Finance Executive/Branch Finance Manager",
+      "url": "",
+      "startDate": "2012-01-20",
+      "endDate": "2015-02-16",
+      "summary": "Handled budgeting & forecasting, IRR & NPV calculations for project valuations, debtor management, account finalization, audit scheduling, balance sheet preparation and P&L statement analysis.",
+      "highlights": ["Supervised the entire finance team."]
+    },
+    {
+      "name": "DIC India Limited",
+      "position": "Finance Executive",
+      "url": "",
+      "startDate": "2008-02-01",
+      "endDate": "2012-09-30",
+      "summary": "Handled debtor management, account finalization, liquidity analysis, MIS reporting and government liaison.",
+      "highlights": ["Raising the short term bank loan for immediate funding."]
+    },
+    {
+      "name": "SAIT Mining of France",
+      "position": "Finance Officer",
+      "url": "",
+      "startDate": "2006-05-01",
+      "endDate": "2008-01-31",
+      "summary": "Handled accounts finalization, debtor and creditor management, cash flow statements, central sales tax and VAT tax return submission.",
+      "highlights": ["Prepared Bank Guarantees and Letters of Credit."]
+    },
+    {
+      "name": "City based garments manufacturing firm",
+      "position": "Account Assistant",
+      "url": "",
+      "startDate": "2004-04-01",
+      "endDate": "2006-04-30",
+      "summary": "Responsible for account finalization.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Calcutta University",
+      "url": "",
+      "area": "Commerce",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "2004-01-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Accounting",
+      "level": "",
+      "keywords": ["SAP", "Oracle ERP", "Cash flow analysis", "Budgeting", "Balance Sheet", "Bank reconciliation", "financial report", "forecasting"]
+    },
+    {
+      "name": "Management",
+      "level": "",
+      "keywords": ["Finance", "Debt Management", "Credit Control", "Time Management"]
+    },
+    {
+      "name": "Administration Skills",
+      "level": "",
+      "keywords": ["Office automation", "Microsoft Office", "Windows Operating System", "Documentation"]
+    },
+    {
+      "name": "Leadership",
+      "level": "",
+      "keywords": ["Supervising", "Negotiation", "Team Management"]
+    },
+    {
+      "name": "Communication",
+      "level": "",
+      "keywords": ["Excellent presentation skills", "Excellent communication"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

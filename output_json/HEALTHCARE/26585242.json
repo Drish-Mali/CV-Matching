@@ -1,0 +1,124 @@
+{
+  "basics": {
+    "name": "Senior Analyst",
+    "label": "Data Quality & Governance",
+    "email": "",
+    "phone": "",
+    "summary": "Analyst versed in data analysis and reporting, user acceptance testing, as well as solving complex problems in high-pressure environments. Excels at cultivating, managing, and leveraging relationships",
+    "location": {
+      "city": "City",
+      "region": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+        "name": "Company Name",
+        "position": "Senior Analyst Data Quality & Governance",
+        "startDate": "2018-04-01",
+        "summary": "Create policies and procedures for actuarial and analytics group. Monitor adherence to policies with scheduled reviews. Conduct training on quality and governance policies. Lead analyst for HIPAA compliance. Create and analyze validation reports for health plan data. Lead discussions regarding data issues identified",
+        "highlights": []
+    },
+    {
+        "name": "Company Name",
+        "position": "Healthcare Data Analyst",
+        "startDate": "2012-04-01",
+        "summary": "Experience with process analysis and other analytic functions. Ability to interact effectively with different business units, team members, and external client at all levels. Generates eligibility, medical, and pharmacy claims data for each Health Ministry to support budgeting, rate development, and manage the reinsurance program.",
+        "highlights": ["Creates ad hoc data analyses and reports as needed"]
+    },
+    {
+        "name": "Company Name",
+        "position": "Business Analyst",
+        "startDate": "2008-03-01",
+        "endDate": "2012-05-01",
+        "summary": "Responsible for identifying processes to streamline and assist with various projects. Created and maintained access databases for departmental use.",
+        "highlights": ["Created reports for SEC and FINRA audits"]
+    },
+    {
+        "name": "Company Name",
+        "position": "Finance Analyst",
+        "startDate": "2005-06-01",
+        "endDate": "2008-05-01",
+        "summary": "Created and maintained managerial reporting. Primary contact for electronic invoicing.",
+        "highlights": ["Created multiple databases for interdepartmental need"]
+    },
+    {
+        "name": "Company Name",
+        "position": "Trust Analyst",
+        "startDate": "2003-02-01",
+        "endDate": "2005-03-01",
+        "summary": "Responsible for daily operations of 401(k) accounts for retirement services clients. Balanced 401(k) accounts regularly.",
+        "highlights": ["Researched and resolved out of balance situations quickly"]
+    },
+    {
+        "name": "Company Name",
+        "position": "Conversion Analyst",
+        "startDate": "2002-02-01",
+        "endDate": "2003-02-01",
+        "summary": "Responsible for managing incoming and outgoing account conversions.",
+        "highlights": ["Revised an existing Microsoft Access program for incoming assets for accuracy"]
+    },
+    {
+        "name": "Company Name",
+        "position": "Registration Analyst",
+        "startDate": "2000-02-01",
+        "endDate": "2002-02-01",
+        "summary": "Responsible for re-registration of physical assets for trust customers.",
+        "highlights": ["Streamlined processes by automating applications for quicker processing and problem resolution", "Created a Microsoft Access program to track pending registration issues and generate reports"]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Local Elementary School",
+      "position": "Volunteer",
+      "summary": "Volunteer weekly in local elementary school in reading development. Lead business meetings on a weekly basis. Volunteer in children's church on a weekly basis"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Walsh College",
+      "area": "Project Management",
+      "studyType": "Masters of Business Information Technology",
+      "startDate": "2007-01-01",
+      "endDate": "2007-12-31"
+    },
+    {
+      "institution": "Rochester College",
+      "area": "Business Administration",
+      "studyType": "Bachelor",
+      "startDate": "1996-01-01",
+      "endDate": "1996-12-31"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certificate in Health Care Informatics",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Data Analysis",
+      "level": "Master",
+      "keywords": [
+        "Microsoft Access",
+        "Microsoft Excel",
+        "SAS",
+        "SQL Server Manager",
+        "Business Objects",
+        "SQL",
+        "Tableau Server and Desktop",
+        "Project",
+        "Cognos",
+        "Crystal Reports Management",
+        "Data Analysis"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

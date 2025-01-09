@@ -1,0 +1,65 @@
+{
+    "basics": {
+        "name": "",
+        "label": "Business Development Specialist",
+        "image": "",
+        "email": "",
+        "phone": "",
+        "url": "",
+        "summary": "Dynamic and reliable Banking Professional with 15 years of retail banking, customer service and consulting experience. Many years as a Trainer has instilled an \"adapt and connect\" way of thinking, always ready for the ever-changing industry of banking.",
+        "location": {
+          "address": "",
+          "postalCode": "",
+          "city": "",
+          "countryCode": "",
+          "region": ""
+        },
+        "profiles": []
+    },
+    "work": [{
+        "name": "Company Name",
+        "position": "Business Development Specialist",
+        "url": "",
+        "startDate": "2014-11",
+        "endDate": "Current",
+        "summary": "Served as liaison between credit union and major local vehicle dealership. Serve as key component in their solution to the lack of indirect lending. Initiate lending processes for the purchase of used and new vehicles for prospective members and follow through to the close of loan. Cross-sold other convenient bank products meant to gain prospect's entire financial relationship.",
+        "highlights": []
+    },
+    {
+        "name": "Company Name",
+        "position": "Owner/Partner",
+        "url": "",
+        "startDate": "2011-07",
+        "endDate": "Current",
+        "summary": "Mr. Mister is a privately created and privately owned by my Brother, Father, and I to meet the cooling needs of the residents of South Texas. Mr. Mister designs, installs and maintains customized high-pressure mist cooling systems. Mr. Mister also will provide mist cooling solutions for rental clients for outdoor events. ",
+        "highlights": []
+    }],
+    "volunteer": [],
+    "education": [{
+        "institution": "American Intercontinental University",
+        "url": "",
+        "area": "Business Management - Marketing",
+        "studyType": "Bachelors",
+        "startDate": "",
+        "endDate": "2012",
+        "score": "",
+        "courses": []
+    }],
+    "awards": [],
+    "certificates": [],
+    "publications": [],
+    "skills": [{
+        "name": "Management",
+        "level": "",
+        "keywords": ["Presentation", "Customer Service Training", "Sales Coaching", "Analytical Creative Solutions"]
+    },
+    {
+        "name": "Computer",
+        "level": "",
+        "keywords": ["Interpersonal", "Customer Service", "Analytical", "Relationship Driven", "Training", "Presentational", "Sales"]
+    }],
+    "languages": [],
+    "interests": [],
+    "references": [],
+    "projects": []
+}

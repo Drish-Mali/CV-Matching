@@ -1,0 +1,110 @@
+{
+  "basics": {
+    "name": "N/A",
+    "label": "Program Assistant",
+    "image": "",
+    "email": "N/A",
+    "phone": "N/A",
+    "url": "N/A",
+    "summary": "Program Assistant with supervising experience and exceptional people skills. Versed in Daxko Operations, membership, childcare. Desires a challenging role as a Membership Coordinator.",
+    "location": {
+      "address": "N/A",
+      "postalCode": "N/A",
+      "city": "N/A",
+      "countryCode": "N/A",
+      "region": "N/A"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Program Assistant",
+      "url": "N/A",
+      "startDate": "07/2013",
+      "endDate": "Current",
+      "summary": "Billing/Finance, to include: Purchase Orders, Childcare billing, refunds and credits for different programs. Well versed in Daxko Operations. Assist in training, supervising member services associates. Assisted the Program Director with payroll and interviews for multiple programs. Run weekly program rosters and reports. Input member information and sell different programs. File away CC statements and members information for various programs. Review and approve financial assistance Email and mail out member invoices.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Front Desk/Customer Service",
+      "url": "N/A",
+      "startDate": "11/2006",
+      "endDate": "12/2010",
+      "summary": "Ensures that accounting and related procedures are followed for cash reporting and merchandise sales. Takes payments for programs and memberships. Responsible for weekly and monthly reports.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Mortgage Document Clerk",
+      "url": "N/A",
+      "startDate": "03/2002",
+      "endDate": "01/2003",
+      "summary": "Retrieving and Certifying Ginnie Mae, Fannie Mae, Freddie Mac, and FHLB loans. Update old loan lists weekly on Excel.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Janitor/Clerk",
+      "url": "N/A",
+      "startDate": "11/1996",
+      "endDate": "02/2001",
+      "summary": "Recovery and organization of clothing records. Supervision of housekeeping and inventory tracking for individual rooms.",
+      "highlights": ["Employee of the month September 1997"]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "IOWA PARK HIGH SCHOOL",
+      "url": "N/A",
+      "area": "N/A",
+      "studyType": "High School Diploma",
+      "startDate": "1996",
+      "endDate": "N/A",
+      "score": "N/A",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "First Aid",
+      "date": "2013-10",
+      "issuer": "American Safety & Health Institute",
+      "url": "N/A"
+    },
+    {
+      "name": "CPR & AED Certification",
+      "date": "2013-10",
+      "issuer": "American Safety & Health Institute",
+      "url": "N/A"
+    },
+    {
+      "name": "Emergency Oxygen Certification",
+      "date": "2013-10",
+      "issuer": "American Safety & Health Institute",
+      "url": "N/A"
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "General Skills",
+      "level": "N/A",
+      "keywords": [
+        "Excellent communication skills",
+        "Professional phone etiquette",
+        "Customer service-oriented",
+        "Microsoft Office/Excel/Powerpoint/Outlook/Word/Publisher",
+        "AS400",
+        "Daxko Operations"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

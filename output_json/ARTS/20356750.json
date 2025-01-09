@@ -1,0 +1,78 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Assistant, Acquisitions and Dispositions",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Acquisitions and dispositions coordinator adept in client relations, due diligence and real estate management. Seeks a challenging position in property management with room for continued growth and professional development.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Assistant, Acquisitions and Dispositions",
+      "url": "",
+      "startDate": "2007-02-01",
+      "endDate": "Present",
+      "summary": "Coordinate due diligence information in the disposition of non-core properties to brokers and principals/investors. Facilitate underwriting of potential acquisitions in coordination with leasing reps and regional asset managers. Work on the capital harvesting program to sell off non-core assets and out-parcels in creating capital that can be redeployed into better-performing core assets. Manage acquisitions and dispositions network drive and update the company website as properties are sold and acquired.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Sales and Product Associate",
+      "url": "",
+      "startDate": "2000-11-01",
+      "endDate": "2007-01-01",
+      "summary": "Supported associate Field Sales Representatives to assist with high-volume single or multi-site customers. Acted as liaison between customers and Field Representatives to generate leads and quotations for possible future sales. Authorized requests for product returns and exchanges as well as monitored high-dollar purchase orders and customer account status.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Office Manager Assistant",
+      "url": "",
+      "startDate": "1999-07-01",
+      "endDate": "2000-11-01",
+      "summary": "Reconciled daily fees and posted payments accordingly. Prepared forms for medical billing and processed claims to appropriate insurance companies. Maintained inventory of supplies and medicines/vitamins. Resolved patient inquiries and performed general clerical duties.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "St. John's University",
+      "url": "",
+      "area": "Biology",
+      "studyType": "B.S",
+      "startDate": "2000-01-01",
+      "endDate": "2000-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "New York University",
+      "url": "",
+      "area": "Real Estate Finance and Investment",
+      "studyType": "Professional Certificate",
+      "startDate": "2011-01-01",
+      "endDate": "2011-12-31",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [{"name": "JD Edwards", "level": "", "keywords": []}, {"name": "Business Intelligence", "level": "", "keywords": []}, {"name": "Argus", "level": "", "keywords": []}, {"name": "Microsoft Word, Excel and PowerPoint", "level": "", "keywords": []}, {"name": "OnBase", "level": "", "keywords": []}, {"name": "SAP", "level": "", "keywords": []}, {"name": "AS400", "level": "", "keywords": []}],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

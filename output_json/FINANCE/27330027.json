@@ -1,0 +1,98 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Director Finance Projects",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Organized results-oriented finance professional with a tangible track record of consistently delivering exceptional financial modeling and analytic support. Proved success of managing day-to-day business activities of financial analytic systems and teams, supporting M&A activity, managing large-scale projects, developing, implementing and auditing business process flows, and ensuring the accurate disclosure of financial facts. Experienced leader, working across the organization to create compelling analysis with the goal of influencing improved business performance.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Director Finance Projects",
+      "url": "",
+      "startDate": "2015-01-01",
+      "endDate": "Current",
+      "summary": "Responsible for the strategic design, implementation, integration and accessibility of resources enabling effective and reliable data analytics and business intelligence across the Enterprise. Responsible for deploying efficient approaches to the processing of financial data across the various teams within the Finance Division...",
+      "highlights": ["Implemented Statutory Ledgers, 26 Countries (SAP)","Configured and implemented Fixed Assets (SAP) 12 legal entities"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Manager of Business Analytics",
+      "url": "",
+      "startDate": "2012-01-01",
+      "endDate": "2015-01-01",
+      "summary": "Developed and supported methods and studies to determine the effectiveness of business plans, policies and procedures in a $1.2 Billion multinational environment...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Assistant Finance Director - Corporate Services",
+      "url": "",
+      "startDate": "2008-05-01",
+      "endDate": "2012-04-01",
+      "summary": "Assistant Finance Director of Service Centers Worldwide, overseeing the monthly finance activities related to Corporate activity...",
+      "highlights": ["Developed lease accounting policies and procedures","Developed and Administrated the Capital Expenditure planning and reporting process"]
+    },
+    {
+      "name": "Company Name",
+      "position": "SVP Financial Planning & Analysis",
+      "url": "",
+      "startDate": "2003-01-01",
+      "endDate": "2008-05-01",
+      "summary": "Developed Portfolio Valuations utilizing Discounted Cash Flow Models, Econometric Modeling and Risk Simulations Developed quantitative risk and return models...",
+      "highlights": ["Responsible for identifying and pricing acquisitions for private equity","Responsible for buy side valuation analysis","Responsible for due diligence","Worked with Low Income Housing and Historic Tax Credits"]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University Of Cincinnati",
+      "url": "",
+      "area": "Economics/Geography",
+      "studyType": "Bachelor of Arts",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Bowling Green State University",
+      "url": "",
+      "area": "Finance",
+      "studyType": "MBA",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": ["Teaching Assistant Statistics/Economics"]
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Financial Modeling",
+      "level": "",
+      "keywords": ["SAP", "Business Warehouse", "Business Planning and Consolidation", "Business Objects", "SAS", "Crystal Reporting"]
+    },
+    {
+      "name": "Finance",
+      "level": "",
+      "keywords": ["acquisitions", "automotive", "budgets", "Cash Flow", "Controller", "cost accounting", "Due Diligence", "Financial Forecasting", "forecasting", "pricing","valuation"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

@@ -1,0 +1,142 @@
+{
+  "basics": {
+    "name": "Not given",
+    "label": "IT Manager",
+    "image": "",
+    "email": "Not given",
+    "phone": "Not given",
+    "url": "",
+    "summary": "Ten years of management experience with a focus on team building and project management. Ten years of experience as a network engineer and systems administrator...",
+    "location": {
+      "address": "Not given",
+      "postalCode": "Not given",
+      "city": "Not given",
+      "countryCode": "Not given",
+      "region": "Not given"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Not given",
+      "position": "IT Manager",
+      "url": "Not given",
+      "startDate": "07/2012",
+      "endDate": "Current",
+      "summary": "Server installations and migrations, SonicWall firewalls, VPN installation and support, wireless access points...",
+      "highlights": []
+    },
+    {
+      "name": "Not given",
+      "position": "Information Technology Engineer",
+      "url": "Not given",
+      "startDate": "10/2008",
+      "endDate": "07/2012",
+      "summary": "Server installations and migrations, migration of databases...",
+      "highlights": []
+    },
+    {
+      "name": "Not given",
+      "position": "Senior Network Engineer",
+      "url": "Not given",
+      "startDate": "10/2007",
+      "endDate": "06/2008",
+      "summary": "Server installations and migrations, databases...",
+      "highlights": []
+    },
+    {
+      "name": "Not given",
+      "position": "Information Technology Engineer",
+      "url": "Not given",
+      "startDate": "03/2005",
+      "endDate": "10/2007",
+      "summary": "Server installations and migrations, migration of databases...",
+      "highlights": []
+    },
+    {
+      "name": "Not given",
+      "position": "Assistant Professor",
+      "url": "Not given",
+      "startDate": "08/2000",
+      "endDate": "07/2005",
+      "summary": "Program Chair for Region 2...",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Davenport University",
+      "url": "Not given",
+      "area": "Information Technology",
+      "studyType": "Network Engineering",
+      "startDate": "Not given",
+      "endDate": "Not given",
+      "score": "",
+      "courses": ["A+", "Network+", "MCSA", "CCNA", "Operating Systems", "Business Applications", "Network Engineering"]
+    },
+    {
+      "institution": "Western Michigan University",
+      "url": "Not given",
+      "area": "Counselor Education and Counseling Psychology",
+      "studyType": "Administration of Student Personnel Services and Counseling in Post-Secondary Education",
+      "startDate": "1988",
+      "endDate": "1988",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Indiana University",
+      "url": "Not given",
+      "area": "Sociology",
+      "studyType": "Sociology and Psychology",
+      "startDate": "1985",
+      "endDate": "1985",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Ivy Tech Community College",
+      "url": "Not given",
+      "area": "Information Technology",
+      "studyType": "Cisco CCNA Cisco Switching and Routing",
+      "startDate": "Not given",
+      "endDate": "Not given",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "CompTIA A+",
+      "date": "Not given",
+      "issuer": "Not given",
+      "url": "Not given"
+    },
+    {
+      "name": "Network+",
+      "date": "Not given",
+      "issuer": "Not given",
+      "url": "Not given"
+    },
+    {
+      "name": "Microsoft MCP (70-210 and 70-215)",
+      "date": "Not given",
+      "issuer": "Not given",
+      "url": "Not given"
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Hardware",
+      "level": "Not given",
+      "keywords": ["A+", "Active Directory", "Adobe", "Apache", "Backup Exec", "budget", "C", "CCNA", "Cisco IOS", "Cisco", "Citrix", "Hardware", "CRM", "Client", "Databases", "DHCP", "disaster recovery", "DNS", "ERP", "firewalls", "firewall", "ftp", "help desk support", "help desk", "HP", "HP servers", "IIS", "Information Systems"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

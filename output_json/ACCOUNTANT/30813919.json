@@ -1,0 +1,135 @@
+{
+  "basics": {
+    "name": "Not specified",
+    "label": "Accountant",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Certified Accountant with more than 10 years experience working with company financial statements. Vast experience in preparing tax returns. Ability to critically review financial statements. Highly motivated manager with excellent administrative, organizational and communication skills. Reliable person with more than 20 years work experience.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Not specified",
+      "position": "Accountant",
+      "url": "",
+      "startDate": "2013-06-01",
+      "endDate": "2013-11-01",
+      "summary": "Performed debit, credit and total accounts on computer using specialized accounting software. Managed accounting operations, accounting close, account reporting and reconciliations. Received, recorded, and banked cash, checks, and vouchers as well as reconciled records of bank transactions. Assisted the Managing Director with the production of the monthly financial and management reports. Prepared financial and regulatory reports required by boards of directors.",
+      "highlights": []
+    },
+    {
+      "name": "Not specified",
+      "position": "Commissioner of Taxes",
+      "url": "",
+      "startDate": "2011-04-01",
+      "endDate": "2012-04-01",
+      "summary": "Managed over 80 staff responsible for the collection of domestic revenue. Managed the formulation and implementation of the annual operational plan and budget of the domestic taxes department. Prepared and managed the annual budget of the department. Formulated policy objectives and strategy of the department.",
+      "highlights": ["Managed over 80 staff responsible for the collection of domestic revenue.", "Managed the formulation and implementation of the annual operational plan and budget of the domestic taxes department.", "Prepared and managed the annual budget of the department.", "Formulated policy objectives and strategy of the department."]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "HMRC Staff College",
+      "url": "",
+      "area": "Management",
+      "studyType": "Certificate",
+      "startDate": "2009-01-01",
+      "endDate": "2009-12-31",
+      "score": "",
+      "courses": ["Leadership and management skills", "Self-awareness and impact", "Communication and presentation skills", "Working collaboratively for improved performance", "Managing performance", "Managing change", "Getting more for less", "Delivering better compliance", "Engaging with customers for improved performance", "International tax and frontiers issues", "Human resource management"]
+    },
+    {
+      "institution": "Management Institute for National Development (MIND)",
+      "url": "",
+      "area": "Management",
+      "studyType": "Certificate",
+      "startDate": "2007-01-01",
+      "endDate": "2007-12-31",
+      "score": "",
+      "courses": ["Management development and organizational development", "Understanding difference and learning about others", "Interpersonal skills, team skills and processes, leadership and performance management", "Systems thinking, continuous improvement, business planning and presentation skills", "Commonwealth perspective; tax administration module and best practice design for tax", "Risk management and strategic planning", "Tax compliance administration, audit case selection and risk based auditing", "Planning investigations/large company investigations and cost benefit analysis", "Value added taxes", "Management of disputes", "Tax evasion/avoidance and underground economy/money laundering", "Fraudulent transactions", "Issues relating to multinational corporates expatriate employees"]
+    },
+    {
+      "institution": "HMRC Staff College",
+      "url": "",
+      "area": "Taxation",
+      "studyType": "Certificate",
+      "startDate": "2004-01-01",
+      "endDate": "2004-12-31",
+      "score": "",
+      "courses": ["Personal development", "Self-awareness and impact", "Communication and presentation skills", "Engagement with the taxpayer", "Customer focus. Business tax interventions", "Personal tax interventions", "Accounts examination", "Case selection and risk analysis", "Techniques for collecting returns and payments", "Compliance strategy", "Special investigations and civil investigations of fraud", "Understanding avoidance", "Criminal investigations in practice", "Presentation skills", "Project and team working", "Tribunals including appeals, reviews and evidence", "International taxation", "Transfer pricing", "Tax treaties", "Exchange of information", "Taxation of e-commerce", "Computer record examination"]
+    },
+    {
+      "institution": "Kaplan Financial (FTC)",
+      "url": "",
+      "area": "Accountancy",
+      "studyType": "Association of Certified Chartered Accountants",
+      "startDate": "2002-01-01",
+      "endDate": "2002-12-31",
+      "score": "",
+      "courses": ["Management Accounting", "Financial Accounting", "Financial Management", "Taxation", "Audit and Assurance", "Business Analysis"]
+    },
+    {
+      "institution": "Management Development Institute",
+      "url": "",
+      "area": "Accounting",
+      "studyType": "Association of Accounting Technicians",
+      "startDate": "1998-01-01",
+      "endDate": "1998-12-31",
+      "score": "",
+      "courses": ["Preparing Financial Statements", "Budgeting", "Financial Reporting", "Report Writing", "Cash Management", "Risk Management", "Professional Ethics"]
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Achieving Management Potential",
+      "date": "undefined",
+      "issuer": "undefined",
+      "url": ""
+    },
+    {
+      "name": "Taxation",
+      "date": "undefined",
+      "issuer": "undefined",
+      "url": ""
+    },
+    {
+      "name": "Management Development",
+      "date": "undefined",
+      "issuer": "undefined",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Accounting skills",
+      "level": "Master",
+      "keywords": ["Good Communication", "Customer Service", "Problem Solver", "Team work", "IT Skill", "Proficient in Quickbooks"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Not specified"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "personal": {
+    "birthDate": "1971-02-17",
+    "gender": "Female",
+    "maritalStatus": "Married"
+  }
+}

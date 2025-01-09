@@ -1,0 +1,130 @@
+{
+  "basics": {
+    "name": "Not Specified",
+    "label": "Business Office Manager",
+    "image": "",
+    "email": "Not Specified",
+    "phone": "Not Specified",
+    "url": "Not Specified",
+    "summary": "To obtain a full time position in Healthcare Environment where my 16 years of experience in the area of healthcare field, Customer Relations, Claims, Coding, Billing, Human Resources and Employee Management will be an asset.",
+    "location": {
+      "address": "Not Specified",
+      "postalCode": "Not Specified",
+      "city": "Not Specified",
+      "countryCode": "Not Specified",
+      "region": "Not Specified"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Business Office Manager",
+      "url": "Not Specified",
+      "startDate": "2009-01",
+      "endDate": "Current",
+      "summary": "Roles included: Employee Management, New hire training, Customer Service for Patient Accounts, Management Medicare and Medi-Cal.",
+      "highlights": [],
+      "description": "Description..."
+    },
+    {
+      "name": "Company Name",
+      "position": "Healthcare Administrator",
+      "url": "Not Specified",
+      "startDate": "2008-01",
+      "endDate": "2010-01",
+      "summary": "",
+      "highlights": [],
+      "description": "Description..."
+    },
+    {
+      "name": "Company Name",
+      "position": "Business Office Supervisor",
+      "url": "Not Specified",
+      "startDate": "2000-01",
+      "endDate": "2008-01",
+      "summary": "",
+      "highlights": [],
+      "description": "Description..."
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Phoenix",
+      "url": "Not Specified",
+      "area": "Health Administration",
+      "studyType": "Bachelor",
+      "startDate": "2009-06-13",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "LA Valley College",
+      "url": "Not Specified",
+      "area": "Program Chemestry",
+      "studyType": "AA Degree",
+      "startDate": "2005",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Concord College",
+      "url": "Not Specified",
+      "area": "Medical Claims and Billing Specialist",
+      "studyType": "Certificate-Diploma",
+      "startDate": "1999",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Ulysses S. Grant High School",
+      "url": "Not Specified",
+      "area": "High School Diploma",
+      "studyType": "",
+      "startDate": "1993",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "ANC Computer School",
+      "url": "Not Specified",
+      "area": "",
+      "studyType": "Certificate",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses":  ["Microsoft Word, Excell, MS DOS"]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Honored Member of Cambridge",
+      "date": "2006-2007",
+      "awarder": "Cambridge of Who's Who",
+      "summary": ""
+    }
+  ],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Office Management",
+      "level": "Expert",
+      "keywords": ["Maintains strict confidentiality", "Knowledge of HMOs, Medicare and Medi-Cal", "Extensive anatomy/physiology knowledge", "Medical Manager Software", "Microsoft Word and Excell, Managed care contract knowledge", "Medisoft Billing Software, CAD, ARCommand -Billing Software Electronic Medical Record (EMR) software", "Medicare/Medical and all other Insurance/Private Billing, ICD-9 coding", "Advanced knowledge in HMO and Managed Care, Neurology billing expertise","Team player with positive attitude"]
+    }
+  ],
+  "languages": [
+    { "language": "Armenian", "fluency": "Fluent" },
+    { "language": "Russian", "fluency": "Fluent" },
+    { "language": "English", "fluency": "Fluent" },
+    { "language": "Spanish", "fluency": "Fluent" }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

@@ -1,0 +1,81 @@
+{
+  "basics": {
+    "name": "Anonymous",
+    "label": "National Sales Manager",
+    "summary": "It is my desire to advance my professional development through marrying the management, purchasing, and guest-oriented skills honed over a 20 year professional career in educational musical sales with a teaching passion that began with 6 plus years as an educator.",
+    "location": {
+      "city": "City",
+      "countryCode": "US"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "National Sales Manager",
+      "startDate": "2009-01-01",
+      "summary": "Oversee the daily operations of United Musical Distribution. Oversee the daily operations of the online sales division, including competitive presence on Amazon and Ebay among other internet forums. Complete and submit institutional bids to schools throughout the nation. Responsible for creating sales opportunities and driving them to success as leader of a sales team.",
+      "highlights": [
+        "Increased sales from 2013 to 2014 by 53%",
+        "Developed a successful team and profitable relationships with many well known manufacturers in the music industry"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Director of Educational Services/Bids Administration",
+      "startDate": "2001-01-01",
+      "endDate": "2009-01-01",
+      "summary": "Complete and submit institutional bids to school districts throughout the nation. Solving complicated customer service issues related to bid sales. Develop and maintain a successful team of Educational Services Representatives that visit approximately 90 schools each week."
+    },
+    {
+      "name": "Company Name",
+      "position": "Educational Services Representative",
+      "startDate": "1997-01-01",
+      "endDate": "2001-01-01",
+      "summary": "Customer sales and service Developing and maintaining business relationships with primary, middle and high school music educators in West Central Indiana and Eastern Illinois. Created a successful instrument rental program, generating a 300% revenue increase in the 1st year alone. Inventory purchasing."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Indiana State University",
+      "area": "Music education",
+      "studyType": "Masters",
+      "startDate": "1990-09-01",
+      "endDate": "1992-05-01"
+    },
+    {
+      "institution": "Indiana State University",
+      "area": "Music Education",
+      "studyType": "Bachelor of Science",
+      "startDate": "1986-09-01",
+      "endDate": "1990-05-01"
+    },
+    {
+      "institution": "Vincennes University",
+      "area": "Fine Arts",
+      "studyType": "Associate's degree",
+      "startDate": "1984-09-01",
+      "endDate": "1986-05-01"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Inventory",
+      "level": "Advanced",
+      "keywords": [
+        "Sales",
+        "Sales Management",
+        "Wholesale Sales",
+        "Business Development",
+        "Internet Sales",
+        "School Sales",
+        "Music Education",
+        "Drum Set Performance",
+        "Vibraphone Performance"
+      ]
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

@@ -1,0 +1,100 @@
+{
+  "basics": {
+    "name": "Unknown",
+    "label": "Chef Owner",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "A combination of specialized training and professional experience results in excellent qualifications as an EXECUTIVE CHEF, SOUS CHEF AND CHEF. Highly skilled in a variety of cuisines, including: Italian, Peruvian, Mexican and Fusion. Possess outstanding interpersonal, communication, and training skills. Excel in creating quality cuisine within budgetary cost controls.",
+    "location": {
+      "address": "", 
+      "postalCode": "", 
+      "city": "", 
+      "countryCode": "", 
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Chef Owner",
+      "url": "",
+      "startDate": "2010-01",
+      "endDate": "2012-09",
+      "summary": "Management of all financial and personnel records. Recruit, interview and train staff while ensuring health and safety standards. Development of marketing strategy responsible for doubling the sales in one year. Received over 300 outstanding reviews on Yelp.com.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "DIRECTOR OF CULINARY ARTS",
+      "url": "",
+      "startDate": "2007-01",
+      "endDate": "2009-01",
+      "summary": "Train and manage kitchen personnel, supervise/coordinate all related culinary activities; estimate consumption and requisition or purchase food.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Execute Sous Chef",
+      "url": "",
+      "startDate": "2003-12",
+      "endDate": "2006-12",
+      "summary": "Oversaw all aspects relating to culinary operations including kitchen supply and inventory, maintaining government regulations, and monitoring customer satisfaction.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Food Service Director",
+      "url": "",
+      "startDate": "2001-11",
+      "endDate": "2003-12",
+      "summary": "Conducted daily pre-shift and weekly departmental meetings to ensure organizational efficiency.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Los Angeles Culinary Instituted",
+      "url": "",
+      "area": "Culinary Arts",
+      "studyType": "Associate of Arts",
+      "startDate": "1994",
+      "endDate": "",
+      "score": "",
+      "courses": [
+        "Courses in Hospitality and Restaurant Management"
+      ]
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Culinary",
+      "level": "Executive Chef, SOUS CHEF AND CHEF",
+      "keywords": [
+        "Italian", "Peruvian", "Mexican", "Fusion"
+      ]
+    },
+    {
+      "name": "Business Skills",
+      "level": "Advanced",
+      "keywords": [
+        "Small business development", "Leadership/communication skills", "Product development", "Communicates effectively", "Business operations organization", "Event planning", "Budgeting expertise", "Listening skills", "Negotiations", "Exceptional multi-tasker", "Employee relations", "Hospitality expertise", "Self-motivated", "Customer-oriented"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

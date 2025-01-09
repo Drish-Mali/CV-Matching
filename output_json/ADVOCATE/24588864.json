@@ -1,0 +1,90 @@
+{
+  "basics": {
+    "name": "Veteran Advocate Intern",
+    "label": "Professional",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "An industrious, organized professional with excellent analytical and observational skills who enjoys working as a team-player, and desires to work for a professional company in the Human Services Field.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Veteran Advocate Intern",
+      "url": "",
+      "startDate": "2012-01-01",
+      "endDate": "2012-04-01",
+      "summary": "Collected veteran information through interviews, observations and test. Completed holistic care plan for homeless veteran and 30 day reviews. Referred Veterans to other agencies based on their needs.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Intensive Supervision Officer",
+      "url": "",
+      "startDate": "2016-02-01",
+      "endDate": "2018-04-01",
+      "summary": "Monitors Juvenile Offenders sentenced to probation and parole. Provide innovative ideas to improve efficiencies to accomplish work. Manage case load of 18 juvenile etc.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Strayer University",
+      "url": "",
+      "area": "Human Resource Management Human Resource Generalist",
+      "studyType": "Master",
+      "startDate": "",
+      "endDate": "2019",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Augusta State University",
+      "url": "",
+      "area": "Sociology",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "2012-05-01",
+      "score": "3.35",
+      "courses": [
+        "Quantitative Methods of Research I and II",
+        "Methods in Sociological Research",
+        "Psychology",
+        "Social Problem Analysis",
+        "Health Psychology",
+        "Gerontology",
+        "Sociology of Death, Grief and Caring",
+        "Medical Terminology"
+      ]
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Conflict resolution skills",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Superior Organizational Skills",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

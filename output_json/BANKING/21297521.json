@@ -1,0 +1,93 @@
+{
+  "basics": {
+    "name": "John Doe",
+    "label": "Manager",
+    "image": "",
+    "email": "Unknown",
+    "phone": "Unknown",
+    "url": "Unknown",
+    "summary": "18+ yrs. of experience in Information Technology Management with a proven record as a servant leader for large distributed teams in diverse technical environments. Proven record of managing budgets, LRPs, product & portfolio roadmaps, business cases, software architecture, development and operations. Extensive track record of nurturing deep relationships within the company, vendors, strategic partners and standards bodies to achieve business goals.",
+    "location": {
+      "address": "Unknown",
+      "postalCode": "Unknown",
+      "city": "Unknown",
+      "countryCode": "Unknown",
+      "region": "Unknown"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Unknown",
+      "position": "Manager",
+      "url": "Unknown",
+      "startDate": "2013-11-01",
+      "endDate": "Current",
+      "summary": "Manage a large global team of up to 50 Managers, Technical Leads and Software Developers across a portfolio of 25 LOB applications.",
+      "highlights": [
+        "Vendor management",
+        "RFPs",
+        "Vendor selection",
+        "Scope based contractual obligations",
+        "Negotiations on Fixed Bid, Fixed Scope, T&M SOWs and 3rd Party Software licensing",
+        "LRPs, short and long-term strategic Road Maps"
+      ]
+    },
+    {
+      "name": "Unknown",
+      "position": "Senior Director",
+      "url": "Unknown",
+      "startDate": "2011-01-01",
+      "endDate": "2013-05-01",
+      "summary": "Headed the Solution Architecture and Project Management Office responsible for designing and delivering marquee consumer facing digital streaming on Web, iOS, Android, ROKU, XBOX and other platforms.",
+      "highlights": [
+        "Product Strategy and roadmaps for critical components of the Video Streaming platform",
+        "Project management",
+        "Scope management",
+        "Problem resolution",
+        "Delivery and launch of the client-company's products to its customers",
+        "Relationship management with internal and external strategic partners"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Massachusetts Institute of Technology",
+      "url": "https://web.mit.edu/",
+      "area": "Unknown",
+      "studyType": "Unspecified",
+      "startDate": "Unknown",
+      "endDate": "2016",
+      "score": "Unknown",
+      "courses": []
+    },
+    {
+      "institution": "UCLA Anderson School of Management",
+      "url": "https://www.anderson.ucla.edu/",
+      "area": "Unknown",
+      "studyType": "M.B.A",
+      "startDate": "Unknown",
+      "endDate": "2002",
+      "score": "Unknown",
+      "courses": []
+    },
+    {
+      "institution": "Thapar University",
+      "url": "http://www.thapar.edu/",
+      "area": "engineering",
+      "studyType": "Bachelor's",
+      "startDate": "Unknown",
+      "endDate": "1993",
+      "score": "Unknown",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

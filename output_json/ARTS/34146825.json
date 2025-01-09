@@ -1,0 +1,75 @@
+{
+  "basics": {
+    "name": "Sale Consultant",
+    "label": "Sales Representative",
+    "email": "",
+    "phone": "",
+    "summary": "Sales Rep with two years in sales with vast industry knowledge. Independent worker with high energy and great communication skills. Customer service and sales expert who identifies customer needs and delivers solutions to problems.",
+    "locations": {},
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Boost Mobile of Mobile Factory",
+      "position": "Sale Consultant",
+      "startDate": "2015-03-01",
+      "endDate": "2015-11-01",
+      "summary": "Answered all of the customers questions and addressed problems and complaints in person and over the phone. Helped customers select products that best fit their personal needs, and processed an average of 40 transactions each day in a timely manner.",
+      "highlights": ["Trained all new sales employees on effective techniques", "Inventory management", "Customer service"]
+    },
+    {
+      "name": "Michael's Arts & Crafts",
+      "position": "Cashier",
+      "startDate": "2014-10-01",
+      "endDate": "2014-12-01",
+      "summary": "Assisted customers with their needs, handled money throughout the day and gave change back."
+    },
+    {
+      "name": "Chicago Bakery",
+      "position": "Front clerk",
+      "startDate": "2014-02-01",
+      "endDate": "2014-06-01",
+      "summary": "Accepted payment from customers and gave the correct amount of change as needed. Cleaned up spilled food, drinks and broken dishes, and removed empty bottles and trash."
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Northwood High School",
+      "area": "",
+      "studyType": "High School",
+      "startDate": "",
+      "endDate": "2014",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Sales",
+      "level": "Expert",
+      "keywords": ["Inventory management", "Organization skills", "Outgoing personality", "Detailed oriented", "Team player mentality", "Customer service", "Computer skills", "Multi-Tasker", "Sale expertise"]
+    },
+    {
+      "name": "Customer Service",
+      "level": "Expert",
+      "keywords": ["Monitor customer complaints", "Assist customers", "Handle money", "Active listening"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

@@ -1,0 +1,83 @@
+{
+  "basics": {
+    "name": "Accountant II",
+    "label": "Accounting Professional",
+    "summary": "Detail-oriented Accountant with 5 years effectively maintaining accurate accounting information for large-scale financial organizations. Superior attention to detail and strong communication skills.",
+    "skills": [
+      {
+        "name": "Accountancy",
+        "level": "Expert",
+        "keywords": [
+          "Superior attention to detail",
+          "Accounting operations professional",
+          "Invoice coding familiarity",
+          "Cash flow analysis",
+          "QuickBooks expert",
+          "Data trending knowledge",
+          "Self-motivated professional",
+          "Advanced bookkeeping skills",
+          "Strong communication skills"
+        ]
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Accountant II",
+      "startDate": "2017-02-01",
+      "summary": "Responsible for preparing and posting entries for the daily posting packet. Manages accounts payable function and Corporate VISA accounts. Assists with the preparation of financial statements."
+    },
+    {
+      "name": "Company Name",
+      "position": "Accountant",
+      "startDate": "2015-06-01",
+      "endDate": "2017-02-01",
+      "summary": "Overseen business expense processing for multiple business units. Maintained knowledge of Credit Union processes which affect the general ledger. Assisted with the preparation of financial statements."
+    },
+    {
+      "name": "Company Name",
+      "position": "Accountant",
+      "startDate": "2013-08-01",
+      "endDate": "2015-06-01",
+      "summary": "Performed a variety of support duties related to the accounting function within the credit union. Supervised two Accounting Clerks Staffs. Responsible for ensuring staff are adequately trained in all phases of their jobs."
+    },
+    {
+      "name": "Company Name",
+      "position": "Financial Service Representative/Back-up Supervisor",
+      "startDate": "2011-01-01",
+      "endDate": "2013-08-01",
+      "summary": "Provided customers with prompt, accurate, courteous and professional banking service. Assisted customers with opening and closing of accounts. Accepted and processed loan applications."
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Maryland",
+      "area": "Finance",
+      "studyType": "Bachelor of Science Degree",
+      "startDate": "2010-05-01"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Military Training Certificate",
+      "date": "2005-01-01"
+    },
+    {
+      "name": "NMLS- Nationwide Mortgage Licensing System",
+      "date": "2013-01-01"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Employee of the month - November",
+      "date": "2011-11-01",
+      "awarder": "PNC Bank"
+    },
+    {
+      "title": "Retail Banking Achievement Award",
+      "date": "2012-01-01",
+      "awarder": "PNC Bank"
+    }
+  ]
+}

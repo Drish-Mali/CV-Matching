@@ -1,0 +1,115 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Corporate Accountant",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "A highly motivated, hardworking College Graduate with hands on experiences in daily accounting practices. Recognized for self-starting abilities and skilled in regulatory reporting, accounting operations and tax accounting. Matriculate, results-oriented and solution-focused individual with great motivational and leadership qualities that work well under pressure in a team setting as well as autonomously.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [{
+      "position": "Corporate Accountant",
+      "startDate": "2013-04-01",
+      "summary": "Prepare accurate and timely financial statements and supporting financial information. Prepare daily journal entries and general ledger account reconciliations..."
+    }, {
+      "position": "Accountant",
+      "startDate": "2011-05-01",
+      "summary": "Responsible for the preparation of financial statements for owners review, company partners and investors..."
+    }, {
+      "position": "Senior Accountant",
+      "startDate": "2012-07-01",
+      "endDate": "2013-04-01",
+      "summary": "Record daily field reports and timesheets data, and compare job cost budget to actuals..."
+    }, {
+      "position": "Accounts Payable Controller",
+      "startDate": "2010-08-01",
+      "endDate": "2012-07-01",
+      "summary": "Responsible for overseeing the accounts payable department..."
+    }],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Ashworth College",
+      "area": "Business Administration",
+      "studyType": "Master",
+      "score": "Summa Cum Laude"
+    },
+    {
+      "institution": "Penn Foster College",
+      "area": "Business Management",
+      "studyType": "Bachelor",
+      "score": "Summa Cum Laude"
+    },
+    {
+      "institution": "Penn Foster College",
+      "area": "Accounting",
+      "studyType": "Associate"
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Accounting",
+      "level": "",
+      "keywords": [
+        "Account Management",
+        "Account Reconciliations",
+        "Account Analysis",
+        "Accruals",
+        "Audit",
+        "Billing",
+        "Budgeting",
+        "Budget Preparation",
+        "Cash Flows",
+        "Monthly Closings",
+        "Invoice Coding",
+        "Contract Execution",
+        "Corporate Tax Processing",
+        "Cost Reporting",
+        "Daily Accounting",
+        "Expense Report Review and Coding",
+        "Financial Statements Preparation",
+        "Fixed Asset",
+        "Forecasting",
+        "Fund Accounting",
+        "GAAP intimate familiarity",
+        "General Ledger Accounting",
+        "Income Tax Preparation",
+        "Inventory",
+        "Invoicing",
+        "Cost Reporting",
+        "Journal Entries",
+        "Liaise between Departments",
+        "Monthly Sales Analysis",
+        "Payables Recognition",
+        "Payments Processing",
+        "Payroll Processing and Allocation",
+        "Performance Management",
+        "Point of Sale Analysis",
+        "Post Payments",
+        "Process Invoices",
+        "Revenue Recognition and Recording",
+        "Sales Recognition and Recording",
+        "Sales Tax Calculation and Filing",
+        "Tax Compliance",
+        "Tax Returns",
+        "Variance Analysis"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

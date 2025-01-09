@@ -1,0 +1,145 @@
+{
+  "basics": {
+    "name": "Information Technology Consultant",
+    "label": "Information Technology Consultant",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Proficient in Software and Hardware management, with significant experience in computer network setup, computer repair and upgrade, and Microsoft Excel spreadsheet creation. Exhibits excellent organizational and interpersonal capabilities.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "State",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Information Technology Consultant",
+      "url": "",
+      "startDate": "2009-12-01",
+      "endDate": "2016-02-01",
+      "summary": "Engaged in setting up basic computer networks, software and printer installations, and computer repair and upgrade for individuals. Skilled in creating type of Microsoft Excel spreadsheets.",
+      "highlights": [
+        "Setup network for small non-profit organization",
+        "Created organizational spreadsheets for daily operations and marketing for small businesses",
+        "Upgraded SQL and Time Matters for Edward S.Clay, P.A."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Office Administrator/Billing Assistant",
+      "url": "",
+      "startDate": "2015-08-01",
+      "endDate": "2016-01-01",
+      "summary": "Responsible for administrative functions as well as billing assistance in UCAP (internal billing system). Order and shipping duties included alongside airtime report preparation.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Funding & Settlement Coordinator/Office Manager",
+      "url": "",
+      "startDate": "2011-08-01",
+      "endDate": "2015-08-01",
+      "summary": "Led activities involving asset re-titling, data entry, client relationship management, and supplying. Additional responsibilities included legal document review, verifying client signatures, and troubleshooting",
+      "highlights": [
+        "Developed strong working relationships with trust maintenance clients",
+        "Managed a 73% growth in client base during employment period",
+        "Managed probate process for various estates concurrently while overseeing funding for new and existing clients"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Student Operations Specialist",
+      "url": "",
+      "startDate": "2002-01-01",
+      "endDate": "2009-12-01",
+      "summary": "Engaged in student report preparation for multiple state regulatory agencies and national accreditation agency, ACCET. Also, managed course scheduling, student records, and complaints.",
+      "highlights": [
+        "Saved company over $4 million by strengthening textbook inventory controls",
+        "Introduced system of student records collection and storage through collaboration with programmers",
+        "Managed class schedules across all 25 schools"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Information Technology Coordinator",
+      "url": "",
+      "startDate": "1996-05-01",
+      "endDate": "2001-05-01",
+      "summary": "Installed and troubleshooted Windows 2000 workstations, hardware, printers, peripherals, and software. Oversaw telecommunication system administration and trained brokers and new employees. Responsibly processed stock certificates and checks for deposit and accurately maintained client accounts.",
+      "highlights": ["Promoted to IT Coordinator from Operations Manager"]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "ComputerTraining.Com",
+      "url": "",
+      "area": "Microsoft Certified Systems Engineer Training",
+      "studyType": "Certificate",
+      "startDate": "",
+      "endDate": "2002-01-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Towson University",
+      "url": "",
+      "area": "Business Finance",
+      "studyType": "B.S.",
+      "startDate": "",
+      "endDate": "1991-01-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Maryland Notary Public",
+      "date": "2018-08-26",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "Microsoft Certified Systems Engineer",
+      "date": "2002-02-01",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Technical",
+      "level": "Master",
+      "keywords": [
+        "MS Office Suite (Word, Outlook, PowerPoint, Excel, Access, CRM)",
+        "Adobe Acrobat XI",
+        "Software Engineering",
+        "SQL",
+        "Telecommunications",
+        "Network setup",
+        "Data Entry",
+        "Computer Repair and Upgrade"
+      ]
+    },
+    {
+      "name": "Hardware",
+      "level": "Expert",
+      "keywords": [
+        "Build, Repair, and Upgrade Desktop Computers",
+        "Laptop Computers",
+        "Install and Setup Servers, Printers, and Routers"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

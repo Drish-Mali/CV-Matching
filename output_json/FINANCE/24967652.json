@@ -1,0 +1,121 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Manager of Finance",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Highly motivated individual with demonstrated proficiency in listening to clients' needs, and formulating the tactical plan...",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Manager of Finance",
+      "url": "",
+      "startDate": "2008-01-01",
+      "endDate": "2012-01-01",
+      "summary": "Developing crucial business relations for the success...",
+      "highlights": []
+    },
+	{
+	  "name": "Company Name",
+	  "position": "Insurance Agent",
+	  "url": "",
+	  "startDate": "2009-01-01",
+	  "endDate": "2011-01-01",
+	  "summary": "Writing insurance policy's for home and auto coverage...",
+	  "highlights": []
+	},
+    {
+	  "name": "Company Name",
+	  "position": "Grocery Manager",
+	  "url": "",
+	  "startDate": "2007-01-01",
+	  "endDate": "2008-01-01",
+	  "summary": "Ensure excellence in customer service...",
+	  "highlights": []
+	},
+    {
+      "name": "Company Name",
+      "position": "Manager",
+      "url": "",
+      "startDate": "2004-01-01",
+      "endDate": "2007-01-01",
+      "summary": "Ensured a high level of customer service...",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Charleston Southern University",
+      "url": "",
+      "area": "Organizational Management",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "2016-01-01",
+      "score": "",
+      "courses": []
+    },
+	{
+      "institution": "South Piedmont Community College",
+      "url": "",
+      "area": "Information Technology",
+      "studyType": "Associate of Science",
+      "startDate": "",
+      "endDate": "2009-01-01",
+      "score": "",
+      "courses": []
+	},
+    {
+      "institution": "American Career College",
+      "url": "",
+      "area": "Medical Assistant",
+      "studyType": "Certification",
+      "startDate": "",
+      "endDate": "1995-01-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+	{
+	  "name": "North Carolina license, Casualty Insurance",
+	  "date": "2009-01-01",
+	  "issuer": "",
+	  "url": ""
+	},
+    {
+	  "name": "North Carolina license, Property Insurance",
+	  "date": "2009-01-01",
+	  "issuer": "",
+	  "url": ""
+	}
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Financial Management",
+      "level": "",
+      "keywords": [
+        "accounts payable", "credit", "client", "clients", "client relations", "customer relations", "customer service", "databases", "documentation",
+		"special events", "Financing", "financial", "funds", "government", "Information Technology", "Insurance", "inventory", "Director", "managing",
+		"Merchandising", "office", "payroll", "personnel", "policies", "quality", "sales", "Scheduling", "staff development", "staff training", "troubleshoot", "website", "websites"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

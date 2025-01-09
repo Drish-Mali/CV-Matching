@@ -1,0 +1,66 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Finance Manager",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Outgoing Sales Manager offering superb customer service proficiency and passion for exceeding sales goals. Results-oriented professional specializing in the sale of Automobiles. Strong customer skills and the ability to handle task with accuracy and efficiency with a unique ability to relate to diverse clients and close high-dollar sales. Knowledgeable and innovative finance, sales and marketing professional whose success is based on integrity, exceptional customer service, efficiency, and ambition.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Louisiana",
+      "countryCode": "US",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Finance Manager",
+      "url": "",
+      "startDate": "2013-12-01",
+      "endDate": "2014-03-01",
+      "summary": "As the Finance manager I submitted loan applications to banks to obtain financing for customers along with completing all the necessary bank and state documents necessary for the purchase of automobiles. My responsibilities also consisted of creating good customer relationships designed to grow future business.",
+      "highlights": ["Secured bank loans for the purchase of new and used automobiles.",
+      "Completion of all necessary bank and state documents for the purchase of automobiles",
+      "Sale of Warranty and maintenance products to customers"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Finance Manager",
+      "url": "",
+      "startDate": "2012-11-01",
+      "endDate": "2013-12-01",
+      "summary": "My responsibilities consisted of securing bank loans for the purchase of new and used automobiles, along with all state required paperwork for the purchase of automobiles.",
+      "highlights": ["Secured bank loans for the purchase of new and used automobiles.",
+      "Completion of all necessary bank and state documents for the purchase of automobiles",
+      "Sale of after market warranty and maintenance products"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Southern University Baton Rouge",
+      "url": "",
+      "area": "Music",
+      "studyType": "Bachelor of Arts",
+      "startDate": "",
+      "endDate": "1977-01-01",
+      "score": "",
+      "courses": ["Dale Carnegie Sales and Management Training."]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Automobile Financing",
+      "level": "",
+      "keywords": ["Negotiating", "Goal Setting", "Customer Service", "Creative Problem Solving", "Sales Trainer", "Selling", "Closing", "Developing and Implementing Processes"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

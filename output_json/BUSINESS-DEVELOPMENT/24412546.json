@@ -1,0 +1,102 @@
+{
+  "basics": {
+    "name": "Anonymous",
+    "label": "Business Development Associate",
+    "email": "",
+    "phone": "",
+    "summary": "Award-winning sales executive with international sales experience.",
+    "location": {
+      "city": "City",
+      "region": "State"
+    },
+    "skills": [
+      {
+        "name": "Business Development",
+        "level": "Master",
+        "keywords": ["accounting", "budget", "cold calling", "Credit", "client relations", "staff training", "Financial Director", "marketing", "Market", "Marketing and Management", "materials", "Excel", "office", "Outlook Express", "Power Point", "win", "Word", "networking", "processes", "promotion", "public relations", "relationship building", "Restaurant Management", "Sales", "Sales Manager", "telemarketing"]
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Business Development Associate",
+      "startDate": "2015-01-01",
+      "summary": "Responsible for prospecting and developing relationships for unqualified, and qualified sales leads through Market Master, Sales Force, cold calls and networking. Generated over 60 - 70 sales calls per day and distributed sales materials to the appropriate future clients. Secured appointments for the District Mangers and worked together in securing new leads and securing appointments with the proper contact before or after the client has been qualified and assist in any win the sale."
+    },
+    {
+      "name": "Company Name",
+      "position": "Managing Director",
+      "startDate": "2000-01-01",
+      "endDate": "2015-01-01",
+      "summary": "Marketing and Management Company for telemarketing firms and the hospitality/hotel industry. Responsible for all telemarketing functions and sales, sales relationship building and administration for two million-dollar companies. Included managing and developing projects like Accelerated Financial Center, LLC, M.R. Carter, LLC, The Ramada Inn, etc. At the Ramada, I was also responsible for Guest Services, Group Sales, Conference Services, Catering and Restaurant Management for an Annual 4 million dollar budget."
+    },
+    {
+      "name": "Company Name",
+      "position": "General Manager",
+      "startDate": "1999-01-01",
+      "endDate": "2000-01-01",
+      "summary": "Developed and operated a small thirty-room upscale resort. Was responsible for guest services, rooms, operations, accounting, and sales and marketing. First year's annual revenue produced $400,000."
+    },
+    {
+      "name": "Company Name",
+      "position": "Director of Sales",
+      "startDate": "1997-01-01",
+      "endDate": "1999-01-01",
+      "summary": "Responsible for all sales & marketing staff and sales aspects for the resort. Property's annual revenue exceeded 10 million."
+    },
+    {
+      "name": "Company Name",
+      "position": "Director of Travel Industry Sales",
+      "startDate": "1990-01-01",
+      "endDate": "1997-01-01",
+      "summary": "Indian River Plantation Resort & Yacht Harbor. Manager on Duty, Group Sales Manager, Director of Travel Industry Sales (Domestic and International). The leisure market room revenue increased by 2 million in 18 months."
+    },
+    {
+      "name": "Company Name",
+      "position": "Senior Group Sales Manager",
+      "startDate": "1980-01-01",
+      "endDate": "1990-01-01",
+      "summary": "Trained in all departments of the property. Responsible for groups and group bookings held at the property. Annual revenues exceeded 60 million dollars. Leading Group Sales Manager, exceeding goal production for 5 years."
+    },
+    {
+      "name": "Company Name",
+      "position": "Assistant Manager",
+      "startDate": "1975-01-01",
+      "endDate": "1980-01-01"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Volunteer Services",
+      "position": "Volunteer",
+      "summary": "YMCA of Martin County, Molly's House, Hibiscus House for Children, Council for the Arts of Martin County, Economic Council of Martin County, Sunshine State Games of The Treasure Coast, Stuart Main Street, Pineapple Festival of Jensen Beach, Special Olympics of Martin County, Academy of Travel & Tourism of Martin County, The Treasure Coast Tourism Committee for the Council of Chambers, The Hutchinson Island Tourism Development Council Committee for Martin County and St. Lucie County, Sunfest of Palm Beach, The Jensen Beach Chamber of Commerce, The Stuart\\Martin County Chamber of Commerce, The Hobe Sound Chamber of Commerce Chili Cookoff, The Junior League of Martin County Travel Auction, The Palm Beach Hospitality Sales & Marketing Travel Auction, The Jensen Beach Chamber of Commerce Travel Auction, The Soroptomist International Travel Auction, The Kiwanis of Jensen Beach Dow Finsterwald Golf Classic and Travel Auction, The Jensen Beach Oak Tree Program for The Jensen Beach Chamber of Commerce, The Martin County Cultural Arts Travel Auction for Artsfest, The Academy of Travel & Tourism."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Xavier University",
+      "area": "Management",
+      "studyType": "B.S.B.A",
+      "endDate": "1975-01-01"
+    },
+    {
+      "institution": "Xavier University",
+      "area": "Marketing & Finance",
+      "studyType": "M.B.A",
+      "endDate": "1978-01-01"
+    }
+  ],
+  "interests": [
+    {
+        "name": "Community Services",
+        "keywords": ["YMCA of Martin County", "Molly's House", "Hibiscus House for Children", "Council for the Arts of Martin County", "Economic Council of Martin County", "Sunshine State Games of The Treasure Coast", "Stuart Main Street", "Pineapple Festival of Jensen Beach", "Special Olympics of Martin County", "Academy of Travel & Tourism of Martin County", "The Treasure Coast Tourism Committee for the Council of Chambers", "The Hutchinson Island Tourism Development Council Committee for Martin County and St. Lucie County", "Sunfest of Palm Beach"]
+    }
+  ],
+  "references": [
+    {
+      "name": "",
+      "reference": ""
+    }
+  ]
+}

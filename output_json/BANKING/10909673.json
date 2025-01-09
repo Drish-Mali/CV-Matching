@@ -1,0 +1,112 @@
+{
+   "basics":{
+      "name":"John Doe",
+      "label":"Vice President",
+      "email":"",
+      "phone":"",
+      "summary":"Seeking a Program/Project Management position to utilize and expand my talents, knowledge and experience.",
+      "location":{
+         "city":"",
+         "countryCode":""
+      },
+      "profiles":[]
+   },
+   "work":[
+      {
+         "name":"Company Name",
+         "position":"Vice President",
+         "startDate":"2011-01",
+         "endDate":"Current",
+         "summary":"Managed cross functional and cross business unit projects to reduce expenses and best utilize company resources. Created a document repository for future project managers.",
+         "highlights":["Divestitures", "Create repeatable reporting processes of data"]
+      },
+      {
+         "name":"Company Name",
+         "position":"Risk Management Analyst, Vice President",
+         "startDate":"2007-01",
+         "endDate":"2011-01",
+         "summary":"Managed cross functional and cross business unit projects. Developed credit file checklists, product specific coding matrices.",
+         "highlights":["Managed derivative facility process"]
+      },
+      {
+         "name":"Company Name",
+         "position":"Project Manager, Vice President",
+         "startDate":"2003-01",
+         "endDate":"2007-01",
+         "summary":"Managed large scale projects. Facilitated requirements gathering with business partners and documentation.",
+         "highlights":["Reported status updates to senior management"]
+      },
+      {
+         "name":"Company Name",
+         "position":"Business System Analyst, Associate Vice President",
+         "startDate":"2000-01",
+         "endDate":"2003-01",
+         "summary":"Researched technology business solutions to increase efficiency and revenues.",
+         "highlights":["Managed a conversion project from DOS"]
+      }
+   ],
+   "volunteer":[
+      {
+         "organization":"Lewisville Baseball Association",
+         "position":"Board Member and Commissioner",
+         "startDate":"1998",
+         "endDate":"2001"
+      },
+      {
+         "organization":"CASA of Denton County",
+         "position":"Advisory board member",
+         "startDate":"2004",
+         "endDate":"Present"
+      }
+   ],
+   "education":[
+      {
+         "institution":"Northlake College",
+         "area":"",
+         "studyType":"BCIS degree",
+         "startDate":"",
+         "endDate":"",
+         "score":"3.0"
+      },
+      {
+         "institution":"North Central Texas College",
+         "area":"",
+         "studyType":"BCIS degree",
+         "startDate":"",
+         "endDate":"",
+         "score":"3.35"
+      }
+   ],
+   "skills":[
+      {
+         "name":"Banking",
+         "level":"",
+         "keywords":[]
+      },
+      {
+         "name":"SDLC",
+         "level":"",
+         "keywords":[]
+      }
+   ],
+   "languages":[],
+   "interests":[
+      {
+         "name":"Church activities"
+      },
+      {
+         "name":"Baseball and Football spectator"
+      },
+      {
+         "name":"Gardening"
+      },
+      {
+         "name":"Community Leader"
+      }
+   ],
+   "references":[],
+   "projects":[],
+   "certificates":[],
+   "awards":[],
+   "publications":[]
+}

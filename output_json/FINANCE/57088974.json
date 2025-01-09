@@ -1,0 +1,122 @@
+{
+  "basics": {
+    "name": "Name not provided",
+    "label": "Finance Manager",
+    "image": "",
+    "email": "Email not provided",
+    "phone": "Phone number not provided",
+    "url": "URL not provided",
+    "summary": "Flexible Accountant who adapts seamlessly to constantly evolving accounting processes and technology. Adept at budget forecasting, financial reporting and managing multiple projects",
+    "location": {
+      "address": "Address not provided",
+      "postalCode": "Postal code not provided",
+      "city": "City not provided",
+      "countryCode": "Country code not provided",
+      "region": "Region not provided"
+    },
+    "profiles": [
+      {
+        "network": "Network not provided",
+        "username": "Username not provided",
+        "url": "URL not provided"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Finance Manager",
+      "url": "URL not provided",
+      "startDate": "2008-05-01",
+      "endDate": "Current",
+      "summary": "Supervision of Accounting employees including hiring, coaching, training and completing employee evaluations in a timely manner. Develop and generate daily, monthly, quarterly and year-end processes and preparation of financial statements and related management reports.",
+      "highlights": [
+        "Supervision of Accounting employees",
+        "Generation of financial reports"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Financial Analyst II",
+      "url": "URL not provided",
+      "startDate": "2000-11-01",
+      "endDate": "2008-04-01",
+      "summary": "Produced financial information for billing and reporting for Federal, State and County contracts. Performed general ledger reconciliation and prepare any correcting entries.",
+      "highlights": [
+        "Produced financial information for billing and reporting",
+        "Performed general ledger reconciliation"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Corporate Accountant",
+      "url": "URL not provided",
+      "startDate": "1998-08-01",
+      "endDate": "2000-10-01",
+      "summary": "Developed and monitored operating and capital budgets. Managed and reviewed all functions regarding financial statement preparation.",
+      "highlights": [
+        "Developed and monitored operating and capital budgets",
+        "Managed and reviewed all functions regarding financial statement preparation"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Resort Revenue Manager",
+      "url": "URL not provided",
+      "startDate": "1991-07-01",
+      "endDate": "1998-08-01",
+      "summary": "Managed revenue department which audited 10 restaurants, Adult and Kids Ski Schools, 8 retail outlets, The Crested Butte Marriott Hotel (252 suites), The Sheraton at Crested Butte (300 rooms) and various vacation rental properties.",
+      "highlights": [
+        "Managed revenue department"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Barnes Business College",
+      "url": "URL not provided",
+      "area": "Accounting",
+      "studyType": "Associate Degree",
+      "startDate": "Start date not provided",
+      "endDate": "End date not provided",
+      "score": "Score not provided",
+      "courses": []
+    }
+  ],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Accounting",
+      "level": "Expert",
+      "keywords": [
+        "account reconciliation",
+        "accounting systems",
+        "A/P",
+        "auditing",
+        "budgeting",
+        "Computer Literate",
+        "Contracts",
+        "Controller",
+        "Conversion",
+        "Credit",
+        "Direction",
+        "Engineering",
+        "Financial Reporting",
+        "Funds",
+        "General Ledger",
+        "Hiring",
+        "Leadership",
+        "Management",
+        "Reporting",
+        "Software Design",
+        "Supervision"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

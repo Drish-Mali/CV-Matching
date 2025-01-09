@@ -1,0 +1,158 @@
+{
+  "basics": {
+    "name": "Janet A. Strudwick",
+    "label": "Accountant",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Enthusiastic, knowledgeable professional with experience and proven success in program and project management, online and instructor led design, development and facilitation. Outstanding problem-solving skills, as proven through implementation of accounting software packages, significantly improving billing and reporting processes. Excellent management skills, encouraging career growth of subordinates through additional training and opportunities. Keep up-to-date with industry changes through professional affiliation.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "US",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Senior Manager",
+      "url": "",
+      "startDate": "1995-01-01",
+      "endDate": "",
+      "summary": "Project Management, Training Facilitation, Instructional Design and Development",
+      "highlights": [
+        "Managed projects to design and develop training programmes",
+        "Improved billing and reporting processes through implementation of accounting software"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Instructional Designer/Training Manager/Database Manager/Senior Accountant",
+      "url": "",
+      "startDate": "2003-01-01",
+      "endDate": "2004-01-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Online Course Instructor",
+      "url": "",
+      "startDate": "1993-01-01",
+      "endDate": "1995-01-01",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "California State University, Hayward",
+      "url": "",
+      "area": "Education",
+      "studyType": "Master",
+      "startDate": "",
+      "endDate": "2003-01-01",
+      "score": "4.0",
+      "courses": []
+    },
+    {
+      "institution": "University of Maryland, College Park",
+      "url": "",
+      "area": "Accounting",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "1993-01-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "College of Arts, Science, and Technology",
+      "url": "",
+      "area": "Business Administration",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "1983-01-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [
+    {
+      "name": "The Issue of Gender in Online Teaching and Learning",
+      "publisher": "California Virtual Campus",
+      "releaseDate": "2003-04-01",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "name": "Managing Conflict in the Online Classroom",
+      "publisher": "California Virtual Campus",
+      "releaseDate": "2003-03-01",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "name": "Collaborative Learning: Benefits, Challenges, and How to Make it Effective",
+      "publisher": "Teacher Focus Newsletter",
+      "releaseDate": "2003-03-01",
+      "url": "",
+      "summary": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Accounting",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Project Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Instructional Design",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Office Suite",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "PeopleSoft HRMS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Program Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Leadership Training",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "affiliations": [
+    {
+      "name": "Project Management Institute"
+    },
+    {
+      "name": "Association for Talent Development (formerly ASTD)"
+    }
+  ]
+}

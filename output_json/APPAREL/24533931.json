@@ -1,0 +1,124 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Apparel Associate",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "An organized, detail-oriented, and conscientious self starter, able to learn and adapt quickly to new skills, also able to strategized and prioritize effectively to accomplish multiple tasks and stay calm under pressure.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Apparel Associate",
+      "url": "",
+      "startDate": "2017-08-01",
+      "endDate": "Current",
+      "summary": "Stocking and Zoning apparel and housewares merchandise",
+      "highlights": []
+    },
+	{
+      "name": "Company Name",
+      "position": "Recruiting Assistant",
+      "url": "",
+      "startDate": "2016-10-01",
+      "endDate": "2016-05-01",
+      "summary": "Sealing/Mailing off letters to football recruits, Making prints or copies of Letters and/or paperwork, Signing recruits and families in for game day",
+      "highlights": []
+    },
+	{
+      "name": "Company Name",
+      "position": "Cashier/Stocker",
+      "url": "",
+      "startDate": "2015-12-01",
+      "endDate": "2017-09-01",
+      "summary": "Assisting customers in finding what they need, recovering sales floor and keeping the store clean and organize so the shoppers can have a better and easier shopping experience. Make customer purchases and/or returns",
+      "highlights": []
+    },
+	{
+      "name": "Company Name",
+      "position": "Cashier/Sales Associate",
+      "url": "",
+      "startDate": "2014-05-01",
+      "endDate": "2015-08-01",
+      "summary": "Assisting customers in finding what they need, recovering sales floor and keeping the store clean and organize so the shoppers can have a better and easier shopping experience. Make customer purchases and/or returns",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "South Louisiana Community College",
+      "url": "",
+      "area": "Business Administration",
+      "studyType": "",
+      "startDate": "2018-01-01",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+	{
+      "institution": "University of Louisiana-Lafayette",
+      "url": "",
+      "area": "Business Administration",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+	{
+      "institution": "Salmen High School",
+      "url": "",
+      "area": "",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "2014-01-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Cashier", 
+      "level": "", 
+      "keywords": []
+    },
+	{
+      "name": "Customer Assistance", 
+      "level": "", 
+      "keywords": []
+    },
+	{
+      "name": "Sales", 
+      "level": "", 
+      "keywords": []
+    },
+	{
+      "name": "Stock", 
+      "level": "", 
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [
+    {
+      "name": "21st Century Summer Camp",
+      "keywords": ["years 2012-2014"]
+    }
+  ],
+  "references": [],
+  "projects": []
+}

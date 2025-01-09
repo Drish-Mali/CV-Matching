@@ -1,0 +1,143 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Business Development Coordinator",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Program Coordinator bringing extensive background in Training Coordination, System Administration, and Operations. Organized, resourceful and detail-oriented with exceptional planning and decision-making abilities.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "",
+      "region": "State"
+    }
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Business Development Coordinator",
+      "url": "",
+      "startDate": "2016-05-01",
+      "endDate": "Current",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Technology Coordinator",
+      "url": "",
+      "startDate": "2014-10-01",
+      "endDate": "2016-05-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Region Coordinator",
+      "url": "",
+      "startDate": "2014-02-01",
+      "endDate": "2014-10-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Executive Assistant",
+      "url": "",
+      "startDate": "2012-04-01",
+      "endDate": "2013-04-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Technical Support Coordinator",
+      "url": "",
+      "startDate": "2011-06-01",
+      "endDate": "2012-03-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Clinical Administrator",
+      "url": "",
+      "startDate": "2011-01-01",
+      "endDate": "2011-04-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Specialist, User Applications",
+      "url": "",
+      "startDate": "2007-01-01",
+      "endDate": "2010-05-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Training Coordinator",
+      "url": "",
+      "startDate": "2001-10-01",
+      "endDate": "2007-01-01",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Centenary College",
+      "url": "",
+      "area": "Business Administration",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "2006",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Business Development",
+      "level": "Intermediate",
+      "keywords": [
+        "Troubleshooting and problem-solving",
+        "Time management ability",
+        "Exceptional telephone etiquette",
+        "Ability to prioritize",
+        "Professional demeanor",
+        "Deadline-oriented",
+        "Self-starter",
+        "Employee training and development"
+      ]
+    },
+    {
+      "name": "Technical Expertise",
+      "level": "Intermediate",
+      "keywords": [
+        "Salesforce.com",
+        "Paperless Proposals",
+        "Saba LMS",
+        "Success Factors LMS",
+        "Webex",
+        "Pedague Testing System",
+        "Microsoft Office Suite",
+        "Concur",
+        "Vantive",
+        "Clarify"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

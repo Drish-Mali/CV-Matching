@@ -1,0 +1,124 @@
+{
+  "basics": {
+    "name": "",
+    "label": "TEAM LEAD SENIOR ANALYST",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "MBA in Business Management, Finance & M.S in Information technology Professional Summary: Overall 7+ years of experience in implementing and supporting Information technology operations and multiple business projects for Google Maps, Wipro for client Hewlett Packard. Over 4 years of experience in project management / operations management in leading multiple small scale and large projects by staffing and resource planning, managing metrics, people management, project life cycle.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+},
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Team Lead Senior Analyst",
+      "url": "",
+      "startDate": "01/2012",
+      "endDate": "08/2012",
+      "summary": "Ensured that all the projects and processes are adhered to pre-defined standards, Acted as a liaison between the senior business managers and various global stake holders, Recruited 100 + Analysts for the process by suggesting best practices and effective methods.",
+      "highlights": []
+    },
+    {
+      "name": "Cognizant & Global Logic",
+      "position": "Operations / Project Lead for Multiple Projects",
+      "url": "",
+      "startDate": "01/2012",
+      "endDate": "04/2016",
+      "summary": "Daily monitoring of metrics, investigating inefficiencies and improve team processes to meet KPI, Monitor work flows and conduct quality reviews to ensure high standards in line with project needs, Liaise with management regarding work flows, industry updates, changes and policy reforms.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Associate Analyst",
+      "url": "",
+      "startDate": "01/2011",
+      "endDate": "08/2012",
+      "summary": "Designed and developed various Business works projects as part of integration. Understand existing frameworks and applications. Determining requirements and translating them to business requirements. Providing solutions for complex challenges to various cross functional teams.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Associate Analyst",
+      "url": "",
+      "startDate": "02/2009",
+      "endDate": "11/2009",
+      "summary": "Helping customers by giving feasible solutions related to windows operating systems. Solving all complex problems pertaining to computer hardware and software. Troubleshooting all the internet and network cable issues and other computer peripherals.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Data Entry Specialist / Analyst",
+      "url": "",
+      "startDate": "06/2008",
+      "endDate": "01/2009",
+      "summary": "Analyzing data and using various queries to transform the requirements. Determining process and business requirements. Transforming process requirements into business logics and functionalities.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Osmania University",
+      "url": "",
+      "area": "Accounting and Business Management",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "",
+      "score": "3.0",
+      "courses": []
+    },
+    {
+      "institution": "Unknown",
+      "url": "",
+      "area": "Business Management",
+      "studyType": "MBA",
+      "startDate": "",
+      "endDate": "",
+      "score": "3.4",
+      "courses": []
+    },
+    {
+      "institution": "Wilmington University Delaware",
+      "url": "",
+      "area": "Information Technology",
+      "studyType": "Master of Science",
+      "startDate": "",
+      "endDate": "",
+      "score": "3.31",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "Diploma in Computer Applications NICET Institute",
+        "Core Java",
+        "Completed Web Designing & MS office package course from APTECH Computers- India",
+        "JIRA tool",
+        "SQL",
+        "Microsoft Office",
+        "PowerPoint",
+        "Excel",
+        "Visio & Project",
+        "Excel, Microsoft Office"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

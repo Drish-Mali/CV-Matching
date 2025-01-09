@@ -1,0 +1,120 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Plant Operator",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Certified Plant Operator with 6 years in Cryogenic Air Separation Unit Plant with proven ability to meet production deadlines. Eleven years military training and a Dedicated System Operator Versatile plant operator well-versed in monitoring and inspecting plant equipment.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": [
+      
+    ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Plant Operator",
+      "url": "",
+      "startDate": "2009-06",
+      "endDate": "2015-02",
+      "summary": "Monitored process units and quality control testing performance for plant processes and water quality sampling. Operate and maintained filtration process units and water system control equipment. Made sound and logical judgments regarding process changes. Closely inspected equipment for any mechanical or safety issues. Reviewed the daily computer log and reported any inaccuracies in the process. Responded to and initiated proper corrections to process alarms.",
+      "highlights": ["Operation of a $27 million Air Separation Unit Plant",
+      "Mechanical, Chemical EngineerTraining",
+      "Advanced Oxygen/Nitrogen Training",
+      "Leadership Training",
+      "Safety Training",
+      "Recruit Basic Training",
+      "Tow Tractor (aircraft)",
+      "Tow Tractor ( equipment)",
+      "Forklift",
+      "CDL (expired)"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Sales Associate",
+      "url": "",
+      "startDate": "2008-01",
+      "endDate": "2009-05",
+      "summary": "Sales of all plumbing indoor and outdoor materials. Selling plumbing supplies and material, unloading trucks and stocking shelves.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Auto Mechanic",
+      "url": "",
+      "startDate": "2007-01",
+      "endDate": "2008-03",
+      "summary": "Service cars and trucks, tire repair, brake replacement, oil changes, transmission flush, radiator flush, all auto repair.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Aviation Structure Mechanic",
+      "url": "",
+      "startDate": "1996-09",
+      "endDate": "2007-07",
+      "summary": "Maintain liquid/gaseous oxygen and nitrogen systems. Remove, inspect and re-install oxygen components. Replenish and service liquid/gaseous oxygen and nitrogen containers, tanks, and holding carts. Daily safety inspection on aircraft and supporting oxygen and nitrogen systems.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Montana",
+      "url": "",
+      "area": "Mechanical Classes",
+      "studyType": "",
+      "startDate": "2008",
+      "endDate": "2008",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Navy",
+      "url": "",
+      "area": "Multiple education courses and training within the Navy",
+      "studyType": "",
+      "startDate": "2005",
+      "endDate": "2005",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Trapper Creek High School",
+      "url": "",
+      "area": "High School",
+      "studyType": "Diploma",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Operating a Air Separation Unit",
+      "level": "",
+      "keywords": ["Produce FDA quality Oxygen", "Nitrogen", "Argon liquids"]
+    },
+    {
+      "name": "Troubleshoot/Maintain/Repair",
+      "level": "",
+      "keywords": ["All motors", "Pumps", "Compressors", "Heat exchangers", "Piping", "Electrical components within plant site"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

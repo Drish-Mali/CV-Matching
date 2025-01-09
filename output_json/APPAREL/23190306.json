@@ -1,0 +1,87 @@
+{
+  "basics": {
+    "name": "Brenna T. Walsh",
+    "label": "2nd Level Assistant Store Manager, Operations Manager Manager, Sales & Services Manager",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "RETAIL | OPERATIONS | SALES MANAGER Client-driven, quality-focused retail manager with proven track record of top performance. Retail leader with profound and broad expertise in every aspect of store management. Critically evaluates and minimizes operational costs in context of store profitability. Creates and promotes caring customer service program for entire staff. Coaches every employee toward individual goals. Establishes retail environment that encourages positive customer experience and promotes realization of sales targets.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": [
+    ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "2nd Level Assistant Store Manager, Operations Manager Manager, Sales & Services Manager",
+      "url": "",
+      "startDate": "2004-01-01",
+      "endDate": "2009-01-01",
+      "summary": "Managed nearly every aspect of store operations, trained and developed store staff, monitored and implemented corporate programs.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Assistant Store Manager",
+      "url": "",
+      "startDate": "2011-01-01",
+      "endDate": "2012-01-01",
+      "summary": "Managed and recorded profit loss, communicated with buying office, maintained records.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Soft lines Manager, Apparel Lead",
+      "url": "",
+      "startDate": "2009-01-01",
+      "endDate": "2011-01-01",
+      "summary": "Constructed visual presentations, managed payroll and training, communicated with vendors and buyers.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Monroe Catholic High School",
+      "url": "",
+      "area": "",
+      "studyType": "High School Diploma",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "University of Alaska Fairbanks",
+      "url": "",
+      "area": "Business Management",
+      "studyType": "Associates Degree",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Florida State College of Jacksonville",
+      "url": "",
+      "area": "Business Management",
+      "studyType": "Present",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Retail Management",
+      "level": "",
+      "keywords": ["cashier", "corporate training", "Customer Service", "delivery", "inventory", "Leadership", "Managing", "materials", "merchandising", "excel", "office", "payroll", "Personnel", "policies", "presentations", "Profit", "profit and loss", "promotion", "purchasing", "recording", "reporting", "Sales", "shipping", "team management"]
+    }
+  ]
+}

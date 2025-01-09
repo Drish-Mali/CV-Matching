@@ -1,0 +1,99 @@
+{
+"basics": {
+"name": "John Doe",
+"label": "Business Solution Project Manager",
+"image": "",
+"email": "",
+"phone": "",
+"url": "",
+"summary": "Technical and process expert on all web-based marketing systems resolved complex business issues..",
+"location": {
+"address": "",
+"postalCode": "",
+"city": "",
+"countryCode": "",
+"region": ""
+},
+"profiles": []
+},
+"work": [
+{
+"name": "Company Name",
+"position": "Business Solution Project Manager",
+"url": "",
+"startDate": "2011-01-01",
+"endDate": "2017-01-01",
+"summary": "Resolved complex business issues..",
+"highlights": ["Implemented competitive advantages..", "Responsible for analyzing business issues.."]
+},
+{
+"name": "Company Name",
+"position": "Lead Data Migration Analyst",
+"url": "",
+"startDate": "2008-01-01",
+"endDate": "2011-01-01",
+"summary": "Lead systems expert..",
+"highlights": ["Recruited to lead the migration..", "Reviewed and recommended several software vendors.."]
+},
+{
+"name": "Company Name",
+"position": "Quality Assurance Data Analyst",
+"url": "",
+"startDate": "2006-01-01",
+"endDate": "2008-01-01",
+"summary": "Worked closely with quality engineers..",
+"highlights": ["Reviewed known defects with engineering..", "Collected raw data to analyze.."]
+},
+{
+"name": "Company Name",
+"position": "Senior Forecast Analyst",
+"url": "",
+"startDate": "2006-01-01",
+"endDate": "2006-01-01",
+"summary": "Responsible for direct marketing research..",
+"highlights": ["Determined and executed decisions on forecast..", "Analyzed and distributed forecasting information.."]
+},
+{
+"name": "Company Name",
+"position": "Marketing Budget Forecast and Circulation Analyst",
+"url": "",
+"startDate": "2002-01-01",
+"endDate": "2006-01-01",
+"summary": "Developed technology efficiencies..",
+"highlights": ["Analyzed click through rates, bounce tracking..", "Optimized to strengthened Customer File Master.."]
+}
+],
+"volunteer": [],
+"education": [
+{
+"institution": "Northeastern University",
+"url": "",
+"area": "Information Systems",
+"studyType": "Bachelor of Science",
+"startDate": "",
+"endDate": "",
+"score": "",
+"courses": ["SAS Business Intelligence Client Tools, SAS Training Center New York, NY",
+            "Administering Microsoft Windows NT 4.0, New Horizons Training Center Braintree, MA",
+            "Fundamentals of Solaris 2, Sun Microsystems",
+            "Introduction to Software Design & Development",
+            "Concepts & Facilities of Emerging Technologies"]
+}
+],
+"awards": [],
+"certificates": [],
+"publications": [],
+"skills": [
+{
+"name": "Technical Skills",
+"level": "Expert",
+"keywords": ["PLM", "SQL", "Crystal Reports", "Google Analytics", "JIRA", "HPQC", "QlikView", "Cognos", "Microsoft Access",
+             "Excel", "SAS", "Power Point", "SharePoint", "Visio", "MicroStrategy", "ASPEN", "Microsoft Project", "JCL", "Jobtrac",
+             "TSO", "CA7", "Tivoli", "Maestro", "Telnet", "FTP", "Group1", "Unix", "Exceed", "Citrix/Metaframe", "Altiris"]
+}
+],
+"languages": [],
+"interests": [],
+"references": [],
+"projects": []
+}

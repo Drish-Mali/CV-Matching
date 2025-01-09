@@ -1,0 +1,106 @@
+{
+  "basics": {
+    "name": "AMC Computer Specialist and Intern",
+    "label": "Information Technology Specialist",
+    "email": "",
+    "phone": "",
+    "summary": "Information Technology Specialist with twenty nine years of experience launching environments focused on telecommunications concepts, principles methods, practices and solutions. Savvy, compassionate, impact-oriented performer with attention to detail, technological know-how, and lifecycle project planning expertise. Consistently develops innovative and workable solutions to unique customer requirements. Proven track record for building productive teams with healthy morale. Promotes security awareness ensuring sound security principles are implemented.",
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "AMC Computer Specialist and Intern",
+      "startDate": "1989-09",
+      "endDate": "1992-09",
+      "summary": "As a Lead Cobol Programmer: Wrote two programs to estimate the cost for the Panama Canal Conflict. Coordinated with QA testers for end-to-end unit testing and post-production testing. Implemented systems security and data assurance software. Developed custom software solutions for the organization. Oversaw deployment, configuration, and documentation procedures. Implemented and tested enhancement feature request to improve product functionality. Resolved customer issues by establishing workarounds and solutions by debugging and creating defect fixes. Drafted two project work plans per week. Organized and held meetings with stakeholders, contractor product teams, and customers. Coordinated all hardware acquisitions. Coded user-customizable applications that converted raw data from a design engine to easily understandable graphical formats."
+    },
+    {
+      "name": "Company Name",
+      "position": "Computer Specialist (Special Assignment)",
+      "startDate": "1992-06",
+      "endDate": "1993-10",
+      "summary": "Detailed as Junior Engineer for PM EWRSTA Camp Evans (Wall, New Jersey). Assisted the Lead Software Engineer in writing the code to repair the Kiowa 58D helicopter computer module. Successfully completed project from coding to test and evaluation. Authorized to go TDY to Fort Bragg, N.C. to test our code in the vehicle. Briefed 300 civilians and 60 soldiers on the test, evaluations, and repair of the aircraft under the orders the PMEWRSTA PM Colonel Arthur Hurtado (Fort Myers, Florida). Served as a Lead Project Manager using the Artemis Schedule Publisher software to track Electronic Warfare systems and their respective repair schedules."
+    },
+    {
+      "name": "Company Name",
+      "position": "Information Technology Specialist",
+      "startDate": "2011-09",
+      "endDate": "Present",
+      "summary": "Effective Acting branch and division chief of Customer Support Branch ATEC Headquarters (G6), APG, Maryland (2013-2015). SWE on Information Systems Security (2011-2015). Implements IT concepts, principles and methods and practices, providing technical oversight and Headquarters systems monitoring (2011-2015). Efficient planning and delivery of customer support services, including installation, configuration, troubleshooting, customer assistance, and/or training, in response to customer requirements (2011-2015). Knowledgeable of system requirements and techniques for planning current and future system architecture requirements (2011-2015). Expertise in Information Technology security principles, concepts, practices, systems software, database software, and immediate access storage technology to carry out activities leading to security certification or accreditation (2011-2015)."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Pillar College",
+      "area": "Business Admin and Management",
+      "studyType": "Bachelor of Arts",
+      "startDate": "",
+      "endDate": "2016-01",
+      "score": "4.0",
+      "courses": [
+        "Organizational Management",
+        "Business Management",
+        "Business Communications",
+        "Theology"
+      ]
+    },
+    {
+      "institution": "CED Solutions",
+      "area": "Computer Software",
+      "studyType": "Microsoft Certified Professional (MCP)",
+      "startDate": "",
+      "endDate": "2006",
+      "courses": [ ]
+    },
+    {
+      "institution": "Defense Acquisition University",
+      "area": "",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "2015",
+      "courses": [ ]
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Microsoft Certified Professional (MCP)",
+      "date": "",
+      "issuer": "Microsoft",
+      "url": ""
+    },
+    {
+      "name": "Security Plus",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Technical",
+      "level": "",
+      "keywords": [
+        "Procurement Clerk",
+        "Purchasing Agent",
+        "Computer Programmer",
+        "Contracting Officer Representative (COR)",
+        "Customer Support",
+        "Information Technology",
+        "Information Security",
+        "Hardware",
+        "Network systems",
+        "Decision Making",
+        "Information Systems",
+        "IT Strategy",
+        "Local Area Network",
+        "Microsoft Certified Professional",
+        "MCP",
+        "Policies",
+        "Processes",
+        "Project Management",
+        "Risk Assessment"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "basics": {
+    "name": "Not Provided",
+    "label": "Certified Personal Trainer",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "4+ years of experience with formal training in business development, leadership, health and fitness. Extensive sales and customer service experience. Passionate about designing exercise and nutrition plans to maximize workout efficiency, improve fitness, boost stamina and increase overall well being. Very Goal-oriented and self-motivated with talent in motivating others and developing a foundation to meet individual client goals, And most important of all creating a warm environment in which clients of all ages can successfully achieve health and wellness goals.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Certified Personal Trainer",
+      "url": "",
+      "startDate": "2012-02-01",
+      "endDate": "Current",
+      "summary": "Taught clients how to modify exercises appropriately to avoid injury. Assisted older adults with weight training programs by setting up equipment and providing detailed instructions. Contributed to the operation of a clean, friendly and well maintained health club. Recorded training sessions and maintained package rates for each client...",
+      "highlights": []
+    },
+    {
+        "name":"Company Name",
+        "position":"Utility Supervisor",
+        "url":"",
+        "startDate":"2014-01-01",
+        "endDate":"2014-12-01",
+        "summary":"Plan work schedules and assign duties to maintain adequate staff for effective performance of activities...",
+        "highlights":[]
+    },
+    {
+        "name":"Company Name",
+        "position":"Personal Trainer",
+        "url":"",
+        "startDate":"2012-04-01",
+        "endDate":"2013-11-01",
+        "summary":"Instruct participants in maintaining exertion levels to maximize benefits from exercise routines...",
+        "highlights":[]
+    },
+    {
+        "name":"Company Name",
+        "position":"Home Healthcare Provider",
+        "url":"",
+        "startDate":"2011-04-01",
+        "endDate":"2012-11-01",
+        "summary":"Administer bedside or personal care, such as ambulation or personal hygiene assistance...",
+        "highlights":[]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Angleton High School",
+      "url": "",
+      "area": "",
+      "studyType": "High School Diploma",
+      "startDate": "",
+      "endDate": "2011",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Alvin Community College",
+      "url": "",
+      "area": "Nursing",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Construction",
+      "level": "OSHA Certified",
+      "keywords": []
+    },
+    {
+      "name": "Fitness",
+      "level": "NCCER Certified",
+      "keywords": []
+    },
+    {
+      "name": "MS Office",
+      "level": "Proficient",
+      "keywords": []
+    },
+    {
+      "name": "Music Production",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Film/Act/Direct",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

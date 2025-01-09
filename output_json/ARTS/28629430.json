@@ -1,0 +1,142 @@
+{
+  "basics": {
+    "name": "Anonymous",
+    "label": "Creative Director",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Creative Director, Graphic Artist, Studio Artist, Data Analyst, Sales and Marketing Representative with extensive experience in creating and directing page layout and collateral design. A self-motivated, detail-oriented designer and problem solver with a distinctive style.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Creative Director",
+      "url": "",
+      "startDate": "2002-01-01",
+      "endDate": "2015-01-01",
+      "summary": "Mentored a restructured Sales and Marketing Department, overseeing web site design, web advertising, conference banners and ad creation. Took on the role of Data Analyst over the past 7 years. Managed and met aggressive personal and team deadlines, handled changing priorities, while adhering to strategy, accuracy and time lines.",
+      "highlights": [
+        "New logo creation and branding of new products",
+        "Problem solving",
+        "Data analysis",
+        "Sales Representative for various conferences",
+        "Worked closely with marketing staff and clients",
+        "Print work featured in CGM"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Professional Studio Artist/Graphic Artist",
+      "url": "",
+      "startDate": "1999-04-01",
+      "endDate": "2016-02-01",
+      "summary": "Created art work for gallery display and sale as well as provided work to various charities, events and silent auctions. Taught classes on painting and life drawing. Worked with furniture for restoration and reinvention. Produced marketing materials and studio announcements for various groups and individuals.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Art Director/Graphic Designer",
+      "url": "",
+      "startDate": "2000-08-01",
+      "endDate": "2002-10-01",
+      "summary": "Worked directly with clients to provide images used for instructional booklets and large volume catalogs, as well as producing warning labels for various products with tight deadlines and strict accuracy. I created original product packaging and branding for our largest clients.",
+      "highlights": [
+        "Designed catalog layouts",
+        "Image manipulation for clients products and equipment photo shoots",
+        "Created line art for instruction manuals",
+        "Original packaging design"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Medical Billing for Radiology Department",
+      "url": "",
+      "startDate": "1994-12-01",
+      "endDate": "1998-07-01",
+      "summary": "Working with medical records as well as insurance company information to locate patient information for updating medical records as well as updating contact information for patients. I ran all the documentation and brought all records up to speed for the whole department.",
+      "highlights": [
+        "Worked with proprietary medical record software to update patient information",
+        "Increased current and updated insurance and billable data over 30% in the first year"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Drake University",
+      "url": "",
+      "area": "Art, Painting, Graphic Design",
+      "studyType": "Bachelor of Arts",
+      "startDate": "",
+      "endDate": "2000-06-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "College of DuPage",
+      "url": "",
+      "area": "Painting and Graphic Design",
+      "studyType": "Associate of Arts",
+      "startDate": "",
+      "endDate": "1998",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Graphic Design",
+      "level": "",
+      "keywords": [
+        "Adobe CS",
+        "Illustrator",
+        "Photoshop",
+        "Layout and Design",
+        "InDesign",
+        "MySQL",
+        "Citrix",
+        "Retrieve",
+        "HTML",
+        "Dynamic HTML",
+        "Dreamweaver"
+      ]
+    },
+    {
+      "name": "Art Skills",
+      "level": "",
+      "keywords": [
+        "Photography",
+        "Illustration",
+        "Oil and Acrylic Painting",
+        "Drawing",
+        "Mural Work",
+        "Tile Working",
+        "Furniture Restoration and Re-Invention"
+      ]
+    },
+    {
+      "name": "Sales and Marketing",
+      "level": "",
+      "keywords": [
+        "Sales and Marketing Representative",
+        "Production Roll-Out",
+        "Data Analyst"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

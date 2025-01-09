@@ -1,0 +1,122 @@
+{
+  "basics": {
+    "name": "",
+    "label": "COMMUNITY RELATIONS ADVOCATE SUPERVISOR",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "To be afforded the opportunity to apply my advanced administrative, problem solving, organizational and sales abilities towards achieving continuous, improved business performance for a growing/stable organization.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "US",
+      "region": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Community Relations Advocate Supervisor",
+      "url": "",
+      "startDate": "2012-10-01",
+      "endDate": "Current",
+      "summary": "Cultivated relationships with community contacts, location sponsors, property managers, property owners and non-profit organizations.Initiated beneficial partnerships with local municipalities and non-profit organization to support company growth organizations. Coordinated with marketing team for various events in researching and generating referrals."
+    },
+    {
+        "name": "Company Name",
+        "position": "Program Director",
+        "url": "",
+        "startDate": "2000-08-01",
+        "endDate": "2012-10-01",
+        "summary": "Worked in various roles Including marketing, client management, promoting training programs, student counseling, administration roles and team management. Established relations with community contacts and non-profit organizations. Created and executed recruiting campaigns for prospective adoptive parents."
+    },
+    {
+        "name": "Company Name",
+        "position": "Case Manager",
+        "url": "",
+        "startDate": "2000-06-01",
+        "endDate": "2002-09-01",
+        "summary": "Managed case related to International Truck Driving Program. Recruitment of prospective students."
+    },
+    {
+        "name": "Company Name",
+        "position": "Recruiter and Case Manager",
+        "url": "",
+        "startDate": "1996-03-01",
+        "endDate": "2000-06-01",
+        "summary": "Recruited, interviewed, and determined eligibility for economically disadvantaged youth for summer work programs. Paired with local entities for youth to market employment opportunities. Documented case management services in accordance to requirements."
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Houston Clear Lake",
+      "url": "",
+      "area": "Interdisciplinary Studies EC-6 Generalist w EC-12 Special Education",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "2016-12-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "HIPAA",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Marketing",
+      "level": "Proficient",
+      "keywords": []
+    },
+    {
+      "name": "Client Relationship",
+      "level": "Proficient",
+      "keywords": []
+    },
+    {
+      "name": "Public Relations",
+      "level": "Proficient",
+      "keywords": []
+    },
+    {
+      "name": "Interviewing",
+      "level": "Proficient",
+      "keywords": []
+    },
+    {
+      "name": "Community Relations",
+      "level": "Proficient",
+      "keywords": []
+    },
+    {
+      "name": "Case Management",
+      "level": "Proficient",
+      "keywords": []
+    },
+    {
+      "name": "Recruiting",
+      "level": "Proficient",
+      "keywords": []
+    },
+    {
+      "name": "Training",
+      "level": "Proficient",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

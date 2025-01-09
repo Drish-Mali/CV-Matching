@@ -1,0 +1,142 @@
+{
+  "basics": {
+    "name": "Accountant",
+    "label": "Accountant",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Experienced, highly motivated work ethic, with results-driven professionalism, recognized for commitment to excellence, and demonstrates expertise in communicating and collaborating with, peers, and clients.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Accountant",
+      "url": "",
+      "startDate": "2010-01-01",
+      "endDate": "2013-11-01",
+      "summary": "Managed over 10 million per month in revenue. Accurately applied payments to vendor accounts.",
+      "highlights": [
+        "Managed over 10 million per month in revenue.",
+        "Accurately applied payments to vendor accounts."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Accountant",
+      "url": "",
+      "startDate": "2006-03-01",
+      "endDate": "2008-11-01",
+      "summary": "Responsible for follow-up and explanation of AX, VI & MC credit card accounts and issue Debit Memos to travel agencies for all chargeback's debited to EL AL Israel Airlines.",
+      "highlights": [
+        "Handled large volumes of credit card disputes."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Bookkeeper",
+      "url": "",
+      "startDate": "2003-01-01",
+      "endDate": "2005-08-01",
+      "summary": "Assist in accounts payable/accounts receivable. Maintain spreadsheets and records of store sales and expenses.",
+      "highlights": [
+        "Assist in accounts payable/accounts receivable."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Accountant",
+      "url": "",
+      "startDate": "2013-11-01",
+      "endDate": "Current",
+      "summary": "Reduced closing time for monthly and quarterly close by implementing new consolidation procedures.",
+      "highlights": [
+        "Reduced closing time for monthly and quarterly close by implementing new consolidation procedures."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Assistant Bookkeeper",
+      "url": "",
+      "startDate": "1999-09-01",
+      "endDate": "2002-11-01",
+      "summary": "Assist with payroll processing. Assist with accounts payable/accounts receivable.",
+      "highlights": [
+        "Assist with payroll processing."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "City University of New York, Brooklyn College",
+      "url": "",
+      "area": "Accountancy",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "2006-06-01",
+      "score": "",
+      "courses": [
+        "Accountancy"
+      ]
+    },
+    {
+      "institution": "Kingsborough Community College",
+      "url": "",
+      "area": "Liberal Arts",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "2001-06-01",
+      "score": "",
+      "courses": [
+        "Liberal Arts"
+      ]
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Microsoft Office (Word, Excel, Power Point)",
+      "level": "Expert",
+      "keywords": []
+    },
+    {
+      "name": "Account reconciliation",
+      "level": "Expert",
+      "keywords": []
+    },
+    {
+      "name": "General ledger accounting",
+      "level": "Expert",
+      "keywords": []
+    },
+    {
+      "name": "Basic experience with QuickBooks Enterprise Solutions 9.0, Sage/MAS Software, Peachtree, and Microsoft Access",
+      "level": "Intermediate",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Russian",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

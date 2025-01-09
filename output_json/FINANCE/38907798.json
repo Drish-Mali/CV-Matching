@@ -1,0 +1,91 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Senior Finance Manager",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Highly driven finance professional with over 8 years of progressive experience in the advertising and entertainment industry. Extremely proficient with managing month-end, quarter-end, and year-end deadlines.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Senior Finance Manager",
+      "url": "",
+      "startDate": "2015-01-01",
+      "endDate": "2016-01-01",
+      "summary": "Supervised the media finance, production, client finance, accounts payable and accounts receivable departments. Managed the monthly accounting close and consolidation of monthly reports. Managed the monthly accounting close efficiently and accurately. Prepared monthly financial statements (Balance Sheet, P&L, Cash Flow) & variance analysis for the company. Analyzed intercompany transactions and oversaw monthly reconciliations. Provided weekly cash flow projections to CFO and managed cash balances with Dir. of Treasury. Managed internal and external audits, ensured good and effective internal controls were in place. Assisted in establishing accounting and operational policies/procedures as well as consistent reporting for each department. Assisted in leading the implementation of Maconomy system across the office which includes training and streamlining policies. Reviewed and posted all entities' journal entries ensuring completeness and accuracy. Ensured that all monthly balance sheet reconciliations are completed and any reconciling items are addressed and resolved. Coordinated and served as primary contact with Company's external auditors, ensuring that accounting transactions are complete and accurate prior to external audits. Managed internal and external audits, ensured good and effective internal controls were in place. Provided timely reporting to department heads and upper management.",
+      "highlights": [
+        "Staff management/development",
+        "Balance sheet reconciliations",
+        "Process improvement",
+        "Managing audit requests",
+        "Financial reporting",
+        "Cash flow analysis",
+        "Budget development",
+        "Excellent research and financial analysis abilities Microsoft Excel, Microsoft Word, and Microsoft PowerPoint. Experience with SAP R3/BW, Maconomy, Business Objects, JD Edwards"
+      ]
+    },
+    {
+      "name": "Ogilvy Public Relations",
+      "position": "Client Finance Manager",
+      "url": "",
+      "startDate": "2015-01-01",
+      "endDate": "2015-01-01",
+      "summary": "Manage the billing function for the West region. Prepare and provide weekly revenue trending analysis to account teams. Prepare monthly staff utilization/projections reports to senior account leads. Assist account teams with new vendor set-up, vendor invoice processing, and purchase order set-up. Primary point of contact for all A/P inquiries. Conduct timesheet audits and follow up with staff on the submitting and approving of weekly timesheets. Provide ad hoc reports and analysis to account and finance teams.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Argosy University",
+      "url": "",
+      "area": "Auditing & Fraud Examination",
+      "studyType": "Masters of Business Administration",
+      "startDate": "",
+      "endDate": "2011-12-01",
+      "score": "",
+      "courses": [
+        "Fraud Examination: Theories and Methods",
+        "Fraud Auditing and Financial Analysis",
+        "Internal Auditing and Control Management",
+        "Legal Aspects of Fraud",
+        "Investigation, and Expert Testimony"
+      ]
+    },
+    {
+      "institution": "University of Southern California",
+      "url": "",
+      "area": "Corporate Finance & Advertising and Promotion Strategy",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "2006-05-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Accounting",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

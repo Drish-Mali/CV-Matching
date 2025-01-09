@@ -1,0 +1,86 @@
+{
+   "basics": {
+      "name": "",
+      "label": "Manufacturing Technician Ops Coordinator",
+      "image": "",
+      "email": "",
+      "phone": "",
+      "url": "",
+      "summary": "To apply my current education to obtain placement in an agency that provides services to clients who are seeking treatment for substance use/abuse, Intimate Partner Violence , and PTSD.",
+      "location": {
+         "address": "",
+         "postalCode": "",
+         "city": "",
+         "countryCode": "",
+         "region": ""
+      },
+      "profiles": []
+   },
+   "work": [
+      {
+         "name": "",
+         "position": "Volunteer",
+         "url": "",
+         "startDate": "2015-01-01",
+         "endDate": "2017-04-01",
+         "summary": "I worked in a booth that displayed business like clothes and shoes for homeless women and men to reintegrate them into the workforce.",
+         "highlights": ["Volunteered at Albuquerque Fashion Week.", "Helped organize a charity walk that raised money for individuals living with Chiari."]
+         },
+      { 
+         "name": "",
+         "position": "Manufacturing Technician Ops Coordinator",
+         "url": "",
+         "startDate": "2001-01-01",
+         "endDate": "2007-09-01",
+         "summary": "Responsible for communicating area priorities, maintaining Gas equipment that entailed mechanical adjustments ensuring proper alignments and handing of the wafers.",
+         "highlights": ["Certified Level 2 Ops Coordinator for Wet Etch and Thin Films", "Certified Level 2 Trainer"]
+      }
+   ],
+   "volunteer": [],
+   "education": [
+      {
+         "institution": "New Mexico Highlands University",
+         "url": "",
+         "area": "Social Work",
+         "studyType": "Bachelor",
+         "startDate": "",
+         "endDate": "2015-12-31",
+         "score": "4.0",
+         "courses": []
+      },
+      {
+         "institution": "Central New Mexico Community College",
+         "url": "",
+         "area": "Child, Youth, and Family Development Social Work",
+         "studyType": "Associate",
+         "startDate": "",
+         "endDate": "2014-12-31",
+         "score": "3.96",
+         "courses": []
+      },
+      {
+         "institution": "ITT Technical Institute",
+         "url": "",
+         "area": "Electronic Engineering Technology",
+         "studyType": "Associate",
+         "startDate": "1998-01-01",
+         "endDate": "2000-12-31",
+         "score": "3.96",
+         "courses": []
+      }
+   ],
+   "awards": [],
+   "certificates": [],
+   "publications": [],
+   "skills": [
+      {
+         "name": "",
+         "level": "",
+         "keywords": ["Approach", "agency", "child care", "client", "clients", "Fashion", "futures", "mechanical", "meetings", "money", "works", "quality", "Safety"]
+      }
+   ],
+   "languages": [],
+   "interests": [],
+   "references": [],
+   "projects": []
+}

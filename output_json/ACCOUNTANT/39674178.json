@@ -1,0 +1,91 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Staff Accountant",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Motivated, enthusiastic and cheerful seeking a position that involves community, assisting city residence and positively interacting with people.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "US",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Staff Accountant",
+      "url": "",
+      "startDate": "2015-01-01",
+      "endDate": "2016-01-01",
+      "summary": "Maintain accurate timely accounting records for all entities and includes implementation of accounting policies and procedures.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Federal Accountant",
+      "url": "",
+      "startDate": "2012-01-01",
+      "endDate": "2015-01-01",
+      "summary": "Responsible for recording and depositing federal payments.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Resource Officer",
+      "url": "",
+      "startDate": "2003-01-01",
+      "endDate": "2011-01-01",
+      "summary": "Responsible for the recording, reporting and reconciling over $200,000,000.00 of expenditures within the U.S. Marine Corps Accounting system.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Financial Management Resource Analyst",
+      "url": "",
+      "startDate": "1987-01-01",
+      "endDate": "2003-01-01",
+      "summary": "Complied with federal, state, and Department of Defense (DOD) policies, procedures, and regulations.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Park University",
+      "url": "",
+      "area": "Management",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "2008-01-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Navy & Marine Corps Commendation Medal",
+      "date": "",
+      "awarder": "USMC",
+      "summary": ""
+    }
+  ],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Administration",
+      "level": "Advanced",
+      "keywords": ["Team Player", "Supervision and training", "Sound judgment", "Administrative Skills", "Budget Allocation", "Budget Analysis", "Calm under pressure", "Budget Development", "Budget Forecasts"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

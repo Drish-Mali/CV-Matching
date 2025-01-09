@@ -1,0 +1,85 @@
+{
+  "basics": {
+    "name": "Working RF Systems Engineer",
+    "label": "RF Systems Engineer",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Multidisciplinary background: RF hardware designs, manufacturing operations and data analyst. Experienced in developing hardware's DFM procedures, checklists and requirements to subcontractors. Perform EVT, DVT, PVT verifications and utilize FA process to drive root cause from system to unit level. Ability to manage multiple projects simultaneously, self-starter with innovation and sharp attention to details.",
+    "location": {},
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Working RF Systems Engineer",
+      "url": "",
+      "startDate": "May 2014",
+      "endDate": "Current",
+      "summary": "New RF systems introduction on satellite communication architecture designs and proposals. Define RF hardware unit DFM procedures and requirements for Antenna, receivers, filters, and amplifiers. Lead suppliers by providing technical design specifications and testing requirements to meet SSL standards. Utilize FA process to monitor overall project field performance.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "System Data Analyst",
+      "url": "",
+      "startDate": "August 2011",
+      "endDate": "December 2013",
+      "summary": "Prioritize and extract big data from Purdue University's SQL database and maintain its accuracy and completeness. Develop and implement data collection systems strategies that optimize statistical efficiency and data quality. Data manipulation language SQL commands and utilize statistical tools including Excel, SAS, and SPSS.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Electrical/Validation Engineer",
+      "url": "",
+      "startDate": "May 2011",
+      "endDate": "August 2011",
+      "summary": "Develop and maintain data requirement for PCBA EVT, DVT, and PVT assembly for touch-pads. Design and implement automated test for sensitivity, packrat, hovering, profiles, ripple, GSM, EMI, and ESD. Monitor manufacturer IC packaging test yields and field return failure data to identify root cause.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "PURDUE UNIVERSITY",
+      "url": "",
+      "area": "Electrical and Computer Engineering",
+      "studyType": "M.S",
+      "startDate": "",
+      "endDate": "Dec 2013",
+      "score": "3.9/4.0",
+      "courses": []
+    },
+    {
+      "institution": "PURDUE UNIVERSITY",
+      "url": "",
+      "area": "Electrical and Computer Engineering",
+      "studyType": "B.S",
+      "startDate": "",
+      "endDate": "Dec 2011",
+      "score": "3.2/4.0",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "PURDUE UNIVERSITY",
+      "releaseDate": "",
+      "url": "",
+      "summary": "Innovative laptop radar design to operate in both FMCW and CW mode. Doppler shift (DTI), ranging (RTI), and SAR measurement capability. Operate in ISM frequency band with +13dBm transmitting power. Data acquisition and signal processing using Matlab."
+    }
+  ],
+  "skills": [
+    {
+      "name": "RF Systems Engineering",
+      "level": "",
+      "keywords": ["big data", "C", "C++", "charts", "Circuit design", "hardware", "Data acquisition", "data analyst", "data collection", "data mining", "databases", "database", "dBm", "DTI", "design software", "documentation", "functional", "GSM", "innovation", "Java", "LabView", "Team leader", "Logic Analyzer", "Mac", "manufacturing processes", "Matlab", "Excel", "Microsoft office", "Office", "Microwave", "Radar", "NCs", "Network", "dB", "packaging", "pivot tables", "Programming", "project design", "proposals", "Publication", "Python", "quality", "requirement", "research", "SAS", "self-starter", "Spectrum analyzer", "SPSS", "SQL", "SSL", "statistics", "surveys", "system design", "troubleshooting", "validation"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

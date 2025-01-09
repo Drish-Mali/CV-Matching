@@ -1,0 +1,171 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Director, Compounding Sales Specialist",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Highly organized and talented sales professional who effectively multi-tasks and balances customer needs with company demands. Efficiently builds loyalty and long-term relationships with customers, while consistently reaching and exceeding sales targets.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "",
+        "username": "",
+        "url": ""
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Director, Compounding Sales Specialist",
+      "url": "",
+      "startDate": "1997-07-01",
+      "endDate": "2015-03-01",
+      "summary": "Talented sales professional who effectively multi-tasks and balances customer needs with company demands. Efficiently builds loyalty and long-term relationships with customers, while consistently reaching sales targets.",
+      "highlights": [
+        "Exceed sales goals.",
+        "Monitor customers preferences to determine focus of sales efforts.",
+        "Numerous sales awards for most new accounts signed monthly and most dollars in revenue.",
+        "Plan sales events.",
+        "Present PowerPoint presentations at events for professionals and the public.",
+        "Train new sales representatives on all aspects of compounding.",
+        "Respond to all customers inquires in a timely manner.",
+        "Maintain friendly and professional customer interactions."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Healthcare Services Supervisor",
+      "url": "",
+      "startDate": "1996-04-01",
+      "endDate": "1997-06-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Branch Manager",
+      "url": "",
+      "startDate": "1994-06-01",
+      "endDate": "1996-03-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Staffing Coordinator",
+      "url": "",
+      "startDate": "1983-08-01",
+      "endDate": "1994-06-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Front End Manager/Cashier",
+      "url": "",
+      "startDate": "1981-06-01",
+      "endDate": "1983-07-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "L.P.N. Staff Nurse & PRN Charge Nurse",
+      "url": "",
+      "startDate": "1978-06-01",
+      "endDate": "1981-05-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Receptionist",
+      "url": "",
+      "startDate": "1971-01-01",
+      "endDate": "1975-02-01",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "",
+      "position": "",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "GRIFFITHVILLE HIGH SCHOOL",
+      "url": "",
+      "area": "",
+      "studyType": "High School Diploma",
+      "startDate": "",
+      "endDate": "1971-05-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "HARDING COLLEGE",
+      "url": "",
+      "area": "Physical Education/Math",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "1977-05-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "BAPTIST SCHOOL OF NURSING",
+      "url": "",
+      "area": "Nursing",
+      "studyType": "L.P.N",
+      "startDate": "",
+      "endDate": "1978-08-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Administrative Functions",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Selling and Relationship Building",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Office, Word, PowerPoint, Excel",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "CRM Software: Sugar and Sales Logix",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

@@ -1,0 +1,106 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Accountant II",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "A Professional Accountant with more than 10 years of full-range, progressive accounting experience in general accounting and financial reporting. Have a solid understanding of GAAP and experience in Regulatory (Statutory) STAT Accounting Principles. Proven ability to manage multiple assignments while meeting tight deadline schedules.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "US",
+      "region": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Accountant II",
+      "url": "",
+      "startDate": "2016-10",
+      "endDate": "Current",
+      "summary": "Responsible for CL500 - Events Clearing. Revenue 506000, 570496/670496. LB49R no Other Revenues. Month End Deficit Funds and Account Analysis.",
+      "highlights": [
+        "Run allocation and reconciliation Admi",
+        "Fees on Revenues (FDN 6%, 49R 5%)",
+        "Journal generate CRG, CPG, CTL, CFM, CPP and CPS",
+        "Responsible to review 90-days & over (Grants) and 30 days (Others) Accounts Receivable",
+        "Account reconciliations",
+        "Clean the M0380 Fund Balance",
+        "Daily AR Payment Application",
+        "Responsible FDN-GL Inbox"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Grant Accountant",
+      "url": "",
+      "startDate": "2014-09",
+      "endDate": "2016-11",
+      "summary": "Responsible for independently performing a full range of work in general accounting and financial reporting using knowledge of generally accepted accounting principles and practices and a working knowledge of governmental accounting methods.",
+      "highlights": [
+        "Monthly account reconciliations (AR & Revenue Collected in Advance for Grants)",
+        "Monthly recon for drawdown grants"
+      ]
+    }
+  ],
+  "volunteer": [
+  ],
+  "education": [
+    {
+      "institution": "University of the Philippines",
+      "url": "",
+      "area": "",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "2001-11",
+      "score": "",
+      "courses": [
+        "Certified Public Accountant (CPA licensed in the Philippines)"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "2004 Employee of the Year Award",
+      "date": "2004-01-01",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "certificates": [
+  ],
+  "publications": [
+  ],
+  "skills": [
+    {
+      "name": "Accounting",
+      "level": "Expert",
+      "keywords": [
+        "GAAP",
+        "Regulatory (Statutory) STAT Accounting",
+        "Account reconciliations",
+        "Accounts Payable",
+        "Accounts Receivable",
+        "General Ledger Entries & Audits",
+        "Financial Analysis & Reporting",
+        "Business Accounting Process Improvements",
+        "Microsoft Office Proficient",
+        "Fixed Asset Accounting",
+        "Cash and Bank Reconciliations"
+      ]
+    }
+  ],
+  "languages": [
+  ],
+  "interests": [
+  ],
+  "references": [
+  ],
+  "projects": [
+  ]
+}

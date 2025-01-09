@@ -1,0 +1,73 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Senior Manager of Customer Support",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "https://www.linkedin.com/in/jesi-crane-53995933",
+    "summary": "Charismatic business professional successful at managing business ventures and profit positions. Effectively guides new products and services from concept to market acceptance. Experienced in sales management, marketing, technical presentation creation and service training. Devoted to building strategic partnerships through persuasion, negotiation and personal presence.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "jesi-crane-53995933",
+        "url": "https://www.linkedin.com/in/jesi-crane-53995933"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Senior Manager of Customer Support",
+      "url": "",
+      "startDate": "2016-02-01",
+      "endDate": "Current",
+      "summary": "Perform all Manager of Customer Support duties in addition to the following:. Meet with major airlines domestically and internationally to secure future business contracts. Reserve travel including airline and hotel accommodations for my department. Utilize company leads to expand current customer base and follow up on all leads promptly via phone, email and customer visits.",
+      "highlights": [
+        "Spearheaded all company-wide prospecting, marketing and closing endeavors. Brought on NASA and Southwest Airlines as clients.",
+        "Collaborated with prospective clients to prepare efficient product marketing strategies and drive business development.",
+        "Consistently generated additional revenue through skilled sales techniques."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Manager of Customer Support",
+      "url": "",
+      "startDate": "2013-06-01",
+      "endDate": "2016-01-01",
+      "summary": "Develop maximum sales potential out of major airline customers with excellent customer service techniques and knowledge of products and services, as well as competition's strengths and weaknesses. Build and maintain quality relations with customers to increase the volume of sales on a consistent basis through ongoing determination of customer needs. Evaluate and calculate prices, discounts and proposals to meet specific customer requirements in an efficient manner. Train customer support representatives when required.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Customer Support",
+      "level": "Senior",
+      "keywords": [
+        "Customer Service",
+        "Sales Management",
+        "Marketing",
+        "Technical Presentation Creation",
+        "Persuasion",
+        "Negotiation",
+        "Personal Presence"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

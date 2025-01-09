@@ -1,0 +1,163 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Placement Agent / Dorado Beach Resort",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "An accomplished banking professional with a wealth of expertise in financial analysis, credit analysis, corporate transactions, and mergers & acquisitions. Skilled in various financial softwares and tools like DBC Finance, Argus Real Estate, SNL Financial, Bloomberg, Capital IQ, Thomson One Banker, and Factset. Holds a FINRA Series 7 License and is an expert in MS Excel.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Placement Agent / Dorado Beach Resort",
+      "url": "",
+      "startDate": "2014-05-01",
+      "endDate": "current",
+      "summary": "Structured the Platinum Banking team of FirstBank Puerto Rico (NYSE: FBP). Led a team of experienced banking professionals dedicated to serving Act 20/22 clients on all financial needs. Services include business and individual deposit accounts, commercial loans, cash management services, high-yield accounts, credit cards, mortgages, leasing, OREOs and other resources available at the Bank.",
+      "highlights": []
+    },{
+      "name": "Company Name",
+      "position": "Placement Agent / Dorado Beach Resort",
+      "url": "",
+      "startDate": "2007-01-01",
+      "endDate": "2012-12-31",
+      "summary": "Achieved 45% market share with over 200 clients in less than 1 year. Created dynamic financial models for sell-side and buy-side advisory transactions. Analyzed AFICA's new money and refunding debt, as well as equity offerings for issuers, including hotel and real estate developments, financial institutions, general industrials, the Government of Puerto Rico and several of its authorities.",
+      "highlights": []
+    },{
+      "name": "Company Name",
+      "position": "Summer Analyst / Analyst",
+      "url": "",
+      "startDate": "2006-01-01",
+      "endDate": "2007-01-31",
+      "summary": "Advised Technology, Media and Telecom clients on potential transactions, including: mergers, acquisitions, private equity investments, leveraged buyouts, and capital raising. Involved in all aspects of deal generation and implementation.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Yale University",
+      "url": "",
+      "area": "Economics and Latin American Studies",
+      "studyType": "Bachelor",
+      "startDate": "2002-09-01",
+      "endDate": "2006-06-01",
+      "score": "3.6",
+      "courses": []
+    },
+    {
+      "institution": "Academia del Perpetuo Socorro High School",
+      "url": "",
+      "area": "General Studies",
+      "studyType": "High School",
+      "startDate": "1998-09-01",
+      "endDate": "2002-06-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [{
+      "title": "NCAA / ITA Varsity Scholar-Athlete Award Winner",
+      "date": "",
+      "awarder": "Yale University",
+      "summary": ""
+    },{
+      "title": "Recipient of Stuart B. Ludlum Award '69",
+      "date": "",
+      "awarder": "Yale University",
+      "summary": ""
+    }
+  ],
+  "certificates": [{
+      "name": "FINRA Series 7 License",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Finance",
+      "level": "",
+      "keywords": [
+        "DBC Finance",
+        "Argus Real Estate",
+        "SNL Financial",
+        "Bloomberg",
+        "Capital IQ",
+        "Thomson One Banker",
+        "Factset",
+        "MS Excel"
+      ]
+    },{
+      "name": "Investment Banking",
+      "level": "",
+      "keywords": [
+        "Mergers",
+        "Acquisitions",
+        "Private Equity",
+        "Investments",
+        "Leveraged Buyouts",
+        "Capital Raising"
+      ]
+    },{
+      "name": "Transactions & Sales",
+      "level": "",
+      "keywords": [
+        "Commercial Loans",
+        "Leasing",
+        "Loans",
+        "Middle Market",
+        "Closing",
+        "Exchange",
+        "Fixed Income",
+        "Sales Tax"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "fluent"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "native"
+    },  
+    {
+      "language": "Portuguese",
+      "fluency": "intermediate"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Sports",
+      "keywords": [
+        "Marathon Running",
+        "Tennis",
+        "N.Y. Yankees",
+        "N.Y. Giants"
+      ]
+    },{
+      "name": "Others",
+      "keywords": [
+        "Military History",
+        "Politics",
+        "Traveling"
+      ]
+    }
+  ],
+  "references": [],
+  "projects": []
+}

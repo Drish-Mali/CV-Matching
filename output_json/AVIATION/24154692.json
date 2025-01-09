@@ -1,0 +1,123 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Quality Assurance Manager",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Outgoing Quality Assurance Manager with 8 years of managerial experience in Aerospace. Committed to high standards of product inspections and customer service with extensive knowledge of EVO & Microsoft office use. Adept at collaborative with various departments for comprehensive quality control. Methodical with superb problem-solving and analytical abilities.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Quality Assurance Manager",
+      "url": "",
+      "startDate": "07/2011",
+      "endDate": "Current",
+      "summary": "Specifies quality requirements of raw materials with suppliers, records and analyses statistical information, and reports production malfunctions to managers and production supervisors. Inspects products and worker progress throughout production and provides analytical, planning and coordination support on projects as assigned.",
+      "highlights": [
+        "Implemented NADCAP AC7108/1 throughout the facility.",
+        "Initiated and implemented CMMC Compliance.",
+        "Created and administered FOD Program compliant to NAS412."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Program Director",
+      "url": "",
+      "startDate": "01/2005",
+      "endDate": "01/2012",
+      "summary": "Responsible for overseeing the overall planning and execution of education related activities...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Purchasing Coordinator",
+      "url": "",
+      "startDate": "01/2008",
+      "endDate": "01/2010",
+      "summary": "Monitored all purchase requisitions and handled adjustments with vendors...",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Liberty Eylau High School",
+      "url": "",
+      "area": "General Studies",
+      "studyType": "High School Diploma",
+      "startDate": "",
+      "endDate": "05/1998",
+      "score": "summa cum laude",
+      "courses": [
+        "General Studies"
+      ]
+    },
+    {
+      "institution": "Ivy Tech Community College Of Indiana",
+      "url": "",
+      "area": "General Studies",
+      "studyType": "N/A",
+      "startDate": "",
+      "endDate": "",
+      "score": "Dean's List 2004 & 2005",
+      "courses": [
+        "General Studies"
+      ]
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Certified Six Sigma Green Belt",
+      "date": "2020",
+      "issuer": "Aveta Business Institute",
+      "url": ""
+    },
+    {
+      "name": "ISO 9001:2015 Internal Auditor Training",
+      "date": "2019",
+      "issuer": "Purdue University",
+      "url": ""
+    },
+    {
+      "name": "NADCAP Audit Criteria AC7108/1 Rev C",
+      "date": "2019",
+      "issuer": "Purdue University",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Quality Assurance",
+      "level": "",
+      "keywords": [
+        "Process Improvement",
+        "Knowledge Of Quality Systems",
+        "6S/LEAN/KAIZEN Principles",
+        "Audit Coordination",
+        "Compliance/Regulations",
+        "Quality Management",
+        "Identify/Analyze/Resolve Problems",
+        "Process Control",
+        "Supplier Quality",
+        "Employee Supervision"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

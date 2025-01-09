@@ -1,0 +1,132 @@
+{
+  "basics": {
+    "name": "John Doe",
+    "label": "Intern",
+    "summary": "Client Negotiation and Mediation skills. Client Relationship building/management derived through experience. Problem identification and Solution Development Impressive management experience in systemization and regulatory compliance.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "USA",
+      "region": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Intern",
+      "startDate": "2014-09",
+      "endDate": "2015-07",
+      "summary": "Updated proposals in compliance with CME operational standards.",
+      "highlights": [
+        "Helped to coordinate and/or actively participate in various educational programs, meetings, and luncheons for the medical staff.",
+        "Developed an increased awareness of the southland's competitive market for healthcare services.",
+        "Maintained ongoing professionalism and strong interpersonal skills needed to achieve the goals of the department.",
+        "Developed a working knowledge of word and excel worksheets.",
+        "Executed all phases of credentialing for providers and facilities.",
+        "Completed credentialing and re-credentialing for facilities and practitioners.",
+        "Contacted providers/practitioners for information to comply with all federal, state and local regulations.",
+        "Maintained provider files with current documentation for individuals and facilities.",
+        "Served as a source of information regarding the status of credentialing activities.",
+        "Assisted in the design and execution of programs that contributed to a [%] growth of the organization in the [year] fiscal year."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Real Estate Broker",
+      "startDate": "2002-01",
+      "endDate": "2014-01",
+      "summary": "Manage daily operations in assisting buyers and sellers in obtaining financing and housing to meet their unique qualifications and situations.",
+      "highlights": [
+        "Networked with mortgage companies and other affiliates to bring closing in the housing process.",
+        "Delegated correct responsibilities needed for positioning clients into the right programs.",
+        "Organized work schedule to achieve timely processing of all responsibilities.",
+        "Maintained client/vendor database by utilization of data entry."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Personal Care Attendant",
+      "startDate": "2008-01",
+      "endDate": "2012-01",
+      "summary": "Fostered interdisciplinary relationships by negotiation and consensus building to attain goals for all disciplines.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Mortgage Consultant",
+      "startDate": "2002-01",
+      "endDate": "2011-01",
+      "summary": "Originated residential mortgages locally, including home purchases, refinance transactions, new construction and small commercial lending working closing with clients and staff.",
+      "highlights": [
+        "Compiled required documentation for quick expediting and processing conducive with underwriting guidelines.",
+        "Formed synergistic relationships with industry partners in core market."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Prairie State Jr. College",
+      "area": "Psychology",
+      "studyType": "Associate of Arts",
+      "startDate": "",
+      "endDate": "2012-05",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Governor's State University",
+      "area": "Health Administration",
+      "studyType": "Bachelor of Health Administration",
+      "startDate": "",
+      "endDate": "2014-12",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Governor's State University",
+      "area": "Nursing Home Administration",
+      "studyType": "Associate of Arts",
+      "startDate": "",
+      "endDate": "2014",
+      "score": "Dean's List",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Deans List",
+      "date": "2014",
+      "awarder": "Governor's State University",
+      "summary": "Academic Achievement Award"
+    },
+    {
+      "title": "NHA certification",
+      "date": "2014",
+      "awarder": "Governor's State University",
+      "summary": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Professional Skills",
+      "level": "",
+      "keywords": [
+        "Motivation techniques",
+        "Conflict resolution Cultural awareness and sensitivity",
+        "Government relations knowledge",
+        "Critical thinking proficiency",
+        "Patient-oriented",
+        "Personal and professional integrity",
+        "Relationship and team building"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

@@ -1,0 +1,147 @@
+{
+  "basics": {
+    "name": "",
+    "label": "General Manager",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Company that would offer growth within the organization. I am easily adaptable, maintain a high regard for attention to detail, and I bring a strong background in coaching/development of teams. I am looking to work for a company that will utilize my talents to the fullest while offering opportunities for growth. I want to work within a partnership that will challenge me to my fullest potential.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "General Manager",
+      "url": "",
+      "startDate": "10/2013",
+      "endDate": "09/2016",
+      "summary": "Open a new store location and assist in recruiting and training new staff. Stock and restock inventory when shipments are received. Design and implement customer satisfaction metrics. Work closely with the district manager to formulate and build the store brand. Trained all new managers on store procedures and policies.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "General Manager",
+      "url": "",
+      "startDate": "05/2010",
+      "endDate": "06/2013",
+      "summary": "Addressed customer inquiries and resolved complaints. Delivered excellent customer service by greeting and assisting each customer. Stocked and restocked inventory when shipments were received. Reorganized the sales floor to meet company demands. Trained all new managers on store procedures and policies.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "General Manager",
+      "url": "",
+      "startDate": "09/2008",
+      "endDate": "07/2010",
+      "summary": "Delivered excellent customer service by greeting and assisting each customer. Opened a new store location and assisted in recruiting and training new staff. Design and implemented customer satisfaction metrics. Stocked and restocked inventory when shipments were received. Reorganized the sales floor to meet company demands. Trained all new managers on store procedures and policies. Addressed and corrected sales staff communication issues in a tactful and effective manner.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "General Manager",
+      "url": "",
+      "startDate": "11/2002",
+      "endDate": "08/2008",
+      "summary": "Addressed and corrected sales staff communication issues in a tactful and effective manner. Analyzed marketing information and translated it into strategic plans. Trained staff to deliver outstanding customer service. Trained all new managers on store procedures and policies. Opened a new store location and assisted in recruiting and training new staff.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Apparel Manager",
+      "url": "",
+      "startDate": "09/1998",
+      "endDate": "08/2002",
+      "summary": "Delivered excellent customer service by greeting and assisting each customer. Addressed customer inquiries and resolved complaints. Stocked and restocked inventory when shipments were received. Reorganized the sales floor to meet company demands. Directed and supervised employees engaged in sales, inventory-taking and reconciling cash receipts. Trained staff to deliver outstanding customer service.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Florida International University",
+      "url": "",
+      "area": "Biology",
+      "studyType": "Associate of Science",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Coaching",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Inventory Control",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Italian",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "MS Windows",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Oracle",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Payroll",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Sales",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Scheduling",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Staff Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Visual Merchandising",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "fluent"
+    },
+    {
+      "language": "Italian",
+      "fluency": "some"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

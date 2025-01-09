@@ -1,0 +1,90 @@
+{
+  "basics": {
+    "name": "",
+    "label": "EXECUTIVE CHEF",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Executive Chef with a two year culinary degree and one year experience in high-pressure culinary environment. Skilled in preparing large volumes of food quickly and efficiently. Seeking to use culinary skills and expertise to prepare a special variety of dishes in a professional, rewarding environment.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "US",
+      "region": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Executive Chef",
+      "url": "",
+      "startDate": "January 2014",
+      "endDate": "October 2014",
+      "summary": "Responsible in planning all aspects of dietary operations, including setting priorities and job assignments for a one hundred and twenty person assisted health care facility to include seventy five staff members.",
+      "highlights": [
+        "Managed dietary budget to include labor cost, forecasting, and ordering. Responsible for the quality and appearance of food, the morale of the staff. Developed positive relationships on behalf of company with residents, families, and state and local government officials."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Associate Pastor",
+      "url": "",
+      "startDate": "March 2013",
+      "endDate": "Current",
+      "summary": "Assist Senior Pastor as the church's Outreach Minister by mentoring and counselling members of the church and community who have or is continuing to struggle with drugs and alcohol.",
+      "highlights": [
+        "Prepared when called upon to preach sermons and assume leadership role when the Senior Pastor is away. Responsible for preparing Wednesday Evening Meals for up to seventy five church members."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Vanguard University of Southern Cal",
+      "url": "",
+      "area": "Ministry/Leadership",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "2010",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Meridian Community CollegeMeridianMS",
+      "url": "",
+      "area": "Culinary Arts Degree",
+      "studyType": "Culinary",
+      "startDate": "",
+      "endDate": "12 2014",
+      "score": "",
+      "courses": [
+        "Food Preparation", 
+        "Kitchen Management", 
+        "Patisserie and Confectionery", 
+        "International Cuisine"
+      ]
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Culinary Skills",
+      "level": "",
+      "keywords": [
+        "High volume production capability",
+        "Focus on portion and cost control",
+        "Focused and disciplined",
+        "Inventory management familiarity"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

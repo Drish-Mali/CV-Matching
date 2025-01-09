@@ -1,0 +1,82 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Automobile Service Manager",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Attentive Automobile Service Manager with comprehensive knowledge of the automobile industry. Adept at providing an optimal level of customer support that includes speedy resolutions to customer service issues. Specialize in managing an able staff to meet customer expectations.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "",
+      "region": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Automobile Service Manager",
+      "url": "",
+      "startDate": "2013-05-01",
+      "endDate": "Current",
+      "summary": "Ensured that warranty specifications were upheld when work was performed. Managed vehicle repair requests and regular service appointments. Maintained inventory of replacement parts and prepared purchase orders. Prepared shop displays of auto parts. Inspected vehicle repairs. Provided regular employee evaluations. Ensured compliance with shop standards.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Automobile Service Manager",
+      "url": "",
+      "startDate": "2011-06-01",
+      "endDate": "2013-05-01",
+      "summary": "Clearly defined employee responsibilities and tracked performance. Assisted with initial diagnostics and supervised vehicle work. Ensured that customer and employee areas were kept clean and organized. Managed service requests and prepared a database listing such requests. Ensured timely completion of vehicle services. Coordinated with sales team to prepare marketing strategies.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of California",
+      "url": "",
+      "area": "Automotive Technology",
+      "studyType": "Bachelor's Degree",
+      "startDate": "2011-01-01",
+      "endDate": "2011-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "University of California",
+      "url": "",
+      "area": "Business Management",
+      "studyType": "Associate's Degree",
+      "startDate": "2014-01-01",
+      "endDate": "2014-12-31",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Automobile Management",
+      "level": "",
+      "keywords": [
+        "vehicle repairs",
+        "database",
+        "inventory",
+        "marketing strategies",
+        "sales"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

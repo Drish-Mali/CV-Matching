@@ -1,0 +1,116 @@
+{
+  "basics": {
+    "name": "Unknown",
+    "label": "Founder and Project Manager",
+    "image": "",
+    "email": "Unknown",
+    "phone": "Unknown",
+    "url": "Unknown",
+    "summary": "A result-driven, client-centric, and committed Client Services Officer with over seven years of experience in the financial services industry. Bringing expertise, enthusiasm, and passion to serve above and beyond client's needs, build relationships, and maximize potential profitability and productivity.",
+    "location": {
+      "address": "Unknown",
+      "postalCode": "Unknown",
+      "city": "Unknown",
+      "countryCode": "Unknown",
+      "region": "Unknown"
+    },
+    "profiles": [
+      {
+        "network": "Unknown",
+        "username": "Unknown",
+        "url": "Unknown"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Founder and Project Manager",
+      "url": "Unknown",
+      "startDate": "2012-10",
+      "endDate": "2015-06",
+      "summary": "Directed and coordinated activities to build an online platform for Vietnam's SMEs and companies. Fostered communication internationally with team members on project targets, achievements, and improvements. Researched Vietnamese market to assess risk and opportunity to help develop and implement objectives.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Client Service Officer, Associate",
+      "url": "Unknown",
+      "startDate": "2007-02",
+      "endDate": "2012-10",
+      "summary": "Served as a primary contact for clients and liaised with manager, trading desk, operations, custodians, and other related third-parties on a daily basis. Produced daily report for collateral portfolios totaling over $1.7B utilizing Bloomberg and other in-house systems; and reported them timely and consistently to top-tier clients and upper management.",
+      "highlights": [
+        "Received 100% client satisfaction rate and achieved all repeated businesses for 5 consecutive years",
+        "Successfully administered and serviced a brand-new securitized product",
+        "Diligently monitored and ensured that account transactions were clear of red flags for fraud, embezzlement, money laundering, false accounting statements, organized crime, and terrorist financing"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Financial Analyst",
+      "url": "Unknown",
+      "startDate": "2004-02",
+      "endDate": "2006-01",
+      "summary": "Managed more than 100 corporate trust portfolios with a combined market value in excess of $15B and consisted of an eclectic variety of financial instruments.",
+      "highlights": [
+        "Increased productivity and manageability for 700 collateral accounts through reorganization and restructure",
+        "Achieved revenue growth for our department by taking on 10 additional reinsurance collateral accounts"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Rutgers University, Rutgers Business School",
+      "url": "Unknown",
+      "area": "Finance",
+      "studyType": "B.S",
+      "startDate": "Unknown",
+      "endDate": "2004",
+      "score": "Unknown",
+      "courses": []
+    },
+    {
+      "institution": "American Bankers Association",
+      "url": "Unknown",
+      "area": "Corporate Trust",
+      "studyType": "Certification",
+      "startDate": "Unknown",
+      "endDate": "2011",
+      "score": "Unknown",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "affiliations": [
+    {
+      "organization": "Women On Wall Street",
+      "since": "2007"
+    },
+    {
+      "organization": "Princeton in Asia",
+      "since": "2007"
+    },
+    {
+      "organization": "local charities in Vietnam",
+      "since": "2007"
+    },
+    {
+      "organization": "Business English for Professionals and Entrepreneurs",
+      "position": "Founder",
+      "since": "2015"
+    },
+    {
+      "organization": "Vietnam Entrepreneurs of Today and Tomorrow Network",
+      "position": "Founder",
+      "since": "2014"
+    }
+  ]
+}

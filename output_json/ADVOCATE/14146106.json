@@ -1,0 +1,78 @@
+{
+  "basics": {
+    "name": "Not Provided",
+    "label": "Customer Service Advocate II",
+    "email": "Not Provided",
+    "phone": "Not Provided",
+    "summary": "Qualified Lead Customer Service Representative with 16 + years in fast-paced customer service utility office environment and Affordable Care Reform. Personable and professional under pressure...",
+    "location": {
+      "address": "Not Provided",
+      "postalCode": "Not Provided",
+      "city": "Not Provided",
+      "countryCode": "US",
+      "region": "Not Provided"
+    }
+  },
+  "work": [
+    {
+      "name": "BlueCross BlueShield",
+      "position": "Customer Service Advocate II",
+      "startDate": "October 2014",
+      "endDate": "March 2015",
+      "summary": "I worked at MarketPlace Operations at BlueCross BlueShield where I provided accurate, prompt and courteous responses to all inquiries...",
+      "highlights": ["CES system", "Aclaims", "Ebill", "PIRS", "FIPS", "SEIU", "RMIM", "RMIH", "INFP's"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Customer Service Representatives",
+      "startDate": "November 1998",
+      "endDate": "September 2014",
+      "summary": "Responsible for entering all payments for the office every day. The money amount was a high as $25,000 some days. Answered an average of 200 call per day...",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Coastal Carolina University",
+      "area": "Education",
+      "studyType": "High School Diploma",
+      "startDate": "Not Provided",
+      "endDate": "Not Provided",
+      "score": "3.6",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Office Skills",
+      "level": "Proficient",
+      "keywords": [
+        "Exceptional communication skills",
+        "Filing and data archiving",
+        "Creative problem solver",
+        "Professional phone etiquette",
+        "MS Windows proficient",
+        "Customer service-oriented",
+        "Quick learner",
+        "Flexible",
+        "Proficient in cash management",
+        "Works well under pressure",
+        "Credit card processing",
+        "Appointment setting",
+        "Advanced clerical knowledge",
+        "High level of accuracy",
+        "Strong account analysis skills",
+        "MS Office expert",
+        "Committed to maintaining data integrity",
+        "Excellent time management skills",
+        "Independent worker",
+        "Detail-oriented",
+        "Computer proficient"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

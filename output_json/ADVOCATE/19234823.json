@@ -1,0 +1,101 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Finance Director",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "To find a new and challenging position that will utilize the skills that I've acquired and help others maximize their skills and potential. Ambitious Financial Manager determined to continually exceed expectations. Willing to take on added responsibilities to achieve desired results.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Finance Director",
+      "url": "",
+      "startDate": "2012-11",
+      "endDate": "Current",
+      "summary": "Analyze and present financial reports to Principals in an accurate and timely manner. Collate financial reporting materials, oversee all financial and project accounting...",
+      "highlights": [
+        "Analyzed budgets, financial reports and projections for accurate reporting of financial standing.",
+        "Managed a $ [Amount] annual budget that grew [Number] % in [Number] years.",
+        "Created an analytical framework for identifying and developing financial growth opportunities.",
+        "Assumed ownership of accounting, forecasting and strategic supply planning."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Office Administration Department Manager",
+      "url": "",
+      "startDate": "1999-05",
+      "endDate": "2012-11",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Accounts Receivable Coordinator",
+      "url": "",
+      "startDate": "1997-05",
+      "endDate": "1999-05",
+      "summary": "Implemented Quickbooks Pro accounting software to enhance efficiency and productivity in Accounts Receivable...",
+      "highlights": [
+        "Designed and analyzed reports used by management to make better business decisions."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "North Carolina Central University",
+      "url": "",
+      "area": "Finance",
+      "studyType": "Bachelor of Business Administration",
+      "startDate": "",
+      "endDate": "1991",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Budgeting and financial management",
+      "level": "",
+      "keywords": [
+        "Exceptional interpersonal communication",
+        "Effective leader",
+        "Staff training/development",
+        "Financial reporting and analysis",
+        "Consistently meet goals",
+        "QuickBooks",
+        "Efficient multi-tasker",
+        "Complex problem solving",
+        "Customer service-oriented",
+        "Highly detail-oriented",
+        "Organized",
+        "Superior time management",
+        "Deadline-oriented",
+        "Exceptionally organized",
+        "Budget development",
+        "Advanced computer proficiency",
+        "Expertise in invoice and payment transactions",
+        "Account reconciliation"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

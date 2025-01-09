@@ -1,0 +1,111 @@
+{
+  "basics": {
+    "name": "<undisclosed>",
+    "label": "Accountant",
+    "image": "",
+    "email": "<undisclosed>",
+    "phone": "<undisclosed>",
+    "url": "",
+    "summary": "I have many years of experience in accounting and finance including: audit, financial analysis, bank reconciliations, accounts payables/receivables, financial statements, month and year end reporting, and budgeting.",
+    "location": {
+      "address": "<undisclosed>",
+      "postalCode": "<undisclosed>",
+      "city": "<undisclosed>",
+      "countryCode": "<undisclosed>",
+      "region": "<undisclosed>"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Accountant",
+      "url": "<undisclosed>",
+      "startDate": "June 2013",
+      "endDate": "Current",
+      "summary": "Responsible for all accounting processes for 45 clients Perform end-of-period closing processes; prepare financial statements, and budgets. Reconcile bank statements, ledger entries and journal entries.",
+      "highlights": [
+        "Over 18 years of experience in accounting",
+        "Manage multiple projects, priorities, deadlines",
+        "Complete and submit food and sales tax license documentation for small businesses"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Accountant",
+      "url": "<undisclosed>",
+      "startDate": "February 2008",
+      "endDate": "March 2013",
+      "summary": "Performed bookkeeping, end-of-period closing process, prepared financial statements, and budgets.",
+      "highlights": [
+        "Managed company financial systems and budget",
+        "Organized and maintained accurate accounting records"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Accounting Manager",
+      "url": "<undisclosed>",
+      "startDate": "January 2000",
+      "endDate": "January 2007",
+      "summary": "Account reconciliation and analysis: Prepaid Expenses, Deposits, Accrued Expenses, Investments, Capital Leases, Members Equity, Inter-company balances.",
+      "highlights": [
+        "Management and supervision of general accounting",
+        "Report on breakeven points by products",
+        "Report on margins by product and division"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Staff Accountant Finance Manager",
+      "url": "<undisclosed>",
+      "startDate": "January 1996",
+      "endDate": "January 2000",
+      "summary": "Prepare working papers and coordinate all audit activity",
+      "highlights": [
+        "Train new and existing staff as needed"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Anticipate Degree",
+      "area": "Accounting",
+      "studyType": "Master",
+      "startDate": "<undisclosed>",
+      "endDate": "Summer 2016",
+      "score": "3.48",
+      "courses": [],
+      "url": "<undisclosed>"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Account Reconciliation",
+      "level": "Advanced",
+      "keywords": [
+        "Accounting",
+        "Accounting Software",
+        "Accounts Payable",
+        "Accounts Receivable",
+        "Balance Sheet",
+        "Billing",
+        "Bookkeeping"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Arabic",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Swedish",
+      "fluency": "Fluent"
+    }
+  ]
+}

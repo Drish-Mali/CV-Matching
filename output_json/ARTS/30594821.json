@@ -1,0 +1,85 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Certified Custom Framer",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "A qualified Certified Custom Framer with experience in multitasking and meeting deadlines. Skilled in providing excellent customer service, problem-solving, and training new associates.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Certified Custom Framer",
+      "url": "",
+      "startDate": "2015-01-01",
+      "endDate": "Current",
+      "summary": "Providing excellent customer service by helping each customer pick a design that best fits their needs. Managing time to meet deadlines. Assisting on the floor or at the register when needed. Training new associates in the frame shop.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Sales Associate",
+      "url": "",
+      "startDate": "2014-09-01",
+      "endDate": "2014-11-01",
+      "summary": "Delivered excellent customer service by greeting and assisting each customer. Filled positions when understaffed or a task needed to be completed. Assisted manager in closing down store and cash registers at the end of each night. Managed visual merchandising through setting planogram and detailed recovery. Stocked inventory when shipments were received. Learned how to work in a team to accomplish greater tasks.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Trinity High School",
+      "url": "",
+      "area": "",
+      "studyType": "High School Diploma",
+      "startDate": "",
+      "endDate": "2014",
+      "score": "4.3",
+      "courses": [
+        "Business manager on yearbook staff"
+      ]
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Certified Custom Framer",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Multitasking",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Problem solving",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Excellent Communication Skills",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

@@ -1,0 +1,86 @@
+{
+"basics": {
+"name": "Staffing Business Development Manager",
+"label": "Business Development Professional",
+"summary": "Results-oriented Business development professional with a 10-year track record of surpassing sales quotas within highly competitive markets across a broad range of industries. Exceptional communicator with a consultative sales style, success in leading effective strategies to improve problem-solving abilities, and a keen client needs assessment aptitude. Aggressively identify opportunities, develop focus, and provide tactical business solutions. To be a part of a growing organization utilizing my business development sales experience, management, and problem-solving skills to increase profits and bolster growth.",
+"location": {
+"city": "City",
+"countryCode": "State"
+}
+},
+"work": [
+{
+"name": "Company Name",
+"position": "Staffing Business Development Manager",
+"startDate": "Dec 2015",
+"endDate": "Current",
+"summary": "Develop new business partnerships with behavioral health facilities, healthcare clinics and special education schools. Actively identify and generate leads through strategic sales and marketing plan. Heavy outbound cold calls targeting employers that are hiring to market internal top talent. Research decision makers in each department to introduce services and setup meeting. Analyze available staffing resources for most efficient placement. Devise and execute strategic recruitment plans. Maintain ongoing follow-up with prospective clients. Continuously evaluate businesses for staffing scenario. Promote team effectiveness through orientation and training"
+},
+{
+"name": "Company Name",
+"position": "Business Development Manager",
+"startDate": "Apr 2010",
+"endDate": "Dec 2015",
+"summary": "Identified new business opportunities through cold calling and strategic research. Established innovative ideas to increase enrollments. Held educational seminars, webinars and networking events. Developed academic plans for degree completion. Recruited qualified applicants for admissions. Maintained sales progress, conversion and related reports. Analyzed market trends to grow business relationships. Designed, planned and negotiated terms on partnership agreements."
+},
+{
+"name": "Company Name",
+"position": "Area Manager",
+"startDate": "May 2001",
+"endDate": "Apr 2010",
+"summary": "Managed 10 sales executives. Trained new employees. Coached and developed team members. Drove operational efficiency by managing inventory count. Monitored sales activities and contract negotiations. Exceeded sales goals. Reviewed financials, contracts and sales records for compliance. Handled escalated customer issues and evaluated client satisfaction. Developed strategies to maintain business relationships."
+}
+],
+"education": [
+{
+"institution": "University of Phoenix",
+"area": "Business Management",
+"studyType": "Bachelor of Science",
+"startDate": "June 2008",
+"courses": [
+"Business Management"
+]
+}
+],
+"skills": [
+{
+"name": "Business Development",
+"level": "Advanced",
+"keywords": [
+"Academic",
+"Behavioral Health",
+"Budgeting",
+"Coaching",
+"Cold Calling",
+"Contract Negotiations",
+"Conversion",
+"Customer Relationship Management",
+"Financials",
+"Forecasting",
+"Functional",
+"Hiring",
+"Human Resource",
+"Inventory",
+"Leadership",
+"Managing",
+"Marketing Plan",
+"Market Trends",
+"Market",
+"Marketing",
+"Negotiations",
+"Networking",
+"Progress",
+"Rapport",
+"Recruitment",
+"Research",
+"Sales",
+"Seminars",
+"Staff Development",
+"Staffing",
+"Strategy",
+"Strategic",
+"phone"
+]
+}
+]
+}

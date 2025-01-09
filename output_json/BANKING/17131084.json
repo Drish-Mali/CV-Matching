@@ -1,0 +1,114 @@
+{
+  "basics": {
+    "name": "John Doe",
+    "label": "Financial Analyst",
+    "email": "",
+    "phone": "",
+    "summary": "Financial Analyst with experience in various financial and strategic roles, skilled in Accounting, Biotechnology, Bloomberg, and other aspects of financial analysis.",
+    "location": {
+      "city": "City",
+      "countryCode": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Financial Analyst",
+      "startDate": "2015-07-01",
+      "endDate": "current",
+      "summary": "Support CEO and corporate operating committee directly by shaping and implementing AIG's strategy on a global level Initiate, evaluate and execute M&A deals and innovation investments in order to enable AIG's inorganic growth.",
+      "highlights": [
+        "500 Million Divestiture",
+        "Joint Venture Merger to Expand Commercial Business by ~$200 Million",
+        "20 Million Investment in Biotechnology Company",
+        "Selection of AIG Peers"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Investment Banking Summer Analyst",
+      "startDate": "2014-06-01",
+      "endDate": "2014-08-01",
+      "summary": "Supported Industrials Coverage Group by building client presentations, evaluating and compiling financial metrics and aiding in model analysis and valuation.",
+      "highlights": [
+        "Transportation Company's ~$6 Billion Initial Public Offering",
+        "170 million Buy-Side M&A",
+        "100 million Strategic Planning Analysis",
+        "Pitches and Client Presentations"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Co-President",
+      "startDate": "2013-09-01",
+      "endDate": "2014-12-01",
+      "summary": "Taught 30 undergraduates stock market fundamentals and socially responsible investing in order to increase financial literacy. Evaluated public companies by analyzing strategy and operations, examining financial statements and performing valuation. Invested $1,000 of fundraised money in selected microfinance businesses, B corps, or charities to support social impact."
+    },
+    {
+      "name": "Bloomberg Analytics Boot Camp",
+      "position": "Participant",
+      "startDate": "2013-05-01",
+      "endDate": "2013-05-01",
+      "summary": "Trained for one week in Analytics and Sales to gain exposure to equities, fixed income and commodities."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Yale University",
+      "area": "Economics and Psychology",
+      "studyType": "Bachelor of Science",
+      "startDate": "2011-01-01",
+      "endDate": "2015-05-01",
+      "score": "3.75",
+      "courses": [
+        "Strategic Management",
+        "Accounting & Valuation"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Financial Analysis",
+      "level": "Master",
+      "keywords": [
+        "Accounting",
+        "Biotechnology",
+        "Bloomberg",
+        "Budgeting",
+        "due diligence",
+        "equities",
+        "financials",
+        "financial Statements",
+        "Innovation",
+        "Investment"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Mandarin Chinese",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Conversational proficiency"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Personal",
+      "keywords": [
+        "Traveling",
+        "Piano",
+        "Violin",
+        "Table tennis",
+        "Swimming",
+        "Volunteering",
+        "Pistachio ice cream",
+        "Yelp"
+      ]
+    }
+  ],
+  "references": []
+}

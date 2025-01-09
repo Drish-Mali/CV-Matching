@@ -1,0 +1,101 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Director of Information Technology",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Dynamic Information Technology Manager with 13 years of IT leadership experience including oversight of infrastructure, application support and cybersecurity services...",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Director of Information Technology",
+      "url": "",
+      "startDate": "2012-11",
+      "endDate": "Current",
+      "summary": "Develops, tracks and controls long-term information technology operating budgets and cost and benefit analyses for IT spending initiatives...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Senior Consulting IT Program Manager",
+      "url": "",
+      "startDate": "2014-12",
+      "endDate": "2020-12",
+      "summary": "Managed and implemented concurrent projects relating to business process re-engineering, software development and upgrades to foster productivity, throughput, and end-user engagement...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Business Products Specialist",
+      "url": "",
+      "startDate": "2008-05",
+      "endDate": "2012-11",
+      "summary": "Developed and fostered relationships with business owners and key executives to assess dynamic risk mitigation and business insurance needs and deliver solutions...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Product Design Project Team Lead",
+      "url": "",
+      "startDate": "2000-11",
+      "endDate": "2004-06",
+      "summary": "Demonstrated efficacy throughout project & product life cycles in applying flexible change management deliverables...",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Western Governors University",
+      "url": "",
+      "area": "Information Technology Management",
+      "studyType": "Master of Science",
+      "startDate": "",
+      "endDate": "2019",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "University of South Carolina - Columbia",
+      "url": "",
+      "area": "Business Administration and Management, Marketing and Management, International Business",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "2004",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Agile framework, SQL (Microsoft and Oracle), Business intelligence...",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Certified Associate in Project Management (CAPM)",
+      "date": "2021",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "volunteer": []
+}

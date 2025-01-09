@@ -1,0 +1,131 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Case Manager",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Detail-oriented professional focused on developing comprehensive youth and family-related programs and services. Comprehensive background includes providing case management services to adults and youth involved with the juvenile justice system.",
+    "location": {},
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Case Manager",
+      "url": "",
+      "startDate": "2013-12",
+      "endDate": "Current",
+      "summary": "Provides case management services including intake, assessment, crisis intervention, advocacy, referral, and monitoring of families.",
+      "highlights": [
+        "Determined client eligibility for benefit programs and services.",
+        "Referred clients to partner agencies for additional services.",
+        "Managed clinical and administrative aspects of the agency's mental health services."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Case Manager",
+      "url": "",
+      "startDate": "2011-10",
+      "endDate": "2013-12",
+      "summary": "Providing linkage and advocacy to children and adolescents and their families.",
+      "highlights": [
+        "Assists families in developing skills and supports to enhance quality of life, increase adaptive functioning, and improve self-sufficiency in the community.",
+        "Offer supportive counseling to improve day to day coping and problem solving skills."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Senior Teller/Relationship Banker",
+      "url": "",
+      "startDate": "2006-05",
+      "endDate": "2011-10",
+      "summary": "Responsible for a variety of duties aimed at providing client services such as receiving, paying out, and keeping an accurate record of all monies involved in paying and receiving transactions.",
+      "highlights": [
+        "Cash handling experiencing involving large sums of money for Automated Teller Machines, as well as balancing and reconciling ATM.",
+        "Support team sales process by acting upon or referring identified client needs to other lines of business."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "West Virginia State University",
+      "url": "",
+      "area": "Psychology",
+      "studyType": "Bachelors of Arts",
+      "startDate": "",
+      "endDate": "2011",
+      "score": "",
+      "courses": [
+        "Child Development and Psychology coursework",
+        "Communications and Public Relations coursework",
+        "Cultural Diversity and Ethnic Studies coursework"
+      ]
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Case Management",
+      "level": "",
+      "keywords": [
+        "Family and children's programs knowledge",
+        "Exceptional interpersonal skills",
+        "Crisis prevention intervention",
+        "Computer-savvy",
+        "Child abuse and criminal history clearance",
+        "Exemplary people management skills",
+        "Discharge planning",
+        "Exceptional communication skills",
+        "Parent-child conflict specialist",
+        "Analytical thinker",
+        "Suicidal ideation identification",
+        "Compassionate and active listener",
+        "Alternative Discipline Techniques",
+        "First Aid certified",
+        "Mental health systems",
+        "Clean driving record",
+        "ATM",
+        "Banking",
+        "Benefits",
+        "Cash handling",
+        "Counseling",
+        "Client",
+        "Clients",
+        "Delivery",
+        "Financial",
+        "Insurance",
+        "Investments",
+        "Meetings",
+        "Mental health",
+        "Money",
+        "Office",
+        "Monitors",
+        "Problem resolution",
+        "Problem solving skills",
+        "Processes",
+        "Progress",
+        "Psychology",
+        "Quality",
+        "Receiving",
+        "Reconciling",
+        "Retail",
+        "Sales",
+        "Supervision",
+        "Phone",
+        "Written communication skills",
+        "Healthcare: intravenous therapy, MEDISOFT, computerized charting, STD counseling, breastfeeding educator",
+        "People skills: great bedside manner, enthusiastic people person, great organizational skills"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

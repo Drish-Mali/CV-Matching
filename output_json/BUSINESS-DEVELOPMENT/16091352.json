@@ -1,0 +1,105 @@
+{
+  "basics": {
+    "name": "N/A",
+    "label": "Global Business Development Manager/Marketing",
+    "image": "",
+    "email": "N/A",
+    "phone": "N/A",
+    "url": "N/A",
+    "summary": "Professional Account Manager trained in building strategic network ties and increasing sales revenues. Cultivates and maintains strong customer relationships.",
+    "location": {
+      "address": "N/A",
+      "postalCode": "N/A",
+      "city": "N/A",
+      "countryCode": "US",
+      "region": "N/A"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Global Business Development Manager/Marketing",
+      "url": "N/A",
+      "startDate": "2015-09-01",
+      "endDate": "Current",
+      "summary": "Grew customer base from 10 accounts to 35 accounts within a year. Established over 30 new international sales relationships. Closed deals with several Fortune 500 companies. Recognized for aggressive lead generation and work ethic. Trained sales teams on educational products at seminars and special events. Worked closely with company executives to identify new business opportunities. Gathered all relevant materials for bid processes and coordinated bidding and contract approval.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Sales Rep.",
+      "url": "N/A",
+      "startDate": "2012-09-01",
+      "endDate": "2017-08-01",
+      "summary": "Grew assigned sales territory over 75%. Consistently second in sales among sales team. 201-2013 Employee of the Year for Generosity of Service. Managed a portfolio of 60 accounts, which generated $1.2 million in revenue per year. Expanded customer base from 5 to 60 accounts in under two years. Collaborated with other account managers to prepare and deliver performance updates and quarterly business reviews. Ranked in top 5% of sales representatives out of 10 representatives in the West Virginia, Kentucky and Ohio region.",
+      "highlights": []
+    },{
+      "name": "Company Name",
+      "position": "Instruction and Job Development Coordinator",
+      "url": "N/A",
+      "startDate": "2005-05-01",
+      "endDate": "2011-10-01",
+      "summary": "2006 Employee of the Year, Education, Employment and Training Department. Managed a team of 10 job coaches to assist clients with disabilities earn and maintain employment. Established relationships in the community to develop new career opportunities for clients with disabilities. Taught classes on life skills, interpersonal and professional relationship building. Recommended individuals to customers based on their needs and interests, resulting in a long lasting employee and happy employer. Delivered exceptional account service to strengthen customer loyalty. Planned, created and delivered sales presentations on the value of hiring someone with a disability.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "West Virginia State University",
+      "url": "N/A",
+      "area": "Marketing",
+      "studyType": "Bachelor of Arts",
+      "startDate": "N/A",
+      "endDate": "2002",
+      "score": "3.5",
+      "courses": [
+        "Coursework in Business Administration and Management"
+      ]
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Sales Software CMR's",
+      "level": "Proficient",
+      "keywords": [
+        "Salesforce.com",
+        "Salesloft",
+        "Sales Genius",
+        "Rainking"
+      ]
+    },
+    {
+      "name": "Microsoft Office",
+      "level": "Proficient",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [
+    {
+      "name": "Coaching",
+      "keywords": [
+        "Children",
+        "Basketball",
+        "Baseball"
+      ]
+    },
+    {
+      "name": "Outdoor Activities",
+      "keywords": [
+        "Running",
+        "Lifting weights",
+        "Camping",
+        "Fishing",
+        "Kayaking"
+      ]
+    }
+  ],
+  "references": [],
+  "projects": []
+}

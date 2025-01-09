@@ -1,0 +1,96 @@
+{
+  "basics": {
+    "name": "Child Family Advocate",
+    "label": "Administrative Professional",
+    "email": "",
+    "phone": "",
+    "summary": "Talented administrative professional with background in accounting and finance. Extensive knowledge of AR/AP, Microsoft Excel and QuickBooks software skills. Fearless Child Family Advocate comfortable taking a stand against threats to a child's safety or well-being. Works directly with government officials, children and families to find the best care possible for every child.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Child Family Advocate",
+      "startDate": "2013-08-01",
+      "endDate": "Current",
+      "summary": "Collaborated with community members to educate the public regarding issues such as drug abuse prevention and traffic safety. Collaborated with community leaders, organizations and public agencies to promote the organizations community service programs. Established a safe play environment for the children. Directed all protective placement, case management, parent education and family reunification activities. Advised patients on community resources, made referrals and devised realistic treatment plans.Communicated with public social and welfare agencies to obtain and provide information."
+    },
+    {
+      "name": "Company Name",
+      "position": "Customer Services Team Lead",
+      "startDate": "2010-10-01",
+      "endDate": "2013-03-01",
+      "summary": "Surpassed revenue goals in four consecutive quarters. Developed, implemented and monitored programs to maximize customer satisfaction. Interviewed, hired and trained new quality customer service representatives. Developed and implemented policies, procedures and process improvement initiatives to improve retention rates and increase customer satisfaction."
+    },
+    {
+      "name": "Company Name",
+      "position": "Customer Service/Banking",
+      "startDate": "2007-11-01",
+      "endDate": "2009-03-01",
+      "summary": "Collected customer feedback and made process changes to exceed customer satisfaction goals. Opened new customer accounts, including checking, savings and lines of credit. Examined checks for identification and endorsement. Processed treasury, tax and loan payments."
+    },
+    {
+      "name": "Company Name",
+      "position": "Administrative Assistant",
+      "startDate": "2007-08-01",
+      "endDate": "2007-11-01",
+      "summary": "Managed the receptionist area, including greeting visitors and responding to telephone and in-person requests for information. Created and maintained spreadsheets using advanced Excel functions and calculations to develop reports and lists. Received and distributed faxes and mail in a timely manner."
+    },
+    {
+      "name": "Company Name",
+      "position": "Call Center/Phone Representative/Collector",
+      "startDate": "2005-08-01",
+      "endDate": "2007-11-01",
+      "summary": "Computed accurate sales prices for purchase transactions. Eliminated outdated records by sending the records to be scanned. Identified and resolved system and account issues."
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Greenville College",
+      "area": "Human Services",
+      "studyType": "Continuing education",
+      "startDate": "",
+      "endDate": "",
+      "courses": [
+        "Coursework in Organizational Behavior",
+        "Compensation",
+        "Labor Relations",
+        "Recruitment",
+        "Desktop publishing workshop"
+      ]
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Administrative Skills",
+      "level": "Intermediate",
+      "keywords": [
+        "scheduling appointments",
+        "AS 400",
+        "budgets",
+        "call center",
+        "Customer service",
+        "financial",
+        "funds",
+        "Labor Relations",
+        "Leadership",
+        "Sales"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

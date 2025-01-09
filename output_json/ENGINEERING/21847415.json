@@ -1,0 +1,146 @@
+{
+  "basics": {
+    "name": "",
+    "label": "ENGINEERING TECHNICIAN II",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "My goal is to become associated with a company where I can utilize my skills and gain further experience while enhancing the company's productivity and reputation.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Engineering Technician II",
+      "url": "",
+      "startDate": "02/12",
+      "endDate": "Current",
+      "summary": "Initiated statistical analysis project that resulted in sound recommendations adopted by entire RX Labs. Spearheaded documentation of classified reports. Managed numerous projects simultaneously that helped the company make good sales for the certain products...",
+      "highlights": [
+        "Global Engineering nominee for Back Side Transfer/Lamination Technology in 2006...",
+        "Global Engineering,� Gathering Rx laboratory HC data and finding global problem and giving solution for the US Rx labs in 2013...",
+        "Global Engineering winner for PC Nidek Tinting lenses to Support Sun Business in 2015...",
+        "Global Engineering Winner, Global Water Savings primarily on the Hard Coating Machines in 2016."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "HMC HC Laboratory Assistant III",
+      "url": "",
+      "startDate": "02/2005",
+      "endDate": "02/2009",
+      "summary": "Working with engineers to establish coating formulations and processes for the HC Machines and Lamination Machines...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Hard Coating Technician",
+      "url": "",
+      "startDate": "10/2003",
+      "endDate": "02/2005",
+      "summary": "Working with the Supervisor, planning and scheduling the daily operations of the Dip/Dip process...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Surfacing lab technician",
+      "url": "",
+      "startDate": "01/2003",
+      "endDate": "02/2003",
+      "summary": "Handling all types of � lenses that travel through the Surfacing Department while following all applicable procedures in an Optical Laboratory setting...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Monogram Operator",
+      "url": "",
+      "startDate": "06/1999",
+      "endDate": "01/2003",
+      "summary": "Setup, operate and maintain various monogram sawing machines.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Saint Petersburg College",
+      "url": "",
+      "area": "ESOL",
+      "studyType": "",
+      "startDate": "2010",
+      "endDate": "2010",
+      "score": "4.0",
+      "courses": []
+    },
+    {
+      "institution": "Arizona State University",
+      "url": "",
+      "area": "Engineering Managment",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "2020",
+      "score": "3.45",
+      "courses": []
+    },
+    {
+      "institution": "Chemical and Textile School Sanski Most,YU",
+      "url": "",
+      "area": "Chemical Technician",
+      "studyType": "Associate",
+      "startDate": "1993",
+      "endDate": "1989-1993",
+      "score": "3.1",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Engineering",
+      "level": "",
+      "keywords": [
+        "Calibration",
+        "Chemical Engineering technician",
+        "documentation",
+        "Engineering Management",
+        "equipment inventory",
+        "inspection",
+        "� Maintain inventory",
+        "Materials",
+        "processes",
+        "safety",
+        "SOP",
+        "staffing",
+        "Supervision",
+        "technical support",
+        "Technician",
+        "troubleshooting",
+        "validations"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [
+    {
+      "name": "Personal",
+      "keywords": [
+        "Playing basketball",
+        "cooking",
+        "gardening",
+        "spending time with my children"
+      ]
+    }
+  ],
+  "references": [],
+  "projects": []
+}

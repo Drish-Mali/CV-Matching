@@ -1,0 +1,136 @@
+{
+  "basics": {
+    "name": "",
+    "label": "VICE PRESIDENT, CORPORATE FINANCE",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Accomplished� healthcare� finance executive with a demonstrated ability to deliver mission-critical results in complex and rapidly changing environments.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Vice President, Corporate Finance",
+      "url": "",
+      "startDate": "2015-10-01",
+      "endDate": "Current",
+      "summary": "Responsible for various consolidated corporate departments...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Vice President/Controller",
+      "url": "",
+      "startDate": "2012-04-01",
+      "endDate": "2015-09-01",
+      "summary": "Responsible for various consolidated corporate departments...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Corporate Controller",
+      "url": "",
+      "startDate": "2006-12-01",
+      "endDate": "2012-04-01",
+      "summary": "Responsible for various consolidated corporate departments...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Audit Professional",
+      "url": "",
+      "startDate": "1997-08-01",
+      "endDate": "2006-12-31",
+      "summary": "Responsible for various� financial audits for retail, manufacturing, investment management, academic medical centers, healthcare, higher education and non-profit entities...",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Miami University",
+      "url": "",
+      "area": "Accountancy",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "1997",
+      "score": "",
+      "courses": [
+        "Economics"
+      ]
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "CPA, State of Ohio License #42088",
+      "date": "2003-12-01",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "CGMA, American Institute of Certified Public Accountants",
+      "date": "2014-12-01",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "FHFMA, Healthcare Financial Management Association",
+      "date": "2013-04-01",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "CHFP,� Healthcare Financial Management Association",
+      "date": "2013-04-01",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Balance Sheet Risk Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Technical US GAAP Accounting Proficient",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Contract Negotiations",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Board Communications",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Treasury Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Multi-disciplinary Team Lead",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

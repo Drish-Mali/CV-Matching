@@ -1,0 +1,85 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Banking Center Manager",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Professional/Manager skilled at informing clients about products and services and recommending the best options to meet their needs. Excellent interpersonal skills. Versatile Sales Professional with background in banking and finance.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Banking Center Manager",
+      "url": "",
+      "startDate": "2012-08",
+      "endDate": "Current",
+      "summary": "Banking Center Manager is responsible for managing a consumer banking center. BCM is responsible for leading, training and coaching...",
+      "highlights": ["Exceptional customer service", "Sales expertise", "Reliable", "Flexible", "Excellent communication skills"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Personal Banker",
+      "url": "",
+      "startDate": "2010-01",
+      "endDate": "2012-08",
+      "summary": "Personal Bankers (PBs) are responsible for offering and selling financial products and services...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Sales and Service Specialist",
+      "url": "",
+      "startDate": "2007-08",
+      "endDate": "2010-02",
+      "summary": "Provides customer solutions to moderately complex or escalated issues by providing seamless delivery of service...",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Minot State",
+      "url": "",
+      "area": "Corporate Fitness",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "2005",
+      "score": "",
+      "courses": ["Minor in Business Management"]
+    },
+    {
+      "institution": "Frank Phillips College",
+      "url": "",
+      "area": "Business Admin",
+      "studyType": "Associates",
+      "startDate": "",
+      "endDate": "1999",
+      "score": "",
+      "courses": ["Business Admin"]
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Banking",
+      "level": "",
+      "keywords": ["coaching", "credit", "clients", "delivery", "financial", "leadership", "managing", "market", "selling", "sales"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

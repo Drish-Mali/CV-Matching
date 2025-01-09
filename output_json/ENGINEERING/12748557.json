@@ -1,0 +1,145 @@
+{
+  "basics": {
+    "name": "Engineer",
+    "label": "Regional Engineering Manager, Director",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Over 25 years' experience delivering high-profile ITS/SCADA projects for the Transportation and Water/Waste Water industries. Expertise includes; technical solution architecting and cost estimating, mission critical ITS/SCADA system design and delivery, disaster recovery planning, technical program management, and cross-team leadership.",
+    "location": {
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Regional Engineering Manager",
+      "url": "",
+      "startDate": "2014-01-01",
+      "endDate": "Current",
+      "summary": "Currently directing ITS solution deliveries in Texas, Australia, New Zealand, and Chile.",
+      "highlights": [
+        "Technical manager with 90%+ success rate delivering projects on time and under budget.",
+        "Proposed innovative solution that resulted in the company being designated as the �highly preferred supplier'",
+        "Maximized efficiency and ability to scale by industrializing sales and engineering delivery methodology and deliverables",
+        "Originated and spear-headed product innovation ideas, enabling the company to differentiate itself in the ITS/SCADA market."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Engineering Supervisor",
+      "url": "",
+      "startDate": "2011-01-01",
+      "endDate": "2013-12-31",
+      "summary": "Oversaw the engineering department with focus on productivity and project resource planning.",
+      "highlights": ["Beat out the �preferred supplier' in a major civil project bid", "Delivery of several high profile, challenging ITS/SCADA projects on time and under budget"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Senior Engineer",
+      "url": "",
+      "startDate": "2003-07-01",
+      "endDate": "2010-12-31",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Systems Engineer II",
+      "url": "",
+      "startDate": "1999-07-01",
+      "endDate": "2003-06-30",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Control Systems Engineer I / II",
+      "url": "",
+      "startDate": "1992-07-01",
+      "endDate": "1999-06-30",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Associate Systems Engineer",
+      "url": "",
+      "startDate": "1991-06-01",
+      "endDate": "1992-06-01",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of California at Santa Barbara",
+      "url": "",
+      "area": "Electrical and Computer Engineering",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "1990",
+      "score": "",
+      "courses": ["Various Project Management/Leadership Courses"]
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Engineering",
+      "level": "Experienced",
+      "keywords": ["Technical program management", "QA/QM", "Client management", "Vendor management", "Testing and commissioning planning and execution", "Team leadership", "Engineering cost estimating", "Engineering resource management"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": [
+    {
+      "name": "Santiago Chile ITS", 
+      "startDate": "", 
+      "endDate": "", 
+      "description": "Directing the in-house development of an advanced traffic incident detection algorithm.", 
+      "highlights": [],
+      "url": ""
+    },
+    {
+      "name": "CityLink OMCS Upgrade", 
+      "startDate": "", 
+      "endDate": "", 
+      "description": "Directed an ITS/SCADA system upgrade for a mission critical tunnel/toll-road in Melbourne, Australia.", 
+      "highlights": [],
+      "url": ""
+    },
+    {
+      "name": "LBJ/NTE Managed Lanes Project", 
+      "startDate": "", 
+      "endDate": "", 
+      "description": "Technical manager for an ITS system delivery to monitor and control 40 miles of managed lanes for a greenfield civil works Project in the Dallas/Fort Worth area.", 
+      "highlights": [],
+      "url": ""
+    },
+    {
+      "name": "Caltrans Devil's Slide Tunnel", 
+      "startDate": "", 
+      "endDate": "", 
+      "description": "Delivered a greenfield PLC/SCADA/ITS system for the monitoring/control of a mile long tunnel north of Half Moon Bay, CA.", 
+      "highlights": [],
+      "url": ""
+    },
+    {
+      "name": "Eastern Distributor Tunnel", 
+      "startDate": "", 
+      "endDate": "", 
+      "description": "Managed the upgrade of a life-safety ITS/SCADA system for a major tunnel servicing downtown Sydney.", 
+      "highlights": [],
+      "url": ""
+    }
+  ]
+}

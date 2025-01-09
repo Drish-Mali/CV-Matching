@@ -1,0 +1,68 @@
+{
+  "basics": {
+    "name": "Anonymous",
+    "label": "Director of Business Development",
+    "email": "",
+    "phone": "",
+    "summary": "Results- driven and highly skilled Account Manager and Sales Leader with 10+ years of experience",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    }
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Director of Business Development",
+      "startDate": "2013-07",
+      "endDate": "Current",
+      "summary": "Worked closely with other company executives to identify new business opportunities, securing contracts for enterprise government software, Software as a Service (SaaS), Infrastructure as a Service (IaaS), and Managed Service solutions.",
+      "highlights": [
+        "Created strategies to develop and expand existing customer base, which resulted in an $18,000,000 contract, the largest in the history of the company."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Deputy Secretary of State",
+      "startDate": "2007-01",
+      "endDate": "2013-07",
+      "summary": "Accountable for the Election, Corporation, Professional Licensing, Securities, and Enforcement divisions day-to-day operations.",
+      "highlights": [
+        "Reduced application processing intervals from 4 weeks to 2 days.",
+        "Strengthened State agency's ability to provide fair, secure, and accurate elections."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Augusta State University, Hull College of Business",
+      "area": "Finance and Economics",
+      "studyType": "Bachelor of Business Administration",
+      "startDate": "1996",
+      "endDate": "1996"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Business Development",
+      "level": "Proficient",
+      "keywords": [
+         "Complex Sales Strategy",
+         "Public Policy",
+         "Enterprise Software",
+         "Software as a Service (SaaS)",
+         "Infrastructure as a Service (IaaS)",
+         "Technical Analysis",
+         "Financial Analysis",
+         "Public Sector",
+         "Telecommunications",
+         "Sales Reporting",
+         "Public Speaking",
+         "Public Presentations"
+      ]
+    }
+  ]
+}

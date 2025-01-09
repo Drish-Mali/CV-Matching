@@ -1,0 +1,136 @@
+{
+  "basics": {
+    "name": "John Doe",
+    "label": "Director of Finance",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Dynamic, versatile, hands-on Program Manager who leads teams to design and implement successful IT\nprojects that align business and IT objectives and deliver rapid results. Accomplished leader known and respected for leading successful change in projects and building credibility with executive teams and staff. Solutions driver who bridges the gap between business and technology with expertise in managing complex programs and multiple concurrent projects.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Director of Finance",
+      "url": "",
+      "startDate": "2011-01-01",
+      "endDate": "Current",
+      "summary": "Trusted Financial Executive with CFO- and CIO-level responsibilities; adds transparency to IT and financial operations while adapting financial strategy to organizational goals. Spearheaded the development of the first-ever Program Management Office; defined project management processes.",
+      "highlights": [
+        "Reengineered project plan and renegotiated contracts with new vendors.",
+        "Enhanced quality assurance and maintained timelines.",
+        "Captured 60% savings in projects costs in only five months."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "VP",
+      "url": "",
+      "startDate": "2010-01-01",
+      "endDate": "2012-01-01",
+      "summary": "Top-performing Program Manager consistently sought out to reengineer troubled projects. Managed PMO staff in a matrix reporting structure consisting of 44 Global Project Managers and a department budget of $15-million.",
+      "highlights": [
+        "Implemented vendor and financial strategies that improved project planning and reduced costs by 60% in only five months."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Hoboken State University",
+      "url": "",
+      "area": "Finance/Accounting",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "State University",
+      "url": "",
+      "area": "Business Economics/Finance",
+      "studyType": "Master",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Project Management Professional (PMP)",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "Certified Information Systems Auditor (CISA)",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "Lean Six Sigma Green Belt (LSSGB) Professional",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "ITIL V.8 (Basis) Certified",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "Certified Financial Planner (CFP)",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Business Analysis",
+      "level": "",
+      "keywords": [
+        "CISA",
+        "contracts",
+        "Contract Management",
+        "Financial",
+        "financial analysis",
+        "forecasting",
+        "Information Systems",
+        "ITIL V",
+        "leadership",
+        "mentor",
+        "Office",
+        "enterprise",
+        "optimization",
+        "organizational",
+        "performance reviews",
+        "Program Management",
+        "Project Management",
+        "project planning",
+        "quality assurance",
+        "Six Sigma",
+        "strategy",
+        "website development"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

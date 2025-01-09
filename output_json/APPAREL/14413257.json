@@ -1,0 +1,96 @@
+{
+  "basics": {
+    "name": "Unknown",
+    "label": "OWNER SENIOR GRAPHIC DESIGNER / UX DESIGNER / APP DEVELOPER",
+    "image": "",
+    "email": "",
+    "phone": "917-773-6397",
+    "url": "http://victormotanyc.wix.com/abiezer-mota",
+    "summary": "Multi-talented specialized in several artistic mediums, including Graphic and UX Design. Motivated to work on all projects collaboratively with the design team from conception through to final production.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company",
+      "position": "Owner Senior Graphic Designer / UX Designer / App Developer",
+      "url": "",
+      "startDate": "2010-01-01",
+      "endDate": "Current",
+      "summary": "Enhance CSS, HTML, PHP codes for the frontend and backend of e-commerce store. Create graphics for silkscreen and direct to garment (DTG) printing. Work with programmers to design online-tool to enable users to personalize their own designs, and provide access to quality on-demand printing services",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Hebert H. Lehman College",
+      "url": "",
+      "area": "Psychology Fine Arts",
+      "studyType": "Bachelor of Arts",
+      "startDate": "",
+      "endDate": "2012-05-01",
+      "score": "",
+      "courses": [
+        "Art Design coursework",
+        "Sketching, Drawing, sculpture, painting",
+        "Advanced Illustration coursework",
+        "Industrial psychology",
+        "experimental psychology",
+        "Social psychology",
+        "Statistics"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Employee Recognition Award Nominee",
+      "date": "",
+      "awarder": "Unknown",
+      "summary": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Graphic Design",
+      "level": "Master",
+      "keywords": [
+        "3D Max",
+        "ActionScript",
+        "Adobe",
+        "Artist",
+        "CSS",
+        "Dreamweaver",
+        "E-Commerce",
+        "Fashion",
+        "Final Cut Pro",
+        "Flash",
+        "Graphic Designer",
+        "HTML",
+        "Illustrator",
+        "InDesign",
+        "Journalist",
+        "Maya",
+        "Microsoft Office Suite",
+        "Packaging",
+        "Photography",
+        "PHP",
+        "Quark Express",
+        "Research",
+        "UX",
+        "Videographer"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

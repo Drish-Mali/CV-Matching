@@ -1,0 +1,143 @@
+{
+  "basics": {
+    "name": "ACTING GRADE 4 CUSTOMER/BRAND",
+    "label": "Work in Sales and Management",
+    "summary": "Obtain a position that will allow me to utilize my strong abilities, educational background and the passion to work well with others. Reliable and friendly who quickly learns and masters new concepts and skills. Outgoing, detail-oriented and very energetic.",
+    "location": {
+      "city": "City",
+      "region": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Acting Grade 4 Customer/Brand",
+      "startDate": "Oct 2015",
+      "endDate": "Jan 2016",
+      "summary": "Filled with coaching, developing and ensuring the store operations get fulfilled. Supporting and keeping open communication with management. Training and Coaching associates, Monitoring floor coverage and completing workloads. Ensuring to maintain a positive work environment."
+    },
+    {
+      "name": "Company Name",
+      "position": "Sales Associate",
+      "startDate": "May 2015",
+      "endDate": "Oct 2015",
+      "summary": "Demonstrate the finest customer service. Speak with knowledge and confidence to customers about styles, fits and the latest products. Being part of the team to executes all operational processes effectively. Having to the ability and confidence to sell."
+    },
+    {
+      "name": "Company Name",
+      "position": "Nights and Weekend Manager",
+      "startDate": "Feb 2014",
+      "endDate": "Mar 2015",
+      "summary": "Opened and closed the store, which included counting cash drawers and making bank deposits. Built customer confidence by actively listening to their concerns and giving appropriate feedback."
+    },
+    {
+      "name": "Company Name",
+      "position": "Sales Associate",
+      "startDate": "Jun 2011",
+      "endDate": "Feb 2014",
+      "summary": "Ensure giving exceptional service throughout the entire shopping and purchasing experience. Balanced the needs of multiple customers simultaneously in a fast-paced retail environment."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Leuzinger High School",
+      "area": "General",
+      "studyType": "High School diploma",
+      "startDate": "N/A",
+      "endDate": "June 2012",
+      "score": "3.8 GPA"
+    },
+    {
+      "institution": "California State university Channel Island",
+      "area": "Psychology and Communication ",
+      "studyType": "Bachelor of Science",
+      "startDate": "N/A",
+      "endDate": "2016",
+      "score": "N/A"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Spark",
+      "position": "Event Support",
+      "startDate": "2015",
+      "endDate": "2015",
+      "summary": "Community service with Gap Rolling hills estate. Helped with running spark night. Provided visitors with proper directions."
+    },
+    {
+      "organization": "Meals on Wheels America",
+      "position": "Volunteer",
+      "startDate": "2006",
+      "endDate": "Present",
+      "summary": "Twice a year, prepare and feed the less fortunate"
+    },
+    {
+      "organization": "Habitat for Humanity",
+      "position": "Volunteer",
+      "startDate": "2011",
+      "endDate": "2012",
+      "summary": "Directed Task. Assisted and built with small projects"
+    },
+    {
+      "organization": "Lawndale Library",
+      "position": "Volunteer",
+      "startDate": "2009",
+      "endDate": "2011",
+      "summary": "Twice a month on Tuesday, would help with the kids after school program."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Bilingual",
+      "level": ""
+    },
+    {
+      "name": "Attentive Listener",
+      "level": ""
+    },
+    {
+      "name": "Usage of presentation software",
+      "level": ""
+    },
+    {
+      "name": "Excellent multi-tasker",
+      "level": ""
+    },
+    {
+      "name": "Cash handling accuracy",
+      "level": ""
+    },
+    {
+      "name": "Strong communication and interpersonal skills",
+      "level": ""
+    },
+    {
+      "name": "Time management",
+      "level": ""
+    },
+    {
+      "name": "Visual merchandising",
+      "level": ""
+    },
+    {
+      "name": "Ability to work under pressure and to tight deadlines",
+      "level": ""
+    },
+    {
+      "name": "Attention to detail",
+      "level": ""
+    },
+    {
+      "name": "Result driven",
+      "level": ""
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "awards": [],
+  "certificates": [],
+  "publications": []
+}

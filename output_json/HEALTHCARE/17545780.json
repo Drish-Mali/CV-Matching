@@ -1,0 +1,126 @@
+{
+  "basics": {
+    "name": "Not specified",
+    "label": "Office Manager/Managing Director",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Innovative, customer-oriented healthcare administrator with background in managed, ambulatory and long-term care. Strong background in quality assurance, claims analysis and management principles and practices. Seeking a leadership role within an integrated delivery system.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Office Manager/Managing Director",
+      "url": "",
+      "startDate": "02/2014",
+      "endDate": "Current",
+      "summary": "Overseeing entire clinical department and ensuring physician orders are followed through as requested. Overseeing all of the office staff and the daily operations of the company. Day to day problem solving for all departments in the office, as well as taking problematic phone calls for all departments. Hiring and training new office staff. Hiring and training new doctors and physician assistants, completing all the necessary paperwork. Enrolling doctors and PAs with Medicare and malpractice insurance. Setting up new employees with Practice Fusion and Payroll. Communicating with doctors and physician assistants on a daily basis to ensure the day is running smoothly and resolving any issues they may have. Marketing to home health companies to Company payroll Quality Assurance.",
+      "highlights": []
+    },
+	{
+      "name": "Company Name",
+      "position": "Quality Assurance",
+      "url": "",
+      "startDate": "04/2013",
+      "endDate": "02/2014",
+      "summary": "Liaising with patients, nurses, doctors, pharmacists and various medical personnel on a daily basis to provide the utmost service to all involved in patient care. Follow up with patients, doctors and nurses to ensure that everything was accomplished as required. Inputting patient information from the doctor's notes into the electronic medical Records.",
+      "highlights": []
+    },
+	{
+      "name": "Company Name",
+      "position": "Healthcare",
+      "url": "",
+      "startDate": "01/2009",
+      "endDate": "01/2011",
+      "summary": "Effectively communicated with patients to convey information about procedures in a clear, concise manner. Consistently updated patient charts, performed blood work, assisted doctors in surgery, conducted patient physicals, and aided in patient therapy sessions. Loretto Hospital. Bethany Hospital.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Company Name",
+      "position": "Volunteer",
+      "url": "",
+      "startDate": "09/2011",
+      "endDate": "05/2013",
+      "summary": "Interviewed patients to obtain medical information, weight and height measurements and vital signs. Documented patient information obtained from interviews. Completed clinical rotations in Geriatrics. Responsible for primary care, case management, and medication management. Assessed patients and documented their medical histories. Evaluated patient care needs, prioritized treatment, and maintained patient flow. Assisted doctors with surgeries and non-invasive procedures. Collected blood, tissue and other laboratory specimens and prepared them for lab testing. Performed vitals/glucose testing and assisted in administering injections and urinalysis. Managed care for post-operative patients through discharge. Accurately recorded and reported test results according to established procedures.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Windsor University School of Medicine",
+      "url": "",
+      "area": "",
+      "studyType": "MD",
+      "startDate": "",
+      "endDate": "01/2011",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "School Diligence Award",
+      "date": "2005",
+      "awarder": "",
+      "summary": ""
+    },
+	{
+	  "title": "Writer's Craft Award",
+	  "date": "2005",
+	  "awarder": "",
+	  "summary": ""
+	},
+	{
+	  "title": "World Issues Award",
+	  "date": "2005",
+	  "awarder": "",
+	  "summary": ""
+	}
+  ],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Office Management",
+      "level": "",
+      "keywords": [
+        "Adept at prioritizing/managing deadlines",
+		"Strong presentation skills",
+		"Patient-focused care",
+		"Accomplished leader",
+		"Trained in pre- and post-surgical care",
+		"Patient evaluation/intervention",
+		"Competent in physical assessments",
+		"Professional bedside manner",
+		"Minor surgery assistance awareness", 
+		"charts",
+		"concise",
+		"Hiring",
+		"insurance",
+		"notes",
+		"Marketing",
+		"office",
+		"Payroll",
+		"personnel",
+		"problem solving",
+		"Quality Assurance",
+		"phone"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

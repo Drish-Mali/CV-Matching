@@ -1,0 +1,136 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Lead Aerospace Assembler",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Accomplished and highly motivated aerospace assembler/technician with a solid history of achievement in completing large structural assemblies, micro/miniature component repair and cable repair for rotary and fixed-wing aircraft platforms. Proficient in interpreting blueprints, working with others and meeting production deadlines. Seasoned leader with experience in tactfully communicating with others in order to train them to be competent at their job.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "",
+      "region": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Lead Aerospace Assembler",
+      "url": "",
+      "startDate": "2016-06-01",
+      "endDate": "Current",
+      "summary": "Trained and led a team of six assemblers to quickly and efficiently build landing gear beams. Ensured all equipment was properly installed and working correctly. Planned work and determined appropriate tools and equipment needed for the workday. Processed work orders and prioritized jobs. Communicated with prior shift to assess work needs for the day.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Aviation Electronics Technician",
+      "url": "",
+      "startDate": "2011-09-01",
+      "endDate": "2015-10-01",
+      "summary": "Adjust, repair, or replace malfunctioning components on assemblies or circuit boards by using hand tools or soldering irons. Test and troubleshoot instruments, components and assemblies, using multimeters. Connect components to assemblies such as transformers, relays, switches, in-flight refueling systems, etc. Read and interpret maintenance manuals, technical publications, and engineering diagrams to determine the feasibility and method of repairing defective components. Keep records of maintenance and repair work. Coordinate work with engineers, technicians and other aircraft maintenance personnel. Inspect completed work to certify that maintenance meets standards and that aircraft are ready for operation.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "College of the Canyons",
+      "area": "Administration of Justice",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "2018-01-01",
+      "score": "",
+      "courses": [],
+      "url": ""
+    },
+    {
+      "institution": "Naval Fleet Training Center",
+      "area": "Micro-miniature Electronics Repair",
+      "studyType": "Certificate",
+      "startDate": "2012-01-01",
+      "endDate": "",
+      "score": "",
+      "courses": [],
+      "url": ""
+    },
+    {
+      "institution": "Center for Surface Combat Systems",
+      "area": "Miniature Electronics Repair",
+      "studyType": "Certificate",
+      "startDate": "2011-01-01",
+      "endDate": "",
+      "score": "",
+      "courses": [],
+      "url": ""
+    },
+    {
+      "institution": "Naval Air Technical Training Center",
+      "area": "Aviation Electrician's Mate Strand",
+      "studyType": "Certificate",
+      "startDate": "2011-01-01",
+      "endDate": "",
+      "score": "",
+      "courses": [],
+      "url": ""
+    },
+    {
+      "institution": "Diamond Ranch High School",
+      "area": "",
+      "studyType": "High School Diploma",
+      "startDate": "",
+      "endDate": "2010-01-01",
+      "score": "",
+      "courses": [],
+      "url": ""
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Critical Thinking",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Decision Making",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Hand/Power Tools",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Thoroughly Inspect Work",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Problem Solving",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Time Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Troubleshooting",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

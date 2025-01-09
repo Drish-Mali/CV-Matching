@@ -1,0 +1,72 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Chef",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Accomplished personal chef, committed to culinary excellence, quality ingredients and personalized service seeking to add his extensive culinary skill and knowledge of nutrition and health to best serve the needs of every person he cooks for.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Chef, Chef Consultant, Banquet Chef, Executive Sous Chef, Shepherd/Caretaker",
+      "url": "",
+      "startDate": "1999-06-01",
+      "endDate": "current",
+      "summary": "Maintained daily culinary operations of multiple local properties, cooking for private client and multiple guests in multiple homes. Cooked for celebrities, executives, investors, & heads of state among others. Provided nutrition, diet & recipe planning for various patients, Taught diet, nutrition & cooking classes and smart consumer classes.",
+      "highlights": [
+        "Trained area chefs on utilization of seasonal and regional produce in cuisine",
+        "Served on opening team for $800 million hotel",
+        "Managed relationships with vendors, negotiated prices of ingredients and equipment",
+        "Transformed kitchen culture from one of pre-packaged food to scratch cooking"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Culinary Institute of America, West Virginia Wesleyan",
+      "url": "",
+      "area": "Culinary Arts, Nutrition Dietetics",
+      "studyType": "Associate of Arts",
+      "startDate": "unknown",
+      "endDate": "unknown",
+      "score": "",
+      "courses": [
+        "Food anthropology and Charcuterie Study in Spain",
+        "3 years studying nutrition dietetics"
+      ]
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Culinary Skills",
+      "level": "Expert",
+      "keywords": [
+        "Classically trained chef proficient in all facets of food production",
+        "Extensive knowledge of nutrition",
+        "Able to shop and manage acquisition of specialty foods and foods which are maximally nutrient dense",
+        "Proven ability to manage daily culinary operations for multiple households with changing needs and demands",
+        "Expertise with various forms of protocol and table service",
+        "Attention to detail, cleanliness"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

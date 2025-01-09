@@ -1,0 +1,87 @@
+{
+  "basics": {
+    "name": "Name Not Given",
+    "label": "UTILITY ENGINEER",
+    "email": "Email Not Given",
+    "phone": "Phone Number Not Given",
+    "summary": "Detail oriented and motivated Chemical Engineer with strong research, analytical and problem solving skills",
+    "location": {
+      "address": "Address Not Given",
+      "postalCode": "Postal Code Not Given",
+      "city": "City Not Given",
+      "countryCode": "Country Code Not Given",
+      "region": "Region Not Given"
+    },
+    "profiles": [
+      {
+        "network": "Not Given",
+        "username": "Not Given",
+        "url": "Not Given"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Utility Engineer",
+      "startDate": "2015-01-01",
+      "endDate": "2016-12-01",
+      "summary": "Monitored and evaluated the design, operation, and maintenance of electric utility systems."
+    },
+    {
+      "name": "Company Name",
+      "position": "Transportation Construction Inspector",
+      "startDate": "2014-06-01",
+      "endDate": "2014-12-01",
+      "summary": "Supervised construction operations under the regulation of a Department of Transportation's Engineer-in-Charge."
+    },
+    {
+      "name": "Company Name",
+      "position": "Research Assistant",
+      "startDate": "2013-04-01",
+      "endDate": "2014-05-01",
+      "summary": "Provided research support to faculty member and assisted PhD students with research related to the Dye Sensitized Solar Cells."
+    }
+  ],
+  "education": [
+    {
+      "institution": "City College of New York",
+      "area": "Chemical Engineering Chemistry, Mathematics",
+      "studyType": "B.E",
+      "startDate": "Not Given",
+      "endDate": "2014-05-01",
+      "score": "3.3",
+      "courses": ["Inorganic Chemistry", "Organic Chemistry", "Materials Science", "Nanomaterials", "Unit Operations", "Fluid Mechanics", "Thermodynamics", "Transport Phenomenon", "Process Control", "Reaction Engineering", "Separation Operations", "Calculus I, II, III", "Linear Algebra", "Differential Equations", "Engineering Economics"]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Utility Engineering",
+      "level": "Not Given",
+      "keywords": [ "Design Software", "Inspection", "Microsoft Office", "Site Management", "Interpersonal Skills", "Customer Relationship Management", "Leadership", "Communication", "Analytical", "Problem Solving", "Research" ]
+    },
+    {
+      "name": "Chemical Engineering",
+      "level": "Not Given",
+      "keywords": [ "Inorganic Chemistry", "Organic Chemistry", "Materials Science", "Nanomaterials", "Unit Operations", "Fluid Mechanics", "Thermodynamics", "Transport Phenomenon", "Process Control", "Reaction Engineering", "Separation Operations" ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Hindi-Urdu, English",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Not Given",
+      "keywords": ["Not Given"]
+    }
+  ],
+  "references": [
+    {
+      "name": "Not Given",
+      "reference": "Not Given"
+    }
+  ]
+}

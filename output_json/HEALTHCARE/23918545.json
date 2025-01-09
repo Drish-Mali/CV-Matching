@@ -1,0 +1,100 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Claims Service Specialist",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Medical Billing Specialist with 3 years experience in a fast-paced, multiple client medical billing company. Researched and denied claims and submitted appeals. Familiar with health billing and collections. Advanced knowledge of claims processing and pre-authorizations.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Claims Service Specialist",
+      "url": "",
+      "startDate": "2013-10-01",
+      "endDate": "2014-06-01",
+      "summary": "Filed claims per NextGen system. Discussed coverage's and liability with insured, claimant, and body shops. Also spoke with lienholders and medical providers. Typed and performed data entry. Obtained police reports to determine liability for claims. Reviewed estimates and correspondence. Issued payments and scheduled rental reservations for insured and claimants.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Claims Specialist",
+      "url": "",
+      "startDate": "2011-10-01",
+      "endDate": "2012-07-01",
+      "summary": "Correctly coded and billed medical claims for various hospital and nursing facilities. Identified and rectified inconsistencies, deficiencies and discrepancies in medical documentation. Filed and followed up on third party claims. Determined prior authorizations for medication and outpatient procedures. Pre-certified medical and radiology procedures, surgeries and echocardiograms.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Subject Matter Expert",
+      "url": "",
+      "startDate": "2012-07-01",
+      "endDate": "2013-10-01",
+      "summary": "Initiated audit process to evaluate thoroughness of documentation and maintenance of facility standards. Created and maintained computerized record management systems to record and process data and generate reports.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Central Piedmont Community College",
+      "url": "",
+      "area": "Medical Billing and Coding",
+      "studyType": "Associate of Science",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": [
+        "Business",
+        "Accounting",
+        "Healthcare Administration",
+        "Healthcare Management",
+        "Medical Front Office Assisting"
+      ]
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Medical Terminology",
+      "level": "Expert",
+      "keywords": []
+    },
+    {
+      "name": "ICD-10 Coding",
+      "level": "Expert",
+      "keywords": []
+    },
+    {
+      "name": "Billing and Collection Procedures",
+      "level": "Expert",
+      "keywords": []
+    },
+    {
+      "name": "MS Office Proficiency",
+      "level": "Expert",
+      "keywords": [
+        "MS Windows",
+        "Microsoft Outlook",
+        "Word and Excel"
+        ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

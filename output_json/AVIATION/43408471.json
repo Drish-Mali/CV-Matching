@@ -1,0 +1,120 @@
+{
+  "basics": {
+    "name": "Unknown",
+    "label": "Force Analyst",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "summary": "Honorably Discharged Navy First Class Aviation Specialist transitioning from the US Navy to civilian professional with previous experience in criminal justice.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Force Analyst",
+      "startDate": "2013-05-01",
+      "endDate": "Current",
+      "summary": "Developed and led training programs in preparation for combat.",
+      "highlights": []
+    },
+      {
+      "name": "Company Name",
+      "position": "Aviation Maintenance Admin/AZ1",
+      "startDate": "2009-03-01",
+      "endDate": "2013-05-01",
+      "summary": "Ensured system security, database integrity and configuration management was maintained.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Correctional Officer",
+      "startDate": "2005-03-01",
+      "endDate": "2009-03-01",
+      "summary": "Physically restrained individuals when disturbances required physical intervention.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Unknown",
+      "area": "Homeland Security & Intelligence Studies",
+      "studyType": "Masters",
+      "startDate": "",
+      "endDate": ""
+    },
+    {
+      "institution": "Ashford University",
+      "area": "Homeland Security",
+      "studyType": "BA",
+      "startDate": "",
+      "endDate": "2014-07-28"
+    },
+    {
+      "institution": "Lee College",
+      "area": "Process Technology",
+      "studyType": "AAS",
+      "startDate": "",
+      "endDate": "2008-05-25"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Analytical",
+      "keywords": [
+        "CPR and Child CPR Training",
+        "Emergency Planning & Response",
+        "SAR/Sexual Assault Awareness",
+        "Windows Expertise",
+        "Report/Operations Analyst",
+        "Public Safety and Security",
+        "Background in Supervising/Management",
+        "Critical Thinking",
+        "Firearms Safety & Handling",
+        "Judgment and Decision Making",
+        "Personnel and Human Resources",
+        "Active Listening"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Navy and Marine Corps Achievement Medal",
+      "date": "",
+      "awarder": "Company Name",
+      "summary": ""
+    },
+    {
+      "title": "Certificate of Appreciation",
+      "date": "",
+      "awarder": "Company Name",
+      "summary": ""
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Secret Security Clearance Environmental Course FEMA IS-00100.B Certificate",
+      "date": "",
+      "issuer": "Unknown",
+      "url": ""
+    },
+    {
+      "name": "FEMA IS-00559 Certificate 0817N-Computer Operator AZ-6303 Optimized NALCOMIS System Administrator/Analyst Pre-Service Part I - Correctional Officer",
+      "date": "",
+      "issuer": "Unknown",
+      "url": ""
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "volunteer": [],
+  "publications": [],
+  "languages": []
+}

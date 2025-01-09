@@ -1,0 +1,97 @@
+{
+  "basics": {
+    "name": "Senior Student Finance Specialist",
+    "summary": "A dedicated and focused business professional with 12 years of extensive experience in analyzing and researching data to find solutions to issues. Seeking for a career where my skills and abilities can be useful to the company as well as to challenge my growth."
+  },
+  "work": [
+    {
+      "position": "Senior Student Finance Specialist",
+      "startDate": "January 2010",
+      "endDate": "Current",
+      "name": "Company Name",
+      "summary": "Responsible for evaluating students' Financial Aid's compliance with schools' regulations, performing daily Title IV and Tuition Refund calculations and maintaining the students' general ledger. Main adviser of students' credit balances assisting other teams and departments. Took on projects when needed, worked on weekends during month/quarter end.",
+      "highlights": [
+        "Promoted from Student Accounts Processor",
+        "Extensive use of Microsoft Excel - vlookups, pivot tables, formulas, creating simple macros, etc."
+      ]
+    },
+    {
+      "position": "Invoicing Associate",
+      "startDate": "January 2008",
+      "endDate": "January 2010",
+      "name": "Company Name",
+      "summary": "Performed customer region based updates and movements and resolved issues concerning accounts in the wrong channels."
+    },
+    {
+      "position": "Proof Processor",
+      "startDate": "January 2003",
+      "endDate": "January 2007",
+      "name": "Company Name",
+      "summary": "Proof processor responsible for processing customer's transactions and balancing various accounts inclusive of balancing the ATM, coin vault, cash vault, and other monetary instruments daily."
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Illinois at Chicago",
+      "area": "Business Administration",
+      "studyType": "Bachelor's Degree",
+      "endDate": "December 2006"
+    },
+    {
+      "institution": "American Intercontinental University Online",
+      "area": "Business Administration Accounting",
+      "studyType": "Master's Degree",
+      "endDate": "April 2012"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Academic",
+      "keywords": []
+    },
+    {
+      "name": "photo",
+      "keywords": []
+    },
+    {
+      "name": "ATM",
+      "keywords": []
+    },
+    {
+      "name": "computer applications",
+      "keywords": []
+    },
+    {
+      "name": "critical thinking",
+      "keywords": []
+    },
+    {
+      "name": "Database",
+      "keywords": []
+    },
+    {
+      "name": "debit",
+      "keywords": []
+    },
+    {
+      "name": "Financial",
+      "keywords": []
+    },
+    {
+      "name": "general ledger",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Excel",
+      "keywords": []
+    },
+    {
+      "name": "time management",
+      "keywords": []
+    },
+    {
+      "name": "typing",
+      "keywords": []
+    }
+  ]
+}

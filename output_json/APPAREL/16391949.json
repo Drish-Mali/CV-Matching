@@ -1,0 +1,128 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Cashier",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Responsible Cashier experienced at managing front of store needs in busy environments. Friendly and energetic with strong communication and organizational abilities. Seeking role of increased responsibility where strengths in service and sales will be valuable. Results-oriented cashier motivated to exceed expectations and deliver exceptional service to meet all customer needs. Resourceful professional with history of increasing business revenue and decreasing shrinkage while exceeding sales and productivity objectives.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "US",
+      "region": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Cashier",
+      "url": "",
+      "startDate": "2011-08-01",
+      "endDate": "2014-12-01",
+      "summary": "Receive payment by cash or credit cards. Issue receipts, refunds, credits, or change due to customers. Counted money in cash drawers at the beginning of shifts to ensure amounts were correct and adequate change was available. Assessed customer needs and responded to questions. Issued receipts for purchases and gifts. Worked with customer service to resolve issues. Organized register supplies. Worked overtime shifts during busy periods.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Front Desk",
+      "url": "",
+      "startDate": "2014-04-01",
+      "endDate": "2014-06-01",
+      "summary": "Responsible for performing manicurist and pedicurist duties. Provided customer service support to assist customers with their individual needs. Worked with customer service to resolve issues. Issued receipts for purchases and gifts. Cleaned and straightened work area.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Apparel",
+      "url": "",
+      "startDate": "2014-12-01",
+      "endDate": "2015-07-01",
+      "summary": "Described merchandise and explained operation of merchandise to customers. Maintained knowledge of current promotions, policies regarding payment and exchanges, and security practices. Guided customers in choosing items that reflected personal style and shape. Administered all point of sale opening and closing procedures. Replenished floor stock and processed shipments to ensure product availability for customers.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Grocery",
+      "url": "",
+      "startDate": "2015-07-01",
+      "endDate": "2015-11-01",
+      "summary": "Executed cash transactions quickly and accurately. Handled products and equipment in accordance with safety and sanitation guidelines. Directed and managed all functions of the dairy, frozen, produce and bakery departments. Conducted price checks for cashiers and service clerks. Built attractive holiday and seasonal displays for merchandising program. Checked out customers and bagged items quickly. Emphasized fast, friendly customer service.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Cashier",
+      "url": "",
+      "startDate": "2015-11-01",
+      "endDate": "current",
+      "summary": "Assessed customer needs and responded to questions. Cleaned and straightened work area. Issued receipts for purchases and gifts. Bagged merchandise by following standard procedures. Organized register supplies. Worked with customer service to resolve issues. Worked overtime shifts during busy periods.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+     "institution": "Northeast High School",
+      "url": "",
+      "area": "",
+      "studyType": "High School Diploma",
+      "startDate": "",
+      "endDate": "2015",
+      "score": "",
+      "courses": []
+    },
+    {
+     "institution": "Broward College",
+      "url": "",
+      "area": "Guidance",
+      "studyType": "Associate of Arts",
+      "startDate": "",
+      "endDate": "2018",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Cash Handling",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Professional and Friendly",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Careful and Active Listener",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Strong Public Speaker",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Multi-tasking",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Well-Organized",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

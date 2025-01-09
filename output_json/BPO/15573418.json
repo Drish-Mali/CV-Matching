@@ -1,0 +1,95 @@
+{
+  "basics": {
+    "name": "",
+    "label": "General Manager and Board Member",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "High performing Customer Relationship Management / BPO executive with proven experience managing high growth/complex operations serving diverse industries to include wireless, technology, insurance, healthcare and consumer services.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "General Manager and Board Member",
+      "url": "",
+      "startDate": "2011-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Lead a team of 100 associates in all facets of business operations to include contact center, client services, sales, and financial management. Proactively implemented a strategic plan and reengineered business operations.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Chief Executive Officer",
+      "url": "",
+      "startDate": "2007-01-01",
+      "endDate": "Current",
+      "summary": "His expertise includes strategic planning, call center/BPO operations, customer relationship management, business development, account management, and Human Resource Management.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Senior Vice President of Operations and Executive Team Member",
+      "url": "",
+      "startDate": "2004-01-01",
+      "endDate": "2006-01-01",
+      "summary": "Reported to the Chief Executive Officer. Lead the claims processing, customer service, technical support, and roadside assistance groups in all facets of business operations.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of South Florida",
+      "url": "",
+      "area": "Pre-Law",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Customer Relationship Management",
+      "level": "Expert",
+      "keywords": []
+    },
+    {
+      "name": "Strategic Planning",
+      "level": "Expert",
+      "keywords": []
+    },
+    {
+      "name": "Business Development",
+      "level": "Expert",
+      "keywords": []
+    },
+    {
+      "name": "P&L Management",
+      "level": "Expert",
+      "keywords": []
+    },
+    {
+      "name": "Human Resource Management",
+      "level": "Expert",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

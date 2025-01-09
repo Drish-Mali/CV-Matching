@@ -1,0 +1,102 @@
+{
+  "basics": {
+    "name": "Not specified",
+    "label": "QA-QC Lead, Project Manager, Supplier Quality Manager",
+    "image": "",
+    "email": "Not specified",
+    "phone": "Not specified",
+    "url": "Not specified",
+    "summary": "A QA-QC Lead in Subsea 7 (EPC Contractor) & working for Major clients such as TOTAL / TECHNIP / Exxon / ADMA-OPCO (Abu Dhabi National oil Company Group).",
+    "location": {
+      "address": "Beach Tower / Reem Island",
+      "postalCode": "Not specified",
+      "city": "Abu Dhabi",
+      "countryCode": "Not specified",
+      "region": "Not specified"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Subsea7 France SA",
+      "position": "QA-QC Engineer for Erha North project",
+      "url": "Not specified",
+      "startDate": "2010-09-01",
+      "endDate": "2014-03-01",
+      "summary": "Managed QC activities for numerous projects and packages. Participated in the critically assessment rating at the request of the Project Quality Manager.",
+      "highlights": ["PPM facilitation", "Conducted QC visits during manufacturing process", "Processed NCR's raised during inspections"]
+    },
+    {
+      "name": "Bureau Veritas Abu Dhabi",
+      "position": "Project Manager of Umm Lulu project",
+      "url": "Not specified",
+      "startDate": "2014-03-01",
+      "endDate": "Not specified",
+      "summary": "Managed several oil & gas projects, responsible for all phases. Preparation of Technical and Commercial Offer, Contract Execution Plan and co-ordination procedures.",
+      "highlights": ["Full management of Onshore / offshore", "Oversee contract tasks including mobilization of personnel and sub-contracting", "Communication with the Client"]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Ecole Nationale arts & métiers",
+      "url": "Not specified",
+      "area": "Material Science Engineer Diploma",
+      "studyType": "Master's Degree",
+      "startDate": "Not specified",
+      "endDate": "2006-01-01",
+      "score": "Not specified",
+      "courses": []
+    },
+    {
+      "institution": "École Polytechnique de LILLE",
+      "url": "Not specified",
+      "area": "Material Science General University",
+      "studyType": "Diploma",
+      "startDate": "Not specified",
+      "endDate": "2003-01-01",
+      "score": "Not specified",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "CSWIP - Visual Welding Inspector Level 1",
+      "date": "2013-01-01",
+      "issuer": "Rotherham, UK",
+      "url": "Not specified"
+    },
+    {
+      "name": "IRCA Certificate for Quality Management Auditor",
+      "date": "2012-01-01",
+      "issuer": "Paris, France",
+      "url": "Not specified"
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Quality Management",
+      "level": "Not specified",
+      "keywords": ["API", "Auditing", "automotive", "C", "contract management", "contracts", "cost control", "Client", "Clients", "Delivery", "documentation", "Engineer", "financial", "Frame", "Inspection", "Inspector", "invoicing", "ISO9001", "Logistics", "logos", "Managing", "manufacturing process", "Material Science", "Meetings", "MS Office", "MS Outlook", "MS project", "Windows 9", "NT", "oil", "organizing", "organizational", "Painting", "Pascal", "personnel", "producing", "profit", "progress", "Purchasing", "Quality", "Quality Management", "QA", "Quality control", "recruitment", "reporting", "safety", "Scheduling", "Six Sigma", "specification", "suppliers selection", "Systems Management", "Validation", "Veritas", "Welding"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "French",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Arabic",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

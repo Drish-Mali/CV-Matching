@@ -1,0 +1,126 @@
+{
+  "basics": {
+    "name": "MDS Coordinator",
+    "label": "Staff LPN",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "I enjoy challenging sticks. I try my best at being the best. Enjoy working as a team or self if needed.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Chicago",
+      "countryCode": "US",
+      "region": "IL"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Smith Village",
+      "position": "Staff LPN",
+      "url": "",
+      "startDate": "October 2013",
+      "endDate": "April 2015",
+      "summary": "Provide Patient care, Manage a team of CNA's, Injections, Diabetic management, CVA cases",
+      "highlights": []
+    },
+    {
+      "name": "Prairie Manor Nursing & Rehab",
+      "position": "Staff LPN",
+      "url": "",
+      "startDate": "February 2012",
+      "endDate": "September 2014",
+      "summary": "Provided nursing care for up to 30 residents. Supervised up to 4 nursing assistant throughout the shift.",
+      "highlights": []
+    },
+    {
+      "name": "HCR Manor Care",
+      "position": "Staff LPN",
+      "url": "",
+      "startDate": "December 2009",
+      "endDate": "February 2012",
+      "summary": "Provided nursing care for up to 30 residents. Supervised up to 4 nursing assistant throughout the shift.",
+      "highlights": []  
+    },
+    {
+      "name": "Company Name",
+      "position": "MDS Coordinator",
+      "url": "",
+      "startDate": "August 2015",
+      "endDate": "Current",
+      "summary": "Assist and Open schedules for the nurses and other IDT to complete the MDS.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Phlebotomist",
+      "url": "",
+      "startDate": "January 2006",
+      "endDate": "Current",
+      "summary": "Obtain venous blood samples from a variety of patients aging from infants to geriatrics.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Brown Mackie College",
+      "url": "",
+      "area": "Nursing",
+      "studyType": "LPN",
+      "startDate": "",
+      "endDate": "2015",
+      "score": "3.0",
+      "courses": []
+    },
+    {
+      "institution": "Prairie State College",
+      "url": "",
+      "area": "Phlebotomy Technician",
+      "studyType": "Phlebotomy Technician Certificate",
+      "startDate": "",
+      "endDate": "2009",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Prairie State College",
+      "url": "",
+      "area": "Nursing",
+      "studyType": "Associate of Applied Science",
+      "startDate": "",
+      "endDate": "2020",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Nursing",
+      "level": "",
+      "keywords": ["CNA, CPR certified, Diabetic, first aid, Geriatrics, Injections, Nursing, Patient care, Phlebotomy, Coding, Quality, Scheduling, Technician, Vital Signs, Wound Care"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "certificates": [
+    {
+      "name": "MDS 3.0 Coordinator",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "Clinical reimbursement/ MDS 3.0 Coordinator",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "awards": [],
+  "volunteer": []
+}

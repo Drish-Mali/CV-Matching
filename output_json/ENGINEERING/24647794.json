@@ -1,0 +1,165 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Engineering Intern",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Proficient Entry Level Electrical Engineer with excellent technical, analytical and communication skills. Willing to relocate anywhere in the US.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Research",
+      "url": "",
+      "startDate": "July 2015",
+      "endDate": "",
+      "summary": "Conducted a successful research project on innovative use of Active Noise Control (ANC), 3-D Noise Mapping and Passive Noise Control systems as a solution for acoustical noise control issues in fast growing cities.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Engineer",
+      "url": "",
+      "startDate": "October 2014",
+      "endDate": "",
+      "summary": "Successfully engineered a new transmission line to feed a new load in a city's transmission system using PowerWorld simulation software, and ETAP.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Engineering Intern",
+      "url": "",
+      "startDate": "September 2014",
+      "endDate": "August 2015",
+      "summary": "Lead AutoCAD Drafting team of 3 in drafting 2D maps of Oil and Gas production sites. Enhanced my communication and leadership skills within my team and my manager.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Oklahoma Christian University",
+      "url": "",
+      "area": "Engineering Electrical Engineering",
+      "studyType": "Master of Science",
+      "startDate": "",
+      "endDate": "August 2015",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Oklahoma Christian University",
+      "url": "",
+      "area": "Electrical Engineering",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "April 2014",
+      "score": "3.8",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Rwanda Presidential Scholarship",
+      "date": "",
+      "awarder": "",
+      "summary": "Recognized as one of the top ten students nationally (based on academic merit) to receive a 4-year full ride scholarship at Oklahoma Christian University."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Engineering",
+      "level": "",
+      "keywords": [
+        "Testing",
+        "Troubleshooting",
+        "Embedded Hardware & Software",
+        "Microprocessors",
+        "Computer systems",
+        "Hardware & Software design",
+        "Digital signal processing",
+        "Analog and Digital Filter design",
+        "Reading Circuit Schematics",
+        "Circuit Design and Analysis",
+        "Digital logic",
+        "Soldering",
+        "Project management",
+        "Electronics",
+        "Low and High voltage devices",
+        "Low voltage power consumption",
+        "Power Systems Analysis",
+        "Active Noise Cancelling (ANC)",
+        "Research and Development",
+        "Solar PV systems Design",
+        "NationalElectric Code (NEC)",
+        "Engineering Ethics",
+        "Failure Analysis",
+        "Logistics"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "French",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [
+    {
+      "name": "IEEE Robot Competition Systems Design (CAPSTONE)",
+      "startDate": "Spring 2013",
+      "endDate": "Spring 2014",
+      "description": "Collaborated with a team of 4 engineering students in the design and implementation of an autonomous robot that has to detect an oil rig on 'fire', select and transport a specific tool in order to extinguish the fire.",
+      "highlights": [
+        "Lead the mechanical design of the robot; both chassis and robotic arm parts with 3-D printing technology and SolidWorks software."
+      ],
+      "url": ""
+    },
+    {
+      "name": "Spectrum Analyzer Real Time Signal Processing",
+      "startDate": "Fall 2013",
+      "endDate": "",
+      "description": "Programmed a C6713 DSK board and implemented a digital Spectrum Analyzer.",
+      "highlights": [
+        "Used the Software development lifecycle to develop the software of the system.",
+        "Built the UI using Visual Basics.NET."
+      ],
+      "url": ""
+    },
+    {
+      "name": "Guitar Tuner Digital Signal Processing",
+      "startDate": "Spring 2013",
+      "endDate": "",
+      "description": "Engineered a guitar tuner implemented by programming a C6713 DSK board.",
+      "highlights": [
+        "Designed analog filters and digital filters to remove noise in an audio file using algorithms developed with Matlab and Simulink."
+      ],
+      "url": ""
+    },
+    {
+      "name": "Laser Project Computer Systems",
+      "startDate": "Spring 2013",
+      "endDate": "",
+      "description": "Created a compact computer system that controls and animates letters on a wall.",
+      "highlights": [
+        "Implemented the hardware schematics developed in assembly language on a MC68HC11 microprocessor."
+      ],
+      "url": ""
+    }
+  ]
+}

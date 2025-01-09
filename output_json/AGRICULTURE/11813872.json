@@ -1,0 +1,159 @@
+{
+  "basics": {
+    "name": "Anonymous",
+    "label": "VP, Principal",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "I am highly skilled,growth mindset IT professional having more than 20 years experience mostly in financial industry related with providing advanced data solutions using innovative database technology.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": [
+    ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "VP, Principal",
+      "url": "",
+      "startDate": "2003-01-01",
+      "endDate": "Current",
+      "summary": "Architected and developed an innovative product called 'IBOR 1.0' to provide real-time market values, exposures...",
+      "highlights": [
+        "Designed and developed a data quality reconciliation process",
+        "Built a team to support huge product demands",
+        "Led a team to design and develop a product to provide investment performance",
+        "Contributed to the development of IBOR+"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Senior Software Engineer",
+      "url": "",
+      "startDate": "2001-12-01",
+      "endDate": "2003-01-01",
+      "summary": "Developed and deployed a Commodity Trading System.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Database Developer",
+      "url": "",
+      "startDate": "2001-03-01",
+      "endDate": "2001-12-01",
+      "summary": "Contributed to successfully build and deploy a system to maintain various agriculture products.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Oracle Developer",
+      "url": "",
+      "startDate": "1998-01-01",
+      "endDate": "2001-03-01",
+      "summary": "Contributed significantly to develop many products at Fuji Foundation Islamabad, Pakistan.",
+      "highlights": [
+        "Hospital Management System",
+        "Shares Management System",
+        "Asset Management System",
+        "Accounting Management System",
+        "Vehicle Management System",
+        "Inventory Management System"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "QAU",
+      "url": "",
+      "area": "Computer Science And Programming",
+      "studyType": "Master of Science",
+      "startDate": "1998-09-01",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+        "institution": "CFA Institute",
+        "url": "",
+        "area": "Finance",
+        "studyType": "CFA Level 1",
+        "startDate": "2008-01-01",
+        "endDate": "",
+        "score": "",
+        "courses": []
+    },
+    {
+        "institution": "Udemy Courses",
+        "url": "",
+        "area": "Python For Finance",
+        "studyType": "",
+        "startDate": "",
+        "endDate": "",
+        "score": "",
+        "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "AWS Certified Cloud Practitioner",
+      "date": "2020-01-01",
+      "issuer": "Amazon",
+      "url": ""
+    },
+    {
+      "name": "Leadership for Life",
+      "date": "2018-01-01",
+      "issuer": "Babson College",
+      "url": ""
+    },
+    {
+      "name": "Oracle Certified Professional",
+      "date": "2001-01-01",
+      "issuer": "Oracle",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Database Development",
+      "level": "Master",
+      "keywords": [
+        "Oracle Exadata",
+        "Amazon Redshift",
+        "SQL",
+        "Python",
+        "Java",
+        "Apache Ignite",
+        "AWS"
+      ]
+    },
+    {
+      "name": "Data Science",
+      "level": "Basic",
+      "keywords": [
+        "Pandas",
+        "Matplotlib"
+      ]
+    },
+    {
+      "name": "Agile Development",
+      "level": "Experienced",
+      "keywords": [
+        "JIRA"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

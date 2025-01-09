@@ -1,0 +1,139 @@
+{
+  "basics": {
+    "name": "Vice President, Information Technology",
+    "email": "",
+    "phone": "",
+    "image": "",
+    "url": "",
+    "summary": "Performance-driven IT executive experienced in building technology organizations that make IT a strategic partner of the company. Creates IT competitive advantages in capability and scale by leveraging best-in-class infrastructures. Highly experienced in building, improving, and turning around IT organizations.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "US",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Vice President, Information Technology",
+      "url": "",
+      "startDate": "2012-11-01",
+      "endDate": "Current",
+      "summary": "Executive Profile [Details in Resume Text]",
+      "highlights": ["IT Strategy Team building", "IT Management Enterprise platforms", "Project management Business continuity", "Business Intelligence Disaster recovery", "Cloud computing Budgeting", "Cost control", "SOX, HIPAA, GLBA IT Infrastructure"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Director, IT Infrastructure",
+      "url": "",
+      "startDate": "2008-03-01",
+      "endDate": "2012-11-01",
+      "summary": "Executive Profile [Details in Resume Text]",
+      "highlights": ["Major IT projects delivered on time and under budget", "Business Continuity/Disaster Recovery infrastructure", "Comprehensive IT monitoring", "IT compliance with HIPAA and PCI regulations", "Infrastructure designed to be compliant with SOX regulations"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Manager, IT Operations - Windows",
+      "url": "",
+      "startDate": "2006-10-01",
+      "endDate": "2008-03-01",
+      "summary": "Executive Profile [Details in Resume Text]",
+      "highlights": ["Stable environment by standardizing processes and procedures", "IT-dependent projects delivered on time and under budget"]
+    },
+    {
+      "name": "Company Name",
+      "position": "System Administrator",
+      "url": "",
+      "startDate": "1996-03-01",
+      "endDate": "1999-09-01",
+      "summary": "Executive Profile [Details in Resume Text]",
+      "highlights": ["Mission critical support of Windows-based workstations and servers"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Inside Sales Representative",
+      "url": "",
+      "startDate": "1994-06-01",
+      "endDate": "1996-03-01",
+      "summary": "Details not Provided in Resume Text",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Massachusetts",
+      "url": "",
+      "area": "",
+      "studyType": "M.B.A",
+      "startDate": "",
+      "endDate": "2007-12-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Arizona State University",
+      "url": "",
+      "area": "Real Estate",
+      "studyType": "B.S",
+      "startDate": "",
+      "endDate": "1994-05-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Various",
+      "level": "",
+      "keywords": ["Active Directory", "Microsoft Exchange", "HP Insight Manager", "EMC Avamar", "Symantec Ghost", "LanGuard Network Security Scanner", "Voltage Email Encryption", "Websense", "Quest Archive Manager", "MS Project", "Symantec Backup Exec", "Microsoft IIS", "SharePoint", "CA ArcServe", "Barracuda Spam Firewall", "Blackberry Enterprise Server", "Sophos Anti-virus", "Trend Micro Anti-Virus", "Bradford Networks Network Sentry", "VMWare", "Hyper-V", "Barracuda Backup", "Barracuda Web Filter", "Cisco Call Manager", "Cisco UCCX", "Exact Target", "Cvent", "Cisco firewalls", "Cisco routers", "Cisco switches", "Checkpoint firewalls", "HP Procurve switches", "Meraki Wi-Fi", "Cisco Wi-Fi", "HP Proliant", "Dell PowerEdge"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "certificates": [
+      {
+        "name": "Denver Peak Academy - Lean Process Improvement (Black Belt)",
+        "date": "",
+        "issuer": "",
+        "url": ""
+      },
+      {
+        "name": "Harvard ManageMentor Leadership and Management (12 Courses)",
+        "date": "", 
+        "issuer": "",
+        "url": ""
+      },
+      {
+        "name": "Microsoft Certified Systems Engineer (MCSE)",
+        "date": "",
+        "issuer": "",
+        "url": ""
+      },
+      {
+        "name": "Microsoft Certified Systems Administrator (MCSA)",
+        "date": "",
+        "issuer": "",
+        "url": ""
+      },
+      {
+        "name": "Cisco Certified Network Associate (CCNA)",
+        "date": "",
+        "issuer": "",
+        "url": ""
+      },
+      {
+        "name": "Citrix Certified Administrator (CCA)",
+        "date": "",
+        "issuer": "",
+        "url": ""
+      }
+    ]
+}

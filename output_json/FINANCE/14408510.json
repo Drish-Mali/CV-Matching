@@ -1,0 +1,108 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Finance Coordinator",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Dedicated accounting and finance professional with proficient analytical, budget processing, supporting and researching experience.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Finance Coordinator",
+      "url": "",
+      "startDate": "2014-05-01",
+      "endDate": "Present",
+      "summary": "General ledger reconciliation, data management and analysis, auditing, accounts payable and accounts receivable management, and multi-task management.",
+      "highlights": ["Microsoft Excel, Word, Access, PowerPoint, MS Outlook, SAP, Marketing Funds System, Siebel, AS400/Mainframe, Baan ERP, SharePoint, Salesforce.com, SAP CRM"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Master Data Specialist",
+      "url": "",
+      "startDate": "2012-02-01",
+      "endDate": "2014-05-01",
+      "summary": "Created customer master data records and sales hierarchies in SAP. Served as SME on Warehouse Direct (WD) accounts.",
+      "highlights": ["Reduced the WD account create and change work flow process time by half."]
+    },
+    {
+      "name": "Company Name",
+      "position": "Financial Analyst",
+      "url": "",
+      "startDate": "2008-12-01",
+      "endDate": "2012-02-01",
+      "summary": "Worked closely with pharmaceutical client CFO and controller generating reports and reconciliations to assist in cash flow forecasting. ",
+      "highlights": ["Participated in the recommendation, development, testing and implementation of department automated AR Reconciliation tool. Received several recognition awards."]
+    },
+    {
+      "name": "Company Name",
+      "position": "Financial Analyst",
+      "url": "",
+      "startDate": "2006-08-01",
+      "endDate": "2008-07-01",
+      "summary": "Maintained and accurately loaded multi-million dollar marketing budgets and forecasts into the Marketing Funds sub-ledger.",
+      "highlights": ["Assumed lead role for reporting inventory status to brand managers and assisting in the resale of overstock items."]
+    },
+    {
+      "name": "Company Name",
+      "position": "Trade Promotion Specialist",
+      "url": "",
+      "startDate": "2000-02-01",
+      "endDate": "2006-08-01",
+      "summary": "Pre-audited and processed trade marketing and bottler coop reimbursements to conform to GAAP guidelines.",
+      "highlights": ["Received 'What Outstanding Work' (WOW) award for initiative and independent effort. Received 'Shooting Star' award for individual contribution to team's overall successful accomplishments."]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Columbia Southern University",
+      "url": "",
+      "area": "Business Administration/Finance",
+      "studyType": "B.S",
+      "startDate": "",
+      "endDate": "2016-01-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Finance",
+      "level": "",
+      "keywords": [
+        "Accounting",
+        "Accrual",
+        "Auditing",
+        "Budgeting",
+        "Data Management and Analysis",
+        "Finance",
+        "Forecasting",
+        "General Ledger",
+        "Inventory Management",
+        "Marketing",
+        "Microsoft Excel",
+        "PowerPoint",
+        "Reconciling",
+        "Sales"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

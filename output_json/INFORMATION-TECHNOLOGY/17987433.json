@@ -1,0 +1,117 @@
+{
+  "basics": {
+    "name": "EPIC INFORMATION TECHNOLOGY SPECIALIST",
+    "label": "Information Technology Specialist",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Seeking a position in the field of Bio-Pharma where I can utilize and contribute my skills in an ingenious manner.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "EPIC Information Technology Specialist",
+      "url": "",
+      "startDate": "2017-04-01",
+      "endDate": "2017-06-01",
+      "summary": "Supported physicians and nurses with updating work list and flowsheet information. Provided instructions to staff on the use of EPIC Care. Provided support during the go-live. Nanotechnology THz biological imaging.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Research Associate",
+      "url": "",
+      "startDate": "2016-01-01",
+      "endDate": "2016-11-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "",
+      "url": "",
+      "startDate": "2013-11-01",
+      "endDate": "2015-12-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Research Associate",
+      "url": "",
+      "startDate": "2010-12-01",
+      "endDate": "2012-04-01",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "JSS College of Pharmacy",
+      "url": "",
+      "area": "Bio Technology",
+      "studyType": "Master of Pharmacy",
+      "startDate": "",
+      "endDate": "2012-08-01",
+      "score": "3.8",
+      "courses": []
+    },
+    {
+      "institution": "Kakatiya University",
+      "url": "",
+      "area": "",
+      "studyType": "Bachelor of Pharmacy",
+      "startDate": "",
+      "endDate": "2010-05-01",
+      "score": "3.6",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "GOLD MEDAL for securing highest marks in Master of Pharmacy, JSS College of Pharmacy.",
+      "date": "2013-01-01",
+      "awarder": "JSS College of Pharmacy",
+      "summary": ""
+    }
+  ],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "General",
+      "level": "",
+      "keywords": [
+        "Microbial testing",
+        "endotoxin- LAL Test",
+        "Nano particle Size and Charge analysis by Malveren Nano ZS 90",
+        "Protein extractions",
+        "HPLC handling and Chromatography techniques",
+        "Polymerase chain reaction (PCR) technique",
+        "EPIC care",
+        "Method development",
+        "Method Validation",
+        "Method verification",
+        "Method transfer of new analytical methods",
+        "Wet chemistry techniques",
+        "MS office",
+        "Efficient Internet Browsing",
+        "SAS programming"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

@@ -1,0 +1,114 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Medical Billing Specialist",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Experienced in Microsoft Office products such as Word, Excel, Access, and PowerPoint, face-to-face customer service interaction, communications with external clients via email and conference calling, creating and maintaining detailed records of any given project or task. Some experience with mailroom machines. Strong experience with medical coding ICD-9, CPT, HCPCS II, and medical terminology with intermediate experience with ICD-10 coding.",
+    "location": {
+      "address": "City, State",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Medical Billing Specialist",
+      "url": "",
+      "startDate": "2014-07-01",
+      "endDate": "2015-12-01",
+      "summary": "Resolved medical billing issues, performed a variety of tasks related to ICD-9, CPT, HCPCS II medical codes. Communicated with medical transcriptionists regarding patient medical records, posted charges, payments and adjustments. Performed quality control of the data entry system to verify that claims and payments are posted correctly.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Imaging Specialist I",
+      "url": "",
+      "startDate": "2012-01-01",
+      "endDate": "2013-03-01",
+      "summary": "Processed payments for medical offices, collections agencies, and utility companies. Ensured information was legible and scanned into system.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Cashier",
+      "url": "",
+      "startDate": "2011-09-01",
+      "endDate": "2012-01-01",
+      "summary": "Handled customer transactions such as sales and returns. Responsible for handling and counting large amounts of cash.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Cashier",
+      "url": "",
+      "startDate": "2010-05-01",
+      "endDate": "2010-11-01",
+      "summary": "Handled customer transactions such as sales and returns. Responsible for handling and counting large amounts of cash.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Cashier",
+      "url": "",
+      "startDate": "2006-04-01",
+      "endDate": "2006-08-01",
+      "summary": "Handled customer transactions such as sales and returns. Responsible for handling large amounts of cash.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Northgate High School",
+      "url": "",
+      "area": "",
+      "studyType": "High School Diploma",
+      "startDate": "",
+      "endDate": "2006-05-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Columbus State University",
+      "url": "",
+      "area": "Healthcare Information Technology Management, Computer Networking",
+      "studyType": "Associates",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Billing",
+      "level": "Master",
+      "keywords": [
+        "Microsoft Office Products",
+        "Word",
+        "Excel",
+        "Access",
+        "PowerPoint",
+        "Customer Service",
+        "Email Communication",
+        "Coding ICD-9, CPT, HCPCS II",
+        "Medical Terminology",
+        "ICD-10 coding"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

@@ -1,0 +1,125 @@
+{
+  "basics": {
+    "name": "Anonymous",
+    "label": "Finance Manager",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Ability to communicate effectively to customers, management and staff. Establish rapport with clients from diverse socio-economic and ethnic backgrounds. Ability to deal with crisis in a calm, professional manner.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Lasco Ford",
+      "position": "Finance Manager",
+      "url": "",
+      "startDate": "2013-01-01",
+      "endDate": "2016-03-01",
+      "summary": "As the lead finance manager my responsibilities were numerous including representing the dealership and abiding by all legal and ethical guidelines under Federal Law.",
+      "highlights": []
+    },
+    {
+      "name": "Al Serra Buick/GMC",
+      "position": "New Car Sales",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "I assisted customers with their New vehicle purchase/Lease with excellent counseling and product knowledge. I maintained a Customer Survey Index CSI of 100%.",
+      "highlights": []
+    },
+    {
+        "name": "LaFontaine Auto Group",
+        "position": "Assistant Sales Manager/Sales",
+        "url": "",
+        "startDate": "2007-01-01",
+        "endDate": "2009-01-01",
+        "summary": "I assisted customers with purchase/lease of a new or pre-owned vehicle, by maintaining the knowledge of the current purchase/lease options offered by the manufacture.",
+        "highlights": []
+    },
+    {
+        "name": "Bill Fox Chevrolet",
+        "position": "Assistant Used Car Manager/Sales",
+        "url": "",
+        "startDate": "2000-01-01",
+        "endDate": "2005-01-01",
+        "summary": "I assisted customers with their vehicle purchase/lease. Through excellent counseling and product knowledge.",
+        "highlights": []
+    },
+    {
+        "name": "Expressway Ford",
+        "position": "Used Car Manager",
+        "url": "",
+        "startDate": "1998-01-01",
+        "endDate": "2000-01-01",
+        "summary": "I managed the used car inventory to include; appraisal's, auction purchases and sales, wholesale, deal desking, ongoing sales training, and the daily responsibilities of a Used Car Manager.",
+        "highlights": []
+    },
+    {
+        "name": "Unknown Company",
+        "position": "General Sales Manager",
+        "url": "",
+        "startDate": "1996-01-01",
+        "endDate": "1998-01-01",
+        "summary": "I was responsible for the inventory of both locations with a total of approximately 200 units and maintained the daily functions of the store.",
+        "highlights": []
+    },
+    {
+        "name": "Albert Chevrolet",
+        "position": "Sales/Assistant Used Car Manager",
+        "url": "",
+        "startDate": "1991-01-01",
+        "endDate": "1996-01-01",
+        "summary": "I assisted customers with their vehicle purchase/lease needs through excellent counseling and kept updated knowledge of current rebate availability as well as product knowledge.",
+        "highlights": []
+    },
+    {
+        "name": "United States Air Force",
+        "position": "Munitions Systems Specialist",
+        "url": "",
+        "startDate": "1985-01-01",
+        "endDate": "1988-01-01",
+        "summary": "I assembled, disassembled and maintained non-nuclear tactical weaponry.",
+        "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Baker College",
+      "url": "",
+      "area": "Medical Engineering / Business Management",
+      "studyType": "2 years",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Finance",
+      "level": "Expert",
+      "keywords": ["Team leadership", "Accomplished in relationship selling", "Friendly and cheerful", "Approachable", "Professional customer interactions", "Exceptional time management", "Knowledge of Sales Management"]
+    }
+  ],
+  "languages": [],
+  "interests": [
+    {
+      "name": "Outdoor activities",
+      "keywords": ["Camping", "Canoeing", "Hunting"]
+    }
+  ],
+  "references": [],
+  "projects": []
+}

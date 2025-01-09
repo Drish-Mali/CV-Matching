@@ -1,0 +1,182 @@
+{
+  "basics": {
+    "name": "Not Given",
+    "label": "Director, Quality Improvement Network Facilitation",
+    "image": "",
+    "email": "Not Given",
+    "phone": "Not Given",
+    "url": "Not Given",
+    "summary": "Highly accomplished registered nurse with more than 20 years of experience in clinical nursing, management, statistics, quality management, and process improvement. Comprehensive understanding of healthcare with proven ability to build effective relationships, develop and maintain highly reliable teams, with skills as a coach, mentor, facilitator, and teacher.",
+    "location": {
+      "address": "Not Given",
+      "postalCode": "Not Given",
+      "city": "Not Given",
+      "countryCode": "US",
+      "region": "Not Given"
+    },
+    "profiles": [
+      {
+        "network": "Not Given",
+        "username": "Not Given",
+        "url": "Not Given"
+      }
+    ]
+  },
+  "work": [
+    {
+        "name": "Not Given",
+        "position": "Director, Quality Improvement Network Facilitation",
+        "url": "Not Given",
+        "startDate": "2014-01-01",
+        "endDate": "Current",
+        "summary": "Manage and analyze state level data to identify California's existing performance and identify gaps and opportunities for improvement. Provide oversight, alignment, and coordination of data management, measurement, and reporting functions.",
+        "highlights": []
+    },
+    {
+        "name": "Not Given",
+        "position": "Adjunct Faculty, Assistant Professor",
+        "url": "Not Given",
+        "startDate": "2005-01-01",
+        "endDate": "2011-01-01",
+        "summary": "Responsible for planning, coordinating, implementing and evaluating various Healthcare Administration courses.",
+        "highlights": []
+    },
+    {
+        "name": "Not Given",
+        "position": "Clinic Director",
+        "url": "Not Given",
+        "startDate": "2004-01-01",
+        "endDate": "2005-01-01",
+        "summary": "Managed a healthcare clinic including 25 physicians, Nurse Practitioners (NP), nurses (RNs) and support staff. Clinic census was approximately 100 patients per day. Services offered included Primary Care, Obstetrics/ Gynecology, and Pediatrics.",
+        "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Des Moines University Osteopathic Medical center, College of Health Sciences",
+      "url": "",
+      "area": "Public Health",
+      "studyType": "Master",
+      "startDate": "Not Given",
+      "endDate": "Not Given",
+      "score": "Not Given",
+      "courses": []
+    },
+    {
+      "institution": "Des Moines Area Community College",
+      "url": "",
+      "area": "Nursing",
+      "studyType": "ADN",
+      "startDate": "Not Given",
+      "endDate": "Not Given",
+      "score": "Not Given",
+      "courses": []
+    },
+    {
+      "institution": "Des Moines University Osteopathic Medical center, College of Health Sciences",
+      "url": "",
+      "area": "Health Care Administration",
+      "studyType": "Master",
+      "startDate": "Not Given",
+      "endDate": "Not Given",
+      "score": "Not Given",
+      "courses": []
+    },
+    {
+      "institution": "Pars College",
+      "url": "",
+      "area": "Psychology",
+      "studyType": "B.S.",
+      "startDate": "Not Given",
+      "endDate": "Not Given",
+      "score": "Not Given",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Board Certified Registered Nurse",
+      "date": "Not Given",
+      "issuer": "Not Given",
+      "url": "Not Given"
+    },
+    {
+      "name": "Board Certified Registered Public Health Nurse",
+      "date": "Not Given",
+      "issuer": "Not Given",
+      "url": "Not Given"
+    },
+    {
+      "name": "IHI Certified Improvement Adviser",
+      "date": "Not Given",
+      "issuer": "Not Given",
+      "url": "Not Given"
+    },
+    {
+      "name": "Certified Green Belt Six Sigma Methodology",
+      "date": "Not Given",
+      "issuer": "Not Given",
+      "url": "Not Given"
+    },
+    {
+      "name": "Certified Medical Office Manager",
+      "date": "Not Given",
+      "issuer": "Not Given",
+      "url": "Not Given"
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Nursing",
+      "level": "Not Given",
+      "keywords": []
+    },
+    {
+      "name": "Management",
+      "level": "Not Given",
+      "keywords": []
+    },
+    {
+      "name": "Process Improvement",
+      "level": "Not Given",
+      "keywords": []
+    },
+    {
+      "name": "Statistics and data Analysis",
+      "level": "Not Given",
+      "keywords": []
+    },
+    {
+      "name": "Operationalizing best practices",
+      "level": "Not Given",
+      "keywords": []
+    },
+    {
+      "name": "Teaching/ Facilitating/ Coaching/ Mentoring",
+      "level": "Not Given",
+      "keywords": []
+    },
+    {
+      "name": "Team Building",
+      "level": "Not Given",
+      "keywords": []
+    },
+    {
+      "name": "Marketing and Public Relations",
+      "level": "Not Given",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "English, Farsi, Dari",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

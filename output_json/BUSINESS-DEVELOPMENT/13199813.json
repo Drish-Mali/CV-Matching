@@ -1,0 +1,128 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Director of Business Development",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "A senior executive with a broad array of skills and expertise in business development, marketing, sales, account management and market research. Experienced in increasing income and market share, brand building, discovering new opportunities in mature markets, managing accounts, client service and leading teams.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Director of Business Development",
+      "url": "",
+      "startDate": "2005-04",
+      "endDate": "2015-04",
+      "summary": "Developed and implemented growth initiatives in various different environments and cities. Notable accomplishments include developing relationships and securing priority status leading to substantial growth, redesigning business development programs, increasing business more than double and revamping the format of monthly meetings leading to increased attendance.",
+      "highlights": [
+        "Increased income 112% in 12 months in Austin",
+        "Increased market share from 20% to 70% in downtown Atlanta construction market in 12 months",
+        "Designed and executed branding plan to change the image of the organization"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Director of Business Development/Political Relations Director",
+      "url": "",
+      "startDate": "1998-01",
+      "endDate": "2005-01",
+      "summary": "Covered North Carolina, South Carolina and Georgia where I focused on growing market share leveraging client, political, and end-user relationships. Also served as a Political Director endorsing and aiding in successful campaign runs.",
+      "highlights": [
+        "Growing the market share by 90% in the three states, with growth over 100% in Atlanta alone",
+        "Leveraged relationships to secure work at projects for companies and gained introductions to the executives of other end-users to provide even more bid opportunities",
+        "Endorsed and assisted in successful election campaigns"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Business Manager/Account Executive",
+      "url": "",
+      "startDate": "1995-01",
+      "endDate": "1998-01",
+      "summary": "Started under my father's guidance and later developed skills in sales and management while running local Firestone Automotive and Tire Stores and Transworld Systems, an accounts receivables solutions company.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Charleston Southern University",
+      "url": "",
+      "area": "English",
+      "studyType": "Bachelor of Arts",
+      "startDate": "",
+      "endDate": "1991",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Dale Carnegie University",
+      "url": "",
+      "area": "Executive Communication",
+      "studyType": "",
+      "startDate": "2014",
+      "endDate": "2014",
+      "score": "",
+      "courses": [
+        "How to Communicate with Diplomacy and Tact"
+      ]
+    },
+    {
+      "institution": "Dartmouth University",
+      "url": "",
+      "area": "Spanish Immersion",
+      "studyType": "",
+      "startDate": "2005",
+      "endDate": "2005",
+      "score": "",
+      "courses": [
+        "10-day Spanish language learning course"
+      ]
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Business Development",
+      "level": "",
+      "keywords": [
+        "Superb Customer Service",
+        "Cold Calling",
+        "Relationship Building",
+        "Marketing",
+        "Market Research",
+        "Various CRM software products including Salesforce, Salespoint, ZOHO, and Outlook",
+        "Developing Marketing Materials",
+        "Complaint Resolution",
+        "Business-to-business",
+        "Cabinets",
+        "Sales",
+        "Directing Large Teams",
+        "Motivating Team Members",
+        "Identifying and Capturing New Markets",
+        "Public Speaking",
+        "Problem Solving",
+        "Critical Thinking",
+        "Leadership",
+        "Performance Analysis",
+        "Budget Development and Forecasting"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

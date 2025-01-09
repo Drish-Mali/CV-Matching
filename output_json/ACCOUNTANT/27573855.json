@@ -1,0 +1,109 @@
+{
+  "basics": {
+    "name": "CORPORATE ACCOUNTANT",
+    "summary": "Over 15 years of increasingly responsible experience in general accounting, budgeting and reporting, fixed asset management, project management, payroll and income tax preparation, and database administration. Eager to acquire a position in a prestigious organization, where I actively participate in their enhancement and my education, professional experience, and skills become a positive feature to the company.",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Corporate Accountant",
+      "url": "",
+      "startDate": "Jan 2011",
+      "endDate": "Jun 2015",
+      "summary": "Implemented fixed assets internal controls create depreciation schedules, files, and monitor capital expenditures to ensure all projects are completed within budget and in the time frame stipulated.",
+      "highlights": ["ERP Implementations", "Fixed Assets Administrator", "Project Lead", "Account Reconciliation Skill", "Payroll and Budget Proficiency", "Capital Expenditures and Inventory Management", "Communications Skills", "Decision making", "Financial Statements Analysis", "Research Skills", "Fast learner"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Senior Accountant/Analyst",
+      "url": "",
+      "startDate": "Jan 2010",
+      "endDate": "Jan 2011",
+      "summary": "Responsible to prepare several reports such as; Operating expense report, Sales report, Revenue, and COGS analysis report in which we compare prior month and prior year data for decision making.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Accountant",
+      "url": "",
+      "startDate": "Jan 2003",
+      "endDate": "Jan 2010",
+      "summary": "Performed general accounting duties; prepare journal entries, balance month end closing transactions, monitor inter-company transactions and confirmed balances at month end, prepared account analysis report and reconciliations as per company standards.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Financial institution Accounting Clerk",
+      "url": "",
+      "startDate": "Jan 2000",
+      "endDate": "Jan 2003",
+      "summary": "Managed to downsize account reconciliation balance from 83 to .75 million dollars on open balances.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Financial institution Accounting Clerk",
+      "url": "",
+      "startDate": "Jan 1998",
+      "endDate": "Jan 2000",
+      "summary": "Reconciled bank accounts cleared more than .75 million in open items.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Universidad Metropolitan University",
+      "area": "Business Administration",
+      "studyType": "Graduate Diploma",
+      "startDate": "",
+      "endDate": "2009",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Universidad del Turabo",
+      "area": "Accounting",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "2007",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Accounting",
+      "level": "",
+      "keywords": ["ISO9001", "Team Lead", "Logistics", "MAPICS", "Excel", "Outlook", "Power Point", "Word", "Works", "QuickBooks", "SAGE", "Sales", "SAP", "SAP R3", "Sarbanes Oxley", "self-starter", "Spanish", "SPC4", "Vertex", "Ceridian", "ADP"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

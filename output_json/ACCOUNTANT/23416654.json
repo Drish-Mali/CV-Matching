@@ -1,0 +1,152 @@
+{
+  "basics": {
+    "name": "Contract Accountant",
+    "label": "Accountant",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "More than ten years of progressive experience in manufacturing accounting. Currently preparing for CMA exam; CPA eligible. Exceptional analytical, communication, and leadership skills. Willing to relocate.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Robbins LLC",
+      "position": "Contract Accountant",
+      "url": "",
+      "startDate": "January 2014",
+      "endDate": "Current",
+      "summary": "Contracted as accountant for client during a maternity leave (Client ERP software NetSuite). Assessed and advised client on internal controls, audit follow up to ensured policy and procedure compliance and effectiveness.",
+      "highlights": [
+        "Decreased month end close from a ten day close to a three day close without compromising the integrity of the financial statements",
+        "Implemented paperless AP filing system"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Quality Manager",
+      "url": "",
+      "startDate": "January 2008",
+      "endDate": "January 2014",
+      "summary": "Lead a team of direct report quality assurance specialists and inspectors. Ensure plant compliance with ISO 9001:2008.",
+      "highlights": [
+        "Zero findings on first plant ISO audit"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Senior Staff Accountant",
+      "url": "",
+      "startDate": "March 2008",
+      "endDate": "April 2013",
+      "summary": "Responsible for month end closing process for three plants. Management of all AP and AR functions. Supervision of AP/AR clerks. Financial statement analysis; Balance sheet reconciliations; Variance accounts analysis; deep analysis requiring much research.",
+      "highlights": [
+        "Lead semiannual bank audits and financial statement audit",
+        "Financial results reporting to President when VP of Finance is unavailable"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Staff Accountant",
+      "url": "",
+      "startDate": "January 2004",
+      "endDate": "January 2008",
+      "summary": "General ledger: BS accounts, fixed assets, inter-company accounts.",
+      "highlights": [
+        "Key member of fixed asset module implementation"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Staff Accountant",
+      "url": "",
+      "startDate": "January 2004",
+      "endDate": "January 2004",
+      "summary": "Payroll and cash management.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Accounts Receivable",
+      "url": "",
+      "startDate": "January 2003",
+      "endDate": "January 2004",
+      "summary": "Accounts receivable and accounts payable.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of North Alabama",
+      "url": "",
+      "area": "Accounting and Finance",
+      "studyType": "BBA",
+      "startDate": "",
+      "endDate": "2004",
+      "score": "3.7",
+      "courses": [
+        "Accounting",
+        "Finance"
+      ]
+    },
+    {
+      "institution": "Columbia State Community College",
+      "url": "",
+      "area": "",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "2001",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Robbins LLC's Presidential Award",
+      "date": "",
+      "awarder": "Robbins LLC",
+      "summary": "Awarded each year for going above and beyond job responsibilities, creating efficiencies, and cost savings."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Accounting",
+      "level": "",
+      "keywords": [
+        "Month end close", 
+        "Year end close", 
+        "Cash Management", 
+        "Supervision", 
+        "AP/AR", 
+        "Acquisitions",
+        "Financial Statements", 
+        "Financial statement analysis", 
+        "General Ledger", 
+        "Internal Control",
+        "Inventory", 
+        "Quality Assurance", 
+        "ISO", 
+        "ISO 9001", 
+        "IFS", 
+        "NetSuite", 
+        "JD Edwards", 
+        "Macola", 
+        "Excel", 
+        "Outlook", 
+        "PowerPoint", 
+        "Word", 
+        "QuickBooks"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

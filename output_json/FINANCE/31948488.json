@@ -1,0 +1,122 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Finance Manager",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Highly organized and detail-focused Accounting Technician with an exceptional track record of accurately handling financial reporting in deadline-oriented environments. Skilled in recording transactions, posting debits and credits, reconciling accounts, and ensuring accuracy and completeness of data. Expertise in developing and delivering monthly, quarterly, and annual financial statements within tight deadlines. Proficiency in managing accounts payable and accounts receivable, generating invoices and monthly statements for clients. Proven ability to identify and implement improvements to streamline processes and increase efficiency and productivity.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": [
+  
+    ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Finance Manager",
+      "url": "",
+      "startDate": "November 2009",
+      "endDate": "October 2015",
+      "summary": "Prepare schedules and consolidate information for annual budget planning. Prepare financial statements with budget and actual comparisons using Financial Edge. Compiles and prepares ongoing cash flow forecasting and needs analysis. Prepare items and schedules for annual compliance and financial audits. Prepares account and bank reconciliations. Obtain bids and proposals as applicable for capital equipment, fixed assets, and services. Maintain fixed assets files. Manage credit card assignment and limits. Prepare and manage job descriptions, orientation and departure paper. Process background checks for staff and board members. Maintain personnel files for all employees. Act as liaison with payroll service to process bi-weekly payroll and maintain paid time off records.",
+      "highlights": ["Microsoft Word", "Microsoft Excel", "Financial Edge", "QuickBooks"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Accounting Technician",
+      "url": "",
+      "startDate": "October 2006",
+      "endDate": "July 2009",
+      "summary": "Performed double-entry accrual accounting work in order to maintain a combination of journals and ledgers. Examined, verified, and analyzed a variety of documents including purchase orders, vouchers, payrolls, and property records. Determined the mathematical correctness, validity, and clerical accuracy of the documents. Resolved disagreements by contacting vendor, prepared documents with supporting backup, coded documents, and posted to appropriate ledger or journal. Maintained records to track expenditures for over 30 building projects to ensure budget is not exceeded. Verified accuracy of over 200 general ledger accounts each month. Produced and reviewed financial reports. Excelled within a fast-paced environment, continually taking on increased levels of responsibility.",
+      "highlights": ["Microsoft Word", "Microsoft Excel", "Financial Edge", "QuickBooks"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Owner/Bookkeeper",
+      "url": "",
+      "startDate": "January 2006",
+      "endDate": "July 2006",
+      "summary": "Provided full-charge bookkeeping service to small business owners. Managed all financial transactions, posted debits and credits, produced financial statements, and recorded all transactions with strict attention to details. Managed accounts payables, accounts receivables, journal entries, 1099 forms, and tax preparation. Reconciled and balanced accounts. Generated monthly statements and invoices for customers. Prepared financial summaries using Microsoft Excel detailing companies' financial status. Generated bank deposits, verified and balanced receipts. Researched and resolved billing and collections disputes. Served as liaison with Certified Public Accountants. Assisted clients with administrative duties. Provided notary services.",
+      "highlights": ["Microsoft Word", "Microsoft Excel", "Financial Edge", "QuickBooks"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Office Manager",
+      "url": "",
+      "startDate": "April 2003",
+      "endDate": "December 2005",
+      "summary": "Established and maintained filing system. Procured office equipment and supplies. Served as liaison with subcontractors, vendors, attorneys, accountants, and government agencies. Maintained excellent customer relations and develop customer rapport. Diplomatically resolved customers' complaints. Managed project files to track expenditure and projected completion using Microsoft Project. Prepared bids for construction projects. Maintained account payables and account receivables. Reconciled bank statements and ledger accounts. Created financial reports using QuickBooks.",
+      "highlights": ["Microsoft Word", "Microsoft Excel", "Microsoft Project", "Financial Edge", "QuickBooks"]
+    }
+  ],
+  "volunteer": [
+    
+  ],
+  "education": [
+    {
+      "institution": "University of Central Oklahoma",
+      "url": "",
+      "area": "Business Administration",
+      "studyType": "Bachelor's Degree",
+      "startDate": "",
+      "endDate": "1989",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+   
+  ],
+  "certificates": [
+    
+  ],
+  "publications": [
+
+  ],
+  "skills": [
+    {
+      "name": "Accounting",
+      "level": "",
+      "keywords": ["Microsoft Word", "Microsoft Excel", "Financial Edge", "QuickBooks"]
+    },
+    {
+      "name": "Accounts Payable/Receivable",
+      "level": "",
+      "keywords": ["Microsoft Word", "Microsoft Excel", "Financial Edge", "QuickBooks"]
+    },
+    {
+      "name": "Budget Preparation",
+      "level": "",
+      "keywords": ["Microsoft Word", "Microsoft Excel", "Financial Edge", "QuickBooks"]
+    },
+    {
+      "name": "Process Improvement",
+      "level": "",
+      "keywords": ["Microsoft Word", "Microsoft Excel", "Financial Edge", "QuickBooks"]
+    },
+    {
+      "name": "Reconciliation",
+      "level": "",
+      "keywords": ["Microsoft Word", "Microsoft Excel", "Financial Edge", "QuickBooks"]
+    }
+  ],
+  "languages": [
+
+  ],
+  "interests": [
+
+  ],
+  "references": [
+
+  ],
+  "projects": [
+
+  ]
+}

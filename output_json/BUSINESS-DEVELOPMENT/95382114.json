@@ -1,0 +1,94 @@
+{
+  "basics": {
+    "name": "Unspecified Name",
+    "label": "Business Development Manager",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Resourceful and self directed business development manager. Defined and executed strategies and operations while leading collaborative full project cycles with National and Local Governments across Southern Africa.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "USA",
+      "region": "State"
+    },
+    "profiles": [
+    ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Business Development Manager",
+      "url": "",
+      "startDate": "2013-09-01",
+      "endDate": "",
+      "summary": "Developed strategic and operational relationships across 3 Foreign Governments. Exceeded targeted sales goals by $24m USD. Generated new accounts by implementing effective networking and content marketing strategies.",
+      "highlights": [
+        "Generated a pipeline of more than $20m in net new opportunities in 12 months.",
+        "Spearheaded company-wide prospecting, closing and project management endeavors for entire SADC region.",
+        "Established 3 new corporate accounts averaging $15m in sales."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Sales Manager",
+      "url": "",
+      "startDate": "2010-01-01",
+      "endDate": "2012-01-01",
+      "summary": "Assisted financial director and other company leaders in due diligence and negotiations related to acquiring or disposing of assets.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Intelligence Analyst TS//SCI",
+      "url": "",
+      "startDate": "2002-11-01",
+      "endDate": "2007-11-01",
+      "summary": "Identified strategic partnerships and gathered market information and other data to gain a competitive advantage.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Rutgers University",
+      "url": "",
+      "area": "Management",
+      "studyType": "Bachelor",
+      "startDate": "2013-01-01",
+      "endDate": "2013-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Stanford University Graduate School of Business",
+      "url": "",
+      "area": "Management",
+      "studyType": "Executive Education",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Business Development",
+      "level": "",
+      "keywords": ["Account Management","Analytical Skills","Asset Management","Budget","Business Development and Operations","Closing and Negotiation","CRM","Financial Modeling","Leadership","Networking","Research","Teamwork","Strategic Planning"]
+    }
+  ],
+  "languages": [],
+  "interests": [
+    {
+      "name": "Making lives better across the world",
+      "keywords": []
+    }
+  ],
+  "references": [],
+  "projects": []
+}

@@ -1,0 +1,125 @@
+{
+  "basics": {
+    "name": "Engineering Technician/ Field Service",
+    "label": "Engineering Technician",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Results-driven and focused Engineering Technician who prioritizes safety, cost-effective solutions and exceeding customer expectations. Long term goals, become an intuitive I/E Technician in the pulp and paper industry, teach others with the potential to take on a leadership role within my first 5 years",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Engineering Technician/ Field Service",
+      "url": "",
+      "startDate": "1994-05-01",
+      "endDate": "2000-05-01",
+      "summary": "Developed and built, complex RF systems for broadcasters worldwide. Tested at the component level and built the systems. Worked closely with the staff engineers and engineering department as well as customers to be certain the end users needs were met. Limited machine shop work in model making for R&D projects",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Engineering technician",
+      "url": "",
+      "startDate": "1988-06-01",
+      "endDate": "1994-06-01",
+      "summary": "Research and Development of components for the broadcasters, Developed new product line for MCI",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Technician",
+      "url": "",
+      "startDate": "1985-06-01",
+      "endDate": "1988-05-01",
+      "summary": "Production test of Antenna for the FM broadcasters as well as pattern test. SPS 49 Radar component test, to including pattern test of the reflector and waveguide components",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Operations Specialist",
+      "url": "",
+      "startDate": "1980-06-01",
+      "endDate": "1982-03-01",
+      "summary": "USS Belknap CG-26 Air Intercept Control, Anti submarine warfare operator",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Central Maine Community College",
+      "url": "",
+      "area": "Math, History and finishing the ELT program",
+      "studyType": "Associate of Applied Science",
+      "startDate": "",
+      "endDate": "current",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "State of Maine Electricians Helpers license",
+      "date": "",
+      "issuer": "State of Maine",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Technical Skills",
+      "level": "",
+      "keywords": [
+        "Operational analysis",
+        "Technical plan execution aptitude",
+        "Exceptional time management",
+        "Detail-oriented understanding",
+        "Geometric dimensioning",
+        "Strong leader",
+        "Manufacturing process controls",
+        "Soldering",
+        "Drilling- Tapping",
+        "Detail-oriented Measurement",
+        "Equipment calibration",
+        "Test and measurement equipment",
+        "Equipment calibration",
+        "assembly",
+        "broadcast",
+        "calibration",
+        "concept",
+        "drafting",
+        "engineer",
+        "Radar",
+        "modeling",
+        "Naval",
+        "Network",
+        "Oscilloscopes",
+        "quality",
+        "record keeping",
+        "Research",
+        "sales",
+        "FM",
+        "SPS",
+        "Test Equipment",
+        "UHF",
+        "Wiring"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

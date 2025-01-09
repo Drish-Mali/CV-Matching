@@ -1,0 +1,90 @@
+{
+  "basics": {
+    "name": "Accountant",
+    "label": "Accounting Professional",
+    "email": "",
+    "phone": "",
+    "summary": "Accountant with more than 8 years accounting experience with profit making, non for profit and non-governmental organizations (NGOs). Possess solid knowledge of GAAP, GASB and IFRS. Proficient in automated systems: such as QuickBooks, Sun system and Peachtree Accounting.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "State",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Unknown Company",
+      "position": "Accountant",
+      "url": "",
+      "startDate": "Feb 2015",
+      "endDate": "",
+      "summary": "Responsible for account coding accuracy Record, and reconcile Accounts Payables on a monthly basis... All department processes and procedures documented and the appropriate individual(s) trained and cross-trained as necessary.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Delegated Finance and Admin Manager and Finance Officer",
+      "startDate": "Jan 2010",
+      "endDate": "Aug 2014",
+      "summary": "Prepared standardize monthly, quarterly, biannual and annual finances and review overall financial reports and follow up financial status... Participated in proposal budgeting when new projects are initiated.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Senior Accountant",
+      "startDate": "Oct 2008",
+      "endDate": "Dec 2009",
+      "summary": "Produced periodic financial reports for both internal (organization) and external use (donors & government) and interpret and analyze the reports... Controlled staff benefits like; insurance, medical, PF etc.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Accountant",
+      "startDate": "Feb 2007",
+      "endDate": "Sep 2008",
+      "summary": "Ensured that financial transactions are recorded as per the chart of accounts... Make ready financial documents for internal & external audit.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Foundation for Academic Excellence",
+      "url": "",
+      "area": "Business Administration",
+      "studyType": "MBA Degree",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Haramaya University",
+      "url": "",
+      "area": "Accounting",
+      "studyType": "B.A",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Accounting",
+      "level": "",
+      "keywords": [
+        "GAAP", "GASB", "IFRS", "QuickBooks", "Sun system", "Peachtree Accounting", "General Ledger Accounting", "Bank & Office Account reconciliation", "Financial data analysis", "Financial Statements & Audit Support", "Financial Planning", "Budgeting & Reporting", "Grants Management", "Sage Accounting", "Microsoft Access", "Excel", "Microsoft PowerPoint", "Advanced Excel with pivot tables", "Outlook", "Lotus note"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

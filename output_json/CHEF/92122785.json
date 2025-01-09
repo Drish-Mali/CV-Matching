@@ -1,0 +1,99 @@
+{
+  "basics": {
+    "name": "Marco Lombardini",
+    "label": "Banquet Chef",
+    "email": "",
+    "phone": "",
+    "summary": "An ambitious and well rounded chef who is able to lead from the front by setting, following and delivering the highest culinary standards. Passionate about providing excellent food quality and guest satisfaction within the budget and training the team to meet the highest culinary standards.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "The Country Club at Mirasol",
+      "position": "Banquet Chef",
+      "url": "",
+      "startDate": "2016-09-01",
+      "endDate": "Current",
+      "summary": "Responsible for all banquets, member functions, and theme events and also working with the chef on creating new and exciting menus to keep membership excited about club events. Supervises a team of 12 that produces half of the food and beverage revenue which is 6 million.",
+      "highlights": ["Recognized as a Distinguished Emerald Club by The BoardRoom Magazine"]
+    },
+    {
+      "name": "Previous Club",
+      "position": "Executive Sous Chef",
+      "url": "",
+      "startDate": "2014-08-01",
+      "endDate": "2016-08-31",
+      "summary": "Contributed with the Executive Chef in maintaining the club's platinum level status. The club has 1300 members and three restaurants and banquet facility with food and beverage sales of 5 million a year.",
+      "highlights": ["Recognized as a Platinum Club, one of the top 10 private club communities in the United States"]
+    },
+    {
+      "name": "Candle Light Inn",
+      "position": "Owner, Executive Chef General Manager",
+      "url": "",
+      "startDate": "1996-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Coordinated planning, budgeting, and purchasing for all the food operations within the restaurant. Recruited and hired staff including line chefs, kitchen staff, servers, hostesses, and managers.",
+      "highlights": ["200 seat white table cloth restaurant featuring modern traditional cuisine with a staff of 50 employees"]
+    },
+    {
+      "name": "Previous Hotel",
+      "position": "Sous Chef",
+      "url": "",
+      "startDate": "1990-01-01",
+      "endDate": "1996-01-01",
+      "summary": "Oversaw a staff of 100 kitchen personnel and maintained 5-star menu dishes and service. Instructed cooks and other workers in the preparation, cooking, garnishing, and presentation of food.",
+      "highlights": ["Worked with some of the best chefs in America, all of whom have played a significant role in my development as a chef. Mentors include Peter Timmins CMC, Hartmunt Handke CMC, John Johnstone, CMC, Lawrence McFadden CMC, Keith Coughenour CEC, Alex Darvish, CEC and Richard Rosendale, CMC."]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Baltimore Culinary College",
+      "url": "",
+      "area": "Restaurant and Hotel Management",
+      "studyType": "Degree",
+      "startDate": "",
+      "endDate": "1990",
+      "score": "",
+      "courses": ["The Greenbrier Apprenticeship Program: White Sulphur Springs, West Virginia"]
+    },
+    {
+      "institution": "Distinguished Chef's Institute",
+      "url": "",
+      "area": "Culinary Skills",
+      "studyType": "Certification",
+      "startDate": "2014",
+      "endDate": "2016",
+      "score": "",
+      "courses": ["ACF Executive Certified Chef", "Sous Vide workshop", "Certified Master Chef prep class"]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Culinary Skills",
+      "level": "Master",
+      "keywords": ["ACF", "Budgeting", "Cooking", "Purchasing", "Safety", "Supervisory", "Teaching"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "volunteer": [],
+  "awards": [],
+  "publications": [],
+  "certificates": [
+    {
+      "name": "Servsafe certified",
+      "date": "1990",
+      "issuer": "",
+      "url": ""
+    }
+  ]
+}

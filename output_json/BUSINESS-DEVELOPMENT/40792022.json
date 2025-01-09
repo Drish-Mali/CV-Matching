@@ -1,0 +1,150 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Business Development Representative",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Experienced customer service professional with extensive skills in growing and exceeding sales in a multi- million dollar business operation in the food and beverage industries, financial services, and heath care industries. Adaptable and results orientated, with a focus on bottom line results, and has a proven track record of achieving and exceeding the standards of performance set out for any sales project. Skilled in utilizing technology as a tool to improve organizational efficiency.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Business Development Representative",
+      "url": "",
+      "startDate": "2010-03-01",
+      "endDate": "Current",
+      "summary": "Achieved customer service objectives by contributing customer service information and recommendations to strategic plans and reviews. Preparing and completing action plans for customer-service standards. Resolving problems, completing audits, identifying customer service trends and determining system improvements.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Licensed Healthcare Representative",
+      "url": "",
+      "startDate": "2008-12-01",
+      "endDate": "2010-03-01",
+      "summary": "Managed high volume call activity from healthcare providers and Cigna clients. Utilized my health insurance expertise to advise our clients on the best insurance choice to meet there needs. Maintained networks/partnerships with internal and external partners to expedite client processing. Effectively assessed patient needs and resolved client conflicts. Utilized technology to expedite client verification, documentation, & service."
+    },
+    {
+      "name": "Company Name",
+      "position": "Outside Sales Manager",
+      "url": "",
+      "startDate": "2005-03-01",
+      "endDate": "2008-12-01",
+      "summary": "Responsible for the overall development of the North Miami territory selling occupational and physical therapy solutions with a focus on primary care , specialists, and hospital based physicians. Effectively leveraged resources within a fixed budget to increase sales and add value to a difficult to access, high volume, urban customer base. Managed administrative functions including daily synchronization of call activity, expense reporting, performance trend analysis and sales tracking. Successfully collaborated with territory partners and contribute to team success. Developed and maintained networks/partnerships with external community advocacy groups, pharmacies."
+    },
+    {
+      "name": "Company Name",
+      "position": "Manager Trainee",
+      "url": "",
+      "startDate": "2004-05-01",
+      "endDate": "2005-03-01",
+      "summary": "Responsible for overseeing the day-to-day operations of the rental location. Increased business through forecasting, counter sales and rate management in order to remain competitive in the marketplace while utilizing fleet at a profitable level. Managed team members job performance including counter sales Responsible for team member development."
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Phoenix",
+      "url": "",
+      "area": "Business Administration",
+      "studyType": "MBA",
+      "startDate": "",
+      "endDate": "2009-01-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Florida State University",
+      "url": "",
+      "area": "Psychology",
+      "studyType": "BS",
+      "startDate": "",
+      "endDate": "2002-01-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Administrative functions",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Budgeting",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Business Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Client Negotiation",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Documentation",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Team Building",
+      "level": "Leadership",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Office Suite",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Project",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Negotiating",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Physical Therapy",
+      "level": "",
+      "keywords": ["primary care"]
+    },
+    {
+      "name": "Quality",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Reporting",
+      "level": "Safety Selling",
+      "keywords": ["sales strategic","Strategic Planning","Supply Chain Management","transportation", "trend"]
+    },
+    {
+      "name": "Quick Books",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

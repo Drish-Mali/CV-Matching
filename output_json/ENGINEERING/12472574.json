@@ -1,0 +1,150 @@
+{
+  "basics": {
+    "name": "QA ENGINEERING TEAM LEAD",
+    "label": "Quality Assurance Engineering",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Eight years of progressive technical experience in quality assurance engineering of computer software in windows environment.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": [
+    ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "QA Engineering Team Lead",
+      "url": "",
+      "startDate": "2001-03-01",
+      "endDate": "2001-07-01",
+      "summary": "Primary responsibility for the quality of the company's Imagicast product line. Lead the QA team assigned to the Imagicast related quality tasks. Involved in the diagnosis of product failures or performance problems reported from the field.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Quality Assurance Engineering Manager",
+      "url": "",
+      "startDate": "2000-05-01",
+      "endDate": "2001-02-01",
+      "summary": "Primarily responsible for performing analysis of existing job flows, coordination and update of systems documentation, and providing proposals for change.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "QA Lead for Customer Care/Service Applications",
+      "url": "",
+      "startDate": "1998-11-01",
+      "endDate": "2000-05-01",
+      "summary": "Primarily responsible for performing analysis of existing job flows, coordination and update of systems documentation, and providing proposals for change while assisting with test execution.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Mail - Software Quality Engineer II",
+      "url": "",
+      "startDate": "1998-02-01",
+      "endDate": "1998-11-01",
+      "summary": "Led a QA team in black box and white box testing of a distributed architecture system with client and server components.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Senior Quality Assurance Analyst",
+      "url": "",
+      "startDate": "1997-09-01",
+      "endDate": "1998-02-01",
+      "summary": "Responsible for developing low-level QA Test Plan and QA Reference Documentation and QA Findings Document for the Pilot project. Assisted in the development of new testing methods and procedures.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Software Quality Assurance",
+      "url": "",
+      "startDate": "1993-03-01",
+      "endDate": "1997-09-01",
+      "summary": "Tested Client/Server Application - database application developed for non-profit organization. Created and executed cases for regression testing.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "National Education Center",
+      "url": "",
+      "area": "Management",
+      "studyType": "Minor",
+      "startDate": "1993-08-01",
+      "endDate": "1994-02-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Kensington Training Program",
+      "url": "",
+      "area": "Testing Computer Software",
+      "studyType": "",
+      "startDate": "1993-08-01",
+      "endDate": "1994-02-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Technion University",
+      "url": "",
+      "area": "Electrical Engineering",
+      "studyType": "BS",
+      "startDate": "1990-01-01",
+      "endDate": "1993-05-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "National Education Center",
+      "date": "",
+      "issuer": "National Education Center",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "QA Engineering",
+      "level": "",
+      "keywords": [
+        "Quality Assurance", 
+        "Testing", 
+        "Access", 
+        "Qa", 
+        "Database", 
+        "Regression Testing", 
+        "Visual Basic", 
+        "Black Box Testing", 
+        "White Box Testing", 
+        "Manual Testing", 
+        "Automated Testing", 
+        "Stress", 
+        "Usability", 
+        "Performance", 
+        "Integration", 
+        "Software Quality Assurance", 
+        "Client/Server Testing", 
+        "Data Integrity", 
+        "Security"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

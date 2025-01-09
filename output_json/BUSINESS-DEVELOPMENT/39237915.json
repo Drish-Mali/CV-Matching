@@ -1,0 +1,166 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Business Development Manager",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Highly qualified, detail-oriented and hardworking Manager with more than 15 years of experience. Proficient in research, writing, case management and client relations. Expert computing and technology skills including competence in multiple software applications.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Business Development Manager",
+      "url": "",
+      "startDate": "2015-01-01",
+      "endDate": "Current",
+      "summary": "Prospect for potential new clients and turn this into increased business. Cold call as appropriate within market or geographic area to ensure a robust pipeline of opportunities. Meet potential clients by growing, maintaining, and leveraging network...",
+      "highlights": [
+        "Increased revenue by 40%",
+        "Cut operating expenses by 20% year over year.",
+        "Multiple awards for performance.",
+        "Developed and implemented client service program, which expanded small-to-medium client base 35%",
+        "Developed new quality standards for better quality performance and reliability.",
+        "Improve support service level by 20%",
+        "Improved customer service satisfaction 3% annually through supply chain management initiatives, inventory control and flexible manufacturing practices."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Athletic Coordinator",
+      "url": "",
+      "startDate": "2006-05-01",
+      "endDate": "2014-12-31",
+      "summary": "Responsible for marketing, planning, organizing, implementing, and scheduling special recreation activities and events...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Patient Relations Supervisor",
+      "url": "",
+      "startDate": "1999-05-01",
+      "endDate": "2006-05-31",
+      "summary": "Coordinate communication between patients, family members, medical staff, administrative staff, or regulatory agencies...",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Texas Tech University Lubbock",
+      "url": "",
+      "area": "Budget and Public Finance",
+      "studyType": "Masters of Public Administration",
+      "startDate": "2004-01-01",
+      "endDate": "2004-12-18",
+      "score": "",
+      "courses": [
+        "Program Evaluation and Quantitative Analysis",
+        "Advance Quantitative Methods in Public Policy & Administration",
+        "Public Policy Theory and Process",
+        "Public Personnel Administration",
+        "Public Organization Theory",
+        "Health Care Policy",
+        "Public Financial Management",
+        "Health Organization Management I & II",
+        "Budgeting and Research Methods",
+        "Financial and Managerial Accounting",
+        "Foundations of Finance",
+        "Operations Management"
+      ]
+    },
+    {
+      "institution": "Texas Tech University Lubbock",
+      "url": "",
+      "area": "Business Management",
+      "studyType": "B.A. , General Studies",
+      "startDate": "2001-01-01",
+      "endDate": "2001-12-15",
+      "score": "",
+      "courses": [
+        "International Financial Management",
+        "Fixed Income Securities and Credit Analysis",
+        "Financial Statement Analysis",
+        "Money and Banking",
+        "Investment Fundamentals and Security Analysis"
+      ]
+    },
+    {
+      "institution": "Denison High School",
+      "url": "",
+      "area": "",
+      "studyType": "High School Diploma",
+      "startDate": "",
+      "endDate": "1994-05-15",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "CPR",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "ACE",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "TAAF Sports Management School",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Leadership Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Project Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Budgeting",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Employee Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Operations Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Business Management",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

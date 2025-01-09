@@ -1,0 +1,91 @@
+{
+  "basics": {
+    "name": "Zeel Patel",
+    "label": "Master Data Manager",
+    "email": "",
+    "phone": "",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Greater Miami",
+      "countryCode": "US",
+      "region": "Florida"
+    },
+    "summary": "Zeel Patel is an Information Technology Manager with a focus on IT transformation and process improvement...",
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Master Data Manager",
+      "startDate": "01/2019",
+      "endDate": "Current",
+      "summary": "Aligning 100+ supply chain-related master data attributes...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Director of Information Technology",
+      "startDate": "01/2017",
+      "endDate": "01/2019",
+      "summary": "Supply Chain Management - Warehouse, 3PL, Food Services...",
+      "highlights": []
+    },
+    {
+      "name": "NatJan Solutions",
+      "position": "Information Technology and Analytics Manager",
+      "startDate": "01/2014",
+      "endDate": "01/2017",
+      "summary": "Implemented process within external ERP portal to monetize 1000's of vendors...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "",
+      "startDate": "01/2015",
+      "endDate": "01/2017",
+      "summary": "Co-Founded indoor, hydroponic farming company in South Jersey...",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Rowan University",
+      "area": "Management of Information Systems",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "2017",
+      "courses": []
+    },
+    {
+      "institution": "Rowan College",
+      "area": "Accounting",
+      "studyType": "Associates of Science",
+      "startDate": "",
+      "endDate": "2015",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "ICT",
+      "level": "Master",
+      "keywords": [
+        "Microsoft Office Suite with deep Office 365, Dynamics 365, Project, PowerApps, PowerBI, Flow",
+        "Sharepoint, Excel, Access, Intune, Visio, EMS, and Azure proficiency",
+        "Programming/Databases: SQL (SSRS, SSIS, SSAS), VBA, DAX, HTML, CSS, VB.NET, R, Powershell, Python, Oracle",
+        "Business Intelligence Packages: PowerBI, Qlik (QlikView/QlikSense), SiSense, Tableau, Datorama, Yellowfin, Crystal, SSRS",
+        "Strong knowledge of AWS, Azure, Cisco Switch Management, VMWare, Hyper-V, RDP, Automation Anywhere, Active Directory",
+        "And hardware and software administration for iOS, Android, Windows, Red Hat Linux, RF devices"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "volunteer": [],
+  "awards": [],
+  "publications": [],
+  "certificates": []
+}

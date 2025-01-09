@@ -1,0 +1,130 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Software Developer",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Enthusiastic computer engineer eager to contribute to team success through hard work, attention to detail and excellent organizational skills. Technical professional with complete understanding of entire software development life cycle.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Software Developer",
+      "url": "",
+      "startDate": "2015-12-01",
+      "endDate": "Current",
+      "summary": "Project was tasked to design an Internal Marketing System using c#,SQL, HTML,.net, devexpress. Amazon,Walmart,eBay and Shopify API's were integrated.",
+      "highlights": [
+        "Integration of marketplace APIs",
+        "Coordinated with project management staff on database development timelines and project scope",
+        "Revised, modularized and updated old code bases to modern development standards",
+        "Authored code fixes and enhancements for inclusion in future code releases and patches"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Computer Engineer Intern",
+      "url": "",
+      "startDate": "2013-06-01",
+      "endDate": "2013-09-01",
+      "summary": "Tested the User Interface for Web site and provided feedback to increase user satisfaction, reduce reaction time and improve site mappings. Executed Performance testing on internal applications, documented results and maintained logs.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Computer Engineer Intern",
+      "url": "",
+      "startDate": "2012-06-01",
+      "endDate": "2012-09-01",
+      "summary": "Our team has created an application for Turkish Patent and Trademark Office using MatLab, C#, SQL and HTML. My responsibilities within that team was: Developed the FAQ and Support part of the web site.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Rowan University",
+      "url": "",
+      "area": "IN",
+      "studyType": "Expected",
+      "startDate": "",
+      "endDate": "2021-06-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Selcuk University",
+      "url": "",
+      "area": "Computer Engineering",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "2015-06-01",
+      "score": "",
+      "courses": []
+    }
+    ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Software Development",
+      "level": "",
+      "keywords": [
+        "C#", "HTML", "CSS", "JavaScript", "SQL", "Python", "MatLab", "MongoDB", "Tableau", "Node JS", "Frameworks: .Net, Devexpress, TensorFlow, Keras, Scikit-learn, Pandas, NLTK", "Search Engine Optimization"
+        ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+	{
+      "language": "Spanish",
+      "fluency": "B1 level"
+    },
+	{
+      "language": "Turkish",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [
+    {
+      "name": "Question Answering System",
+      "startDate": "",
+      "endDate": "",
+      "description": "As the sole resource on this project created a windows application with Phyton for COVID-19 related questions using BERT and ELMO language models. The Frameworks were Pandas, Tensorflow, NLTK.",
+      "highlights": [],
+      "url": ""
+    },
+	{
+      "name": "",
+      "startDate": "",
+      "endDate": "",
+      "description": "Data Visualization Tool: The objective of this project was to analyze communication structures, employee relationships and suspicious transactions by designing and implementing a data visualization tool. The dataset included the VAST Challenge 2019 dataset with over 100,000+ data. The Frameworks were Flask, Pandas and the Language was Phyton. My responsibilities were data cleansing and data categorization. From the data visualization Leadership was able to get insight in the growth, sales, costs and make decisions towards better performance.", 
+      "highlights": [],
+      "url": ""
+    },
+	{
+      "name": "",
+      "startDate": "",
+      "endDate": "",
+      "description": "Pre-Assess Melanoma: The objective of the project was to create a system that could pre-assess malignant melanoma using Matlab Language and image processing algorithms. The system was trained with the images of malignant and healthy images. My responsibilities included all development, testing and training. The User Interface was the responsibility of other team member. This system enabled the users to seek healthcare at earlier stages of melanoma.",
+      "highlights": [],
+      "url": ""
+    }
+  ]
+}

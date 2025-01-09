@@ -1,0 +1,86 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Manager, Advisory, Performance Improvement",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Experienced Solution Architect and System z Mainframe Technology Evangelist with over 12 years of IT industry experience ...",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "IBM Software Group, ASEAN",
+      "position": "Client Solution Architect",
+      "url": "",
+      "startDate": "2008-05-01",
+      "endDate": "2014-10-01",
+      "summary": "Focus on driving new solution/workload in key account for sales closure...",
+      "highlights": ["Over-achieving the ASEAN sales goals", "Awarded the Sales Eminence Award", "Consistent Top High Performance rating", "IBM Certified IT Specialist certification", "Outstanding Technical Achievement Award"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Manager, Advisory, Performance Improvement",
+      "url": "",
+      "startDate": "2014-10-01",
+      "endDate": "Current",
+      "summary": "GST implementation project in RHB Group in Malaysia",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Malaya",
+      "url": "",
+      "area": "Software Engineering",
+      "studyType": "Bachelor of Science in Computer Science",
+      "startDate": "",
+      "endDate": "2003-01-01",
+      "score": "3.43",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Sales Eminence Award",
+      "date": "",
+      "awarder": "IBM",
+      "summary": ""
+    },
+    {
+      "title": "Outstanding Technical Achievement Award",
+      "date": "",
+      "awarder": "IBM",
+      "summary": ""
+    }
+  ],
+  "certificates": [
+    {
+      "name": "IBM Certified IT Specialist",
+      "date": "2012-01-01",
+      "issuer": "IBM",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Software Solutions",
+      "level": "",
+      "keywords": ["SOA", "EAI", "BPM", "Cloud", "Mobility", "WebSphere", "Rational Enterprise Modernization", "DevOps", "Core Banking", "Capacity Planning", "System z upgrade", "System z (Mainframe) OS - z/OS", "Linux", "CICS", "Solutions Architecture"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

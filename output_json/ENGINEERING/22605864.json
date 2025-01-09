@@ -1,0 +1,101 @@
+{
+  "basics": {
+    "name": "Anonymous",
+    "label": "Software Engineering Team Lead",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "I have over 10 years of experience in the field of IT infrastructure consulting and operations. I have worked on various Microsoft technologies such as System Center Suite (SCOM, SCCM, SCVMM), virtualization (Hyper V), Windows 2003/ 2008 Active directory, DNS, DHCP, Windows Clusters, scripting (PowerShell, VBScript), etc. I am currently working for Accenture Technologies.",
+    "location": {},
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Accenture Technologies",
+      "position": "Software Engineering Team Lead",
+      "url": "",
+      "startDate": "2008-07",
+      "endDate": "2015-01",
+      "summary": "Joined as part of the Avanade IO capability. Avanade is a joint venture between Microsoft and Accenture and specializes on Microsoft product solutions.",
+      "highlights": [
+        "Worked on SCOM for over 3 years as technical lead/ SME",
+        "Experience in designing, implementing and operating SCOM infrastructure",
+        "Experienced in developing management packs using VSAE, VMPD, Authoring console",
+        "Received 'Contribution Significantly above Peer Group' rating"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "IT Analyst",
+      "url": "",
+      "startDate": "2007-04",
+      "endDate": "2008-07",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Windows Administrator",
+      "url": "",
+      "startDate": "2006-01",
+      "endDate": "2007-03",
+      "summary": "Part of the messaging and collaboration team. Responsibilities included administering the internal Windows infrastructure of the company.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Technical Support Engineer",
+      "url": "",
+      "startDate": "2004-01",
+      "endDate": "2006-01",
+      "summary": "Responsibilities include AD maintenance tasks, providing Line 1 support to the internal users of the company, and network management.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "National Institute of Technology(NIT)",
+      "url": "",
+      "area": "Engineering",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "certificates": [
+    {
+      "name": "ITIL v3 Foundations certified",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "MCSE SCCM certified",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Technical Skills",
+      "level": "",
+      "keywords": [
+        "AD",
+        "DNS",
+        "DHCP",
+        "WINS",
+        "Windows Powershell",
+        "VBScript",
+        "SCOM",
+        "SCCM",
+        "SCVMM",
+        "Hyper V",
+        "Windows 2003/ 2008"
+      ]
+    }
+  ]
+}

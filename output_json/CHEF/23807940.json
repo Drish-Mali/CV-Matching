@@ -1,0 +1,125 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Senior Banquet Chef",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Dynamic Executive Chef with a broad spectrum of international experience in all facets of the hotel and restaurant operation, and an established track record in Food &Beverage Management & extensive knowledge in food & beverage management and culinary arts. Trained and educated in Europe with expert knowledge of Traditional French, Italian and American cuisines. A passionate Leader with a vision for outstanding customer service and team achievement, and driven by the financial and operational success of the organization.",
+    "location": {},
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Senior Banquet Chef",
+      "url": "",
+      "startDate": "2014-03-01",
+      "endDate": "Current",
+      "summary": "",
+      "highlights": []
+    },{
+      "name": "Company Name",
+      "position": "Executive Chef",
+      "url": "",
+      "startDate": "2012-04-01",
+      "endDate": "2014-02-01",
+      "summary": "",
+      "highlights": []
+    },{
+      "name": "Company Name",
+      "position": "Executive Sous Chef",
+      "url": "",
+      "startDate": "2010-08-01",
+      "endDate": "2012-04-01",
+      "summary": "",
+      "highlights": []
+    },{
+      "name": "Company Name",
+      "position": "Executive Sous Chef/Interim Head Chef",
+      "url": "",
+      "startDate": "2007-10-01",
+      "endDate": "2010-08-01",
+      "summary": "",
+      "highlights": []
+    },{
+      "name": "Company Name",
+      "position": "Banquet Chef Winery Chef",
+      "url": "",
+      "startDate": "2006-03-01",
+      "endDate": "2007-10-01",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "RIVB Culinary Institute",
+      "url": "",
+      "area": "Culinary Arts and Hospitality Management Nutrition and Restaurant Techniques",
+      "studyType": "Bachelors Degree",
+      "startDate": "1998-01-01",
+      "endDate": "1998-12-31",
+      "score": "",
+      "courses": []
+    },{
+      "institution": "Mavo College",
+      "url": "",
+      "area": "Business Administration",
+      "studyType": "",
+      "startDate": "1992-01-01",
+      "endDate": "1992-12-31",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Serv-Safe Manager Certified",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "Certified in Managing a multi-cultural diverse workforce",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Business operations expertise",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Inventory control and record keeping",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Trained in performance and wage reviews",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Service-oriented",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Strong work ethic",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

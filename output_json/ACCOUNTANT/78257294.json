@@ -1,0 +1,99 @@
+{
+  "basics": {
+    "name": "Senior Accountant",
+    "label": "Accounting Professional",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Seasoned professional with a proven ability to perform critical accounting functions to meet business needs and ensure regulatory compliance for corporations in energy industry (power, gas, crude/fuel oil and others).",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Houston",
+      "countryCode": "US",
+      "region": "Texas"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Senior Accountant",
+      "url": "",
+      "startDate": "2006-03-01",
+      "endDate": "2014-06-01",
+      "summary": "Managed accounting functions for a power and gas company...",
+      "highlights": ["Managed and executed accounting", "Performed month-end close", "Executed commodity settlements to resolve pricing disputes"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Accountant / Analyst",
+      "url": "",
+      "startDate": "2005-10-01",
+      "endDate": "2006-03-01",
+      "summary": "Performed accounting activities during a period of significant corporate change...",
+      "highlights": ["Managed accounting processes", "Interfaced with vendors", "Trained and mentored newly hired staff"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Accountant",
+      "url": "",
+      "startDate": "2005-03-01",
+      "endDate": "2005-10-01",
+      "summary": "Provided accounting expertise and support for investment management firm...",
+      "highlights": ["Prepared quarterly, semiannual and annual financial statements"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Analyst / Rotation",
+      "url": "",
+      "startDate": "2000-07-01",
+      "endDate": "2004-08-01",
+      "summary": "Conducted pre-bankruptcy accounting and financial analysis...",
+      "highlights": ["Prepared balance sheet summaries", "Coordinated and facilitated audits"]
+     }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Houston",
+      "url": "",
+      "area": "Accountancy",
+      "studyType": "BBA GPA: Magna Cum Laude",
+      "startDate": "1999-01-01",
+      "endDate": "1999-12-31",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Accounting",
+      "level": "Senior",
+      "keywords": [
+        "Data Management", "Financial Accounting", "Sarbanes-Oxley", "GAAP guidelines"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Italian",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }, 
+    {
+      "language": "Spanish",
+      "fluency": "Conversational"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

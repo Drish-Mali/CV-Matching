@@ -1,0 +1,82 @@
+{
+  "basics": {
+    "name": "STORE CHEF",
+    "label": "Executive Chef /Sous Chef /Chef Manager Position",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Restaurant Professional Executive Chef /Sous Chef /Chef Manager Position Proponent Leader in Healthy Cuisine and Passionate Food - Service. Star 4 Diamond Resorts Hotels Spa Country Club Customer Service / Team Educator / Multi - Unit Manager.",
+    "location": {},
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Store Chef",
+      "url": "",
+      "startDate": "2014-04-01",
+      "endDate": "Current",
+      "summary": "Duties including menu development one on one consultation with customer designing menus, as well as work scheduling, complete budget for bistro food outlet.",
+      "highlights": ["Successful menu development and execution for clientele", "Implement staff training program", "Inventory handling, management and rotation in accordance with HACCP, food cost controls and food quality standards"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Executive Chef",
+      "url": "",
+      "startDate": "2013-07-01",
+      "endDate": "2014-01-01",
+      "summary": "Delivers strong operational performance by executing against Sodexo and regulatory agency standards and programs, continually monitoring operations, and completing assessments and necessary action plans to provide optimal food quality and meal service.",
+      "highlights": ["Drives customer satisfaction, and maintains client relationships through rounding.", "Supervises, staffs, trains, conducts applicable rounding and manages the performance of the department", "Responsible for managing the process of purchasing, receiving, scheduling, inventory control and managing food production activities in compliance with Sodexo food production systems.", "Assist in menu planning, pre-costing and post-costing."]
+    },
+    {
+      "name": "Company Name",
+      "position": "Executive Chef / Food service Manager",
+      "url": "",
+      "startDate": "2005-05-01",
+      "endDate": "2013-01-01",
+      "summary": "Premium menu design, recipe development culinary education for kitchen staff out lining events, live cooking demonstrations. Pairing events and upscale private catering functions for Doctor and Executive broad Culinary nutrition consultant for health improvement results for all Patient and staff.",
+      "highlights": ["Successful design and implementation of menu, that promotes conscious cuisine standards, in culinary.", "Aggressively fought waste and promoted cross-utilization to consistently maintain food cost below budget of 27% by 1 - 2.5 percentage points.", "Development, and enforcement of Standards and Procedures Handbook for service and production, resulting in consistent standard task execution by team members and 20% reduction of labor costs over 5-year period since implementing program."]
+    },
+    {
+      "name": "Company Name",
+      "position": "Executive Sous Chef",
+      "url": "",
+      "startDate": "2001-11-01",
+      "endDate": "2005-04-01",
+      "summary": "Successful assist in direction of $1.5 million renovation of dining facilities and kitchens, including four restaurant, Culinary Learning Center, bistro, retail space and stations buffet.",
+      "highlights": ["Budget development and forecasting with focus on lean management through staff cross training and shifting manpower across Food and Beverage areas according to business requirements."]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Sullivan College and the National Center for Hospitality",
+      "url": "",
+      "area": "Culinary Arts Management",
+      "studyType": "Associate",
+      "startDate": "1991-01-01",
+      "endDate": "1991-12-31",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Executive Chef Skills",
+      "level": "",
+      "keywords": ["Leadership/communication skills", "Human resources", "Budgeting expertise", "New product delivery", "Negotiations expert", "Employee relations"]
+    }
+  ],
+  "languages": [],
+  "interests": [
+    {
+      "name": "Culinary Arts",
+      "keywords": ["Chefs Collaborative", "Alumni Association of Sullivan University Spotlight"]
+    }
+  ],
+  "references": [],
+  "projects": []
+}

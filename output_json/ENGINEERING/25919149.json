@@ -1,0 +1,105 @@
+{
+  "basics": {
+    "name": "Unknown",
+    "label": "Engineering Technician",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Seeking a challenging career in Electronic Technology field with extensive experience in testing and analyzing complex circuit packs and systems. Capable of working independently or as a team player. Worked with fiber optics receivers and transmitters since 1999.",
+    "location": {
+      "address": "Unknown",
+      "postalCode": "",
+      "city": "Unknown",
+      "countryCode": "Unknown",
+      "region": "Unknown"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Engineering Technician",
+      "url": "",
+      "startDate": "2014-12-01",
+      "endDate": "2015-05-01",
+      "summary": "Managed production activities to ensure timely ordering, shipment and delivery. Tested CWB and worked from complex manufacturing documentation. Installed parts along a moving production line and applied engineering science and technology.",
+      "highlights": ["Promoted to Team leader within 4 years of employment."]
+    },
+    {
+      "name": "Company Name",
+      "position": "Thermal Technician",
+      "url": "",
+      "startDate": "2006-07-01",
+      "endDate": "Current",
+      "summary": "Leads the Thermal Production Line, engages in engineering science and technology application. Analyzes and interprets blueprints to meet specifications. Demonstrates good mathematical skills to solve technical problems. Mixes chemicals following prescribed methods and tests. Checks on vacuum and mechanical assemblies using leak detection systems.",
+      "highlights": ["Reduced the scrap, hence improved on-time delivery to 100%."]
+    },
+    {
+      "name": "Company Name",
+      "position": "Technical Support Specialists",
+      "url": "",
+      "startDate": "1992-02-01",
+      "endDate": "2003-01-01",
+      "summary": "Supported production workers to achieve company goals. Troubleshot issues with engineers on the test systems. Trained peers on analysis processes. Performed daily analysis using established troubleshooting techniques. Worked with supervisory, engineering, and other functional personnel in conducting special studies and proving new equipment.",
+      "highlights": []
+    },
+    {
+      "position": "Initiative to Work Independent",
+      "name": "",
+      "summary": "Managed to cut inventory by more than half and improved on-time delivery to 100%.",
+      "startDate": "",
+      "endDate": "",
+      "highlights": ["Recognized by management as a leading performer.", "Worked with R&D and technical services teams in executing experimental and pivotal batches."]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Northern Essex",
+      "url": "",
+      "area": "Electronic Technology Engineering Computer System",
+      "studyType": "Associate of Science",
+      "startDate": "2000-01-01", 
+      "endDate": "2002-12-31",
+      "score": "3.7",
+      "courses": []
+    },
+    {
+      "institution": "Hesser College",
+      "url": "",
+      "area": "Paralegal Studies",
+      "studyType": "Associate Degree",
+      "startDate": "2002-01-01", 
+      "endDate": "2004-12-31",
+      "score": "4.0",
+      "courses": ["Coursework in English", "Communications and Writing", "Legal System training"]
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Certificate in Microsoft Office",
+      "date": "2002-12-31",
+      "issuer": "Northern Essex",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Engineering Skills",
+      "level": "",
+      "keywords": ["Microsoft Office Suite", "Reading Schematics", "Troubleshooting", "Problem Solving", "Lean Manufacturing", "Inventory", "Government Sell-Offs"]
+    },
+    {
+      "name": "Professional Skills",
+      "level": "",
+      "keywords": ["Critical Thinking", "Effective Multitasking", "Production Scheduling", "Deadline Compliance", "Problem Solving Skills", "Pressure Handling", "Troubleshooting", "Reliability", "Schematic Reading", "Goal Setting", "Priority Setting", "Teamwork"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

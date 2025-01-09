@@ -1,0 +1,100 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Finance Assistant",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "College graduate offers strong technical skills and ability to learn concepts quickly. Proven ability to manage multiple assignments while meeting tight deadlines. Experience in data analysis, economic forecasting, advanced problem solving, collaborative research and presentation skills, customer service.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Finance Assistant",
+      "url": "",
+      "startDate": "2013-06-01",
+      "endDate": "2013-09-01",
+      "summary": "Prepare financial statements, maintain accurate records in a database, generate reports and present data. Enter revenue and expense transactions and prepare expense reports. Prepare and file financial statements such as balance sheets and income statements. Complete purchase orders and customer invoices. Calculate sales taxes and make bank deposits.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Catering Specialist",
+      "url": "",
+      "startDate": "2012-01-01",
+      "endDate": "2012-06-01",
+      "summary": "Duties included: sandwich making, order organization, order preparation and order delivery. Maintained food handler certification. Technician (full-time, spring semester) Managed a 350-client route. Responsibilities included analyzing lawn, developing treatment programs to address each lawn's specific problems, monitoring lawn status, evaluating its progress during every visit and adjusting custom treatment program.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Customer service representative/driver/food line",
+      "url": "",
+      "startDate": "2009-02-01",
+      "endDate": "2011-11-01",
+      "summary": "Entered customer orders, prepared pizza dough and toppings, made pizzas and delivered customer orders safely within company time requirements.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Texas A&M University Corpus Christi",
+      "url": "",
+      "area": "History",
+      "studyType": "Bachelor of Arts",
+      "startDate": "",
+      "endDate": "2014-08-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Lone Star Community College",
+      "url": "",
+      "area": "",
+      "studyType": "Diploma",
+      "startDate": "",
+      "endDate": "2008-01-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Finance skills",
+      "level": "Proficient",
+      "keywords": [
+        "balance sheets",
+        "client",
+        "database",
+        "delivery",
+        "financial statements",
+        "funds",
+        "Excel",
+        "PowerPoint",
+        "Microsoft Word",
+        "progress",
+        "QuickBooks",
+        "sales",
+        "taxes",
+        "Technician"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

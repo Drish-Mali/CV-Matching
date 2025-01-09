@@ -1,0 +1,140 @@
+{
+ "basics": {
+   "name": "",
+   "label": "Administrative Assistant",
+   "image": "",
+   "email": "",
+   "phone": "",
+   "url": "",
+   "summary": "Committed and motivated Administrative Assistant with exceptional customer service and decision making skills. Strong work ethic, professional attitude and great initiative. Passionate about business success and talented at supporting company staff, office personnel and customer needs.",
+   "location": {
+     "address": "",
+     "postalCode": "",
+     "city": "City",
+     "countryCode": "",
+     "region": ""
+   },
+   "profiles": []
+ },
+ "work": [
+   {
+     "name": "Company Name",
+     "position": "Administrative Assistant",
+     "url": "",
+     "startDate": "2019-06",
+     "endDate": "Current",
+     "summary": "Perform general office duties, including answering multi-line phones, routing telephone calls or messages to appropriate staff and greeting visitors. Identify and resolve issues. Maintain records and assure timely verification of insurance benefits. Maintain strong knowledge of basic medical terminology.",
+     "highlights": []
+   },
+   {
+     "name": "Company Name",
+     "position": "Home Healthcare Aide",
+     "url": "",
+     "startDate": "2016-12",
+     "endDate": "Current",
+     "summary": "Care for patients by changing bed linens, washing and ironing laundry, cleaning, and assisting with their personal care. Plan, purchase, prepare, and serve meals to patients or other family members, according to prescribed diets. Accompany clients to doctors' offices. Ensure clients' well-being, safety, and comfort.",
+     "highlights": []
+   },
+   {
+     "name": "Company Name",
+     "position": "Office Assistant",
+     "url": "",
+     "startDate": "2017-09",
+     "endDate": "2019-09",
+     "summary": "Perform duties, such as taking care of plants and straightening magazines to maintain lobby or reception area. Schedule appointments and maintain and update appointment calendars. Handle all incoming and outgoing correspondence. Answer and quickly redirect calls.",
+     "highlights": []
+   },
+   {
+     "name": "Company Name",
+     "position": "Unit Clerk",
+     "url": "",
+     "startDate": "2018-06",
+     "endDate": "2018-11",
+     "summary": "Cleaned and sterilized instruments and disposed of contaminated supplies. Answered patient questions and fielded complaints. Coordinated supply replenishment to meet expected unit demands. Supported clerical needs of more than 10 nurses including taking messages, scanning documents and routing business correspondence.",
+     "highlights": []
+   },
+   {
+     "name": "Company Name",
+     "position": "Daycare Teaching Assistant",
+     "url": "",
+     "startDate": "2016-03",
+     "endDate": "2016-08",
+     "summary": "Escorted children on outings and trips to local parks and zoos. Disciplined children and recommended other measures to correct behavior. Observed children and recorded activities, maintained daily records and created safe environments during activities, meals, and naps.",
+     "highlights": []
+   }
+ ],
+ "volunteer": [],
+ "education": [
+   {
+     "institution": "Eastern Michigan University",
+     "url": "",
+     "area": "Health Administration",
+     "studyType": "Bachelor of Science",
+     "startDate": "",
+     "endDate": "2020",
+     "score": "",
+     "courses": []
+   },
+   {
+     "institution": "Mifflin High School",
+     "url": "",
+     "area": "",
+     "studyType": "High School Diploma",
+     "startDate": "",
+     "endDate": "2016",
+     "score": "",
+     "courses": []
+   },
+   {
+     "institution": "Fort Hayes Career Center",
+     "url": "",
+     "area": "",
+     "studyType": "High School Diploma",
+     "startDate": "",
+     "endDate": "2016",
+     "score": "",
+     "courses": []
+   }
+ ],
+ "awards": [],
+ "certificates": [
+   {
+     "name": "First Aid & CPR",
+     "date": "",
+     "issuer": "",
+     "url": ""
+   }
+ ],
+ "publications": [],
+ "skills": [
+   {
+     "name": "Administrative functions",
+     "level": "",
+     "keywords": []
+   },
+   {
+     "name": "Administrative Support",
+     "level": "",
+     "keywords": []
+   },
+   {
+     "name": "Time management",
+     "level": "",
+     "keywords": []
+   },
+   {
+     "name": "Travel Arrangements",
+     "level": "",
+     "keywords": []
+   },
+   {
+     "name": "Excel spreadsheets",
+     "level": "",
+     "keywords": []
+   }
+ ],
+ "languages": [],
+ "interests": [],
+ "references": [],
+ "projects": []
+}

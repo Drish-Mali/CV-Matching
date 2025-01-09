@@ -1,0 +1,164 @@
+{
+  "basics": {
+    "name": "",
+    "label": "RN / ASST. HEAD NURSE PRACTICE LEADER",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Highly experienced nursing professional with exposure to various care environments including dementia units, home health, and oncology.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "ADON (Assistant Director of Nursing)",
+      "url": "",
+      "startDate": "2010-09-01",
+      "endDate": "2011-12-01",
+      "summary": "Managed nursing staff and all aspects of patient care and transportation in a long-term care facility. Took occasionally MOD responsibilities for the entire building and conducted in-services for the nursing staff.",
+      "highlights": [ ]
+    },
+    {
+      "name": "ResCare",
+      "position": "Home Health Nurse",
+      "url": "",
+      "startDate": "2015-01-01",
+      "endDate": "2016-06-01",
+      "summary": "Conducted home visits, provided basic assessments, informed medical professionals of changes in patient status and administered injections and infusions. Worked on clinical trial protocols.",
+      "highlights": []
+    },
+    {
+      "name": "Best Home Health",
+      "position": "Registered Nurse (Part-time)",
+      "url": "",
+      "startDate": "2016-07-01",
+      "endDate": "2016-09-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Maxim Home Health",
+      "position": "Registered Nurse (Part-time)",
+      "url": "",
+      "startDate": "2016-09-01",
+      "endDate": "2016-12-01",
+      "summary": "Worked as a home health nurse focusing on Infusion cases. Despite the distance-related challenges, I remained committed to the role.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "DCD (Director of Care Delivery)",
+      "url": "",
+      "startDate": "2009-06-01",
+      "endDate": "2010-07-01",
+      "summary": "Managed a 40 bed Locked Dementia Unit, later a 60 bed Long Term Care Unit along with leading nursing unit, setting priorities, developing staff, upholding corporate standards, infection control, QA and care planning.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "RN / Asst. Head Nurse Practice Leader",
+      "url": "",
+      "startDate": "1977-01-01",
+      "endDate": "2009-01-01",
+      "summary": "Managed unit staff incl. staffing, scheduling, payroll. Worked closely with Nurse Manager on variety tasks including hiring and disciplinary actions. Started as RN on general Med / Surg Unit, later recruited by Oncology chair to help set up and run 1st Oncology inpatient Unit.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Illinois Masonic School of Nursing",
+      "url": "",
+      "area": "Nursing",
+      "studyType": "RN Diploma",
+      "startDate": "1976-01-01",
+      "endDate": "1976-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Northeastern Illinois University",
+      "url": "",
+      "area": "",
+      "studyType": "Coursework",
+      "startDate": "1974-01-01",
+      "endDate": "1974-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Western Illinois University",
+      "url": "",
+      "area": "",
+      "studyType": "Coursework",
+      "startDate": "1973-01-01",
+      "endDate": "1973-12-31",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Dorothy Rome Nominee",
+      "date": "1999-01-01",
+      "awarder": "Advocate Illinois Masonic Medical Center",
+      "summary": "Highest yearly award for Experienced RNs"
+    },
+    {
+      "title": "Applause Awards",
+      "date": "",
+      "awarder": "Advocate Illinois Masonic Medical Center",
+      "summary": "A nominated award for Excellence"
+    }
+  ],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Nursing",
+      "level": "",
+      "keywords": ["care planning", "Case Management", "Home Health", "Hospice", "Infection control", "injections", "Nurse Manager", "Oncology", "scheduling", "staff development", "Trauma", "triage", "tutoring", "Urology"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [
+    {
+      "name": "Dr. Emil Totonchi MD.",
+      "reference": "Advocate Illinois Masonic Med. Center"
+    },
+    {
+      "name": "Dr. Michael Friedman MD.",
+      "reference": "Advocate Illinois Masonic Med. Center"
+    },
+    {
+      "name": "Beverly Bohus RN, Nurse Manager",
+      "reference": "Advocate Illinois Masonic Med. Center"
+    },
+    {
+      "name": "Lorel Hedges Nurse Practioner.",
+      "reference": "Advocate Illinois Masonic Med. Center now works in Tennessee"
+    },
+    {
+      "name": "Uma Kelkar Director of Rehab Manor Care of Northbrook",
+      "reference": ""
+    },
+    {
+      "name": "Jean Gavina Director of MDS, Manor Care of Northbrook",
+      "reference": ""
+    },
+    {
+      "name": "Elma Ramos RN , Evening Nursing Supervisor, Manor Care of Northbrook",
+      "reference": ""
+    }
+  ],
+  "projects": []
+}

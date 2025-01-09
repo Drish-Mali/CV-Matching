@@ -1,0 +1,94 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Brand Manager",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Brand manager with a strong merchandising background. Experience in business development, sales and marketing. Understands and excels at analytical and creative thinking.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Brand Manager",
+      "url": "",
+      "startDate": "2015-07-01",
+      "endDate": "Current",
+      "summary": "Leads in the analysis and development of merchandising strategies across all categories with a focus on sales, gross margin, conversion, customer retention and acquisition. Develops and manages relationships with top level accounts while establishing new and cultivating existing business accounts. Partners with Merchandise Planning on all forecast changes and margin challenges to achieve financial targets. Collaborates with e-commerce and marketing teams to ensure that on-site and email promotions reflect merchandising and brand strategies. Secures and builds strategic brand partnerships.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Associate Omni Buyer, Men's Nautica Sportswear",
+      "url": "",
+      "startDate": "2013-11-01",
+      "endDate": "2015-06-01",
+      "summary": "Developed annual financial plans at the classification and vendor level. Strategized custom assortments to meet sales and margin plan. Identified product and trend opportunities within classifications. Strategized key items and promotions; negotiated product availability, distribution and pricing to maximize profits and margin.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Assistant Buyer, Men's Dress & Casual Pants",
+      "url": "",
+      "startDate": "2012-07-01",
+      "endDate": "2013-10-01",
+      "summary": "Assisted buyer in monthly forecasting at vendor and department level. Tracked and managed receipt flow process. Communicated with vendor partners for newness and timely deliveries. Planned and coordinated weekly marketing events for all categories.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Assistant Planner, Women's Shoes",
+      "url": "",
+      "startDate": "2010-10-01",
+      "endDate": "2012-06-01",
+      "summary": "Determined and executed replenishment allocation strategies to maintain healthy stock levels for over 500 individual stores. Worked with vendors on securing additional inventory to drive sales.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Elon University",
+      "url": "",
+      "area": "Strategic Communications",
+      "studyType": "Bachelor of Arts",
+      "startDate": "",
+      "endDate": "2010",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Microsoft Excel",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft PowerPoint",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Word",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

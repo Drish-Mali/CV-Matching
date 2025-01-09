@@ -1,0 +1,162 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Finance Manager",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Corporate finance executive and CPA offering 16 years of experience with the wealth of strategic and operational knowledge. Wide-ranging cross financing experience in auditing & assurance, financial and advisory services with big 4 professional firms (Deloitte & Touché), lead IPO and M&A transactions. Strong expertise in public reporting (through Capital Market Authority), capital market transactions, strategic negotiations and international business.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Finance Manager",
+      "url": "",
+      "startDate": "2017-03-01",
+      "endDate": "Current",
+      "summary": "Performed Financial Due Diligence of the business acquired by the entity...",
+      "highlights": [ "Arranged financing...", "Provide leadership role...", "Designed, got approved...", "Oversaw preparation...", "Computed taxes owed..." ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Chief Financial Officer, CFO",
+      "url": "",
+      "startDate": "2011-10-01",
+      "endDate": "2016-09-30",
+      "summary": "Developed strategies for sustainable value creation...",
+      "highlights": [ "Led the accounting and financial function...", "Established strong system of financial reporting...", "Successfully negotiated the Reinsurance Contracts..." ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Manager Audit",
+      "url": "",
+      "startDate": "2007-01-01",
+      "endDate": "2011-09-01",
+      "summary": "Project management of a number of significant audit engagements...",
+      "highlights": [ "Professional engagements � often involved...", "Achieved the Employee of the year award...", "Contributed to the growth of revenue..." ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Assistant Manager",
+      "url": "",
+      "startDate": "2006-08-01",
+      "endDate": "2006-12-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Senior Auditor",
+      "url": "",
+      "startDate": "2002-06-01",
+      "endDate": "2006-05-01",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of the Punjab",
+      "url": "",
+      "area": "Mathematics",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "1997",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Institute of Certified Public Accountants",
+      "url": "",
+      "area": "Accounts, Audit and Finance",
+      "studyType": "Certified Public Accountant -CPA",
+      "startDate": "",
+      "endDate": "2012",
+      "score": "",
+      "courses": []
+    }  
+  ],
+  "awards": [
+    {
+      "title": "Employee of the year award",
+      "date": "2010",
+      "awarder": "Company Name",
+      "summary": ""
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Fellow Member of Chartered Institute of Cost and Management Accountants",
+      "date": "",
+      "issuer": "Unknown",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Strategic Financial Planning",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Risk Management & Performance Analysis",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Investment Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Budgeting, Forecasting and Analysis",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "External Audit & Actuarial Work Finalization",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Accounting & Auditing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Corporate/Operational Finance",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Treasury Auditing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Taxation",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Regulatory compliance",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

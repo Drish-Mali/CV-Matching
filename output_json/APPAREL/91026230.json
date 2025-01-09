@@ -1,0 +1,115 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Co-Founder / Sales & Marketing Coordinator",
+    "email": "",
+    "phone": "",
+    "summary": "Proficient with Microsoft Office, Apple OSX, Google Analytics, Facebook Analytics & Ads. Experienced in supervising staff, budgeting, business development, cash flow management, policies management, marketing, inventory control and underwriting.",
+    "location": {
+      "city": "City",
+      "countryCode": "State",
+      "region": "State"
+    },
+    "profiles": [
+      {
+        "network": "Instagram",
+        "username": "",
+        "url": ""
+      },
+      {
+        "network": "Twitter",
+        "username": "",
+        "url": ""
+      },
+      {
+        "network": "SnapChat",
+        "username": "",
+        "url": ""
+      },
+      {
+        "network": "Facebook",
+        "username": "",
+        "url": ""
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Co-Founder / Sales & Marketing Coordinator",
+      "url": "",
+      "startDate": "2014-01-01",
+      "endDate": "Current",
+      "summary": "Plan, develop, organize, and implement fiscal function and performance. Recruit, train, supervise, and manage the Brand Ambassador program. Enhance and develop, enforce company policies and procedures. Forecast sales projects each quarter.",
+      "highlights": []
+    },
+    {
+      "name": "THE UNIVERSITY OF TENNESSEE",
+      "position": "Graduate Assistant",
+      "url": "",
+      "startDate": "2014-01-01",
+      "endDate": "2015-06-01",
+      "summary": "Assist in promoting, supervising and evaluating the RecSports facilities and related operations. Aid in maintaining accurate fiscal and student payroll records.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "THE UNIVERSITY OF TENNESSEE",
+      "url": "",
+      "area": "Sport Management",
+      "studyType": "Master",
+      "startDate": "",
+      "endDate": "2015-05-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "THE OHIO STATE UNIVERSITY",
+      "url": "",
+      "area": "Brand Awareness for Startup Companies: Avenues for Building and Sustaining Brand Awareness",
+      "studyType": "Master",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "",
+      "url": "",
+      "area": "Recreation & Sport Leadership Business Administration/Marketing",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "2011-06-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "certificates": [
+    {
+      "name": "First Aid/CPR/AED",
+      "date": "",
+      "issuer": "Certified",
+      "url": ""
+    },
+    {
+      "name": "First Aid/CPR/AED Instructor",
+      "date": "",
+      "issuer": "Certified",
+      "url": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Business Development",
+      "level": "Advanced",
+      "keywords": ["Microsoft Office", "Apple OSX", "Google Analytics", "Facebook Analytics", "Supervising", "Budgeting", "Cash flow management", "Policies management", "Marketing", "Inventory Control", "Underwriting"]
+    }
+  ],
+  "interests": [
+    {
+      "name": "Football",
+      "keywords": ["NFL FLAG Football programs instruction", "Began collegiate football at Ohio Northern University"]
+    }
+  ]
+}

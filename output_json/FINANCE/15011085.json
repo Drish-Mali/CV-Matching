@@ -1,0 +1,105 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Director Of Finance",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Senior Finance leader with 12+ years of professional experience heavily focused in financial analytics and accounting practices. Professional presence with a solid work ethic and customer service oriented. Team player who is comfortable working with all levels of management and staff. Creative problem solver who provides and implements cost effective solutions and continuously looking for way to create efficiencies and drive business profitability. Detail oriented with advanced skills in all Microsoft office applications.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "State",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Director of Finance",
+      "url": "",
+      "startDate": "2011-07-01",
+      "endDate": "Current",
+      "summary": "Facilitated and led logistics finance team during month-end close processes, including invoicing, journal entries, accrual obligations and account reconciliations. Created executive analysis reports highlighting business issues, potential risks and profit opportunities. Created detailed financial models and analytical tools to facilitate variance analysis. Managed $250M+ annual expense budgets across logistics finance organization. Responsible for $350M sales business unit P&L management including revenue, cost of goods, SG&A, and profit margins. Providing guidance for monthly forecast process and giving strategic financial leadership to the business on achieving goals.",
+      "highlights": [
+        "Proficient in creating and tracking key performance indicators to drive business",
+        "Strong experience in both short and long term financial planning",
+        "Experienced in ERP/System conversions and transitions from legacy systems",
+        "Polished communication skills and comfortable working with all levels of management driving motivation and success with human capital",
+        "Creation of financial reporting and modeling to communicate manufacturing cost goals and targets"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Financial Analyst/Project Manager",
+      "url": "",
+      "startDate": "2007-04-01",
+      "endDate": "2011-06-01",
+      "summary": "Monthly P&L management, including Financial and operations analysis for profitability comparisons, risk management, and expense management. Develop and maintain comprehensive and summarized reporting package to monitor the performance each month in all critical areas - sales, gross margin, expenses, inventory, productivity, etc.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Operations Supervisor",
+      "url": "",
+      "startDate": "2006-10-01",
+      "endDate": "2007-04-01",
+      "summary": "Create and prepare training documentation (handouts, training guides, test cases) and presentation material to be available for new hires. Strategic planning and forecasting to assist in new cost reduction projects/programs.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Pricing Analyst",
+      "url": "",
+      "startDate": "2005-10-01",
+      "endDate": "2006-10-01",
+      "summary": "Research and analyze domestic and foreign securities Prepare daily and monthly security reports via our pricing vendors Work closely with Accounting Department to ensure timely and accurate reporting to our clients regarding their investment portfolios Management of various corporate retirement accounts, reporting on a monthly and daily basis Prepare daily and monthly pricing variance reports for specific accounts.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of North Texas",
+      "url": "",
+      "area": "Finance",
+      "studyType": "MBA",
+      "startDate": "2006",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Southeastern Oklahoma State University",
+      "url": "",
+      "area": "Accounting",
+      "studyType": "Bachelor of Science",
+      "startDate": "2003",
+      "endDate": "",
+      "score": "",
+      "courses": [
+        "VITA program",
+        "Accounting Club Member"
+      ]
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Finance",
+      "level": "Senior Leader",
+      "keywords": [
+        "Accounting", "Budgeting and Planning", "Business Analysis", "Business process re-engineering", "Cost reduction analysis", "Finance Reporting", "Financial Statements", "Forecasting", "Inventory reconciliations", "Manufacturing Costing analysis", "Oracle", "Payroll", "Risk management", "Sales", "System conversions/Implementations", "SAP", "Six Sigma", "Strategic planning", "Tax returns", "Trend analysis"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

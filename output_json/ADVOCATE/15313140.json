@@ -1,0 +1,114 @@
+{
+  "basics": {
+    "name": "Unknown",
+    "label": "Direct Client Coordinator- Counselor/ Victim Advocate",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "",
+      "region": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Direct Client Coordinator- Counselor/ Victim Advocate",
+      "url": "",
+      "startDate": "2014-09-01",
+      "endDate": "Current",
+      "summary": "Conducts individual counseling sessions with clients to address social, emotional, and interpersonal deficits related to sexual trauma or abuse. Facilitates psychoeducational support groups. Interacts with out of agency clinicians and external resources. Charts and records confidential information in client files. Effectively manages time and caseloads based on agency needs. Quickly responds to crisis situations when severe mental health and behavioral issues arose. Conducts outreach, advocacy and rehabilitative services for regular cases and crisis intervention. Collaborates with other programs and community agencies to enhance treatment processes for clients.",
+      "highlights": [""]
+    },
+    {
+      "name": "Company Name",
+      "position": "Sales Lead",
+      "url": "",
+      "startDate": "2012-08-01",
+      "endDate": "2014-03-01",
+      "summary": "Oversee operations on and off the sales floor while directing employees. Resolve customer complaints regarding sales and service. Open and close cash registers, performing tasks such as counting money, separating charge slips, coupons, and vouchers, balancing cash drawers, and making deposits.",
+      "highlights": ["Credit Coach"]
+    },
+    {
+      "name": "Company Name",
+      "position": "District Manager, Salon Manager, Marketing Manager",
+      "url": "",
+      "startDate": "2010-07-01",
+      "endDate": "2013-08-01",
+      "summary": "Manage staff at multiple tanning salons in the Salt Lake Valley, preparing work schedules and assigning specific duties. Determine staffing requirements, and interview, hire and train new employees, or oversee those personnel processes.",
+      "highlights": ["Develop and implement product-marketing strategies"]
+    },
+    {
+      "name": "",
+      "position": "Salon Sales and Service Representative",
+      "url": "",
+      "startDate": "2012-11-01",
+      "endDate": "2013-08-01",
+      "summary": "Identify prospective customers and help new salon owners in all aspects of the business, including product and equipment purchase, software requirements, licensing requirements, marketing strategies, and more.",
+      "highlights": ["Assist new salon owners"]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "AUTISM TREATMENT CENTERS OF AMERICA",
+      "position": "Son-Rise Home Volunteer",
+      "url": "",
+      "startDate": "2013-09-01",
+      "endDate": "2014-03-01",
+      "summary": "Worked with Joaquin, a 6-year-old boy on the Autism spectrum in a home-based treatment program called the Son- Rise program.",
+      "highlights": ["Volunteer time"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Brandman University",
+      "url": "",
+      "area": "Psychology, MFT & PCC Dual Emphasis",
+      "studyType": "Master of Arts",
+      "startDate": "2017-01-01",
+      "endDate": "2017-12-31",
+      "score": "4.0",
+      "courses": [""]
+    },
+    {
+      "institution": "University of Utah",
+      "url": "",
+      "area": "Psychology",
+      "studyType": "Bachelor of Science",
+      "startDate": "2013-01-01",
+      "endDate": "2013-12-31",
+      "score": "3.47",
+      "courses": ["Centennial Scholarship Recipient"]
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Counseling",
+      "level": "Expert",
+      "keywords": ["trauma", "abuse", "advocacy", "crisis intervention"]
+    },
+    {
+      "name": "Sales",
+      "level": "Expert",
+      "keywords": ["Credit coach", "Resolve customer complaints", "sales", "service"]
+    },
+    {
+      "name": "Management",
+      "level": "Expert",
+      "keywords": ["Staffing", "Training", "Marketing strategies", "Performance data"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

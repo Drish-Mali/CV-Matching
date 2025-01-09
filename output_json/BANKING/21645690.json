@@ -1,0 +1,132 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Operations Manager",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "My goal is to utilize my 20 years of banking experience and education in business management and human resources in order to expand on my management experience. Skilled in financial reporting, account balancing and reconciliation, project management, and analytics.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Operations Manager",
+      "url": "",
+      "startDate": "2011-10",
+      "endDate": "Current",
+      "summary": "Manage the daily functions of Real Estate and Oil, Gas, and Mineral AP(accounts payable) and AR(accounts receivable) transactions. Manage a team of 15 staff members who perform duties across multiple lines of business.",
+      "highlights": [
+        "Quantitative analysis & metrics",
+        "Account reconciliation & balancing",
+        "Expert in MS Office Suite",
+        "Complex problem solving",
+        "Conflict resolution",
+        "Staff leadership and development",
+        "Strong interpersonal skills",
+        "Procedure development"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Personal Banker/ Business Champion",
+      "url": "",
+      "startDate": "2007-07",
+      "endDate": "2011-10",
+      "summary": "Profile and analyze clients financial situation in order to provide a proper recommendation of bank products and services. Coach teller line to send over referrals to bankers to achieve sales goals.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Wealth Management Group Relationship Associate III",
+      "url": "",
+      "startDate": "2004-06",
+      "endDate": "2007-05",
+      "summary": "Provide administrative support to Private Bankers, Financial Consultants, Trust Advisor's and Investment Bankers to ensure all client needs are met with the highest quality of service",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Deposit Risk Operations Fraud Manager",
+      "url": "",
+      "startDate": "2001-06",
+      "endDate": "2004-06",
+      "summary": "Perform complex research and quick shot analysis on suspected fraud accounts. Managed a team of 12 fraud analysts in the daily process and review of suspicious account activity and new account fraud.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Phoenix",
+      "url": "",
+      "area": "Business Management : Human Resources",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Software Applications",
+      "level": "Expert",
+      "keywords": [
+        "PeopleSoft", 
+        "Commercial Electronic Office", 
+        "FileNet", 
+        "Hogan", 
+        "Microsoft Outlook", 
+        "QuickBooks", 
+        "SEI Trust 3000", 
+        "Trust Real Estate Management System", 
+        "Trust Mineral Management System", 
+        "SharePoint", 
+        "Kronos", 
+        "LexisNexis",
+        "Lotus Notes"
+      ]
+    },
+    {
+      "name": "Computer Skills",
+      "level": "Proficient",
+      "keywords": [
+        "Microsoft Excel", 
+        "Word", 
+        "PowerPoint", 
+        "Publisher", 
+        "Access", 
+        "12,000 KSPM ten-key", 
+        "Accurate typing 75+WPM"
+      ]
+    },
+    {
+      "name": "Professional Skills",
+      "level": "Strong",
+      "keywords": [
+        "analytical skills", 
+        "ability to effectively multi-task", 
+        "dependable", 
+        "outstanding customer service skills", 
+        "leadership skills", 
+        "excellent problem solving skills"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

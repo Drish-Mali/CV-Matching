@@ -1,0 +1,70 @@
+{
+  "basics": {
+    "name": "Not Provided",
+    "label": "Driver, Relation Officer, Translator, Legal and Cultural Advisor, Case Researcher, English Instructor",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "A passionate and dedicated professional with more than five years of experience in the fields of law, linguistics and interpretation.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Various Companies",
+      "position": "Driver, Relation Officer, Translator, Legal and Cultural Advisor, Case Researcher, English Instructor",
+      "url": "",
+      "startDate": "January 2005",
+      "endDate": "March 2016",
+      "summary": "Worked in various positions from teaching English as a second language, providing legal advice, translating for military personnel to driving.",
+      "highlights": [
+        "Provided legal aid to civil societies, government organizations, and impoverished community members on issues of child abuse.",
+        "Translated confidential government/military documents, while maintaining exceptional levels of confidentiality.",
+        "Taught conversational and written English to second language learners."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "J.S.S. Law College",
+      "url": "",
+      "area": "Law",
+      "studyType": "Bachelor's degree",
+      "startDate": "Not Provided",
+      "endDate": "Not Provided",
+      "score": "",
+      "courses": [
+        "Academic Law"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Administrative Duties",
+      "level": "Not Provided",
+      "keywords": [
+        "Client Management", "Database Management", "Translation", "Teaching English"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English, Pashto, Daro, Hindi",
+      "fluency": "Fluent in English, Pashto, Daro, and have advanced speaking abilities in Hindi."
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "awards": [],
+  "volunteer": [],
+  "certificates": [],
+  "publications": []
+}

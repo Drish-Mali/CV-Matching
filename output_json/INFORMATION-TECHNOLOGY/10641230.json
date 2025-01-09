@@ -1,0 +1,95 @@
+{
+  "basics": {
+    "name": "",
+    "label": "IT management",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Detail-oriented professional with extensive Information Technology experience in hardware and software troubleshooting/management. With additional experience in networking, task automation, server technologies, digital graphic design, client + server side programming technologies and popular industry software packages including Microsoft Office and Adobe Creative Suite.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "IT management",
+      "url": "",
+      "startDate": "2012-03",
+      "endDate": "2012-11",
+      "summary": "In charge of planning, budgeting, and executing all IT projects. In addition to office troubleshooting, building/managing the company website and designing/updating the business's electronic newsletter.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Information Technology Consultant",
+      "url": "",
+      "startDate": "2011-07",
+      "endDate": "2012-02",
+      "summary": "Contracted IT consulting work from client computer repair to network expansion.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Lyons Township",
+      "url": "",
+      "area": "Information Technology",
+      "studyType": "Associate of Science",
+      "startDate": "",
+      "endDate": "2014",
+      "score": "Diamond Achievement Academic award * Honor Roll Diamond Achievement Academic award * Honor Roll",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "CompTIA A+ certified",
+      "date": "2012",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "CompTIA Net+ certification class",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "MCSA certification class",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Troubleshooting",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Web Development",
+      "level": "",
+      "keywords": ["HTML", "CSS", "JavaScript", "PHP"]
+    },
+    {
+      "name": "Hardware and Software management",
+      "level": "",
+      "keywords": ["Microsoft Office", "Adobe Creative Suite", "Networking", "Server Technologies", "Digital Graphic Design"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

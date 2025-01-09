@@ -1,0 +1,106 @@
+{
+  "basics": {
+    "name": "UNKNOWN",
+    "label": "Data Analyst",
+    "email": "UNKNOWN",
+    "phone": "UNKNOWN",
+    "summary": "Industrial and Systems Engineering graduate, certified Base SAS Programmer and a Lean Six Sigma Green Belt with strong background in statistics, mathematics and logical problem solving looking for a dynamic opportunity in data driven fields of analytics and statistical modeling.",
+    "location": {
+      "address": "UNKNOWN",
+      "postalCode": "UNKNOWN",
+      "city": "UNKNOWN",
+      "countryCode": "UNKNOWN",
+      "region": "UNKNOWN"
+    }
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Data Analyst",
+      "url": "UNKNOWN",
+      "startDate": "2016-07",
+      "endDate": "Current",
+      "summary": "Data Extraction, Data Wrangling, Data Analysis, Data Visualization, Regression Analysis (Linear, Logistic and Multinomial), Time Series Analysis, Association Rule Mining, Monte Carlo Simulation, Optimization, Random Forests"
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Binghamton University, State University of New York",
+      "url": "UNKNOWN",
+      "area": "Industrial and Systems Engineering",
+      "studyType": "Masters",
+      "startDate": "",
+      "endDate": "2016-08",
+      "score": "3.51",
+      "courses": []
+    },
+    {
+      "institution": "Osmania University",
+      "url": "UNKNOWN",
+      "area": "Mechanical Engineering",
+      "studyType": "Bachelors",
+      "startDate": "",
+      "endDate": "2014-05",
+      "score": "3.33",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Apache",
+      "level": "UNKNOWN"
+    },
+    {
+      "name": "AutoCAD",
+      "level": "UNKNOWN"
+    },
+    {
+      "name": "MS Excel",
+      "level": "UNKNOWN"
+    },
+    {
+      "name": "MySQL",
+      "level": "UNKNOWN"
+    },
+    {
+      "name": "Python",
+      "level": "UNKNOWN"
+    },
+    {
+      "name": "SAS",
+      "level": "UNKNOWN"
+    },
+    {
+      "name": "Tableau",
+      "level": "UNKNOWN"
+    },
+    {
+      "name": "Visio",
+      "level": "UNKNOWN"
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": [
+    {
+      "name": "Classification of Customers for Credit Card Company",
+      "startDate": "2016-01",
+      "endDate": "2016-05",
+      "description": "Performed a logistic regression on a credit card company dataset to classify clients as credible and non-credible. Extracted crucial factors to simplify the classification model using exploratory factor analysis. Developed and validated a model to classify the future customers and aid decision-making."
+    },
+    {
+      "name": "Simulation Analysis of Adding a Second Parking Ticket Booth at a Mall",
+      "startDate": "2015-08",
+      "endDate": "2015-12",
+      "description": "Assessed distribution and trends of incoming customer patterns performing statistical analysis."
+    },
+    {
+      "name": "Statistical Analysis of Defects in Clutch Plate Manufacturing - A Six Sigma Study",
+      "startDate": "2015-01",
+      "endDate": "2015-05",
+      "description": "The DMAIC methodology (Define, Measure, Analyze, Improve and Control) was implemented to understand the cause of the defects and data was statistically analyzed."
+    }
+  ]
+}

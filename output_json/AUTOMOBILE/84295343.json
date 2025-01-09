@@ -1,0 +1,104 @@
+{
+  "basics": {
+    "name": "Anonymous",
+    "label": "Legal Assistant",
+    "summary": "Dedicated and focused Administrative Assistant who excels at prioritizing, completing multiple tasks simultaneously and following through to achieve project goals. Seeking a role of increased responsibility and authority.",
+    "skills": [
+      {
+        "name": "General",
+        "level": "",
+        "keywords": [
+          "Fluent in Spanish",
+          "Results-oriented",
+          "Microsoft Office proficiency",
+          "Self-directed",
+          "Excel spreadsheets",
+          "Time management",
+          "Meticulous attention to detail",
+          "Strong problem solver",
+          "administrative",
+          "Attention to detail",
+          "attorney",
+          "clients",
+          "legal documents",
+          "meetings",
+          "MS Office",
+          "police",
+          "research"
+        ]
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Legal Assistant",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Schedule meetings, mediations, hearing dates and depositions. Review reports by witnesses and police. Assist attorneys in preparing for trials and court proceedings. Draft deposition and trial subpoenas. Draft/file pleadings and motions.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Legal Assistant",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Compose and revise legal documents for attorneys. Upload executed documents to LPS. Coordinate hearings with opposing counsel. Set and confirm hearings with judicial assistants. Prepare/file notices, motions and correspondence. Track and maintain busy attorney schedules.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Paralegal",
+      "startDate": "07/2014",
+      "endDate": "11/2016",
+      "summary": "Manage all administrative tasks for three senior partners. Compose and revise legal documents for attorneys. Ensure legal documents are processed and handled in a timely and efficient manner in order to comply with appropriate regulations and deadlines. Perform whatever is necessary to get the job done to provide the firm's clients with excellent service and performance.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "American Senior High School",
+      "area": "",
+      "studyType": "DIPLOMA",
+      "startDate": "2008",
+      "endDate": "2015",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Keiser University",
+      "area": "Legal Studies",
+      "studyType": "Associate of Arts",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "The Best Performer of the Month",
+      "date": "April 2015",
+      "awarder": "",
+      "summary": ""
+    },
+    {
+      "title": "Perfect Attendance",
+      "date": "2016",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "certificates": [],
+  "publications": [],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

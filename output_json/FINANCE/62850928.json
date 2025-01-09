@@ -1,0 +1,89 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Manager, Finance",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Strategic and analytical finance and accounting professional with 15 years + experience of success in financial analysis, budget preparation and financial reporting. Very detail oriented and experienced in grant management, general ledger reconciliation, management and team- building skills.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Manager, Finance",
+      "url": "",
+      "startDate": "Dec 2007",
+      "endDate": "Current",
+      "summary": "Manage the finance function including budget preparation, cash flow management, training, compliance monitoring and more.",
+      "highlights": [
+        "Prepare and analyze annual operating budgets for all units",
+        "Manage cash flow and banking functions",
+        "Debt management and compliance monitoring",
+        "Coordinate the Passenger Facility Charge Program",
+        "Supervise, train and appraise Staff Accountant and Financial Analyst"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Capital Funds Accountant",
+      "url": "",
+      "startDate": "May 1999",
+      "endDate": "Dec 2007",
+      "summary": "Managed financial reporting for capital projects, compliance to prevailing wage laws, collection and disbursement of Passenger Facility Charges and more.",
+      "highlights": [
+        "Prepared quarterly reports for the Federal Aviation Administration",
+        "Ensured accuracy of compliance of prevailing wage laws by contractors and subcontractors",
+        "Monitored collection and disbursement of Passenger Facility Charges"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "The Ohio State University",
+      "url": "",
+      "area": "Business Administration Accounting and Finance",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Certified Public Finance Officer",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Financial Management",
+      "level": "",
+      "keywords": [
+        "Budgeting",
+        "Analysis",
+        "Management",
+        "Cash Flow",
+        "Prophix Software Administrator"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

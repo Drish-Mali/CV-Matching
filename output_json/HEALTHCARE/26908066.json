@@ -1,0 +1,93 @@
+{
+  "basics": {
+    "name": "Name Not Provided",
+    "label": "Recruiter, Tax Exempt Markets",
+    "image": "",
+    "email": "Email Not Provided",
+    "phone": "Phone Not Provided",
+    "url": "URL Not Provided",
+    "summary": "Experienced recruitment professional driven by a passion for uncovering top talent, seeking to join a forward-thinking organization in a challenging, dynamic leadership role.",
+    "location": {
+      "address": "Address Not Provided",
+      "postalCode": "Postal Code Not Provided",
+      "city": "City Not Provided",
+      "countryCode": "Country Not Provided",
+      "region": "Region Not Provided"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Recruiter, Tax Exempt Markets",
+      "url": "URL Not Provided",
+      "startDate": "2015-01-01",
+      "endDate": "Current",
+      "summary": "Launched and implemented innovative and efficient recruitment efforts for Fortune 500 financial services firm within niche market segment, successfully managing relationships with 26 RVPs and 4 SVPs.",
+      "highlights": ["Increased new licensed financial advisor hires from 31 in 2014 to 75 in 2015, hitting 116% of goal", "Efficiently manage a minimal recruiting budget, averaging a cost per hire of $320 in 2015"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Project Manager - Healthcare",
+      "url": "URL Not Provided",
+      "startDate": "2011-05-01",
+      "endDate": "2015-01-01",
+      "summary": "Managed enterprise client relationships throughout high-value candidate recruitment projects, efficiently allocating human and capital resources to achieve success for client and agency.",
+      "highlights": ["Closed $400,000 in revenue in 2013, and over $600,000 in 2014", "Responsible for over $150,000 in repeat revenue in 2013, and $250,000 in 2014"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Senior Healthcare Recruiter",
+      "url": "URL Not Provided",
+      "startDate": "2010-01-01",
+      "endDate": "2011-05-01",
+      "summary": "Created long-lasting, profitable relationships with clients while hiring and managing a healthcare staff of over 90 licensed professionals.",
+      "highlights": ["Led team in generating a 487% increase in annual net income in 2010 and a 600% increase in 2011"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Assistant Supervisor/Head Bartender",
+      "url": "URL Not Provided",
+      "startDate": "2007-08-01",
+      "endDate": "2010-01-01",
+      "summary": "Not Provided",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Key Hourly Manager",
+      "url": "URL Not Provided",
+      "startDate": "2006-07-01",
+      "endDate": "2008-08-01",
+      "summary": "Not Provided",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Lewis University",
+      "url": "URL Not Provided",
+      "area": "Business Administration",
+      "studyType": "Bachelors of Science",
+      "startDate": "Year Not Provided",
+      "endDate": "2009-05-01",
+      "score": "Score Not Provided",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Team Management",
+      "level": "Unknown",
+      "keywords": ["Cold calling", "CRM and ATS systems", "Budget planning and management", "Fullcycle recruitment", "Relationship managment", "Salary/Pay negotiation", "Project management", "Implementation of new ideas/services"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

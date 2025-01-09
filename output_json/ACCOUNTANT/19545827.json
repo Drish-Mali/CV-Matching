@@ -1,0 +1,93 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Accountant",
+    "image": "",
+    "email": "dkterry40@sbcglobal.net",
+    "phone": "361.563.7084",
+    "url": "",
+    "summary": "",
+    "location": {
+      "address": "2383 Suwanee Pointe Drive",
+      "postalCode": "",
+      "city": "Lawrenceville",
+      "countryCode": "US",
+      "region": "GA"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Accountant",
+      "url": "",
+      "startDate": "August 2014",
+      "endDate": "May 2015",
+      "summary": "Perform daily and routine accounting functions for two main companies and five smallroyalty companies.",
+      "highlights": ["Accounts Payable", "Accounts Receivable", "Manage and reconcilefunds for multiple banks accounts", "Payroll"]
+    },
+    {
+      "name": "Company Name",
+      "position": "District Administrative Manager",
+      "url": "",
+      "startDate": "February 2014",
+      "endDate": "June 2014",
+      "summary": "Managed and assisted the Accounts Receivable, Accounts Payable, and HR/Payrollstaff for our district",
+      "highlights": ["Prepared and presented daily reports", "Performed accountingfunctions in On-Base, AX, Avantis, and Microsoft Office software"]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Dallas Theological Seminary",
+      "url": "",
+      "area": "Christian Education",
+      "studyType": "Master",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Marshall University",
+      "url": "",
+      "area": "Economics",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Hocking Technical College",
+      "url": "",
+      "area": "Accounting",
+      "studyType": "Associates",
+      "startDate": "",
+      "endDate": "",
+      "score": "4.0",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "CPA",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Accounting",
+      "level": "",
+      "keywords": ["Sales", "Inventory", "Payroll", "The Accounting", "Reconciliations", "Bookkeeper", "Audits", "Operations"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

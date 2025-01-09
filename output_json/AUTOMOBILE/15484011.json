@@ -1,0 +1,194 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Recreation Activity Coordinator",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "To secure a position related to the personal care of clients hair, skin, and nails, and continue my education at the post secondary level towards additional certifications and /or an advanced degree.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "State",
+      "region": "USA"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Recreation activity coordinator",
+      "url": "",
+      "startDate": "2013-03-01",
+      "endDate": "Current",
+      "summary": "Applied the positive reinforcement method to redirect negative behaviors...",
+      "highlights": [
+        "Consistently received positive performance reviews from guests on online rating sites."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Billing & coding intern student",
+      "url": "",
+      "startDate": "2011-11-01",
+      "endDate": "2011-12-01",
+      "summary": "Greeted clients and data entry... ",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Guidance Counselor",
+      "url": "",
+      "startDate": "2006-02-01",
+      "endDate": "2013-02-01",
+      "summary": "Assisting in the schools guidance program by providing individual and/or small group instruction...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Retail customer service",
+      "url": "",
+      "startDate": "2010-06-01",
+      "endDate": "2013-03-01",
+      "summary": "Retail Customer Service: Assisting throughout the store with answering the phone and resolving customer complaints...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Sales Representative",
+      "url": "",
+      "startDate": "2006-06-01",
+      "endDate": "2006-10-01",
+      "summary": "Responded to inquiries with genuine interest and concern...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Call Service Counselor",
+      "url": "",
+      "startDate": "2006-06-01",
+      "endDate": "2007-01-01",
+      "summary": "Worked in a call center responding to membership questions about services and products offered...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Flight Attendant",
+      "url": "",
+      "startDate": "2000-04-01",
+      "endDate": "2006-06-01",
+      "summary": "Customer Service Ticket Agent: Excellent decision making skills with a positive attitude...",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "American Academy of cosmetology",
+      "url": "",
+      "area": "Hair and skin, nails",
+      "studyType": "Licensed",
+      "startDate": "",
+      "endDate": "2014",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "UEI College, Medical Billing and Coding",
+      "url": "",
+      "area": "Medical Billing and Coding",
+      "studyType": "Certificate of Completion",
+      "startDate": "",
+      "endDate": "2011",
+      "score": "4.0",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Certificate of appreciation SDUSD",
+      "date": "2006/2011",
+      "awarder": "",
+      "summary": ""
+    },
+    {
+      "title": "Perfect Attendance and Honor Roll UEI",
+      "date": "2011",
+      "awarder": "",
+      "summary": ""
+    },
+    {
+      "title": "Customer Service Excellence Northwest Airlines",
+      "date": "2003",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "certificates": [
+    {
+      "name": "CPR Certified",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "MEDCIN",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "HIPAA",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "Microsoft Excel & Word",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "MEDISOFT",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Professional Skills",
+      "level": "",
+      "keywords": [
+        "call center",
+        "cash handling",
+        "Communication skills",
+        "contracts",
+        "CPR Certified",
+        "resolving customer complaints",
+        "clients",
+        "Customer Service",
+        "data entry",
+        "decision making",
+        "direction",
+        "instruction",
+        "insurance",
+        "leadership",
+        "MEDISOFT",
+        "Microsoft Excel",
+        "Word",
+        "Retail",
+        "safety",
+        "phone"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

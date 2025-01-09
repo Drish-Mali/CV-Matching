@@ -1,0 +1,112 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Natural Resource Specialist GS-12/5",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Has over twenty years of experience as a student and at a professional level in Natural Resources focused on the protection and management of federal and/or trust lands.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Department of Interior, Bureau of Indian Affairs",
+      "position": "Realty Specialist (Generalist)",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
+    },
+	{
+      "name": "Company Name",
+      "position": "Natural Resource Specialist GS-12/5",
+      "url": "",
+      "startDate": "2013-01-01",
+      "endDate": "Current",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Soil Conserationist GS-0457-11/4",
+      "url": "",
+      "startDate": "2008-10-01",
+      "endDate": "2013-01-01",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Montana State University-Bozeman",
+      "url": "",
+      "area": "Range Science",
+      "studyType": "Bachelor of Science",
+      "startDate": "2004",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Little Bighorn College",
+      "url": "",
+      "area": "Natural Resources",
+      "studyType": "Associate of Science",
+      "startDate": "2001",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "",
+      "level": "",
+      "keywords": [
+        "TAAMs", 
+        "ArcGIS 10.5.1", 
+        "Trimble Unit", 
+        "Garmin", 
+        "ATV", 
+        "Personal Computer", 
+        "Microsoft Excel", 
+        "PowerPoint", 
+        "Microsoft Word", 
+        "Write and Read Legal Descriptions", 
+        "Read and Translate Title Status Reports", 
+        "Identify plants", 
+        "forbs and weeds"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [
+    {
+      "name": "Austin Gillette",
+      "reference": "Fiduciary Trust Officer - Office of Special Trustee (701) 627-4707"
+    },
+    {
+      "name": "Edward Lone Fight",
+      "reference": "Former Superintendent - Wind River Agency (701) 421-4222"
+    },
+    {
+      "name": "Thomas Wells",
+      "reference": "Retired Deputy Superintendent/Former Supervisor (701) 441-1165"
+    }
+  ],
+  "projects": []
+}

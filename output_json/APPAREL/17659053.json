@@ -1,0 +1,76 @@
+{
+  "basics": {
+    "name": "Customer Service Specialist",
+    "label": "Customer Service Specialist",
+    "email": "",
+    "phone": "",
+    "summary": "Detail-oriented individual with strong technical skills and the ability to learn concepts quickly. Proficient and adaptable; looking for an opportunity to use my knowledge and experience to assist a customer-service focused company. Versatile student with achieved success in on-campus and on-line classes. CORE STRENGTHS have been utilized in previous jobs that required immediate attention to detail and learning new computer program applications.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Customer Service Specialist",
+      "startDate": "2014-08-01",
+      "endDate": "Current",
+      "summary": "Provide accurate and appropriate information in response to customer inquiries. Address customer service inquiries in a timely and accurate fashion. Demonstrated mastery of customer service call script within specified time frames.",
+      "highlights": [
+        "Build customer loyalty by placing follow-up calls for customers who reported product issues.",
+        "Issue premium payments",
+        "Request research and follow up to remove or update required insurance coverage and payments"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Co Owner",
+      "startDate": "2005-06-01",
+      "endDate": "Current",
+      "summary": "Inspect work sites to measure dimensions, lay out work and estimate materials for each job. Recommend options to customers for blending, harmonizing and contrasting colors. Refinish household furniture such as desks, chairs, tables and bookcases.",
+      "highlights": ["Cover floors before prepping, priming and painting all surfaces."]
+    },
+    {
+      "name": "Company Name",
+      "position": "Cashier/Customer Service",
+      "startDate": "2011-03-01",
+      "endDate": "2012-07-01",
+      "summary": "Helped customers select products that best fit their personal needs. Maintained visually appealing and effective displays for the entire store. Educated customers on product and service offerings.",
+      "highlights": ["Communicated merchandise needs and issues to appropriate supervisors in a timely fashion."]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Sinclair Community College",
+      "area": "Sociology, Psychology and Communications",
+      "studyType": "Associate of Arts",
+      "startDate": "",
+      "endDate": "2015",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "skills": [
+    {
+      "name": "Technical Skills",
+      "level": "",
+      "keywords": ["Data collection", "Data entry", "Grammar", "Proofreading", "Multi-Task Management", "Reading Comprehension", "10-Key", "Grasp new concepts", "Microsoft Office", "Excel", "Power Point", "Computer proficient"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "ASL",
+      "fluency": "Second Language"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

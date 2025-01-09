@@ -1,0 +1,87 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Information Technology Student",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Results-driven Database Administrator with extensive education in programming, relational database management and computer technology maintenance.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Information Technology Student",
+      "url": "",
+      "startDate": "January 2014",
+      "endDate": "Current",
+      "summary": "Presented various projects including VPN, RDMS, and IT Proposals to several classes and instructors. Worked independently and as part of a team to achieve the most equitable outcome."
+    },
+    {
+      "name": "Company Name",
+      "position": "Foreclosure Processor Paralegal",
+      "url": "",
+      "startDate": "September 2010",
+      "endDate": "October 2013",
+      "summary": "Reviewed the specialty loan portfolio for compliance with all reporting requirements. Communicated regularly with management regarding portfolio performance and new loan transaction quality. Maintained confidentiality of bank records and client information."
+    },
+    {
+      "name": "Company Name",
+      "position": "TOEFL/TESL Instructor",
+      "url": "",
+      "startDate": "February 2008",
+      "endDate": "May 2008",
+      "summary": "Developed interesting course plans to meet academic, intellectual and social needs of students. Developed and implemented interesting and interactive learning mediums to increase student understanding of course materials."
+    }
+  ],
+  "education": [
+    {
+      "institution": "San Diego State University",
+      "url": "",
+      "area": "English",
+      "studyType": "Bachelor of Arts",
+      "startDate": "2006",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Database servers",
+      "level": ""
+    },
+    {
+      "name": "Structured query language (SQL)",
+      "level": "expert"
+    },
+    {
+      "name": "Programming and design skills",
+      "level": ""
+    },
+    {
+      "name": "Document management",
+      "level": ""
+    },
+    {
+      "name": "Windows, Unix, Linux, Mac OSX, VMWare, HTTP/Apache, DNS/BIND, SSH, SNMP, DNS, DHCP, FTP",
+      "level": "Intermediate"
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "volunteer": [],
+  "awards": [],
+  "certificates": [],
+  "publications": []
+}

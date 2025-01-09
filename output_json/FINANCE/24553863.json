@@ -1,0 +1,122 @@
+{
+  "basics": {
+    "name": "",
+    "label": "VP Finance & IS&T",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Enterprising Finance Executive who creates strategic alliances with Senior Executives to identify and execute key business initiatives. Builds and retains high performance teams by enlisting, developing and motivating skilled professionals. Extensive experience in Financial Management and Controllership areas. Adept in both Business Process and systems to allow for utilizing technology to achieve business goals.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "VP Finance & IS&T",
+      "url": "",
+      "startDate": "2012-01-01",
+      "endDate": "Current",
+      "summary": "Created the business case and system design; currently the Project Manager for a worldwide single instance SAP ERP Implementation project; 13 largest revenue producing countries over 3 years. Eleven countries are live across Europe; USA and Canada going live April 1, 2015. Project will result in $4M per year in savings. Nine additional Latin America countries now planned for Year 4. Developed the governance and support models and processes for the new single instance SAP ERP system Created a Program Management Organization for all key Finance and Management Information Projects resulting in greater communication, strategizing, synchronization and risk management. Created single instance for USA and Canada logistics and supply chain processes in conjunction with SAP ERP Project resulting in cost savings of over $500K per year.",
+      "highlights": ["Developed the CFO Advisory Service's Quality Close Product"]
+    },
+    {
+      "name": "Company Name",
+      "position": "VP Global Digital and US Sales",
+      "url": "",
+      "startDate": "2009-01-01",
+      "endDate": "2011-01-01",
+      "summary": "Built the Business Case and successfully managed the implementation of a new Business Intelligence Platform (Business Objects) for Sales and Marketing Analytics and KPI Reporting for 6 US Label Groups. Tool gives US Labels the ability to see the influence Social Media data has on sales on a daily basis...",
+      "highlights": ["Built the Business Case and successfully managed the implementation of a new Business Intelligence Platform"]
+    },
+    {
+        "name": "Company Name",
+        "position": "VP Finance",
+        "url": "",
+        "startDate": "2005-01-01",
+        "endDate": "2008-01-01",
+        "summary": "Led various Music Label integration initiatives triggered by the merger of Sony Music and BMG Music. to achieve better practices and cost savings of over $1M annually in IT Support and Data Hosting in. addition to business process improvements...",
+        "highlights": ["Led various Music Label integration initiatives"]
+    },
+    {
+        "name": "Company Name",
+        "position": "Manager",
+        "url": "",
+        "startDate": "2001-01-01",
+        "endDate": "2005-01-01",
+        "summary": "Collaborated with others to create an incubator practice, CFO Advisory Services, and turned it into a national practice with over $100M in annual revenue...",
+        "highlights": ["Collaborated with others to create an incubator practice"]
+    },
+    {
+        "name": "Company Name",
+        "position": "Corporate Controller",
+        "url": "",
+        "startDate": "1994-01-01",
+        "endDate": "2001-01-01",
+        "summary": "",
+        "highlights": []
+    },
+    {
+        "name": "Company Name",
+        "position": "Corporate Controller",
+        "url": "",
+        "startDate": "1990-01-01",
+        "endDate": "1994-01-01",
+        "summary": "Served as Corporate Controller for an international consulting company for 6 years...",
+        "highlights": ["Served as Corporate Controller for an international consulting company for 6 years"]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "The University of Maryland at College Park",
+      "url": "",
+      "area": "Finance",
+      "studyType": "B.S",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Business Process Re-engineering",
+      "level": "Master",
+      "keywords": []
+    },
+    {
+      "name": "Finance Transformation",
+      "level": "Master",
+      "keywords": []
+    },
+    {
+      "name": "Project Management",
+      "level": "Master",
+      "keywords": []
+    },
+    {
+      "name": "Finance and IT Strategy",
+      "level": "Master",
+      "keywords": []
+    },
+    {
+      "name": "Team and Resource Cultivation",
+      "level": "Master",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

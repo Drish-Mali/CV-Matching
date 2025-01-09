@@ -1,0 +1,125 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Kitchen Manager, Catering and Events Chef",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "I am a kitchen manager with six years in BOH operations. Demonstrated team leadership with excellent staff management skills.I am also a Motivated chef with 5+ years experience in fast-paced restaurant kitchens.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Kitchen Manager / Catering and events chef",
+      "url": "",
+      "startDate": "2011-07-01",
+      "endDate": "2014-01-01",
+      "summary": "Managed kitchen operations for high grossing, fast-paced fair concession kitchen. Developed variety of menu items catering to customers with food allergies...",
+      "highlights": ["Inspected dining and serving areas to ensure cleanliness...", "Oversaw 8cooks and 17 staff members"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Kitchen manager / Executive chef",
+      "url": "",
+      "startDate": "2008-01-01",
+      "endDate": "2011-06-01",
+      "summary": "Checked in deliveries and signed off on products received. Performed tableside food preparation...",
+      "highlights": ["Regularly inquired about member or guest satisfaction", "Overcame kitchen employee operations"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Executive chef",
+      "url": "",
+      "startDate": "2005-02-01",
+      "endDate": "2008-02-01",
+      "summary": "Delivered an exceptional dining experience with friendly, fast service. Consistently adhered to quality expectations...",
+      "highlights": ["Maintained knowledge of current menu items...", "Responded to resident or guest complaints"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Lead line cook",
+      "url": "",
+      "startDate": "2001-02-01",
+      "endDate": "2005-01-01",
+      "summary": "Served fresh, hot food with a smile in a timely manner. Communicated clearly and positively...",
+      "highlights": ["Operated large-volume cooking equipment...", "Carefully maintained sanitation, health and safety standards"]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Lyndon B Johnson",
+      "url": "",
+      "area": "Culinary arts",
+      "studyType": "GED",
+      "startDate": "1996-01-01",
+      "endDate": "1996-12-31",
+      "score": "",
+      "courses": ["Station cook"]
+    },
+    {
+      "institution": "Lincoln college",
+      "url": "",
+      "area": "Culinary arts",
+      "studyType": "Associate of Applied Science",
+      "startDate": "1999-01-01",
+      "endDate": "1999-12-31",
+      "score": "",
+      "courses": ["Classes in Restaurant and Facility Operations", "Coursework in Food and Beverage Operations", "serve safe management"]
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Serve safe",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "AA in applied science",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Cooking",
+      "level": "",
+      "keywords": ["Grill cook specialist", "Fry cook specialist", "Saucier", "Soups /salads specialist", "Inventory specialist", "Menu and catering planner", "Waste management specialist", "Sautee and broiler specialist"]
+    },
+    {
+      "name": "Management",
+      "level": "",
+      "keywords": ["Event planner", "Expert in preparing daily specials", "Scheduling", "Profit and lost specialist", "Team player", "Excellent customer service", "Training of employee"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Creole",
+      "fluency": "Intermediate"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

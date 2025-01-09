@@ -1,0 +1,134 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Health Systems Analyst",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Healthcare-Business professional with experience in competitive component resolution that drives revenue, growth, profits, and operational performance. Seeking an opportunity with an organization that offers a visionary, innovative and professional environment that defines my experiences to rapidly understand new technologies and gain new skill sets. Self-motivated, detail oriented and adept communicator with solid written and verbal communication skills. Loyal, dedicated and ambitious employee. Willing to travel or relocate.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "",
+      "region": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Health Systems Analyst",
+      "url": "",
+      "startDate": "2017-01-01",
+      "endDate": "",
+      "summary": "Hands-on configuration and troubleshooting in claim in real-time environment as they relate to Resolute. Knowledge of rules, work queues, billing indicators, statement processing, letters, self-pay follow-up with payment/ adjustments and reporting. Extensive experience in patient accounting, billing, managed care, claims and decision support. A solid understanding of business aspects of healthcare operations and workflow.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Healthcare Claims Analyst",
+      "url": "",
+      "startDate": "2007-01-01",
+      "endDate": "2014-01-01",
+      "summary": "Loaded and analyzed Medicaid, Medicare, and Commercial health plan data. Implemented analytic directives from senior staff and clients. Investigated issues in healthcare data from acquisition through presentation. Contributed to the development and maintenance of operational, financial, and performance-related reporting packages. Generated Medical reports summarizing cost and utilization trends and investigate drivers. Developed reports for clients using our business intelligence tool.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Senior Benefit Claims Consultant",
+      "url": "",
+      "startDate": "1996-01-01",
+      "endDate": "2007-01-01",
+      "summary": "Supervised (25) employees to improved efficiency, increase production, implement workflow processes, optimize Lean efficiency and training procedures for managed care and auto adjudicated claims. Achieved operating-margin targets while fostering a culture of performance and continuous improvement.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Academic Resource Specialist II",
+      "url": "",
+      "startDate": "2011-07-01",
+      "endDate": "2016-04-01",
+      "summary": "Maintained detailed administrative and procedural processes to improve accuracy and efficiency. assignment duties such as implementation of performance programs, and lesson assessment programs. Developed and executed strategic and tactical plans to meet student and organization needs. Interacted and Partnered with staff and key management teams in implementing strategic action plans to help with identifying organization objectives.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Saint Francis",
+      "url": "",
+      "area": "Health Administration",
+      "studyType": "Master",
+      "startDate": "2016-01-01",
+      "endDate": "2016-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Pfeiffer University",
+      "url": "",
+      "area": "Business Administration and Management Information Systems",
+      "studyType": "Bachelor of Science",
+      "startDate": "2010-01-01",
+      "endDate": "2010-12-31",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Certified Health Information Technology -Implementation Manager Certification",
+      "date": "2012-01-01",
+      "issuer": "CHTS-IM",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Professional Skills",
+      "level": "",
+      "keywords": [
+        "Accounting",
+        "billing",
+        "business intelligence",
+        "CMS",
+        "continuous improvement",
+        "contracts",
+        "CPT",
+        "Critical thinking",
+        "clients",
+        "Customer Support",
+        "Data Analysis",
+        "decision support",
+        "drivers",
+        "Financial",
+        "Health Information Technology",
+        "ICD-9",
+        "Insurance",
+        "letters",
+        "Microsoft Office",
+        "pricing",
+        "processes",
+        "Coding",
+        "Project Management",
+        "Quality",
+        "Quality Assurance",
+        "real-time",
+        "reporting",
+        "strategic",
+        "troubleshooting",
+        "Vendor Management",
+        "vision",
+        "workflow"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

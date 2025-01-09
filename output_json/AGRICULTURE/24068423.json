@@ -1,0 +1,149 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Research Associate",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "15+ years of research experience in agricultural research 5 years of extension experience as a agronomic resource professional PhD in Soil Science and Crop physiology (minor) Strong experience in conducting and managing research trials of various crops Strong experience in various crop production systems Strong multidisciplinary background: customer support to field research Strong experience in GIS web application Development using HTML5, JavaScript, CSS3 ,PHP Strong Experience in - water and nutrient management, drought stress Instruments - Licor 6400, CIRAS3, Campbell Scientific, GC, HPLC, Wireless irrigation Strong skills in the areas : Statistical design and data analysis, Agricultural extension",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Research Associate",
+      "url": "",
+      "startDate": "2015-01-01",
+      "endDate": "Current",
+      "summary": "Managing sustainable horticultural crop production through environment control Hydroponics tomato production under controlled environment of light, water and nutrients",
+      "highlights": ["Managing"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Agricultural Officer",
+      "url": "",
+      "startDate": "2004-07-01",
+      "endDate": "2006-02-01",
+      "summary": "Acted as a technical consultant for effective knowledge translation and transfer of technology. Worked on agronomic practices for field crops and fruits, vegetables and trees.",
+      "highlights": ["Acted"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Junior Research Fellow",
+      "url": "",
+      "startDate": "2000-01-01",
+      "endDate": "2002-12-01",
+      "summary": "Identified farming systems suitable for different agro-ecological zones of Kerala state, India. Development of Site Specific Nutrient Management strategies for farm models of Kerala.",
+      "highlights": ["Identified"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Research Assistant",
+      "url": "",
+      "startDate": "2000-01-01",
+      "endDate": "2000-05-01",
+      "summary": "Developed sustainable technologies to retain soil, moisture and vegetation in eroded regions using Coir Geo textiles. Identified different types of coir geo textiles for conserving soil and water under varying slopes.",
+      "highlights": ["Developed"]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Kentucky",
+      "url": "",
+      "area": "Soil Science and Crop physiology",
+      "studyType": "PhD",
+      "startDate": "",
+      "endDate": "2010",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Tamil Nadu Agricultural University India",
+      "url": "",
+      "area": "Soil Science and Agricultural Chemistry",
+      "studyType": "MS",
+      "startDate": "",
+      "endDate": "2002",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Kerala Agricultural University India",
+      "url": "",
+      "area": "",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "2000",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [
+    {
+      "name": "Micro-irrigation Systems for Pot-in-Pot Ornamental Nursery Production",
+      "publisher": "CRC Press",
+      "releaseDate": "2014-01-01",
+      "url": "",
+      "summary": "Nambuthiri, S., A. Fulcher, R. Geneve. 2014. Micro-irrigation Systems for Pot-in-Pot Ornamental Nursery Production."
+    },
+    {
+      "name": "Tensiometer Based Automated Irrigation For Tomato under Plasticulture",
+      "publisher": "CRC Press",
+      "releaseDate": "2014-01-01",
+      "url": "",
+      "summary": "Coolong, T., S. Nambuthiri, R. Warner. 2014. Tensiometer Based Automated Irrigation For Tomato under Plasticulture."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Soil Science",
+      "level": "Expert",
+      "keywords": []
+    },
+    {
+      "name": "Crop Physiology",
+      "level": "Expert",
+      "keywords": []
+    },
+    {
+      "name": "GIS Web Application Development",
+      "level": "Expert",
+      "keywords": ["HTML5", "JavaScript", "CSS3", "PHP"]
+    },
+    {
+      "name": "Water and Nutrient Management",
+      "level": "Expert",
+      "keywords": []
+    },
+    {
+      "name": "Drought Stress Instruments",
+      "level": "Expert",
+      "keywords": ["Licor 6400", "CIRAS3", "Campbell Scientific", "GC", "HPLC", "Wireless irrigation"]
+    },
+    {
+      "name": "Statistical Design and Data Analysis",
+      "level": "Expert",
+      "keywords": []
+    },
+    {
+      "name": "Agricultural Extension",
+      "level": "Expert",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

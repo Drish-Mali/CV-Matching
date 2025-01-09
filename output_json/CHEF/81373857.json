@@ -1,0 +1,87 @@
+{
+  "basics": {
+    "name": "Not Provided",
+    "label": "Head Chef",
+    "email": "Not Provided",
+    "phone": "Not Provided",
+    "summary": "Mature college student. Interested in part time work in areas such as retail, health services, security, information technology, and food services.",
+    "location": {
+      "city": "Not Provided",
+      "countryCode": "Not Provided"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Head Chef",
+      "startDate": "2012-07-01",
+      "endDate": "2015-11-01",
+      "summary": "Managed food orders, cash registers and safely handled food.",
+      "highlights": [
+        "Reported complaints to management",
+        "Increased restaurant profits",
+        "Positively communicated with co-workers and management",
+        "Served fresh, hot food with a smile in a timely manner",
+        "Prepared food items on a grill or in fryers"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Manager",
+      "startDate": "2010-07-01",
+      "endDate": "Not Provided",
+      "summary": "Building campaign and domestic tasks.",
+      "highlights": ["Recorded customer orders", "Resolved service issues"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Not Provided",
+      "startDate": "2010-01-01",
+      "endDate": "2011-01-01",
+      "summary": "Customer and employee engagement, Attending to front desk and answering calls, Engaging in invigorating task in the workplace.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Watkins Mills High School",
+      "area": "Not Provided",
+      "studyType": "Graduate",
+      "startDate": "Not Provided",
+      "endDate": "2012-01-01"
+    },
+    {
+      "institution": "University of Maryland College Park",
+      "area": "Computer Science",
+      "studyType": "Bachelor of Science",
+      "startDate": "Not Provided",
+      "endDate": "2014-01-01"
+    }
+  ],
+  "certificates": [],
+  "skills": [
+    {
+      "name": "Software",
+      "level": "Not Provided",
+      "keywords": ["Microsoft Word", "Excel", "PowerPoint", "Adobe Software"]
+    },
+    {
+      "name": "Other Skills",
+      "level": "Not Provided",
+      "keywords": ["Restaurant management", "Math and language skills", "Reliable and punctual", "Comfortable standing for long time periods", "Neat, clean and professional appearance"]
+    }
+  ],
+  "interests": [
+    {
+      "name": "Activities",
+      "keywords": ["BoyzN2Men Youth Leader", "Basketball Team", "Very active Community Member"]
+    }
+  ],
+  "volunteer": [],
+  "awards": [],
+  "publications": [],
+  "languages": [],
+  "references": [],
+  "projects": []
+}

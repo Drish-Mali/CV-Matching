@@ -1,0 +1,80 @@
+{
+  "basics": {
+    "name": "Senior Application Specialist",
+    "label": "Healthcare Management Professional",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Highly motivated, results and detail oriented leader with strong communication, leadership, and troubleshooting skills. I have a proven track record in increasing staff development with a focus on quality improvement. I am seeking a position that allows me to implement health care improvement processes and procedures.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "",
+      "region": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Responsible for operational issues, resolution development and advanced integration through audit/review functions.",
+      "url": "",
+      "startDate": "Mar 2014",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Robert Morris University",
+      "url": "",
+      "area": "Health Information Management",
+      "studyType": "Associate Degree",
+      "startDate": "",
+      "endDate": "June 1999",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Devry University",
+      "url": "",
+      "area": "Healthcare Management",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": ["Healthcare Management"]
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Staff training and development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Conflict resolution",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Computer Skills",
+      "level": "",
+      "keywords": ["Epic certifications in Resolute Hospital Billing", "Home Health and SBO", "Allegra", "IDX", "MIDAS", "Passport/ECARE", "Microsoft Word", "Excel", "and Powerpoint"]
+    },
+    {
+      "name": "Certifications",
+      "level": "",
+      "keywords": ["Revenue Cycle Training through HFMA", "Six Disciplines of Breakthrough Learning", "Developing Others", "The Basic Principles of a Collaborative Workplace", "Giving and Receiving Constructive Feedback", "Designing Effective Learning Experiences", "The OZ Principle", "Accountability Training"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

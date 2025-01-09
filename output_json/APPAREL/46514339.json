@@ -1,0 +1,88 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Jobs Coordinator / Estimator",
+    "email": "",
+    "phone": "",
+    "summary": "[Job Title] with management experience and exceptional people skills. Versed in [Skill set 1] and [Skill set 2]. Desires a challenging role as a [Job Title].",
+    "location": {
+      "city": "City",
+      "countryCode": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Jobs Coordinator / Estimator",
+      "startDate": "2012-08-01",
+      "endDate": "2014-10-01",
+      "summary": "Worked directly with Payless manager's in assigned area's with store operation's, PNL shrink, store maintenance, recruiting store staff member's and planning Competitive Analysis Performed competitive analysis to make recommendations for future Payless company growth."
+    },
+    {
+      "name": "Company Name",
+      "position": "District Manager Trainee",
+      "startDate": "2012-07-01",
+      "endDate": "2012-07-01",
+      "summary": "Successfully managed the activities of team members in multiple locations."
+    },
+    {
+      "name": "Company Name",
+      "position": "Area Manager",
+      "startDate": "2011-10-01",
+      "endDate": "2012-03-01",
+      "summary": "Successfully managed the activities of store team members in multiple locations."
+    },
+    {
+      "name": "Company Name",
+      "position": "Area Manager / Training Supervisor",
+      "startDate": "1992-03-01",
+      "endDate": "2010-08-01",
+      "summary": "Worked closely with the district manager to formulate and build the store brand."
+    },
+    {
+      "name": "Company Name",
+      "position": "Office Administrator",
+      "startDate": "2015-04-01",
+      "endDate": "2015-07-01",
+      "summary": "Planned and executed [project].Effectively controlled the release of proprietary and confidential information for general client lists.Prepared correspondence, accounting and financial documents for analysis."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Mount Olive College",
+      "area": "Business Administration",
+      "studyType": "Associate of Arts",
+      "startDate": "",
+      "endDate": "1982"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Top Sales Manager of the Year",
+      "date": "",
+      "awarder": "Company Name",
+      "summary": ""
+    },
+    {
+      "title": "Best in People Development",
+      "date": "",
+      "awarder": "Company Name",
+      "summary": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Assistant Manager",
+      "level": "Proficient",
+      "keywords": ["benefits", "budgets", "cash receipts", "coaching", "interpersonal", "Competitive Analysis", "customer satisfaction"]
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "languages": [],
+  "volunteer": [],
+  "publications": [],
+  "certificates": []
+}

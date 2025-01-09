@@ -1,0 +1,100 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Accountant",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Self-motivated Accountant offering a strong work ethic and determination to complete tasks in a timely manner. Accurate and detail-oriented with extensive bookkeeping and clerical knowledge.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Accountant",
+      "url": "",
+      "startDate": "2010-03-01",
+      "endDate": "Current",
+      "summary": "Executed accounts receivable reporting enhancements and reconciliation procedures. Evaluated accounting requirements during discovery meetings with potential clients. Received, recorded, and banked cash, checks, and vouchers as well as reconciled records of bank transactions.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Customer Service Rep",
+      "url": "",
+      "startDate": "2007-05-01",
+      "endDate": "2010-03-01",
+      "summary": "Excelled in exceeding daily credit card application goals. Worked as a team member performing cashier duties, product assistance and cleaning. Guaranteed positive customer experiences and resolved all customer complaints. Processed and issued money orders for customers.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Store Manager",
+      "url": "",
+      "startDate": "2005-06-01",
+      "endDate": "2007-04-01",
+      "summary": "Created training manuals targeted at resolving even the most difficult customer issues. Successfully managed the activities of team members in multiple locations. Monitored the daily activities of customer support teams. Interviewed, hired and trained new quality customer service representatives.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Kaplan University",
+      "url": "",
+      "area": "Accounting",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "2009-01-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Accounts receivable professional",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Sales Software",
+      "level": "",
+      "keywords": [
+        "Salesforce.com",
+        "TapScan"
+      ]
+    },
+    {
+      "name": "Public Relations Software",
+      "level": "",
+      "keywords": [
+        "Bacon's Mediasource",
+        "Factiva"
+      ]
+    },
+    {
+      "name": "Desktop Publishing Software",
+      "level": "",
+      "keywords": [
+        "Photoshop",
+        "Illustrator",
+        "HTML"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

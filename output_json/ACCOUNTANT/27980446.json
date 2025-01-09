@@ -1,0 +1,88 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Accountant",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Accounting professional with twenty years of experience in inventory and manufacturing accounting. Ability to fill in at a moment's notice, quickly mastering new systems, processes and workflows. Take charge attitude, ability to work independently, recommend and implement ideas and process improvements.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Accountant",
+      "url": "",
+      "startDate": "2011-04-01",
+      "endDate": "2017-05-01",
+      "summary": "Performed general accounting functions, including account analysis, financial closings budgeting, credit memo approval, and audits. Maintained full accounting functions of 3 subsidiaries Inventory and approved all inventory transactions for all four warehouses.",
+      "highlights": [
+        "Mastered new systems, processes and workflows instantly",
+        "Worked independently and took charge",
+        "Recommended and implemented ideas and process improvements"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Inventory Control Manager",
+      "url": "",
+      "startDate": "2008-01-01",
+      "endDate": "2010-01-01",
+      "summary": "Handled rollout and training of a new ERP system (Syspro), purchasing and receiving, inventory, and repair of relationships with vendors and suppliers, renegotiated payment terms.",
+      "highlights": ["Successfully handled responsibilities which included inventory, purchasing and work order"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Accounting Manager",
+      "url": "",
+      "startDate": "1995-01-01",
+      "endDate": "2008-01-01",
+      "summary": "Prepared documentation for audits, analyzed cost control, reconciled G/L accounts to subsidiary journals or worksheets, managed payroll, prepared financial statements, handled human resource activities, developed company's processes.",
+      "highlights": ["Defined, developed and streamlined company processes", "Maintained MAS90 database to assure accuracy."]
+    },
+    {
+      "name": "Company Name",
+      "position": "Full Charge Bookkeeper",
+      "url": "",
+      "startDate": "1993-01-01",
+      "endDate": "1995-01-01",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Montclair State College",
+      "url": "",
+      "area": "Business Administration Accounting",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "General Accounting",
+      "level": "",
+      "keywords": ["Microsoft Office Excel", "Outlook and Word", "SAGE 100", "Ramp (WMS software)", "Syspro (ERP program)"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

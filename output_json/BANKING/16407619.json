@@ -1,0 +1,87 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Customer Service Representative",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Office professional with an extensive background of more than twelve years of Customer Service, Account Manager and Office Administrative Support. Exude strong and excellent communications skills and creative support with team-building and the ability work independently. I adapt to change quickly and motivate staff to ensure a smooth workflow and increased productivity.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "",
+      "region": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Customer Service Representative",
+      "url": "",
+      "startDate": "2017-09",
+      "endDate": "Current",
+      "summary": "Provide customer support to accounts, track orders, provided price quotes, order changes and\/or cancellations. Identify customers' needs, research issue and complaints with problem-solving for resolution. Assist to ensure professional and exceptional customer service with products inquiry and online services. Document account and conversation during inbound and outbound calls in call center environment.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Owner",
+      "url": "",
+      "startDate": "2015-01",
+      "endDate": "2017-09",
+      "summary": "Responsible for day-to-day operations of online retail store, including sales, stock, and resource management. Develop social media strategy and set goals to increase brand awareness and engagement. Maintained online storefront and social media platforms with new products and marketing sales promotions.",
+      "highlights": []
+    }
+   ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Eldorado College",
+      "url": "",
+      "area": "Data Entry Specialists",
+      "studyType": "Diploma",
+      "startDate": "1995",
+      "endDate": "1995",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "S.E.L.F High School",
+      "url": "",
+      "area": "",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Administrative Skills",
+      "level": "",
+      "keywords": [
+        "Typing 55 wpm",
+        "Ten-Key 10500 kspm",
+        "Microsoft Office (Word, Excel, Outlook)",
+        "Data Entry",
+        "Customer Liaison",
+        "Support",
+        "Agency Management System (AMS, 360, Sagitata)",
+        "The Agency Manager (TAM) Applied System",
+        "CRM Software Systems",
+        "Quick Learner"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

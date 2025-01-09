@@ -1,0 +1,113 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Business Development Consultant",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Business Development Consultant",
+      "url": "",
+      "startDate": "2014-03",
+      "endDate": "2014-08",
+      "summary": "Phoned, emailed and actively followed up with potential leads given to me by management. Answered calls and scheduled appointments with the sales team. Logged all customer information in VinSolutions. Confirmed appointments and scheduled follow ups with customers. Notified necessary departments when appointments have been set. Maintained a goal of 8-10 appointments created daily. Recorded daily and weekly appointment information in a spreadsheet to measure success against our goals.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Senior Design Consultant",
+      "url": "",
+      "startDate": "2011-11",
+      "endDate": "2014-04",
+      "summary": "Developed exterior design concepts and planned the schematic color and finish of the colors chosen. Reviewed project costs, budgets and adherence to schedules. Ensured that the project vision and design intent were reflected successfully.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Expo Design Desk Associate",
+      "url": "",
+      "startDate": "2009-04",
+      "endDate": "2011-11",
+      "summary": "Generated more sales leads than any other design associate. Assisted lead designers with their floor plans, elevations and 3-D perspective views prior to presentation to the client. Assisted designers with their material boards for in-house review and presentation. Reviewed project costs initially with home owners. Voted Employee Committee President and planned all employee events and fundraisers.",
+      "highlights": []
+    },
+    {
+      "name": "Sherwin Williams",
+      "position": "Sales Associate/Wall Paper Specialist",
+      "url": "",
+      "startDate": "2004-03",
+      "endDate": "2009-03",
+      "summary": "Ordered, contacted and handled all wallpaper sales. Passed all skill level tests in the 95th percentile each month. Organized and conducted presentations at all the faux finish clinics to public. Cultivated long term relationships with area contractors. Primary representative for area home shows and real estate seminars. Visited home sites to assess and fulfill customer needs both interior and exterior projects.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Kansas",
+      "url": "",
+      "area": "Interior Design",
+      "studyType": "Bachelor's Degree",
+      "startDate": "",
+      "endDate": "2016",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Washburn Institute of Technology",
+      "url": "",
+      "area": "Production Technician",
+      "studyType": "Professional Certified",
+      "startDate": "",
+      "endDate": "2016",
+      "score": "",
+      "courses": ["Safety", "Manufacturing Processes & Production", "Forklift Certification"]
+    },
+    {
+      "institution": "University of Kansas",
+      "url": "",
+      "area": "Interior Design",
+      "studyType": "Bachelor of Fine Arts",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "OSHA 10, General Industry Certification",
+      "date": "2007-05",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Business Development",
+      "level": "Master",
+      "keywords": [
+        "3-D", "budgets", "color", "Council", "CPT", "client", "floor plans", "Forklift", "Manufacturing Processes", "presentations", "real estate", "Safety", "sales", "seminars","spreadsheet", "Technician", "vision"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

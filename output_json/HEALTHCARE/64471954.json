@@ -1,0 +1,120 @@
+{
+  "basics": {
+    "name": "R",
+    "label": "Healthcare Customer Service Representative",
+    "email": "",
+    "phone": "",
+    "summary": "Customer care representative position where my customer relations experience can be fully utilized to improve customer satisfaction and enhance the company brand name.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Healthcare Customer Service Representative",
+      "startDate": "2011-10-01",
+      "endDate": "Present",
+      "summary": "Handle inbound calls from customers with inquiries and questions regarding their health insurance, wellness programs, prescription plans and help provide the best solutions for the customers' health and financial well-being. Assist in program development with new products and/or services. Process one-time checking and credit card by phone payments. Evaluate information and options and select the alternative that best meet the requirement of the issue(s) presented.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Custodian",
+      "startDate": "2010-05-01",
+      "endDate": "2011-12-01",
+      "summary": "Ensured spaces were prepared for the next day by taking out trash, tidying furniture and dusting surfaces. Swept and mopped floors and vacuumed carpets. Washed and sanitized toilets, sinks and showers and restocked disposables. Secured facilities after operating hours by locking doors, closing windows and setting up the alarm.",
+      "highlights": []
+    },
+    {
+      "name": "",
+      "position": "Customer Service Manager",
+      "startDate": "2004-05-01",
+      "endDate": "2011-05-01",
+      "summary": "Analyzed statistics and compiled accurate reports. Recruited, mentored, and developed customer service agents and nurtured an environment where they can excel through encouragement and empowerment. Kept accurate records and documented customer service actions and discussions. Provided services to customers by cashing checks, issuing money orders, assisting with refunds, and sending and receiving money grams. Supervised 20+ employees at a time, enforced company regulations and delegated daily assignments.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Rowan-Cabarrus Community College",
+      "area": "General Education",
+      "studyType": "Diploma",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "OPTUM",
+      "area": "Healthcare Customer Service",
+      "studyType": "Training and Onboarding",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": ["Received certification for training new hires as they enter customer service roles"]
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Telecommunications knowledge",
+      "level": ""
+    },
+    {
+      "name": "Microsoft Office proficiency",
+      "level": ""
+    },
+    {
+      "name": "Strong problem solving ability",
+      "level": ""
+    },
+    {
+      "name": "Time management",
+      "level": ""
+    },
+    {
+      "name": "High customer service standards",
+      "level": ""
+    },
+    {
+      "name": "Excellent communication skills",
+      "level": ""
+    },
+    {
+      "name": "Active listening skills",
+      "level": ""
+    },
+    {
+      "name": "Customer service expert",
+      "level": ""
+    },
+    {
+      "name": "HIPAA compliance",
+      "level": ""
+    },
+    {
+      "name": "Telecommunication skills",
+      "level": ""
+    },
+    {
+      "name": "Type 60 WPM",
+      "level": ""
+    },
+    {
+      "name": "Retail and Corporate",
+      "level": ""
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

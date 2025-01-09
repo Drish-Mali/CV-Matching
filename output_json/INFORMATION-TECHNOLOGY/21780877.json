@@ -1,0 +1,168 @@
+{
+  "basics": {
+    "name": "Information Technology Specialist GS11",
+    "label": "Information Technology Specialist",
+    "email": "",
+    "phone": "",
+    "summary": "Experienced Information Technology Specialist with a wide range of skills including supervision, project management, circuit management, quality assurance and more.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "US",
+      "region": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Information Technology Specialist GS11",
+      "url": "",
+      "startDate": "2004-07-01",
+      "endDate": "Current",
+      "summary": "Managed the assigned IT/communications environment. Plan, coordinate, install, and continuously analyze system design, hardware and software. Developed, recommended, and installed solutions and upgrades to ensure availability, integrity, efficiency, and reliability of all components of the assigned system.",
+      "highlights": [
+        "Managed Telecommunications and NIPR networks",
+        "Provided customer technical assistance/support for all users"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Cyber Transport/ Client Systems Workcenter Supervisor",
+      "url": "",
+      "startDate": "2001-02-01",
+      "endDate": "Current",
+      "summary": "Managed Cyber Transport/Client Systems work center personnel. Set and adjusted work priorities, evaluated, and counseled subordinates.",
+      "highlights": ["Maintained close working relationship with Communications Focal Point"]
+    },
+    {
+      "name": "Company Name",
+      "position": "F-16 Ejection System Technician",
+      "url": "",
+      "startDate": "1996-07-01",
+      "endDate": "2000-07-01",
+      "summary": "Troubleshot, removed, tested, inspected, repaired, modified, and installed explosive and non-explosive components and assemblies on ejection systems.",
+      "highlights": ["Perform preventative maintenance on over ninety different electronically fired explosive devices"]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Habitat for Humanity",
+      "position": "Volunteer Electrical Worker",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Performed three years of volunteer electrical work, learning the fundamentals of wiring a house for electric, cable, and telephone.",
+      "highlights": [
+        "Learned the fundamentals of wiring a house"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Brockport High School",
+      "url": "",
+      "area": "General Studies",
+      "studyType": "HS Diploma",
+      "startDate": "1996-06-01",
+      "endDate": "1996-06-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "University of TN",
+      "area": "Electrical Engineering",
+      "studyType": "BS Degree",
+      "startDate": "",
+      "endDate": "2003-05-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "USAF",
+      "area": "Various",
+      "studyType": "Certificates",
+      "startDate": "1996-11-01",
+      "endDate": "",
+      "score": "",
+      "courses": [
+        "Electronic Principles",
+        "Telephone Systems Apprentice Course",
+        "Aircrew Egress Systems Apprentice Course",
+        "Numerous web-based training on LAN fundamentals, routers, topologies, cisco networking, etc."
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Achievement Medal",
+      "date": "2000-06-01",
+      "awarder": "USAF",
+      "summary": ""
+    },
+    {
+      "title": "Humanitarian Service Medal",
+      "date": "1998-01-01",
+      "awarder": "",
+      "summary": ""
+    },
+    {
+      "title": "20 CRS Maintenance Professional of the Year",
+      "date": "1998",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Hardware and Software Management",
+      "level": "",
+      "keywords": [
+        "hardware",
+        "Client",
+        "documentation",
+        "Electrician",
+        "feasibility studies",
+        "funds",
+        "Information Technology",
+        "inspector",
+        "LAN",
+        "materials",
+        "access",
+        "network",
+        "networking",
+        "networks",
+        "personnel",
+        "Telephone Systems",
+        "printers",
+        "processes",
+        "Project Management",
+        "Quality Assurance",
+        "routers",
+        "system design",
+        "technical assistance",
+        "Technician",
+        "Telecommunications",
+        "Troubleshoot",
+        "troubleshooting",
+        "upgrades",
+        "video",
+        "wiring"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [
+    {
+      "name": "Electrical Works",
+      "keywords": [
+        "electric, cable, and telephone wiring"
+      ]
+    }
+  ],
+  "references": [],
+  "projects": []
+}

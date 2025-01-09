@@ -1,0 +1,101 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Finance Coordinator",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "To acquire a position that will grant me the opportunity to contribute to the efficient operation of a firm and earn advancement through my job performance.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Finance Coordinator",
+      "url": "",
+      "startDate": "2010-06",
+      "endDate": "Current",
+      "summary": "Responsible for the preparation of bi-weekly payroll including retirement plans, termination, union dues as well as resolving insurance issues and deductions for 30+ employees using the Paychex system.",
+      "highlights": ["Maintained and entered time-keeping data", "General ledger posting", "Prepared bank reconciliation", "State and City Funding Monthly Expense Reports"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Accountant",
+      "url": "",
+      "startDate": "2007-09",
+      "endDate": "2010-03",
+      "summary": "Responsible for the preparation of bi-weekly payroll including retirement plans, termination, as well as resolving insurance issues and deductions for 175 employees using the ADP TotalSource and ADP PC.",
+      "highlights": ["Maintain and enter time-keeping data", "Review payroll reports for accuracy prior to distribution of pay checks"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Senior Accountant",
+      "url": "",
+      "startDate": "1994-04",
+      "endDate": "2006-10",
+      "summary": "Responsible for the preparation of bi-weekly payroll including retirement plans, termination, union dues as well as resolving insurance issues and deductions for 550+ employees using the ADP system.",
+      "highlights": ["Maintained and entered time-keeping data", "Prepared annual audit schedules", "Prepared bank reconciliation"]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "HS for Humanities",
+      "url": "",
+      "area": "HS Equivalence Diploma",
+      "studyType": "GED",
+      "startDate": "2008",
+      "endDate": "2008",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Lehman College",
+      "url": "",
+      "area": "Principles of Accounting",
+      "studyType": "Certificate",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": ["Computer Leadership and Vocational Educational Program, Alianza Dominicana Inc.", "Medical Billing and Coding Netcom Information Technology"]
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Medical Billing",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Accounting",
+      "level": "",
+      "keywords": ["Payroll", "State Tax", "Accounts Payable", "Bank Reconciliation", "General Ledger", "Reconciliation", "Accountant", "Account Receivable", "Account Reconciliation", "Accounting", "Billing Audit", "Basis", "Budget", "Budgets", "Compensation", "Contracts", "Disability", "Government Contracts", "Leave Of Absence", "Payroll Account", "Payroll Account Reconciliation", "Finance", "Excel", "Microsoft Windows Xp", "Ms Excel", "Ms Word", "Outlook", "Quickbooks", "Quickbooks Pro", "FUND EZ", "Paychex", "ADP", "Medical Invoicing"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Bilingual"
+    },
+    {
+      "language": "English",
+      "fluency": "Bilingual"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

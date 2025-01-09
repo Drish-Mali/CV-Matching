@@ -1,0 +1,89 @@
+{
+  "basics": {
+    "name": "Anonymous",
+    "label": "Accountant",
+    "summary": "Flexible bookkeeper / accountant who adapts seamlessly to constantly evolving accounting processes and technologies.",
+    "skills": [
+      {
+        "name": "Accounting",
+        "keywords": [
+          "Account reconciliations",
+          "Accounts Payable / Receivable",
+          "Complex problem solving",
+          "Bank reconciliations",
+          "Creative Problem Solving",
+          "Budget analysis & preparation",
+          "Effective time management",
+          "Excellent managerial techniques",
+          "Cost accounting",
+          "Multi-Task Management",
+          "General ledger accounting",
+          "Strong communication skills",
+          "Periodic financial reporting expert",
+          "Strategic planning",
+          "Intuit QuickBooks specialist",
+          "SAP"
+        ]
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Accountant",
+      "startDate": "2016-08-01",
+      "endDate": "2017-03-01",
+      "summary": "Handled the day to day accounts payable, accounts receivable, monthly financial closing, work in process, and sales tax."
+    },
+    {
+      "name": "Company Name",
+      "position": "Co-Owner",
+      "startDate": "2007-01-01",
+      "endDate": "2016-08-01",
+      "summary": "Created a business plan to help preserve a historic landmark building and encourage economic development in Historic downtown Rogers. Handled all day to day operations, finances, management of employees, strategic planning, and worked with City of Rogers to help with beautification and implementation of events."
+    },
+    {
+      "name": "Company Name",
+      "position": "Owner",
+      "startDate": "2001-11-01",
+      "endDate": "2007-01-01",
+      "summary": "BKP was created after I had my daughter and wanted a more stay at home job. It turned into a bookkeeping/accounting firm that had 7 employees and over 120 different business customers. BKP specialized in small businesses that needed a bookkeeper to come to their site and keep their accounting records up-to-date and train them in the day-to-day accounting needs. BKP was sold to Beall-Barclay is 2005, where I became the Business Development Manager."
+    },
+    {
+      "name": "Company Name",
+      "position": "Accounting Manager",
+      "startDate": "1999-09-01",
+      "endDate": "2001-06-01",
+      "summary": "Implemented new software, audits, and inventory controls for the retail shops."
+    },
+    {
+      "name": "Company Name",
+      "position": "Cost Accounting Manager",
+      "startDate": "1997-09-01",
+      "endDate": "1999-09-01",
+      "summary": "Implemented SAP software. Starbuck's was going through their manufacturing processes and creating a cost accounting system."
+    },
+    {
+      "name": "Company Name",
+      "position": "Cost Accounting Manager",
+      "startDate": "1989-06-01",
+      "endDate": "1999-09-01",
+      "summary": "Began as a cost-accountant for the Irish Spring portion of manufacturing at the Kansas City, Ks plant. Involved in the cost of unions, strikes, complete downsizing of administrative roles."
+    },
+    {
+      "name": "Company Name",
+      "position": "Accounting Manager",
+      "startDate": "1985-02-01",
+      "endDate": "1989-01-01",
+      "summary": "Implemented new software, trained others, and got the inventory and cost accounting systems up and running."
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of the Ozarks",
+      "area": "Business Administration",
+      "studyType": "Bachelor of Science",
+      "endDate": "1985"
+    }
+  ]
+}

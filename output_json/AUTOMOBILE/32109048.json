@@ -1,0 +1,217 @@
+{
+  "basics": {
+    "name": "John Doe",
+    "label": "Claims Service Manager",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Service-oriented manager who delivers high quality customer service by accurately assessing client needs and recommending the most useful policies and products. Excellent investigation and attention to detail skills.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "State",
+      "region": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Claims Service Manager",
+      "url": "",
+      "startDate": "2014-05-01",
+      "endDate": "Current",
+      "summary": "Investigates, evaluates, negotiates and adjusts moderately complex auto claims presented by or against our insured to confirm coverage, determine legal liability and equitably settle/defend in compliance with all state regulatory requirements.",
+      "highlights": [
+        "Works under limited supervision to perform work assignments and problem resolution",
+        "Recognizes life events, understands member's needs and provides advice to deliver appropriate solutions",
+        "Provides auto/casualty claims service via internal channels (phone/email/fax/mail/other electronic channels) to members and third-party customers",
+        "Adjusts moderately complex auto claims",
+        "Collaborates with team members to resolve issues and identify appropriate issues for escalation",
+        "Partners and/or directs vendors and internal business partners to facilitate claims resolution",
+        "Contributes to business goals, performance metrics and effectively uses tools & technology",
+        "Supports workload surges and/or catastrophe operations as needed to include working significant overtime during designated catastrophes",
+        "Handled claims during Hurricane Katrina, Hurricane Irene and Super Storm Sandy"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Associate Claims Adjuster",
+      "url": "",
+      "startDate": "2005-11-01",
+      "endDate": "2008-10-01",
+      "summary": "Investigate, adjust, and pay claims in a call center environment.",
+      "highlights": [
+        "Consistently provide and demonstrate superior customer service",
+        "Handle and process calls in a detailed and accurate manner",
+        "Complete coverage investigations to ensure proper coverage and limits applied",
+        "Interpret policy information to provide coverage for glass damage",
+        "Take recorded statements",
+        "Adjust and determine liability",
+        "Negotiate with glass shops and vendors to obtain a fair and reasonable price"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Casualty Auto Adjuster II",
+      "url": "",
+      "startDate": "2012-04-01",
+      "endDate": "2014-05-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Auto Adjuster",
+      "url": "",
+      "startDate": "2004-08-01",
+      "endDate": "2004-09-01",
+      "summary": "Investigate, adjust and settle, complex auto, mobile home, boat, and motorcycle claims",
+      "highlights": [
+        "Maintained diary management for field inspections",
+        "Completed inspection appointments within the CAT database",
+        "Triaged damage for proper handling",
+        "Scheduled tow appointments and salvage appointments for customers",
+        "Issued payments for proper closing",
+        "Set up hard files for proper documentation and storing"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Claim Representative",
+      "url": "",
+      "startDate": "2001-07-01",
+      "endDate": "2004-12-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Associate Claims Adjuster-Settle Loss",
+      "url": "",
+      "startDate": "2001-04-01",
+      "endDate": "2008-10-01",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Sul Ross State University",
+      "url": "",
+      "area": "Criminal Justice",
+      "studyType": "Master of Science",
+      "startDate": "Current",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Our Lady of the Lake University",
+      "url": "",
+      "area": "Criminal Justice Sociology",
+      "studyType": "BA",
+      "startDate": "2011-01-01",
+      "endDate": "",
+      "score": "",
+      "courses": [
+        "Criminal Law, Criminal Investigations, Theories of Criminal Justice, Corrections, Crimes against Children and Adults, Tort and Liability"
+      ]
+    },
+    {
+      "institution": "Eagle Pass High School",
+      "url": "",
+      "area": "",
+      "studyType": "",
+      "startDate": "1998-01-01",
+      "endDate": "1998-12-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Bexar County Medical Examiners Office",
+      "url": "",
+      "area": "Medical Death Investigations",
+      "studyType": "Internship",
+      "startDate": "2011-01-01",
+      "endDate": "2011-12-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "certificates": [
+    {
+      "name": "TX Casualty and Property License",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Skills",
+      "level": "",
+      "keywords": [
+        "Property insurance", 
+        "Report development", 
+        "Critical thinking", 
+        "Project planning", 
+        "Typing", 
+        "C", 
+        "Call center", 
+        "Closing", 
+        "Contracts", 
+        "CPT coding", 
+        "Criminal Justice", 
+        "Customer service", 
+        "Database", 
+        "Documentation", 
+        "Email", 
+        "Fax", 
+        "Faxing", 
+        "Insurance", 
+        "ISO", 
+        "Law", 
+        "Legal", 
+        "Lexis Nexis",
+        "Medical billing", 
+        "Access", 
+        "Excel", 
+        "Mail", 
+        "Office", 
+        "Outlook Express", 
+        "PowerPoint", 
+        "Works", 
+        "Police", 
+        "Problem resolution", 
+        "Processes", 
+        "Fluency in Spanish", 
+        "Supervision", 
+        "Telephones", 
+        "Phone"
+      ]
+    }
+  ],
+  "interests": [],
+  "references": [
+    {
+      "name": "Henry Adams",
+      "reference": "Financial Manager, USA Bank"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Fluent"
+    }
+  ],
+  "awards": [],
+  "projects": [],
+  "publications": [],
+  "volunteer": []
+}

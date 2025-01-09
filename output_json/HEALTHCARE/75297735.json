@@ -1,0 +1,110 @@
+{
+  "basics": {
+    "name": "",
+    "label": "VICE PRESIDENT-BUSINESS BANKING SALES MANAGER AND HEALTHCARE SPECIALTY BANKER",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Top Notch Financial Professional with diverse banking and financial services background which includes: Retail Bank Leadership, Healthcare Specialty Banking, Corporate Banking, Real Estate Title Insurance, Real Estate Lending and New Construction, Private Banking and Credit Management-Leasing. 25+ years Experience.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Vice President-Business Banking Sales Manager and Healthcare Specialty Banker",
+      "url": "",
+      "startDate": "2008-12",
+      "endDate": "Current",
+      "summary": "Sales Manager for Business Banking/Treasury team in Detroit Michigan Retail Banking Territory of Pittsburgh, PA based Fortune 500 Regional Bank.",
+      "highlights": ["#1 Sales Manager in Detroit first full year in role 2012"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Vice President Business Development Officer and Residential Mortgage Manager",
+      "url": "",
+      "startDate": "2004-05",
+      "endDate": "2008-12",
+      "summary": "Drove several business development areas of bank including real estate, commercial lending (including real estate development), deposit services, advertising, and fee income products.",
+      "highlights": ["Trusted and highly valued member of Management Team during tenure", "Represented Bank as Board Member to Michigan Bankers Association-Real Estate Title Joint Venture"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Real Estate Title Insurance-Senior Account Executive",
+      "url": "",
+      "startDate": "2001-03",
+      "endDate": "2004-04",
+      "summary": "Commissioned Senior sales role calling on new and existing real estate (residential and commercial) relationships in Livingston County market.",
+      "highlights": ["Achieved Million Dollar Sales Status and \"Dare to Soar\" Award from management"]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "MBA Franciscan University",
+      "url": "",
+      "area": "Business and Virtuos Leadership",
+      "studyType": "MBA",
+      "startDate": "2017",
+      "endDate": "2017",
+      "score": "3.9",
+      "courses": []
+    },
+    {
+      "institution": "Michigan State University Eli Broad College of Business",
+      "url": "",
+      "area": "Finance Accounting/Economics",
+      "studyType": "B.A",
+      "startDate": "1984-06",
+      "endDate": "1984-06",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "RMA Omega",
+      "url": "",
+      "area": "Formal Credit Training",
+      "studyType": "Training",
+      "startDate": "1985",
+      "endDate": "1985",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Medical Group Management Association",
+      "url": "",
+      "area": "Healthcare Administration/Practice Management",
+      "studyType": "Coursework",
+      "startDate": "2010",
+      "endDate": "2010",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Leadership",
+      "level": "",
+      "keywords": ["Leads Teams Naturally", "Solid Collaborator to drive execution of strategy", "Strong Communicator-Written and Oral", "Well organized", "Technical Orientation", "Thought Leadership"]
+    },
+    {
+      "name": "Software skills",
+      "level": "Proficient",
+      "keywords": ["Microsoft Word", "Excel", "CRM sales management system", "Credit Analysis/Automated Underwriting"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

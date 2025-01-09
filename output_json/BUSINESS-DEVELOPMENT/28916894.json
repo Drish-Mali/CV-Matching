@@ -1,0 +1,126 @@
+{
+  "basics": {
+    "name": "Applicant",
+    "label": "Business Development Manager",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Highly organized, enthusiastic and financially astute professional with skills in multiple languages, Microsoft and Mac platforms, Google docs, Quicken and Tradeware's ordering, shipping and transportation management system.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Business Development Manager",
+      "url": "",
+      "startDate": "2007-04",
+      "endDate": "Current",
+      "summary": "Founded a language service to assist individuals and corporations with foreign language requirements. Offer Italian and French classes to professionals and children in a class room environment and privately. Develop proprietary teaching and training materials tailor made for each student group.",
+      "highlights": [
+        "Created and planned business strategies and budgets to meet the company's sales objectives and increase business opportunities.",
+        "Generated opportunities for meetings with key decision makers to drive the sales process forward.",
+        "Initiated and implemented sales strategies to increase profitability with key accounts.",
+        "Provided leadership and networking knowledge to the customers and maintenance of an appropriate presence in the industry."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Sales and Marketing Manager",
+      "url": "",
+      "startDate": "2006-10",
+      "endDate": "2008-03",
+      "summary": "Responsible for the overall sales and marketing policies to reflect the company's strategies and objectives. Developed and implemented a sales and marketing program and corporate identity for this UK start-up company.",
+      "highlights": [
+        "Initiated and executed a sales plan with the objective of growing the company in the North American market.",
+        "Successfully implemented the company's sales and marketing plan, which directly resulted in a new sister office being opened in the US."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "CITY UNIVERSITY BUSINESS SCHOOL",
+      "url": "",
+      "area": "Trade and Finance",
+      "studyType": "MSc",
+      "startDate": "",
+      "endDate": "1990-12",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "THE UNIVERSITY OF HULL",
+      "url": "",
+      "area": "French and Italian",
+      "studyType": "BA Honors",
+      "startDate": "",
+      "endDate": "1989-07",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Marketing",
+      "level": "Advanced",
+      "keywords": []
+    },
+    {
+      "name": "Sales",
+      "level": "Advanced",
+      "keywords": []
+    },
+    {
+      "name": "Budgeting",
+      "level": "Advanced",
+      "keywords": []
+    },
+    {
+      "name": "Promotions",
+      "level": "Advanced",
+      "keywords": []
+    },
+    {
+      "name": "Language",
+      "level": "Advanced",
+      "keywords": ["English", "French","Italian", "Greek"]
+    },
+    {
+      "name": "Software Proficiency",
+      "level": "Advanced",
+      "keywords": ["Microsft", "Mac platforms", "Google docs", "Quicken and Tradeware"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "French",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Italian",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Greek",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

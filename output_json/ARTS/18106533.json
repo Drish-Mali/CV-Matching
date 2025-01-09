@@ -1,0 +1,53 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Administrative Assistant",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Highly focused and results-oriented professional who works with a sense of urgency to anticipate the needs of senior-level executives. Thrives in a fast paced, dynamic environment while supporting confidential, complex, and deadline-driven operations. Customer-oriented and computer-savvy.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "",
+        "username": "",
+        "url": ""
+      }
+    ]
+  },
+  "work": [
+    {"name": "Company Name", "position": "Administrative Assistant", "url": "", "startDate": "1996-01", "endDate": "1997-10",
+     "summary": "Administrative Assistant to the President/CEO of statewide mental health organisation. Responsible for all medical transcription for approximately 10 doctors and therapists.", "highlights": []
+    },
+    {"name": "Company Name", "position": "Multi-Media/Graphic Arts Secretary", "url": "", "startDate": "1997-10", "endDate": "2008-05",
+     "summary": "Assist the Senior Pastor in developing marketing programs realising a 6% increase in attendance over the previous year.", "highlights": []},
+    {"name": "Company Name", "position": "Point of Sale Manager", "url": "", "startDate": "1989-01", "endDate": "1995-12",
+     "summary": "Reported directly to store owner providing retail pricing and in-house promotional work for entire store.", "highlights": []},
+    {"name": "Company Name", "position": "Senior Secretary", "url": "", "startDate": "2008-06", "endDate": "2009-12",
+     "summary": "Provide secretarial and administrative support functions to various members of the Retail Leadership Team and their support staff.", "highlights": []},
+    {"name": "Company Name", "position": "Executive Secretary", "url": "", "startDate": "2009-12", "endDate": "2013-01",
+     "summary": "Provide administrative and professional support to the Vice President & CIO and HR Director, Global Finance & IT along with 10+ members of the Global Leadership Team.", "highlights": []},
+    {"name": "Company Name", "position": "Executive Assistant", "url": "", "startDate": "2013-01", "endDate": "current",
+     "summary": "Team with Chief Human Resources Officer and the Senior Vice President, Global Sales and Marketing, providing administrative and professional support.", "highlights": []}
+   ],
+  "skills": [
+    {"name": "Microsoft Office proficiency", "level": "", "keywords": ["Microsoft Office", "Excel spreadsheets"]},
+    {"name": "Customer service-oriented", "level": "", "keywords": ["Strong problem solver", "Meeting planning", "Travel administration"]},
+    {"name": "Meticulous attention to detail", "level": "", "keywords": ["Professional and mature"]}
+  ],
+  "education": [
+    {"institution": "Colorado Christian University", "url": "", "area": "Organizational Management Human Resources",
+     "studyType": "Bachelor of Science", "startDate": "", "endDate": "2016", "score": "", "courses": [""]}
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

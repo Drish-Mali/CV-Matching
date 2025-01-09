@@ -1,0 +1,147 @@
+{
+  "basics": {
+    "name": "Arts Educator",
+    "label": "Art Teacher & Visual Arts Instructor",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Creative and innovative Art teacher passionate about making the middle and high school experience a positive one for all students. Works to improve school climate so that all students can learn course materials, as well as the social skills they need to thrive in all aspects of their lives. Excellent communication, interpersonal and effective leadership skills create easy interaction with students, parents and other staff.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "US",
+      "region": "Florida"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Arts Educator",
+      "url": "",
+      "startDate": "2005-03-01",
+      "endDate": "Current",
+      "summary": "Supported students in developing strategies for individual needs and classroom group dynamics.",
+      "highlights": [
+        "Served as the advisor for the [Student Club Name] Club for [number] years in a row.",
+        "Managed an annual budget between middle and upper school divisions.",
+        "Carried out duties as department chair to provide guidance, instruction, direction and support to fellow faculty members."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Visual Arts Instructor",
+      "url": "",
+      "startDate": "2004-08-01",
+      "endDate": "2005-06-01",
+      "summary": "Develop good rapport with students' in order to cultivate a creative and encouraging atmosphere.",
+      "highlights": [
+        "Managed an annual budget for materials and supplies."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Owner/Artist",
+      "url": "",
+      "startDate": "1990-10-01",
+      "endDate": "2005-07-01",
+      "summary": "Own and manage business which provides a variety of gifts and commercial signs.",
+      "highlights": [
+        "Developed and produced a fused glass product line still carried in galleries and gift shops across the U.S. and the Caribbean."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "NovaSoutheastern University",
+      "url": "",
+      "area": "Education",
+      "studyType": "Master",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Florida Atlantic University",
+      "url": "",
+      "area": "B.F.A",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "University of Nebraska Omaha",
+      "url": "",
+      "area": "Education",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": [
+        "Minor in Geology."
+      ]
+    },
+    {
+      "institution": "The Studio at the Corning Museum of Glass",
+      "url": "",
+      "area": "",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Goodrich Scholarship",
+      "date": "",
+      "awarder": "University of Nebraska Omaha",
+      "summary": ""
+    }
+  ],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Teaching",
+      "level": "Master",
+      "keywords": [
+        "Valid and Current Teaching Certification in Florida.",
+        "Positive and encouraging"
+      ]
+    },
+    {
+      "name": "Business Management",
+      "level": "Master",
+      "keywords": [
+        "People skills",
+        "Enthusiastic people person",
+        "Advanced problem-solving",
+        "Great organizational skills"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": [
+    {
+      "name": "PBS TV series New Florida Glass Fusion Artist",
+      "startDate": "",
+      "endDate": "",
+      "description": "Featured artist",
+      "highlights": [
+        "Student won GOLD KEY from Scholastic Art and Writing Awards and accepted award at Carnaggie Hall, NYC.",
+        "Student won first place for colored pencil drawing, Gallery Hard Rock Casino, Hollywood, Florida."
+      ],
+      "url": "https://www.youtube.com/watch?v=fh0OCMyS_bk"
+    }
+  ]
+}

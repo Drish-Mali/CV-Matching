@@ -1,0 +1,144 @@
+{
+  "basics": {
+    "name": "",
+    "label": "FULFILLMENT ADVOCATE",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "With a 8 year experience on the manufacturing and IT companies and knowing materials, finance,sales and supply chain processes where my concern is being in constantly growing. Today I would like to bring my expertise together with my strong analytical capabilities and excellent communication skills to international company with customer focus.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Guadalajara",
+      "countryCode": "MX",
+      "region": "Jalisco"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Fulfillment Advocate",
+      "url": "",
+      "startDate": "2014-04-01",
+      "endDate": "Current",
+      "summary": "Liaison between sales, factory, planning , customer and logistics. Coordinate with Order management for billing Billing Accuracy Business partner management. Backlog Management. Customer relationship. Supply analysis. Order entry.",
+      "highlights": ["Created critical backlog tracking and improve on-time delivery, customer issues and safety statistics.", "Kept inventory by 99%", "System architecture migration from ORACLE to BAAN V, BAAN IV to BAAN V", "Increased services penetration rate from 20 to 25%", "Inventory reduced project from desktops linux converstion into WINDOWS"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Business Operation Analyst",
+      "url": "",
+      "startDate": "2012-06-01",
+      "endDate": "2014-04-01",
+      "summary": "Liaison between sales and customer for analyze the best option for customer customization services. Coordination and execution for customer services from second touch(rework) area/manufacturing site Coordinate second touch operations such as forecasting, production plan, process improvements. Analysis of backlog management. Responsible for 2nd touch area.",
+      "highlights": ["People management (80 people 2 shifts)", "Suppliers relationship"]
+    },
+    {
+      "name": "Company Name",
+      "position": "CSSM Customer Sales Support Manager",
+      "url": "",
+      "startDate": "2011-01-01",
+      "endDate": "2012-06-01",
+      "summary": "Pricing update, New orderable items creation, customer relationship. Anticipates and communicates product & pricing updates. Ensures set-up and maintenance of Contracts (PS). Utilizes configuration tools to develop valid configurations meeting sales / customer reqs. Create, submit, manage Lifecycle Maintenance of PN. Proactively manages EOL & NPI in offering and catalog. Propose alternatives for EOL products. Drive catalog set-up & maintenance in line with Sales and customer requirements",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Guadalajara",
+      "url": "",
+      "area": "Cost Accounting",
+      "studyType": "Diplomado",
+      "startDate": "2008-01-01",
+      "endDate": "2008-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "University of Guadalajara",
+      "url": "",
+      "area": "International Business",
+      "studyType": "Bachelors Degree",
+      "startDate": "2004-01-01",
+      "endDate": "2004-12-31",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "People Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Finance",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Manufacturing process",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Office",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Order entry ERP (SAP,BAAN,ORACLE, 4TH SHIFT)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Backlog Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Eclipse(Pricing program)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Customer Service",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Self Starter",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Team player",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Analytics",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "90%"
+    },
+    {
+      "language": "Portuguese",
+      "fluency": "60%"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

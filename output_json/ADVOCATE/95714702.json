@@ -1,0 +1,146 @@
+{
+  "basics": {
+    "name": "Jeanette Bellamy",
+    "label": "Quality Assurance Advocate",
+    "email": "",
+    "phone": "",
+    "summary": "I have recently completed five years of military service with the United States Army. During my tenure in the service, I have acquired training and experience in a variety of areas including human resources management, staff training, operations management, customer service, and personnel administration. I am confident that I would quickly become a valuable member of your organization.",
+    "location": {
+      "city": "City",
+      "countryCode": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Quality Assurance Advocate",
+      "startDate": "2014-08-01",
+      "endDate": "Current",
+      "summary": "Audit and report on customer interactions using the current Time Warner Cable Quality program. Utilizing the Time Warner Cable Quality database, recording platforms, and analytics tools, perform trend based auditing and data entry."
+    },
+    {
+      "name": "Company Name",
+      "position": "Signature Home Advisor",
+      "startDate": "2013-05-01",
+      "endDate": "2014-08-01",
+      "summary": "Responsible for providing quality service to customers via phone in account activation, maintenance, billing, problem solving, modification, enhancement and when required, de-activation."
+    },
+    {
+      "name": "Company Name",
+      "position": "Retail Sales Consultant",
+      "startDate": "2012-04-01",
+      "endDate": "2013-04-01",
+      "summary": "Sold all products and services offered by the Company."
+    },
+    {
+      "name": "Company Name",
+      "position": "Leasing Consultant",
+      "startDate": "2011-07-01",
+      "endDate": "2012-04-01",
+      "summary": "Interacted with prospective and current residents to explain the apartment community and its units."
+    },
+    {
+      "name": "Company Name",
+      "position": "Intern Student",
+      "startDate": "2010-09-01",
+      "endDate": "2011-05-01",
+      "summary": "Analyzed and resolved both simple and complex computer problems."
+    },
+    {
+      "name": "Company Name",
+      "position": "Human Resource Assistant",
+      "startDate": "2008-05-01",
+      "endDate": "2009-12-01",
+      "summary": "Conducted either the pre-enlistment and/or the pre-accession interview of applicants for entry into the military service."
+    },
+    {
+      "name": "Company Name",
+      "position": "Human Resource Manager",
+      "startDate": "2002-11-01",
+      "endDate": "2007-07-01",
+      "summary": "Participated in the complete revitalization and overhaul of the U.S. Military."
+    }
+  ],
+  "education": [
+    {
+      "institution": "North Carolina Central University",
+      "area": "Business Administration Computer Information Systems",
+      "studyType": "Bachelor",
+      "startDate": "2009-09-01",
+      "endDate": "2013-05-01"
+    },
+    {
+      "institution": "University of Phoenix",
+      "area": "Law Enforcement Organizations",
+      "studyType": "Masters",
+      "startDate": "2013-06-01",
+      "endDate": "2016-03-01"
+    },
+    {
+      "institution": "ITT Technical Institute",
+      "area": "Computer Network Systems",
+      "studyType": "Associate",
+      "startDate": "2007-09-01",
+      "endDate": "2009-12-01"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Technical Skills",
+      "level": "",
+      "keywords": [
+        "administrative",
+        "Army",
+        "auditing",
+        "benefits",
+        "billing",
+        "billing system",
+        "Cable",
+        "contracts",
+        "credit",
+        "client",
+        "clients",
+        "customer service",
+        "data entry",
+        "database",
+        "features",
+        "filing",
+        "finance",
+        "focus",
+        "forms",
+        "human resources management",
+        "inventory",
+        "marketing strategies",
+        "mentoring",
+        "order entry",
+        "personnel",
+        "policies",
+        "pricing",
+        "problem solving",
+        "processes",
+        "Quality",
+        "receiving",
+        "recording",
+        "sales",
+        "servers",
+        "speech",
+        "staff training",
+        "supervisor",
+        "phone",
+        "trend",
+        "troubleshooting",
+        "video"
+      ]
+    }
+  ],
+  "interests": [
+    {
+      "name": "Activities",
+      "keywords": [
+        "ITT Technical Institute, Gamma Beta Phi Honor Society", "NCCU, Iota Tau Chapter of Phi Beta Lambda, INC"
+      ]
+    }
+  ],
+  "references": []
+}

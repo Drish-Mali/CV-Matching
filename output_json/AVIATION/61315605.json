@@ -1,0 +1,59 @@
+{
+  "basics": {
+    "name": "Anonymous",
+    "label": "Desktop Support Engineer",
+    "email": "",
+    "phone": "",
+    "summary": "Dedicated System Center 2012 Administrator/Desktop Support Engineer with nine plus years in providing effective management and support process.",
+    "location": {},
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Desktop Support Engineer",
+      "startDate": "2012-08",
+      "summary": "Develop, manage and maintain North Highland PC images, building, testing, manage inventory, PCs platform specifications through the utilization of System Center Configuration Manager 2012 R2 (SCCM 2012)."
+    },
+    {
+      "name": "Company Name",
+      "position": "Information Technology Technician",
+      "startDate": "2011-01",
+      "endDate": "2012-01",
+      "summary": "Disassembled, troubleshot, and repaired the following PC hardware: Motherboards, processor, hard drive, floppy drive, CD drive, power supply, IDE Cables, SATA Cables, fans, NICs, Video cards, sound cards, memory, keyboards, mouse, monitors, speakers."
+    },
+    {
+      "name": "Company Name",
+      "position": "Aviation Ordinance Supervisor",
+      "startDate": "1997-01",
+      "endDate": "2009-01",
+      "summary": "Supervised over 130 Navy personnel in the buildup, storage, and movement of Navy ammunitions Inspected, maintained and repaired aircraft mechanical and electrical armament/ordnance systems Supervised operation of aviation ordnance shops, armories and stowage facilities Managed accounting systems, rework of airborne weapons/systems/equipment, and conventional weapons qualification/certification programs, afloat and ashore."
+    }
+  ],
+  "skills": [
+    {
+      "name": "IT",
+      "keywords": ["Windows 7 Image Deploying via SCCM 2012 R2", "Windows 7 and Windows Server 2008 R2 Patch Management", "Application Deploying", "Task Sequence Development"]
+    },
+    {
+      "name": "Hardware and Software Troubleshooting",
+      "keywords": ["Dell and Lenovo devices", "Software install and configurations", "Desktops troubleshooting", "Operating systems upgrades", "Network, LAN and WAN management"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "ECPI University",
+      "area": "Network Security",
+      "studyType": "Bachelor of Computer Science",
+      "score": ""
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Microsoft Cerified Profesional",
+      "date": "",
+      "issuer": "Microsoft",
+      "url": ""
+    }
+  ]
+}

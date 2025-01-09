@@ -1,0 +1,155 @@
+{
+  "basics": {
+    "name": "Anonymous",
+    "label": "Information Technology Manager",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Successful fifteen years of experience in IT Management and Technical Support. Skilled in installation, configuration, migration and implementation of server platforms. Dedicated IT Manager well-versed in analyzing and mitigating risk and finding cost-effective solutions. Experience in strategic planning, designing, and budgeting for new products. Excellent troubleshooting skills in network, servers, and software applications.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "",
+        "username": "",
+        "url": ""
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Information Technology Manager",
+      "url": "",
+      "startDate": "2000-07-01",
+      "endDate": "Current",
+      "summary": "Provide leadership, vision, and management to the IT department. Develop Capitol Budget, monitor, and approve department expenditures. Manage, monitor, and maintain the network infrastructure. Managed IT Staff, scheduling, performance review, training, hiring, termination, and disciplinary action. Maintain Payment Card Industry Data Security Standards of information systems. Research new technologies and calculate future needs to achieve capacity planning. Managed technology documents, maintenance agreements & service contracts.",
+      "highlights": [
+        "Guided company to comply with PCI Data Security Standard and got it certified",
+        "Migrated Analog phone system to VOIP, saving over $40K a year in costs",
+        "Migrated 80% of physical servers to Hyper-V to save cost and improve productivity"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Quality Assurance Supervisor",
+      "url": "",
+      "startDate": "1995-04-01",
+      "endDate": "1998-03-01",
+      "summary": "Supervised a team of 15 Computer quality inspectors and 8 software evaluators. Coordinated quality assurance of new product development and prototypes. Managed Documentation Control for all hardware and software. Assessed product viability and planned improvement and modifications.",
+      "highlights": []
+    },
+    {
+      "name": "Company",
+      "position": "Computer Manufacturing Supervisor",
+      "url": "",
+      "startDate": "1998-09-01",
+      "endDate": "1999-09-01",
+      "summary": "Supervised a team of 25 computer assemblers, 3 testers and 6 technicians. Organised computer assembly and testing for daily production. Provided resolutions to engineering, Logistics and Management.",
+      "highlights": []
+    }
+ 
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Phoenix",
+      "url": "",
+      "area": "Information System",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "2000-12-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "American River College",
+      "url": "",
+      "area": "Computer Technology",
+      "studyType": "Associate of Science",
+      "startDate": "",
+      "endDate": "1993-06-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Information Technology Management",
+      "level": "",
+      "keywords": [
+        "Active Directory",
+        "Adobe",
+        "Antivirus",
+        "Backup Exec",
+        "Backup",
+        "Budget",
+        "business processes",
+        "call center",
+        "capacity planning",
+        "Cisco",
+        "computer assembly",
+        "Direct Attached Storage",
+        "Database",
+        "Dell Servers",
+        "Designing",
+        "Desktops",
+        "Documentation",
+        "Firewall",
+        "HP",
+        "hiring",
+        "information systems",
+        "ISO 9000",
+        "Leadership",
+        "Linux",
+        "Mac",
+        "Access",
+        "Microsoft Exchange",
+        "Microsoft Office Professional",
+        "Microsoft Project",
+        "Microsoft SQL",
+        "Microsoft Visio Professional",
+        "Windows",
+        "NAS",
+        "Enterprise",
+        "Network Printers",
+        "Networking",
+        "new product development",
+        "Operating Systems",
+        "PBX",
+        "PCI",
+        "Phone System",
+        "Project Management",
+        "quality assurance",
+        "QuickBooks Pro",
+        "Research",
+        "Robotic",
+        "safety",
+        "SAN",
+        "scheduling",
+        "Servers",
+        "Symantec",
+        "teamwork",
+        "phones",
+        "Troubleshooting",
+        "upgrade",
+        "Visio Professional",
+        "Web Portal",
+        "WAN"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

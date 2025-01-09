@@ -1,0 +1,97 @@
+{
+"basics": {
+"name": "Registered Nurse",
+"label": "Health Care Professional",
+"summary": "To provide safe, efficient, and quality care to patients and their families while adhering to policies and procedures.",
+"skills": ["Microsoft Office", "Word", "Excel", "PowerPoint", "Outlook"],
+"awards": ["Army Commendation Medal with valor", "Army Commendation Medal (4th award)", "Army Achievement Medal", "Army Good Conduct Medal (2nd award)", "National Defense Service Medal", "Global War on Terrorism Service Medal", "Iraqi Campaign Medal with Campaign Star", "Noncommissioned Officer Professional Development Ribbon", "Army Service Ribbon", "Overseas Service Ribbon", "Combat Medical Badge"],
+"image": "",
+"email": "",
+"phone": "",
+"url": "",
+"location": {
+"address": "",
+"postalCode": "",
+"city": "",
+"countryCode": "",
+"region": ""
+},
+"profiles": []
+},
+"work": [
+{
+"name": "Company Name",
+"position": "Registered Nurse",
+"url": "",
+"startDate": "2016-06",
+"endDate": "",
+"summary": "Self-motivated leader with over 8 years of experience in emergency medicine and health care. Trainer, teacher, facilitator of group projects, and communicator with team members from diverse backgrounds.",
+"highlights": []
+},
+{
+"name": "Company Name",
+"position": "Medical Technician/ Healthcare Specialist",
+"url": "",
+"startDate": "2010-11",
+"endDate": "2013-05",
+"summary": "Health care statistics, reporting, training and collaboration.",
+"highlights": []
+},
+{
+"name": "Company Name",
+"position": "Medical Technician",
+"url": "",
+"startDate": "2006-01",
+"endDate": "2008-08",
+"summary": "Medical Technician",
+"highlights": []
+}
+],
+"volunteer": [],
+"education": [
+{
+"institution": "Columbus Technical College",
+"url": "",
+"area": "Nursing",
+"studyType": "ASN",
+"startDate": "2013-08",
+"endDate": "2015-12",
+"score": "3.20",
+"courses": ["Anatomy and Physiology", "Anatomy Lab", "English Composition", "Cardiopulmonary Resuscitation", "Microbiology", "Microbiology Lab", "Medical Terminology"]
+},
+{
+"institution": "South University",
+"url": "",
+"area": "Nursing",
+"studyType": "BSN",
+"startDate": "",
+"endDate": "2015-12",
+"score": "",
+"courses": []
+},
+{
+"institution": "Bainbridge High School",
+"url": "",
+"area": "General Studies",
+"studyType": "Diploma",
+"startDate": "",
+"endDate": "2004-05",
+"score": "",
+"courses": ["General Studies"]
+}
+],
+"awards": [],
+"certificates": [],
+"publications": [],
+"skills": [
+{
+"name": "Health Care",
+"level": "Proficient",
+"keywords": ["Microsoft Office", "Word", "Excel", "PowerPoint", "Outlook"]
+}
+],
+"languages": [],
+"interests": [],
+"references": [],
+"projects": []
+}

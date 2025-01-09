@@ -1,0 +1,82 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Head Chef",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "To contribute my work ethic and experience to a kitchen team within a company that fosters growth.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Head Chef",
+      "url": "",
+      "startDate": "2016-01-01",
+      "endDate": "2016-01-01",
+      "summary": "Running kitchen operations Menu management Prepping, cooking, and plating Safety and sanitation Hiring and termination Budget control Training employees Communicating with food vendors Food orders.",
+      "highlights": []
+    },{
+      "name": "Company Name",
+      "position": "Kitchen Manager/ Chef",
+      "url": "",
+      "startDate": "2013-09-01",
+      "endDate": "2014-01-01",
+      "summary": "Running day to day operations. Menu management. Prepping, cooking, and plating. Maintaining health and safety standards for all employees.",
+      "highlights": []
+    },{
+      "name": "Company Name",
+      "position": "Line Cook/ Garde Manger",
+      "url": "",
+      "startDate": "2013-02-01",
+      "endDate": "2013-05-01",
+      "summary": "Alternating stations as needed/ sauté and grill Practicing F.I.F.O. to ensure food quality was high and spoilage cost were low Followed company recipes to create dishes according to customer orders Maintained sanitation, health, and safety standards in work areas Prepping stations for next day during shift downtime Expediting tickets Helping source local ingredients to keep dishes seasonal Closing Kitchen.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Orange Coast College",
+      "url": "",
+      "area": "Culinary Arts",
+      "studyType": "",
+      "startDate": "2012-01-01",
+      "endDate": "2012-12-31",
+      "score": "",
+      "courses": []
+    },{
+      "institution": "The International Cooking Schools of the Art Institute",
+      "url": "",
+      "area": "Culinary Arts and Hospitality",
+      "studyType": "Bachelor",
+      "startDate": "2009-01-01",
+      "endDate": "2009-12-31",
+      "score": "",
+      "courses": ["Concepts and Theory", "Safety and Sanitation", "Introduction to Cooking", "Purchasing and Product Identification", "Nutrition", "American Regional Cuisine", "Garde Manger", "Classical European Cuisine", "Introduction to Pastry", "Menu Management"]
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Chef skills",
+      "level": "",
+      "keywords": ["Blueprints", "Budget", "Closing", "Cooking", "Credit", "Debit", "Dimensions", "Training employees", "Health and safety standards", "Hiring", "Inventory", "Machinist", "Mechanical", "Mechanic", "Next", "Painting", "Peak", "Power tools", "Purchasing", "Quality", "Safety", "Soldering", "Time management", "Welder", "Welding"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

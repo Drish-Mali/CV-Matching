@@ -1,0 +1,105 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Safety Intern",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": [
+    ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Safety Intern",
+      "url": "",
+      "startDate": "2015-05-01",
+      "endDate": "2015-08-01",
+      "summary": "Walkthroughs of plant to make sure proper personal protective equipment is being worn by all employees, transition from Material Safety Data Sheet to Safety Data Sheet, implement GHS labels for the chemicals, being in charge of safety to new hire orientation, safety audits, cost benefit analysis of new warning lights in one of our buildings.",
+      "highlights": [
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Security Guard",
+      "url": "",
+      "startDate": "2014-01-01",
+      "endDate": "2015-07-01",
+      "summary": "Directing traffic entering and exiting the complex, providing direction to patrons, answering questions and providing assistance as needed.",
+      "highlights": [
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Customer Service Associate",
+      "url": "",
+      "startDate": "2014-05-01",
+      "endDate": "2014-08-01",
+      "summary": "Providing quality service to our customers, cashiering, replenishing the merchandise, and straitening up the aisles at closing.",
+      "highlights": [
+      ]
+    }
+  ],
+  "volunteer": [
+  ],
+  "education": [
+    {
+      "institution": "Millersville University of Pennsylvania",
+      "url": "",
+      "area": "Occupational Safety and Environmental Health Applied Engineering Emergency Management",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "2015-12-01",
+      "score": "",
+      "courses": [
+      ]
+    }
+  ],
+  "awards": [
+  ],
+  "certificates": [
+  ],
+  "publications": [
+  ],
+  "skills": [
+    {
+      "name": "Occupational Safety",
+      "level": "",
+      "keywords": [
+        "Microsoft Word",
+        "Excel",
+        "Power Point",
+        "E-Tools",
+        "cashiering",
+        "closing",
+        "Directing",
+        "direction",
+        "Safety"
+      ]
+    }
+  ],
+  "languages": [
+  ],
+  "interests": [
+  ],
+  "references": [   
+  ],
+  "projects": [
+  ],
+  "affiliations": [
+    {
+      "name": "American Society of Safety Engineers",
+      "role": "",
+      "startDate": "2015-02-01"
+    }
+  ]
+}

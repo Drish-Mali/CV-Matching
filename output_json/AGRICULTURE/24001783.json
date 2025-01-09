@@ -1,0 +1,97 @@
+{
+  "basics": {
+    "name": "National Marine Fisheries Service NMFS Species Observer",
+    "label": "Environmental Engineer",
+    "summary": "Result driven, diligent and highly accomplished professional with over 12 years experiences in Environmental Science, water pollution control, biological waste disposal, and public health issues. Experienced with laboratory operations and safety procedures."
+  },
+  "education": [
+    {
+      "institution": "University of Arizona",
+      "area": "Soil, Water and Environmental Science",
+      "studyType": "Ph.D",
+      "startDate": "2012-01-01",
+      "endDate": "2014-01-01"
+    },
+    {
+      "institution": "University of Arizona",
+      "area": "Soil, Water and Environmental Science",
+      "studyType": "MSc",
+      "startDate": "2012-01-01",
+      "endDate": "2014-01-01"
+    },
+    {
+      "institution": "University of London",
+      "area": "Management",
+      "studyType": "Diploma",
+      "startDate": "2004-01-01",
+      "endDate": "2006-01-01"
+    },
+    {
+      "institution": "University of Guyana",
+      "area": "Agriculture",
+      "studyType": "BSc.",
+      "startDate": "1998-01-01",
+      "endDate": "2002-01-01"
+    }
+  ],
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "National Marine Fisheries Service NMFS Species Observer",
+      "startDate": "2015-07-01",
+      "endDate": "current",
+      "summary": "Monitoring for sturgeons and other endangered species, collecting and recording biological data"
+    },
+    {
+      "name": "Company Name",
+      "position": "Environmental Research Assistant",
+      "startDate": "2011-01-01",
+      "endDate": "2014-06-01",
+      "summary": "Performed laboratory analysis of water for physical and chemical parameters"
+    },
+    {
+      "name": "Company Name",
+      "position": "Senior Fisheries Officer",
+      "startDate": "2007-01-01",
+      "endDate": "2011-01-01",
+      "summary": "Conducted environmental assessment of aquaculture facilities, solved environmental problems"
+    },
+     {
+      "name": "Company Name",
+      "position": "Fisheries Officer",
+      "startDate": "2002-01-01",
+      "endDate": "2007-01-01",
+      "summary": "Revamped the data collection program, examined and quantified the composition of fish species caught"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Graduate Student Travel Award",
+      "date": "2013-01-01",
+      "awarder": "University of Arizona - Institute of Environment",
+      "summary": "Awarded to recognize academic excellence and achievements"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Water Quality Testing",
+      "level": "Master"
+    },
+    {
+      "name": "Wastewater Treatment Systems",
+      "level": "Master"
+    },
+    {
+      "name": "10 Hour OSHA Hazard Recognition Training for the Construction Industry",
+      "level": "Master"
+    },
+    {
+      "name": "Microsoft Office",
+      "level": "Master"
+    },
+    {
+      "name": "Microsoft Excel",
+      "level": "Master"
+    }
+  ]
+}

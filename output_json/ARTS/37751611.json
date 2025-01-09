@@ -1,0 +1,130 @@
+{
+  "basics": {
+    "name": "Anonymous",
+    "label": "Educator / Instructional Design Professional",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Detail-oriented, enthusiastic educator with over 12 years experience in Higher Education, skilled in designing curriculum for various faculty members with an aim of integrating technology in meaningful ways.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Special Instructor of Composition Administration",
+      "url": "",
+      "startDate": "2008-06",
+      "endDate": "Current",
+      "summary": "Oversee the design of first-year Composition curriculum, management of Learning Management System Canvas, and supervision of new Composition instructors. Collaborate with a team of Composition faculty to create anthologies and ensure course objectives are met.",
+      "highlights": [
+        "Designed a common College Composition course shell template on Canvas.",
+        "Supervised and trained new Composition instructors."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "English Instructor",
+      "url": "",
+      "startDate": "2007-01",
+      "endDate": "2008-05",
+      "summary": "Facilitated a variety of Composition courses, maintained University objectives, and improved student writing skills as a tutor in the University Writing Lab.",
+      "highlights": [
+          "Planned and facilitated First Year Experience recitations.",
+          "Designed and presented professional development opportunities.",
+          "Improved student writing skills as a tutor in the University Writing Lab."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Graduate Teaching Assistant",
+      "url": "",
+      "startDate": "2005-01",
+      "endDate": "2006-12",
+      "summary": "Taught College Research, Freshmen Composition, and 20th Century British Literature. Collaborated with other instructors on curriculum needs and best practices",
+      "highlights": [
+        "Designed, implemented, and assessed lessons and assignments for composition and literature classes."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Language Arts Teacher",
+      "url": "",
+      "startDate": "2002-08",
+      "endDate": "2004-07",
+      "summary": "Taught English 9, English 10, Creative Writing, Argumentation and Debate, Mythology and Science Fiction. Sponsored the Forensics Speech and Debate Team. Directed a winter drama production.",
+      "highlights": [
+        "Designed, implemented, and assessed lessons focused on a variety of writing assignments.",
+        "Sponsored the Forensics Speech and Debate Team."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Northern Colorado",
+      "url": "",
+      "area": "English",
+      "studyType": "Master of Arts",
+      "startDate": "",
+      "endDate": "2006-12",
+      "score": "",
+      "courses": [
+        "Recipient of Dean's Citation of Excellence Award",
+        "Nominated for Dean's Outstanding Thesis Award"
+      ]
+    },
+    {
+      "institution": "Colorado State University",
+      "url": "",
+      "area": "English Education",
+      "studyType": "Bachelor of Arts",
+      "startDate": "",
+      "endDate": "2001-12",
+      "score": "",
+      "courses": [
+        "Cum Laude"
+      ]
+    },
+    {
+      "institution": "Colorado State University Online Plus",
+      "url": "",
+      "area": "Teaching with Technology and Distance Learning",
+      "studyType": "Certificate",
+      "startDate": "",
+      "endDate": "Current",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Teaching",
+      "level": "",
+      "keywords": [
+        "ADA",
+        "Canvas",
+        "Creative Writing",
+        "English",
+        "Time Management",
+        "Research",
+        "Instructional Design"
+      ]
+    }
+  ],
+  "publications": [
+    {
+      "name": "Numerous Formal Presentations and Publications",
+      "publisher": "Various",
+      "releaseDate": "",
+      "url": "",
+      "summary": "Various presentations and publications related to academic success, instructional design, rhetoric, and teacher-student dynamics. Authored several books on higher education ethics, internet and social media and the rhetoric of green."
+    }
+  ]
+}

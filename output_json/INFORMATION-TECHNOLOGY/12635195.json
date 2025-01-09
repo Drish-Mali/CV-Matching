@@ -1,0 +1,108 @@
+{
+  "basics": {
+    "name": "Not provided in resume",
+    "label": "Adjunct Information Technology Instructor",
+    "email": "Not provided in resume",
+    "phone": "Not provided in resume",
+    "summary": "Objective: To obtain a position in the information technology, personnel development, or computer science field to help manage, develop, and support projects and individuals.",
+    "location": {
+      "city": "City",
+      "countryCode": "State",
+      "region": "Not Provided in resume"
+    }
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Adjunct Information Technology Instructor",
+      "startDate": "2014-01-01",
+      "endDate": "Currently",
+      "summary": "Taught courses concerning the Python, Visual Basic, and C# programming languages. Sat on CIT advisory board committee to improve and recruit students to the KCTCS CIT program."
+    },
+    {
+      "name": "Company Name",
+      "position": "Information Technology Instructor and School Technology Coordinator",
+      "startDate": "2011-11-01",
+      "endDate": "Currently",
+      "summary": "Responsible for meeting the educational needs of high school students. Instructed classes concerning A+ certification, Cisco certification, web design, programming, game design, and help desk."
+    },
+    {
+      "name": "Company Name",
+      "position": "Geek Squad Agent",
+      "startDate": "2007-04-01",
+      "endDate": "2010-09-01",
+      "summary": "Set up, tested and configured networks, desktops, laptops and printers. Coordinated hardware and software repair processes with outside vendors."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Murray State University",
+      "area": "Computer Information Systems",
+      "studyType": "Master of Science",
+      "startDate": "Not Provided in resume",
+      "endDate": "2015",
+      "score": "Not Provided in resume"
+    },
+    {
+      "institution": "Murray State University",
+      "area": "Education",
+      "studyType": "Master of Arts",
+      "startDate": "Not Provided in resume",
+      "endDate": "2013",
+      "score": "Not Provided in resume"
+    },
+    {
+      "institution": "Murray State University",
+      "area": "Education",
+      "studyType": "Bachelor of Science",
+      "startDate": "Not Provided in resume",
+      "endDate": "2011",
+      "score": "3.69"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Comptia - Strata IT Fundamentals",
+      "date": "Not Provided",
+      "issuer": "Not Provided"
+    },
+    {
+      "name": "Microsoft Technology Associate - Network Fundamentals",
+      "date": "Not Provided",
+      "issuer": "Not Provided"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Kentucky Colonel Award",
+      "date": "Not Provided",
+      "awarder": "Not provided",
+      "summary": "Not Provided"
+    },
+    {
+      "title": "Cum Laude - Murray State University",
+      "date": "2011-05-01",
+      "awarder": "Murray State University",
+      "summary": "Not Provided"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Google and Microsoft suite",
+      "level": "Experienced"
+    },
+    {
+      "name": "Project management",
+      "level": "Experienced"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "HCHS Curriculum Committee",
+      "position": "Vice Chair",
+      "startDate": "Not Provided",
+      "endDate": "Not Provided",
+      "summary": "Not Provided"
+    }
+  ]
+}

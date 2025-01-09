@@ -1,0 +1,148 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Chef Manager",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Food Production Management – K12 Chef Management Experience – National School Lunch Program Oversight – Food Safety Champion – Culinary Innovation – Proven Team Leader – Creative Recipe Presentations – Training & Development – Contract Management- Inventory and ordering management– Procurement Analysis – Auditing Management – Waste management skills – Food Cost & Labor Management – Strong Catering abilities – Restaurant Management skills – Team Player – Excellent communication skills – MS Office Proficient – Budgeting & Invoice competencies – Food Allergy/medical condition trained – Quick Books – Quicken– Newton POS– Cater Trax knowledgeable – Menu Software Proficient waste management savvy- La ethics trained",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Chef Manager",
+      "url": "",
+      "startDate": "08/2020",
+      "endDate": "Current",
+      "summary": "Managing all kitchen staff, ensuring food safety regulations are followed, and handling inventory",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Chef Manager",
+      "url": "",
+      "startDate": "08/2019",
+      "endDate": "03/2020",
+      "summary": "Managed staff, ensured food safety, and maintained budget of the $1.5 million annual revenue-producing restaurant",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "General Manager of Operations",
+      "url": "",
+      "startDate": "01/2017",
+      "endDate": "07/2017",
+      "summary": "Managed business plan and ensured all team members follow the company culture",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Operations Manager",
+      "url": "",
+      "startDate": "01/2010",
+      "endDate": "11/2016",
+      "summary": "Boosted long-term business success and increased profit levels",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of New Orleans",
+      "url": "",
+      "area": "Pastry Arts",
+      "studyType": "Associate of Arts",
+      "startDate": "",
+      "endDate": "05/2009",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Northwestern State University of Louisiana",
+      "url": "",
+      "area": "Business Management",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "05/2005",
+      "score": "3.1",
+      "courses": ["Marketing"]
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Certified Servsafe",
+      "date": "2024",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "Member of the American Institute of Culinary Professionals",
+      "date": "2019",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "Culinary Innovation of America Jr Board member",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Kitchen Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Menu Planning",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Sanitation Guidelines",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Cooking Skills",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Supply Ordering",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Performance Assessments",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Budgeting",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Cultural Awareness",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

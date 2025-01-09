@@ -1,0 +1,144 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Mineralogy Engineering Intern",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Passionate graduate student in extractive metallurgy with solid industrial experience, a diverse academic background, and strong leadership and relationship-building skills.",
+    "location": {
+      "city": "City",
+      "countryCode": "USA"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Mineralogy Engineering Intern",
+      "startDate": "2014-06",
+      "endDate": "2014-09",
+      "summary": "Working with lab and pilot plant scale project in minerals processing including flotation, magnetic separation, screening."
+    },
+    {
+      "name": "Company Name",
+      "position": "Metallurgical Engineering Intern",
+      "startDate": "2013-05",
+      "endDate": "2013-08",
+      "summary": "Developed and performed a study on several quality issues for anode production. Collaborated with operations, technical, and maintenance to ensure implementation of project. Conducted laboratory work for XRD/XRF measurements of ore."
+    },
+    {
+      "name": "Company Name",
+      "position": "Corrosion and Materials Engineering Intern",
+      "startDate": "2012-05",
+      "endDate": "2012-08",
+      "summary": "Researched and reviewed differing pipeline coating technologies in the academia realm. Conducted evaluations for existing commercially available coatings and provided a suggestion for their use."
+    },
+    {
+      "name": "Company Name",
+      "position": "Primary Process Intern",
+      "startDate": "2011-06",
+      "endDate": "2011-08",
+      "summary": "Provided assistance to technical operations, primary process, quality, and pilot plant. Developed and performed a study on several quality issues. Created a report with laboratory results that encompassed a solution to quality problems. Produced a plan for a new expansion of the plant."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Colorado School of Mines",
+      "area": "Materials and Metallurgical Engineering",
+      "studyType": "Master of Science",
+      "startDate": "2016",
+      "endDate": "Expected graduation date: May 2016",
+      "courses": ["Thesis work comprises of flotation fundamentals including zeta potential, contact angle, adsorption density as well lab scale flotation."]
+    },
+    {
+      "institution": "Aalto University",
+      "studyType": "Materials and Metallurgical Science",
+      "startDate": "2014"
+    },
+    {
+      "institution": "University of Miskolc",
+      "area": "Mineral Processing",
+      "startDate": "2013"
+    },
+    {
+      "institution": "Wroclaw University of Technology",
+      "area": "Materials and Metallurgical Engineering",
+      "startDate": "2013"
+    },
+    {
+      "institution": "Colorado School of Mines",
+      "area": "Materials and Metallurgical Engineering",
+      "studyType": "Bachelor of Science",
+      "startDate": "2013",
+      "score": "3.67 cum laude",
+      "courses": ["Graduated with honors, cum laude."]
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Metallurgical",
+      "level": ""
+    },
+    {
+      "name": "Metallurgical Engineering",
+      "level": ""
+    },
+    {
+      "name": "Fundraising",
+      "level": ""
+    },
+    {
+      "name": "Mec",
+      "level": ""
+    },
+    {
+      "name": "Exploration",
+      "level": ""
+    },
+    {
+      "name": "Metallurgy",
+      "level": ""
+    },
+    {
+      "name": "Laboratory",
+      "level": ""
+    },
+    {
+      "name": "Operations",
+      "level": ""
+    },
+    {
+      "name": "Maintenance",
+      "level": ""
+    },
+    {
+      "name": "Xrf",
+      "level": ""
+    },
+    {
+      "name": "Coatings",
+      "level": ""
+    },
+    {
+      "name": "Corrosion",
+      "level": ""
+    },
+    {
+      "name": "Materials Engineering",
+      "level": ""
+    },
+    {
+      "name": "Pipeline",
+      "level": ""
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

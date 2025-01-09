@@ -1,0 +1,203 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Office Manager",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Professional Human Recourses/Office Manager with 4-years background in employee management, hiring, computer training and benefits.",
+    "location": {
+      "address": "Federal Way",
+      "postalCode": "",
+      "city": "Federal Way",
+      "countryCode": "US",
+      "region": "WA"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Office Manager",
+      "url": "",
+      "startDate": "2015-05",
+      "endDate": "2016-11",
+      "summary": "Managed front office along with annual reporting and customer needs.",
+      "highlights": ["Data entry", "Workforce and Aging and Disability Services management", "Student advising", 
+      "Assistant instructor for CNA", "I9/W2 Management"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Leasing Specialist",
+      "url": "",
+      "startDate": "2014-01",
+      "endDate": "2015-05",
+      "summary": "Worked with operations department for rental inventory.",
+      "highlights": ["Handling leasing reports", "Resident service management", "Move-ins Management"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Administrative Assistant/Office Manager",
+      "url": "",
+      "startDate": "2013-01",
+      "endDate": "2013-09",
+      "summary": "Managed and helped barista managers with ordering supplies, hiring new employees.",
+      "highlights": ["ADP system for Payroll", "Managed termination of employees", "Created excel spreadsheets"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Barista/Office Manager",
+      "url": "",
+      "startDate": "2012-03",
+      "endDate": "2012-12",
+      "summary": "Managed 6 employees, interviews, hire and termination.",
+      "highlights": ["Daily bank runs and deposits", "Sales and marketing for coffee stand", "Created excel spreadsheets to track sales"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Retail Apparel Associate",
+      "url": "",
+      "startDate": "2010-03",
+      "endDate": "2012-03",
+      "summary": "Cashier, merchandising shoes, all apparel from the stock room to the sales floor",
+      "highlights": ["Managed the fitting room/key holder", "Worked the truck every other day with new product"]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Habitat for Humanity",
+      "position": "Volunteer",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Elite Nurse Aide Training",
+      "url": "",
+      "area": "Certified Nurse Aide",
+      "studyType": "License",
+      "startDate": "2015",
+      "endDate": "2015",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Elite Nurse Aide Training",
+      "url": "",
+      "area": "Electrocardiogam",
+      "studyType": "Certification",
+      "startDate": "2016",
+      "endDate": "2016",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Elite Nurse Aide Training",
+      "url": "",
+      "area": "Phlebotomy",
+      "studyType": "Certification",
+      "startDate": "2016",
+      "endDate": "2016",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Federal Way High School",
+      "url": "",
+      "area": "General Studies",
+      "studyType": "High School Diploma",
+      "startDate": "2010",
+      "endDate": "2010",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "CNA License",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "CPR Certification",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "BLS - Basic Life Support",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Hiring and retention",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Personnel records maintenance",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Training and development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Recruiting",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Employee relations",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Compensation/payroll",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "New hire orientation",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Skilled multi-tasker",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Client relations specialist",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Software proficiency",
+      "level": "",
+      "keywords": ["QuickBooks", "One-site", "Tenant Tracer", "ADP Payroll", "Microsoft Word", "Excel"]
+    },
+    {
+      "name": "Detail-oriented",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

@@ -1,0 +1,106 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Superintendant",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Energetic Construction Manager consistently involved in all facets of construction. Specialty in commercial interior renovation and some residential experience, as well as experience with permits.",
+    "location": {},
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Superintendant",
+      "url": "",
+      "startDate": "2012-02-01",
+      "endDate": "Current",
+      "summary": "Qualified competitive subcontractor bids prior to execution of contracts. Carefully coordinated plans and specs using marketing programming standards. Stayed consistent with project schedules and plans for all installations. Submitted all project closeout documents in accordance with the contract. Followed through with competent execution of project plans by providing proper tools and equipment to all construction personnel. Led and managed resolution of all issues during project construction and commissioning phases.",
+      "highlights": [
+        "Permit processing",
+        "Site safety coordinator",
+        "Safe job site set-up",
+        "Blueprint fluency",
+        "Computer-skilled",
+        "Proficient in AutoCAD, Revit",
+        "MS Office proficient",
+        "Organized and detail-oriented",
+        "Superb management skills",
+        "Graduated from ITT Tech with an Associates degree in drafting and design, and a Bachelors degree on construction management"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Superintendent / permit runner / design coordinator",
+      "url": "",
+      "startDate": "2010-02-01",
+      "endDate": "2012-02-01",
+      "summary": "Worked on projects such as Marlin Stadium, Calder Race Track, and remodeling homes for LHHA (little Haiti housing Association)",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Superintendent Assistant",
+      "url": "",
+      "startDate": "2008-01-01",
+      "endDate": "2010-02-01",
+      "summary": "Carefully coordinated plans and specifications using marketing programming standards. Facilitated processing of RFI's, submittals and samples among the general contractor, the owner, and the owner's consultants. Obtained notices of completion and compliance certifications from all of the construction administration consultants.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "ITT TECH",
+      "url": "",
+      "area": "Construction Management",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "2013",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Construction Skills",
+      "level": "Master",
+      "keywords": [
+        "Permit processing",
+        "Site safety coordination",
+        "Safe job site set-up",
+        "Blueprint fluency",
+        "Computer skills",
+        "Proficiency in AutoCAD, Revit",
+        "MS Office proficiency",
+        "Organized and detail-oriented",
+        "Superb management skills"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": [
+    {
+      "name": "Dermcare",
+      "description": "Commercial Interior Renovation, project price: $500,000+",
+      "url": ""
+    },
+    {
+      "name": "Skyzone",
+      "description": "Interior Built out, price of project: $700,000+",
+      "url": ""
+    },
+    {
+      "name": "Family Medical Center",
+      "description": "New Interior Build-out, project Price: $500,000",
+      "url": ""
+    }
+  ]
+}

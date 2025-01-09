@@ -1,0 +1,120 @@
+{
+  "basics": {
+    "name": "Profession Name Not Given",
+    "label": "Healthcare Administrator",
+    "image": "",
+    "email": "Email Not Given",
+    "phone": "Phone Not Given",
+    "url": "",
+    "summary": "Talented and professional Healthcare Administrator offering exceptional and outcomes-based services, combined with knowledge and experience of a variety of clinical best practices.",
+    "location": {
+      "address": "Address Not Given",
+      "postalCode": "Postal Code Not Given",
+      "city": "City Not Given",
+      "countryCode": "Country Code Not Given",
+      "region": "Region Not Given"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Healthcare Administrator",
+      "url": "",
+      "startDate": "2006-08",
+      "endDate": "Current",
+      "summary": "Provide thorough supervision for day-to-day operations of department in accordance with set policies and guidelines. Observe strict confidentiality and safeguard all patient-related information.",
+      "highlights": [
+        "Revise policies and procedures in accordance with changes in local, state and federal laws and regulations.",
+        "Conduct new employee orientation/training to foster positive attitude toward organizational objectives."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Human Resources Assistant",
+      "url": "",
+      "startDate": "2006-01",
+      "endDate": "2006-08",
+      "summary": "Maintained confidential security information using Automated Electronic Guard Information System (AEGIS) and Justice Consolidated Office Network (JCON) and ensure appropriate modifications.",
+      "highlights": [
+        "Administered pre-entry security screening procedures for employees and contractual personnel"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Operations Office Manager",
+      "url": "",
+      "startDate": "2003-08",
+      "endDate": "2006-01",
+      "summary": "Oversaw scheduling for the day-to-day activities of 24 transportation employees. Identified inefficiencies and made recommendations for process improvements.",
+      "highlights": [
+        "Prepared purchase orders and expense reports.",
+        "Managed payroll and time and attendance systems."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Strayer University",
+      "url": "",
+      "area": "Health Services Administration",
+      "studyType": "MBA",
+      "startDate": "Not Given",
+      "endDate": "2012-06",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Potomac College",
+      "url": "",
+      "area": "Management",
+      "studyType": "Bachelor of Science",
+      "startDate": "Not Given",
+      "endDate": "2008-06",
+      "score": "Dean's List",
+      "courses": []
+    },
+    {
+      "institution": "Prince George's Community College",
+      "url": "",
+      "area": "Business Management",
+      "studyType": "Associate of Science",
+      "startDate": "Not Given",
+      "endDate": "2005-06",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Certificate of Appreciation for Exemplary Participation in Take Your Child to Work Day",
+      "date": "2008-01-01",
+      "awarder": "U.S. Department of State",
+      "summary": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Healthcare Informatics",
+      "level": "Not Given",
+      "keywords": []
+    },
+    {
+      "name": "Business Operations",
+      "level": "Not Given",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "certificates": [
+    {
+      "name": "Certificate of Appreciation for Outstanding Performance",
+      "date": "2011-01-01T00:00:00Z",
+      "issuer": "U.S. Department of State",
+      "url": ""
+    }
+  ]
+}

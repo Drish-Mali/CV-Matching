@@ -1,0 +1,145 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Telephone Interviewer",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Organized, task oriented professional with experience in customer support. Self-starter committed to taking ownership and capable of completing assigned projects independently and in a team environment.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "National Agricultural Statistics Service",
+      "position": "Telephone Interviewer",
+      "url": "",
+      "startDate": "2013-04-01",
+      "endDate": "Current",
+      "summary": "Performs telephone interviews for a wide variety surveys and censuses. Obtains and records data on a survey instrument. Reviews information for completeness, edits and assists in the clerical processing of the collected information.",
+      "highlights": [
+        "Migrated thousands documents into ECM (Enterprise Content Management System) in an effort to sunset legacy Intranet Server into a SharePoint environment."
+      ]
+    },
+    {
+      "name": "Credit Control, LLC",
+      "position": "Customer Service Representative",
+      "url": "",
+      "startDate": "2011-05-01",
+      "endDate": "2012-12-31",
+      "summary": "Handled customer questions, complaints, and billing inquiries. Skilled in resolving customer issues with one call resolution.",
+      "highlights": [
+        "Proactively offered alternative solutions where appropriate with the objective of retaining customer's business.",
+        "Managed business transactions in connection with activation of new customer accounts on a computer terminal and communicate with customers.",
+        "Frequently made financial decisions to protect/collect revenues and adjusts customer accounts."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Sales Executive",
+      "url": "",
+      "startDate": "2010-10-01",
+      "endDate": "2011-05-31",
+      "summary": "Securely acquired potential client information to establish new internet service.",
+      "highlights": [
+        "Monitored and reported on sales activities and followed up for management.",
+        "Advised customers on forthcoming product, developments and discussed special promotions."
+      ]
+    },
+    {
+      "name": "Walmart",
+      "position": "Stocking Associate",
+      "url": "https://walmart.com",
+      "startDate": "2008-12-01",
+      "endDate": "2010-11-31",
+      "summary": "Received material into the store, prepared it for the store shelves, checked deliveries for accuracy.",
+      "highlights": [
+        "Organized the stock room to ensure accurate labeling, logical placement, neat arrangement.",
+        "Cleanliness, decreased store shrinkage by researching inventory discrepancies, and reporting suspicious activities to loss prevention specialists."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Gateway Institute of Technology",
+      "url": "",
+      "area": "",
+      "studyType": "High School Diploma",
+      "startDate": "2012-01-01",
+      "endDate": "2012-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "St. Louis Community College",
+      "url": "",
+      "area": "",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Customer Service",
+      "level": "Master",
+      "keywords": [
+        "Accounts payable",
+        "Administrative",
+        "agency",
+        "billing",
+        "clerical",
+        "Content Management",
+        "Credit",
+        "client",
+        "clients",
+        "customer satisfaction",
+        "Customer Service",
+        "data collection",
+        "Data Entry",
+        "decision making",
+        "delivery",
+        "financial",
+        "inventory",
+        "loss prevention",
+        "MAC OS",
+        "managing",
+        "marketing",
+        "Microsoft Excel",
+        "Mail",
+        "Microsoft Outlook",
+        "Microsoft Word",
+        "neat",
+        "Enterprise",
+        "Office Equipment",
+        "proposals",
+        "quality",
+        "radio",
+        "reporting",
+        "researching",
+        "sales",
+        "Statistics",
+        "telephone",
+        "Telephones",
+        "Web site"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

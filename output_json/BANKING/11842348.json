@@ -1,0 +1,120 @@
+{
+  "basics": {
+    "name": "",
+    "label": "SVP, Regional Sales Director Wealth Management",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Exceptional follow-through abilities and detail oriented; able to plan and foresee strategies from concept to successful completion. Versatile; proven ability to manage multiple projects.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "SVP, Regional Sales Director Wealth Management",
+      "url": "",
+      "startDate": "2014-09",
+      "endDate": "Current",
+      "summary": "Responsible for managing a team of 24 relationship managers for delivering personalized financial strategies to affluent clientele.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "SVP, Group Leader",
+      "url": "",
+      "startDate": "2014-04",
+      "endDate": "2014-09",
+      "summary": "Managed Citizens Bank's Business Banking Contact Center in RI and PA.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "SVP, Regional Manager-Business Banking Group",
+      "url": "",
+      "startDate": "2004-04",
+      "endDate": "2014-03",
+      "summary": "Managed a team of 21 Business Banking Officers in Boston Downtown Region.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Business Banking Officer",
+      "url": "",
+      "startDate": "2002-01",
+      "endDate": "2004-04",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Branch Business Banker",
+      "url": "",
+      "startDate": "2000-04",
+      "endDate": "2001-12",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Department Head, Men's Wear",
+      "url": "",
+      "startDate": "1997-01",
+      "endDate": "1999-01",
+      "summary": "Managed a sales staff of 15 and established a follow-up program for the sales team.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Babson College Executive Education",
+      "url": "",
+      "area": "Executive Leadership Management Programme",
+      "studyType": "",
+      "startDate": "2011",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "University of Ottawa",
+      "url": "",
+      "area": "Economics",
+      "studyType": "BSc",
+      "startDate": "",
+      "endDate": "1997",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Sales",
+      "level": "Master",
+      "keywords": [
+        "Market Research", 
+        "Sales Staff", 
+        "Sales Team", 
+        "Coaching", 
+        "Client Relations", 
+        "Closing Sales", 
+        "Retail Sales"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

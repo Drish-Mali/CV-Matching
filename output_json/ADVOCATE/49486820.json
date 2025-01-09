@@ -1,0 +1,105 @@
+{
+  "basics": {
+    "name": "Benefit Advocate",
+    "label": "Customer Service Representative",
+    "email": "",
+    "phone": "",
+    "summary": "Customer Service Representative who maintains a high level of professionalism, patience and efficiency to minimize customer dissatisfaction and increase customer loyalty.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Benefit Advocate",
+      "url": "",
+      "startDate": "2015-03",
+      "endDate": "Current",
+      "summary": "Provide excellent customer service by responding to customer interactions via the telephone, email, or internet...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Online Customer Service Representative Aerotek Contractor",
+      "url": "",
+      "startDate": "2014-12",
+      "endDate": "2015-02",
+      "summary": "Provide excellent customer service by responding to customer interactions via the telephone, email, or internet...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Senior Customer Service Representative",
+      "url": "",
+      "startDate": "2013-09",
+      "endDate": "2014-04",
+      "summary": "Provide excellent customer service by responding to customer interactions via the telephone, email, or internet...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Sales Representative/Holistic Health Coach",
+      "url": "",
+      "startDate": "2011-03",
+      "endDate": "2014-12",
+      "summary": "Provide excellent customer service by responding to customer interactions via the telephone, email, internet, or in person...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Mortgage Insurance Customer Service Representative",
+      "url": "",
+      "startDate": "2008-06",
+      "endDate": "2011-06",
+      "summary": "Provide excellent customer service by responding to customer interactions via the telephone, email, or internet...",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Colorado Technical University",
+      "url": "",
+      "area": "Paralegal",
+      "studyType": "Associate of Science",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Customer Service",
+      "level": "Expert",
+      "keywords": [
+        "Negotiation competency",
+        "Active listening skills",
+        "Strong organizational skills",
+        "MS Word, MS Excel, MS PowerPoint, MS Office Publisher",
+        "Telecommunications knowledge",
+        "Customer service management expertise"
+      ]
+    },
+    {
+      "name": "Medical Billing and coding",
+      "level": "Intermediate",
+      "keywords": [
+        "ICD-9, ICD-10"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

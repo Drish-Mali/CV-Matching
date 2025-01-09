@@ -1,0 +1,130 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Project Analyst",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Business Analyst versed in data mapping and user acceptance testing, as well as solving complex problems in high-pressure environments. Excels at cultivating, managing and leveraging client relationships.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Project Analyst",
+      "url": "",
+      "startDate": "2007-01-01",
+      "endDate": "Current",
+      "summary": "Developed and Produced Weekly/Monthly/Quarterly Business Review Packages for Divisional Executive Team Lead and coordinate quarterly business reviews with various business partners Coordinate leadership team meetings by handling meeting logistics, preparing agendas, and compiling documents Coordinate Business Continuity Plans for the Region and coordinate with the 12 markets to ensure the plans were complete for the market Assist in the planning of department budget and space planning Organize and execute Divisional Leadership Offsite meetings.",
+      "highlights": [
+        "Budgeting",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Portfolio Management Administrator II, Officer",
+      "url": "",
+      "startDate": "2001-01-01",
+      "endDate": "2007-01-01",
+      "summary": "Oversees an assigned portfolio of client credit relationships. Responsible for administrative aspects of payments, Capital Markets, Syndicated Loans, Treasury Management and Letters of Credit Products",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Commercial Custom Analyst",
+      "url": "",
+      "startDate": "2000-01-01",
+      "endDate": "2001-01-01",
+      "summary": "Handled accounts of major clients in excess of $1MM or million. Process loan payments/advances and any needed research or maintenance to loans. Provide informative Cash Management Information.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Keller School of Management",
+      "url": "",
+      "area": "Project Management",
+      "studyType": "Master of Business Administration",
+      "startDate": "",
+      "endDate": "Current",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "DeVry University",
+      "url": "",
+      "area": "Business Information System",
+      "studyType": "Bachelor of Business Administration",
+      "startDate": "",
+      "endDate": "2006-01-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Administration",
+      "level": "Expert",
+      "keywords": [
+        "Administrative",
+        "Budget",
+        "Capital Markets",
+        "Cash Management",
+        "Closing",
+        "Credit",
+        "Client",
+        "Clients",
+        "Documentation",
+        "Leadership",
+        "Team Lead",
+        "Legal",
+        "Letters",
+        "Logistics",
+        "Lotus Notes",
+        "Market",
+        "Meetings",
+        "Access",
+        "Excel",
+        "Microsoft Exchange",
+        "Microsoft Office",
+        "Microsoft Outlook",
+        "PowerPoint",
+        "Word",
+        "Monitors",
+        "Organizational",
+        "Presentations",
+        "Pricing",
+        "Problem Resolution",
+        "Processes",
+        "Project Management",
+        "Requirement",
+        "Research",
+        "Scripts",
+        "Space planning",
+        "Time Management",
+        "Treasury",
+        "Verbal communication skills",
+        "Visio",
+        "Visual Basic",
+        "Written"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

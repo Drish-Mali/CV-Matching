@@ -1,0 +1,132 @@
+{
+  "basics": {
+    "name": "Engineering Manager",
+    "label": "Test Manager",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "A practiced, professional Test Manager with over 20 years of success managing test and validation of next-generation software / hardware technologies across multiple concurrent projects and releases.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "",
+      "position": "Engineering Manager",
+      "url": "",
+      "startDate": "2011-09",
+      "endDate": "Current",
+      "summary": "Managing and overseeing highly technical, multidisciplinary team.",
+      "highlights": []
+    },
+    {
+        "name": "",
+        "position": "Director of Quality Assurance",
+        "url": "",
+        "startDate": "2009-07",
+        "endDate": "2011-09",
+        "summary": "Responsible for testing Qwarq transport agnostic wireless connectivity framework.",
+        "highlights": []
+    },
+    {
+        "name": "",
+        "position": "Director of Quality Assurance",
+        "url": "",
+        "startDate": "2006-11",
+        "endDate": "2009-07",
+        "summary": "Establish the quality assurance department for the company.",
+        "highlights": []
+    },
+    {
+        "name": "",
+        "position": "Quality Assurance Manager",
+        "url": "",
+        "startDate": "2004-05",
+        "endDate": "2006-11",
+        "summary": "Manage, mentored and train test engineers.",
+        "highlights": []
+    },
+    {
+        "name": "",
+        "position": "Lead Test Engineer",
+        "url": "",
+        "startDate": "2001-08",
+        "endDate": "2003-02",
+        "summary": "Create manual and automated test cases, setting up and maintaining test environment for the department.",
+        "highlights": []
+    },
+    {
+        "name": "",
+        "position": "Lead Test Engineer",
+        "url": "",
+        "startDate": "1995-07",
+        "endDate": "1999-12",
+        "summary": "Lead group of quality assurance engineers testing and validating ITU H26X standard based video codecs.",
+        "highlights": []
+    },
+    {
+        "name": "",
+        "position": "Owner / President",
+        "url": "",
+        "startDate": "",
+        "endDate": "",
+        "summary": "Installed the requested software and tested the compatibility of the new multimedia software and hardware.",
+        "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Webster University",
+      "url": "",
+      "area": "Computer Resource Information Management",
+      "studyType": "Master of Science",
+      "startDate": "2004",
+      "endDate": "2004",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Kabul University",
+      "url": "",
+      "area": "Computer Science",
+      "studyType": "Bachelor of Science",
+      "startDate": "1992",
+      "endDate": "1992",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Testing",
+      "level": "Professional",
+      "keywords": [
+        "Product Testing",
+        "Software Testing",
+        "Test Strategies",
+        "Test Management",
+        "Test Automation",
+        "Development Process Improvement",
+        "Microsoft Office",
+        "Visual Studio",
+        "Eclipse",
+        "C"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

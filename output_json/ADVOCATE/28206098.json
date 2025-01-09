@@ -1,0 +1,111 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Customer Advocate",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Enthusiastic customer service/telesales representative with in-depth knowledge of sales, account management and training. I have over 15 years of experience in retail, real estate, medical, insurance and sales customer service.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Customer Advocate",
+      "url": "",
+      "startDate": "2010-03-01",
+      "endDate": "2011-01-01",
+      "summary": "Responsible for working on the phone all day in a call center to assist members and physicians by responding to telephone and written inquiries in a prompt, accurate and objective manner",
+      "highlights": [
+        "Interacted with 50+ affiliate stations in US and Puerto Rico",
+        "Provided required weekly, monthly and quarterly reports listing sales figures and client track records",
+        "Consistently generated additional revenue through skilled sales techniques",
+        "Researched, calmed and rapidly resolved client conflicts to prevent loss of key accounts",
+        "Cashiered with two cash registers at once in tandem to maximize customer flow",
+        "Assisted in the managing of the company database and verified, edited and modified members' information."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Customer Service Agent",
+      "url": "",
+      "startDate": "2002-03-01",
+      "endDate": "2002-09-01",
+      "summary": "Greet and check-in passengers, Check-in passenger baggage, Assist passengers with misplaced baggage, Verify passenger departure documentation, Assist unaccompanied minors (UMs), Comply with all security requirements, Reschedule passengers with flight interruptions, Assist passengers on arriving international flights, Documentation for all international departures, Produce all required, work-related documentation, Monitors (CRTs) and keyboards for passenger processing (carrier supplied), Carrier specific reservation/ticketing software, scales for weighing passenger baggage, Ticket and baggage tag printing equipment.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Patient Care Assistant Technician",
+      "url": "",
+      "startDate": "2000-10-01",
+      "endDate": "2000-12-01",
+      "summary": "Provide basic patient care including Assisting with patient care, planning and assessments including - recording vital signs, height, weight, Provide basic patient care including Assisting with patient care, planning and assessments including - recording vital signs, height, weight, input output, collect and test specimens, report and record patient's condition and patient treatments. Check deliver food trays, assist with feeding the patient if necessary, and refill water and ice, Assist patients with their mobility",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Maric College",
+      "url": "",
+      "area": "Patient Care",
+      "studyType": "",
+      "startDate": "2000-10-01",
+      "endDate": "",
+      "score": "3.0",
+      "courses": [
+        "Patient Care Assistant Technician"
+      ]
+    },
+    {
+      "institution": "Penn Foster",
+      "url": "",
+      "area": "Paralegal",
+      "studyType": "",
+      "startDate": "2004-01-01",
+      "endDate": "",
+      "score": "3.5",
+      "courses": [
+        "Certified Nurses Assistant"
+      ]
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Organizational Skills",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Conflict Resolution",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Telecommunication Skills",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Customer Service",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

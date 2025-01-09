@@ -1,0 +1,134 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Healthcare Recruiter",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Healthcare Recruiter",
+      "url": "",
+      "startDate": "2015-08-01",
+      "endDate": "2016-03-01",
+      "summary": "Created announcements for open job positions; posted announcements online on company website and major job posting websites such as CareerBuilder, Monster, and Indeed to attract interested candidates. Addressed questions from public, employees, and outside agencies regarding current employment opportunities and application status. Interviewed prospective candidates to assess qualifications and capabilities; guided candidates through the application process, scored written exams, and notified candidates of results. Drafted employment contracts and prepared onboarding and orientation documentation for new hires. Maintained up-to-date HR files by identifying and purging obsolete records and transferring records to storage.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "HR Administrator",
+      "url": "",
+      "startDate": "2014-01-01",
+      "endDate": "2015-01-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Administrative Assistant",
+      "url": "",
+      "startDate": "2010-01-01",
+      "endDate": "2014-01-01",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "DEVRY UNIVERSITY",
+      "url": "",
+      "area": "Human Resource Management",
+      "studyType": "Master",
+      "startDate": "",
+      "endDate": "2016-12-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "NEW JERSEY CITY UNIVERSITY",
+      "url": "",
+      "area": "Criminal Justice",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "2012-05-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Office Administration",
+      "level": "",
+      "keywords": [
+        "Microsoft Office Suite",
+        "Google Documents",
+        "WinTeam",
+        "accounting software",
+        "administrative",
+        "Audio",
+        "benefits",
+        "C",
+        "contracts",
+        "client",
+        "Data Management",
+        "DC",
+        "documentation",
+        "Senior Management",
+        "forms",
+        "functional",
+        "hiring",
+        "Human Resource",
+        "HR",
+        "inventory",
+        "invoicing",
+        "legal",
+        "materials",
+        "Access",
+        "Excel",
+        "office",
+        "Outlook",
+        "PowerPoint",
+        "PowerPoint presentations",
+        "Win",
+        "Word",
+        "newsletter",
+        "Payroll",
+        "personnel",
+        "processes",
+        "recruiting",
+        "recruitment",
+        "reporting",
+        "research",
+        "scheduling",
+        "staffing",
+        "tax",
+        "phone",
+        "training programs",
+        "video",
+        "website",
+        "websites",
+        "Author",
+        "written"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

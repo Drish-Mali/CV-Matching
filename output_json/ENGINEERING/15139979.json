@@ -1,0 +1,131 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Engineering Assistant",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Knowledgeable Engineering Superintendent well-versed in supporting projects and managing related documentation. First-rate multitasker, problem-solver and organizer with methodical and thorough approach. Proficient in power Points and Word Documents.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Engineering Assistant",
+      "url": "",
+      "startDate": "2019-01-01",
+      "endDate": "current",
+      "summary": "Engineering professional with 20 years of experience in the Department of Navy. Providing technical administration, leadership, project management and communications to gas turbine systems technicians. Resulted in ships never missing mission requirements.",
+      "highlights": []
+    },
+    {
+        "name": "Company Name",
+        "position": "Electrical Superintendent",
+        "url": "",
+        "startDate": "2014-06-01",
+        "endDate": "2018-12-01",
+        "summary": "Oversaw master project scheduling, checked compliance and quality of all work, mentored personnel, followed electrical code manuals and provided technical supervision.",
+        "highlights": []
+    },
+    {
+        "name": "Company Name",
+        "position": "Engineering Assistant",
+        "url": "",
+        "startDate": "2007-10-01",
+        "endDate": "2010-11-01",
+        "summary": "Supported, advised and mentored personnel, reviewed and monitored cost and man-hour budgets, functioned as crew leader, enforced safety regulations.",
+        "highlights": []
+    },
+    {
+        "name": "Company Name",
+        "position": "Electrical Apprentice",
+        "url": "",
+        "startDate": "2002-10-01",
+        "endDate": "2007-09-01",
+        "summary": "Followed directives of senior electrical professionals to complete efficient tasks, maintained organization, reviewed blueprints and electrical schematics.",
+        "highlights": []
+    }
+
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "State of Ohio",
+      "url": "",
+      "area": "",
+      "studyType": "GED",
+      "startDate": "2000-09-01",
+      "endDate": "",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "NAVY COURSES",
+      "url": "",
+      "area": "Military Training",
+      "studyType": "",
+      "startDate": "2002-02-01",
+      "endDate": "",
+      "gpa": "",
+      "courses": [
+        "Identify Basic Engineering", 
+        "Basic Propulsion Equipment",
+        "Gas Turbine Mechanical/Electrical A School",
+        "Engineering Electrical",
+        "SHIPBD GAGE CAL",
+        "SHIPBOARD FIREFIGHTING",
+        "Waste Heat Boilers",
+        "Class Facilitator Instructional Delivery Continuum",
+        "MACHINERY CONTROL SYSTEM",
+        "Marine Maintenance And Ship Repair 3-M System Coordinator/Inspector"
+      ]
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Administrative Support",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Project Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Critical Thinking",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Quality Assurance",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Leadership",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Time Management",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

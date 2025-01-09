@@ -1,0 +1,105 @@
+{
+  "basics": {
+    "name": "",
+    "label": "ASSISTANT BANKING CENTER MANAGER",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Outstanding Bank Manager",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Assistant Banking Center Manager",
+      "url": "",
+      "startDate": "2011-01",
+      "endDate": "2014-10",
+      "summary": "Oversaw a team of five bankers that executed all sales activities; established and achieved sales goals through effective sales management techniques. Recruited, trained, and mentored staff on client profiling, conducting sales meetings and closing deals.",
+      "highlights": [
+        "Managed of day-to-day branch operations",
+        "Responsible for maintaining all compliance and operation issues",
+        "Assigned to additional branches to oversee the overall operational performance"
+      ]
+    },
+    {
+      "name": "Wells Fargo Company",
+      "position": "Licensed Financial Specialist",
+      "startDate": "2008-03",
+      "endDate": "2010-03",
+      "summary": "Initiated team efforts with the staff to achieve sales goals, operational excellence and issues during sales meetings and/or while assisting customers."
+    },
+    {
+      "name": "Accredited Home Lenders",
+      "position": "Field Account Executive",
+      "startDate": "2006-11",
+      "endDate": "2007-09",
+      "summary": "Solicited brokers to acquire subprime loan packages for funding and establish wholesale mortgage market share for the company."
+    },
+    {
+      "name": "",
+      "position": "Senior Loan Officer",
+      "startDate": "2000-07",
+      "endDate": "2006-10",
+      "summary": "Hired, managed, and trained new loan officers for mortgage production and sales."
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Michigan, College of Engineering",
+      "url": "",
+      "area": "Electrical and Computer Engineering",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "University California",
+      "url": "",
+      "area": "Project Management",
+      "studyType": "Certificate",
+      "startDate": "2015",
+      "endDate": "2015",
+      "score": "",
+      "courses": ["Microsoft Project", "Excel", "Word"]
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Licensed Financial Specialist",
+      "date": "2008-03",
+      "issuer": "Wachovia Bank, N.A., a Wells Fargo Company",
+      "url": ""
+    },
+    {
+      "name": "Project Management",
+      "date": "2015",
+      "issuer": "University California - Irvine",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Loans",
+      "level": "",
+      "keywords": ["Mortgage", "Sales", "Accounts And", "All Sales", "Audits", "Cash", "Closing", "Coaching", "Consultative Sales", "Customer Accounts", "Customer Service"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

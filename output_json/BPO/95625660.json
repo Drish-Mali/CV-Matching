@@ -1,0 +1,123 @@
+{
+  "basics": {
+    "name": "K. Sanjay",
+    "label": "Associate",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "To pursue a challenging career, responsible for being associated with a progressive organization and by keeping up with the latest trends and applying knowledge and work dynamically towards the growth of the organization.",
+    "location": {
+      "address": "No.16/29, Moorthy Nagar, Villivakkam",
+      "postalCode": "600049",
+      "city": "Chennai",
+      "countryCode": "IN",
+      "region": "Tamil Nadu"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Unspecified Company",
+      "position": "Store manager, CPA manager, Admin. Executive, Manager - Customer",
+      "startDate": "2005-05",
+      "endDate": "2013-10",
+      "summary": "Worked in various roles at multiple companies, involved in maintaining stock, team handling, planning, purchasing, credit operations, preparing loan agreements, administrative tasks, preparing PO and sales invoices, creating payment ledgers, and preparing MIS."
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Lions Club",
+      "position": "Volunteer",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Volunteer for Lions Club. Also a blood donor at Apollo Hospital."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Annamalai University, Madras University, I.C.F Silver Jubilee Matriculation School",
+      "area": "Human Resources, Business Administration, Computer Technology, Labour Law & Administrative Law",
+      "studyType": "MBA, BBA, Diploma, PG Diploma",
+      "startDate": "",
+      "endDate": "2008",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "All India Inter University Gold medalist",
+      "date": "",
+      "awarder": "",
+      "summary": "Twice awarded the All India Inter University Gold medalist."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Vendor management",
+      "date": "",
+      "issuer": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "General",
+      "level": "",
+      "keywords": [
+        "acquisitions", 
+        "Banking", 
+        "Vendor Management",
+        "C", 
+        "CL", 
+        "closing", 
+        "CPA", 
+        "Credit", 
+        "Client", 
+        "Clients", 
+        "database", 
+        "filing", 
+        "HR", 
+        "Insurance", 
+        "inventory control", 
+        "Microsoft Dynamics", 
+        "MIS", 
+        "NAVISION", 
+        "negotiation", 
+        "problem solving", 
+        "purchasing", 
+        "quality", 
+        "requirement", 
+        "Sales", 
+        "stock control", 
+        "Supervising"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": ""
+    },
+    {
+      "language": "Hindi",
+      "fluency": "" 
+    },
+    {
+      "language": "Tamil",
+      "fluency": "" 
+    },
+    {
+      "language": "Malayalam",
+      "fluency": "" 
+    }
+  ],
+  "interests": [
+    {
+      "name": "Athletics",
+      "keywords": ["Athletics","Volley Ball"]
+    }
+  ],
+  "references": [],
+  "projects": []
+}

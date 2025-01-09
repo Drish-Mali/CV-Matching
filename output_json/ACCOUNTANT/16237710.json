@@ -1,0 +1,103 @@
+{
+  "basics": {
+    "name": "Not Specified",
+    "label": "Accountant",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Financial Accountant specializing in financial planning, reporting and analysis in both private and public sectors.Well-informed accountant adept at supplying quick responses to financial inquiries from internal management and potential clients.Creative accountant equipped with a broad knowledge of concepts and strategies to yield the best possible financial outcomes.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Nairobi",
+      "countryCode": "KE",
+      "region": "Nairobi"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Shantilal Gala & Company",
+      "position": "Accountant",
+      "url": "",
+      "startDate": "2012-07-02",
+      "endDate": "2015-10-01",
+      "summary": "Accountant in the Audit firm. Maintained accounts receivable documentation electronically and on paper. Processed bank reconciliations and financial reports to verify practice of p weekly and monthly. Increased efficiency and alleviated work loads by creating a new Excel financial recording system. Collaborated extensively with auditors during preliminary and year-end audit processes. Entered weekly sales and customer count sheets for review by management. Processed payroll, electronic deposits and employee pay adjustments. Collaborated extensively with auditors during preliminary and year-end audit processes.",
+      "highlights": ["Periodic financial reporting expert","General ledger accounting skills","Invoice coding familiarity","Complex problem solving","Strong communication skills","Account reconciliation expert"]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Greenwich",
+      "url": "",
+      "area": "Business Studies",
+      "studyType": "Bachelor of Arts",
+      "startDate": "Not Specified",
+      "endDate": "2014-01-01",
+      "score": "",
+      "courses": ["Managing Strategy","International Business Management","Small Business Development","PPD3 - Thematic Independent Study"]
+    },
+    {
+        "institution": "Oshwal College",
+        "url": "",
+        "area": "Business",
+        "studyType": "Association of Business Executive",
+        "startDate": "Not Specified",
+        "endDate": "2013-01-01",
+        "score": "",
+        "courses": ["Introduction to Business","Introduction to Quantitative Methods","Introduction to Accounting","introduction to Business Communication","Human Resource Management","Managerial Accounting","Marketing Policy, Planning and Communication","Organisational Behaviour","The Business Environment","Economic Principles and their Application to Business","Financial Accounting","Quantitative Methods for Business and Management","Corporate Finance","Corporate Strategy and Planning","International Business Case Study","Managing in Organisation","Strategic Marketing Management"]
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Organization",
+      "level": "",
+      "keywords": ["managing responsibilities in a particular manner and keeping track of those responsibilities."]
+    },
+    {
+      "name": "Time Management",
+      "level": "",
+      "keywords": ["Good time-management skills go hand-in-hand in with strong organizational capabilities. Budgeting time will give the allowance of managing the work efficiently."]
+    },
+    {
+      "name": "Adaptability",
+      "level": "",
+      "keywords": ["its always the best for me to adapt quickly and easily as my way of understanding the procedures is through planning everything in my mind as the work is being allocated."]
+    },
+    {
+      "name": "Communication",
+      "level": "",
+      "keywords": ["allows me to interact best with the colleagues, clients and receive the best feedback from their side after completing the conversation."]
+    }
+  ],
+  "languages": [],
+  "interests": [
+    {
+      "name": "Modeling",
+      "keywords": ["Professional Ramp Model","Have worn and exhibited clothes of international and local designers."]
+    }
+  ],
+  "references": [],
+  "projects": [],
+  "certificates": [],
+  "additionalInformation": [
+    {
+      "LEADERSHIP": ["Associate Member of the Association of Business Executives Most Disciplined Girl: 2007-2008","Outstanding Performance as a Class monitor: 2009","Participated in the Expedition camp awarded by the Westlands Scouts Local Association: 2009."],
+      "EXTRA-CURRICULAR": [ "Awarded for outstanding performance for the prize day variety show in 2009.","Awarded for reaching the National Finals in the Kenya Music Festival in 2007.","I am a professional Ramp Model.","I have worn and exhibited clothes of international and local designers."]
+    }
+  ],
+  "personalInformation": [
+    {
+      "Place of Birth": "Nairobi, Kenya.",
+      "Date of Birth": "23rd of May, 1993.",
+      "Present Resident": "Nairobi, Kenya.",
+      "Sex": "Female",
+      "Status": "Single",
+      "Hobbies": [ "Traveling", "Hiking", "Reading"]
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "basics": {
+    "name": "Sr. Business Development Manager",
+    "label": "Sales Professional",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "summary": "Highly organized sales professional with 12 years of inside and outside sales. Exceptional Outside Sales Representative who consistently achieves annual sales quotas and increases the overall customer base in several fields including telecom, advertising, and software solutions."
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Sr. Business Development Manager",
+      "startDate": "2015-04-01",
+      "endDate": "Current",
+      "summary": "Surpassed annual quota by 125% in 2015. Scheduled and attended at least 10 appointments per week. Organized joint sale calls with current customers and outside vendors."
+    },
+    {
+      "name": "Company Name",
+      "position": "Entrepreneur",
+      "startDate": "2016-11-01",
+      "endDate": "Current",
+      "summary": "Developed and implemented a comprehensive salesperson training program. Prospected to obtain new accounts while maintaining relationships with existing accounts."
+    },
+    {
+      "name": "Company Name",
+      "position": "Business Account Executive",
+      "startDate": "2013-12-01",
+      "endDate": "2015-04-01",
+      "summary": "Exceeded quota on a monthly basis, averaging 140% to plan. Handled the highest volume account in assigned territory by closing the Wellstar Health Group(over 20 locations)."
+    },
+    {
+      "name": "Company Name",
+      "position": "Senior Account Manager",
+	  "startDate": "2011-04-01",
+	  "endDate": "2014-01-01",
+      "summary": "Managed a portfolio of over 300 accounts generating $3 million in sales and revenue. Led sales calls with team members to establish sales and customer retention goals. Assisted clients in building networking sites to increasing their overall profitability in their business."
+    },
+    {
+      "name": "Company Name",
+      "position": "Sales Consultant",
+	  "startDate": "2009-01-01",
+	  "endDate": "2011-03-01",
+      "summary": "Established more than 30 new accounts, earning a combined profit of over $200k a year. Recognized as top sales generator, increasing sales level by 45% in 2009 alone. Received company Employee Performance Award after maintaining record sales achievement of 20% growth five months in a row."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Enterprise State Junior College",
+      "area": "",
+      "studyType": "Associate of Arts",
+      "startDate": "",
+      "endDate": "2002"
+    },
+    {
+      "institution": "Troy University",
+      "area": "",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "2006"
+    }
+  ],
+  "skills": [
+	{
+      "name": "Customer targeting",
+      "level": ""
+    },
+    {
+      "name": "Contract negotiations",
+      "level": ""
+    },
+    {
+      "name": "Conflict resolution techniques",
+      "level": ""
+    },
+    {
+      "name": "Prospecting",
+      "level": ""
+    },
+	{
+      "name": "Hiring, training and supervision",
+      "level": ""
+    },
+    {
+      "name": "Internet marketing",
+      "level": ""
+    },
+    {
+      "name": "Operations management",
+      "level": ""
+    },
+    {
+      "name": "Natural leader",
+      "level": ""
+    },
+	{
+      "name": "Market research",
+      "level": ""
+    },
+    {
+      "name": "Marketing and advertising",
+      "level": ""
+    }
+  ],
+  "awards": [
+    {
+      "title": "Triple Threat Award at Comcast Business",
+      "date": "2014",
+      "awarder": "",
+      "summary": ""
+    },
+    {
+      "title": "Winner's Circle Award",
+      "date": "2015",
+      "awarder": "",
+      "summary": ""
+    }
+  ]
+}

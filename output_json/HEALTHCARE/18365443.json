@@ -1,0 +1,120 @@
+{
+  "basics": {
+    "name": "",
+    "label": "HIGHLY ACCOMPLISHED HEALTHCARE ANALYST",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Financial Expert providing strategies to improve Revenue Cycle Management in Healthcare A top-performing Systems Analyst with a proven track record of expanding revenue and customer satisfaction in Healthcare. Expert at identifying and analyzing customer needs within a variety of Enterprise healthcare organizations...",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": [
+      
+    ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Highly accomplished Healthcare Analyst",
+      "url": "",
+      "startDate": "1997-01-01",
+      "endDate": "Current",
+      "summary": "...expertly synthesize client input through a full business discovery process and assemble an internal team of experts in SQL, Database, report writing, networking...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Associate Systems Analyst",
+      "url": "",
+      "startDate": "1993-01-01",
+      "endDate": "1996-01-01",
+      "summary": "Part of a team responsible for delivering over 100,000 files monthly pertaining to reporting and auditing...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Consultant/Analyst",
+      "url": "",
+      "startDate": "1983-01-01",
+      "endDate": "Current",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "volunteer": [
+    
+  ],
+  "education": [
+    {
+      "institution": "University of Phoenix",
+      "url": "",
+      "area": "Computer Information Systems",
+      "studyType": "Master",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": ["Graduate Courses in Business Communications, Project Management, Operating Systems, Networking, Database Concepts, Software Engineering, Programming Management, Organization, Ethics and Intellectual Property, and Financial Management"]
+    }
+  ],
+  "awards": [
+    
+  ],
+  "certificates": [
+    {
+      "name": "Certified Project Management Associate, International Project Management Association (IPMA, Level D)",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "publications": [
+    
+  ],
+  "skills": [
+    {
+      "name": "accounting",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Client Support",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Process Improvement",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Programming",
+      "level": "",
+      "keywords": []
+
+    },
+    {
+      "name": "SQL",
+      "level": "",
+      "keywords": []
+
+    }
+  ],
+  "languages": [
+    
+  ],
+  "interests": [
+    
+  ],
+  "references": [
+    
+  ],
+  "projects": [
+    
+  ]
+}

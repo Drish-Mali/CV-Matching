@@ -1,0 +1,119 @@
+{
+  "basics": {
+    "name": "Name Not Provided",
+    "label": "Information Technology Professional",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Dedicated Information Assurance Professional well-versed in analyzing and mitigating risk and finding cost-effective solutions. Excels at boosting performance and productivity by establishing realistic goals and enforcing deadlines.Versatile IT professional with 37 years of Enterprise design and engineering methodology.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": [
+      
+    ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Information Technology",
+      "url": "",
+      "startDate": "02/2011",
+      "endDate": "Current",
+      "summary": "Managed accreditation efforts for major department modernization project. Coordinated with ONI Enterprise in critical design decisions. Analyzed complex computer systems to assess vulnerability and risk. Supervised 5 external computer consultants and vendors. Managed application patches, data backup, security changes and network configuration.",
+      "highlights": [
+        "Coordinated with ONI Enterprise in critical design decisions",
+        "Rewrote and implemented vulnerability management for existing accredited systems",
+        "Managed application patches, data backup, security changes and network configuration",
+        "Managed 5 external computer consultants and vendors"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Systems Engineer",
+      "url": "",
+      "startDate": "02/2006",
+      "endDate": "02/2011",
+      "summary": "Initiated processing strategies to fulfill department analyst requirements. Designed and built a 200TB local storage solution, saving over a million dollars in purchasing and maintenance costs. Designed, purchased, and accredited a Red Hat Linux high compute cluster for operation in the Enterprise. This improved analytical processing time for big data from 30 hours to 30 minutes.",
+      "highlights": [
+        "Designed 200TB local storage saving a million dollars in purchasing and maintenance costs",
+        "Designed, purchased, and accredited a Red Hat Linux high compute cluster for operation in the Enterprise"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Senior Systems Analyst",
+      "url": "",
+      "startDate": "02/1999",
+      "endDate": "02/2006",
+      "summary": "Improved corporate and client communications and processing requirements. Resulted in the design, build and deployment of 3 Enterprise network solutions. Documented system layouts, wiring diagrams and addressing schema to understand layouts and made informed solutions to upper management.",
+      "highlights": [
+        "Designed, built, and deployed 3 Enterprise network solutions"
+      ]
+    }
+  ],
+  "volunteer": [
+    
+  ],
+  "education": [
+    {
+      "institution": "Florence Darlington Technical School",
+      "url": "",
+      "area": "Electronic Engineering",
+      "studyType": "Associate of Science",
+      "startDate": "",
+      "endDate": "1980",
+      "score": "",
+      "courses": [
+        
+      ]
+    }
+  ],
+  "awards": [
+   
+  ],
+  "certificates": [
+    
+  ],
+  "publications": [
+   
+  ],
+  "skills": [
+    {
+      "name": "Enterprise Platforms",
+      "level": "",
+      "keywords": 
+      [
+        "Information Assurance",
+        "Project Tracking",
+        "Risk Management Framework",
+        "Red Hat Enterprise Linux",
+        "Network Design & Troubleshooting",
+        "High Performance Computing",
+        "Data Storage Engineering",
+        "MS Visio",
+        "Active Directory design and deployment",
+       "Product requirements documentation",
+        "Workstation build and deployment",
+        "Hardware and software upgrade planning",
+        "Domain Active Directory Layout"
+      ]
+    }
+  ],
+  "languages": [
+   
+  ],
+  "interests": [
+    
+  ],
+  "references": [
+    
+  ],
+  "projects": [
+  ]
+}

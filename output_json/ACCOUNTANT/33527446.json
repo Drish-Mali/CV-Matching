@@ -1,0 +1,100 @@
+{
+  "basics": {
+    "name": "Not Provided",
+    "label": "Accountant",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Several years experience in providing information and creating software solutions for business needs and efficiencies. Three plus years experience in varying accounting positions. Work well independently and as part of a team. Knowledgeable in use of MS Office products.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "",
+      "region": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+        "name":"Company Name",
+        "position":"Accountant",
+        "url":"",
+        "startDate":"2009-01-01",
+        "endDate":"2010-02-01",
+        "summary":"Prepared, amended and reviewed individual income tax returns. Assisted in individual tax planning and preparation of corporate income tax returns."
+    },
+    {
+        "name":"Company Name",
+        "position":"Data Processing Manager/Programmer",
+        "url":"",
+        "startDate":"1993-01-01",
+        "endDate":"Current",
+        "summary":"Responsible for enhancements to software written in COBOL and CL on an IBM System i (AS/400, iSeries, Power System)."
+    },
+    {
+        "name":"Company Name",
+        "position":"Supervisor of Accounting",
+        "url":"",
+        "startDate":"1991-01-01",
+        "endDate":"1992-01-01",
+        "summary":"Supervised the General Accounting system, including the preparation of timely and accurate financial reports and the maintenance of the general ledger...etc."
+    },
+    {
+        "name":"Company Name",
+        "position":"Programmer",
+        "url":"",
+        "startDate":"1991-01-01",
+        "endDate":"1991-01-01",
+        "summary":"Modified existing software written in COBOL on the IBM System/36 to price products according to the client's specifications. Designed and programmed an Inventory system that interfaced with the existing invoicing system."
+    },
+    {
+        "name":"Company Name",
+        "position":"Programmer",
+        "url":"",
+        "startDate":"1981-01-01",
+        "endDate":"1990-01-01",
+        "summary":"A software development company specializing in Pharmacy, Seed and Banking applications. Responsible for program development and modifications in COBOL (5 years) and BASIC (5 years)."
+    },
+    {
+        "name":"Company Name",
+        "position":"Staff Accountant",
+        "url":"",
+        "startDate":"1980-01-01",
+        "endDate":"1981-01-01",
+        "summary":"Bank with headquarters in Minneapolis, MN that later merged with Wells Fargo & Co. Responsible for the preparation of month-end financial statements, quarterly Call Reports and internal reports."
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Northern Iowa",
+      "area": "Accounting Mathematics Computer Science",
+      "studyType": "Bachelor of Arts",
+      "startDate": "",
+      "endDate": "1980-08",
+      "url": ""
+    }
+  ],
+  "awards": [],
+  "certificates": [{
+      "name":"Certified Public Accountant",
+      "date":"1980-05",
+      "issuer":"State of Iowa",
+      "url":""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Accounting",
+      "level": "",
+      "keywords": ["Excel spreadsheets", "Meticulous attention to detail", "Results-oriented"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

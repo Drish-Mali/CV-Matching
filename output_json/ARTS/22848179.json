@@ -1,0 +1,139 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Director of Community",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "",
+      "region": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Director of Community",
+      "url": "",
+      "startDate": "2017-08-01",
+      "endDate": "Current",
+      "summary": "Provided customer service and administrative services, acted as main point of contact for Community Education office, facilitated operations and communications with other offices regarding IT, Finance, Security, and HR.",
+      "highlights": [
+        "Created promotional materials for print and web as needed",
+        "Managed social media pages and designed ad campaigns, increased social media activity by 30%",
+        "Designed and analysed email marketing campaigns."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Assistant Director",
+      "url": "",
+      "startDate": "2012-11-01",
+      "endDate": "2017-08-01",
+      "summary": "Facilitated merge with NH Institute of Art, helped design and implement new systems to run Sharon Arts Center"
+    },
+    {
+      "name": "Company Name",
+      "position": "School Director",
+      "url": "",
+      "startDate": "2009-09-01",
+      "endDate": "2012-11-01",
+      "summary": "Oversaw facilities and education administration operations"
+    },
+    {
+      "name": "Company Name",
+      "position": "Webmaster",
+      "url": "",
+      "startDate": "2009-07-01",
+      "endDate": "2012-11-01",
+      "summary": "Gained creative project management experience, facilitating planning and communications between design team and staff"
+    },
+    {
+      "name": "Company Name",
+      "position": "Administrator",
+      "url": "",
+      "startDate": "2009-04-01",
+      "endDate": "2009-09-01",
+      "summary": "Implemented new social media pages and email marketing software to assist Marketing office"
+    },
+    {
+      "name": "Company Name",
+      "position": "Assistant Manager",
+      "url": "",
+      "startDate": "2008-03-01",
+      "endDate": "2009-04-01",
+      "summary": "Oversaw inventory management and customer service while working toward retail sales goals"
+    },
+    {
+      "name": "Company Name",
+      "position": "Intern/Free-Lance Production Assistant",
+      "url": "",
+      "startDate": "2006-09-01",
+      "endDate": "2008-01-01",
+      "summary": "Studied animation and digital art software while providing graphic design and project assistance"
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "New Hampshire Institute of Art Creative Writing",
+      "url": "",
+      "area": "Creative Writing",
+      "studyType": "MFA",
+      "startDate": "",
+      "endDate": "2016",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Fitchburg State Communications/Graphic Design",
+      "url": "",
+      "area": "Communications/Graphic Design",
+      "studyType": "BS",
+      "startDate": "",
+      "endDate": "2007",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Adobe Creative Suite",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Office Suite",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Event planning and management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Fundraising",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Graphics Design",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

@@ -1,0 +1,119 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Assistant Information Technology (IT) Director",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "A high performing and energetic portfolio, program, and project management professional with proven track record and consistent commendations for delivering large-size mission critical programs and projects of excellent quality in very political and lean environments. Innovative leader and very adept in agile strategic planning and analysis to optimize operations and push forward new business initiatives through a winning collaborative approach.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "",
+      "region": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Assistant Information Technology (IT) Director",
+      "url": "",
+      "startDate": "2011-01-01",
+      "endDate": "Present",
+      "summary": "Led the organization towards eligibility in the eHealth Exchange Information Network which will allow the county providers to exchange patient information with other federal agencies non- federal organizations through a secure, trusted, and interoperable network... etc",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "IT Supervisor",
+      "url": "",
+      "startDate": "2007-01-01",
+      "endDate": "2010-12-31",
+      "summary": "Executed the enterprise information technology strategy... etc",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Senior Management Information Systems Analyst",
+      "url": "",
+      "startDate": "2005-07-01",
+      "endDate": "2006-12-31",
+      "summary": "Developed a comprehensive map and fit-gap review ... etc",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Program Administrator",
+      "url": "",
+      "startDate": "2000-12-01",
+      "endDate": "2005-06-30",
+      "summary": "Defined, managed, and owned the three year IT project... etc",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "De La Salle University",
+      "url": "",
+      "area": "Guidance & Counseling",
+      "studyType": "MS Guidance & Counseling",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Assumption College",
+      "url": "",
+      "area": "Psychology",
+      "studyType": "BS Psychology",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Management information systems",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Project development and lifecycle",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Quality assurance and control",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Process improvement",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Risk management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Systems implementation",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

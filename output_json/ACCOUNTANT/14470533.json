@@ -1,0 +1,83 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Accountant",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Bookkeeper with strong technical proficiency and commitment to accuracy in financial data entry and financial record keeping. Desires an accounting position in a positive working environment that encourages and supports continuing professional growth.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Accountant",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "A/P and A/R, bank and account reconciliations, maintain general ledger for non-profit organization and several subsidiary companies. Monthly invoice preparation for construction progress based on contracts and billable time and expenses, and job costing for numerous projects during construction. Maintain vendor and subcontractor files and prepare end of year tax statements. Maintain numerous QuickBooks accounts for the non-profit and its subsidiaries which includes entering, reconciling and verifying all information to maintain the integrity of the financial information.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Office Manager/Restaurant Manager",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Process payroll for hotel employees and prepare quarterly Federal and Idaho state payroll reports, A/R, A/P for hotel and restaurant, journal entries, bank reconciliations, maintain general ledger for hotel using QuickBooks accounting software, prepare monthly income statement, balance sheet, and statement of cash flows, and managed the hotel's restaurant; including hiring, scheduling, managing all restaurant staff, responsible for liquor inventory and food costs and day-to-day operations.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Treasure Valley Community College",
+      "url": "",
+      "area": "Business Management-Accounting",
+      "studyType": "A.A.",
+      "startDate": "",
+      "endDate": "2016",
+      "score": "3.85",
+      "courses": []
+    },
+    {
+      "institution": "Worland High School",
+      "url": "",
+      "area": "Bookkeeping and Office Administration",
+      "studyType": "Diploma",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "CPA",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Bookkeeping",
+      "level": "",
+      "keywords": ["A/P", "A/R", "Automated Payroll", "Cpa", "Excel", "General Ledger", "Office Management", "Outlook", "Payroll", "Payroll Processing", "PowerPoint", "Accounting", "Bookkeeping", "Office Manager", "Accounts For"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

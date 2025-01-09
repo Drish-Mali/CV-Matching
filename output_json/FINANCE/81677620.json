@@ -1,0 +1,148 @@
+{
+  "basics": {
+    "name": "Abdul Majeed",
+    "label": "Finance Manager",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "MBA -Finance with 20 years' experience in the field of accounts & finance. Expertise in spearheading corporate and financial planning initiatives in Commercial Operation, Accounts & Finance, Auditing & Taxation, MIS, Exports Management and export document negotiation.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Riyadh",
+      "countryCode": "SA",
+      "region": "Riyadh"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Fama Trading Company Riyadh, K.S.A",
+      "position": "Finance Manager",
+      "url": "",
+      "startDate": "2001-02-01",
+      "endDate": "2014-09-01",
+      "summary": "Determining financial objectives, annual budget preparation, financial control...",
+      "highlights": []
+    },
+    {
+      "name": "Global Suhaimi Company",
+      "position": "Chief Accountant",
+      "url": "",
+      "startDate": "1997-01-01",
+      "endDate": "1999-01-01",
+      "summary": "Responsible for overall financial and accounting function of the company including Annual Budgets, Cash flow...",
+      "highlights": []
+    },
+    {
+      "name": "Unknown Company",
+      "position": "Accountant",
+      "url": "",
+      "startDate": "1992-05-01",
+      "endDate": "1996-09-01",
+      "summary": "Maintained basic accounts, book keeping...",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Brooklyn Park University",
+      "url": "",
+      "area": "Finance",
+      "studyType": "M.B.A",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Finance Management",
+      "level": "Expert",
+      "keywords": [
+        "Account Reconciliation",
+        "Accounting",
+        "Accounts Payable",
+        "Streamline",
+        "Advertising",
+        "Arabic",
+        "Balance Sheet",
+        "Trial Balance",
+        "Bank Reconciliation",
+        "Basic",
+        "Book Keeping",
+        "Book",
+        "Budgets",
+        "C",
+        "Cash Flow",
+        "Cash Handling",
+        "Closing",
+        "Corporate Finance",
+        "Credit",
+        "Clients",
+        "Customer Relations",
+        "Decision Making",
+        "Designing",
+        "Directing",
+        "Direction",
+        "Documentation",
+        "Filing",
+        "Finance",
+        "Financial",
+        "Financial Accounting",
+        "Financial Statements",
+        "Fixed Assets",
+        "Forecasting",
+        "General Ledger",
+        "Hindi",
+        "Insurance",
+        "Inventory Control",
+        "Ledger",
+        "Marketing",
+        "Office",
+        "MIS",
+        "Negotiating",
+        "OLAP",
+        "Oracle Financials",
+        "Payroll",
+        "Policies",
+        "Processes",
+        "Reporting",
+        "Requirement",
+        "Sales",
+        "Sales Analysis",
+        "Statutory Accounts",
+        "Strategic Plans",
+        "Tax",
+        "Urdu",
+        "Year-End"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Expert"
+    },
+    {
+      "language": "Arabic",
+      "fluency": "Intermediate"
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Expert"
+    },
+    {
+      "language": "Urdu",
+      "fluency": "Expert"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

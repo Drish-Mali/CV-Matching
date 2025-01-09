@@ -1,0 +1,97 @@
+{
+  "basics": {
+    "name": "UNKNOWN",
+    "label": "Business Development Manager",
+    "image": "",
+    "email": "UNKNOWN",
+    "phone": "UNKNOWN",
+    "url": "UNKNOWN",
+    "summary": "Dynamic Business Development Manager skilled in planning, developing and executing business strategies to achieve company goals. Proven success in identifying and driving market strategies to increase bottom lines and marginal revenue.",
+    "location": {
+      "address": "UNKNOWN",
+      "postalCode": "UNKNOWN",
+      "city": "City",
+      "countryCode": "US",
+      "region": "UNKNOWN"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Business Development Manager",
+      "url": "UNKNOWN",
+      "startDate": "2012-01-01",
+      "endDate": "2022-01-01",
+      "summary": "Manage new and existing accounts and develop them to their fullest potential to ensure consistent recurring revenues, provide clients with a service that continually delivers significant value and meets their needs",
+      "highlights": [
+        "Generating new business both in face to face meetings and over the phone.",
+        "Identifying prospective clients and contacting them.",
+        "Replying to all prospective new and current client enquiries in a timely and accurate manner.",
+        "Making a high number of daily outbound calls to prospective new clients.",
+        "Completing all documentation and administrative records, fully and accurately.",
+        "Maintaining a database of all contacts."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Colorado State University",
+      "url": "https://www.colostate.edu/",
+      "area": "Business Administration",
+      "studyType": "Master",
+      "startDate": "UNKNOWN",
+      "endDate": "UNKNOWN",
+      "score": "UNKNOWN",
+      "courses": []
+    },
+    {
+      "institution": "Colorado State University",
+      "url": "https://www.colostate.edu/",
+      "area": "Organizational Leadership Human Resources",
+      "studyType": "Master",
+      "startDate": "UNKNOWN",
+      "endDate": "UNKNOWN",
+      "score": "UNKNOWN",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Sales",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Business Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Accounting",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Telemarketing",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "volunteer": [{
+      "organization": "National MS Society, Colorado-Wyoming Chapter",
+      "position": "Member",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Volunteer member of the National MS Society, Colorado-Wyoming Chapter",
+      "highlights": []
+    }]
+}

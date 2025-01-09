@@ -1,0 +1,77 @@
+{
+  "basics": {
+    "name": "Accountant I",
+    "label": "Accountant",
+    "summary": "Flexible Accountant who adapts seamlessly to constantly evolving accounting processes and technologies.",
+    "location": {
+      "city": "City",
+      "countryCode": "State"
+    },
+    "skills": [
+      {
+        "name": "Accounting skills",
+        "keywords": [
+          "Strong communication skills",
+          "Account reconciliations",
+          "Effective time management",
+          "Customer-oriented",
+          "Analytical reasoning",
+          "Flexible team player",
+          "Detail-oriented",
+          "Superior research skills",
+          "Microsoft Office",
+          "Accounting Software: Sage MAS 200 ERP, Peachtree Complete Accounting, QuickBooks Pro, Profitool"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "English/Spanish",
+        "fluency": "Bilingual"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Accountant I",
+      "startDate": "2014-08-01",
+      "summary": "Set up new jobs and new hires in the Profitool accounting software. Prepare weekly invoices and perform research to resolve billing/payroll issues. Collect on aged receivables and report to management on a monthly basis. Perform reconciliation of accounts and make necessary entries and adjustments. Perform accounting analysis and conduct special accounting related projects at management's request. Examine accounting documents to verify completeness and conformance with specific accounting requirements. Trace and reconcile records of financial transactions. Check accounting transactions to ensure proper support documentation."
+    },
+    {
+      "name": "Company Name",
+      "position": "Staff Accountant/General Accounting Supervisor",
+      "startDate": "2011-03-01",
+      "endDate": "2014-08-01",
+      "summary": "Assisted billing department staff with error resolution and direction on new issues. Resolved pricing, quantity, and sales or fuels tax errors on invoices for customers."
+    },
+    {
+      "name": "Company Name",
+      "position": "Accounts Payable Clerk",
+      "startDate": "2010-12-01",
+      "endDate": "2011-03-01",
+      "summary": "Reviewed/entered invoices and booked manual checks for all electronic transactions."
+    },
+    {
+      "name": "Company Name",
+      "position": "Tax Associate",
+      "startDate": "2008-12-01",
+      "endDate": "2011-04-01",
+      "summary": "Prepared tax returns, processed Refund Anticipation Loans and Refund Anticipation Checks, and served customers."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Texas A&M International University",
+      "area": "Accounting",
+      "studyType": "Master of Professional Accountancy",
+      "endDate": "2012-12-15"
+    },
+    {
+      "institution": "Texas A&M International University",
+      "area": "Accounting",
+      "studyType": "Bachelor of Business Administration",
+      "endDate": "2008-08-07"
+    }
+  ]
+}

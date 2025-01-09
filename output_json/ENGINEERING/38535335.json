@@ -1,0 +1,104 @@
+{
+"basics": {
+    "name": "",
+    "label": "Engineering Coordinator",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "I desire to work for a company that provides career advancement opportunities in a friendly environment. I would like to develop skills that make me proficient in my job and an asset to the company. I have a varied skill set and enjoy learning new techniques.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+ "work": [
+    {
+      "name": "Company Name",
+      "position": "Engineering Coordinator",
+      "url": "",
+      "startDate": "1996-07-01",
+      "endDate": "2016-07-01",
+      "summary": "Proprietary Software License Administrator, Created database for internal and external customer...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Facilities Temp",
+      "url": "",
+      "startDate": "1995-11-01",
+      "endDate": "1996-07-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Facilities Administrator",
+      "url": "",
+      "startDate": "1993-10-01",
+      "endDate": "1995-11-01",
+      "summary": "Ordered parts and supplies. Maintained budget plan.",
+      "highlights": ["Received several achievement awards."]
+    },
+    {
+      "name": "Company Name",
+      "position": "Bulk Teller",
+      "url": "",
+      "startDate": "1990-01-01",
+      "endDate": "1992-10-01",
+      "summary": "Vault commercial account teller. Bulk teller.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Oklahoma Jr. College",
+      "url": "",
+      "area": "Administrative Assistance",
+      "studyType": "Associate of Arts",
+      "startDate": "1990-01-01",
+      "endDate": "1990-01-01",
+      "score": "3.95",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Word SAP Time Approval",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Excel Travel Arranger",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Access Database Purchase Reqs in SAP",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "OutLook IOs in SAP",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Pcard purchases Royalty Agreement Tracking",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

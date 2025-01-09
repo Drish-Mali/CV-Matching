@@ -1,0 +1,80 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Facility Manager",
+    "email": "",
+    "phone": "",
+    "summary": "Operations * Maintenance * Procurement * Security * Safety",
+    "location": {
+      "city": "City",
+      "countryCode": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Facility Manager",
+      "startDate": "2013-01-01",
+      "endDate": "2017-01-01",
+      "summary": "Assisted the Project Manager in the oversight of all construction and renovation projects Implemented a Maintenance work order system to optimize the Maintenance and Custodial duties. Organized and approved all setup and rental event activities. Assisted in troubleshooting, maintaining, and Installing Audio and Video equipment Security and Retail Implemented a 25+ member Volunteer Security team Planned and Led the installation of a 32 and 16 channel CCTV camera system. Assisted in the planning, construction, and procurement of a New state of the art Cafe. Planned and implemented a Cafe menu and POS system. Led, organized and trained staff and managers to run the operation of the cafe. Assisted in the planning, Stocking, build and Staffing of Book Store. Manage the day to day operations of a 50,000 square foot facility situated on an 8 acre lot that included special projects in construction, and other support service requirements such as safety, security, buildings and grounds. Promoted, Resolved and evaluated the necessary preventative routine maintenance of all aspects of the facility including but not limited to a 2 acres Pond, waterfall, fountains, Elevators, Electrical, Roof, Landscaping, and HVAC. Directed and Participated in Selecting of Staff and contractors in all areas of the facilities."
+    },
+    {
+      "name": "Company Name",
+      "position": "Healthcare Program Planner Analyst",
+      "startDate": "2007-01-01",
+      "endDate": "2013-01-01",
+      "summary": "My results oriented background consisted of engineering and physical plant responsibilities in Healthcare that operated on a 7-day/24 hour per day basis and included shift coverage."
+    },
+    {
+      "name": "Company Name",
+      "position": "Shipping and Receiving Coordinator",
+      "startDate": "2005-01-01",
+      "endDate": "2007-01-01",
+      "summary": "Assisted Management in the day to day operations of the receiving department, Led in the management of staff delivery schedules, Operated heavy equipment and lifts, Assisted and Directed the distributions of packages and materials to all departments."
+    },
+    {
+      "name": "Company Name",
+      "position": "Nutritional Aide",
+      "startDate": "2000-01-01",
+      "endDate": "2005-01-01",
+      "summary": "Distributed dietary foods and supplements Maintained inventory logs and managed appropriate reports for follow up procedures."
+    },
+    {
+      "name": "Company Name",
+      "position": "Assistant Manager",
+      "startDate": "1998-01-01",
+      "endDate": "2000-01-01",
+      "summary": "Managed the day to day functions of an East Village Cafe, Opening and closing cafe, Ordering supplies, Customer Service, Placing Bakery Orders, Managing Cash Register."
+    }
+  ],
+  "education": [
+    {
+      "institution": "National Career Institute",
+      "area": "Electrical Assistant & HVAC-R",
+      "studyType": "Certificate",
+      "startDate": "",
+      "endDate": "2018",
+      "courses": [
+        "Certificate in commercial and residential wiring, motor control and theory consistent with the National Electrical Code", "Electrical safety including proper use of tools and equipment", "Safety standards according to OSHA's rules and regulations", "electrical theory to installation and repair of power apparatus, conductors and various types of switching devices", "Interpret the National Electrical Code and read Blueprints", "Establishing the source of energy loss and providing solutions"
+      ]
+    },
+    {
+      "institution": "Essex County College",
+      "area": "Liberal Arts",
+      "studyType": "Associates",
+      "startDate": "",
+      "endDate": "2012",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Skills",
+      "level": "",
+      "keywords": [
+        "Accounts Payable", "art", "Audio", "Blueprints", "Book", "budget", "Cash Register", "closing", "cost control", "Crisis Intervention", "Customer Service", "delivery", "HVAC", "inventory", "Regulatory compliance", "Managing", "materials", "mechanical", "organizing", "camera", "plumbing", "POS", "problem solver", "procurement", "Project Management", "Receiving", "renovation", "renovations", "Retail", "Retail Sales", "Safety", "Scheduling", "Staffing", "Stress Management", "supervising", "troubleshooting", "utilities", "Video", "wiring"
+      ]
+    }
+  ]
+}

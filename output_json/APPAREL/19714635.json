@@ -1,0 +1,88 @@
+{
+  "basics": {
+    "name": "Unknown",
+    "label": "CEO / President",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Senior marketing executive experienced in the music, sports and entertainment industry with an ability to build market presence. Track record of accelerating growth by creating and executing integrated marketing and strategic marketing programs that improved visibility, sales, and account base. Product Development Social Media Marketing Strategic Marketing Planning Multi Media Marketing & Advertising - Print, Broadcast, Web / Internet Leadership/Team Building Brand Image Development & Management Promotions & PR Management Vendor & Sponsor Negotiations Market Research & Competitive Analysis",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "",
+      "region": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "CEO / President",
+      "url": "",
+      "startDate": "2011-01",
+      "endDate": "Current",
+      "summary": "A full service branding / marketing consultant company whose goals and objectives are to achieve the highest standards possible in everything that we do. We are committed to Our goals and priorities which are to offer a service that enable Our clients / brands the best opportunities to increase their business while simultaneously reaching their goals. We approach all clients projects with a high level of competitive creativity and flair as well as to service Our clients at the highest professional level.",
+      "highlights": [
+        "Successfully developed products from the ground up to produce substantial revenue growth.",
+        "Launched successful marketing initiatives for new clothing lines with first year sales ranging between $1.8 M - $15M in sales",
+        "Collaborated and worked with record labels in accomplishing sales of over 100 M album and singles sold",
+        "Expert management capabilities include strategic planning, P& L accountability, budgeting and supervision.",
+        "Forged innovative partnerships with businesses, sports & music agents through joint-development alliances."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Binghamton University",
+      "url": "",
+      "area": "Marketing / Business Admin",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "1996",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Marketing",
+      "level": "Master",
+      "keywords": [
+        "Product Development",
+        "Social Media Marketing",
+        "Strategic Marketing Planning",
+        "Multi Media Marketing & Advertising - Print, Broadcast, Web",
+        "Leadership/Team Building",
+        "Brand Image Development & Management",
+        "Promotions & PR Management",
+        "Vendor & Sponsor Negotiations",
+        "Market Research & Competitive Analysis",
+        "Advertising",
+        "Branding",
+        "Marketing",
+        "Budgeting",
+        "Business Solutions",
+        "Consultant",
+        "Creativity",
+        "Communications",
+        "Design",
+        "Director",
+        "Marketing Analysis",
+        "Operation Management",
+        "Marketing Plans",
+        "Retail Marketing",
+        "Market Development"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

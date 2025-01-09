@@ -1,0 +1,141 @@
+{
+  "basics": {
+    "name": "Executive Director",
+    "label": "Highly motivated public servant for over 35 years",
+    "email": "",
+    "phone": "",
+    "summary": "Highly motivated public servant for over 35 years in a multitude of facets to include: Administrative Management, Logistics Management, Budget Management, Emergency Management, Quality Improvement Management, Physical and Personal Security Management, Antiterrorism, Force Protection, Shipboard Operations, Navigation, Maritime Law Enforcement, Combat Readiness, Training and Instruction.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "State",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Executive Director",
+      "url": "",
+      "startDate": "2009-06-01",
+      "endDate": "2012-08-01",
+      "summary": "Administrator for a non-profit arts and cultural organization in Kodiak, Alaska.",
+      "highlights": [
+        "Received various medals and accommodations for superior performance from peace time and combat units.",
+        "Aggressively realigned the organizations strategic plan with current and near future goals.",
+        "Directly responsible for the grant applications process from creation to reporting."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Chief Warrant Officer Four",
+      "url": "",
+      "startDate": "1985-05-01",
+      "endDate": "2009-09-01",
+      "summary": "United States Coast Guard May 1985 to September 2009 Chief Warrant Officer Four (BOSN) Operations Officer of 7th Crew, USCG PATFORSWA (Patrol Forces Southwest Asia).",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Excelsior College",
+      "url": "",
+      "area": "Management and Psychology",
+      "studyType": "BS: Liberal Arts",
+      "startDate": "2002-01-01",
+      "endDate": "2002-12-31",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "U.S. Coast Guard Certification",
+      "date": "2002-01-01",
+      "issuer": "U.S. Coast Guard",
+      "url": ""
+    },
+    {
+      "name": "Antiterrorism Force Protection Level II Certification",
+      "date": "2002-01-01",
+      "issuer": "U.S. Coast Guard",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Administrative Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Logistics Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Budget Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Emergency Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Quality Improvement Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Physical and Personal Security Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Antiterrorism",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Force Protection",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Shipboard Operations",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Navigation",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Maritime Law Enforcement",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Combat Readiness",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Training and Instruction",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

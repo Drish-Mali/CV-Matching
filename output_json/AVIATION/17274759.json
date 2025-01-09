@@ -1,0 +1,165 @@
+{
+  "basics": {
+    "name": "Senior Supply Sergeant",
+    "label": "Logistics Professional",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "To obtain a position in the logistics arena as an Inventory Management Specialist, Logistics Management Specialist, Supply Management Specialist, or Senior Logistics Analyst within any organization in which my experience, knowledge, and skills will be used accordingly.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "US",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Senior Supply Sergeant",
+      "url": "",
+      "startDate": "2012-04",
+      "endDate": "Current",
+      "summary": "Knowledgeable of Army Supply Regulations, Processes, Principles, Procedures, and Concepts of Logistics Management. Responsible for processing, analyzing and reviewing equipment fielding documents. Managed equipment readiness, retrograde and redistribution. Maintained records for lost, destroyed and stolen property and coordinated the execution of more than $5 million in Government Contracts.",
+      "highlights": [
+        "Reviewed and corrected budget estimates and proposals", 
+        "Trained Leaders and Subordinates on Logistics and Supply Operations"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Senior Logistics Noncommissioned Officer",
+      "url": "",
+      "startDate": "2011-05",
+      "endDate": "2012-04",
+      "summary": "Supervised and managed all logistical operations. Monitored and ensured that unit followed Command and Supply Discipline Program within the guidelines of the Army Regulations. Conducted required inspections with units to ensure proper standards. Provided services to units ensuring that required needs were met.",
+      "highlights": [
+        "Identified strengths and weaknesses, provided alternative actions", 
+        "Validated monthly Unit Status Readiness"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Senior Supply Sergeant",
+      "url": "",
+      "startDate": "2000-02",
+      "endDate": "2011-05",
+      "summary": "Supervised Army Force Generation (ARFORGEN) Reset Operations. Provided material supply maintenance support and ensured proper disposal procedures while disposing of excess property. Managed and coordinated the movement of Department of the Army stock and loaned equipment.",
+      "highlights": [
+        "Provided technical guidance in Supply Chain Management"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Property Book Noncommissioned Officer",
+      "url": "",
+      "startDate": "1997-03",
+      "endDate": "2000-02",
+      "summary": "Served as the Brigade Property Book Supervisor, processed and resolved unit level property accounting issues. Coordinated logistical support for training. Managed the excess program and handled the administration of property book records.",
+      "highlights": [
+        "Directed and handled the administration of property book records"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Defense Acquisition University",
+      "url": "",
+      "area": "GFEB",
+      "studyType": "Technical Certificate",
+      "startDate": "2013",
+      "endDate": "",
+      "score": "",
+      "courses":[]
+    },
+    {
+      "institution": "Military Training",
+      "url": "",
+      "area": "Budget Analyst",
+      "studyType": "Technical Certificate",
+      "startDate": "2008",
+      "endDate": "",
+      "score": "",
+      "courses":[]
+    },
+    {
+      "institution": "Property Book Unit Supply Enhanced",
+      "url": "",
+      "area": "PBUSE",
+      "studyType": "Technical Certificate",
+      "startDate": "2007",
+      "endDate": "",
+      "score": "",
+      "courses":[]
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Logistics/Supply Management",
+      "level": "",
+      "keywords": [
+        "Logistics Forecasting/Planning", 
+        "Supply Chain Management", 
+        "Inventory Management", 
+        "Logistics Management",
+        "Purchasing/Procurement", 
+        "QA/QC"
+      ]
+    },
+    {
+      "name": "Administration",
+      "level": "",
+      "keywords": [
+        "Record Organization/Maintenance", 
+        "Strategic Planning", 
+        "Multi-site Operations", 
+        "Multi-unit Operations", 
+        "Supply Policies", 
+        "Supply Process and Procedures", 
+        "Budgeting", 
+        "Customer Support/Services"
+      ]
+    },
+    {
+      "name": "Data Management",
+      "level": "",
+      "keywords": [
+        "Data Entry Process", 
+        "Documentation and record keeping", 
+        "Proofreading/Editing", 
+        "File System Development", 
+        "MS Word", 
+        "Excel", 
+        "Powerpoint"
+      ]
+    },
+    {
+      "name": "Software",
+      "level": "",
+      "keywords": [
+        "Property Book Unit Supply Enhanced (PBUSE)", 
+        "Property ManagementPrograms", 
+        "WBFLIS", 
+        "LOGDAT", 
+        "Logistics Information Warehouse (LIW)", 
+        "SSN-LIN Automated Management & Integrating System (SLAMIS)", 
+        "FEDLOG", 
+        "FAAST", 
+        "Exchange Pricing", 
+        "FMSWEB", 
+        "General Fund Enterprise Business System (GFEB)"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

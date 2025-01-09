@@ -1,0 +1,67 @@
+{
+  "basics": {
+    "name": "Anonymous Resume Holder",
+    "label": "Director, Business Development",
+    "email": "",
+    "phone": "",
+    "summary": "Passionate sales executive and recognized, respected leader. Forward and creative thinker producing bottom line results. Cultivates, nurtures and maintains long-term customer relationships to boost sales and grow brand visibility.",
+    "location": {
+      "city": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Director, Business Development",
+      "startDate": "2014-10",
+      "endDate": "Current",
+      "summary": "Solely built and launched the CPG division of 2020 Companies within 90 days of hire. Oversee projects from conception to completion. Consistently arrange client meetings locally and domestically to attain new or additional business.",
+      "highlights": [
+        "Launched CPG division 90 days after employment",
+        "Closed business with 3 new CPG clients within first 6 months of employment",
+        "Built and manages team of 20 account executives for technology client"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Strategic Account Sales and Consulting",
+      "startDate": "2012-12",
+      "endDate": "2014-08",
+      "summary": "Oversaw sales forecasting, goal setting and performance reporting for all accounts. Approached new opportunities in retail, selling outside of our targeted customer base.",
+      "highlights": [
+        "Exceeded monthly sales quotas by more than 100%",
+        "Bundled numerous solutions for customer-specific needs"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "South Grand Prairie HS",
+      "area": "General Education",
+      "studyType": "High School Diploma",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Business Development",
+      "level": "Director",
+      "keywords": [
+        "National account management",
+        "Business development",
+        "Powerful negotiator",
+        "Revenue production",
+        "Sales forecasting and analytics",
+        "Relationship cultivation",
+        "Project Management"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

@@ -1,0 +1,136 @@
+{
+  "basics": {
+    "name": "Unknown",
+    "label": "Information Technology Manager",
+    "email": "Unknown",
+    "phone": "Unknown",
+    "url": "Unknown",
+    "summary": "Dedicated IT Manager well-versed in analyzing and mitigating risk and finding cost-effective solutions. Excels at boosting performance and productivity by establishing realistic goals and enforcing deadlines.",
+    "location": {
+      "address": "Unknown",
+      "postalCode": "Unknown",
+      "city": "Unknown",
+      "countryCode": "Unknown",
+      "region": "Unknown"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Information Technology Manager",
+      "startDate": "2013-03",
+      "endDate": "Current",
+      "summary": "Managed a four-person local IT team, allocating resources to ongoing projects and enforcing deadlines. Drove business KPIs through rapid iteration of customer-facing product features. Leveraged in-depth understanding of end-to-end customer experience to identify pain points and latent customer needs. Collaborated with the global team to resolve IT support cases. Build and maintain a staff of five & terminate for cause one employee. Create and audit processes interlocking with other teams, adjust as required. Manage travel and budget for staff on-site visits. Ownership of SaaS customers in North America, Canada and Australia. Defined project deliverables and monitored status of tasks. Executed proof of concept implementations to validate product feasibility.",
+      "highlights": [
+        "Operations management",
+        "Salary structure/compensation analysis",
+        "Project tracking",
+        "Calm under pressure",
+        "Performance criteria tracking",
+        "Compensation/benefits administration",
+        "Waterfall framework",
+        "Staff development",
+        "Scrum methodology",
+        "Client communication",
+        "Enterprise platforms"
+      ],
+      "url": "Unknown"
+    },
+    {
+      "name": "Company Name",
+      "position": "IT Administrator",
+      "startDate": "2011-06",
+      "endDate": "2013-03",
+      "summary": "Designed and delivered mission critical infrastructure to ensure the highest levels of availability, performance and security. Maintained security, backup, and redundancy strategies. Ownership of IT Infrastructure and Client/Server management (Chicago, Houston, Montreal and Sydney). Collected, analyzed, and reported program metrics, including product technical performance measures and key performance parameters. Manage North America production data center (SaaS) and disaster recovery applications. Deploy and manage VMware architecture. Monitor and created automatic actions related to hardware and web servers. Engineered IT infrastructure for reliable WAN and LAN connectivity. Active Directory and Group Policy configuration and deployment. Provided client support for production. SQL Administration. Deployed over 30 NEC phones and support for NEC PBX. Responsible for purchasing and product recommendations.",
+      "highlights": [],
+      "url": "Unknown"
+    }
+  ],
+  "education": [
+    {
+      "institution": "DePaul University",
+      "area": "Business Information Technology",
+      "studyType": "Master of Science",
+      "startDate": "Unknown",
+      "endDate": "2018",
+      "score": "Unknown",
+      "courses": [],
+      "url": "Unknown"
+    },
+    {
+      "institution": "DeVry University",
+      "area": "Network and Communications Management",
+      "studyType": "Bachelor of Science",
+      "startDate": "Unknown",
+      "endDate": "2009",
+      "score": "Unknown",
+      "courses": [],
+      "url": "Unknown"
+    }
+  ],
+  "skills": [
+    {
+      "name": "IT Management",
+      "level": "Unknown",
+      "keywords": [
+        "Active Directory",
+        "Administrative Support",
+        "Adobe Acrobat",
+        "Architect",
+        "Backup",
+        "Budget",
+        "Client/Server",
+        "Hardware",
+        "Concept",
+        "Client",
+        "Clients",
+        "Client Support",
+        "DAS",
+        "Database",
+        "Disaster Recovery",
+        "Ghost",
+        "LAN",
+        "Laptops",
+        "Mac hardware",
+        "Mac",
+        "Exchange",
+        "Microsoft Exchange",
+        "Microsoft Exchange 2003",
+        "Microsoft Office",
+        "Windows 7",
+        "Windows",
+        "Microsoft Windows 2003",
+        "Windows XP",
+        "NEC",
+        "Novell",
+        "Operating Systems",
+        "Operating System",
+        "PBX",
+        "Peripherals",
+        "Policies",
+        "Processes",
+        "Purchasing",
+        "Servers",
+        "SLA",
+        "SQL",
+        "Symantec",
+        "Technical Support",
+        "Phones",
+        "Video",
+        "Vista",
+        "Web Servers",
+        "WAN",
+        "Windows Server"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

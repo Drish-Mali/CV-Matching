@@ -1,0 +1,92 @@
+{
+  "basics": {
+    "name": "OWNER",
+    "label": "Business Owner",
+    "summary": "Driven, analytical, creative leader with 25+ years experience in business, customer service, higher education, utilities, insurance, the arts and public education. Motivated IT leader in project management, client training, and comprehensive development of innovative client solutions, and enabling creative changes across an organization.",
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Owner",
+      "startDate": "1998-01-01",
+      "endDate": "Current",
+      "summary": "Highly skilled technology leader with proven success in providing innovative and creative application solutions, tools, and processes across organizations. Effective leader in applying custom business and technology solutions to maximize organizational performance. Create competitive advantages by utilizing cutting edge technologies, technical and business acumen, innovating solutions and influencing positive change across an enterprise. Provides marketing leadership to propel business into the public arena.",
+      "highlights": [ "Customer Service", "New Business Development", "Project Management", "System Integration", "Technology Deployment", "Process",
+      "Coordinator Technology Support-School of Fine Arts"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Coordinator Technology Support-School of Fine Arts",
+      "startDate": "2001-08-01",
+      "endDate": "2009-08-01",
+      "summary": "Oversee the technology support for the division focused on analyzing the current environment of the faculty and staff. Enable users to manage their support and teaching duties by relying on the available technology. Provide project management in the development of Filemaker Solutions within the division as well as coordinated solutions...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Coordinator",
+      "startDate": "1997-01-01",
+      "endDate": "2001-01-01",
+      "summary": "Improvement E - Commerce Quality Assurance System Installation Team Leadership Change Management Consulting Provide technology support for companies, schools, individuals...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Technology Manager",
+      "startDate": "1992-01-01",
+      "endDate": "1997-01-01",
+      "summary": "Managed IT Services in the student technology learning centers - open to all students. Services included access to the Internet, MVS, VS, and Novell Network. Students were able to interact with the faculty by...",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Miami University",
+      "area": "Educational Leadership",
+      "studyType": "M.M PHD",
+      "startDate": "unknown",
+      "endDate": "unknown",
+      "score": "3.89",
+      "courses": []
+    },
+    {
+      "institution": "Southwestern College of Business",
+      "area": "Computer Science",
+      "studyType": "Associate",
+      "startDate": "unknown",
+      "endDate": "unknown",
+      "score": "4.00",
+      "courses": []
+    },
+    {
+      "institution": "Washburn University",
+      "area": "Music",
+      "studyType": "Bachelor",
+      "startDate": "unknown",
+      "endDate": "unknown",
+      "score": "3.25",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "General Skills",
+      "level": "unknown",
+      "keywords": ["administrative","Arts","art","basic","Billing","Billing System","Change Management","competitive","hardware","Consulting","Customer Service","customer service","database","Database programming","E - Commerce","edge","email","Filemaker","MVS","Invoicing","Leadership","Team Leadership","Director","marketing","access","enterprise","Network","New Business Development","Novell Network","organizational","processes","Project Management","project management","Quality Assurance","Sales Manager","System Integration","teaching","desktop support","troubleshooting","websites"]
+    }
+  ],
+  "languages": [],
+  "interests": [
+    {
+      "name": "Interests",
+      "keywords": ["Presentation for Ohio Learning Network Conference Topic: 'The Arts and STEM Legislation: The Impact on Teaching and Learning'", "Presentation for Miami University Center for Learning and Teaching Conference :Topic: 'MU Student e-Portfolios", "Participated in Filemaker Developers Conferences"]
+    }
+  ],
+  "references": [],
+  "projects": []
+}

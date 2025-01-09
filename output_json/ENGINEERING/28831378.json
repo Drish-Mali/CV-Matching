@@ -1,0 +1,125 @@
+{
+  "basics": {
+    "name": "John Doe",
+    "label": "Engineering Technician",
+    "image": "",
+    "email": "johndoe@gmail.com",
+    "phone": "",
+    "url": "",
+    "summary": "Work as engineering technician on fault isolation area saving medical devices from electrical failures that could be reworked at site depend the electrical failures. Delivering $1,200 per each device that can be saved at site.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "US",
+      "region": "Puerto Rico"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Engineering Technician",
+      "url": "",
+      "startDate": "2013-01-01",
+      "endDate": "Current",
+      "summary": "Work as an Engineering Technician on Fault Isolation area that involves electrical disposition of medical devices that fail on different electrical test on the manufacturing process. Developed documentation to validate new electrical machinery.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Instrument Technician",
+      "url": "",
+      "startDate": "2011-01-01",
+      "endDate": "2012-01-01",
+      "summary": "Daily Calibration of instrument used on manufacturing areas. Technical work that involved, repair, installation, troubleshooting of equipment and process control systems.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Project Manager Assistance",
+      "url": "",
+      "startDate": "2005-01-01",
+      "endDate": "2011-01-01",
+      "summary": "Work on projects estimation for electrical mechanical and instrument installations, instrument, electrical and mechanical maintenance for pharmaceutical and biotechnology facilities.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Polytechnic University Of Puerto Rico",
+      "url": "",
+      "area": "Electrical Engineering",
+      "studyType": "Bachelor of Science",
+      "startDate": "2005-01-01",
+      "endDate": "2009-01-01",
+      "score": "2.50",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Engineering",
+      "level": "",
+      "keywords": [
+        "Maintenance",
+        "Corrective Maintenance",
+        "Documentation",
+        "Industrial Machinery",
+        "Preventive Maintenance",
+        "Sensors",
+        "Biotechnology",
+        "Hydraulics",
+        "Estimation",
+        "Project Manager",
+        "Sop",
+        "Manufacturing Process",
+        "Assembly",
+        "Circuit Boards",
+        "Dmm",
+        "Electrical Test",
+        "Esd",
+        "First Article Inspection",
+        "Inspection",
+        "Medical Devices",
+        "Oscilloscope",
+        "Production Process",
+        "Schematic",
+        "Soldering",
+        "Surface Mount",
+        "Test Engineer",
+        "Through-hole",
+        "Wiring",
+        "Calibration",
+        "Control Systems",
+        "Packaging",
+        "Process Control",
+        "Sensor",
+        "Temperature And Humidity",
+        "Control System Design",
+        "Electrical Engineer",
+        "Engineer",
+        "Entry Level",
+        "Mechanical/electrical Engineer",
+        "Testing",
+        "Training",
+        "Electrical Engineering",
+        "Pr",
+        "Public Relations"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

@@ -1,0 +1,94 @@
+{
+  "basics": {
+    "name": "",
+    "label": "ENGINEERING TECHNICIAN",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "An experienced CAD and GIS Technician able to produce detailed drawings and maps which are clear and accurate. I am able to analyze databases and generate custom maps and reports with different tools of the trade.",
+    "location": {},
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Engineering Technician",
+      "url": "",
+      "startDate": "07/2014",
+      "endDate": "Current",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Assistant Engineering Technician",
+      "url": "",
+      "startDate": "11/2013",
+      "endDate": "07/2014",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Hourly City Worker",
+      "url": "",
+      "startDate": "12/2007",
+      "endDate": "09/2012",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "California Polytechnic State University Pomona",
+      "url": "",
+      "area": "Geography Social Sciences",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "June, 2012",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Glendale Community College",
+      "url": "",
+      "area": "Architecture",
+      "studyType": "Associates Degree",
+      "startDate": "",
+      "endDate": "June, 2009",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Rio Hondo Community College",
+      "url": "",
+      "area": "Civil Design Technology",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "December, 2012",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Operating Systems",
+      "level": "",
+      "keywords": [ "Windows XP/ Vista/7", "ArcGIS 9.3.1", "10.0", "C#", "Java", "AutoCAD", "AutoCAD Map 3D" ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Armenian",
+      "fluency": "Intermediate"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

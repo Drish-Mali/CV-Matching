@@ -1,0 +1,94 @@
+{
+"basics": {
+"name": "",
+"label": "Software Engineering Manager",
+"image": "",
+"email": "",
+"phone": "",
+"url": "http://www.imaginecommunications.com/products/playout/video-servers",
+"summary": "Experienced software engineer, and hands-on engineering manager with 20+ years of product development experience in broadcast media, and 10+ years of experience in leading development teams (20+ engineers), hiring (10+ offers, 40+ interviews), HR personnel procedures, performance reviews, and project transitions.",
+"location": {
+"address": "",
+"postalCode": "",
+"city": "City",
+"countryCode": "State",
+"region": ""
+},
+"profiles": []
+},
+"work": [
+{
+"name": "Company Name",
+"position": "Software Engineering Manager",
+"url": "",
+"startDate": "2009-09",
+"endDate": "current",
+"summary": "Visual C++, Windows, STL, OOP, MFC, threads, file maps, ATL, IPC, FTP, TCP, HTTP, XML, JSON, services, web services, REST API, SOA, media formats and standards, codec SDK and integration, MPEG-DASH, API design and documentation",
+"highlights": []
+},
+{
+"name": "Company Name",
+"position": "Software Engineering Manager",
+"url": "",
+"startDate": "2005-11",
+"endDate": "2009-08",
+"summary": "Development and team management, Nexio editing applications: Led team of 8 from Naperville, and team of 8 (indirect report) from Beijing. Hired, mentored and built core editing team to size of 8, and collaborated with expanded team in Beijing. Established development process document for consistent procedures and peer code review guidelines. Team established crash dump analysis procedures to help troubleshoot hard to repeat issues.",
+"highlights": []
+},
+{
+"name": "Company Name",
+"position": "Principal Software Engineer",
+"url": "",
+"startDate": "1997-08",
+"endDate": "2005-10",
+"summary": "Harris Corporation acquired Leitch) Architected, designed, and implemented fundamental DLL components for evolution of video editing product, and major projects include (C++, Win32, threads, GUI): Interactive playback architecture Media file reader and writer components, scalable decoder and encoder architectures.",
+"highlights": []
+},
+{
+"name": "Company Name",
+"position": "Software Engineer",
+"url": "",
+"startDate": "1994-08",
+"endDate": "1997-07",
+"summary": "DPS acquired Star Media; Leitch acquired DPS in 2000). Star Media, technology startup, created video editing software Velocity for post-production space, and developed projects include Project media management tools, Render Bank, and video effects.",
+"highlights": []
+}
+],
+"volunteer": [],
+"education": [
+{
+"institution": "Illinois Institute of Technology",
+"url": "",
+"area": "Computer Science",
+"studyType": "M.S",
+"startDate": "",
+"endDate": "",
+"score": "",
+"courses": []
+},
+{
+"institution": "National Institute of Technology",
+"url": "",
+"area": "Electronics and Communication Engineering",
+"studyType": "B.E",
+"startDate": "",
+"endDate": "",
+"score": "",
+"courses": []
+}
+],
+"awards": [],
+"certificates": [],
+"publications": [],
+"skills": [
+{
+"name": "Software Engineering",
+"level": "Master",
+"keywords": ["Visual C++", "Windows", "STL", "OOP", "MFC", "threads", "file maps", "ATL", "IPC", "FTP", "TCP", "HTTP", "XML", "JSON", "services", "web services", "REST API", "SOA", "media formats and standards", "codec SDK and integration", "MPEG-DASH", "API design and documentation"]
+}
+],
+"languages": [],
+"interests": [],
+"references": [],
+"projects": []
+}

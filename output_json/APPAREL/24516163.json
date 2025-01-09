@@ -1,0 +1,112 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Assistant Store Manager",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Has extensive visual retail experience in fashion and design, and has worked in different management roles.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Assistant Store Manager",
+      "url": "",
+      "startDate": "2010-10",
+      "endDate": "Current",
+      "summary": "Coached team to increase sales to a 2.4% growth over last year. Analyzed sales daily to develop daily goals for the store and associates. Prepared monthly scorecard for TM visit resulting in an average score of 95. Focused on Bailey's mission to be the friendliest store in the mall increasing store's conversion 25% over last year to 26.6% for the year. Created training to bring awareness of additional categories. Lived the core values set by the Bailey's.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Assistant Store Manager",
+      "url": "",
+      "startDate": "2008-04",
+      "endDate": "2010-10",
+      "summary": "Ensure Making Women Feel Beautiful is the top priority at all time. Understands and demonstrates Chico's FAS, Inc Values with both customers and team. Maintains constant and timely communication with the SM. Prepares weekly and monthly communication for recap with the SM.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Department Manager",
+      "url": "",
+      "startDate": "2007-02",
+      "endDate": "2008-04",
+      "summary": "Efficiently manage everyday activities including daily maintenance and inter-department projects. Implement all key impact statements, monthly and seasonal merchandise, according to standards, with primary goal of projecting the store as best in the defined market. Rotate merchandise to create fresh statements based on sale promotions and new inventory within point of purchase categories.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Visual Merchandising Specialist/Retail Sales",
+      "url": "",
+      "startDate": "2002-09",
+      "endDate": "2005-11",
+      "summary": "Coordinate effective interior displays that are sensitive to customer and market needs, ensuring company fashion trends are implemented. Implement seasonal set/sell planners with strong focus on wall and aisle statements with critical attention to trends and color direction.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of North Carolina at Greensboro",
+      "url": "",
+      "area": "Textile Products Design",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "2002-12",
+      "score": "3.4",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Software Skills",
+      "level": "",
+      "keywords": [
+        "Microsoft Office",
+        "MS Word",
+        "MS PowerPoint",
+        "MS Excel",
+        "MS Publisher",
+        "MS Outlook",
+        "Adobe Photoshop",
+        "Karat",
+        "CAD",
+        "Easy Weave",
+        "Easy Knit",
+        "Color Reduce and Clean"
+      ]
+    },
+    {
+      "name": "Energy and Stamina",
+      "level": "",
+      "keywords": [
+        "Stamina to engage in frequent lifting"
+      ]
+    },
+    {
+      "name": "Illustration and Design",
+      "level": "",
+      "keywords": [
+        "Fashion Illustration",
+        "Flat Pattern Design"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

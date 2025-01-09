@@ -1,0 +1,125 @@
+{
+  "basics": {
+    "name": "Not Provided",
+    "label": "Patient Care Technician",
+    "email": "Not Provided",
+    "phone": "Not Provided",
+    "summary": "Enthusiastic and hardworking nursing school graduate. Graduated Salutatorian and Magna Cum Lauda from Chamberlain University. My can-do attitude has led me to be a valued member to all my prior employers...",
+    "location": {
+      "city": "Not Provided",
+      "region": "Not Provided"
+    }},
+    
+  "work": [
+    {
+      "name": "Not Provided",
+      "position": "Patient Care Technician",
+      "startDate": "12/2016",
+      "endDate": "07/2017",
+      "summary": "Interviewed patients, measured vital signs, and documented all information on patients' EMR..."
+    },
+    {
+      "name": "Company Name",
+      "position": "Server",
+      "startDate": "06/2010",
+      "endDate": "12/2014",
+      "summary": "Assisted patrons during selection of food and beverages by presenting menu, and offering recommendations..."
+    },
+    {
+      "name": "Company Name",
+      "position": "Aviation Electronic Technician",
+      "startDate": "09/2005",
+      "endDate": "09/2009",
+      "summary": "Drastically reduced aircraft discrepancies by 30% during my tenure with Patrol Squadron Sixteen..."
+    },
+    {
+      "name": "Company Name",
+      "position": "Not Provided",
+      "startDate": "07/2000",
+      "endDate": "08/2005",
+      "summary": "Assisted DVM with medical examinations, triaged incoming patients and managed clients throughout their visit..."
+    }
+  ],
+  
+  "education": [
+    {
+      "institution": "Chamberlain University",
+      "area": "Nursing",
+      "studyType": "Bachelors of Science Degree",
+      "startDate": "Not Provided",
+      "endDate": "06/25/2017"
+    },
+    {
+      "institution": "Florida State College of Jacksonville",
+      "area": "Not Provided",
+      "studyType": "Associates of Arts",
+      "startDate": "Not Provided",
+      "endDate": "05/06/2011"
+    }
+  ],
+  
+  "awards": [
+    {
+      "title": "Salutatorian",
+      "date": "Not Provided",
+      "awarder": "Chamberlain University"
+    },
+    {
+      "title": "Magna Cum Laude graduate",
+      "date": "Not Provided",
+      "awarder": "Chamberlain University"
+    },
+    {
+      "title": "Honor Graduate: P-3 Electrical Connector and Wire Repair Organizational Maintenance Course and P-3C Avionics Organizational Level Maintenance Course",
+      "date": "Aug. 2006",
+      "awarder": "Not Provided"
+    },{
+      "title": "Enlisted Aviation Warfare Specialist",
+      "date": "Nov. 3, 2006",
+      "awarder": "Not Provided"
+    },{
+      "title": "Department of the Navy, Good Conduct Award",
+      "date": "Sept. 7, 2007",
+      "awarder": "Not Provided"
+    },{
+      "title": "Navy and Marine Corps Achievement Medal",
+      "date": "Sept. 6, 2009",
+      "awarder": "Not Provided"
+    }
+  ],
+  
+  "skills": [
+    {
+      "name": "Healthcare",
+      "level": "Not Provided",
+      "keywords": ["anesthesia", "C", "clients", "policies", "presenting", "recording", "safety", "surgery", "therapy", "vital signs", "x-rays"]
+    }
+  ],
+  
+  "languages": [],
+  
+  "interests": [],
+  
+  "references": [],
+  
+  "projects": [],
+  
+  "certificates": [
+    {
+      "name": "Registered Nurse- State of Florida",
+      "date": "July 18, 2017",
+      "issuer": "American Heart Association",
+      "url": "Not Provided"
+    },
+    {
+      "name": "Basic Life Support (BLS) Certification",
+      "date": "Not Provided",
+      "issuer": "American Heart Association",
+      "url": "Not Provided"
+    }
+  ],
+  
+  "volunteer": [],
+  
+  "publications": []
+}

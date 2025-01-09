@@ -1,0 +1,128 @@
+{
+  "basics": {
+    "name": "Senior VP - Information Technology",
+    "label": "Executive Profile",
+    "email": "",
+    "phone": "",
+    "summary": "Demonstrates ability to be a strong leader in a fast paced environment with strong interpersonal skills...",
+    "location": {
+      "city": "City",
+      "countryCode": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Senior VP - Information Technology",
+      "startDate": "2014-08",
+      "endDate": "2015-09",
+      "summary": "Experienced technology leader with expertise in managing all aspects of front and back office systems...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Chief Information Officer",
+      "startDate": "2006-01",
+      "endDate": "2014-08",
+      "summary": "Managed technology for an institutional trading firm...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "IT Support Manager",
+      "startDate": "2001-02",
+      "endDate": "2006-06",
+      "summary": "Worked directly with vendors to implement/upgrade market data software and hardware...",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Montclair State University",
+      "area": "Computer Science",
+      "studyType": "B.S",
+      "startDate": "Unknown",
+      "endDate": "1999"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Technology",
+      "level": "Master",
+      "keywords": [
+        "Active Directory",
+        "API",
+        "backup",
+        "Bloomberg",
+        "bonds",
+        "Budgeting",
+        "budget",
+        "business management",
+        "Business Planning",
+        "Cisco",
+        "hardware",
+        "Conflict Resolution",
+        "contracts",
+        "client",
+        "customer support",
+        "design and construction",
+        "disaster recovery",
+        "email",
+        "Equities",
+        "equity",
+        "senior management",
+        "Fidessa",
+        "Financial",
+        "Fixed Income",
+        "GMP",
+        "Goal-Setting",
+        "information technology",
+        "Leadership",
+        "Team-Building",
+        "managerial",
+        "managing",
+        "Market",
+        "meetings",
+        "access",
+        "Exchange Server",
+        "Microsoft Exchange",
+        "mail",
+        "office",
+        "SharePoint",
+        "Windows 7",
+        "migration",
+        "network hardware",
+        "network",
+        "Operating Systems",
+        "operating system",
+        "Optimization",
+        "order management",
+        "PBX",
+        "PC hardware",
+        "peripherals",
+        "policies",
+        "Project Management",
+        "Reuters",
+        "Routers",
+        "sales",
+        "securities",
+        "servers",
+        "strategy",
+        "Switches",
+        "teamwork",
+        "telecommunications",
+        "Trading Systems",
+        "trading system",
+        "Trend",
+        "upgrades",
+        "upgrade",
+        "Vendor Relations",
+        "video conferencing",
+        "VPN",
+        "VM",
+        "VoIP"
+      ]
+    }
+  ]
+}

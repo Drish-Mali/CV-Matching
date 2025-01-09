@@ -1,0 +1,137 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Health Advocate",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "I am an empowered health advocate with excellent communication and active listening skills with a strong motivation to succeed. I am seen as reliable and approachable employee who quickly learns and masters new concepts and skills. I am motivated and enthusiastic about helping patients and the community navigate rights and responsibilities during treatment. Personable demeanor with priority on care and service. Seen as a friendly team player with talent for operating in fast-paced, dynamic environments.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": [
+    ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Health Advocate",
+      "url": "",
+      "startDate": "2017-03",
+      "endDate": "Current",
+      "summary": "Assisted patients in understanding individual rights and responsibilities in regards to care, coverage and payment. Reviewed all patient paperwork for accuracy, including claims, bills and medico-legal documents. Responded to patient concerns and questions with compassionate and knowledgeable service. Entered details into computer systems and managed database of information. Compiled and reviewed medical charts. Manages incoming calls, emails, and faxes per day from patients and pharmacies. Used Lytec to schedule appointments. Balanced deposits and credit card payments each day. Took co-payments and compiled daily financial records. Worked effectively with staff from all departments to coordinate resolutions",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Security Officer",
+      "url": "",
+      "startDate": "2015-08",
+      "endDate": "2017-02",
+      "summary": "Monitored and authorized entrance and departure of vehicles, cargo trucks and visitors. Detected suspicious activities and watched for criminal acts and rule infractions. Wrote reports on property damage, theft, presence of unauthorized persons and unusual occurrences. Patrolled industrial and commercial premises to prevent and detect signs of intrusion and secure doors, windows and gates. Checked and secured building entrances over hours. Patrolled square miles premises to ensure safety of employees and visitors.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [
+  ],
+  "education": [
+    {
+      "institution": "East Stroudsburg University",
+      "url": "",
+      "area": "Psychology",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "2017-04",
+      "score": "3.4",
+      "courses": []
+    }
+  ],
+  "awards": [
+  ],
+  "certificates": [
+    {
+      "name": "CPR Certified",
+      "date": "2015-01-01",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "First Aid Training",
+      "date": "2015-01-01",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "publications": [
+  ],
+  "skills": [
+    {
+      "name": "Public Safety",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Administrative Support",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Proficient in Lytec",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Proficient in GSuite",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Patient rights",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Data entry",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Time management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Problem-solving skills",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Decision-making abilities",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Crisis intervention",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Crisis communication",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+  ],
+  "interests": [
+  ],
+  "references": [
+  ],
+  "projects": [
+  ]
+}

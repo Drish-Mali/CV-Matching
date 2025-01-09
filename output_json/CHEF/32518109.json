@@ -1,0 +1,100 @@
+{
+  "basics": {
+    "name": "Not Provided",
+    "label": "Chef",
+    "image": "",
+    "email": "Not Provided",
+    "phone": "Not Provided",
+    "url": "Not Provided",
+    "summary": "Highly organized and efficient in fast-paced multitasking environments; able to prioritize effectively to accomplish objectives with creativity, enthusiasm and humor. An experienced supervisor and trainer; able to explain information clearly, recognize excellence in individuals, and inspire team members to achieve their potential while working toward common goals.",
+    "location": {
+      "address": "Not Provided",
+      "postalCode": "Not Provided",
+      "city": "Not Provided",
+      "countryCode": "Not Provided",
+      "region": "Not Provided"
+    }
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Chef",
+      "url": "Not Provided",
+      "startDate": "2009-07-01",
+      "endDate": "2014-07-01",
+      "summary": "Prepared food items consistently and in compliance with recipes, portioning, cooking and waste control guidelines. Led shifts while personally preparing food items and executing requests based on required specifications."
+    },
+    {
+      "name": "Company Name",
+      "position": "Laborer",
+      "url": "Not Provided",
+      "startDate": "2014-06-01",
+      "endDate": "2014-08-01",
+      "summary": "Loaded and unloaded building materials used for construction. Manually carried roofing materials up ladders. Consistently assumed additional responsibilities and worked extended hours to meet project deadlines."
+    },
+    {
+      "name": "Company Name",
+      "position": "Laborer & Crew Manager",
+      "url": "Not Provided",
+      "startDate": "2015-06-01",
+      "endDate": "2016-08-01",
+      "summary": "Handled scheduling for crewman and arrival times for clients. Maintained a safe work environment for crewmen. Led crews of up to four people and partnered on crews up to eight."
+    }
+  ],
+  "education": [
+    {
+      "institution": "New London High School",
+      "url": "Not Provided",
+      "area": "General Education",
+      "studyType": "High School Diploma",
+      "startDate": "Not Provided",
+      "endDate": "Not Provided",
+      "score": "Not Provided"
+    },
+    {
+      "institution": "University of Wisconsin - Stout",
+      "url": "Not Provided",
+      "area": "IT - Management",
+      "studyType": "Not Provided",
+      "startDate": "Not Provided",
+      "endDate": "Not Provided",
+      "score": "Not Provided"
+    },
+    {
+      "institution": "Fox Valley Technical College",
+      "url": "Not Provided",
+      "area": "IT - Computer Support Specialist",
+      "studyType": "Associate Degree",
+      "startDate": "Not Provided",
+      "endDate": "Not Provided",
+      "score": "Not Provided"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Team Player",
+      "level": "Not Provided",
+      "keywords": []
+    },
+    {
+      "name": "Physically active",
+      "level": "Not Provided",
+      "keywords": []
+    },
+    {
+      "name": "Out-going",
+      "level": "Not Provided",
+      "keywords": []
+    },
+    {
+      "name": "Willingness to learn",
+      "level": "Not Provided",
+      "keywords": []
+    },
+    {
+      "name": "Shows Initiative",
+      "level": "Not Provided",
+      "keywords": []
+    }
+  ]
+}

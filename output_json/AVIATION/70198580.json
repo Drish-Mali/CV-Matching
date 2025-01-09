@@ -1,0 +1,136 @@
+{
+  "basics": {
+    "name": "Name not provided",
+    "label": "Aviation Supply Technician",
+    "image": "",
+    "email": "Email not provided",
+    "phone": "Phone not provided",
+    "url": "URL not provided",
+    "summary": "Supply Chain and Operations manager with invaluable knowledge of managing projects, resources and staff in an effective and efficient manner. Highly focused with a comprehensive understanding of operations management, contracting, logistics, procurement, and supply chain. Proven track record of employing the best practices that improve efficiency, reduce operating cost while increasing performance within a budget. Committed to identifying and implementing continuous improvements in operations.",
+    "location": {
+      "address": "Address not provided",
+      "postalCode": "Postal Code not provided",
+      "city": "City not provided",
+      "countryCode": "Country Code not provided",
+      "region": "Region not provided"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "company": "Company Name",
+      "position": "Aviation Supply Technician",
+      "url": "URL not provided",
+      "startDate": "July 2011",
+      "endDate": "December 2014",
+      "summary": "Oversaw the day-to-day activities of transportation employees and other logistic operations. Conducted qualitative and quantitative analysis of logistics operations using simulation models and other tools."
+    },
+    {
+      "company": "Company Name",
+      "position": "Program Support Clerk",
+      "url": "URL not provided",
+      "startDate": "March 2010",
+      "endDate": "July 2011",
+      "summary": ""
+    },
+    {
+      "company": "Company Name",
+      "position": "Letter Carrier",
+      "url": "URL not provided",
+      "startDate": "September 2009",
+      "endDate": "March 2010",
+      "summary": ""
+    },
+    {
+      "company": "Company Name",
+      "position": "Supply Chain Management Technician/ Aircraft Maintenance",
+      "url": "URL not provided",
+      "startDate": "July 2003",
+      "endDate": "July 2009",
+      "summary": ""
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Phoenix",
+      "url": "URL not provided",
+      "area": "Management",
+      "studyType": "MBA",
+      "startDate": "2012",
+      "endDate": "2014",
+      "score": "Score not provided",
+      "courses": [
+        "Coursework in Business, Management and Communications"
+      ]
+    },
+    {
+      "institution": "University of Phoenix",
+      "url": "URL not provided",
+      "area": "Integrated Supply Chain and Operations Management",
+      "studyType": "BBA",
+      "startDate": "2010",
+      "endDate": "2012",
+      "score": "Score not provided",
+      "courses": [
+        "Coursework in Business, Supply Chain management"
+      ]
+    },
+    {
+      "institution": "St. Augustine High School",
+      "url": "URL not provided",
+      "area": "High School",
+      "studyType": "Diploma",
+      "startDate": "Year not provided",
+      "endDate": "2001",
+      "score": "Score not provided",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Operations and Supply Chain Management",
+      "level": "Expert",
+      "keywords": [
+        "Strategic planning",
+        "Contract management",
+        "Global and strategic sourcing",
+        "Negotiations",
+        "Productivity improvement",
+        "Procedure development",
+        "Analytical",
+        "Dedicated",
+        "Personable",
+        "Microsoft Office Suite",
+        "Team building",
+        "Troubleshooting and problem solving",
+        "Cost reduction and containment",
+        "Contract review and recommendations",
+        "Multi-site operations",
+        "Client relationships",
+        "Process improvement strategies",
+        "Budget development",
+        "Inventory control",
+        "Prepare reports, charts, and briefings",
+        "Initiative and leadership",
+        "Supply Chain Management fundamentals",
+        "Interfacing departments' processes and priorities",
+        "Performance improvement and equipment reliability focus"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "New Orleans Federal Executive Board's Distinguished Service Award",
+      "date": "May 2011",
+      "awarder": "Not provided",
+      "summary": "Outstanding Administrative Support Achievement Award"
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "volunteer": [],
+  "certificates": [],
+  "publications": [],
+  "projects": []
+}

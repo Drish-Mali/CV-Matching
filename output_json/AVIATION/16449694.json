@@ -1,0 +1,96 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Financial Technician",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Diligent and driven Financial Technician who has achieved success in a variety of roles with increasing levels of responsibility. An effective communicator and team-builder with strong analytical, management and organizational skills.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Financial Technician",
+      "url": "",
+      "startDate": "2010-05",
+      "endDate": "Current",
+      "summary": "Verified and reconciled budget accounts for 8 various class submarines totaling over 20 million dollars annually. Reviewed and updated daily, and monthly BOR (Budget Operating Report), and OPTAR (Operating Target Report). Perform weekly safety training and maintain a safe working environment for 8 personnel during normal working hours. Ensure all obligated expenditures are in agreement with the monthly financial, and unfilled order listings. Utilize the following Navy accounting systems; Standard Account Systems, Fleet (STARS FL), Submarine and Logistics Data Base (SLDB), One-touch, WEB LIPS, VLIPS, ERP.",
+      "highlights": [
+        "Fiscal budgeting knowledge",
+        "Analytical",
+        "Strong communication skills",
+        "Effective time management",
+        "Accounting operations professional",
+        "Inspiring team leader",
+        "Natural leader",
+        "People-oriented",
+        "Exceptional problem solver",
+        "Safety-oriented",
+        "Customer-service focused",
+        "Flexible",
+        "HAZMAT training",
+        "Reliable"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Material Handler",
+      "url": "",
+      "startDate": "2006-10",
+      "endDate": "2010-05",
+      "summary": "Performed various duties that involved analytical or managerial work associated with receiving, handling, maintaining and controlling material. Controlled the combination to the walk in vault were Classified Material is kept until properly turned over to the appropriate personnel. Handled and stored the following material: Level 1/Sub-Safe Material, Naval Reactor Plant components, Strategic Weapons Systems material, Trident planned Equipment Replacement (TRIPER), Depot level Repairable (DLR). Properly training new employees on the safe use of MHE (Material Handling Equipment) while offloading trailers trucks, flatbed trucks.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Valdosta State University",
+      "url": "",
+      "area": "Adult Work force Education",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "2015",
+      "score": "GPA: 3.68",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Financial Knowledge",
+      "level": "",
+      "keywords": [
+        "Fiscal budgeting knowledge",
+        "Analytical",
+        "Strong communication skills",
+        "Effective time management",
+        "Accounting operations professional",
+        "Inspiring team leader",
+        "Natural leader",
+        "People-oriented",
+        "Exceptional problem solver",
+        "Safety-oriented",
+        "Customer-service focused",
+        "Flexible",
+        "HAZMAT training",
+        "Reliable"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

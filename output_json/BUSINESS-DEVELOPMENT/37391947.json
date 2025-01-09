@@ -1,0 +1,98 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Business Development Specialist",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Retirement Benefits Specialist with over 10 years experience administering benefits for large corporations and government employees, delivering solutions at varying levels as they pertain to the diverse knowledge base of the employees I assist.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "US",
+      "region": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Business Development Specialist",
+      "url": "",
+      "startDate": "2016-04-01",
+      "endDate": "2016-05-01",
+      "summary": "Contacted prospective customers from internet inquiries or unsold showroom visits at Capital Ford to determine reason for not purchasing a vehicle . Attempted to re-schedule an appointment with a salesperson to complete transaction."
+    },
+    {
+      "name": "Company Name",
+      "position": "Cashier/Office Support Staff",
+      "startDate": "2015-04-01",
+      "endDate": "2016-02-01",
+      "summary": "Assisted customers with purchases, maintained daily deposits, dispersed trucks to surplus pick up requests through SPMS system, maintained inventory , answered incoming calls, researched any inventory items and their disposal. Maintained departmental purchase files as well as daily receipts and pick up requests.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Data Collection Interviewer",
+      "startDate": "2015-03-01",
+      "endDate": "2015-04-01",
+      "summary": "The survey examines access to the health system, health status, and health determinant characteristics of Ohio's Medicaid program for Medicaid eligible and non Medicaid populations. Made outbound calls to respondents to conduct social science survey using a script, and adding the data collected from the respondents into computer system while speaking to the respondent.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Louisburg College",
+      "url": "",
+      "area": "Science",
+      "studyType": "Associate of Science",
+      "startDate": "1979-08-01",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Benefits administration",
+      "level": "",
+      "keywords": [
+        "Benefits administrator",
+        "benefits",
+        "benefits administration",
+        "call center",
+        "clients",
+        "customer satisfaction",
+        "Customer Service",
+        "documentation",
+        "human resources",
+        "HR",
+        "IBM",
+        "insurance",
+        "investments",
+        "access",
+        "Excel",
+        "Outlook",
+        "Word",
+        "Personnel",
+        "pick",
+        "policies",
+        "speaking",
+        "quality assurance",
+        "research",
+        "script",
+        "phone"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "certificates": [],
+  "awards": [],
+  "publications": [],
+  "volunteer": []
+}

@@ -1,0 +1,91 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Research Molecular/Research Microbiologist/Research Ecologist (Research Associate)",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Fully credentialed LPN with experience providing compassionate care in a hospital environment. Experienced LPN licensed in AZ with strong clinical and people skills.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+   {
+      "name": "Company Name",
+      "position": "Research molecular/Research Microbiologist/Research Ecologist (Research Associate)",
+      "url": "",
+      "startDate": "2012-07-01",
+      "endDate": "2015-07-01",
+      "summary": "Inspected, tested and measured materials, products and installations to spec...",
+      "highlights": []
+   }
+  ],
+  "education": [
+    {
+      "institution": "Brown-Mackie College",
+      "url": "",
+      "area": "Nursing",
+      "studyType": "Certificate",
+      "startDate": "",
+      "endDate": "2015",
+      "score": "3.5",
+      "courses": [ "Coursework in Nursing" ]
+    },
+    {
+      "institution": "Phoenix College",
+      "url": "",
+      "area": "EMT-B",
+      "studyType": "Certificate",
+      "startDate": "",
+      "endDate": "2001",
+      "score": "3.7",
+      "courses": [ "Coursework in EMT-B" ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Cash handling",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "volunteer": [
+    {
+      "organization": "Habitat For Humanity",
+      "position": "",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Licensed LPN",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "publications": [
+    {
+      "name": "HIPPA",
+      "publisher": "",
+      "releaseDate": "",
+      "url": "",
+      "summary": ""
+    }
+  ]
+}

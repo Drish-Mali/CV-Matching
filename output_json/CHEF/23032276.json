@@ -1,0 +1,118 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Executive Chef",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Energetic culinary professional with a blend of creativity, passion for food and exceptional cooking skills. Works well as a dynamic leader in high-pressure settings.� A career that includes everything from small fast casual to high end dining and catering.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Executive Chef",
+      "url": "",
+      "startDate": "03/2014",
+      "endDate": "Current",
+      "summary": "Accountable for every aspect of all Food and Beverage budgets. Responsible for ordering all china, glass, silverware, and all smallwares. Responsible for all kitchen training including recipe use, grill, saut�, fry, steam, garde manger, knife handling, equipment use, and Safety and Sanitation (Serv-Safe Certified). Monitored all ordering of food, constant developing of vendor relations, quality control on all food products, managed systems including daily check lists, cooler/freezer logs, HACCP logs, schedules, and weekly safety meetings with initial and continual employee training. Nearly all food produced in house to include pastries, bread, salad dressings, etc. Developed menus, pricing and special food offerings to increase revenue and customer satisfaction.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Food Production Coordinator",
+      "url": "",
+      "startDate": "02/2013",
+      "endDate": "03/2014",
+      "summary": "Minimized expenses by utilizing production logs, correct patient counts, and well-trained staff. Helped to redesign current cafeteria line and menu to include customer based concepts and ideas. Prepared food items consistently and in compliance with recipes, portioning, cooking and waste control guidelines. Verified proper portion sizes and consistently attained high food quality standards. Maintained a skilled kitchen staff by properly coaching, counseling and disciplining employees. Instructed new staff in proper food preparation, food storage, use of kitchen equipment and utensils, sanitation and safety issues.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "National Institute for Culinary Arts at Mountain State University",
+      "url": "",
+      "area": "Culinary Arts",
+      "studyType": "Associate of Science",
+      "startDate": "",
+      "endDate": "2012",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Health Communications Inc",
+      "url": "",
+      "area": "Alcohol Awareness",
+      "studyType": "TIPS Certification",
+      "startDate": "",
+      "endDate": "2003",
+      "score": "",
+      "courses": [
+        "Club Management",
+        "Food Safety",
+        "Nutrition"
+      ]
+    },
+    {
+      "institution": "Technical Vocational Institute",
+      "url": "",
+      "area": "",
+      "studyType": "Courses",
+      "startDate": "",
+      "endDate": "2001",
+      "score": "",
+      "courses": [
+        "Club Management",
+        "Food Safety",
+        "Nutrition"
+      ]
+    },
+    {
+      "institution": "Chippewa Valley Technical College",
+      "url": "",
+      "area": "",
+      "studyType": "Serv-Safe Certification",
+      "startDate": "1",
+      "endDate": "1995",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Highly organized",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Creativity in menu planning and presentation",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Excellent communicator",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Proficient in MS Office including Word, Excel, Powerpoint, and Outlook",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

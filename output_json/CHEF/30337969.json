@@ -1,0 +1,95 @@
+{
+  "basics": {
+    "name": "Data Not Available",
+    "label": "Environmental Scientist & Personal Chef",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Motivated Environmental Scientist and Personal Chef with both a Bachelor's degree in Biology and an MBA. Experienced entrepreneur with a proven ability in market opportunity detection, business expansion, client base build-up, and revenue increase.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "",
+      "region": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Owner, Personal Chef",
+      "url": "",
+      "startDate": "2006-01-01",
+      "endDate": "2014-01-01",
+      "summary": "Established successful marketing and sales strategies. Managed entire selling cycle from acquisition of new clients, needs assessment, bid proposal and pricing, to negotiations, sales closing and follow-up. Winner of local Blue Water Area Chamber of Commerce 'Freshwater Flavors Award' during first year of business.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Environmental Scientist",
+      "url": "",
+      "startDate": "2001-01-01",
+      "endDate": "2006-01-01",
+      "summary": "Performed Phase I and II Environmental Site Assessments, National Environmental Policy Act Reviews and Real Estate Transaction Screens. Interpretation of analytical results, development of corrective actions and presentation of findings in formal reports.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Michigan",
+      "url": "",
+      "area": "Business Administration",
+      "studyType": "Master",
+      "startDate": "",
+      "endDate": "2003-05-01",
+      "score": "6.8/8.0",
+      "courses": ["Marketing Management", "Principles of Finance", "Communication in Organization","Strategic Management","Human Resource Management"]
+    },
+    {
+      "institution": "Wayne State University",
+      "url": "",
+      "area": "Biology",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "1999-05-01",
+      "score": "",
+      "courses": ["Physiology", "Chemistry", "Microbiology", "Genetics", "Neurobiology"]
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Certified Hazardous Materials Manager",
+      "date": "2004-01-01",
+      "issuer": "Not Available",
+      "url": ""
+    },
+    {
+      "name": "Accredited Asbestos Building Inspector - Michigan",
+      "date": "2003-01-01",
+      "issuer": "Not Available",
+      "url": ""
+    },
+    {
+      "name": "OSHA 29 CFR 191.120 40-hour Hazardous Waste Training",
+      "date": "2002-01-01",
+      "issuer": "Not Available",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "General Skills",
+      "level": "",
+      "keywords": ["Accounting", "Biology", "Budgeting", "Business Administration", "Business Development", "Chemistry", "Client Relationship Management", "Environmental Science", "Finance", "Genetics", "Human Resource Management", "Interpretation", "Marketing", "Project Management", "Real Estate", "Research", "Sales", "Strategic Management"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

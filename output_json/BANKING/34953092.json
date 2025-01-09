@@ -1,0 +1,143 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Corporate Banking Assistant, Intern",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Dynamic and self-motivated Financial Data Analyst with diverse expertise in programming, mathematics and finance. Has extensive experience of assisting in the development and upgrading of database systems and analytical techniques. A quick learner who can absorb new ideas and can communicate clearly and effectively.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Corporate Banking Assistant, Intern",
+      "url": "",
+      "startDate": "2015-05-01",
+      "endDate": "2015-08-01",
+      "summary": "Wrote commercial mortgage recommendation reports for risk management, including properties appraisals, cash flow analysis, asset coverage analysis, RAROC analysis and sensitivity analysis.",
+      "highlights": [
+        "Researched U.S small medium enterprises using SQL for novel financial products.",
+        "Optimized commercial loan clients information management by developing Updatable Documentation Notification System using VBA."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Office Assistant, Intern",
+      "url": "",
+      "startDate": "2012-06-01",
+      "endDate": "2012-08-01",
+      "summary": "Developed customers feedback system using VBA to optimize working procedures, and improved working efficiency for Low Interest Rate Bond Team by 20%.",
+      "highlights": [
+        "Developed customers feedback system using VBA to optimize working procedures.",
+        "Updated standardized procedures by interviewing employees and building statistic model."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Undergraduate Researcher",
+      "url": "",
+      "startDate": "2011-03-01",
+      "endDate": "2012-05-01",
+      "summary": "Created image classification solutions by differentiating background and size of target objects, and improved image processing speed by 30% as well as cut down the research cost.",
+      "highlights": [
+        "Labeled out wild animals's body coordinates on images.",
+        "Assisted in developing supervised machine learning algorithm for Computational and Informatics Tools for Collaborative Wildlife Monitoring Program."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Assistant Analyst, Intern",
+      "url": "",
+      "startDate": "2010-06-01",
+      "endDate": "2010-07-01",
+      "summary": "Researched China mobile market by gathering annual mobile productivity data from Ministry of Industry and Information Technology of China, as well as assisted in edition of industry report based on analysis from JP Morgan and Bloomberg.",
+      "highlights": [
+        "Participated in the financial due-diligence of Benshan Media and its subsidiary companies.",
+        "Developed a time-saving method for the re-organization process to different target companies."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Missouri-Columbia",
+      "url": "",
+      "area": "Computer Engineering",
+      "studyType": "Master",
+      "startDate": "",
+      "endDate": "2016",
+      "score": "3.46/4.0",
+      "courses": []
+    },
+    {
+      "institution": "University of Missouri-Columbia",
+      "url": "",
+      "area": "Finance and Banking",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "2013",
+      "score": "",
+      "courses": [
+        "Minor in Mathematics"
+      ]
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Programming",
+      "level": "Proficient",
+      "keywords": [
+        "C/C++",
+        "Python",
+        "MATLAB",
+        "SQL",
+        "R",
+        "LUA",
+        "VBA"
+      ]
+    },
+    {
+      "name": "Machine Learning",
+      "level": "Proficient",
+      "keywords": [
+        "Supervised Learning",
+        "Unsupervised Learning",
+        "Deep Neural Networks"
+      ]
+    },
+    {
+      "name": "Finance",
+      "level": "Proficient",
+      "keywords": [
+        "Corporate Banking",
+        "Financial Forecasting",
+        "Financial Analysis"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Chinese",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

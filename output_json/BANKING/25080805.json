@@ -1,0 +1,164 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Intern",
+    "email": "",
+    "phone": "",
+    "summary": "Experiences collecting and analyzing data with statistical methods, familiar with R and SAS programing, great knowledge of experiment design, sampling techniques and documents management. Strong skills in communication, group-working and work-planning.",
+    "location": {
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Internship",
+      "startDate": "May 2014",
+      "endDate": "August 2014",
+      "summary": "Collect, enter and analyze stock prices. Predict the future trend of stocks and categorize them. Writing summary report and customer service. Design questionnaires and collect feedback.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Internship",
+      "startDate": "May 2013",
+      "endDate": "August 2013",
+      "summary": "Data collection and entering. Writing summary report and customer service. Inventory control and arrangement of the business trip.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Internship",
+      "startDate": "November 2012",
+      "endDate": "March 2013",
+      "summary": "Data collection and entering. Writing summary report and customer service. Meeting preparation and introducing products to customers.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Missouri",
+      "area": "Statistics",
+      "studyType": "Master of Science",
+      "startDate": "",
+      "endDate": "2015",
+      "score": "3.7",
+      "courses": [
+        "Practical statistical models",
+        "Data analysis 1, 2, 3",
+        "Statistical software and data analysis",
+        "Introduction of probability theory",
+        "Statistical inference",
+        "Time series analysis",
+        "Survival analysis",
+        "Experimental design",
+        "Current development in statistics"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Merit of certificate award for excellent grade",
+      "date": "2014",
+      "awarder": "University of Missouri",
+      "summary": "Top 10% in the spring semester of 2014"
+    },
+    {
+      "title": "Merit of certificate award for excellent performance",
+      "date": "2014",
+      "awarder": "Chinese students and scholars association in the university of Missouri",
+      "summary": "Leader of executive department in the Fall semester of 2014"
+    },
+    {
+      "title": "Merit of certificate award for excellent performance",
+      "date": "2014",
+      "awarder": "Chinese students and scholars association in the university of Missouri",
+      "summary": "Vice president in the Fall semester of 2014-2015"
+    },
+    {
+      "title": "Merit of certificate award for excellent performance",
+      "date": "2015",
+      "awarder": "Chinese students and scholars association in the university of Missouri",
+      "summary": "President in the spring semester of 2015"
+    }
+  ],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "SAS, R and SSPS programming",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Team leadership",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Organizational planning",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Word, Excel, PowerPoint",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Customer-oriented",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Excellent research skills",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Excellent quantitative skills",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": [
+    {
+      "name": "The Relationship between the Mathematical Grade of the Seventh Grade and Grades from Primary School",
+      "startDate": "January 2014",
+      "endDate": "March 2014",
+      "description": "Use of linear model to fit transformed variables from the data after getting rid of useless columns, choose the most significant variables to form the final model based on persuasive diagnostic values. Findings showed the mathematical grade of the seventh grade is significantly influenced by the reading, counting and logistic ability at the first and second grade in the primary school.",
+      "url": ""
+    },
+    {
+      "name": "Bike Rental Prediction",
+      "startDate": "May 2014",
+      "endDate": "August 2014",
+      "description": "Regression model construction using different statistical method, finding the most powerful model decided by finding the least error rate, and deciding which variables significantly enough to build the model. Lasso was used to make the regression, it gives the least error rate and use the almost original data set, it saves a lot of time to deal with the original data set.",
+      "url": ""
+    },
+    {
+      "name": "Classify Song Release Period",
+      "startDate": "September 2014",
+      "endDate": "October 2014",
+      "description": "Classification model construction to classify a specific song into the year before or after the year 1986 based on 90 attributes of a single song and 6480 songs. Multivariate adaptive regression splines was used to build the model and based on the final classification model, if the song is from before or after on 1986 depends mostly on the artists who create them, secondary on properties they tagged by famous music website and finally on properties of their track.",
+      "url": ""
+    },
+    {
+      "name": "Predict the Lightening Strikes in July",
+      "startDate": "November 2014",
+      "endDate": "December 2014",
+      "description": "Initial clustering of data based on lightening strike records and the moisture records with the method of K-mean and Hierarchical method. Using different statistical method to find the best model to predict the strikes will happen. Based on the moisture data to form the cluster and use the neural network is a better way for prediction to get a smaller MSE, and lightning strike have direct relationship with the soil moisture level and the climate indices.",
+      "url": ""
+    },
+    {
+      "name": "Predict the Daily Stock Price of Netflix Inc.",
+      "startDate": "November 2014",
+      "endDate": "December 2014",
+      "description": "Use of GARCH model to fit the transformed data and finally choose the GARCH plus ARMAR model to make the forecasting. The model shows an uptrend in the future about this stock and this is an appropriate time to buy this piece of stock.",
+      "url": ""
+    }
+  ]
+}

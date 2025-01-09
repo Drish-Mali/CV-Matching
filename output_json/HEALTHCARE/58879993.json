@@ -1,0 +1,116 @@
+{
+  "basics": {
+    "name": "anon",
+    "label": "Healthcare Marketing Specialist",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "An innovative, customer-oriented Healthcare Administrator with a background in primary care and experience supporting a team of physicians in a busy medical office. Expertise includes verifying insurance coverage, records reviews, marketing and schedule maintenance. Searching for a leadership role in a team oriented company.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "CompanyName",
+      "position": "Healthcare Marketing Specialist",
+      "url": "",
+      "startDate": "2017-07-01",
+      "endDate": "current",
+      "summary": "Analyzed performance of marketing program to identify the best opportunities for optimization. Established production schedules and communicated project to stakeholders. Increased patient traffic by 5%. Managed all social media forums, including the company website, social networking applications and message boards."
+    },
+    {
+      "name": "CompanyName",
+      "position": "Healthcare Admin Intern",
+      "url": "",
+      "startDate": "2017-02-01",
+      "endDate": "2017-06-01",
+      "summary": "Scheduled appointments and registered patients. Recorded and filed patient data and medical records."
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Food Drive, Mount of Salvation Church",
+      "position": "Volunteer",
+      "url": "",
+      "startDate": "2012-01-01",
+      "endDate": "2012-12-31",
+      "summary": ""
+    },
+    {
+      "organization": "ECO City Farms",
+      "position": "Volunteer",
+      "url": "",
+      "startDate": "2014-01-01",
+      "endDate": "2014-12-31",
+      "summary": ""
+    }
+  ],
+  "education": [
+    {
+      "institution": "Pennsylvania College of Health Sciences",
+      "url": "",
+      "area": "Healthcare Administration",
+      "studyType": "Bachelor of Science",
+      "startDate": "2013-01-01",
+      "endDate": "2017-01-01",
+      "score": "",
+      "courses": [
+        "Coursework in Epidemiology",
+        "Coursework in Statistics",
+        "Coursework in Health Care Policy & Planning",
+        "Coursework in Ethical Issues in Health Care"
+      ]
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Healthcare Administration",
+      "level": "Expert",
+      "keywords": [
+        "Superb communication skills",
+        "Knowledge of Medicare, Medicaid, EEOC, HIPPA, FMLA & ADA",
+        "Excellent interpersonal skills",
+        "Management & Marketing experience",
+        "Conflict resolution skills",
+        "Efficient under pressure",
+        "Customer and personal service",
+        "Cultural awareness and sensitivity",
+        "Medical Terminology",
+        "Strong work ethic"
+      ]
+    },
+    {
+      "name": "Technical Skills",
+      "level": "Expert",
+      "keywords": [
+        "Electronic Medical Database",
+        "Microsoft PowerPoint",
+        "Microsoft Excel",
+        "Microsoft Word",
+        "Microsoft Publisher",
+        "Adobe Dream Weaver",
+        "Adobe Photoshop",
+        "Microsoft Outlook",
+        "Windows",
+        "Adobe Premiere",
+        "Adobe Acrobat",
+        "GIMP",
+        "Adobe Reader"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

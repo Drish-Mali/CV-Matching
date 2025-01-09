@@ -1,0 +1,106 @@
+{
+  "basics": {
+    "name": "Unnamed",
+    "label": "Operations Finance Director",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Skilled financial professional with over twenty years of financial services industry and fifteen years of practical management experience. Highly detail-oriented and organized. Areas of expertise include conflict management, customer service, marketing and client interface.",
+    "location": {
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Operations Finance Director",
+      "url": "",
+      "startDate": "2016-01",
+      "endDate": "Current",
+      "summary": "Planned and executed operational audits of various business areas using risk-based audit methodology. Created executive analysis reports highlighting business issues, potential risks and profit opportunities. Developed and implemented efficient accounting, financial and operational systems. Generated new accounts by implementing effective networking and content marketing strategies. Reviewed new customer orders and requests and manually entered data into a centralized database.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Managing Director - Head Of Trading Floor Operations",
+      "url": "",
+      "startDate": "2009-02",
+      "endDate": "2015-10",
+      "summary": "Supervised and managed all daily operational trading floor activities, all trading floor staff and all trading floor broker operations on the San Francisco trading floor. Worked with FINRA Floor staff to enforce trading floor rules. Responsible for enforcement of trading floor rules and regulation for open out-cry trading. Developed strategy for internal and external regulatory examinations, collaborated with internal and external audit and market compliance.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Diablo Valley College",
+      "url": "",
+      "area": "History",
+      "studyType": "Associate of Arts",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Los Medanos Collage",
+      "url": "",
+      "area": "Economics / Spanish",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Certified Trading Floor Broker Certificate - NYSE-REG",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "MBCI ( Member Business Continuity Institute) 2009-2015",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Financial Services",
+      "level": "",
+      "keywords": [
+        "Benefits",
+        "budgets",
+        "business planning",
+        "monthly",
+        "quarterly billing",
+        "flow charts",
+        "conflict resolution",
+        "database",
+        "documentation",
+        "hiring",
+        "HR generalist",
+        "inventory control",
+        "legal research",
+        "Microsoft Office",
+        "SQL",
+        "operations management"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Fluent reading/writing/professional level"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

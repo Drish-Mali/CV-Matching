@@ -1,0 +1,106 @@
+{
+  "basics": {
+    "name": "Executive Chef",
+    "label": "chef and culinary arts student",
+    "summary": "Outgoing professional offering extensive knowledge of hospitality etiquette, food preparation and superior customer service. A restaurant professional with years in FOH and BOH operations. Detailed-oriented with strong time management skills.",
+    "location": {
+      "city": "City",
+      "region": "State"
+    },
+    "skills": [
+      {
+        "name": "Culinary Skills",
+        "level": "Master",
+        "keywords": [
+          "Highly responsible and reliable",
+          "Point of Sale (POS) system operation",
+          "Works well under pressure",
+          "Exceptional interpersonal skills",
+          "MS Office Suite, POS Touch, Windows 7, Outlook and Excel spreadsheets expertise",
+          "Food and beverage specialist",
+          "Master of sales techniques"
+        ]
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Executive Chef",
+      "startDate": "2007-01-01",
+      "endDate": "2016-02-01",
+      "summary": "Catering Expert specializing in special events. Consulting Chef Food E-Commerce service. Responsible for managing culinary operations which includes recipe preparation and presentation, food consumption estimation, food purchase requisitioning and ensuring safety regulations. Managed catered boardroom events and both food and non-food inventories. Provided high quality customer service and satisfaction.",
+      "highlights": [
+        "Over 12 years of experience in managing food operations as an Executive Kitchen Manager",
+        "Expert in managing new restaurant openings",
+        "Strong troubleshooting abilities to identify problems and implement appropriate solutions",
+        "Culinary Certified in food preparation and presentation",
+        "Created menus featuring various cuisines including Italian, Southern, American and Mexican Cuisines",
+        "Outstanding leadership skills proven through earned awards and employee relationships"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Executive Kitchen Managers",
+      "startDate": "2000-01-01",
+      "endDate": "2007-01-01",
+      "summary": "Collaborated with General Manager on all restaurant operations which includes managing customer service & wait staff, supervising daily activities, managing food and labor costs. Ensured adherence to health code. Consistently achieved bonuses for meeting and exceeding sales & cost controls quotas."
+    },
+    {
+      "name": "Company Name",
+      "position": "Executive Kitchen Managers",
+      "startDate": "1983-01-01",
+      "endDate": "1999-01-01",
+      "summary": "Responsible for the BOH operations. Managed 38 employees and inspected work performance, safety and hygiene according to government regulations. Ensured accurate food consumption and requisitioning of supplies. Assisted in the Grand Opening of eight new restaurants."
+    }
+  ],
+  "education": [
+    {
+      "institution": "GEORGIA INSTITUTE OF TECHNOLOGY",
+      "area": "Marketing",
+      "studyType": "Bachelor",
+      "startDate": "1980-01-01",
+      "endDate": "1984-01-01",
+      "courses": [
+        "Coursework in Business Management and Operations",
+        "Coursework in Culinary Management and Food and Beverage Operations Management"
+      ]
+    },
+    {
+      "institution": "ATLANTA CULINARY TECHNICAL SCHOOL",
+      "studyType": "CERTIFIED FOOD HANDLER",
+      "courses": [ 
+        "Thorough Knowledge of HACCP Regulations"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Culinary Certified in food preparation and presentation",
+      "date": "2007-01-01",
+      "awarder": "ATLANTA CULINARY TECHNICAL SCHOOL"
+    },
+    {
+      "title": "Consistently achieved bonuses",
+      "date": "2007-01-01",
+      "awarder": "BJ's Chicago Brewery Restaurant"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Culinary",
+      "keywords": [
+        "Italian Cuisine",
+        "Southern Cuisine",
+        "American Cuisine",
+        "Mexican Cuisine"
+      ]
+    }
+  ]
+}

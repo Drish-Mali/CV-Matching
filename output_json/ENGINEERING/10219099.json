@@ -1,0 +1,76 @@
+{
+  "basics": {
+    "name": "Not specified in text",
+    "label": "Equipment Engineering Technician",
+    "image": "",
+    "email": "Not specified in text",
+    "phone": "Not specified in text",
+    "url": "Not specified in text",
+    "summary": "Skilled Maintenance Mechanic Technician with superb problem solving and multi-tasking skills. Self-directed and motivated worker. To obtain a position where Teamwork, Integrity and Professionalism are a high standard in the Company's Mission Statement. All while engaging in new challenges and learning experiences.",
+    "location": {
+      "address": "Not specified in text",
+      "postalCode": "Not specified in text",
+      "city": "Not specified in text",
+      "countryCode": "Not specified in text",
+      "region": "Not specified in text"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Equipment Engineering Technician",
+      "url": "Not specified in text",
+      "startDate": "05/2014",
+      "endDate": "Current",
+      "summary": "Responsibility for designing/selecting robotic systems, run simulation, implementation, commission and programming. Support and assist maintenance team in troubleshooting difficult breakdowns and chronic equipment failures.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Mechanical Technician",
+      "url": "Not specified in text",
+      "startDate": "04/2013",
+      "endDate": "05/2014",
+      "summary": "Implement repair services on all production equipment, auxiliary equipment and building equipment using hand tools, testing tools, manual drawings, computer and any other tools necessary to accomplish the task.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Monterey Peninsula College",
+      "url": "Not specified in text",
+      "area": "General Courses",
+      "studyType": "Not specified in text",
+      "startDate": "Not specified in text",
+      "endDate": "Not specified in text",
+      "score": "Not specified in text",
+      "courses": []
+    },
+    {
+      "institution": "San Francisco Police Academy",
+      "url": "Not specified in text",
+      "area": "Technical Diploma",
+      "studyType": "Not specified in text",
+      "startDate": "Not specified in text",
+      "endDate": "Not specified in text",
+      "score": "Not specified in text",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Proficient in PC's, MS office, 10key by touch, Customer Service skills, Forklift and Crane Certified, NDT Level II, Knowledge of mechanical test equipment, Knowledge on mechanical, pneumatic and hydraulic theory",
+      "level": "Not specified in text",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

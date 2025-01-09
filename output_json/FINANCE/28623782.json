@@ -1,0 +1,99 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Finance Specialist",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Strategic Finance & Accounting Professional with experience in extensive contracts analytics, financial statement reporting, budget optimization and customer service. Financial skill set attributes of keen attention to line itemization, deadline committed, and a dedicated business partner to internal and external customers to ensure optimal organizational objectives are met.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Finance Specialist",
+      "url": "",
+      "startDate": "June 2013",
+      "endDate": "February 2015",
+      "summary": "Forecasting business partner providing key business insights and recommendations. Assisted in annual business planning with the Planning Revenue Growth Management (PRGM) department for National Retail Sales Drug /Value channel customers. Reconciled invoices and post audits to 1010 Scan Data by package level reducing trade spend checkbook variances to scanned units by 10% in an 18 month period.",
+      "highlights": [
+        "Formally recognized by National Account Executives for excellence in financial analysis, budgeting, forecasting, and customer service.",
+        "Achieved 10% pricing submission reduction by eliminating pricing resubmissions & creating departmental Pricing Authorization Training Guide.",
+        "Reduced system liability through identification of checkbook percentages of volume conversions.",
+        "Created a checkbook Reconciliation process & training guide."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "CMA Analyst",
+      "url": "",
+      "startDate": "September 2011",
+      "endDate": "June 2013",
+      "summary": "Provided customer reconciliation process ensuring financial statement representation for Key Accounts. Processed Monthly rebate and NRS post invoice accrual payment processing.",
+      "highlights": [
+        "Communicate with internal National Sales Executives, BU Finance, A/R and Funding (General Ledger) on customer accounting and currency accuracy for P&L",
+        "Manage Off Invoice Accrual Post deduction validation, auditing, and reconciliation",
+        "Approve Rebate payments for A/P funding"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Phoenix",
+      "url": "",
+      "area": "Business Administration",
+      "studyType": "Masters",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Florida Agricultural and Mechanical University",
+      "url": "",
+      "area": "Public Management - Human Resources",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Financial Analysis",
+      "level": "",
+      "keywords": [
+        "Financial Statement Reporting", 
+        "Budget Optimization", 
+        "Contract Analytics", 
+        "Customer Service"
+      ]
+    },
+    {
+      "name": "Technical Skills",
+      "level": "",
+      "keywords": [
+        "SAP SAP", 
+        "Micro Strategy (IWR)", 
+        "Microsoft Office Suite"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

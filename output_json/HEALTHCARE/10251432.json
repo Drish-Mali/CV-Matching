@@ -1,0 +1,108 @@
+{
+  "basics": {
+    "name": "",
+    "label": "CORPORATE ADMINISTRATOR",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Successful administrative professional with 15 years of experience.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Corporate Administrator",
+      "url": "",
+      "startDate": "2009-01-01",
+      "endDate": "2017-01-01",
+      "summary": "Assisted approximately 18 engineers in the water/wastewater department working on multi-million dollar projects. Required great attention to detail while meeting multiple deadlines simultaneously. Coordinated with clients, contractors, subconsultants, and internal drafters to help keep projects running smoothly. Specific duties included: Document Processing, Bidding Administration, Construction Administration",
+      "highlights": [
+        "Great attention to detail while meeting multiple deadlines simultaneously."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Customer Service Representative",
+      "startDate": "2006-01-01",
+      "endDate": "2009-01-01",
+      "summary": "Provided full account servicing for the Sears Credit Cards Portfolio via incoming calls, including billing and payment inquiries and disputes, account maintenance, and lost/stolen cards. Consistently met and exceeded quality and sales goals.",
+      "highlights": [
+        "Consistently met and exceeded quality and sales goals."
+      ]
+    },
+    {
+      "name": "Addus HealthCare",
+      "position": "Administrative Assistant/Bookkeeper",
+      "startDate": "2000-01-01",
+      "endDate": "2003-01-01",
+      "summary": "Completed monthly billing reports and Branch Manager's Report. Billed over $500,000 monthly to contracting state agencies and clients. Reconciled billing, posted payments to clients' accounts, and prepared deposits. Prepared and approved accounts payable bills. Created documents, spreadsheets, and monthly newsletters. Completed several processes of payroll. Assisted in planning company functions. Provided support to the area manager, branch manager, and 12 other branches.",
+      "highlights": [
+        "Billed over $500,000 monthly to contracting state agencies and clients."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Boise State University",
+      "url": "",
+      "area": "Various Courses",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": [
+        "Logic",
+        "Ethics",
+        "Philosophy of Science",
+        "Precalculus",
+        "C Programming"
+      ]
+    },
+    {
+      "institution": "Kuna High School",
+      "url": "",
+      "area": "High School",
+      "studyType": "Diploma",
+      "startDate": "",
+      "endDate": "",
+      "score": "3.97",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Administration",
+      "level": "Expert",
+      "keywords": [
+        "Organized",
+        "Detail oriented",
+        "Efficient",
+        "Prioritize multiple deadlines",
+        "Work well independently",
+        "Collaborate with others",
+        "Microsoft Word",
+        "Excel",
+        "PowerPoint",
+        "Outlook",
+        "Adobe Acrobat",
+        "Type 75 WPM",
+        "Multiline phones"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

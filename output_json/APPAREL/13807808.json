@@ -1,0 +1,126 @@
+{
+  "basics": {
+    "name": "Not Provided",
+    "label": "Associate Manager of Design",
+    "email": "Not Provided",
+    "phone": "Not Provided",
+    "url": "michellehong.squarespace.com",
+    "summary": "Not Provided",
+    "location": {
+      "address": "Not Provided",
+      "postalCode": "Not Provided",
+      "city": "Not Provided",
+      "countryCode": "Not Provided",
+      "region": "Not Provided"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Designer",
+      "startDate": "2019-03",
+      "endDate": "Present",
+      "summary": "Private label cad illustrations for manufacturer, created collections, and completed various designs.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Associate Manager Of Design",
+      "startDate": "2018-02",
+      "endDate": "2019-01",
+      "summary": "Worked to create collection, plan meetings, and manage project coordination. Resulted in products sold to major retailers.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Import Designer",
+      "startDate": "2017-02",
+      "endDate": "2019-01",
+      "summary": "Not Provided",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Associate Designer",
+      "startDate": "2015-08",
+      "endDate": "2017-11",
+      "summary": "Not Provided",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Assistant Designer",
+      "startDate": "2014-06",
+      "endDate": "2015-08",
+      "summary": "Not Provided",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Assistant Graphic Designer",
+      "startDate": "2013-07",
+      "endDate": "2014-06",
+      "summary": "Not Provided",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "FIDM/Fashion Institute Of Design & Merchandising",
+      "area": "Fashion Design",
+      "studyType": "Bachelor",
+      "startDate": "Not Provided",
+      "endDate": "2013",
+      "score": "Not Provided",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Computer-Aided Design (CAD)",
+      "level": "Not Provided"
+    },
+    {
+      "name": "Product development",
+      "level": "Not Provided"
+    },
+    {
+      "name": "Sales and marketing",
+      "level": "Not Provided"
+    },
+    {
+      "name": "Project management",
+      "level": "Not Provided"
+    },
+    {
+      "name": "Motivated team player",
+      "level": "Not Provided"
+    },
+    {
+      "name": "Excellent work ethic",
+      "level": "Not Provided"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Increased J.O.A's revenue in 2019 by 30-40%",
+      "date": "2019",
+      "awarder": "Company Name",
+      "summary": "Increased J.O.A's revenue in 2019 by 30-40% during the Magic/Project Show and LA Market Week in regards to cohesive team-work with senior designer upon promotion."
+    },
+    {
+      "title": "Successfully created Chriselle Lim's collaborative 2019 spring collection",
+      "date": "2019",
+      "awarder": "Company Name",
+      "summary": "Successfully created Chriselle Lim's collaborative 2019 spring collection with J.O.A from start to finish which was exclusively sold to Nordstorm, Shopbop, and Bloomingdales."
+    }
+  ],
+  "volunteer": [],
+  "certificates": [],
+  "publications": [],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

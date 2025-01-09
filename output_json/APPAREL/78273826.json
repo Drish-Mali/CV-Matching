@@ -1,0 +1,81 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Director of Product Development",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Supervisory experience in the development and production of apparel sportswear. Experience in the management of sourcing, product development, production and technical design teams. Strong understanding of domestic and offshore sourcing. Extensive global travel for sourcing, product development, manufacturing and quality control.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Director of Product Development",
+      "url": "",
+      "startDate": "2015-07",
+      "endDate": "2016-04",
+      "summary": "Conducted analysis to address production delays which led to on time delivery of product. Successfully led key projects which resulted in proactive external communication with vendors and agents. Developed, designed and managed the production...",
+      "highlights": ["Managed all aspects of design and development..."]
+    },
+    {
+      "name": "Company Name",
+      "position": "Adjunct Faculty",
+      "url": "",
+      "startDate": "2005-01",
+      "endDate": "2012-01",
+      "summary": "Developed an advanced course curriculum for the Fashion Department...",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "California State University",
+      "url": "",
+      "area": "Clothing and Textiles. Focus in Fashion Design",
+      "studyType": "Bachelor of Arts",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Technical skills",
+      "level": "",
+      "keywords": [
+        "Adobe Illustrator",
+        "Photoshop",
+        "Excel",
+        "Power Point",
+        "Word"
+      ]
+    },
+    {
+      "name": "Soft skills",
+      "level": "",
+      "keywords": [
+        "Excellent Organizational skills",
+        "Team player",
+        "Works well under pressure"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

@@ -1,5 +1,4 @@
-*.csv
-*.json
+
 .env
 .secrets.toml
 venv

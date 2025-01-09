@@ -1,0 +1,74 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Air Traffic Controller",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Retired Air Traffic Controller with more than 32 years of experience working traffic in the En Route Environment. Performed OJTI, CIC and ERAM SME duties, specializing ERAM automaton.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Air Traffic Controller",
+      "url": "",
+      "startDate": "1983-08",
+      "endDate": "2015-12",
+      "summary": "While working more than 32 years as an En Route Air Traffic Controller (ATCS) in the En Route environment, I maintained the safe, orderly, and expeditious flow of air traffic in the NAS.",
+      "highlights": [
+        "I was a member of the Independent Operational Assessment (IOA) team that performed a comprehensive Analysis of the ERAM upgrade to the National Air Space System (NAS).",
+        "I worked daily military training flights on IR and VR routes, airspace reservation both moving ALTRAV and special Use airspace (SUA)."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Highline Community Collage",
+      "url": "",
+      "area": "Manufacturing Engineering",
+      "studyType": "Associate of Applied Science",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Air Traffic Control",
+      "level": "Expert",
+      "keywords": [
+        "Certified En Route Air Traffic control experience",
+        "Strong collaborative team Member",
+        "Effective listening",
+        "Application of risk-management Principles",
+        "Adaptable",
+        "Learning style assessment",
+        "Fast learner",
+        "En Route Air Traffic Controller",
+        "Good listing skills",
+        "Good Team Member",
+        "Strong understanding of ATC Automation processes",
+        "Strong understanding of ATC rules and procedures",
+        "Expert vectoring and speed control skills"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

@@ -1,0 +1,128 @@
+{
+  "basics": {
+    "name": "Sanjay Dogra",
+    "label": "NOC Engineer",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "To work for professional organization that gives an opportunity for growth and to contribute value based management talent along with the seeking guidance from proficient seniors to help me sharpen my skills.",
+    "location": {
+      "address": "H No 203, Karan Vihar, Kirari extn-II, Nangloi",
+      "postalCode": "110086",
+      "city": "New Delhi",
+      "countryCode": "IN",
+      "region": "Delhi"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Encore capital Group",
+      "position": "NOC Engineer",
+      "url": "",
+      "startDate": "2011-04",
+      "endDate": "2016-04",
+      "summary": "Worked as a NOC (Network Operation Center) Engineer in a leading BPO in call center technology",
+      "highlights": ["Service Now", "Microsoft Lync", "MSN", "VPN: Cisco client, Cisco SSL, Check point Secure client", "Operating System: XP, Windows 7", "Office Tools: MS Office 2007 & 2010"]
+    },
+    {
+      "name": "Xerox",
+      "position": "Sr. C.S.A",
+      "url": "",
+      "startDate": "2007-01",
+      "endDate": "2008-07",
+      "summary": "Handled online query of Xerox customers related to their Xerox machine not working and toner booking.",
+      "highlights": ["Worked with field engineer to get the update or status of call for any part change", "Punching install report and inventory", "Also handled sales call"]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Delhi University",
+      "url": "",
+      "area": "Arts",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Diploma (ADCHNP) in Computer Hardware and networking",
+      "date": "",
+      "issuer": "JETKING, New Delhi",
+      "url": ""
+    },
+    {
+      "name": "CCNA",
+      "date": "",
+      "issuer": "NET-TECH Institute (Janakpuri)",
+      "url": ""
+    },
+    {
+      "name": "LEADERSHIP ESSENTIALS CERTIFICATE",
+      "date": "",
+      "issuer": "PC Solution",
+      "url": ""
+    },
+    {
+      "name": "ITIL v3",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Hardware and Networking",
+      "level": "Advanced",
+      "keywords": ["Cisco", "VPN", "AS/400", "LAN", "RDP", "Microsoft Lync", "Idera", "Oracle"]
+    },
+    {
+      "name": "Operating Systems",
+      "level": "Advanced",
+      "keywords": ["Windows XP", "Windows 7", "Win 95", "Win 2000", "Win 98", "Win NT"]
+    },
+    {
+      "name": "Software",
+      "level": "Advanced",
+      "keywords": ["Service Now", "MSN", "SSL", "Microsoft Exchange"]
+    },
+    {
+      "name": "Client Based Applications",
+      "level": "Advanced",
+      "keywords": ["Prolaw", "Qlaw", "Noble", "GUI"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": ""
+    },
+    {
+      "language": "Hindi",
+      "fluency": ""
+    },
+    {
+      "language": "Punjabi",
+      "fluency": ""
+    }
+  ],
+  "interests": [
+    {
+      "name": "Movies",
+      "keywords": ["Science fiction movies", "Action Movies"]
+    },
+    {
+      "name": "Sports",
+      "keywords": ["Cricket", "Volleyball"]
+    }
+  ],
+  "references": [],
+  "projects": []
+}

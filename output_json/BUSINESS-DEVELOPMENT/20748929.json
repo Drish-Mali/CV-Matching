@@ -1,0 +1,104 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Business Development",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Detail-oriented professional with a business mindset and an extensive operational background obtained through diverse industry experience in banking, loss prevention, health and wellness, and retail offering innovative methods of efficiency meant to benefit individuals at all levels of business.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name ",
+      "position": "Business Development",
+      "url": "",
+      "startDate": "2015-08",
+      "endDate": "Current",
+      "summary": "Identify areas of opportunity within the business to create solutions to increase efficiency and productivity. Monitor and report on website and ads traffic and performance.",
+      "highlights": [
+        "Increased database ease of use and efficiency by 10%.",
+        "Developed, implemented, tested, debugged and documented various systems",
+        "Improved client relationships and performance predictability"
+      ]
+ },
+ {
+      "name": "Company Name",
+      "position": "Operations Manager",
+      "url": "",
+      "startDate": "2014-05",
+      "endDate": "2015-08",
+      "summary": "Establish and maintain all operational procedures and systems. Oversee all day-to-day operations.",
+      "highlights": [
+        "Strategic budget planning by measuring and managing key operating metrics and sales KPI's."
+      ]
+    },
+ {
+      "name": "Company Name",
+      "position": "Systems Coordinator",
+      "url": "",
+      "startDate": "2014-01",
+      "endDate": "2014-12",
+      "summary": "Maintain the flow of information through the databases used. Problem solve whenever necessary by troubleshooting office systems.",
+      "highlights": [
+        "Project Manager of Live Chat",
+        "Endorse and deploy various automations to increase efficiency and productivity by evaluating systems performance."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Stony Brook University",
+      "url": "",
+      "area": "Sociology",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "2010",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Technical Skills",
+      "level": "",
+      "keywords": [
+        "Microsoft Office",
+        "Google - Analytics",
+        "SQL",
+        "Outlook"
+      ]
+    },
+    {
+      "name": "Skills",
+      "level": "",
+      "keywords": [
+        "Data analysis",
+        "Excel",
+        "Office",
+        "Outlook",
+        "Power Point",
+        "Works",
+        "Google",
+        "SQL",
+        "Strategic",
+        "Strategic planning"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

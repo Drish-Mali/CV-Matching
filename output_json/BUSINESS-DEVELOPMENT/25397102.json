@@ -1,0 +1,102 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Business Development Analyst",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Extensive Analyst experience with emphasis on Business Development and Data Analytic. Ambitious, detailed-oriented Business Professional with a high degree of mastery in analyzing complex business objectives and meeting deadlines under pressure. Urgently adapts to challenges and changing environments. Achievement-driven with a demonstrated history of exceeding development requirements and problem solving. Top-performing at providing financial support and cultivating lasting customer relationships.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Miami",
+      "countryCode": "US",
+      "region": "Florida"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Business Development Analyst",
+      "url": "",
+      "startDate": "2016-07-01",
+      "endDate": "2017-10-01",
+      "summary": "Responsible for increasing leadership development for Entry Level Business Analyst. Worked with end users, administrators, stake-holders, and project managers to increase growth for clients. Analyzed system root cause of defects and task/workflows.",
+      "highlights": [
+        "Implementing best business practices",
+        "Analyzing operation impacts",
+        "Technology changes"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Documentation Analyst",
+      "url": "",
+      "startDate": "2014-11-01",
+      "endDate": "2015-09-01",
+      "summary": "Solved time management inefficiencies by assisting customer service in all departments. Improved organizational change strategies with support on documented process functions.",
+      "highlights": [
+        "Slashing administrative cost by 10%",
+        "Boosting company efficiency"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Data Analyst (Intern)",
+      "url": "",
+      "startDate": "2014-05-01",
+      "endDate": "2014-11-01",
+      "summary": "Learned how to analyze different stakeholder objectives and feedback through effectively communicating reports, interview and surveys with top financial analyst.",
+      "highlights": [
+        "Achieved basic financial and operation reporting",
+        "Assisted the coordination of Quality Assurance testers for end-to-end unit testing and post-production testing",
+        "Drafted financial and resource planning reports"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Miami",
+      "url": "",
+      "area": "Economics and Pre-Law",
+      "studyType": "Bachelor of Arts",
+      "startDate": "",
+      "endDate": "2016-05-01",
+      "score": "",
+      "courses": [
+        "Business Law",
+        "Marketing"
+      ]
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Business Development",
+      "level": "",
+      "keywords": [
+        "Business process improvement",
+        "Fast Learner",
+        "Excellent attention to detail",
+        "Strong Requirement tracing",
+        "MS Excel",
+        "MS Word",
+        "Power Point",
+        "Financial and operational reporting",
+        "Analytical and Tactical Planning",
+        "Superb communication skills",
+        "Flexible team player",
+        "Problem solving abilities"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

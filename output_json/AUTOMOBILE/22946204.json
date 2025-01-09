@@ -1,0 +1,143 @@
+{
+  "basics": {
+    "name": "",
+    "label": "R&D Product Development Engineer, Research Assistant, Mechanical Technician",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "https://www.robockey.com",
+    "summary": "",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "US",
+      "region": "Pennsylvania"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "R&D Product Development Engineer",
+      "url": "",
+      "startDate": "June 2016",
+      "endDate": "Current",
+      "summary": "Design and build a tail-sitter VTOL(vertical take off and landing) UAV(unmanned aerial vehicle) which takes off and lands vertically and travels horizontally. Main duties include but not limit to aerodynamics modeling, UAV control system design, mechanical manufacturing, simulation and tuning/experiments.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Research Assistant",
+      "url": "",
+      "startDate": "May 2015",
+      "endDate": "February 2016",
+      "summary": "Research assistant for Wharton School environment economics projects on Europe Emission Trading System (EU ETC). Main duties include large scale data collecting, cleaning, merging, database construction and data analysis, etc. Completed with skills ranging from Java, python, Navicat SQLite database software and STATA (data analyzing software).",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Mechanical Technician",
+      "url": "",
+      "startDate": "August 2013",
+      "endDate": "September 2013",
+      "summary": "Check, report on reducer components, automobile chassis producing, processing and assembly line. Trained in mechanical manufacturing fundamentals in industrial production of automobiles.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Pennsylvania, School of Eng. and Applied Science",
+      "url": "",
+      "area": "Mech. Eng. & Applied Mechanics",
+      "studyType": "Master of Science",
+      "startDate": "August 2014",
+      "endDate": "Jun",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Harbin Institute of Technology (HIT)",
+      "url": "",
+      "area": "Mechanical Design and Automation",
+      "studyType": "Bachelor of Science",
+      "startDate": "2010",
+      "endDate": "Sep Aug",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Honor Mention Prize (30%), MCM: The Mathematical Contest in Modeling",
+      "date": "2011",
+      "awarder": "",
+      "summary": ""
+    },
+    {
+      "title": "Regional Second Prize, China Undergraduate Mathematical Contest in Modeling",
+      "date": "2012",
+      "awarder": "",
+      "summary": ""
+    },
+    {
+      "title": "4th Place, Robockey, Hockey-playing Robot competition at Upenn",
+      "date": "2015",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "level": "Master",
+      "keywords": [
+        "C", "Python", "Java", "MATLAB", "R", "Processing", "SQL", "PLC"
+      ]
+    },
+    {
+      "name": "Mechanical Design",
+      "level": "Master",
+      "keywords": [
+        "AutoCAD", "Solidworks"
+      ]
+    },
+    {
+      "name": "Mechanical Skills",
+      "level": "Master",
+      "keywords": [
+        "MakerBot 3D print", "Laser cut", "Mill", "Drill", "Lathe Machine"
+      ]
+    },
+    {
+      "name": "Database Softwares",
+      "level": "Master",
+      "keywords": [
+        "SQL Server", "Navicat"
+      ]
+    },
+    {
+      "name": "Operating Systems",
+      "level": "Master",
+      "keywords": [
+        "Windows 7/10", "OS X"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Chinese",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

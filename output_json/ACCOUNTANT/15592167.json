@@ -1,0 +1,86 @@
+{
+  "basics": {
+    "name": "Financial Accountant",
+    "label": "CPA Financial Accountant",
+    "summary": "CPA Financial Accountant specializing in financial reporting and analysis. Successful at managing multiple licensing and royalty reporting with international corporations, such as Disney, Warner Brothers and LEGO.",
+    "location": {
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Financial Accountant",
+      "startDate": "2012-05",
+      "endDate": "2015-05",
+      "summary": "Financial Reporting: Accountable for the provision of accurate, timely and efficient financial reports on behalf of management to lodge financial statements (B/S, P/L, Cash Flow and Others Specific Reports) within the Group and also to the external parties Applying AUS-IFRS Accounting standards and Company Accounting Policy across various transactions and accounting issues. Royalty Reporting: In charge of 150 plus Royalty Reports, Monthly or Quarterly reporting to Warner, Brothers, Mattel, Disney, Lego etc. global brands.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Assistant Accountant",
+      "startDate": "2011-09",
+      "endDate": "2012-05",
+      "summary": "Cash flow/ Foreign Currency management Foreign currency Management: Options and Swap Management of the banking function including daily Banking Reconciliation for the group Accounts. Staff Expense management/ Concur-SAP staff self- report system / Company Cards Management Leadership and support of the International Logistic. AP, AR and payroll functions Oversees Accounts Payable /Accounts Receivable /Payroll functions, provide training to staff.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Assistant Accountant",
+      "startDate": "2008-08",
+      "endDate": "2011-09",
+      "summary": "Ensuring that transactions comply with financial policies and procedures; Preparing, verifying, processing invoices and coding payment documents; Preparing batches of invoices for data entry and ensuring accuracy and completeness of data; Completing banking and invoicing through the MYOB and RMS operating systems; Recording all cheques and maintaining the general ledger; Maintaining accounts receivable and payable;",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Monash University",
+      "area": "Accounting",
+      "studyType": "Master of Business",
+      "startDate": "",
+      "endDate": "2010",
+      "courses": ["Continuing education courses focusing on the Major Changes in Accounting Standards, Legal Concepts with Tax Analysis seminar"]
+    },
+    {
+      "institution": "Victoria University",
+      "area": "Accounting & Finance",
+      "studyType": "Bachelor of Commerce",
+      "startDate": "",
+      "endDate": "2009",
+      "courses": ["Coursework mainly covered Management Accounting, Financial Accounting, Auditing, Governance & Ethics."]
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Accounting",
+      "level": "Master",
+      "keywords": [
+        "Financial Reporting",
+        "Royalty Reporting",
+        "Cash flow/ Foreign Currency management",
+        "Accounting systems Proficiency",
+        "Communication Skills",
+        "High efficiency",
+        "High attention to Details"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Chinese Mandarin",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

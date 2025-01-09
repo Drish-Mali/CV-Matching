@@ -1,0 +1,99 @@
+{
+  "basics": {
+    "name": "CNA IN SKILLED HEALTHCARE",
+    "label": "Healthcare Professional",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "I am looking to further my career using my knowledge and skills obtained in the healthcare industry over the past eleven years. I feel I could contribute to any company where I may be employed by utilizing the training, skills, and experience I have acquired.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "CNA in Skilled Healthcare",
+      "url": "",
+      "startDate": "2014-10-01",
+      "endDate": "Current",
+      "summary": "Provided primary resident care and assistance with daily living activities.",
+      "highlights": ["Provided caring companionship to elderly and developmentally disabled patients", "Worked as part of team to execute proper care of body mechanics and safety of patient", "Obtained vitals for a floor of 25 patients per shift", "Maintained patient privacy and confidential patient information", "Monitored patients with acute conditions"]
+    }],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Westmoreland County Community College",
+      "url": "",
+      "area": "Computer Systems Electronics Technology, Pre Nursing classes, Liberal Arts, Web Design and Programming, Computer Technology",
+      "studyType": "Diploma in Computer Technology",
+      "startDate": "2014",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Art Institute of Pittsburgh Visual Communications",
+      "url": "",
+      "area": "Visual Communications",
+      "studyType": "AST Degree",
+      "startDate": "06/90",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Hempfield Senior High School",
+      "url": "",
+      "area": "General",
+      "studyType": "Academic Diploma",
+      "startDate": "06/81",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Pennsylvania CNA license",
+      "date": "",
+      "issuer": "State",
+      "url": ""
+    },
+    {
+      "name": "SC CNA license",
+      "date": "",
+      "issuer": "State",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Healthcare",
+      "level": "Master",
+      "keywords": ["ADL's Positioning", "Vitals", "Gait Belt", "I/O Sliding Board Transfer", "Caretracker Documentation", "Mechanical Lifts"]
+    },
+    {
+      "name": "Web Design and Programming",
+      "level": "Intermediate",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [
+    {
+      "name": "",
+      "reference": "Personal and Work References Upon Request"
+    }
+  ],
+  "projects": []
+}

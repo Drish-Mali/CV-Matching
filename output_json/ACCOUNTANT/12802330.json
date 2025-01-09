@@ -1,0 +1,106 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Lead Accountant",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Lead Accountant",
+      "url": "",
+      "startDate": "2011-11",
+      "endDate": "Current",
+      "summary": "Experience in various areas including, but not limited to: operating budgets, financial analysis/planning, financial statements and reporting, accounting policies and procedure, cash flow, taxes, auditing, and business process improvements.",
+      "highlights": [
+       "Manage various areas in financial accounting, budgeting and financial analysis.",
+       "Execute qualitative and quantitative analysis techniques to minimize risks and liabilities.",
+       "Maintain ongoing communication with key stakeholders to include accounts, operations managers and new markets support teams for emerging accounting issues and recommend corrective actions.",
+       "Test internal controls for compliance in preventing fraud and improving accounting processes while meeting full compliance with GAAP, Federal and State law."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Senior Accountant",
+      "url": "",
+      "startDate": "2006-09",
+      "endDate": "2011-10",
+      "summary": "Compiled and analyzed financial data used in the preparation of corporate financial statements. Provided support to business operations through analysis of key performance indicators and trends.",
+      "highlights": [
+       "Maintained and supervised the various systems of internal controls over financial reporting while assessing and remediating deficiencies discovered through periodic testing making easier to reconcile accounts.",
+       "Maintained general ledger and sub ledger accounts by posting and documenting financial journal entries.",
+       "Managed and maintained corporate closing schedules for periodic financial reporting."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Staff Accountant",
+      "url": "",
+      "startDate": "2006-03",
+      "endDate": "2006-08",
+      "summary": "Performed monthly closing cycle, responsible for preparing, analyzing, reconciling and correcting financial statements and management reports for the homebuilding divisions.",
+      "highlights": [
+       "Acted as the primary contact for operations' personnel for any accounting-related matters.",
+       "Maintained the company's systems of internal controls over financial reporting.",
+       "Posted financial statement entries; including reconciling and documented P & L re-classification entries."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Maryland University College",
+      "url": "",
+      "area": "Accounting Business Administration",
+      "studyType": "BS",
+      "startDate": "",
+      "endDate": "2005",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "CPA Candidate",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Accounting and Financial Analysis",
+      "level": "",
+      "keywords": [
+        "QuickBooks",
+        "Peachtree",
+        "In-house Accounting Systems and Financial Reporting",
+        "MAS 90",
+        "FAR",
+        "WAWF",
+        "Great Plains",
+        "Hyperion",
+        "Excel",
+        "Sarbanes-Oxley Research and Compliance"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

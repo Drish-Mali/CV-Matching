@@ -1,0 +1,119 @@
+{
+"basics": {
+"name": "SUPPORT & NETWORK SERVICES INTERN",
+"summary": "Technical Support Analyst with technical and troubleshooting repair expertise. Team player who is flexible, reliable and adaptable to dynamic environments.",
+"skills": [
+  {
+"name": "Research and familiarize towards core technologies",
+"level": "Expert"
+  },
+  {
+"name": "Troubleshooting hardware & software in network support services",
+"level": "Proficient"
+  },
+  {
+"name": "Installing & configuring Windows systems",
+"level": "Experience"
+  },
+  {
+"name": "Document, communicate and teamwork",
+"level": "Strong"
+  },
+  {
+"name": "Ubuntu Linux & Mac OS X interactions",
+"level": "Experienced"
+  },
+  {
+"name": "Virtualization & configurations in VMware",
+"level": "Well-versed"
+  },
+  {
+"name": "Task & project priorities",
+"level": "Efficient"
+  }
+]
+},
+"work": [
+{
+"name": "Company Name",
+"position": "Support & Network Services Intern",
+"startDate": "2014-09-01",
+"endDate": "2014-12-01",
+"summary": "Worked on automating departmental needs, asset management, user onboarding processes, incident management, computer installations."
+},
+{
+"name": "Company Name",
+"position": "Information Technology Lead Intern",
+"startDate": "2012-06-01",
+"endDate": "2013-06-01",
+"summary": "Worked on Windows migrations, diagnosing distance education connections, supporting equipment, asset deployment, scheduling & support, equipment management, room checks."
+},
+{
+"name": "Company Name",
+"position": "Information Technology Student Center Intern",
+"startDate": "2011-09-01",
+"endDate": "2011-12-01",
+"summary": "Resolved student center questions, arranged peer-to-peer tutoring, training sessions, worked on operating systems."
+}
+],
+"education": [
+{
+"institution": "University of Wisconsin",
+"area": "Information Science & Technology",
+"studyType": "Bachelor of Science",
+"endDate": "2014-12-01",
+"score": "N/A",
+"courses": ["N/A"]
+},
+{
+"institution": "Waukesha County Technical College",
+"area": "IT-Computer Support Specialist",
+"studyType": "AAS",
+"endDate": "2011-12-01",
+"score": "N/A",
+"courses": ["N/A"]
+}
+],
+"awards": [
+{
+"title": "UW-Waukesha Dean's List",
+"date": "N/A",
+"awarder": "University of Wisconsin",
+"summary": "N/A"
+},
+{
+"title": "WCTC Honor List",
+"date": "N/A",
+"awarder": "Waukesha County Technical College",
+"summary": "N/A"
+},
+{
+"title": "Who's Who Program – WCTC",
+"date": "N/A",
+"awarder": "Waukesha County Technical College",
+"summary": "N/A"
+},
+{
+"title": "NTHS Member 2010",
+"date": "2010-01-01",
+"awarder": "National Technical Honor Society",
+"summary": "N/A"
+},
+{
+"title": "Phi Theta Kappa Honor Society",
+"date": "N/A",
+"awarder": "Phi Theta Kappa",
+"summary": "N/A"
+},
+{
+"title": "BCHS Honor Roll",
+"date": "N/A",
+"awarder": "Briar Cliff High School",
+"summary": "N/A"
+}
+],
+"languages": [],
+"interests": [],
+"references": [],
+"projects": []
+}

@@ -1,0 +1,100 @@
+{
+  "basics": {
+    "name": "Anonymous",
+    "label": "Staff Accountant",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Highly analytical and detail-oriented professional; possessing extensive financial statement background in quality assurance, compliance, auditing, customer service and regulatory requirements. Thorough knowledge of: financial reporting, cash and accrual basis accounting, fund basis reporting, GAAP and other accounting standards. Adapt quickly when new software and systems are installed. Proficient with: QuickBooks, MAS, ADP, Condo Manager, Adobe, and all Microsoft applications software. Excel in problem solving and strategic planning skills.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Staff Accountant",
+      "url": "",
+      "startDate": "2014-01-01",
+      "endDate": "2014-10-01",
+      "summary": "Performed all month end functions to produce financial statements. Entered all payables and receivables for the 7 franchise locations. Worked with vendors to resolve any situations that arose. Reviewed and maintained that all needed franchise document were on file and up to date. Worked directly with controller on year-end review. Assembled all requested financial and legal documentation that was put into presentable formats. Maintained weekly spreadsheet on collected franchise royalties and advertising fees. Managed a company that owned and rented out 12 commercial properties of a shopping center to approved businesses. Managed a company that was a small farming entity. Responsible for maintaining cash flow, all payables, and setting up credit accounts with vendors. Entered all payroll journals and maintained cash flow for company that employed labor to work at farming entity. Filed North Carolina Annual Report for all companies managed by Cary Keisler Inc. and verified that all were current on their filings.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Staff Accountant",
+      "url": "",
+      "startDate": "2013-03-01",
+      "endDate": "2014-01-01",
+      "summary": "Collect daily deposits for newly entered SOs as well the balance for any SO that has completed once a job status report has been ran. Interact directly with customers on outstanding deposits and balances due. Responsible for all PO and non PO payable entry/coding for all companies. Work directly with vendors to resolve and discrepancy with payables. Pull weekly-unpaid bills reports that are used for cash flow projections. Complete weekly check run for all companies. Reconcile monthly purchasing American Express credit card that ranges from $60,000.00 - $100,000.00+. Helped facilitate roll of purchasing manager during turnover period from September 2013 - December 2013. Responsible for ordering needed materials/supplies for factory production floor. Worked directly with VP of Finance and members of the production floor in collection of data to develop unit valuation. This information combined with continued data collection is being used for future bills of materials and job costing.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of North Carolina",
+      "url": "",
+      "area": "Accounting",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "2010-05-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "University of North Carolina",
+      "url": "",
+      "area": "Business Administration Finance",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "2010-05-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Accounting",
+      "level": "Master",
+      "keywords": [
+        "QuickBooks",
+        "MAS",
+        "ADP",
+        "Microsoft Excel",
+        "Microsoft Access",
+        "Microsoft Word",
+        "Peachtree",
+        "GAAP"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [
+    {
+      "name": "Alpha Sigma Phi",
+      "keywords": [
+        "Vice President",
+        "Social Chair",
+        "Greek Week Delegate"
+      ]
+    },
+    {
+      "name": "Livestrong Foundation",
+      "keywords": [
+        "Bike-a-thon"
+      ]
+    }
+  ],
+  "references": [],
+  "projects": []
+}

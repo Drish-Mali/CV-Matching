@@ -1,0 +1,162 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Committee Member",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Result driven professional with experience in working with local and state government agencies. Organized and skilled in financial management, customer service, conflict resolution, EEO matters, contract negotiation, grant writing, and Homeland Security. Proficient in government, private sector, ordinances, rules, and laws. Exemplary ability to lead teams in cultivating a productive work atmosphere, resource management, and meeting external/internal deadlines.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Committee Member",
+      "url": "",
+      "startDate": "January 2016",
+      "endDate": "Current",
+      "summary": "Works to facilitate citizen participation in the planning and implementation of the Durham Community Development Block Grant Program (CDBG). Ensures that decent affordable housing and city services are provided to most vulnerable communities. Collaborate with local, state, and federal officials to create jobs through the expansion and retention of businesses in Durham.",
+      "highlights": [
+        "Initiated the Brothers' Keeper Program which resulted in a multi-year private and government grant funding.",
+        "Spearheaded new recruitment and training program which increased retention of employees.",
+        "Launched well-received program of professional development courses for all staff in conjunction with the Commonwealth of Pennsylvania Municipal Police Officers' Training Commission."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Correctional Officer",
+      "url": "",
+      "startDate": "August 2015",
+      "endDate": "Current",
+      "summary": "Supervise inmates in the close custody (death row, lock down, and mental health) housing units, and those segregated for administrative or punitive measures; instruct inmates in housekeeping and sanitation; supervise the issuance of clothing and other personal effects to inmates. Oversee periodic patrols of quarters and work areas and initiate counts of inmates at regular and irregular intervals. Maintain control and discipline including use of physical restraint and restraining devices; prevent the introduction of contraband into the institution/unit.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "North Carolina Central University",
+      "url": "",
+      "area": "Master of Public Administration & Master of Science in Information Science",
+      "studyType": "MPA/MIS",
+      "startDate": "2016",
+      "endDate": "",
+      "score": "Select One",
+      "courses": [
+       "Public Policy Administration, Economic Consequences, Urban Issues in Public Administration, Administrative Law, Principles in Public Administration, American Government, Intergovernmental Relations, Human Resource Management, and Information Systems in Organizations"
+      ]
+    },
+    {
+      "institution": "Kaplan University",
+      "url": "",
+      "area": "Legal Studies",
+      "studyType": "B.S.",
+      "startDate": "",
+      "endDate": "02/2013",
+      "score": "Dean's List Honors",
+      "courses": []
+    },
+    {
+      "institution": "Charlotte School of Law",
+      "url": "",
+      "area": "Law",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "United States Dept. of Justice Deoxyribonucleic Acid (DNA) Initiative Training",
+      "url": "",
+      "area": "Forensic DNA for Officers of the Court Law 10",
+      "studyType": "Training",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Federal Bureau of Investigation (FBI), Training Division's Office of Technology, Research, and Curriculum Development (OTRCD): National Intelligence",
+      "url": "",
+      "area": "",
+      "studyType": "Training",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Bravery Commendation",
+      "date": "1994, 1995, 2001, 2002",
+      "awarder": "",
+      "summary": ""
+    },
+    {
+      "title": "Valor Commendation",
+      "date": "1993, 1994, 2002",
+      "awarder": "",
+      "summary": ""
+    },
+    {
+      "title": "Unit Commendation",
+      "date": "1993, 1995",
+      "awarder": "",
+      "summary": ""
+    },
+    {
+      "title": "Accelerated Scholastic Scholars Academic Achievement Award",
+      "date": "",
+      "awarder": "Kaplan University",
+      "summary": ""
+    }
+  ],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Team Leadership",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Departmental Operations Leadership",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Time Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Training and Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Conflict Resolution",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Negotiations",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "volunteer": []
+}

@@ -1,0 +1,101 @@
+{
+  "basics": {
+    "name": "Unknown",
+    "label": "Tutoring Consultant",
+    "image": "",
+    "email": "Unknown",
+    "phone": "Unknown",
+    "url": "Unknown",
+    "summary": "Motivated, enthusiastic educational leader with 15+ years' experience fostering a cohesive student learning atmosphere conducive to learning. Core qualifications include being a licensed reading specialist in multiple states, strong classroom management, public speaking skills, CPR Certified and F.E.M.A. certified for emergency management situations.",
+    "location": {
+      "address": "Unknown",
+      "postalCode": "Unknown",
+      "city": "Unknown",
+      "countryCode": "Unknown",
+      "region": "Unknown"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Tutoring Consultant",
+      "url": "Unknown",
+      "startDate": "2014-08",
+      "endDate": "Current",
+      "summary": "Experience working special needs students. Promoted language development skills through reading and storytelling. Applied the positive reinforcement method to redirect negative behaviors. Encouraged students to be understanding of and helpful to others. Observed students to supply teachers with feedback regarding potential learning blocks and opportunities for support.",
+      "highlights": [
+        "Helped low functioning readers move from Pre-K level reading to 5th and 6th grade reading levels.",
+        "Facilitated small reading and writing groups, and phonics groups for grades 6 through 12.",
+        "Managed classes of up to 45.",
+        "Chaperoned multiple field trips and after-school activities.",
+        "Designed weekly lesson plans focused on age and level-appropriate material.",
+        "Designed curriculum based upon student needs."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "English/Social Studies",
+      "url": "Unknown",
+      "startDate": "2013-09",
+      "endDate": "Current",
+      "summary": "Developed and implemented daily and unit lesson plans for 6th grade English. Developed, administered and corrected tests and quizzes in a timely manner. Conducted group and one-on-one reading and writing activities. Developed excellent rapport with students.",
+      "highlights": [
+        "Instructor for the Voyager Learning Program",
+        "Implemented PBIS programs to encourage student participation",
+        "Supported students in developing strategies for individual needs and classroom group dynamics",
+        "Communicated effectively with educators from various grade levels",
+        "Supplied one-on-one attention to each student, while maintaining overall focus on the entire group",
+        "Conducted small group and individual classroom activities based on differentiated learning needs",
+        "Conveyed with parents throughout the school year"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Touro College",
+      "url": "Unknown",
+      "area": "School and District Administration",
+      "studyType": "Master of Science",
+      "startDate": "2005",
+      "endDate": "2010",
+      "score": "Unknown",
+      "courses": []
+    },
+    {
+      "institution": "Touro College",
+      "url": "Unknown",
+      "area": "Literacy",
+      "studyType": "Master of Science",
+      "startDate": "Unknown",
+      "endDate": "2005",
+      "score": "Unknown",
+      "courses": []
+    },
+    {
+      "institution": "St. Francis College",
+      "url": "Unknown",
+      "area": "Political Science",
+      "studyType": "Bachelor of Arts",
+      "startDate": "Unknown",
+      "endDate": "2000",
+      "score": "Unknown",
+      "courses": ["Coursework in Psychology", "Coursework in Education", "Coursework in History"]
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Educational Leadership",
+      "level": "Expert",
+      "keywords": ["Leadership", "Communication Skills", "Classroom Management", "Crisis Management", "CPR Certified", "Patient", "Motivated", "Self-motivated", "Licensed reading specialist in multiple states", "Public Speaking Skills"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

@@ -1,0 +1,117 @@
+{
+  "basics": {
+    "name": "Anonymous",
+    "label": "Information Technology Senior Manager",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "15+ Years of Leadership experience in Information Technology (as an IT Director and Consultant). Extensive strategic Vendor Management Expertise (VMO Leadership). Expert in Vendor selection process (RFI, RFP, MSA and SOW) and leader in contract negotiations.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "US",
+      "region": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Information Technology Senior Manager",
+      "url": "",
+      "startDate": "2013-04",
+      "endDate": "2015-02",
+      "summary": "Leading worldwide major manufacturer, distributor and retailer of high quality vitamins & supplements",
+      "highlights": ["Negotiated and Contracted with selected technology vendors", "Directed several major Vendor sourcing projects", "Successful implementation of Onsite, Onshore and Offshore talent sourcing models"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Information Technology Director",
+      "url": "",
+      "startDate": "2000-01",
+      "endDate": "2013-02",
+      "summary": "Major Entertainment Company providing Internet, Email, VoIP and HDTV/VOD to 3.2 million customers Information Technology Director",
+      "highlights": ["Managing Infrastructure and Technical Application Support teams", "Improved overall contact center system uptime", "Successful management of over 45 IT Projects"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Business Systems Delivery Consultant",
+      "url": "",
+      "startDate": "1999-01",
+      "endDate": "2000-01",
+      "summary": "Client Company (Cablevision Systems) �contract-to-hire� and was offered a Senior Management position within Corporate Information Technology",
+      "highlights": ["Started a new Technology Support team", "Centrally supported over 110+ Business Applications"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Client Services Manager",
+      "url": "",
+      "startDate": "1998-01",
+      "endDate": "1999-01",
+      "summary": "Provided professional consulting services to multiple Fortune 500 Companies",
+      "highlights": ["Implemented customized CRM applications", "Responsible for System Implementations", "Assisted the Sales team in closing 3 major new accounts"]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Adelphi University",
+      "url": "",
+      "area": "Business Administration",
+      "studyType": "Masters",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "State University of New York",
+      "url": "",
+      "area": "Management and Economics",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "ITIL Certifications",
+      "date": "",
+      "issuer": "New Horizons Consulting",
+      "url": ""
+    },
+    {
+      "name": "Pega Certified Project Management Project Manager",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Technical",
+      "level": "",
+      "keywords": ["Strategic sourcing", "Vendor selection", "Contract negotiations", "Technical Support", "Cloud Computing", "Project management"]
+    },
+    {
+      "name": "Business",
+      "level": "",
+      "keywords": ["Consulting", "Banking", "Finance", "Investments", "Insurance", "Sales Support"]
+    },
+    {
+      "name": "IT Skills",
+      "level": "",
+      "keywords": ["E-Business", "Email", "VoIP", "C", "Cisco", "Oracle"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

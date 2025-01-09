@@ -1,0 +1,112 @@
+{
+  "basics": {
+    "name": "Finance Manager",
+    "label": "Finance Manager",
+    "email": "",
+    "phone": "",
+    "summary": "Administrative professional offering excellent communication and computer skills. Meets deadlines and works with high level of multicultural awareness and adaptability.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Finance Manager",
+      "startDate": "2015-06",
+      "endDate": "Current",
+      "summary": "Manage all finances through Quick Books , Budget planning, reconciliation of all accounts, accounts receivables and payables."
+    },
+    {
+      "name": "Company Name",
+      "position": "National Sales Director and National Rehab Supervisor",
+      "startDate": "2013-09",
+      "endDate": "2015-07",
+      "summary": "Supervised and coordinate evictions with eviction attorneys to facilitated cash for keys negotiations and/or sheriff lock outs and supervise and coordinated Rehab of investment properties nationally by ..."
+    },
+    {
+      "name": "Company Name",
+      "position": "Executive Vice President",
+      "startDate": "2000-09",
+      "endDate": "2013-07",
+      "summary": "Oversaw daily office operations for staff of 3 employees. Prepared and distributed payroll for staff of 3 direct reports. Composed and drafted all outgoing correspondence and reports for directors ..."
+    },
+    {
+      "name": "Company Name",
+      "position": "Human Resources Executive Assistant",
+      "startDate": "1999-04",
+      "endDate": "2000-09",
+      "summary": "Led a comprehensive safety training for 23 staff members. Educated and advised employees on group health plans, voluntary benefits and 401(k) retirement plans. Developed and facilitated all new-hire orientations ..."
+    },
+    {
+      "name": "Company Name",
+      "position": "Admissions Office Executive Assistant",
+      "startDate": "1998-05",
+      "endDate": "1999-04",
+      "summary": "Managed and facilitated new student orientation. Maintained transcripts for all students and teachers certification records Assisted financial aide department Assisted the career counseling department ..."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Lakewood Sr. High School",
+      "area": "High School",
+      "studyType": "Diploma",
+      "startDate": "",
+      "endDate": "1979",
+      "score": "",
+      "courses": [
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Finance Management",
+      "level": "",
+      "keywords": [
+        "accounting",
+        "accounts payable",
+        "accounts receivable",
+        "benefits",
+        "Budget development",
+        "budgets",
+        "contract negotiations",
+        "contracts",
+        "counseling",
+        "Critical thinking",
+        "product development",
+        "filing",
+        "financial",
+        "hiring",
+        "inventory",
+        "team building",
+        "meetings",
+        "negotiations",
+        "newsletter",
+        "office machines",
+        "payroll",
+        "personnel",
+        "presentation development",
+        "QuickBooks",
+        "Real Estate",
+        "safety",
+        "sales",
+        "spreadsheet",
+        "staff development",
+        "Time management",
+        "transportation",
+        "travel arrangements",
+        "website",
+        "word processing"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

@@ -1,0 +1,89 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Dance Educator & Clinical Mental Health Counselor",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Personable and proactive Clinical Mental Health Counselor and Registered Dance/Movement Therapist focused on building positive rapport with a diverse range of clients. Detail-oriented with superior interpersonal skills.",
+    "location": {},
+    "profiles": []  
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Dance Educator",
+      "url": "",
+      "startDate": "2012-02",
+      "endDate": "Current",
+      "summary": "Plan and implement a dance curriculum for an arts-integrated urban charter secondary school for students in grades 7-12. Established positive relationships with students, parents, colleagues and administrators.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Dance/Movement Therapist - Clinical Mental Health Counselor",
+      "url": "",
+      "startDate": "2012-07",
+      "endDate": "Current",
+      "summary": "Provided evaluations to the care team on patient and family response to the program to enhance the quality of care. Worked with children, adolescents, adults and geriatrics who are suffering symptoms including depression, anxiety, physical, psychiatric, neurological disorders, learning difficulties, dementia, autism, and behavioral problems.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Sole Proprietor/ Artistic Director",
+      "url": "",
+      "startDate": "2004-01",
+      "endDate": "2011-01",
+      "summary": "Complete operations of running a small business. Developed and implemented marketing plan for each new dance season.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Lesley University",
+      "url": "",
+      "area": "Expressive Therapies",
+      "studyType": "Master of Arts",
+      "startDate": "",
+      "endDate": "2014",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Rhode Island College",
+      "url": "",
+      "area": "Dance Performance",
+      "studyType": "Bachelor of Arts",
+      "startDate": "",
+      "endDate": "2004",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Group behavior and dynamics",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Dance",
+      "level": "",
+      "keywords": ["Creative Movement", "Modern", "Ballet", "Jazz", "Tap"]
+    },
+    {
+      "name": "Computer skills",
+      "level": "Proficient",
+      "keywords": ["Microsoft Office Suite", "Word", "Publisher", "Excel", "Power Point", "Google Docs", "Avator"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

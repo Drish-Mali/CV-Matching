@@ -1,0 +1,113 @@
+{
+  "basics": {
+    "name": "Director of Information Technology",
+    "label": "IT Executive",
+    "email": "",
+    "phone": "",
+    "summary": "Information Technology executive with success spanning 20+ years in high-performance, multi-faceted environments.",
+    "location": {
+      "city": "",
+      "countryCode": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Director of Information Technology",
+      "startDate": "2005-08",
+      "endDate": "Current",
+      "summary": "Manage software development and infrastructure projects. Direct daily operations and oversee vendor relationships. Define project requirements and aligning efforts with clients and corporate needs and assess outcomes. Develop and see change management processes, release control, maintenance and support activities and employee training programs.",
+      "highlights": [
+        "Companywide system conversion to Windows 7, Office 2010 completed within 4 months",
+        "Standardization of software applications and hardware infrastructure",
+        "Evaluation of IT related vendors and service agreements resulting in a $300K per year reduction in IT expenditures",
+        "Implementation of a $1.5 million ERP system",
+        "Design and installation of an IP hybrid telecom system, standardizing the company's phone system"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Manager of Information",
+      "startDate": "2003-02",
+      "endDate": "2005-07",
+      "summary": "Provided leadership in the firm's information technology department in the direction, planning and implementation of technology leading to the support and alignment of the Firm's business operation to achieve an effective, cost-beneficial and secure IT operations for over 350 users.",
+      "highlights": [
+        "Developed system policies addressing areas of risk",
+        "Spearheaded conversion of phone system to IP telephony resulting to a 30% decrease in spending",
+        "Coordinated conversion of legacy servers and virtualization of servers"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Senior Systems Analyst/Project Manager",
+      "startDate": "1998-07",
+      "endDate": "2003-01",
+      "summary": "Responsible for planning and implementation of IT projects while managing and coordinating IT resources.",
+      "highlights": [
+        "Responsible for the standardization and migration of Windows 98 Operating System to a Windows XP environment"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Santo Tomas",
+      "area": "Industrial Psychology",
+      "studyType": "Bachelor of Science",
+      "startDate": "1981",
+      "endDate": "1985"
+    },
+    {
+      "institution": "Baruch College",
+      "area": "Computer Science",
+      "studyType": "Associates Degree",
+      "startDate": "1993",
+      "endDate": "1995"
+    },
+    {
+      "institution": "Dersyha University",
+      "area": "Cisco Certified Engineer",
+      "studyType": "Certification",
+      "startDate": "1997",
+      "endDate": "1997"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Innovative Leadership",
+      "level": "Master"
+    },
+    {
+      "name": "Change Management",
+      "level": "Master"
+    },
+    {
+      "name": "Infrastructure Design",
+      "level": "Master"
+    },
+    {
+      "name": "Strategic Planning",
+      "level": "Master"
+    },
+    {
+      "name": "Technology Development",
+      "level": "Master"
+    },
+    {
+      "name": "P & L Oversight",
+      "level": "Master"
+    },
+    {
+      "name": "Organizational Development",
+      "level": "Master"
+    },
+    {
+      "name": "Mentoring and Coaching",
+      "level": "Master"
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

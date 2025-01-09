@@ -1,0 +1,92 @@
+{
+  "basics": {
+    "name": "Anonymous",
+    "label": "Business Development Manager, VP",
+    "email": "",
+    "phone": "",
+    "summary": "Ambitious leader who creates strategic alliances with organization leaders to effectively align with and support key business initiatives. Builds and retains high performance teams by hiring, developing and motivating skilled professionals.",
+    "location": {
+      "city": "",
+      "countryCode": ""
+    }
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Business Development Manager, VP",
+      "startDate": "2014-12-01",
+      "endDate": "Current",
+      "summary": "Spearheaded sales of managemytests.com platform, resulting in a 1.2 million dollar increase in revenue over first six months. Accountable for sales and overall customer satisfaction. Spearheaded cross-functional initiative to achieve new business.Increased profits by 60% in one year through restructure of business line."
+    },
+    {
+      "name": "Company Name",
+      "position": "Lending Manager, VP",
+      "startDate": "2009-09-01",
+      "endDate": "2014-10-01",
+      "summary": "Led a department consisting of two AVP's, ten managers, one business training consultant and 120 FTE that consisted of single points of contact and underwriters. Managed all facets of loss mitigation for private investors within Wells Fargo. Created two specialized teams within unit..."
+    },
+    {
+      "name": "Company Name",
+      "position": "Collections Supervisor II",
+      "startDate": "2007-03-01",
+      "endDate": "2009-09-01",
+      "summary": "Responsible for coaching, influencing, developing and managing team members..."
+    },
+    {
+      "name": "Company Name",
+      "position": "Customer Service and Collections Supervisor II",
+      "startDate": "2001-01-01",
+      "endDate": "2007-03-01",
+      "summary": "Supervised the inbound and outbound Customer Service and Collections call teams..."
+    },
+    {
+      "name": "Company Name",
+      "position": "Loan Processing Supervisor",
+      "startDate": "2000-01-01",
+      "endDate": "2001-01-01",
+      "summary": "Analyzed loan application, preliminary title report, and credit report to..."
+    },
+    {
+      "name": "Company Name",
+      "position": "Loan Officer",
+      "startDate": "1998-01-01",
+      "endDate": "2000-01-01",
+      "summary": "Responsible for generating leads via inbound and outbound solicitations..."
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Phoenix",
+      "area": "Business Administration",
+      "studyType": "Bachelor of Arts",
+      "startDate": "",
+      "endDate": "",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Business Development",
+      "level": "",
+      "keywords": ["Vendor Management", "Underwriting", "Phone handling", "Strategic Planning", "Project Management", "Quality Control", "Recording", "Relationship Management", "Scripting", "Securities", "Customer Service", "Budgeting"]
+    },
+    {
+      "name": "Management",
+      "level": "",
+      "keywords": ["Risk Management", "Operations Management", "Change Implementation", "Multi-unit Operations Management"]
+    },
+    {
+      "name": "Training & Development",
+      "level": "",
+      "keywords": ["Staff Training & Development", "Professional Development"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "volunteer": [],
+  "awards": [],
+  "publications": [],
+  "certificates": []
+}

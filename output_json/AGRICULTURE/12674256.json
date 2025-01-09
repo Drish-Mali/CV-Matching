@@ -1,0 +1,110 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Financial Sales Consultant",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Articulate Project Manager driven to succeed. Strategic planning and client relationship management expert.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Financial Sales Consultant",
+      "url": "",
+      "startDate": "2013-10",
+      "endDate": "Current",
+      "summary": "Conducted analysis to address customer service score issue which led to an overall increase of Gallup score from a 4.2 to 4.93 in 3 months...",
+      "highlights": [
+        "Responsible for basic bank operations such as teller transactions",
+        "Monitored multiple databases to keep track of product usage amongst all new clients",
+        "Responsible and successful at opening atleast 20 accounts, 4 booked credit cards and 3 qualified investment leads on a monthly basis...",
+        "Passed NMLS licensing test which allows a person to broker loans and mortgages as needed by clients",
+        "Organized and executed a successful branch outreach event which garnered 72 new accounts over a holiday weekend"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Co-Owner/Financial Liaison",
+      "url": "",
+      "startDate": "2011-04",
+      "endDate": "Current",
+      "summary": "Responsible for contacting investors and presenting farm production reports...",
+      "highlights": [
+        "Developed sustainability action plan to insure the longevity of the business's relationship with it's clients, employees, and immediate community"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Howard University",
+      "url": "",
+      "area": "Marketing",
+      "studyType": "BBA",
+      "startDate": "",
+      "endDate": "2009",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Management",
+      "level": "Expert",
+      "keywords": [
+        "Team mediation",
+        "Budget Management",
+        "Delegation expert with a focus on results and team growth"
+      ]
+    },
+    {
+      "name": "Communication",
+      "level": "Expert",
+      "keywords": [
+        "Written Communications",
+        "Media Relation",
+        "Planning",
+        "Secondary",
+        "Typing (70wpm)",
+        "Campaign Management",
+        "Press Kit",
+        "Research",
+        "Promoting",
+        "Marketing",
+        "Public Relation",
+        "Event Coordination Construction",
+        "Copy Editing",
+        "New Media",
+        "NMLS certified"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [
+    {
+      "name": "Community Service",
+      "keywords": [
+        "Phi Beta Sigma Fraternity, Inc. Alpha Chapter",
+        "Social Chair and Fundraising Co-Chair",
+        "Youth Activism Leader",
+        "NCCJ Lead for Diversity Counselor",
+        "Landlord over rental properties"
+      ]
+    }
+  ],
+  "references": [],
+  "projects": []
+}

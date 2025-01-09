@@ -1,0 +1,88 @@
+{
+  "basics": {
+    "name": "Unnamed Chef",
+    "label": "Sous Chef",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "An eager, professional and committed Chef, passionate about great food and always maintaining my finger on the pulse of the heart of establishment. Committed in developing personal and culinary abilities to the fullest extent. Have vast long termed experience in cooking high quality breakfast, lunch, and evening meals, while driving food values forward. Seeking a suitable position with a company that offers a unique environment to work in along with career development opportunities.",
+    "location": {
+      "address": "Not provided",
+      "postalCode": "Not provided",
+      "city": "Not provided",
+      "countryCode": "Not provided",
+      "region": "Not provided"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Sous Chef",
+      "url": "",
+      "startDate": "2015-05-01",
+      "endDate": "2016-02-01",
+      "summary": "Mentoring, training and supporting junior chefs. Prepared and cooked, nutritious and well balanced meals. Managed basic preparation of food together with Head Chef. Created dishes for patrons with special dietary or cultural needs.",
+      "highlights": ["Enhanced customer satisfaction level up to 60%", "Reduced order service time by 30%"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Sous Chef/First Cook",
+      "startDate": "2006-10-01",
+      "endDate": "2016-02-01",
+      "summary": "In charge of product and produce purchasing. Mentoring, training and supporting junior chefs, cooks and other back of the house personnel.",
+      "highlights": ["Responsible for maintaining and inspecting kitchen produce", "Maintained OSHA and safety regulations"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Chef/ Cook 2",
+      "startDate": "2003-07-01",
+      "endDate": "2006-11-01",
+      "summary": "Menu sampling and setting recipe amendments for special events and catering alongside of Executive Chef. Order Synchronization and maintenance of inventory control ensuring cost and stock management.",
+      "highlights": ["Customer Service satisfaction intake", "Hospitality training and mentoring of new personnel"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Line Cook",
+      "startDate": "1999-06-01",
+      "endDate": "2002-02-01",
+      "summary": "Assisted management in all manners of running and preserving integrity of the 'hot line'. Managed and maintained mise en place stations.",
+      "highlights": ["Responsible with assisting Executive Chef in creating daily specials and menus", "Responsible for proper food preparation and running work station"]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "NEW YORK RESTAURANT SCHOOL",
+      "url": "",
+      "area": "Culinary Arts",
+      "studyType": "Associate of Applied Science",
+      "startDate": "",
+      "endDate": "1999",
+      "score": "3.8",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Culinary attributes",
+      "level": "High",
+      "keywords": [
+        "Mentoring, training and supporting junior chefs",
+        "Bringing creative and commercially viable new lines to the market",
+        "Food and labor costs estimation",
+        "Enforcing health and hygiene standards",
+        "Management of meal preparations for special dietary or cultural needs",
+        "Negotiation skills"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

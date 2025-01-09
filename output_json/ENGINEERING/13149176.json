@@ -1,0 +1,111 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Engineering Technician",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Seeking a Position of Engineering Technician. SUMMARY of Qualifications. Fifteen years of R&D lab support. Troubleshoot and debug system to component level. Ten years of test lab setup and test equipment configuration. Over ten years of quality analyst\/Inspections. PC board rework (fine pitch and through hole soldering) Test plan and test case development. Validation and regression tests execution and documentation. Complex system troubleshooting. Results-driven and focused Engineering Technician who prioritizes safety, cost-effective solutions and exceeding customer expectations.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Engineering Technician",
+      "url": "",
+      "startDate": "2012-11-01",
+      "endDate": "Current",
+      "summary": "Completed projects by effectively applying engineering, technical and maintenance procedures. Used precision test equipment such as oscilloscopes, multi-meters, waveform generators and spectrum analyzers. Followed verbal instructions and hand sketches to adapt and modify tooling. Improved product quality by customizing tools and eliminating variability. Initiated contact with vendors and built solid working relationships with them. Followed up on manufacturing and field reports and resolved outstanding problems.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Quality Analyst\/Document Control Specialist",
+      "url": "",
+      "startDate": "2009-01-01",
+      "endDate": "2012-10-01",
+      "summary": "Collaborated with engineers at the new product introduction phase to develop and verify design changes. Improved product quality by customizing tools and eliminating variability. Initiated contact with vendors and built solid working relationships with them. Followed up on manufacturing and field reports and resolved outstanding problems. Conducted engineering and detailed experimental tests to collect design data and assist in research work. Used precision test equipment such as oscilloscopes, multi-meters, waveform generators and spectrum analyzers.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "IT Associate",
+      "url": "",
+      "startDate": "2007-11-01",
+      "endDate": "2009-01-01",
+      "summary": "Configure and test computer components on windows XP and Vista OS. Install patches and virus protection software. Migration of legacy system to latest technology. Support end users in issue resolution and training. Report bugs into bug database, track bug progress and verify bug fixes. Create, modify and execute test cases to qualify releases on multiple servers and platforms. Set up individual users with common resources i.e. network printers. Work closely with software, hardware engineers and QA team members to identify bugs, report and resolve technical issues.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Test Technician",
+      "url": "",
+      "startDate": "2003-04-01",
+      "endDate": "2007-11-01",
+      "summary": "Unit test of individual components. Work closely with developers to investigate and resolve technical issues. Setup, Configure and execute system and performance tests. Qualification and Regression tests Verification of bug fixes\/resolution. Report problems in the bug tracking system. Compiled data and generated graphs to interpret results and suggest key operational improvements. Followed verbal instructions and hand sketches to adapt and modify tooling. Collaborated with engineers at the new product introduction phase to develop and verify design changes.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "San Jose State University",
+      "url": "",
+      "area": "Electronics Engineering Technology",
+      "studyType": "Bachelor of Science",
+      "startDate": "1991-01-01",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Mission College",
+      "url": "",
+      "area": "Computer Science",
+      "studyType": "A.S",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Technical Skills",
+      "level": "",
+      "keywords": [
+        "Exceptional time management",
+        "Operational analysis",
+        "Strong leader",
+        "Root cause analysis",
+        "Manufacturing process controls",
+        "Technical plan execution aptitude",
+        "Proficient in SolidWorks",
+        "Highly dependable",
+        "Decisive",
+        "Detail-oriented",
+        "Product improvement",
+        "Configure and test computer components on windows XP and Vista OS",
+        "Install patches and virus protection software",
+        "Migration of legacy system to latest technology",
+        "Support end users in issue resolution and training",
+        "Report bugs into bug database, track bug progress and verify bug fixes",
+        "Create, modify and execute test cases to qualify releases on multiple servers and platforms",
+        "Set up individual users with common resources i.e. network printers",
+        "Work closely with software, hardware engineers and QA team members to identify bugs, report and resolve technical issues", 
+        "A+, client server, hardware, computer networks, Computer sales, clients, database, desktops, Documentation, functional, HP, HP NetServers, Inventory management and Control, laptops, marketing, materials, Windows, windows XP, Migration, network printers, network, NICs, operating systems, OS, progress, Protocols, Purchasing, QA, RAID, repairs, repairing, servers, specification, Technical Support, Troubleshoot, Troubleshooting, Upgrading, usability testing, validation, Vista"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

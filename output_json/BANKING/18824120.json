@@ -1,0 +1,142 @@
+{
+  "basics": {
+    "name": "Not Provided",
+    "label": "Financial Analyst Intern",
+    "image": "",
+    "email": "Not Provided",
+    "phone": "Not Provided",
+    "url": "Not Provided",
+    "summary": "Not Provided",
+    "location": {
+      "address": "Not Provided",
+      "postalCode": "Not Provided",
+      "city": "Not Provided",
+      "countryCode": "Not Provided",
+      "region": "Not Provided"
+    },
+    "profiles": [
+      {
+        "network": "Not Provided",
+        "username": "Not Provided",
+        "url": "Not Provided"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Not Available",
+      "position": "Financial Analyst Intern",
+      "url": "Not Provided",
+      "startDate": "2017-05-01",
+      "endDate": "2017-08-01",
+      "summary": "Conducted a detailed financial analysis and refined the budgets and forecasts.",
+      "highlights": [
+        "Augmented company profits by 25%",
+        "Reduced 30% costs by designing financial process tools"
+      ]
+    },
+    {
+      "name": "Not Available",
+      "position": "Manager",
+      "url": "Not Provided",
+      "startDate": "2015-11-01",
+      "endDate": "2016-07-01",
+      "summary": "Worked in Retail Banking - Affluent Business.",
+      "highlights": [
+        "Amplified the high net worth client portfolio from USD 16 million to USD 18 million"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Not Available",
+      "position": "Not Available",
+      "url": "Not Provided",
+      "startDate": "Not Available",
+      "endDate": "Not Available",
+      "summary": "Not Available",
+      "highlights": [
+        "Not Available"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Connecticut School of Business",
+      "url": "Not Provided",
+      "area": "Financial Analysis and Investments",
+      "studyType": "Master",
+      "startDate": "Not Available",
+      "endDate": "2017-12-01",
+      "score": "Not Available",
+      "courses": [
+        "Not Available"
+      ]
+    },
+    {
+      "institution": "Sri Venkateswara College, University of Delhi",
+      "url": "Not Provided",
+      "area": "Economics",
+      "studyType": "Bachelor",
+      "startDate": "Not Available",
+      "endDate": "2010-06-01",
+      "score": "Not Available",
+      "courses": [
+        "Not Available"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Dynamo award",
+      "date": "Not Available",
+      "awarder": "HSBC",
+      "summary": "Outstanding performance and commitment to fairness and integrity"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Financial Planning & Analysis",
+      "level": "Expert",
+      "keywords": [
+        "Financial Reporting",
+        "Business Analysis",
+        "Risk Management",
+        "Corporate Finance",
+        "Product Management"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Not Provided"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Not Available",
+      "keywords": [
+        "Not Available"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Not Available",
+      "reference": "Not Available"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Not Available",
+      "startDate": "Not Available",
+      "endDate": "Not Available",
+      "description": "Not Available",
+      "highlights": [
+        "Not Available"
+      ],
+      "url": "Not Available"
+    }
+  ]
+}

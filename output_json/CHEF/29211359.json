@@ -1,0 +1,106 @@
+{
+  "basics": {
+    "name": "Unknown",
+    "label": "Room Chef",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Motivated, personable professional with broad range of food and beverage experience, as well as experience with some of the world's leading hotel management companies in customer service and guest relations.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "position": "Room Chef",
+      "startDate": "2014-05-01",
+      "endDate": "2015-09-01",
+      "summary": "Responsible for the daily operations of kitchens for both casual dining restaurant and fine dining steakhouse, as well as management of the steakhouse front of house operations. Experience includes scheduling, payroll, and overall management of 20+ employees, training and development, creating seasonal menus, inventories, purchasing and receiving and assisting in the organization and delegation for large functions and special events.",
+      "highlights": [
+        "Through costing and menu changes, reduced food cost percentage in both restaurants by 10%.",
+        "Slashed the time required to conduct monthly inventories for all food and beverage outlets by completely redesigning the structure and organization of inventory sheets and data input sheets."
+      ]
+    },
+    {
+      "position": "Line Cook",
+      "startDate": "2012-07-01",
+      "endDate": "2014-05-01",
+      "summary": "Responsible for both pantry/garde manger and saut� stations, assisted in daily prep and production of all menu items, as well as preparation and execution of high-volume functions."
+    },
+    {
+      "position": "Room Dining Server",
+      "startDate": "2011-07-01",
+      "endDate": "2012-07-01",
+      "summary": "Delivered meals to guest rooms, providing full tableside service to guests for all meal periods."
+    }
+  ],
+  "education": [
+    {
+      "institution": "The Culinary Institute of America",
+      "area": "Culinary Arts",
+      "studyType": "Associate of Science",
+      "startDate": "",
+      "endDate": "2008-01-01",
+      "courses": [
+        "Hospitality and Tourism Management",
+        "Hotel and Restaurant Administration coursework"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Group Leader at The Culinary Institute of America",
+      "date": "",
+      "awarder": "",
+      "summary": "Nominated/Awarded Group Leader at The Culinary Institute of America"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Business operations",
+      "keywords": []
+    },
+    {
+      "name": "Costing",
+      "keywords": []
+    },
+    {
+      "name": "Creativity",
+      "keywords": []
+    },
+    {
+      "name": "Special events",
+      "keywords": []
+    },
+    {
+      "name": "Food safety",
+      "keywords": []
+    },
+    {
+      "name": "Inventory",
+      "keywords": []
+    },
+    {
+      "name": "Payroll",
+      "keywords": []
+    },
+    {
+      "name": "Purchasing/receiving",
+      "keywords": []
+    },
+    {
+      "name": "Scheduling",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

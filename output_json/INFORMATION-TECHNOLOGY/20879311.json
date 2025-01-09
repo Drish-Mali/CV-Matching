@@ -1,0 +1,102 @@
+{
+  "basics": {
+    "name": "Director of Information Technology and Analytics",
+    "label": "IT Director",
+    "email": "",
+    "phone": "",
+    "summary": "Accomplished senior manager with over 15 years of experience leading complex projects and managing resources to optimize enterprise technology and support business objectives.",
+    "location": {
+      "city": "City",
+      "region": "State"
+    }
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Director of Information Technology and Analytics",
+      "startDate": "2005-01",
+      "endDate": "Current",
+      "summary": "Directed the firm's word-wide Information Technology strategy. Established and instituted policies, procedures and technology to mitigate corporate security risk and position for Sarbanes-Oxley act compliance.",
+      "highlights": [
+        "Lead a team of 6 resources",
+        "Directed project teams",
+        "Evaluated and deployed DLP solution",
+        "Chairman of the firm's cybersecurity committee"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Information Technology Manager",
+      "startDate": "2002-01",
+      "endDate": "2005-01",
+      "summary": "Directed hardware and software configuration, installation, troubleshooting, and support activities. Oversaw administration of network infrastructure, business systems, cabling and circuits, and telecommunications platforms.",
+      "highlights": [
+        "Led work order documentation and change request management",
+        "Administered CISCO multi-VLAN layer 3 switched LAN\\WAN",
+        "Designed and administered CISCO VPN solution"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Systems Administrator",
+      "startDate": "2000-01",
+      "endDate": "2002-01",
+      "summary": "Administered and supported 250 client node Windows NT environment. Maintained DNS, WINS and DHCP in multi-site environment. Maintained 85 node development server environment.",
+      "highlights": [
+        "Engineered and deployed System Management Server 2.0 infrastructure",
+        "Designed Workstation and Server imaging system using Symantec Ghost",
+        "Performed daily network monitoring tasks including backups (Veritas) and log checks"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Data/Systems Administrator",
+      "startDate": "1998-01",
+      "endDate": "2000-01",
+      "summary": "Global provider of information technology products and services. Oversee and modify the daily download of data from several distributors.",
+      "highlights": [
+        "Uploaded data to appropriate SQL databases",
+        "Maintained and performed hardware/software upgrades on Windows FTP servers"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Rutgers University",
+      "area": "Psychology/History",
+      "studyType": "Bachelor of Science",
+      "startDate": "1998",
+      "endDate": "1998"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Technical Skills",
+      "level": "Proficient",
+      "keywords": [
+        "Active Directory",
+        "Backup Exec",
+        "CISCO",
+        "DNS",
+        "Exchange 2003",
+        "IIS",
+        "LAN/WAN",
+        "Windows NT",
+        "SAN",
+        "SharePoint",
+        "TCP/IP",
+        "Veritas Netbackup",
+        "VPN",
+        "Disaster Recovery"
+      ]
+    }
+  ],
+  "references": [],
+  "projects": [],
+  "certificates": [],
+  "publications": [],
+  "languages": [],
+  "interests": [],
+  "awards": [],
+  "volunteer": []
+}

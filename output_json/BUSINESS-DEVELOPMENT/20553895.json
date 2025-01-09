@@ -1,0 +1,83 @@
+{
+  "basics": {
+    "name": "Unknown",
+    "label": "Business Development Representative",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Dedicated Business Development Representative who is a detail-oriented self-starter and congenial salesperson who has excelled in closing percentages. Background in inside sales and customer service.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Business Development Representative",
+      "url": "",
+      "startDate": "2016-07",
+      "endDate": "2016-10",
+      "summary": "Answered customers' questions regarding products, prices and availability. Emphasized product features based on analysis of customers' needs. Responded to all customer inquiries in a timely manner. Shared product knowledge with customers while making personal recommendations. Maintained friendly and professional customer interactions.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Internet & Social Media Manager",
+      "url": "",
+      "startDate": "2015-12",
+      "endDate": "2016-07",
+      "summary": "Answer customers' questions about products, prices, availability, product uses, and credit terms. Recommend products to customers, based on customers' needs and interests. Consult with clients after sales or contract signings to resolve problems and to provide ongoing support. Create and publish gravitating posts on various social media forums (Facebook, Twitter, Instagram, etc.). Respond promptly to all reviews regarding the company. Compose and send compelling email blasts weekly to generate business. Conduct weekly meetings discussing current sales percentages of the Business Development Department. Update information on the company website frequently.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Manager",
+      "url": "",
+      "startDate": "2014-10",
+      "endDate": "2015-04",
+      "summary": "Trained new employees and brought them up to the restaurant standards. Finished all tasks in a timely manner. Oversaw all customer complaints and assist the problem correctly for the best benefit of the customer and the store.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Server & Lead Bartender",
+      "url": "",
+      "startDate": "2012-04",
+      "endDate": "2015-07",
+      "summary": "Provided excellent customer service. Worked closely with other servers and kitchen staff to ensure that the restaurant runs efficiently.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "FCA Kain Automotive training",
+      "level": "",
+      "keywords": ["3 steps to digital success"]
+    },
+    {
+      "name": "Chrysler Certified Employee",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "CRM training",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

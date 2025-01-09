@@ -1,0 +1,158 @@
+{
+  "basics": {
+    "name": "Anonymous",
+    "label": "Healthcare Consulting Project Associate",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Demonstrates exceptional professional agility adding value quickly in any role. Effectively anticipates and responds to non-static clinical, operational and financial demands. Proven consulting and analytical expertise in physician practice management, revenue cycle and in the medical device, supply and biopharm market. Collaborative partner with leading global health company sales teams. Leader in strategic market expansion and operational growth. Known for unquestionable interpersonal skills and passion for teaching, having developed robust education programs. Dual US-EU citizen - compelled by language and global markets.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "US",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Healthcare Consulting Project Associate",
+      "url": "",
+      "startDate": "2013-10-01",
+      "endDate": "Current",
+      "summary": "Oversee data analysis to support cost savings and management strategies. Recommend non-labor cost reduction savings based on cross-functional business analysis. Manage operations of clinical and perioperative work streams. Lead team meetings presenting client deliverables to executive leadership groups. Build consensus among key decision makers to support project implementation.",
+      "highlights": [
+        "Develop client specific value analysis and reporting methodologies",
+        "Support identification and implementation of $30M in clinical and interventional initiatives",
+        "Validate over $20M in financial savings (including diagnostics and pharmacy initiatives)",
+        "Implement financial enhancement models for revenue cycle process change optimization",
+        "Lead sustainability reviews to ensure clients continue to realize implemented savings",
+        "Slash over $30M in annual recurring non labor expenses."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Administrative Fellow",
+      "url": "",
+      "startDate": "2010-06-01",
+      "endDate": "2011-06-01",
+      "summary": "Participation in all MSO services including billing and cycle revenue management, call center services, provider credentialing, practice assessments and vendor management. Centralize Program Registration and Benefits Assistance department using root cause problem solving strategies.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Director of Clinical Support",
+      "url": "",
+      "startDate": "2011-06-01",
+      "endDate": "2013-05-01",
+      "summary": "Responsible for the overall quality and accuracy of clinical front office functions. Practice acquisition of new clinics including project management, staff assignment, purchasing and go-live. Primary liaison between billing, finance, credentialing and operational procedure issues at 28 clinics.",
+      "highlights": [
+        "Manage daily clinic collections & reporting process change to eliminate zero-tolerance financial errors",
+        "Restructure front office new hire orientation curriculum to improve employee satisfaction and retention",
+        "Define corporate scheduling and collections policies to increase front office collections by 11%",
+        "Design Explorative Technology Front Office Workflow Redesign pilot to reduce encounter cycle time and improve workflow",
+        "Establish University of Texas Health Information Technology partnership to coordinate clinical observations/practicums."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Administrative Resident",
+      "url": "",
+      "startDate": "2009-05-01",
+      "endDate": "2010-05-01",
+      "summary": "Reconcile physician contracts to measure clinical productivity and bonus allocation. Design mid-level provider clinical rotation program and database to support tracking and recruitment efforts. Collaborate with administrative leadership to develop cost savings initiatives.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Texas",
+      "url": "",
+      "area": "Health Information Technology",
+      "studyType": "Select One",
+      "startDate": "",
+      "endDate": "2013-05-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "University of Pittsburgh",
+      "url": "",
+      "area": "",
+      "studyType": "Master of Health Administration",
+      "startDate": "",
+      "endDate": "2010-04-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "University of Pittsburgh",
+      "url": "",
+      "area": "",
+      "studyType": "B.A",
+      "startDate": "",
+      "endDate": "2008-04-01",
+      "score": "Magna Cum Laude",
+      "courses": ["Communication and Rhetoric"]
+    },
+    {
+      "institution": "Die Neue Schule",
+      "url": "",
+      "area": "",
+      "studyType": "Intensive Language Studies",
+      "startDate": "",
+      "endDate": "2005-08-01",
+      "score": "Magna Cum Laude",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Post Graduate Administrative Fellowship",
+      "date": "After 2010-04-01",
+      "awarder": "University of Pittsburgh",
+      "summary": "Awarded coveted post graduate administrative fellowship upon Master of Health Administration completion."
+    }
+  ],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Microsoft Excel, Word, Power Point, Visio & Access Vantage Analytics",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "NextGen Electronic Practice Management Super User Valify Purchased Services Analytics",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "NextGen Electronic Health Record End User PeopleSoft Financials & Supply Chain Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "PolicyTech Lawson Supply Chain Management",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "German",
+      "fluency": "Professional"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

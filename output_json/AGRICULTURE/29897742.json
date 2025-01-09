@@ -1,0 +1,110 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Adult Education Teacher",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Seasoned Agriculture Teacher with more than 20 years of experience in the educational sector. Excellent teaching and leadership skills with a track record of exceptional results in FFA programs and Credit Recovery Programs. Achieved program improvement in numbers at Covina High School and Bloomington High School.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Pomona",
+      "countryCode": "USA",
+      "region": "California"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Colton Joint Unified School District",
+      "position": "Adult Education Teacher",
+      "url": "",
+      "startDate": "2016-08-01",
+      "endDate": "Current",
+      "summary": "Implemented and started the Adult Education Program for the district, working with students to help them achieve their goals of obtaining their diplomas.",
+      "highlights": [
+        "Leadership in High Desert Challengers 4H for 12 years",
+        "Involved in helping kids raise animals and learning to sew for the San Bernardino County Fair",
+        "Collaborated in the development of the Adult Education Project",
+        "Supervised a team of three staff members"
+      ]
+    },
+    {
+      "name": "Unknown",
+      "position": "Agriculture/Credit Recovery Teacher",
+      "url": "",
+      "startDate": "2000-08-01",
+      "endDate": "Current",
+      "summary": "Planned and conducted activities for a balanced program of instruction, demonstration, and work time that provided students opportunities to observe, question, and investigate. Developed interesting course plans to meet academic, intellectual and social needs of students. Routinely met with students' parents regarding in-class issues and learning interruptions to discuss solutions.",
+      "highlights": ["Created college prep lessons targeting college-bound students", "Developed new courses that resulted in program growth"]
+    },
+    {
+      "name": "Unknown",
+      "position": "Agriculture Teacher",
+      "url": "",
+      "startDate": "1995-08-01",
+      "endDate": "2000-08-01",
+      "summary": "Developed interesting course plans to meet academic, intellectual and social needs of students. Developed and implemented interesting and interactive learning mediums to increase student understanding of course materials.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "UCR Extension Program",
+      "url": "",
+      "area": "Science",
+      "studyType": "Subject Matter Authorization in Science",
+      "startDate": "",
+      "endDate": "2016",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "University Of San Diego",
+      "url": "",
+      "area": "Crosscultural Language and Academic Development",
+      "studyType": "Cert",
+      "startDate": "",
+      "endDate": "2005",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Unknown",
+      "url": "",
+      "area": "Agriculture Education",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "1995",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Teaching",
+      "level": "",
+      "keywords": [
+        "Data management",
+        "Self-motivated",
+        "Process implementation",
+        "Project management",
+        "Powerful negotiator",
+        "Strong verbal communication",
+        "Team leadership",
+        "Extremely organized",
+        "Staff development"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

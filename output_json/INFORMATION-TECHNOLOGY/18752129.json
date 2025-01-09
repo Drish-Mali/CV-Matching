@@ -1,0 +1,135 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Information Technology Analyst",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "To pursue a caring and creative career, where I can apply my existing knowledge, acquire new skills ... ",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Information Technology Analyst",
+      "url": "",
+      "startDate": "2010-09",
+      "endDate": "2011-09",
+      "summary": "I believe that each child has their own potential...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Technology Analyst",
+      "url": "",
+      "startDate": "2010-01",
+      "endDate": "2010-08",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Software Engineer",
+      "url": "",
+      "startDate": "2006-10",
+      "endDate": "2008-06",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Project Engineer",
+      "url": "",
+      "startDate": "2004-07",
+      "endDate": "2006-10",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Folsom Lake College",
+      "url": "",
+      "area": "Computer Science and Engineering",
+      "studyType": "B.E",
+      "startDate": "",
+      "endDate": "2016-12",
+      "score": "",
+      "courses": [
+        "Early Childhood Education - 6 Units Computer Science and Engineering"
+      ]
+    },
+    {
+      "institution": "Karunya Institute of Technology, Coimbatore",
+      "url": "",
+      "area": "Matriculation",
+      "studyType": "",
+      "startDate": "2004",
+      "endDate": "2004",
+      "score": "68 / 10.0",
+      "courses": []
+    },
+    {
+      "institution": "Sri Vijay Vidyalaya Matriculation HSS, Dharmapuri",
+      "url": "",
+      "area": "S.S.L.C",
+      "studyType": "",
+      "startDate": "1998",
+      "endDate": "1998",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "",
+      "level": "",
+      "keywords": [
+        "apple",
+        "Art",
+        "book",
+        "Oral",
+        "concept",
+        "conflict resolution",
+        "CPR",
+        "creativity",
+        "Designing",
+        "direction",
+        "Documentation",
+        "First Aid",
+        "Flash",
+        "fundraising",
+        "drawing",
+        "instruction",
+        "Materials",
+        "meetings",
+        "organizing",
+        "philosophy",
+        "express",
+        "Read",
+        "Recording",
+        "Safety",
+        "sound",
+        "teacher",
+        "Teaching",
+        "Transportation"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

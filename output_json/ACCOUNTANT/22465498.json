@@ -1,0 +1,113 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Assistant Accountant",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Dynamic, creative and proactive Accountant seeking a long-term opportunity within the business community, where my professional, experience, education, and abilities would be advantageous to the growth of my employer and myself. ACCA Finalist with 10 years Financial Accounting, Public Finance and Financial Management experience.",
+    "location": {},
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Government of the Republic of Zambia",
+      "position": "Assistant Accountant",
+      "url": "",
+      "startDate": "2005-09",
+      "endDate": "Current",
+      "summary": "Closing of monthly accounts and preparing financial statements for submission to the council (Board of Directors). Monitoring of expenditure and ensure they remain within authorized levels. Preparing disbursement vouchers ...",
+      "highlights": ["Best Cashier in Barclays Bank Zambia Limited in 2002", "Best Back Office Clerk in Barclays Bank Zambia Limited in 2003"]
+    },
+    {
+      "name": "",
+      "position": "Bank Clerk",
+      "url": "",
+      "startDate": "2004-01",
+      "endDate": "2005-05",
+      "summary": "Reporting to the Branch Manager. Managing controlled stationery (cheque books). Monthly branch closed accounts...",
+      "highlights": []
+    },
+    {
+      "name": "",
+      "position": "Cashier",
+      "url": "",
+      "startDate": "2001-09",
+      "endDate": "2003-12",
+      "summary": "Providing customer services to a culturally diverse setting. Receiving personal and company deposits of local and foreign currencies...",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Zambia Accountacy and Business Tuition Centre",
+      "url": "",
+      "area": "",
+      "studyType": "ACCA II Part Qualified",
+      "startDate": "2008",
+      "endDate": "2008",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "National Institutes of Public Administration (NIPA)",
+      "url": "",
+      "area": "Accountancy",
+      "studyType": "Diploma",
+      "startDate": "",
+      "endDate": "2001",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Kamwala Secondary School",
+      "url": "",
+      "area": "",
+      "studyType": "Grade 12",
+      "startDate": "",
+      "endDate": "1995",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Chingwele Primary School",
+      "url": "",
+      "area": "",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "1990",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Financial Management",
+      "level": "Master",
+      "keywords": ["Financial Performance assessment", "Financial Planning", "Accounting", "Compliance/Auditing/Assurance", "Cash Management", "Budgeting", "Financial Reporting", "Cash Flow Statements"]
+    },
+    {
+      "name": "Business",
+      "level": "Master",
+      "keywords": ["Business consultant/Advisor", "Business Management"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [
+    {
+      "name": "Anna Mwinga",
+      "reference": "Corporate Affairs and Human Resources Manager National Milling Company, Cell: 0977 757437"
+    },
+    {
+      "name": "Moses Simpokolwe",
+      "reference": "Human Resources and Administrative Officer National Science and Technology Council."
+    }
+  ],
+  "projects": []
+}

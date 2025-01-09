@@ -1,0 +1,94 @@
+{
+  "basics": {
+    "name": "N/A",
+    "label": "Accountant",
+    "image": "",
+    "email": "N/A",
+    "phone": "N/A",
+    "url": "N/A",
+    "summary": "Current Accountant with the City of Alexandria with over 15 years experience in the accounting industry. Knowledge in governmental accounting procedures, financial statement preparation, general ledger activity, budget preparation & analysis, bank reconciliations, accounts payables & receivables, payroll, fixed assets, tax preparation & audit procedures.",
+    "location": {
+      "address": "N/A",
+      "postalCode": "N/A",
+      "city": "Alexandria",
+      "countryCode": "N/A",
+      "region": "N/A"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "N/A",
+      "position": "Accountant",
+      "url": "N/A",
+      "startDate": "2013-08-01",
+      "endDate": "Current",
+      "summary": "Help prepare Financial Statements and Bank Reconciliations. Responsible for Accounts Payable & Fixed Assets for the City of Alexandria.",
+      "highlights": []
+    },
+    {
+      "name": "N/A",
+      "position": "Accountant",
+      "url": "N/A",
+      "startDate": "2009-08-01",
+      "endDate": "2013-02-01",
+      "summary": "Preparation and Analysis of Hospital Financial Statements.",
+      "highlights": []
+    },
+    {
+      "name": "N/A",
+      "position": "Accountant",
+      "url": "N/A",
+      "startDate": "2006-01-01",
+      "endDate": "2008-04-01",
+      "summary": "Prepare & File tax returns for individual, partnership, corporate, and tax exempt clients.",
+      "highlights": []
+    },
+    {
+      "name": "N/A",
+      "position": "Accountant",
+      "url": "N/A",
+      "startDate": "2003-01-01",
+      "endDate": "2004-08-01",
+      "summary": "Prepare individual, partnership, corporate & fiduciary tax returns.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Northwestern State University of Louisiana",
+      "url": "N/A",
+      "area": "Accounting",
+      "studyType": "Bachelor",
+      "startDate": "N/A",
+      "endDate": "2002-01-01",
+      "score": "N/A",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Accounting & Bookkeeping",
+      "level": "Advanced",
+      "keywords": ["GAAP understanding", "Bank reconciliations and balancing", "Advanced bookkeeping skills"]
+    },
+    {
+      "name": "Software",
+      "level": "Advanced",
+      "keywords": ["Microsoft Word, Excel, Access, PowerPoint, & Outlook", "Asset Keeper Pro Software", "QuickBooks Software", "Fixed Asset Solutions Software", "Creative Solutions Bookkeeping Software", "HOST Software", "Document Manager Software", "ProSystem, UltraTax, and Lacerte Tax Preparation Software"]
+    },
+    {
+      "name": "Teamwork",
+      "level": "Advanced",
+      "keywords": ["Flexible team player"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

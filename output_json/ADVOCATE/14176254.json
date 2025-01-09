@@ -1,0 +1,75 @@
+{
+  "basics": {
+    "name": "Not Provided",
+    "label": "Customer Service Advocate",
+    "email": "Not Provided",
+    "phone": "Not Provided",
+    "url": "Not Provided",
+    "summary": "Highly-motivated, coaching, and analytical health insurance leader.",
+    "location": {
+      "address": "Not Provided",
+      "postalCode": "Not Provided",
+      "city": "Not Provided",
+      "countryCode": "Not Provided",
+      "region": "Not Provided"
+    },
+    "profiles": []
+  },
+  "work": [{
+      "name": "Not Provided",
+      "position": "Customer Service Advocate",
+      "startDate": "2016-03-01",
+      "endDate": "Not Provided",
+      "summary": "Patient Cetner Medical Home Dedicate Representative. Worked 0-2 FCR Case Report. Coaching new and seasoned reps on casework and calls. Assisted new customer service representatives. Trained and informed departments regarding PCMH."
+    },
+    {
+      "name": "Not Provided",
+      "position": "Missionary Pastor/Church Planter",
+      "startDate": "2016-06-01",
+      "endDate": "Not Provided",
+      "summary": "Assisted Living River Chapel in Church Revitalization. Developed and taught discipleship curriculum weekly. Preached 45 minute lecture and interactive lessons weekly. Started a non-for-profit organization called The Sparrows. Provided teaching on manhood, womanhood, marriage, parenting. Roasted and sold coffee for non-for-profit organizations. Retreat center."
+    },
+    {
+      "name": "Not Provided",
+      "position": "Customer Service Specialist Contractor",
+      "startDate": "2014-09-01",
+      "endDate": "2016-03-01",
+      "summary": "Created and maintained databases tracking and trending first contact resolution. Analysed and evaluated customer service representative phone calls. Contributedideas and plans for providing exceptional customer service. Offered constructive feedback at weekly sales and training meetings. Followed up with customers on unresolved issues."
+    }],
+  "education": [
+    {
+      "institution": "Moody Bible Institute",
+      "area": "Historical Theology",
+      "studyType": "Bachelor of Arts",
+      "startDate": "Not Provided",
+      "endDate": "2007-05-01"
+    },
+    {
+      "institution": "The Southern Baptist Theological Seminary",
+      "area": "Divinity",
+      "studyType": "Master of Divinity",
+      "startDate": "Not Provided",
+      "endDate": "Not Provided"
+    }],
+  "skills": [
+    {
+      "name": "Quality Analysis",
+      "level": "Not Provided"
+    },
+    {
+      "name": "Training",
+      "level": "Not Provided"
+    },
+    {
+      "name": "Teaching",
+      "level": "Not Provided"
+    }],
+  "volunteer": [],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

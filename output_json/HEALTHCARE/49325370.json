@@ -1,0 +1,109 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Healthcare Effectiveness Data and Information Set (HEDIS) Coordinator",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Committed and motivated Administrative Assistant with exceptional customer service and decision making skills. Strong work ethic, professional demeanor and great initiative. Energetic, results-oriented team-player eager to bring strong administrative skills to a growing company in need of top-level support.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Healthcare Effectiveness Data and Information Set Coordinator (HEDIS)",
+      "url": "",
+      "startDate": "2013-08-01",
+      "endDate": "current",
+      "summary": "Educate and inform members about past due clinical services that improve member health outcomes and increase Health Plan HEDIS rates. Make outbound calls to members; providing assistance with obtaining services by assisting with appointment scheduling, arranging transportation, and conducting reminder calls and/or emails.",
+      "highlights": ["High Level Customer Service and Detail Oriented", "Initiate Document Control and Processing Information"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Loss Prevention/Security Officer",
+      "url": "",
+      "startDate": "2011-12-01",
+      "endDate": "2013-02-01",
+      "summary": "Executed internal and external surveillances using state-of-the-art detection and investigation systems. Prepared data for property and damage reports, recording malfunctioning of facility equipment.",
+      "highlights": ["Patrol and Crowd Control Access", "Effective Organization and Communication Skills"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Security Officer",
+      "url": "",
+      "startDate": "2010-07-01",
+      "endDate": "2011-10-01",
+      "summary": "Patrolled designated areas watching for unusual conditions that create security concerns or safety hazards. Monitored and authorized entrance and departure of employees, visitors, and other persons to guard against theft and maintain premise security.",
+      "highlights": ["Investigated, prepared reports, and maintained written logs on accidents, incidents, and suspicious activities."]
+    },
+    {
+      "name": "Company Name",
+      "position": "Account Receivables/Administrative Assistant",
+      "url": "",
+      "startDate": "2007-07-01",
+      "endDate": "2008-10-01",
+      "summary": "Investigated discrepancies, issued debit memos, reviewed aging balance reports to identify past due accounts, collection calls, and month-end close activities.",
+      "highlights": ["Fielded all calls on 12- line multi phone system, responded to email and fax inquiries, managed mail and client traffic for the body shop"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Detention Specialist",
+      "url": "",
+      "startDate": "2002-07-01",
+      "endDate": "2005-10-01",
+      "summary": "Supervised Central Control and Tower Controls in the Detention Center. Completed intake and release of detainees.",
+      "highlights": ["Interacted with defendants, attorneys and the general public, providing them imperative information."]
+    },
+    {
+      "name": "Company Name",
+      "position": "Probation Case Specialist",
+      "url": "",
+      "startDate": "2000-07-01",
+      "endDate": "2001-12-01",
+      "summary": "Retrieved criminal records to update history with new charges and probation status on various specialty systems.",
+      "highlights": ["Maintained statistical data concerning case processing activities for three probation officers and performed various financial transactions."]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Kennesaw State Continuing Education",
+      "url": "",
+      "area": "Medical Administration",
+      "studyType": "Certified Medical Office Assistant",
+      "startDate": "",
+      "endDate": "2009",
+      "score": "",
+      "courses": ["Medical Office Receptionist/Support Specialist",
+                   "Patient Scheduling",
+                   "Medical Records/Documents",
+                   "CMS 1500 Medical Billing",
+                   "Medical Terminology/Basic Anatomy and Physiology",
+                   "Specialized Billing/Reimbursement",
+                   "Business Skill and Management",
+                   "Certified CPR w/AED"]
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Accounts receivable management",
+      "level": "Expert",
+      "keywords": ["Accounts receivable", "CPR", "faxes", "filing", "law enforcement", "loss prevention", "Medical Billing", "Medical Terminology", "Microsoft Office Suite", "security", "scheduling", "staff training", "switchboard"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

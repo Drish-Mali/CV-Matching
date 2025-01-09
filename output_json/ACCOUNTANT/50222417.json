@@ -1,0 +1,136 @@
+{
+  "basics": {
+    "name": "Name not provided",
+    "label": "Staff Accountant",
+    "image": "",
+    "email": "Email not provided",
+    "phone": "Phone not provided",
+    "url": "URL not provided",
+    "summary": "A graduate student in Masters of Science in Finance Management and IT and a CPA candidate with expected completion by the end of 2017. I am an Accounting and Finance professional with 4+ years extensive experience in full financial statement reporting, month end closures, Review of G'L, Balance Sheet and Statement of Revenue and Expenses, and Financial Risk assessment as well as budget analysis and various reconciliations.",
+    "location": {
+      "address": "Address not provided",
+      "postalCode": "Postal code not provided",
+      "city": "City not provided",
+      "countryCode": "Country code not provided",
+      "region": "Region not provided"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Staff Accountant",
+      "url": "URL not provided",
+      "startDate": "2015-02",
+      "endDate": "2016-06",
+      "summary": "Full charge bookkeeper who reported and provided assistance directly to the CFO/Controller on all finance and accounting matters. Maintained all aspects of Accounting and worked with auditors for all year-end adjustments.",
+      "highlights": [
+        "Conducted analysis to address discrepancies in 2014 Balance Sheet and General Ledger� which led to a complete overhaul of various cash account reconciliation processes and internal controls.",
+        "Recommended salaries and fringes' allocation benchmark and monitored multiple grants' agreements.",
+        "Added value and insights through analyzing budgetary variances and actuals."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Finance Consultant/Budget Analyst",
+      "url": "URL not provided",
+      "startDate": "2013-10",
+      "endDate": "2015-02",
+      "summary": "Provided financial and accounting services to a portfolio of private and public clients. Offered thorough support in budgeting, cash flow management, and harmonizing financial processes.",
+      "highlights": [
+        "Streamlined financial processes and Internal control implementation",
+        "Analysis of variances analysis and development of new plan of action",
+        "Maintained Chart Accounts"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Senior Accountant",
+      "url": "URL not provided",
+      "startDate": "2012-06",
+      "endDate": "2013-08",
+      "summary": "Evaluated clients' financials and ensured efficient audit controls. Aided CFOs in monthly financial statement reports production.",
+      "highlights": [
+        "Offset unapproved and unusual expenses variances in their respective areas.",
+        "Performed expenses and revenue analysis."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Financial Coordinator, Accountant I",
+      "url": "URL not provided",
+      "startDate": "2011-04",
+      "endDate": "2012-01",
+      "summary": "Performed grant accountant duties for a portfolio of grants funded program at Center of Advanced Study of Languages (CASL) and at Institute of Biotechnology and Bioscience Research (IBBR).",
+      "highlights": [
+        "Defined grants projects deliverables with contractors and monitored deadlines accordingly.",
+        "Performed monthly budget actualization and developed monthly financial reports."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Maryland University College",
+      "url": "URL not provided",
+      "area": "Finance Management and IT Progress",
+      "studyType": "Master of Science",
+      "startDate": "Not provided",
+      "endDate": "2017-Summer",
+      "score": "Score not provided",
+      "courses": []
+    },
+    {
+      "institution": "University of Maryland",
+      "url": "URL not provided",
+      "area": "Accounting",
+      "studyType": "Bachelor of Science",
+      "startDate": "Not provided",
+      "endDate": "2011",
+      "score": "3.33",
+      "courses": []
+    }
+  ],
+  "volunteer": [],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Certified Public Accountant",
+      "date": "2017-Winter",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "OMB Circ. A 133, 122, 21 and 110 Certification",
+      "date": "Date not provided",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Account Reconciliation",
+      "level": "Proficient",
+      "keywords": []
+    },
+    {
+      "name": "Accounting",
+      "level": "Proficient",
+      "keywords": ["Bookkeeping"]
+    },
+    {
+      "name": "Financial Analysis and Reporting",
+      "level": "Proficient",
+      "keywords": ["Statement reporting", "Budget Analysis"]
+    },
+    {
+      "name": "Software Skills",
+      "level": "Proficient",
+      "keywords": ["Microsoft Dynamics", "Excel", "Outlook", "QuickBooks"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

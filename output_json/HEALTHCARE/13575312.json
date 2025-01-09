@@ -1,0 +1,82 @@
+{
+  "basics": {
+    "name": "Name Unspecified",
+    "label": "Project Manager",
+    "email": "Email unspecified",
+    "phone": "Contact number unspecified",
+    "summary": "Accomplished Information technology professional with 20 years of experience in the software development life cycle (SDLC) with focus on application analysis and design, application development, systems testing, and systems integration. Certified as a Project Management Professional (PMP). Accustomed to managing multiple projects and priorities in fast-paced environments.",
+    "location": {
+      "address": "Unspecified",
+      "postalCode": "Unspecified",
+      "city": "Unspecified",
+      "countryCode": "Unspecified",
+      "region": "Unspecified"
+    }
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Project Manager",
+      "startDate": "2013-07-01",
+      "endDate": "Current",
+      "summary": "Leads and supports complex projects or programs including the planning, management, and implementation of assigned projects and/or programs. Responsible for critical project management deliverables. Manages project financials and project resources."
+    },
+    {
+      "name": "Company Name",
+      "position": "Healthcare Product Manager",
+      "startDate": "2009-07-01",
+      "endDate": "2013-05-01",
+      "summary": "Evaluated the systems needs of the Healthcare business and led a team of Business Analysts through the product lifecycle of new and existing systems. Led daily scrums to communicate current day's goals, previous day's achievements, and any impediments or concerns in an Agile Scrum environment."
+    },
+    {
+      "name": "Company Name",
+      "position": "Managing Consultant",
+      "startDate": "2000-08-01",
+      "endDate": "2009-04-01",
+      "summary": "Designed and implemented supply chain transformation solutions. Managed boarding process for new customers. Managed off-shore test team resources in India."
+    },
+    {
+      "name": "Company Name",
+      "position": "Technical Analyst",
+      "startDate": "1998-06-01",
+      "endDate": "2000-08-01",
+      "summary": "Implemented package integration solutions for the healthcare industry. Led efforts for unit, product, system and regression testing of a data loader application."
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Georgia",
+      "area": "Finance",
+      "studyType": "MBA",
+      "startDate": "Unspecified",
+      "endDate": "Unspecified"
+    },
+    {
+      "institution": "Spelman College",
+      "area": "Computer Science",
+      "studyType": "BS",
+      "startDate": "Unspecified",
+      "endDate": "Unspecified"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Project Management",
+      "level": "Unspecified",
+      "keywords": ["Issue resolution", "Microsoft Office Suite", "Budgeting", "SQL and databases", "Business artifacts documentation", "Team oversight", "Data mapping", "Test case scenarios", "Project finance", "Quality assurance", "Multi-tasking", "Testing plans", "Organized", "Bug tracking", "Project planning", "Report delivery"]
+    },
+    {
+      "name": "Technical Skills",
+      "level": "Unspecified",
+      "keywords": ["Agile", "Application Design", "Application Development", "C", "C++", "Change Management", "client/server", "concept development", "conceptual design", "Customer Relationship Management", "CRM", "client", "clients", "Data Management", "Databases", "database", "Enterprise Application Integration", "EAI", "Enterprise Javabeans", "EJB", "expense reporting", "XML", "HTML", "IBM", "DB2", "Java", "Java Server Pages", "beans", "JavaScript", "JDBC", "MDBs", "MS Access", "Microsoft Office Suite", "Microsoft Project", "Microsoft Visio", "migration", "Enterprise", "ORACLE", "Developer", "PL/SQL",  "PostgreSQL", "pricing", "Primavera", "Product Management", "Project Management", "quality", "quality assurance", "retail", "risk management", "Rational Unified Process", "Sales", "scheduling", "SCRUM", "SDLC", "servers", "servlets", "scripts", "Software Development", "MS SQL Server", "SQL", "strategy", "supply chain", "Systems Integration", "TestDirector", "Validation", "Microsoft Visual Studio", "Wealth Management", "IBM WebSphere", "WebSphere", "WinRunner"]
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Project Management Professional (PMP)",
+      "date": "Unspecified",
+      "issuer": "Project Management Institute (PMI)",
+      "url": "URL Unspecified"
+    }
+  ]
+}

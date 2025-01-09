@@ -1,0 +1,67 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Donor Advocate",
+    "email": "",
+    "phone": "",
+    "summary": "Organized professional with a passion to help others. Backed by four years of classroom teaching experience, one year leading an international children's choir and over two years in Donor Relations. I am a creative thinker, eager to learn and discover new ways to implement strategies in order to successfully reach others."
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Donor Advocate",
+      "startDate": "2017-08-01",
+      "endDate": "2020-03-01",
+      "summary": "Responsible for cultivating relationships and managing giving goals of 300 donors. Created individualized communication plans and giving goals for each donor. Ensured donors were properly thanked and updated. Worked with internal departments to secure project information. Executed plan to retain and upgrade donors."
+    },
+    {
+      "name": "Company Name",
+      "position": "Team Leader for the Children of the World Choir",
+      "startDate": "2016-07-01",
+      "endDate": "2017-06-01",
+      "summary": "Led a team of 19 individuals including 13 children from different countries during a 10-month tour across the US. Directed multiple concerts per week. Built professional relationships. Ensured safety and welfare of the children. Presented information about child sponsorship and humanitarian aid needs."
+    },
+    {
+      "name": "Company Name",
+      "position": "Elementary Teacher",
+      "startDate": "2012-08-01",
+      "endDate": "2016-06-01",
+      "summary": "Increased student interest and participation in the classroom. Bolstered student confidence and achievement. Collaborated with colleagues to ensure the most effective instruction. Established a behavior management system. Fostered meaningful relationships with students and parents."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Liberty University",
+      "area": "Special and Elementary Education",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "2011"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Detail-oriented"
+    },
+    {
+      "name": "Effective time management"
+    },
+    {
+      "name": "Strong written and oral communication skills"
+    },
+    {
+      "name": "Strategic thinker"
+    },
+    {
+      "name": "Goal-oriented"
+    },
+    {
+      "name": "Relationship building"
+    },
+    {
+      "name": "CRM Experience"
+    },
+    {
+      "name": "Salesforce software"
+    }
+  ]
+}

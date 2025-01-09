@@ -1,0 +1,109 @@
+{
+  "basics": {
+    "name": "Not Provided",
+    "label": "VICE PRESIDENT INFORMATION TECHNOLOGY - SOFTWARE ENGINEERING",
+    "image": "",
+    "email": "Not Provided",
+    "phone": "Not Provided",
+    "url": "www.linkedin.com/in/boppanarao",
+    "summary": "A results-driven and business minded technology leader with 20+ years of experience in technology and software development. A professional who is passionate about developing people and teams to reach their greatest potential. A thought leader that partners with business to drive strategy from conception to execution. A team player that places a priority on networking, relationship building and diversity.",
+    "location": {
+      "address": "Not Provided",
+      "postalCode": "Not Provided",
+      "city": "City",
+      "countryCode": "Not Provided",
+      "region": "Not Provided"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "boppanarao",
+        "url": "https://www.linkedin.com/in/boppanarao"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Vice President Information Technology - Software Engineering",
+      "url": "",
+      "startDate": "03/2018",
+      "endDate": "Current",
+      "summary": "Leading all aspects of IT Application Development and Corporate Systems teams encompassing 100+ IT associates plus consultants, $20 m budget, key capital transformative projects for the full life-cycle of delivering world class business solutions.",
+      "highlights": [
+        "Leading technology transformation focused on re-platforming legacy core systems to a cloud and microservices/containers-based architecture running on the AWS platform."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Assistant Vice President - Solutions Delivery",
+      "url": "",
+      "startDate": "07/2015",
+      "endDate": "03/2018",
+      "summary": "Defined and executed product vision for Safelite's overall core systems architecture that drives business growth from 5 national contact centers, 600+ retail locations, 6000 mobile technicians, 90 warehouses, 2 distribution centers, multiple customer driven responsive web applications and customer app engagement tools.",
+      "highlights": [
+        "Drove adoption of agile methodologies across technology teams and business units."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Director Of Technology",
+      "url": "",
+      "startDate": "04/2013",
+      "endDate": "07/2015",
+      "summary": "Managed successful delivery of web responsive self-serviced digital portals for policyholders, agents, insurance claim/adjusters and cash customers.",
+      "highlights": [
+        "Led the implementation of end-to-end IVR solution for key insurance partner and API integrations from insurance partner's website for glass scheduling."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Boston University",
+      "url": "",
+      "area": "Not Provided",
+      "studyType": "Mini MBA",
+      "startDate": "Not Provided",
+      "endDate": "Not Provided",
+      "score": "Not Provided",
+      "courses": []
+    },
+    {
+      "institution": "Anjuman Engineering College",
+      "url": "",
+      "area": "Electronics And Communications Engineering",
+      "studyType": "BS",
+      "startDate": "Not Provided",
+      "endDate": "Not Provided",
+      "score": "Not Provided",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "2018 Stevie Award Gold Winner - Watch us on our way App",
+      "date": "2018-01-01",
+      "awarder": "Not Provided",
+      "summary": ""
+    }
+  ],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "People Centered Leadership",
+      "level": "Expert",
+      "keywords": []
+    },
+    {
+      "name": "Coaching and Talent Development",
+      "level": "Expert",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

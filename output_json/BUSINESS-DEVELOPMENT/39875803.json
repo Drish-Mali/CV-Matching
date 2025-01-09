@@ -1,0 +1,81 @@
+{
+  "basics": {
+    "name": "Name Not Provided",
+    "label": "Business Development Manager",
+    "image": "",
+    "email": "Email Not Provided",
+    "phone": "Phone Not Provided",
+    "url": "URL Not Provided",
+    "summary": "Highly experienced Senior Account Manager, focused on maximizing sales and expanding network connections...",
+    "location": {
+      "address": "Address Not Provided",
+      "postalCode": "Postal Code Not Provided",
+      "city": "City Not Provided",
+      "countryCode": "Country Code Not Provided",
+      "region": "Region Not Provided"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Business Development Manager",
+      "url": "",
+      "startDate": "2005-07-01",
+      "endDate": "Current",
+      "summary": "Acquired and established successful business development...",
+      "highlights": [
+        "Increased sales level by 60% in 2007 alone",
+        "Managed a portfolio of 25 simultaneous accounts",
+	"Grow client base from 2 to 50 accounts in 5 years."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Senior Student Loan Consultant",
+      "url": "",
+      "startDate": "2013-06-01",
+      "endDate": "2015-02-02",
+      "summary": "Drive sales as in a leadership position...",
+      "highlights": [
+      	"Ranked in top 10 of sales reps",
+	"Acquired a portfolio of over 400 clients",
+	"Established 21 new accounts in first month."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Grambling State University",
+      "url": "",
+      "area": "Business Management",
+      "studyType": "Bachelor of Science",
+      "startDate": "Start Date Not Provided",
+      "endDate": "End Date Not Provided",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Business to Business",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Account Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Contract Negotiation",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "P&L Management",
+      "level": "",
+      "keywords": []
+    }
+  ]
+}

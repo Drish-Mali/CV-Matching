@@ -1,0 +1,86 @@
+{
+  "basics": {
+    "name": "John Doe",
+    "label": "Principal Consultant",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "A dynamic strategic leader that translates operations and business strategies into maximum profits commensurate with the best interest of shareholders, customers, employees, and the community. An expert in consumer and mortgage lending dedicated to enhancing profitability by streamlining operational platforms, developing new markets, drafting strategic lending initiatives, growing a high-quality loan portfolio and regulating and managing risk.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "",
+      "region": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Principal Consultant",
+      "url": "",
+      "startDate": "2009-01-01",
+      "endDate": "Current",
+      "summary": "Mortgage banking advisor specializing in developing and implementing business models to achieve successful streamlined mortgage platforms. Areas of expertise include project management and production, streamline operations, loan analysis, risk management and compliance programs.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Habitat for Humanity, Ridgefield Conservatory of Dance",
+      "position": "",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Iowa State University",
+      "url": "",
+      "area": "Finance Banking and Financial Institutions Economics",
+      "studyType": "Bachelor of Science Degree",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Mortgage Lending",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Retail / Wholesale Lending",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Commercial Lending",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [
+    {
+      "name": "Habitat for Humanity",
+      "keywords": []
+    },
+    {
+      "name": "Ridgefield Conservatory of Dance",
+      "keywords": []
+    }
+  ],
+  "references": [],
+  "projects": []
+}

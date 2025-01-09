@@ -1,0 +1,95 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Senior Accountant",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Well-qualified and detail-oriented Accounting Professional with over 3 years of successful experience in positions of increasing responsibilities and duties. Capable of managing multiple projects and consistently meeting deadlines with a positive, can-do attitude. Extensive knowledge of accounting software and processes. Proficient in extracting financial data from various reporting systems and suggesting key operational changes. Equipped with a broad knowledge of accounting concepts and strategies to yield the best possible financial outcomes.",
+    "location": {
+
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Senior Accountant",
+      "url": "",
+      "startDate": "August 2013",
+      "endDate": "Current",
+      "summary": "Oversee the day-to-day operations of the accounting department. Direct and plan the preparation of financial statements that summarize and forecast business activities and financial positions in areas of income, expenses and earnings based on past, present and expected operations.",
+      "highlights": ["Achieved 10% cost reduction", "Maintained accurate accounts", "Experience with ERP systems implementations"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Corp. Accountant",
+      "url": "",
+      "startDate": "May 2012",
+      "endDate": "July 2013",
+      "summary": "Manage all accounting operations including billing/invoicing, A/R, A/P, cash disbursement, general ledger, payroll, cost accounting, inventory, and month-end close",
+      "highlights": ["Managed accounting operations", "Prepared monthly and quarterly financial statements", "Established and executed internal controls"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Graduate Assistant of Economic Department",
+      "url": "",
+      "startDate": "August 2011",
+      "endDate": "May 2012",
+      "summary": "Assisted faculty with academic research or contract research relating to macro and finance",
+      "highlights": ["Conducted statistical analysis"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Ball State University",
+      "url": "",
+      "area": "Accounting",
+      "studyType": "Master of Science",
+      "startDate": "",
+      "endDate": "2012",
+      "score": "3.5/4.0",
+      "courses": ["Seminar in Financial Accounting","Accounting Capstone","Tax Planning and Research","Attestation Principles and Practices","Accounting Information Systems","International Accounting Issues","Seminar in Management Accounting","Seminar in Professional Issues"]
+    },
+    {
+      "institution": "Ball State University",
+      "url": "",
+      "area": "Business Administration",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "2010",
+      "score": "3.2/4.0",
+      "courses": ["Intermediate Accounting 1","Intermediate Accounting 2","Income Tax Accounting","ECON 201 Elementary Microeconomics","ISOM 125 Micro Applications for Business","Principles of Finance 1","Operations Management","Managing Behavior in Organizations","Business Policy and Strategic Management","Principles of Marketing"]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Accounting",
+      "level": "Expert",
+      "keywords": ["Accounting operations professional", "Certified Management Accountant Candidate", "Problem solving", "Ethical and behavioral professionalism", "Time management", "Analytical reasoning", "Organizational skills", "Financial statement analysis", "General ledger accounting", "Cost accounting", "Account reconciliation", "ERP software", "Team player", "Communication skills"]
+    },
+    {
+      "name": "Technical Skills",
+      "level": "Expert",
+      "keywords": ["NetSuite", "Epicor", "Sage", "Quickbooks", "Office Master System", "Peachtree", "GLACIER Tax Prep", "Intuit Payroll", "ChasePaymentech", "Word", "Excel", "Outlook"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Mandarin",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Cantonese",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

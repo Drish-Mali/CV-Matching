@@ -1,0 +1,91 @@
+{
+  "basics": {
+    "name": "SENIOR LEAD TECHNOLOGIST EDITOR",
+    "label": "Senior Lead Technologist Editor",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Over 25 years of experience providing technical support and project management in the system safety and environment, safety, and health disciplines. Experience includes MIL-STD-882 system safety programs; system safety reports and analyses; Programmatic Environment, Safety, and Occupational Health (ESOH) Evaluation (PESHE); policy analysis and development; environmental planning; regulatory compliance evaluations; DoD systems acquisition program oversight and support, pollution prevention (P2) programs and technology transfer. Retired from service with the U.S. Navy. Certified as a Navy Principal for Safety and currently holds a TOP SECRET clearance.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Senior Lead Technologist Editor",
+      "url": "",
+      "startDate": "2000-01-01",
+      "endDate": "Current",
+      "summary": "Managed budget forecasting, goal setting and performance reporting for all accounts. Delivered performance updates, quarterly business reviews and planning meetings. Served as mentor to junior team members. Provided comprehensive program management and technical support for system safety and environmental policy-making and oversight roles.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Environmental Scientist",
+      "url": "",
+      "startDate": "1996-01-01",
+      "endDate": "2000-01-01",
+      "summary": "Developed and reviewed business plans, technical, scientific and engineering studies in support of pollution prevention (P2) initiatives. Provided support for environmental life cycle cost analysis for Navy weapons system programs.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Chief Aviation Support Equipment Technician",
+      "url": "",
+      "startDate": "1978-01-01",
+      "endDate": "1996-01-01",
+      "summary": "Managed Environmental and Safety Programs for Navy Management Systems Support Office Detachment Pacific and USS Forrestal (AVT-59). Performed database administration and maintenance and supply functional analysis for the Naval Aviation Logistics Command Management Information System (NALCOMIS). Coordinated numerous major system hardware and software upgrades, performed functional testing and analysis of the system releases.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "National University",
+      "url": "",
+      "area": "Environmental Management",
+      "studyType": "MS",
+      "startDate": "1996",
+      "endDate": "1996",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Columbia College",
+      "url": "",
+      "area": "History/Government",
+      "studyType": "BA",
+      "startDate": "1991",
+      "endDate": "1991",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [
+    {
+      "name": "DoD-AIA Working Group's Progress on NAS 411-1, Hazardous Materials Target List Update",
+      "publisher": "K. Gill, NDIA Systems Engineering Conference",
+      "releaseDate": "2015-10-01",
+      "url": "",
+      "summary": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Technical Support",
+      "level": "",
+      "keywords": ["AIA", "business plans", "hardware", "content", "Controller", "cost analysis", "clients", "database administration", "documentation", "Fast", "focus", "functional", "government"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

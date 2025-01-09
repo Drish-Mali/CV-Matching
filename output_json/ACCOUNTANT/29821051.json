@@ -1,0 +1,155 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Financial Accountant",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Client-focused Sales Representative with 8+ years of providing solutions to customers. Solid understanding of the [ systems and program areas]. Top producing sales professional and expert in the Solar industry. Dynamic communicator who consistently exceeds goals and company expectations. Regulatory Reporting Supervisor with 8 years experience. � Areas of expertise include Accounting & Finance reporting skills.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Financial Accountant",
+      "url": "",
+      "startDate": "2017-11-01",
+      "endDate": "2018-03-01",
+      "summary": "Ensured communication of and compliance with accounting policies and procedures for AAA Northeast and Subsidiaries (Club) Analyzed financial information communicated from various departments and subsidiaries of the Club to Finance. Prepared monthly journal entries and accruals for the monthly close process. Provide and prepare monthly financial statements for executive management. Prepared financial Information using Vlookup, Pivot Tables & updated financial schedules using Excel.",
+      "highlights": []
+    },
+    {
+        "name": "Company Name",
+        "position": "Solar Energy Consultant",
+        "url": "",
+        "startDate": "2017-05-01",
+        "endDate": "",
+        "summary": "Called on Residential and Commercial customers for their solar needs. Work with networking groups to build relationships to increase sales. Building sales by utilizing social media marketing, trade shows and other techniques to generate sales. Created self generated leads by going door to door in established neighborhoods using sales techniques acquired from training classes. Prospected, qualified and secured new business with small-to-medium sized clients using strategic selling skills.",
+        "highlights": []
+    },
+    {
+        "name": "Company Name",
+        "position": "Solar Energy Consultant",
+        "url": "",
+        "startDate": "2014-03-01",
+        "endDate": "2017-05-01",
+        "summary": "Managing Ambassador Program. Created a network of steady referral business. Educated customers in their homes on alternative clean energy solutions. Designed Solar Systems to determine weather or not the customer would be able to benefit from it.",
+        "highlights": []
+    },
+    {
+        "name": "Company Name",
+        "position": "Business Analyst III",
+        "url": "",
+        "startDate": "2016-04-01",
+        "endDate": "2017-03-01",
+        "summary": "Perform complex general accounting functions including preparation of account analysis and balance sheet reconciliation Perform ad hoc analysis with Lines of Business to ensure proper mapping lines up with all general ledger accounts on a monthly basis. Provided analysis to Lines of business entities to ensure all procedures are being met and maintained during the separation process. Efficiently and effectively participates in large complex projects across business units, product lines or business processes with focus on banking application systems interfacing into general ledger/reporting systems",
+        "highlights": []
+    },
+    {
+        "name": "Company Name",
+        "position": "Treasury Analyst",
+        "url": "",
+        "startDate": "2012-07-01",
+        "endDate": "2015-07-01",
+        "summary": "Performed complex general accounting functions, including preparation of journal entries, account analysis and balance sheet reconciliations. Proposed and published metrics and KPIs to be incorporated into the monthly financials and scorecards. Collected and reported monthly expense variances and explanations. Performed periodic budgeting/modeling to project monthly cash requirements.",
+        "highlights": []
+    },
+    {
+        "name": "Company Name",
+        "position": "Derivatives Middle Office Analyst",
+        "url": "",
+        "startDate": "2005-02-01",
+        "endDate": "2012-07-01",
+        "summary": "Performed complex general accounting functions, including preparation of journal entries, account analysis and balance sheet reconciliations. Prepared accurate financial statements at end of the quarter. Balanced monthly general ledger accounts to accurately record cost and month end accruals. Reconciled debit reports, margin reports and trade settlement reports to reach in-house goals and objectives. Consolidated financial data and materials for key leadership meetings.",
+        "highlights": []
+    },
+    {
+        "name": "Company Name",
+        "position": "Regulatory Reporting Supervisor",
+        "url": "",
+        "startDate": "1997-11-01",
+        "endDate": "2005-02-01",
+        "summary": "Trained new team members on applying due diligence procedures and regulatory mandates. Audited and documented all processes and procedures for the new accounts department. Wrote procedures for internal and external auditing purposes. Trained and directed 4 new hires during department orientations.",
+        "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Rhode Island College",
+      "url": "",
+      "area": "Accounting",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "1993",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Cash flow analysis",
+      "level": "Master",
+      "keywords": []
+    },
+    {
+      "name": "Budget analysis",
+      "level": "Master",
+      "keywords": []
+    },
+    {
+      "name": "Oracle proficiency",
+      "level": "Master",
+      "keywords": []
+    },
+    {
+      "name": "Hyperion Financial Management specialist",
+      "level": "Master",
+      "keywords": []
+    },
+    {
+      "name": "MS Office Suite",
+      "level": "Master",
+      "keywords": []
+    },
+    {
+      "name": "Consolidations",
+      "level": "Master",
+      "keywords": []
+    },
+    {
+      "name": "Finance and accounting",
+      "level": "Master",
+      "keywords": []
+    },
+    {
+      "name": "Experience with Regulatory filings",
+      "level": "Master",
+      "keywords": []
+    },
+    {
+      "name": "Budgeting",
+      "level": "Master",
+      "keywords": []
+    },
+    {
+      "name": "Project management",
+      "level": "Master",
+      "keywords": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

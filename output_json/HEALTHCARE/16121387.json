@@ -1,0 +1,115 @@
+{
+  "basics": {
+    "name": "Name",
+    "label": "Medical Record Technician",
+    "summary": "A Healthcare Administration Professional combining higher education with a history of building strong alliances and partnerships with business professionals, patients, medical personnel, families, and community members to steer operational projects.",
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Medical Record Technician",
+      "startDate": "2014-10-01",
+      "summary": "Analyzes complex data for completeness and accuracy. Performs specialized and diversified clerical duties associated with medical records procedures. Collect, Analyze and report data related to the quality of health information.",
+      "highlights": [
+        "Processes request for release of confidential information for all purposes",
+        "Maintain Regulatory compliance such as (HIPPA) and monitors quality of releasing Health Information.",
+        "Ensures customer service satisfaction and builds high level of leadership for business operations."
+      ]
+    },
+    {
+        "name": "Company Name",
+        "position": "HEALTHCARE UNIT COORDINATOR",
+        "startDate": "2012-01-01",
+        "endDate":"2014-03-01",
+        "summary": "Composed and drafted all outgoing correspondence and reports for managers. Oversaw inventory and office supply purchases. Managed executive calendar and coordinated weekly project team meetings.",
+        "highlights": ["Led the planning and achievement of goals and objectives", "Implemented new projects to expand scope of engagement.", "Confirmed accurate completion of forms/reports for the admission, transfer and/or discharge of each resident."]
+    },
+    {
+        "name": "Company Name",
+        "position": "Voluenteer FLoor Host",
+        "startDate": "2010-01-01",
+        "endDate":"2012-01-01",
+        "summary": "Demonstrated compassion, respect, leadership, expertise, and dignity while interacting with patients, families, physicians, and colleagues of diverse cultural/socio-economic backgrounds and beliefs.",
+        "highlights": ["Ensure quality and timely execution of project deliverables effectively.", "Maintained Accurate Documentation/Records","Upheld the Philosophies/Objectives of Patient Care."]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "The University of Phoenix",
+      "area": "HEALTHCARE ADMINISTRATION",
+      "studyType": "M.H.A.MASTERS",
+      "endDate": "2014-01-01"
+    },
+    {
+      "institution": "Dallas Baptist University",
+      "area": "BUSINESS ADMINISTRATION",
+      "studyType": "Bachelor",
+      "endDate": "2008-01-01"
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "CPR Certification",
+      "issuer": "Provider",
+      "date": "Date"
+    },
+    {
+      "name": "First Aid Certified",
+      "issuer": "Provider",
+      "date": "Date"
+    },
+    {
+      "name": "Six Sigma Certified-Black and Green Belt",
+      "issuer": "ExpertRating.com",
+      "date": "Date"
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Technical",
+      "level": "",
+      "keywords": [
+        "CPR Certified",
+        "First Aid",
+        "Six Sigma",
+        "Spreadsheet",
+        "Word Processing"
+      ]
+    },
+    {
+      "name": "Interpersonal",
+      "level": "",
+      "keywords": [
+        "Excellent Verbal",
+        "Written and Interpersonal Skills",
+        "Professional Handling of exposure to confidential/Sensitive Information"
+      ]
+    },
+    {
+      "name": "Software",
+      "level": "",
+      "keywords": [
+        "Spreadsheet",
+        "Word Processing",
+        "Presentation Software"
+      ]
+    },
+    {
+      "name": "Leadership",
+      "level": "",
+      "keywords": [
+        "customer service",
+        "process improvement",
+        "Strong Analytical"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

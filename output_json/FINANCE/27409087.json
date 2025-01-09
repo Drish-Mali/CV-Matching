@@ -1,0 +1,131 @@
+{
+    "basics": {
+        "name": "Resume Holder",
+        "label": "Head of Accounts and Finance",
+        "email": "",
+        "phone": "",
+        "url": "",
+        "summary": "Flexible Accountant who adapts seamlessly to constantly evolving accounting processes and technology. Adept at budget forecasting, financial reporting and corporate tax planning.",
+        "location": {},
+        "profiles": []
+    },
+    "work": [
+        {
+            "name": "Company Name",
+            "position": "Head of Accounts and Finance",
+            "url": "",
+            "startDate": "2013-10",
+            "endDate": "Current",
+            "summary": "Accountable for the accounting operations of the company...",
+            "highlights": []
+        },
+        {
+            "name": "Company Name",
+            "position": "Senior Accountant",
+            "url": "",
+            "startDate": "2010-12",
+            "endDate": "2013-10",
+            "summary": "Working with Pivot tables to coffee & cocoa books...",
+            "highlights": []
+        },
+        {
+            "name": "Company Name",
+            "position": "Accountant",
+            "url": "",
+            "startDate": "2009-6",
+            "endDate": "2010-12",
+            "summary": "Maintaining staff imprest records and retirement...",
+            "highlights": []
+        },
+        {
+            "name": "Company Name",
+            "position": "Trainee",
+            "url": "",
+            "startDate": "2008-8",
+            "endDate": "2009-6",
+            "summary": "Prepare payments...",
+            "highlights": []
+        }
+    ],
+    "volunteer": [
+        {
+            "organization": "Mabibo Teaching Center",
+            "position": "Trainer",
+            "url": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": "Assist those who don't have entry criterion as a requirement for joining high school level",
+            "highlights": []
+        }
+    ],
+    "education": [
+        {
+            "institution": "Tanzania Institute Of Accountancy",
+            "url": "",
+            "area": "Accounting",
+            "studyType": "Post Graduate Diploma",
+            "startDate": "",
+            "endDate": "2012",
+            "score": "",
+            "courses": []
+        },
+        {
+            "institution": "Institute Of Finance Management",
+            "url": "",
+            "area": "Accountancy",
+            "studyType": "Advanced Diploma",
+            "startDate": "",
+            "endDate": "2008",
+            "score": "",
+            "courses": []
+        },
+        {
+            "institution": "Minaki High School",
+            "url": "",
+            "area": "Science",
+            "studyType": "Advanced Certificate of Secondary Education",
+            "startDate": "",
+            "endDate": "2001",
+            "score": "",
+            "courses": []
+        },
+        {
+            "institution": "Tosamaganga Secondary School",
+            "url": "",
+            "area": "Science and Arts",
+            "studyType": "Certificate of Secondary Education",
+            "startDate": "",
+            "endDate": "1998",
+            "score": "",
+            "courses": []
+        }
+    ],
+    "awards": [],
+    "certificates": [],
+    "publications": [],
+    "skills": [
+        {
+            "name": "Accounts payables & receivables, Auditing, Data entry, Internet, Exchange rate control",
+            "level": "",
+            "keywords": ["Microsoft Proficiency: Word, Spreadsheets, Outlook, Power Point", "Payroll processing", "Accounting software: Quick Books, Sage Pastel, SAP ERP, TAS Books, TALLY, Research, Account reconciling, Financial Reporting, Management Accounting, GAAP, IFRS, Forecast Vs Actuals for weekly and monthwise"]
+        }
+    ],
+    "languages": [
+        {
+            "language": "Swahili",
+            "fluency": ""
+        },
+        {
+            "language": "English",
+            "fluency": ""
+        }
+    ],
+    "interests": [
+        {
+            "name": "Gardening Trees",
+            "keywords": []
+        }
+    ],
+    "references": [],
+    "projects": []
+}

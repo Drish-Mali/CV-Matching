@@ -1,0 +1,132 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Acting Finance Manager",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Innovative Accountant proficient in extracting financial data from various reporting systems and suggesting key operational changes.",
+    "location": {},
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Acting Finance Manager",
+      "url": "",
+      "startDate": "2011-01-01",
+      "endDate": "Current",
+      "summary": "Working as Chief Accountant and reporting to General Manager, responsibilities included financial reporting, analysis, budgeting, control measures etc.",
+      "highlights": [
+        "Reduced cost by 400K USD over period of 2 years.",
+        "Won contract worth USD 500 Mn contract from ARAMCO, in 2014.",
+        "Developed internal reports to control operating cost.",
+        "Brought receivables down from 120 to 65 days.",
+        "Implemented inventory management in ERP-Oracle Financials 12i",
+        "Determined basis for allocation of overhead cost to various cost centers",
+        "Prepared 3, 5 and 7 years financial plans."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Accountant",
+      "url": "",
+      "startDate": "2009-01-01",
+      "endDate": "2011-01-01",
+      "summary": "Worked as an accountant, reporting to General Manager, with responsibilities including daily sales report generation, cash deposit details reconciliation etc.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Inventory and Supply Chain analyst",
+      "url": "",
+      "startDate": "2007-01-01",
+      "endDate": "2009-01-01",
+      "summary": "Coordinated and managed flow of materials into, through and out of the manufacturing process. Solved inventory issues, prepared forecasts and adopted cost reduction strategies.",
+      "highlights": [
+        "Reduced inventory cost by 200K."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Kelley School of Business, Indiana University",
+      "url": "",
+      "area": "Business, Accounting and Finance",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "2010-08",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "CMA Certified",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "Certified in advance MS Excel",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Accounting and Finance",
+      "level": "",
+      "keywords": [
+        "Inventory",
+        "Accountant",
+        "Accounts And",
+        "Ar",
+        "Basis",
+        "Cash",
+        "Cost Reduction",
+        "General Ledger",
+        "Internal Controls",
+        "Of Accounts",
+        "Sales",
+        "Sales Tax",
+        "Accounting",
+        "Finance",
+        "Accounting Analysis",
+        "Accounts Payable",
+        "Accounts Receivables",
+        "Balance Sheet",
+        "Bank Reconciliations",
+        "Budgets",
+        "Business Plans",
+        "Cash Management"
+      ]
+    },
+    {
+      "name": "IT",
+      "level": "",
+      "keywords": [
+        "Access",
+        "Citrix",
+        "Cma",
+        "Excel",
+        "Mainframe",
+        "Ms Excel",
+        "Ms Office",
+        "Quickbooks Pro",
+        "Sap",
+        "Warehouse Management",
+        "Word"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

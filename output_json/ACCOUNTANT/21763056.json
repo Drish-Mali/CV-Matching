@@ -1,0 +1,100 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Accountant",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "To obtain a challenging position in a professional and dynamic environment while utilizing my skills and experience to further my career in accounting.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Accountant, Staff Accountant/ Lease Administrator, Assistant Claim Approver, Proof Operator, Billing Associate, Account Receivable Clerk",
+      "url": "",
+      "startDate": "1991-09-01",
+      "endDate": "Current",
+      "summary": "Various accounting tasks including but not limited to reconciliation, managing general ledgers, approving claims, account receivable operations, industrial billing, documentation, budgeting, and completing monthly close procedures. Approved SAP account requests from multiple departments and analyzed and reconciled account balances on periodically.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Gujarat University India",
+      "url": "",
+      "area": "Accounting",
+      "studyType": "Master",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": [
+        "Computer Programming in COBOL language"
+      ]
+    },
+    {
+      "institution": "Triton College in River Grove, IL",
+      "url": "",
+      "area": "Computer Programming in COBOL language",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Accounting",
+      "level": "Master",
+      "keywords": [
+        "account reconciliation",
+        "accounting",
+        "accounts payable",
+        "accruals",
+        "balance sheet",
+        "balance sheets",
+        "bank reconciliation",
+        "budgeting",
+        "COBOL",
+        "Computer Programming",
+        "corporate accounting",
+        "documentation",
+        "Excel",
+        "finance",
+        "financial reports",
+        "financial statements",
+        "fixed assets",
+        "general ledger",
+        "Access",
+        "PowerPoint",
+        "Word",
+        "month-end closing",
+        "real estate",
+        "reporting",
+        "sales",
+        "SAP",
+        "settlements",
+        "tax",
+        "taxes",
+        "treasury"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

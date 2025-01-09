@@ -1,0 +1,135 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Test Engineer",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "I am seeking the challenging position with a technology company that will allow me to apply and enhance my skills of being a Test Engineer to their fullest potential. Possessing over 10 years of experience in the electronics manufacturing and test engineering environment can bring high level of responsibility and technical role in your company. In addition, I am eager to contribute my creativity and hard work towards the success of your company and to the growth of the fast developing field.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Test Engineering",
+      "url": "",
+      "startDate": "2006-02-01",
+      "endDate": "Current",
+      "summary": "Perform component debugging on the complex android mobile technology products with Android Debug commands. Troubleshoot and perform final root cause failure analysis on the component level for various hardware appliances. Responsible to perform functional test and system level validation, manage RMA returns and process orders, and many more responsibilities.",
+      "highlights": [
+        "Bronze Six Sigma certified.",
+        "Applied Lean Six Sigma methodologies to improve production process."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Integration System Engineer",
+      "url": "",
+      "startDate": "2005-07-01",
+      "endDate": "2006-02-01",
+      "summary": "Created proposals, designed Security Access Control, CCTV Surveillance System and Alarm Systems for Government, Commercial, and Residential customers and provided Technical Support to Field Technicians and customers."
+    },
+    {
+      "name": "Company Name",
+      "position": "Lab Technician",
+      "url": "",
+      "startDate": "2003-04-01",
+      "endDate": "2005-07-01",
+      "summary": "Worked with the company's Vice President of engineering on the development of alarm verification VIT system. Supported the development of new production and R&D engineering department overseas."
+    },
+    {
+      "name": "Company Name",
+      "position": "Test Technician III",
+      "url": "",
+      "startDate": "2002-01-01",
+      "endDate": "2003-03-01",
+      "summary": "Test and troubleshoot flat touch screens and reported daily test reports to the engineering department. Trained new employees to perform task on assembly lines."
+    },
+    {
+      "name": "Company Name",
+      "position": "Production Test Technician II",
+      "url": "",
+      "startDate": "2000-10-01",
+      "endDate": "2001-11-01",
+      "summary": "Test and Debugged all SUNFIRE mid and high series servers. Assisted Manufacturing Engineers to install and test new features on servers."
+    },
+    {
+      "name": "Company Name",
+      "position": "Test Technician I",
+      "url": "",
+      "startDate": "1999-03-01",
+      "endDate": "2000-09-01",
+      "summary": "Worked with Engineers on new customer products for Telecommunication Servers. Performed test and repaired bad main boards, worked on SMT machines on a production."
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Northwestern Polyphonic University",
+      "url": "",
+      "area": "Electrical Engineering",
+      "studyType": "BSEE",
+      "startDate": "",
+      "endDate": "2016",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "D.A.V. College Jalandhar City",
+      "url": "",
+      "area": "Physics, Chemistry and Mathematics",
+      "studyType": "Associate Degree",
+      "startDate": "",
+      "endDate": "2001",
+      "score": "4.0",
+      "courses": []
+    },
+    {
+      "institution": "Heald College School of Technology",
+      "url": "",
+      "area": "Electronics Technology",
+      "studyType": "AAS Degree",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Test Engineering",
+      "level": "Expert",
+      "keywords": [
+        "Digital/Analog and RF Circuits Design Techniques and Troubleshooting",
+        "Circuit board and microscope soldering skills",
+        "Python Scripting for test automation",
+        "Solaris 10 OS, Linux Mandrake and Red Hat OS Configuration",
+        "SQL Server Configuration",
+        "UNIX Script & Shell Programming",
+        "Networking Essentials",
+        "Networking Cabling Cat5e, Cat6 and Fiber Optic",
+        "TCP/IP and OSI Layers Knowledge",
+        "Windows XP Pro-Win 7 Mac OS X Leopard",
+        "PC Hardware Installation PC Troubleshooting",
+        "PC Software Installation Routers and Switches",
+        "Cable Modems Experience",
+        "Network Subnetting, routing and addressing"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

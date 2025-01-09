@@ -1,0 +1,105 @@
+{
+  "basics": {
+    "name": "Healthcare Consultant",
+    "label": "Consultant",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Executive health/longevity expert and corporate wellness consultant with experience in assisting physicians, hospitals and other healthcare providers to achieve their strategic and operational goals.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Last Company Name",
+      "position": "Healthcare Consultant",
+      "url": "",
+      "startDate": "2013-03-01",
+      "endDate": "current",
+      "summary": "Specializes in assisting physicians, hospitals, outpatient rehabilitation clinics, and a diverse list of other healthcare providers throughout the U.S. and abroad to achieve their strategic and operational goals.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "President and Founder",
+      "url": "",
+      "startDate": "1990-01-01",
+      "endDate": "current",
+      "summary": "Responsible for overall strategy and implementation of all aspects of the business. Company provides consulting and training seminars in the areas of executive health, corporate wellness, nutrition, stress management/work-life balance, fitness, and longevity.",
+      "highlights": ["Publishing in the areas of nutrition, fitness, wellness, sports, and spiritual development."]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Loma Linda University",
+      "url": "",
+      "area": "Public Health",
+      "studyType": "Doctor",
+      "startDate": "",
+      "endDate": "1980-08-01",
+      "score": "",
+      "courses": ["Academic preparation", "Practical skills", "Administrative abilities in developing", "Implementing", "And evaluating programs and protocols designed to address a wide spectrum of health issues"]
+    },
+    {
+      "institution": "Andrews University",
+      "url": "",
+      "area": "Business Administration",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "1977-06-01",
+      "score": "",
+      "courses": ["Economics", "Principles of Management", "Business Law", "Business Ethics", "Principles of Marketing", "Accounting"]
+    },
+    {
+      "institution": "Andrews University",
+      "url": "",
+      "area": "Health",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "1977-06-01",
+      "score": "",
+      "courses": ["Organic Chemistry", "Biology", "Microbiology", "Home Economics", "Inorganic Chemistry", "Massage and Non-Drug Therapeutics"]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Business Development Strategy",
+      "level": "Expert",
+      "keywords": []
+    },
+    {
+      "name": "Product Marketing Strategy",
+      "level": "Expert",
+      "keywords": []
+    },
+    {
+      "name": "Operational Systems Efficiency",
+      "level": "Expert",
+      "keywords": []
+    },
+    {
+      "name": "Wellness Program Development",
+      "level": "Expert",
+      "keywords": []
+    },
+    {
+      "name": "Lifestyle Change Methodology",
+      "level": "Expert",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "volunteer": [],
+  "awards": [],
+  "publications": [],
+  "certificates": []
+}

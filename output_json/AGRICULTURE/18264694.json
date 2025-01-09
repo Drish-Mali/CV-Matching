@@ -1,0 +1,141 @@
+{
+  "basics": {
+    "name": "Anonymous",
+    "label": "President",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "summary": "Creative Marketing Professional with an MBA seeking a new challenge after many years as a stay at home mom; broad-based background in highly competitive and dynamic organizations. Recognized as a decisive leader and excellent team player.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "President",
+      "url": "",
+      "startDate": "August 1999",
+      "endDate": "January 2002",
+      "summary": "Provide contract services to organizations through implementation of global business strategies: identifying new business opportunities, conducting market research, market promotions, trade show representation, and product demonstrations.",
+      "highlights": [
+        "Awarded Contract with Southern U. S. Trade Association to implement a Canadian/US Trade Mission.",
+        "Negotiated on behalf of buyer/sellers for several large bulk commodity export transactions."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Director, International Trade Division",
+      "url": "",
+      "startDate": "November 1996",
+      "endDate": "August 1999",
+      "summary": "Supervised maintenance of international trade database and export trade lead program.",
+      "highlights": [
+        "Supervised maintenance of international trade database and export trade lead program.",
+        "Provided strategic direction, management, budgetary allocation, training, & staffing of Atlanta and Brussels offices."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Assistant Director",
+      "url": "",
+      "startDate": "May 1995",
+      "endDate": "November 1996",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "International Account Executive",
+      "url": "",
+      "startDate": "November 1994",
+      "endDate": "May 1995",
+      "summary": "",
+      "highlights": [
+        "Responsible for securing new logistic accounts."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Supervisor-Risk Fleet Management",
+      "url": "",
+      "startDate": "January 1989",
+      "endDate": "January 1990",
+      "summary": "",
+      "highlights": [
+        "Supervised and managed staff of five employees."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Budget Analyst/Legislative Relations",
+      "url": "",
+      "startDate": "January 1988",
+      "endDate": "January 1988",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Mercer University, Stetson School of Business and Economics",
+      "url": "",
+      "area": "Business Administration",
+      "studyType": "Masters",
+      "startDate": "",
+      "endDate": "1993",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "University of Georgia, Terry College of Business Administration",
+      "url": "",
+      "area": "Business Administration, Finance, Risk Management/Insurance",
+      "studyType": "Bachelors",
+      "startDate": "",
+      "endDate": "1987",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Middle Georgia College",
+      "url": "",
+      "area": "Business Administration",
+      "studyType": "Associate",
+      "startDate": "",
+      "endDate": "1984",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Team management",
+      "level": "Advanced",
+      "keywords": []
+    },
+    {
+      "name": "Sales and Marketing",
+      "level": "Advanced",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

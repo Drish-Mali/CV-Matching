@@ -21,17 +21,6 @@ SQL_COMMANDS = [
         id SERIAL PRIMARY KEY,
         company_name TEXT,
         job_description TEXT,
-        work_experience TEXT,
-        education TEXT,
-        skills TEXT,
-        embedding VECTOR(768) -- Adjust dimension based on your model
-    );
-    """,
-    """
-    CREATE TABLE job_embeddings (
-        id SERIAL PRIMARY KEY,
-        company_name TEXT,
-        job_description TEXT,
         work_experience_embedding VECTOR(384), -- Assuming 384 dimensions for embeddings
         education_embedding VECTOR(384),
         skills_embedding VECTOR(384)

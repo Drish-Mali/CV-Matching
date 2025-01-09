@@ -1,0 +1,136 @@
+{
+  "basics": {
+    "name": "N/A",
+    "label": "Category Brand Manager",
+    "email": "N/A",
+    "phone": "N/A",
+    "url": "N/A",
+    "summary": "A creative marketing professional with 20 years demonstrated experience in project management, marketing communications, sales support, strategy, research, and product development in the food manufacturing, consumer packaged goods (CPG), furniture manufacturing, and construction industry.",
+    "location": {
+      "address": "N/A",
+      "postalCode": "N/A",
+      "city": "N/A",
+      "countryCode": "N/A",
+      "region": "N/A"
+    }
+  },
+  "work": [
+    {
+      "name": "N/A",
+      "position": "Category Brand Manager",
+      "startDate": "2016-01-01",
+      "endDate": "N/A",
+      "summary": "Achieved 17% annual sales growth in power tool accessory category and 4% margin improvement vs prior year due to implementation of new marketing, merchandising, pricing strategy, and product training materials."
+    },
+    {
+      "name": "N/A",
+      "position": "Product Manager",
+      "startDate": "2012-01-01",
+      "endDate": "2016-01-01",
+      "summary": "Responsible for managing over 15 product categories, with annual sales in excess of $35M, providing product line management including category strategy, new product development, product training, promotional planning, and market analysis."
+    },
+    {
+      "name": "N/A",
+      "position": "Marketing Manager and Brand Manager",
+      "startDate": "2008-01-01",
+      "endDate": "2012-01-01",
+      "summary": "Responsible for managing multiple product lines, providing complete product line management including executing brand strategy, new product development, select trade and consumer strategies."
+    },
+    {
+      "name": "N/A",
+      "position": "Associate Category Manager",
+      "startDate": "2007-01-01",
+      "endDate": "2008-01-01",
+      "summary": "Responsible for managing products within tableware and kitchen textiles categories, developing and executing category strategies."
+    },
+    {
+      "name": "N/A",
+      "position": "Associate Product Manager",
+      "startDate": "1997-01-01",
+      "endDate": "2003-01-01",
+      "summary": "Responsible for managing strategic growth of Storage and Pantry ware product lines including new and existing products totaling $4.5 million in sales."
+    },
+    {
+      "name": "N/A",
+      "position": "Marketing Coordinator",
+      "startDate": "1995-01-01",
+      "endDate": "1997-01-01",
+      "summary": "Responsible for all RFP submissions and marketing support functions within the Chicago office."
+    },
+    {
+      "name": "N/A",
+      "position": "Marketing Communications Coordinator",
+      "startDate": "1995-01-01",
+      "endDate": "1995-01-01",
+      "summary": "Responsible for evaluating and developing all customer product line reviews, as well as producing and managing all marketing communications materials used to drive sales revenue."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Chicago Deming Assoc.-Six Sigma Masters Program",
+      "area": "Six Sigma Green Belt",
+      "studyType": "Training",
+      "startDate": "2012-01-01",
+      "endDate": "2012-01-01"
+    },
+    {
+      "institution": "Illinois Institute of Technology",
+      "area": "Marketing",
+      "studyType": "Graduate Level Courses",
+      "startDate": "1997-01-01",
+      "endDate": "1997-01-01"
+    },
+    {
+      "institution": "Northern IL University",
+      "area": "Organizational/Corporate Communications Journalism",
+      "studyType": "B.A",
+      "startDate": "1992-01-01",
+      "endDate": "1992-01-01"
+    },
+    {
+      "institution": "American Management Association",
+      "area": "Communicating Up, Down and Across the Organization; Critical Thinking; Fundamental Sales Techniques, Project Management Success, The Power of Persuasion",
+      "studyType": "Courses/Training",
+      "startDate": "2016-01-01",
+      "endDate": "2017-01-01"
+    }
+  ],
+  "skills": [
+    {
+      "name": "SharePoint"
+    },
+    {
+      "name": "BPC and SAP"
+    },
+    {
+      "name": "Microsoft Suite: Word, Excel, PowerPoint, Microsoft Access"
+    },
+    {
+      "name": "Microsoft Project"
+    },
+    {
+      "name": "Microsoft Dynamics"
+    },
+    {
+      "name": "Social Media Marketing"
+    },
+    {
+      "name": "Facebook for Business"
+    },
+    {
+      "name": "Project Management"
+    },
+    {
+      "name": "Profitability Simulation"
+    },
+    {
+      "name": "Nielsen Syndicated Data Analysis"
+    },
+    {
+      "name": "Power Presentations"
+    },
+    {
+      "name": "Technical Writing"
+    }
+  ]
+}

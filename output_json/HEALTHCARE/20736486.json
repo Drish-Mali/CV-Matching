@@ -1,0 +1,149 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Certified Nursing Assistant",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Experienced Administrative Assistant III offering 21 years of experience in medical business office operations. Proactive leader with strengths in communication leveraging office professionalism, phone etiquette, proof-reads and audits case reports, oversees daily spreadsheets and providing consultation and organization of daily workflow.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company",
+      "position": "Certified Nursing Assistant",
+      "url": "",
+      "startDate": "01/1999",
+      "endDate": "03/1999",
+      "summary": "Fostered relationships with patients, caregivers and healthcare teams to achieve individual care plan targets.",
+      "highlights": []
+    },
+    {
+      "name": "Company",
+      "position": "Certified Nursing Assistant",
+      "url": "",
+      "startDate": "04/1999",
+      "endDate": "04/2000",
+      "summary": "Responded to patient alarms and needs-assessment requests to identify course of treatment.",
+      "highlights": []
+    },
+    {
+      "name": "Company",
+      "position": "Healthcare Unit Coordinator",
+      "url": "",
+      "startDate": "02/2001",
+      "endDate": "08/2007",
+      "summary": "Maintained and updated patient census, greeted patients and patients family through telephone courtesy calls and check-ins.",
+      "highlights": []
+    },
+    {
+      "name": "Company",
+      "position": "Cardiac Cath Lab Administrative Assistant II",
+      "url": "",
+      "startDate": "08/2007",
+      "endDate": "Current",
+      "summary": "Reports to Cath Lab Director and Manager. Provides a full range of clerical and specialized administrative functions.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Unitah High School",
+      "url": "",
+      "area": "",
+      "studyType": "GED",
+      "startDate": "",
+      "endDate": "05/1998",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Utah State University",
+      "url": "",
+      "area": "Nursing Practice",
+      "studyType": "Certified Nursing Assistant Certificate",
+      "startDate": "",
+      "endDate": "05/1999",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Utah State University",
+      "url": "",
+      "area": "Business Healthcare Administration",
+      "studyType": "Associate of Applied Science",
+      "startDate": "",
+      "endDate": "Expected in 05/2024",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Strong interpersonal skills",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Calm and level-headed under duress",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Patient relations",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Customer Service",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Phone call answering",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Appointment scheduling",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Medical terminology knowledge",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Perfect understanding of medical procedures",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Office",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Data entry documentation",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

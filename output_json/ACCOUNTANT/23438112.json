@@ -1,0 +1,134 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Senior Accountant",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "summary": "Detail-oriented Accountant with 11 years effectively maintaining accurate accounting information for large-scale financial organizations.",
+    "location": {
+      "city": "City",
+      "region": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Senior Accountant",
+      "startDate": "2011-06",
+      "endDate": "Current",
+      "summary": "Management of high level accounts including 280 endowment records totaling $85+ million and a private golf club account.",
+      "highlights": ["Oversight includes general ledger account activity, gift agreements, schedules, reconciliation, wire transfers, journal entries, and the ongoing accurate analysis of all financial activity."]
+    },
+    {
+      "name": "Company Name",
+      "position": "Staff Accountant",
+      "startDate": "2005-12",
+      "endDate": "2011-06",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Accounting Clerk",
+      "startDate": "2005-12",
+      "endDate": "2011-06",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Accounting Clerk",
+      "startDate": "2005-01",
+      "endDate": "2012-07",
+      "summary": "Prepared accurate and complete monthly financial statements for senior management, including preliminary work with journal entries, analysis, and reconciliations to accurately close month-end periods.",
+      "highlights": ["Processed bi-weekly payroll, including compilation and input of employee timesheets into ADP, prepared payroll tax deposits, reconciled balances, and performed month-end close."]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Keller Graduate School of Management of DeVry University",
+      "area": "Accounting & Financial Management",
+      "studyType": "Master",
+      "startDate": "",
+      "endDate": "2012",
+      "score": "3.91",
+      "courses": []
+    },
+    {
+      "institution": "Keller Graduate School of Management of DeVry University",
+      "area": "Technical Management Accounting",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "2010",
+      "score": "3.96",
+      "courses": []
+    },
+    {
+      "institution": "DeVry University",
+      "area": "",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "",
+      "score": "3.79",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Accounting",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Budget analysis",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "ERP (Enterprise Resource Planning) software",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Certified Public Accountant (CPA)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "QuickBooks expert",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Advanced bookkeeping skills",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Superior attention to detail",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SAP expertise",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Account reconciliation specialist",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "MS Office Suite",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

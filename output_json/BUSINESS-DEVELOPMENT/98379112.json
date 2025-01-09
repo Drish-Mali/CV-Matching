@@ -1,0 +1,137 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Business Development Consultant",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Dynamic financial services and business development leader with 17+ years of combined experience across diverse banking and sales platforms. Dedicated to delivering services excellence while surpassing revenue objectives, working closely with teams and clients to address needs.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "US",
+      "region": ""
+    },
+    "profiles": [ ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Business Development Consultant",
+      "url": "",
+      "startDate": "2019-02-01",
+      "endDate": "2020-04-01",
+      "summary": "Delivered expert consulting services in financing, operations, sales, and marketing.",
+      "highlights": [
+        "Secured up to 50 new clients monthly.",
+        "Developed and implemented process improvement plans based on client feedback and operational monitoring."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Business Development Manager",
+      "url": "",
+      "startDate": "2017-03-01",
+      "endDate": "2019-02-01",
+      "summary": "Spearheaded new business development, leading turnaround of under-performing product lines to achieve objectives.",
+      "highlights": [
+        "Improved bottom line profit by securing business from up to 40 new clients monthly.",
+        "Orchestrated diversification of offerings, increasing sales via new product launches."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Branch Manager",
+      "url": "",
+      "startDate": "2014-02-01",
+      "endDate": "2017-03-01",
+      "summary": "Coordinated talented team of 8 committed to development and retention of profitable client base.",
+      "highlights": [
+        "Boosted loan and deposit rates while elevating branch to highest performer in customer satisfaction scores.",
+        "Applied expertise in Fiserv, Business Process Manager, Ultipro, Taleo, Continuity Control, Connections, Applink, and MortgageBot tools."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Branch Manager/Loan Officer",
+      "url": "",
+      "startDate": "2003-02-01",
+      "endDate": "2014-01-01",
+      "summary": "Managed and administered consumer and real estate loan operations across various offices.",
+      "highlights": [
+        "Drove smooth transition of newly-acquired Smith County State Bank and Trust Department - consolidating team of 30+.",
+        "Provided staff leadership, evaluations, salary adjustments, interviews, and hiring."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "NorthWestern Oklahoma State University",
+      "url": "",
+      "area": "Agricultural Business",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": [
+        "Major in Agricultural Business",
+        "Minor in Business Administration"
+      ]
+    },
+    {
+      "institution": "Leader Effectiveness Training",
+      "url": "",
+      "area": "Leadership Training",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": [
+        "The Peoples Bank annual leadership training program"
+      ]
+    },
+    {
+      "institution": "Schools of Banking",
+      "url": "",
+      "area": "Lending Principles",
+      "studyType": "Schools of Lending Principles",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": [ ]
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Business development",
+      "level": "Master",
+      "keywords": [
+        "Business development",
+        "Loan operations & documentation",
+        "Negotiations",
+        "Compliance guidelines",
+        "Stakeholder relations",
+        "Risk mitigation",
+        "Customer service",
+        "Team leadership & support",
+        "Sales life-cycle",
+        "Investments management",
+        "Underwriting requirements",
+        "Home & commercial mortgages",
+        "Financial & credit data analysis",
+        "Microsoft Office",
+        "Prospecting & referrals"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

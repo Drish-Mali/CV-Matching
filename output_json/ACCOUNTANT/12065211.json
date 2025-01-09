@@ -1,0 +1,110 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Senior Accountant",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Senior accountant who completes accounting activities with accuracy and speed with extensive experience in full life cycle of general ledger accounting.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Senior Accountant",
+      "url": "",
+      "startDate": "2006-03",
+      "endDate": "Current",
+      "summary": "Reconcile various balance sheet accounts not limited to cash and liability accounts, including bank statements, for the purpose of maintaining the accuracy of the general ledger in accordance with cash, GAAP, and various international tax legislative basis.",
+      "highlights": [
+        "Found material misstatement in prepaid property insurance for the first quarter of '08 and made prospective adjustments to the related general ledger accounts.", 
+        "Provided clarity in Japanese payroll systems associated with health, welfare, and childcare allowance to the management and made prospective adjustments to the related general ledger accounts."
+      ]
+    },
+    {
+      "name": "Accountant",
+      "position": "Company Name",
+      "url": "",
+      "startDate": "2005-01",
+      "endDate": "2006-03",
+      "summary": "Maintain financial records in accordance with GAAP to be reported to a parent company and investors.",
+      "highlights": []
+    },
+    {
+      "name": "Financial Analyst",
+      "position": "Company Name",
+      "url": "",
+      "startDate": "2002-08",
+      "endDate": "2005-01",
+      "summary": "Manage and forecast funds for Palm Desert National Bank sponsored 350 ATM terminals averaging 2.5 million on a weekly basis.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "TEMPLE UNIVERSITY",
+      "url": "",
+      "area": "Accounting",
+      "studyType": "Bachelor of Business Administration",
+      "startDate": "",
+      "endDate": "2002-08",
+      "score": "",
+      "courses": [
+        "Advance Accounting",
+        "Accounting Information System",
+        "Auditing & Assurance Services",
+        "Taxation"
+      ]
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Certified Public Accountant",
+      "date": "2015-03-04",
+      "issuer": "New York State",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Accounting",
+      "level": "Senior",
+      "keywords": [
+        "Aderant/CMS Financial reporting",
+        "Excel US GAAP principles",
+        "QuickBooks Pro IFRS",
+        "SQL Bookkeeping",
+        "Access� Budget development",
+        "Peachtree Individual tax returns",
+        "Hyperion Essbase"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [
+    {
+      "name": "Personal Interests",
+      "keywords": [
+        "World travel",
+        "Photography",
+        "Golf",
+        "Soccer",
+        "Movie",
+        "Fashion"
+      ]
+    }
+  ],
+  "references": [],
+  "projects": []
+}

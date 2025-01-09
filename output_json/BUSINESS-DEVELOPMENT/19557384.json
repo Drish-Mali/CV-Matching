@@ -1,0 +1,109 @@
+{
+  "basics": {
+    "name": "Business Development Leader",
+    "label": "Business Development Manager",
+    "summary": "Experienced leader with more than 7 years of experience working in sales, marketing and business development with specialization in identifying, developing, and maintaining new strategic business partnerships. Highly motivated, tough negotiator with excellent verbal and written skills. Innovative, adaptable, analytical, action-oriented, and flexible in working with suppliers and customers in dynamic international markets.",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Business Development Leader | Partner | Director",
+      "url": "",
+      "startDate": "2010-02-01",
+      "endDate": "2017-11-01",
+      "summary": "Spearheaded company-wide marketing campaigns introducing new products which boosted sales by more than 67% in just 1 year.",
+      "highlights": [
+        "Increased gross profit by 135%, net profit by 133% and EDITDA by 100% in less than 7 years.",
+        "Ensured long-term profitability by researching and renegotiating vendor and customer contracts.",
+        "Identified and eliminated loss making products and promoted profitable ones."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Teaching Assistant",
+      "url": "",
+      "startDate": "2007-08-01",
+      "endDate": "2009-12-01",
+      "summary": "Worked for two and half year as graduate teaching assistant, teaching organic chemistry laboratory to undergraduates.",
+      "highlights": [
+        "Trained over 250 students in basic to semi-advanced theoretical and laboratory skills in organic chemistry Responsibilities.",
+        "Presented lectures to class of over 100-150 students.",
+        "Conducted multiple one-on-one student review sessions."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Virginia Tech",
+      "url": "",
+      "area": "Organic Chemistry",
+      "studyType": "Masters of Science",
+      "startDate": "",
+      "endDate": "2010-05-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Institute of Chemical Technology",
+      "url": "",
+      "area": "Dyes and Intermediates",
+      "studyType": "Bachelor of Technology",
+      "startDate": "",
+      "endDate": "2007-05-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [
+    {
+      "name": "Research Publication",
+      "publisher": "Pd-catalyzed amination; Tetrahedron Letters. 2011, 52, 916",
+      "releaseDate": "2011-01-01",
+      "url": "",
+      "summary": "Research on Pd-catalyzed amination"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Business Development",
+      "level": "",
+      "keywords": [
+        "Strong business acumen",
+        "Managing cross functional teams",
+        "Motivational management style",
+        "Sales and pricing strategies",
+        "Customer-focused sales leader",
+        "New product and market development",
+        "Strategic sourcing and hedging",
+        "Data-driven decision making",
+        "Demand prediction",
+        "Supply chain and resource management",
+        "Cost control and profit maximization",
+        "Project planning and development",
+        "Business forecasting and strategy MS Office Suite",
+        "Adobe Photoshop",
+        "Macromedia Flash and Dreamweaver",
+        "Programming Skills - HTML, C, C++"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

@@ -1,0 +1,132 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Project Accountant",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Obtain a position in a professional organization where I can apply my skills and loyalty in exchange for career guidance, training and opportunity for advancement.",
+    "location": {
+      "address": "Kabul",
+      "postalCode": "",
+      "city": "Kabul",
+      "countryCode": "AFG",
+      "region": "Kabul"
+    },
+    "profiles": []
+  },
+
+  "work": [
+    {
+      "name": "Company Name City",
+      "position": "Project Accountant",
+      "url": "",
+      "startDate": "2012-07-01",
+      "endDate": "2013-12-31",
+      "summary": "The project funded by USACE- United State Army Corps of Engineers...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name City",
+      "position": "Subcontract Accountant",
+      "url": "",
+      "startDate": "2011-02-01",
+      "endDate": "2012-06-01",
+      "summary": "The program funded by USAID- United State Agency for International Development...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name City",
+      "position": "Administrative & Finance Coordinator",
+      "url": "",
+      "startDate": "2010-06-01",
+      "endDate": "2010-11-01",
+      "summary": "The project funded by USAID- United State Agency for International Development...",
+      "highlights": []
+    },
+    {
+      "name": "CETENA Group",
+      "position": "Administrative Officer",
+      "url": "",
+      "startDate": "2006-09-01",
+      "endDate": "2010-05-01",
+      "summary": "Developed a filing system, established, and maintained a standard system...",
+      "highlights": []
+    }
+  ],
+
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Virginia International University",
+      "url": "",
+      "area": "International Business",
+      "studyType": "Master's",
+      "startDate": "",
+      "endDate": "2016-01-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Kardan University",
+      "url": "",
+      "area": "Business Administration Finance",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "2012-01-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Capital Institute of Information Technology",
+      "url": "",
+      "area": "Business Administration",
+      "studyType": "Diploma",
+      "startDate": "",
+      "endDate": "2006-01-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Khurasan High School",
+      "url": "",
+      "area": "",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "2006-01-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+             
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Accounting",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Administrative",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Office (Word, Excel, PowerPoint, Access)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Documentation",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

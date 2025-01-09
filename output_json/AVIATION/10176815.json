@@ -1,0 +1,92 @@
+{
+"basics": {
+"name": "AVIATION ELECTRONICS TECHNICIAN",
+"label": "Aviation Electronics Technician",
+"email": "",
+"phone": "",
+"url": "",
+"summary": "Seeking a challenging position where my existing skills and experience contribute to your company while expanding my technical abilities.",
+"location": {
+"address": "",
+"postalCode": "",
+"city": "",
+"countryCode": "",
+"region": ""
+},
+"profiles": []
+},
+"work": [
+{
+"name": "Company",
+"position": "Aviation Electronics Technician",
+"startDate": "2008-01-01",
+"endDate": "Current",
+"summary": "Troubleshoot radar systems, communication systems, navigation equipment...",
+"highlights": [
+"Completed maintenance action forms, keep an inventory of parts and supplies, maintain a technical library and perform avionics corrosion control."
+]
+},
+{
+"name": "Company",
+"position": "Aviation Electronics Technician",
+"startDate": "2003-01-01",
+"endDate": "2007-01-01",
+"summary": "Worked in the Navy's largest intermediate maintenance department...",
+"highlights": [
+"Incorporated and ensured strict attention to detail in repairing electrical aircraft systems..."
+]
+},
+{
+"name": "Company",
+"position": "Instructional Designer",
+"startDate": "2013-01-01",
+"endDate": "2015-01-01",
+"summary": "Used the instructional design process to plan and develop online courses...",
+"highlights": [
+"Facilitated in the transfer and development of online courses from Blackboard LMS to Canvas LMS."
+]
+}
+],
+"volunteer": [],
+"education": [
+{
+"institution": "Embry-Riddle Aeronautical University",
+"area": "Aeronautical Science Applied Meteorology",
+"studyType": "Bachelor",
+"startDate": "",
+"endDate": "2016-05-01",
+"score": "3.23/4.0",
+"courses": []
+},
+{
+"institution": "Tidewater Community College",
+"area": "Electronic Engineering Technology",
+"studyType": "Associate",
+"startDate": "",
+"endDate": "2008-05-01",
+"score": "3.85/4.0 Summa Cum Laude",
+"courses": []
+}
+],
+"awards": [],
+"certificates": [],
+"publications": [],
+"skills": [
+{
+"name": "Technical",
+"level": "Expert",
+"keywords": [
+"Proficient with maintenance tracking software, Prezi and Microsoft Office Programs such as Word, Excel, PowerPoint, Outlook, Adobe, Access, Auto CAD, Commercial Multi-Engine and Single-Engine Pilot, Airline Dispatcher Certified, FAA Class 1 Medical, MATLAB, labVIEW"
+]
+}
+],
+"languages": [
+{
+"language": "Spanish and English",
+"fluency": "Bilingual fluent"
+}
+],
+"interests": [],
+"references": [],
+"projects": []
+}

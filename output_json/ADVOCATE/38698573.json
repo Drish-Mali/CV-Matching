@@ -1,0 +1,110 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Human Resources Professional",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Experienced working in fast-paced environments demanding strong organizational, technical, and interpersonal skills. Highly trustworthy, ethical, and discreet; committed to superior customer service. Confident and poised in interactions with individuals at all levels. Detail-oriented and resourceful in completing projects; able to multitask effectively.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Human Resources professional",
+      "url": "",
+      "startDate": "2018-07",
+      "endDate": "2021-01",
+      "summary": "With hands-on experience in distribution environment. Employee Relations/Conflict Resolution and Policy/Process guidance. Initial workforce hiring, pre-acquisition due diligence and post-acquisition HR integration...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Onsite Supervisor",
+      "url": "",
+      "startDate": "2016-07",
+      "endDate": "2017-10",
+      "summary": "Worked on behalf of Best Candiates (Staffing agency) providing top notch service to Park West (Client)...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Negotiator",
+      "url": "",
+      "startDate": "2015-01",
+      "endDate": "2016-07",
+      "summary": "Responsible for maintaining 250 files...",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Miami Dade College",
+      "url": "",
+      "area": "Business Administration",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "",
+      "score": "3.0",
+      "courses": []
+    },
+    {
+      "institution": "Mater Academy Charter High School",
+      "url": "",
+      "area": "",
+      "studyType": "High School Diploma",
+      "startDate": "",
+      "endDate": "",
+      "score": "3.1",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Skills",
+      "level": "",
+      "keywords": [
+        "Networking and Partnership Development",
+        "Termination Documentation",
+        "Decision Making",
+        "Conflict Resolution",
+        "Report Preparation",
+        "Documentation and Recordkeeping",
+        "Human Resources Management Systems",
+        "Willingness to Learn",
+        "Procedure Compliance",
+        "Remote Conferencing and Communication",
+        "In-Person and Telephone Interviewing",
+        "Microsoft Office",
+        "Employment Data Tracking",
+        "Employee and Applicant Assessment",
+        "New Hire Onboarding & Orientation"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native or Bilingual"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Native or Bilingual"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

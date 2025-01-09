@@ -1,0 +1,97 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Sr. Finance Manager",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Finance professional with a successful track record of driving the financial planning cycle and transforming strategic goals into operational plans. Demonstrated ability to build strong financial models, improve processes and drive business results. Self-starter and creative problem solver. Passionate about building a collaborative environment and empowering people.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Sr. Finance Manager",
+      "url": "",
+      "startDate": "2015-01-01",
+      "endDate": "2015-09-01",
+      "summary": "Served as Global FP&A lead to VP of Finance in all planning related questions and communication with Corp FP&A. Led the Annual Global Field Quota plan setting process ($6B) including product hierarchy update, definition and communication. The hiring and on-boarding process of two reports in headquarters and three individuals on other teams in Bulgaria.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Finance Manager",
+      "url": "",
+      "startDate": "2013-07-01",
+      "endDate": "2014-12-01",
+      "summary": "Developed an Expense Planning model for Customer Operations budget allocation of $2B. Created and established a standard Financial dashboard. Created and established a standard weekly Headcount dashboard for Customer Operations.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Sr. Financial Analyst",
+      "url": "",
+      "startDate": "2010-03-01",
+      "endDate": "2013-06-01",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Technical University - City , Germany",
+      "url": "",
+      "area": "Business Administration",
+      "studyType": "Master of Science",
+      "startDate": "",
+      "endDate": "2006-05-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Technical Skills",
+      "level": "",
+      "keywords": [
+        "Hyperion Planing",
+        "Essbase",
+        "SAP R/3",
+        "Oracle 11",
+        "SAP BPC",
+        "Business Objects",
+        "Sharepoint",
+        "MS Office"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "German",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Bulgarian",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

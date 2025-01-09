@@ -1,0 +1,137 @@
+{
+  "basics": {
+    "name": "Unknown",
+    "label": "FULL TIME STUDENT/INTERN",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Tank Platoon Sergeant with twenty-four years of dedicated military service with the U.S. Army; two years' experience as a qualified trainer and instructor at the U.S. Army Armor School; successfully managed diverse groups of employees.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Unknown",
+      "position": "Full Time Student/Intern",
+      "url": "",
+      "startDate": "2013-01-01",
+      "endDate": "2015-01-01",
+      "summary": "Graduated with Honors with a 3.69 GPA from the University of Louisville with a Bachelor's Degree in Social Work. Completed 560 hours of Social Work Practicum Internship with the Fort Knox Warrior Transition Center.",
+      "highlights": []
+    },
+    {
+      "name": "Unknown",
+      "position": "Instructor/Writer AOBC",
+      "url": "",
+      "startDate": "2009-01-01",
+      "endDate": "2011-01-01",
+      "summary": "Primary instructor with an Army Training Program for the Active Component (AC) and Reserve Component (RC)",
+      "highlights": [
+        "Primary instructor with an Army Training Program for the Active Component (AC) and Reserve Component (RC) on virtual simulations for Convoy Operations, anti-Ambush procedures, and additional training scenarios."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Louisville",
+      "url": "",
+      "area": "Social Work",
+      "studyType": "BSW",
+      "startDate": "Unknown",
+      "endDate": "2015",
+      "score": "3.69",
+      "courses": []
+    },
+    {
+      "institution": "Central Texas College",
+      "url": "",
+      "area": "Under Graduate Studies",
+      "studyType": "Associate Arts",
+      "startDate": "Unknown",
+      "endDate": "2012",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Training",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Operations",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Instructor",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Simulation",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Liaison",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Training Programs",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Case Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Armor",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Instructional Training",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Testing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Excel",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Inventory",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Mentoring",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

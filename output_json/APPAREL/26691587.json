@@ -1,0 +1,121 @@
+{
+  "basics": {
+    "name": "Grace Celsi",
+    "label": "Head Hostess",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Cheerful head hostess with 4 years helping customers while supporting teammates and managers. Friendly and conversational and expert at prioritizing guest needs. Responsible and friendly team member. Proficient in merchandising, payment processing and general housekeeping of store areas. Focused, hardworking and punctual with excellent interpersonal and organizational skills.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "US",
+      "region": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Head Hostess",
+      "url": "",
+      "startDate": "2018-03-01",
+      "endDate": "Present",
+      "summary": "Handled guest complaints and promoted positive dining experience. Answered customers' questions about hours, seating, current wait time and other information. Consistently received positive feedback from guests and created repeat business by developing long-term relationships with customers. Accommodated guests with children and special needs to promote comfortable dining experience.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Apparel Team Lead",
+      "url": "",
+      "startDate": "2019-03-01",
+      "endDate": "2020-10-01",
+      "summary": "Recommended merchandise to customers based on needs and preferences. Maintained visually appealing and effective displays for entire store. Helped customers sign up for loyalty programs. Met upselling, donation and credit card targets consistently.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Waitress",
+      "url": "",
+      "startDate": "2017-01-01",
+      "endDate": "2020-08-01",
+      "summary": "Cleared table and bussed dishes. Maintained accuracy while handling payments. Resolved customer concerns with friendly and knowledgeable service.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Private Nanny",
+      "url": "",
+      "startDate": "2016-01-01",
+      "endDate": "2020-01-01",
+      "summary": "Performed light housekeeping duties, such as preparing nutritious meals and cleaning. Engaged with children to create nurturing, safe environments. Prepared snacks and meals, scheduled and coordinated projects and reinforced appropriate discipline for children according to parents' specifications.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Wayne County Community College District",
+      "url": "",
+      "area": "",
+      "studyType": "Some College",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Riverview Community High School",
+      "url": "",
+      "area": "",
+      "studyType": "High School Diploma",
+      "startDate": "",
+      "endDate": "2022-05-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "CPR",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Service prioritization",
+      "level": "Expert",
+      "keywords": []
+    },
+    {
+      "name": "Communication",
+      "level": "Expert",
+      "keywords": []
+    },
+    {
+      "name": "Guest service",
+      "level": "Expert",
+      "keywords": []
+    },
+    {
+      "name": "People skills",
+      "level": "Expert",
+      "keywords": []
+    },
+    {
+      "name": "Table Bussing",
+      "level": "Expert",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

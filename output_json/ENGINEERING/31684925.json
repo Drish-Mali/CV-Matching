@@ -1,0 +1,151 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Engineering Assistant",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Hard working recent graduate intending a part time or full time job to build experience in a Civil Engineering working environment. Bringing Civil Engineering office and field experience in roadway design and traffic engineering.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Engineering Assistant",
+      "url": "",
+      "startDate": "2013-05-01",
+      "endDate": "2014-05-01",
+      "summary": "",
+      "highlights": [
+        "Worked on Virginia Department of Transportation (VDOT) and Fairfax County Department of Transportation roadway projects in Virginia and Washington DC area.",
+        "Prepared roadway design for I-495 Express Lanes from Route 7 to Jones Branch Connector",
+        "Worked on I-66 and State Route 50 to prepare project plans and contract documents.",
+        "Assisted Project Engineers to prepare project roadway design using AutoCAD and MicroStation."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Medical Receptionist",
+      "url": "",
+      "startDate": "2014-07-01",
+      "endDate": "Current",
+      "summary": "",
+      "highlights": [
+        "Managed incoming and outgoing calls while recording accurate messages.",
+        "Greeted numerous visitors, including VIPs, vendors and interview candidates."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Teller",
+      "url": "",
+      "startDate": "2011-05-01",
+      "endDate": "2012-08-01",
+      "summary": "",
+      "highlights": [
+        "Achieved working knowledge of accounting software packages including MS Excel, MS PowerPoint, MS Word",
+        "Responsible for handling cash drawers in balance at all times"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Engineer Technician IV",
+      "url": "",
+      "startDate": "2015-12-01",
+      "endDate": "Current",
+      "summary": "",
+      "highlights": [
+        "Collaborated with contractors and clients as the on-site engineer for several large public projects.",
+        "Created detailed CAD drawings for the engineering departments."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "George Mason University",
+      "url": "",
+      "area": "Civil Engineer",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "2014-12-01",
+      "score": "3.82",
+      "courses": [
+        "Traffic Engineering",
+        "Transportation Engineering",
+        "Highway Design and Construction",
+        "Structural Steel Design",
+        "Structural Analysis",
+        "Mechanics of Materials",
+        "Civil Engineering Planning and Management",
+        "Land Development"
+      ]
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Engineering Skills",
+      "level": "",
+      "keywords": [
+        "accounting software",
+        "AutoCAD",
+        "balance",
+        "budget",
+        "capital expenditures",
+        "handling cash",
+        "Civil Engineering",
+        "interpersonal communications",
+        "Consulting",
+        "contracts",
+        "prepare contract",
+        "Client",
+        "customer care",
+        "DC",
+        "Design and Construction",
+        "Engineering Design",
+        "expense reports",
+        "filing",
+        "marketing research",
+        "Materials",
+        "meetings",
+        "MS Excel",
+        "office",
+        "MS PowerPoint",
+        "MS PowerPoint",
+        "MS Word",
+        "MicroStation",
+        "peak",
+        "Prime",
+        "project plans",
+        "Express",
+        "recording",
+        "Specification",
+        "Transportation",
+        "utilities",
+        "written communication"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [
+    {
+      "name": "Professional Development",
+      "keywords": [
+        "Engineer-In-Training (EIT) Goal is to obtain Professional Engineering license."
+      ]
+    }
+  ],
+  "references": [],
+  "projects": []
+}

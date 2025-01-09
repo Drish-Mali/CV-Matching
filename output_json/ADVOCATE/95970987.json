@@ -1,0 +1,103 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Clinical Service Advocate",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "To be part of an organization which assist and offers services to individuals in need as well as allow me to utilize my past experience and education, and offer new challenges as well as growth within the agency.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Clinical Service Advocate",
+      "url": "",
+      "startDate": "Jul 2015",
+      "endDate": "Jun 2016",
+      "summary": "Provided quality services to elderly populations who lives and or resided within their respective homes, but were in need of various services or resources available for them within the community.",
+      "highlights": ["Escorted clients as needed to medical appointments, psychiatrist, housing and any appointments needed to advocate and or inform both parties of any significant events.","Completed housing application, as well as entitlements application letters or document submission."]
+    },
+    {
+      "name": "",
+      "position": "Women's Empowerment Counselor/ Advocate",
+      "url": "",
+      "startDate": "Jan 2011",
+      "endDate": "May 2015",
+      "summary": "Provide crisis intervention services to women and their children, coming into shelter after leaving their abusive homes.",
+      "highlights": ["Facilitated groups for women survivors of domestic violence, sexual abuse and incest.", "Provided comprehensive services to women and their families in need of outside resources, agencies, referrals, called and scheduled appointments etc."]
+    },
+    {
+      "name": "Company Name",
+      "position": "Office Manager",
+      "url": "",
+      "startDate": "Aug 2008",
+      "endDate": "Dec 2011",
+      "summary": "Handled all incoming/outgoing calls from office to different court parts, DA's offices, judge's chambers, and clients being represented either by the lawyer or the bail bond agent.",
+      "highlights": ["Assisted clients in completing any or all documentation/forms for their cases, files, as needed.", "Followed up on any pending cases, as well as composed legal documentations for both lawyer and bail bond agent."]
+    },
+    {
+      "name": "Company Name",
+      "position": "Bilingual Clinical Services Coordinator",
+      "url": "",
+      "startDate": "Nov 2005",
+      "endDate": "Jul 2009",
+      "summary": "Coordinated and provided community-based services, utilizing any and all resources available within the community to assist our clients living with a substance abuse addiction, mental illness, homelessness, and criminal history.",
+      "highlights": ["Ensured service plans suited each client's specific need according to their mental illness, substance abuse history.", "Facilitated, encouraged, and prompted clients to be part of the N/A, A/A, G/A, S/A meetings promoting a healthy drug free lifestyle and enhance their quality of life."]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Boricua College",
+      "url": "",
+      "area": "Human Services Psychology and Sociology",
+      "studyType": "Bachelor of Science",
+      "startDate": "2007",
+      "endDate": "",
+      "score": "Dean's List Honor Roll Student 2006-2007 and 2008",
+      "courses": []
+    },
+    {
+      "institution": "City College Columbia University",
+      "url": "",
+      "area": "Clinical Counseling and Psychology Human Personalities and Behaviors",
+      "studyType": "Master's Degree",
+      "startDate": "",
+      "endDate": "May 2012",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Areas of Specialty",
+      "level": "",
+      "keywords": ["Domestic Violence", "Sexual Abuse", "Rape", "Prostitution", "Mental Health", "Substance Abuse", "Depression", "Anxiety", "Bipolar","Schizophrenia", "Homelessness", "Community Inclusion", "Shelter System", "HRA", "SSI", "NYCHA", "Section 8", "Community Resources", "Mental Retardation", "Down Syndrome", "Medication Dispensing", "Residential services", "Autism"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

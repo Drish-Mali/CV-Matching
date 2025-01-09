@@ -1,0 +1,134 @@
+{
+  "basics": {
+    "name": "Name Not Found",
+    "label": "SENIOR FINANCIAL ANALYST",
+    "image": "",
+    "email": "Email Not Found",
+    "phone": "Phone Not Found",
+    "summary": "Accomplished Professional with P&L responsibility in domestic and international Fortune 500 companies.",
+    "location": {
+      "city": "City Not Found"
+    },
+    "skills": [
+      {
+        "name": "Financial Management",
+        "level": "Senior"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Senior Financial Analyst",
+      "startDate": "01/2001",
+      "endDate": "01/2004",
+      "summary": "Responsible for managing all financial aspects of the IT finance of JPMorgan Chase."
+    },
+    {
+      "name": "Company Name",
+      "position": "Senior Financial Analyst",
+      "startDate": "2009",
+      "endDate": "No End Date Found",
+      "summary": "Responsible for day-to-day activities related to the update and maintenance of mortgage hedging applications."
+    },
+    {
+      "name": "Company Name",
+      "position": "Divisional Financial Manager",
+      "startDate": "No Start Date Found",
+      "endDate": "No End Date Found",
+      "summary": "Manage the Central Division month end accounting closing process and work closely with regional accounting managers to streamline the closing process."
+    }
+  ],
+  "education": [
+    {
+      "institution": "The University of Toledo",
+      "area": "Corporate Finance",
+      "studyType": "BBA",
+      "score": "National Deans' List"
+    },
+    {
+      "institution": "The University of Paris Dauphine",
+      "area": "Accounting",
+      "studyType": "BS"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Uncovered and proved embezzlement by a former Regional Accounting Manager, company recovered 300K.",
+      "date": "No Date Found",
+      "awarder": "Unnamed Company",
+      "summary": "Uncovered and proved embezzlement by a former Regional Accounting Manager, company recovered 300K."
+    },
+    {
+      "title": "Redesigned Chart of Accounts and financial statements by preserving comparability to more adequately reflect the company's financial picture.",
+      "date": "No Date Found",
+      "awarder": "Unnamed Company",
+      "summary": "Redesigned Chart of Accounts and financial statements by preserving comparability to more adequately reflect the company's financial picture."
+    },
+    {
+      "title": "Successfully managed international invoicing and leasing of equipments.",
+      "date": "No Date Found",
+      "awarder": "Unnamed Company",
+      "summary": "Successfully managed international invoicing and leasing of equipments."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Financial Management",
+      "level": "Senior",
+      "keywords": [
+        "Accounting",
+        "Accruals",
+        "Acquisitions",
+        "Streamline",
+        "Ad",
+        "Balance Sheet",
+        "Banking",
+        "Billing",
+        "Budgets",
+        "Business Case",
+        "Business Development",
+        "Business Processes",
+        "CITRIX",
+        "Closing",
+        "Consulting",
+        "Corporate Finance",
+        "Clients",
+        "Databases",
+        "Documentation",
+        "Due Diligence",
+        "Essbase",
+        "Executive Management",
+        "Finance",
+        "Financial Analysis",
+        "Financial Reporting",
+        "Forecasting",
+        "General Ledger",
+        "Hyperion",
+        "Information Technology",
+        "Investments",
+        "JD EDWARDS",
+        "Managing",
+        "Market",
+        "Marketing",
+        "Meetings",
+        "Microsoft Access",
+        "Microsoft Excel",
+        "MS Office Suite",
+        "PowerPoint",
+        "Modeling",
+        "Performance Management",
+        "Policies",
+        "Pricing",
+        "Processes",
+        "Quality",
+        "Record Keeping",
+        "Reporting",
+        "Research",
+        "SAP",
+        "SQL",
+        "Statistics"
+      ]
+    }
+  ]
+}

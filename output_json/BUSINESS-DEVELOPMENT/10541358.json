@@ -1,0 +1,84 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Business Development Regional Manager",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Responsible for exhibiting value of the company's brand, through the delivery of expansion, recruitment, mobility, conflict resolution, and workforce management services and solutions with Store level managers with customers, employee, management, and vendors.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Business Development Regional Manager",
+      "url": "",
+      "startDate": "2013-01-01",
+      "endDate": "Current",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Social Media and PR Manager",
+      "url": "",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "",
+      "highlights": []
+    },{
+      "name": "Company Name",
+      "position": "Teacher/Receptionist",
+      "url": "",
+      "startDate": "2011-01-01",
+      "endDate": "2013-01-01",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Arabia Mountain High School",
+      "url": "",
+      "area": "",
+      "studyType": "High School Diploma",
+      "startDate": "",
+      "endDate": "2012-05-01",
+      "score": "3.7",
+      "courses": []
+    },
+    {
+      "institution": "Darton State College",
+      "url": "",
+      "area": "Business Administration",
+      "studyType": "Associate of Applied Science",
+      "startDate": "",
+      "endDate": "2017",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Business Development",
+      "level": "",
+      "keywords": ["Problem Solving", "Time Management", "POS and Inventory Training", "Internal Conflict Resolution", "Training and Development", "Marketing", "Budgets & Cost Reduction", "Client Retention", "Business Development"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

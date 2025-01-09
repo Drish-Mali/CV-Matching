@@ -1,0 +1,91 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Employee Relations Consultant",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Human Resources partner with areas of expertise in employee relations, Affirmative Action, recruitment, diversity, employee training and analytics. A student of Wells Fargo's Leadership Compentencies, exhibits leadership behaviors that contribute to business success, risk management and a sustained positive reputation as a premier financial institution and employer of choice.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Employee Relations Consultant",
+      "url": "",
+      "startDate": "2013-06",
+      "endDate": "",
+      "summary": "Responsible for managing the employee relations functions for multiple business lines and business groups undergoing significant change.",
+      "highlights": [
+        "Recipient, Isaacson Scholarship for Graduate Work in Education and Rising Star Award",
+        "B.S. in History - Recipient, Young Hispanic Leadership Scholarship",
+        "Led the Staffing Planning Committee for [Number] years",
+        "Introduced the first passive Open Enrollment process",
+        "Created a rewards and incentive program that was cited as the driving force behind branch employee retention rate of [Number]%",
+        "Transitioned the sales program into full compliance."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Nebraska",
+      "url": "",
+      "area": "Counseling, Higher Education",
+      "studyType": "M.S.",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "",
+      "url": "",
+      "area": "History",
+      "studyType": "B.S.",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "CCS",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Employee Relations",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "HR",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Training",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

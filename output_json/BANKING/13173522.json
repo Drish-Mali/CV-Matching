@@ -1,0 +1,99 @@
+{
+  "basics": {
+    "name": "John Doe",
+    "label": "Vice President of Membership",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Talented business development professional with over 10 years of experience in different facets of Business Development, including sales, marketing, and product management. Outstanding communicator with the natural ability to build and develop strategic relationships with key contacts, including corporations, foundations, endowments, and high-net worth individuals. Proven track record securing new business.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "US",
+      "region": "State"
+    },
+    "profiles": [
+      {
+        "network": "",
+        "username": "",
+        "url": ""
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Vice President of Membership, Board of Directors, Commercial Relationship Manager",
+      "url": "",
+      "startDate": "2013-06-01",
+      "endDate": "Current",
+      "summary": "Design, implement and facilitate a strategic membership development plan. Collaborate with fundraising and public relations committees to further develop the brand. Coordinate Community Relations activities. Manage business relationships for business clients. Delivered year over year growth of 20%.",
+      "highlights": [ ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Work Officer, Assistant Vice President",
+      "url": "",
+      "startDate": "2012-06-01",
+      "endDate": "2013-06-01",
+      "summary": "Increased active SunTrust at Work company participants through outside sales calls. Developed a regional business plan for SunTrust at Work account acquisition.",
+      "highlights": [ ]
+    },
+      {
+      "name": "Company Name",
+      "position": "Business Development Representative, Assistant Vice President",
+      "url": "",
+      "startDate": "2005-07-01",
+      "endDate": "2010-01-01",
+      "summary": "Responsible for increasing awareness of BB&T's Payroll Services Division and growing revenues within a geographical defined territory.",
+      "highlights": [ ]
+    }
+  ],
+  "volunteer": [ ],
+  "education": [
+    {
+      "institution": "Salem College",
+      "url": "",
+      "area": "Business Administration Marketing Concentration & History",
+      "studyType": "Bachelor of Arts",
+      "startDate": "",
+      "endDate": "2005-05-01",
+      "score": "",
+      "courses": [ ]
+    },
+    {
+      "institution": "Georgia Southern University",
+      "url": "",
+      "area": "Business Administration",
+      "studyType": "Masters",
+      "startDate": "",
+      "endDate": "2012-05-01",
+      "score": "",
+      "courses": [ ]
+    }
+  ],
+  "awards": [ ],
+  "certificates": [ ],
+  "publications": [ ],
+  "skills": [
+    {
+      "name": "Business Development",
+      "level": "",
+      "keywords": [
+        "Banking",
+        "Business Plan",
+        "Community Relations",
+        "Leadership Development",
+        "Marketing",
+        "Sales",
+        "Outside sales"
+      ]
+    }
+  ],
+  "languages": [ ],
+  "interests": [ ],
+  "references": [ ],
+  "projects": [ ]
+}

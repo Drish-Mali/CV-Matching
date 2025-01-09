@@ -1,0 +1,115 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Business Development Consultant",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Self starter, customer focused and detail oriented business professional with multiple industry business development experience complemented by staffing industry, and Human Resources experience, specializing in business implementation and recruiting. Proven track record of consistently exceeding corporate objectives and quotas.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "",
+      "position": "Business Development Consultant",
+      "url": "",
+      "startDate": "2015-01-01",
+      "endDate": "",
+      "summary": "Provide Human Resources, Recruiting, Screening, and staffing services to employers in assigned areas.",
+      "highlights": [
+        "Promoted to the largest territory for Workforce Solutions, post exceeding market share and customer loyalty annual goals."
+      ]
+    },
+    {
+      "name": "",
+      "position": "Recruiting Specialist",
+      "url": "",
+      "startDate": "2014-01-01",
+      "endDate": "2015-01-01",
+      "summary": "Develop and execute recruiting plans.",
+      "highlights": []
+    },
+    {
+      "name": "",
+      "position": "Owner",
+      "url": "",
+      "startDate": "2011-02-01",
+      "endDate": "2013-08-01",
+      "summary": "Operated a small business selling fashion accessories both locally, as well as online.",
+      "highlights": [
+        "Increased revenue by 25% in less than 3 months."
+      ]
+    },
+    {
+      "name": "",
+      "position": "Language Arts and Intensive Reading Teacher; Spanish Club Sponsor",
+      "url": "",
+      "startDate": "2006-09-01",
+      "endDate": "2010-06-01",
+      "summary": "Implemented community service to help benefit needy local residents with programs such as Coats off Our Backs, Can the Principal, Spring School Supply Drive, A Christmas Carol, Military Shoeboxes, and Club Clean-up.",
+      "highlights": []
+    },
+    {
+      "name": "",
+      "position": "Human Resources Manager",
+      "url": "",
+      "startDate": "2003-08-01",
+      "endDate": "2006-08-01",
+      "summary": "Developed job announcements, carried out and coordinated advertising, recruitment, interview and selection process.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Houston",
+      "url": "",
+      "area": "Business Administration Management",
+      "studyType": "MBA",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "University of Texas",
+      "url": "",
+      "area": "English Literature/Spanish",
+      "studyType": "Bachelor of Arts",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Microsoft Office Programs, SharePoint, PeopleSoft, ADP Payroll, and Internet applications and Research",
+      "level": "Master",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

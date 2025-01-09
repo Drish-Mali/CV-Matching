@@ -1,0 +1,96 @@
+{
+  "basics": {
+    "name": "Unknown",
+    "label": "Information Technology Consultant",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Accomplished information technology professional with over 18 years of diverse technology, process analysis, project management, and information management experience. Proven ability to successfully implement technology solutions, stay within time and budget constraints, and improve efficiency through proper risk management, task coordination, and resource utilization.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Information Technology Consultant",
+      "url": "",
+      "startDate": "2003-01-01",
+      "endDate": "Current",
+      "summary": "Senior-level consultant and manager of IT systems and projects with over 10 years experience. Practiced successful design, administration, and development of business critical information systems for small to medium business clients onsite or via remote access technologies. Web designer, developer and hosting administrator for over 30 client domains, sites, and email.",
+      "highlights": [
+        "Consistently recommend, implement, and customize internal or cloud-based technology systems to fit client business processes.",
+        "Facilitate and develop email, file, database, mobile, and web-based systems to meet client business needs.",
+        "Achieved increase in client's customer exposure by launching marketing and corporate branding campaigns including logo and website design and development, SEO, Google AdWords, and social media",
+        "Created and maintained procedures for hardware and software maintenance, migration, upgrades, and end-of-life Implementation and management of all high-level business technology projects"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Systems & Document Administrator",
+      "url": "",
+      "startDate": "1998-01-01",
+      "endDate": "2003-01-01",
+      "summary": "Key senior-level member of the information systems team with a variety of duties including project management, document management and publishing, web design, print design, user training and systems administration. Promoted within two months of hire, again within the first two years and lastly promoted to a newly developed position.",
+      "highlights": [
+        "Achieved first global electronic submissions to regulatory agencies by implementing and validating an electronic document management and publishing system as the primary systems administrator, developer, and project technical leader.",
+        "Implemented and maintained application servers supporting secure Internet communications and business critical systems."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Phoenix",
+      "url": "",
+      "area": "Information Technology",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "2016-07-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "IT",
+      "level": "Master",
+      "keywords": [
+        "Microsoft Windows",
+        "Apple Mac",
+        "Unix/Linux",
+        "Server/Web Software",
+        "HTML5",
+        "CSS",
+        "PHP",
+        "JavaScript",
+        "Java",
+        "XML",
+        "C++",
+        "Microsoft Visual Basic",
+        "Hardware",
+        "Applications",
+        "Programming",
+        "Optimizing",
+        "performance tuning",
+        "Document management",
+        "Web content management",
+        "Information security",
+        "Content management systems"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

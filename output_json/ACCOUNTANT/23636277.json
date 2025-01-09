@@ -1,0 +1,106 @@
+{
+  "basics": {
+    "name": "Your Name",
+    "label": "Accountant",
+    "image": "",
+    "email": "your-email@gmail.com",
+    "phone": "your-phone",
+    "url": "your-website.com",
+    "summary": "To achieve a job as an Accountant that utilizes my accounting, communication, analytical & leadership skills.",
+    "location": {
+      "address": "Your Address",
+      "postalCode": "Your Zip",
+      "city": "Your City",
+      "countryCode": "Your Country",
+      "region": "Your Region"
+    },
+    "profiles": [
+      {
+        "network": "Your Social Profile",
+        "username": "your-username",
+        "url": "https://your-social-profile.com/your-username"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Your Company Name",
+      "position": "Accountant",
+      "url": "https://company-website.com",
+      "startDate": "2014-09",
+      "endDate": "Current",
+      "summary": "Working for all Clients in USA Implemented Quickbooks Accounting v. 2013 and 2016 for all the Companies including but not limited to chart of accounts...",
+      "highlights": [
+        "Implemented Quickbooks Accounting v. 2013 and 2016",
+        "Worked on processing of journal entries, accounts payable & receivables using Prosystems software",
+        "Bookkeeping of small and midsized companies",
+        "Worked on bank reconciliation, cash management and financial statements analysis.",
+        "Preparation and finalization of federal and multi state tax returns for Individuals & Corporate using Lacerte software",
+        "Perform MS Office Excel spreadsheets and databases for financial reporting for financial reporting.",
+        "Lead in finalizing monthly and yearly accounting closing entries"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "LeadForus, Nonprofit Organization",
+      "position": "Accountant",
+      "url": "https://organization-website.com",
+      "startDate": "2014-04",
+      "endDate": "2014-11",
+      "summary": "Working on processing of accounting entries.",
+      "highlights": [
+        "Worked on processing of accounting entries", 
+        "Assisted in accounting tasks related operations."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Mumbai",
+      "url": "https://institution-website.com",
+      "area": "CPA Candidate, LLB: Law, Bachelors: Commerce",
+      "studyType": "Bachelor",
+      "startDate": "2008-03",
+      "endDate": "2011-03",
+      "score": "4.0",
+      "courses": [
+        "Labor Laws, Constitutional law, Contract Act, Environmental law, Interpretation of Statues, Public International law, Business Law, Company Law & Intellectual Property Rights."
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Accounting Skills",
+      "level": "Master",
+      "keywords": [
+        "MS Office (Excel, Word, PowerPoint)", 
+        "SAP R/3", 
+        "Adobe Reader", 
+        "QuickBooks", 
+        "Lacerte", 
+        "Prosystems", 
+        "Tax base",
+        "Accounts Payable Processes & Management",
+        "Invoices/Expense Reports/Payment Transactions",
+        "Corporate Accounting & Bookkeeping"
+       ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Accounting",
+      "keywords": [
+        "Invoices",
+        "Bookkeeping",
+        "Tax Returns"
+      ]
+    }
+  ]
+}

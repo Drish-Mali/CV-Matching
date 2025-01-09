@@ -1,0 +1,120 @@
+{
+  "basics": {
+    "name": "",
+    "label": "ENGINEERING TECHNICIAN",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Engineering Technician specializing in quality control sector. Analytical thinker skilled collecting data and executing product testing procedures with precision and ease. Results-driven and focused Engineering Technician successful at prioritizing safety, promoting cost-effective solutions and exceeding customer expectations. Maintenance Worker with skills performing routine operation checks on work equipment and exercising safety measures to limit injuries. Hardworking employee with 2 years of experience.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Engineering Technician",
+      "url": "",
+      "startDate": "2018-01-01",
+      "endDate": "2020-12-31",
+      "summary": "Read and interpreted blueprints, technical drawings, schematics and computer-generated reports. Followed verbal instructions and hand sketches to adapt and modify tooling. Applied engineering principles to develop and operate electrical, mechanical and data processing systems. Performed work according to project schedules and high quality standards. Collaborated with engineers in new product introduction phases to develop and verify design changes. Tracked hours and expenses for each project, detailing each action and charge. Improved product quality by customizing tools and eliminating variability.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Warehouse Worker",
+      "url": "",
+      "startDate": "2016-01-01",
+      "endDate": "2019-11-30",
+      "summary": "Operated pallet jacks and material moving equipment to receive and transport items from various warehouse locations. Operated company vehicles and heavy equipment with focus on safety and risk management. Maintained strong vendor connections.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Customer Service Associate",
+      "url": "",
+      "startDate": "2014-06-01",
+      "endDate": "2016-07-31",
+      "summary": "Developed and actualized customer service initiatives to decrease wait times. Maintained customer satisfaction. Responded to customer requests for products, services and company information. Cultivated customer loyalty, promoted repeat customers and improved sales.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Schenck Civilian Conservation Center",
+      "url": "",
+      "area": "",
+      "studyType": "GED",
+      "startDate": "2017-08-01",
+      "endDate": "2017-08-31",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Installation",
+      "level": "Proficient",
+      "keywords": []
+    },
+    {
+      "name": "Strong leader/team leader",
+      "level": "Proficient",
+      "keywords": []
+    },
+    {
+      "name": "Customer service",
+      "level": "Proficient",
+      "keywords": []
+    },
+    {
+      "name": "Cash handling",
+      "level": "Proficient",
+      "keywords": []
+    },
+    {
+      "name": "Self starter",
+      "level": "Proficient",
+      "keywords": []
+    },
+    {
+      "name": "Excellent communication skills",
+      "level": "Proficient",
+      "keywords": []
+    },
+    {
+      "name": "Power and hand tools",
+      "level": "Proficient",
+      "keywords": []
+    },
+    {
+      "name": "Willing to learn",
+      "level": "Proficient",
+      "keywords": []
+    },
+    {
+      "name": "Repair Work Planning",
+      "level": "Proficient",
+      "keywords": []
+    },
+    {
+      "name": "Groundskeeping and Landscaping",
+      "level": "Proficient",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

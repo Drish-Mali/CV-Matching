@@ -1,0 +1,140 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Software Engineering Analyst",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "",
+        "username": "",
+        "url": ""
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Software Engineering Analyst",
+      "url": "",
+      "startDate": "2017-02-01",
+      "endDate": "2017-07-01",
+      "summary": "Founded project Soul of the clay as the team lead of Enactus to aid the artisans by up skilling them with modern day techniques, thereby increasing the income of these artisans by 150%. Executed project Naritva, where I along with my team implemented a socio-economic business model in order to improve women sanitation in rural areas of India with motive to reduce diseases prevalent among rural women. Executed project Jaivika to bolster farmers by setting up machinery to produce low cost manure from organic waste.",
+      "highlights": ["Increased income of artisans by 150%", "Reduced diseases prevalent among rural women with project Naritva", "Helped farmers with project Jaivika"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Software Engineering Analyst",
+      "url": "",
+      "startDate": "2016-12-01",
+      "endDate": "2017-02-01",
+      "summary": "Global Site System Services Delivered automation tools using HP Quick Test Professional and VB script to achieve 95 percent test coverage and increase the efficiency of process by 25 percent.",
+      "highlights": ["Achieved 95% test coverage", "Increased process efficiency by 25%"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Associate Software Engineer",
+      "url": "",
+      "startDate": "2015-12-01",
+      "endDate": "2016-11-01",
+      "summary": "Global Site System Services Worked as a part of quality assurance team for one of the leading Oil and Gas Company by functional testing in a simulation lab to assure the smooth functioning of 300 sites across the globe.",
+      "highlights": ["Assured smooth functioning of 300 sites globally"]
+    }
+
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Syracuse University",
+      "url": "",
+      "area": "",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Thapar University",
+      "url": "",
+      "area": "Chemical Engineering",
+      "studyType": "B.E",
+      "startDate": "",
+      "endDate": "2015-05-01",
+      "score": "6.7",
+      "courses": []
+    },
+    {
+      "institution": "Delhi Public School",
+      "url": "",
+      "area": "",
+      "studyType": "High School",
+      "startDate": "",
+      "endDate": "2011-05-01",
+      "score": "86.8",
+      "courses": ["Mathematics: 96/100", "Physics: 81/100", "Chemistry: 89/100", "English: 91/100"]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Accenture Outstanding Performer Award",
+      "date": "",
+      "awarder": "Accenture",
+      "summary": ""
+    },
+    {
+      "title": "Certificate of appreciation",
+      "date": "",
+      "awarder": "Enactus India",
+      "summary": "Awarded for bringing a change using entrepreneurial action."
+    },
+    {
+      "title": "Certificate of appreciation",
+      "date": "",
+      "awarder": "Thapar University",
+      "summary": "Awarded for organizing the first economics festival of the University."
+    }
+
+  ],
+  "certificates": [
+    {
+      "name": "Coursera Introduction to interactive programming using Python",
+      "date": "",
+      "issuer": "Rice University",
+      "url": ""
+    },
+    {
+      "name": "Udemy certified SQL",
+      "date": "",
+      "issuer": "Udemy",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Programming",
+      "level": "",
+      "keywords": ["C", "SQL", "Python", "R", "Tableau", "HP ALM Quality center", "HP QTP", "MS office", "Trello", "Streak CRM"]
+    }
+  ],
+  "languages": [],
+  "interests": [
+    {
+      "name": "Economics",
+      "keywords": ["Economics quiz", "Virtual Stock Market", "Life size monopoly"]
+    }
+  ],
+  "references": [],
+  "projects": []
+}

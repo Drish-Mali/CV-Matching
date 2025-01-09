@@ -1,0 +1,149 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Co-Manager",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Seeking a management position that utilizes my strong experience and skills to achieve an organization's sales and profit goals Well-organized, detail-oriented individual who manages a high volume workload within a deadline driven environment. Skilled in use of MS Word, MS Excel, MS Power Point; bilingual in French and Creole",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Co-Manager",
+      "url": "",
+      "startDate": "2011-11",
+      "endDate": "2016-01",
+      "summary": "120 Employees -$800,000 Weekly Sales Volume. Hire, train, supervise and terminate hourly associates; develop plans to assist in achievement of maximum performance; monitor and give constructive feedback in a timely manner.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Assistant Manager",
+      "url": "",
+      "startDate": "2011-05",
+      "endDate": "2011-11",
+      "summary": "300 Employees -$1,500,000 .00 Weekly Sales Volume. Managed direct reports, delegated and monitored against a pre-determined deadline and measure of quality.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Small Business Sales Consultant",
+      "startDate": "2008-02",
+      "endDate": "2011-04",
+      "summary": "20 Employees $100,000 Weekly Sales Volume. Consulted with customers to recommend and sell variety of AT&T products and services to meet customers' needs.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Team Leader / Service Delivery Coordinator / Supervisor",
+      "startDate": "2005-06",
+      "endDate": "2008-01",
+      "summary": "108 Employees -$325,000 Weekly Sales Volume. Provided guidance and direction to all Member Service Counselors, real-time management of the call center floor.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Customer Service Representative",
+      "startDate": "2001-01",
+      "endDate": "2006-06",
+      "summary": "Performed light typing and clerical duties and heavy volume of phone calls. Assisted customers with their renewal application process.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Shift Leader",
+      "startDate": "2002-08",
+      "endDate": "2003-11",
+      "summary": "Supervised inventory, verified quantity and quality of products received. Interfaced directly with customers to provide assistance and resolve problems.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Customer Service Team Leader",
+      "startDate": "2001-06",
+      "endDate": "2002-08",
+      "summary": "23 Employees. Supervised all daily functions of store activity to ensure customer satisfaction. Interacted with customers on a daily basis; transferred monetary transactions for the business",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Shift Manager",
+      "startDate": "2000-09",
+      "endDate": "2001-05",
+      "summary": "12 Employees. Handled inventory and controlled cash. Maintained a safe work environment for all co-workers. Managed shift by instruction. Ordered products for store and customer sales.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Kean University",
+      "url": "",
+      "area": "Liberal Arts",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Hamilton High West",
+      "url": "",
+      "area": "",
+      "studyType": "High School Diploma",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Management",
+      "level": "",
+      "keywords": [
+        "Manager", "Team Leader", "Coaching", "Customer Service", "Customer Satisfaction"
+      ]
+    },
+    {
+      "name": "Technical Skills",
+      "level": "",
+      "keywords": [
+        "MS Word", "MS Excel", "MS Power Point", "Operating System"
+      ]
+    },
+    {
+      "name": "Language",
+      "level": "",
+      "keywords": [
+        "French", "Creole"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "French",
+      "fluency": ""
+    },
+    {
+      "language": "Creole",
+      "fluency": ""
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

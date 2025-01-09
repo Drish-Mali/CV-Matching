@@ -1,0 +1,157 @@
+{
+  "basics": {
+    "name": "Anonymous",
+    "label": "Senior Manager/Specialist Leader Healthcare",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Seasoned Health Care Leader and clinician with deep operations experiences spanning multiple markets and health care delivery systems.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Senior Manager/Specialist Leader HealthCare",
+      "url": "",
+      "startDate": "1999-05-01",
+      "endDate": "2017-03-01",
+      "summary": "Served as a Practice Leader in Deloitte's Healthcare Strategy and Operations Practice...",
+      "highlights": [
+        "Successfully managed and drove highly complex technical and organizational transformations at the countries leading healthcare organizations",
+        "Management of $100M++ budgets",
+        "Management of on-going communication with Board of Directors and C Suite",
+        "Implemented targeted benefits, metrics and Best Practices, as a part of clinical transformation efforts, resulting in tangible bottom line financial benefits"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Director of Home Care Services",
+      "url": "",
+      "startDate": "1996-05-01",
+      "endDate": "1999-05-01",
+      "summary": "Served as Director of Homecare Services for a hospital based agency that served a 10 county area (rural and urban)...",
+      "highlights": [
+        "Participated in the planning and implementation of merger and acquisition of additional homecare company",
+        "Re-engineered operations and processes which resulted in increased efficiency and responsiveness of the agency, as well as a 40% increase over a 1 year period"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Executive Director/Owner",
+      "url": "",
+      "startDate": "1993-02-01",
+      "endDate": "1996-05-01",
+      "summary": "Developed, planned and implemented a cost-effective healthcare delivery system that has been recognized as a model for children with special needs...",
+      "highlights": [
+        "Center was first of it's kind to receive JCAHO certification",
+        "Successfully lobbied the State of Ohio Medicaid Waiver program to reimburse for services provided at a free-standing facility"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Nurse Manager/RN",
+      "url": "",
+      "startDate": "1984-01-01",
+      "endDate": "1993-01-01",
+      "summary": "Managed a 35 bed Bone Marrow Transplant/Oncology unit...",
+      "highlights": [
+        "Served as a member of the design team that developed the facilities planning, workflow design and patient care 'experience' for a new 300 bed pediatric hospital"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Ursuline College",
+      "url": "",
+      "area": "Nursing",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "CWRU Weatherhead",
+      "url": "",
+      "area": "Healthcare",
+      "studyType": "Executive Healthcare Management Certification",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Cleveland State University",
+      "url": "",
+      "area": "Healthcare",
+      "studyType": "MBA",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [
+    {
+      "name": "Optimization after Implementation",
+      "publisher": "",
+      "releaseDate": "",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "name": "Value Based Billing",
+      "publisher": "",
+      "releaseDate": "",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "name": "Transforming Healthcare",
+      "publisher": "",
+      "releaseDate": "",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "name": "Clinical Management Redesign",
+      "publisher": "",
+      "releaseDate": "",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "name": "Developing Multi-Disciplinary Clinical Content",
+      "publisher": "",
+      "releaseDate": "",
+      "url": "",
+      "summary": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Health Care Leadership",
+      "level": "",
+      "keywords": [
+        "Identifying/Building New Service Offerings",
+        "Creative Problem Solver",
+        "Healthcare Informatics",
+        "Process Transformation with Change Management",
+        "Growing and Developing High Performing Team"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

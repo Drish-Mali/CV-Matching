@@ -1,0 +1,150 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Banking Boot Camp Participant",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Recent graduate student with a bachelors in Economics and minors in Finance From Central Connecticut State University, Looking to get some work experience by applying my education and experience.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Banking Boot Camp Participant",
+      "url": "",
+      "startDate": "2017-05-01",
+      "endDate": "2017-05-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Sandwich Artist/Cashier",
+      "url": "",
+      "startDate": "2017-02-01",
+      "endDate": "Current",
+      "summary": "Took necessary steps to meet customer needs and effectively resolve food or service issues. Recorded customer orders and repeated them back in a clear, understandable manner. Correctly received orders, processed payments and responded appropriately to guest concerns.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Student Worker",
+      "url": "",
+      "startDate": "2014-01-01",
+      "endDate": "2016-01-01",
+      "summary": "My job description included: filling out paper workers, making copies, informing students about upcoming events, answering the phone, schedule advising and organizing speak sessions.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Front End Supervisor",
+      "url": "",
+      "startDate": "2014-06-01",
+      "endDate": "2017-02-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Sandwich Maker",
+      "url": "",
+      "startDate": "2017-02-01",
+      "endDate": "Current",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Central Connecticut State University",
+      "url": "",
+      "area": "Economics Finance",
+      "studyType": "Bachelor of Arts",
+      "startDate": "",
+      "endDate": "2017-05-01",
+      "score": "3.26",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "CPR Certification",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "Western Union Certified",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Cash Handling",
+      "level": "Advanced",
+      "keywords": []
+    },
+    {
+      "name": "Enthusiastic People Person",
+      "level": "Advanced",
+      "keywords": []
+    },
+    {
+      "name": "Advanced Problem-Solving",
+      "level": "Advanced",
+      "keywords": []
+    },
+    {
+      "name": "Organizational Skills",
+      "level": "Great",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Word",
+      "level": "Knowledgeable",
+      "keywords": []
+    },
+    {
+      "name": "Excel",
+      "level": "Knowledgeable",
+      "keywords": []
+    },
+    {
+      "name": "SPSS",
+      "level": "Knowledgeable",
+      "keywords": []
+    },
+    {
+      "name": "Powerpoint",
+      "level": "Knowledgeable",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [
+    {
+      "name": "Volleyball",
+      "keywords": []
+    },
+    {
+      "name": "Track and Field",
+      "keywords": []
+    }
+  ],
+  "references": [],
+  "projects": []
+}

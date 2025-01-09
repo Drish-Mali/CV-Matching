@@ -1,0 +1,125 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Aviation Supply Specialist",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Ambitious student pursuing Computer Science degree eager to contribute developed knowledge in Delivery/supervisory role. Skilled in technical and teamwork. Adaptable and driven with strong work ethic and ability to thrive in team-based or individually motivated settings.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "",
+      "position": "Aviation Supply Specialist",
+      "url": "",
+      "startDate": "2017-08-01",
+      "endDate": "2021-05-01",
+      "summary": "Tracked, documented and updated the stock system with precise attention to detail and recordkeeping requirements. Coordinated materials delivery to units world-wide. Validated and processed requisitions for new unit supplies...",
+      "highlights": []
+    },
+    {
+      "name": "",
+      "position": "Prep Cook",
+      "url": "",
+      "startDate": "2016-01-01",
+      "endDate": "2017-06-01",
+      "summary": "Adhered to all regulatory standards regarding safe and sanitary food prep...",
+      "highlights": []
+    },
+    {
+      "name": "",
+      "position": "Delivery Driver",
+      "url": "",
+      "startDate": "2015-11-01",
+      "endDate": "2016-03-01",
+      "summary": "Operated manual and mechanical equipment safely to minimize injury and accident risks...",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Florida Institute Of Technology-Melbourne",
+      "url": "",
+      "area": "Aviation Management And Operations",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "",
+      "score": "3.2",
+      "courses": []
+    },
+    {
+      "institution": "Olympia High School",
+      "url": "",
+      "area": "",
+      "studyType": "High School Diploma",
+      "startDate": "",
+      "endDate": "2017-06-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Orange Technical College",
+      "url": "",
+      "area": "Hotel And Resort Management",
+      "studyType": "Technical Degree",
+      "startDate": "",
+      "endDate": "2016-05-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Orange Technical College",
+      "url": "",
+      "area": "Sports And Marketing Management",
+      "studyType": "Some College (No Degree)",
+      "startDate": "",
+      "endDate": "",
+      "score": "3.85",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Report creation",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Personnel mentoring",
+      "level": "",
+      "keywords": []
+    },
+    {
+        "name": "Critical thinking",
+        "level": "",
+        "keywords": []
+      }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "accomplishments": [
+    {
+      "title": "Consistently maintained high customer satisfaction ratings.",
+      "summary": ""
+    },
+    {
+      "title": "Certificate of accommodation (USMC) and Navy and Marine Corps Achievement Medal",
+      "summary": ""
+    }
+  ]
+}

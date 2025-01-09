@@ -1,0 +1,128 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Senior Marketing Automation Consultant",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "A passionate and technically-skilled marketing automation consultant, committed to building trusted relationships with clients, vendors, colleagues, and people who dream big. Empowers modern marketers and organizations to achieve success, innovation, and business value through marketing automation and technology. The background includes a unique and diverse mix of experience in both corporate and independent/small business settings, creating a well-rounded and distinct blend of strengths including creative, strategic, analytical, optimization/process, communication, and hands-on production.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Senior Marketing Automation Consultant",
+      "url": "",
+      "startDate": "2014-09",
+      "endDate": "Current",
+      "summary": "Focused on delivering Best Practices, Product Education and Configuration to marketing and sales organizations to ensure that their investment in marketing technology is maximized. Provide advisory and support to a variety of organizations including PwC, Vision Service Plan, TD Ameritrade, Tyco, and Parker Hannifin.",
+      "highlights": [
+        "Evaluate client needs and develop strategic marketing automation roadmap",
+         "Implement marketing technologies with Eloqua",
+         "Build custom Insight reports for analysis of Eloqua data"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Marketing Automation Manager",
+      "url": "",
+      "startDate": "2011-10",
+      "endDate": "2014-09",
+      "summary": "Contributed to the growth and development of Integrated Marketing programs and initiatives as sole Power User for the Eloqua platform. Led the planning, design and execution of marketing automation programs and projects for continuous improvement while driving sales and marketing effectiveness throughout the funnel.",
+      "highlights": [
+        "Day-to-day management of the Eloqua platform",
+         "Develop and implement process improvements and workflows to improve efficiency",
+         "Support web development team with web content auditing and asset management"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Marketing Programs and Events Intern",
+      "url": "",
+      "startDate": "2006-05",
+      "endDate": "2011-10",
+      "summary": "Responsible for setting the direction and overseeing successful execution of Marketing strategy, member programs and events.",
+      "highlights": [
+        "Develop programs focused on community outreach, parent and member communications, student registrations",
+         "Support accounting department where responsibilities include monthly invoicing",
+         "Increased on-time payment rates by 60%"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Oracle Marketing Cloud Academy",
+      "url": "",
+      "area": "5 Tenets of Modern Marketing",
+      "studyType": "Modern Marketing Luminary Certification",
+      "startDate": "2015",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Eloqua University",
+      "url": "",
+      "area": "Marketing Automation",
+      "studyType": "B2B Oracle Eloqua Masters",
+      "startDate": "2013",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "San Francisco State University",
+      "url": "",
+      "area": "Communication Studies",
+      "studyType": "Bachelor of Arts",
+      "startDate": "",
+      "endDate": "2011",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Markie Awards Judge for Modern Marketing Experience",
+      "date": "2015-01-01",
+      "awarder": "Oracle Marketing Cloud Academy",
+      "summary": "N/A"
+    },
+    {
+      "title": "Fourth Princess titleholder in the 2014 Miss Chinatown U.S.A. Pageant",
+      "date": "2014-01-01",
+      "awarder": "Miss Chinatown U.S.A.",
+      "summary": "N/A"
+    },
+    {
+      "title": "Achieved Black Sash ranking in Shaolin Kung Fu",
+      "date": "2010-01-01",
+      "awarder": "Yee's Martial Arts Examining Committee",
+      "summary": "N/A"
+    }
+  ],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Marketing Automation",
+      "level": "Advanced",
+      "keywords": [
+        "Eloqua", "Salesforce.com", "Project Planning", "Leading Marketing Automation Teams", "Developing Guidelines", "Managing System Integration Projects"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

@@ -1,0 +1,154 @@
+{
+  "basics": {
+    "name": "Aviation Maintenance Technician",
+    "label": "Aviation Maintenance Technician",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Forward-thinking Aviation Maintenance Technician with hands-on experience performing quality troubleshooting of all aviation mechanical and electrical subsystems.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Aviation Maintenance Technician",
+      "url": "",
+      "startDate": "2010-05-21",
+      "endDate": "2014-07",
+      "summary": "Accepted and deployed to Aviation Maintenance School. Completed 20 weeks of full time aviation maintenance school in which taught how to inspect, service, maintain, troubleshoot and repair aircraft engines, auxiliary power units, propellers, rotor systems, power train systems, and associated airframe and systems-specific electrical components. I was also trained to filled aircrew positions such as flight engineer, flight mechanic, loadmaster, dropmaster, sensor-systems operator and basic aircrewman.",
+      "highlights": [
+        "Supported over 2,500 flights on the ground.",
+        "Completed Fueling operations Specialist training.",
+        "Accrued and logged 232.8 hours of aircrew flight time on the MH-60 Jayhawk.",
+        "Successfully and safely completed 68 missions of various safety test flights, search and rescue missions, immigration interdiction, counter drug enforcement, location determination and surveillance Intel with and for the CIA.",
+        "Deployed 14 times to various locations outside of the United States.",
+        "Logged 237 Maintenance procedures and assisted in over 300 more including troubleshooting and identifying discrepancies and failures, corrosion inspections, preventative maintenance, servicing, weights, rotor balancing, vibration dampening, and remove/installs."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "United States Ceremonial Honor Guardsman",
+      "url": "",
+      "startDate": "2007-11",
+      "endDate": "2010-05",
+      "summary": "Hand selected by Drill Instructors to serve two years in the Coast Guard Honor Guard stationed in Washington D.C. where represented the Coast Guard in high profile events around the world.",
+      "highlights": [
+        "Promoted to head Body Bearer responsible for conducting and organizing a team of 6 that performed more than 61 funeral services for late Coast Guard Veterans in Arlington National Cemetery and around the nation.",
+        "Promoted to the head of the Silent Drill Team responsible for organizing 25 people to perform at events around the nation."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Setup Department Mechanic",
+      "url": "",
+      "startDate": "2005-01",
+      "endDate": "2007-11",
+      "summary": "Worked for the largest motorcycle dealer/maintenance company in Reno Nevada. Job consisted of troubleshooting, ordering, and installing parts required for repair with maximum potential profit on used vehicles. Ensuring safety of new and used vehicles before delivery to customers. All customers receiving our products would receive a safety briefing and product demonstration before transferring possession.",
+      "highlights": [
+        "Promoted to quality control of all products built before delivery to the customer.",
+        "There were 0 safety violations since put in charge of quality control with 0 customer complaints unresolved for each individual product produced."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Nevada Reno",
+      "url": "",
+      "area": "Mechanical Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2018",
+      "endDate": "",
+      "score": "",
+      "courses": [
+        "Engineering I & II",
+        "Core Humanities requirements",
+        "Micro economics",
+        "Pre-calculus"
+      ]
+    },
+    {
+      "institution": "Aviation Maintenance School",
+      "url": "",
+      "area": "Aviation Maintenance",
+      "studyType": "",
+      "startDate": "2010-05-21",
+      "endDate": "2014-07",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Ashford University",
+      "url": "",
+      "area": "Aviation Engineering",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": [
+        "English Composition I & II",
+        "Adult Development and Life Assessment",
+        "Personal Dimensions of Education",
+        "Cultural Anthropology"
+      ]
+    },
+    {
+      "institution": "Truckee Meadows Community College",
+      "url": "",
+      "area": "Aeronautical Science",
+      "studyType": "Associate",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": [
+        "Private Pilot Ground School",
+        "Fundamentals of speech"
+      ]
+    },
+    {
+      "institution": "Embry Riddle University",
+      "url": "",
+      "area": "Aeronautical Engineering",
+      "studyType": "",
+      "startDate": "2014-10-01",
+      "endDate": "",
+      "score": "3.74",
+      "courses": [
+        "Meteorology",
+        "Computer Software Applications"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Aircraft Troubleshooting and Repair",
+      "level": "",
+      "keywords": [
+        "Determining aircraft airworthiness",
+        "Aircraft engines",
+        "Auxiliary power units",
+        "Propellers & rotor systems",
+        "Power train systems",
+        "Systems-specific electrical components",
+        "Maintaining and repairing aircraft fuselages",
+        "Wings, rotor blades, fixed and movable flight control surfaces",
+        "Bleed aircraft air, hydraulic, and fuel systems"
+      ]
+    }
+  ],
+  "certificates": [],
+  "awards": [],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "publications": [],
+  "volunteer": []
+}

@@ -1,0 +1,67 @@
+{
+  "basics": {
+    "name": "Anonymous",
+    "label": "Beauty Advisor, Makeup Artist",
+    "email": "",
+    "phone": "",
+    "summary": "I place great importance on working hard and being a reliable person. Therefore an employer can expect high quality performance and punctuality. I consider myself a student in every aspect of my life, therefore I am driven, and I am optimistic about learning and applying. I am confident that I can use these qualities in any situation to provide excellent results and growth within the business/company I am a part of.",
+    "location": {
+      "city": "City",
+      "region": "State"
+    }
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Beauty Advisor, Makeup Artist",
+      "startDate": "2015-07-01",
+      "endDate": "2015-12-01",
+      "summary": "Opened 2nd counter in Canada...",
+      "highlights": ["Worked solo and in a team", "Works best in a creative environment", "Excels at learning and teaching"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Makeup Artist and Hair Stylist",
+      "startDate": "2015-04-01",
+      "endDate": "2015-12-01",
+      "summary": "Organized photo shoots for magazine submissions...",
+      "highlights": ["Photos published in Surreal Beauty Magazine", "Assisted with lighting on location"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Manager",
+      "startDate": "2012-07-01",
+      "endDate": "2014-09-01",
+      "summary": "Maintained food quality consistency...",
+      "highlights": ["Managed social networking mediums (Facebook, Twitter, Website)"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Blanche MacDonald Centre",
+      "area": "Global Makeup Artistry",
+      "studyType": "Diploma",
+      "startDate": "2015-01-01",
+      "endDate": "2015-12-31",
+      "courses": ["Bridal Hair and Makeup", "Makeup for Fashion", "Airbrushing", "Makeup and Hair for TV, stage, and film", "Art and Tech", "Special effects makeup", "Makeup for Prosthetics", "Digital makeup design"]
+    },
+    {
+      "institution": "Simon Fraser University",
+      "area": "Communications",
+      "studyType": "Bachelor of Arts",
+      "startDate": "2010-01-01",
+      "endDate": "2014-12-31"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Professional Skills",
+      "level": "Advanced",
+      "keywords": ["Customer Service", "Retail Sales", "Contracts", "Invoices", "Managerial", "Networking", "Training", "Excel", "Payments", "Voice", "Point Of Sale", "Pos", "Pos System", "Associate", "Closing", "Inventory", "Sales", "Sales Associate", "Creative", "Multitasking"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

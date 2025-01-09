@@ -1,0 +1,122 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Passenger Services Officer",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "A hard working and self-motivated Australian professional willing to learn and develop new skills. I am a dedicated, organised and methodical individual. I have good interpersonal skills, am an excellent team worker with an active and dynamic approach to work. I am flexible, reliable and possess excellent time keeping skills.",
+    "location": {},
+    "profiles": [
+      {
+        "network": "",
+        "username": "",
+        "url": ""
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Passenger Services Officer",
+      "url": "",
+      "startDate": "2013-11",
+      "endDate": "2014-07",
+      "summary": "Complete Systems training: Amadeus Altea Customer Management System, Complete Product Training: Singapore Airlines",
+      "highlights": [
+        "Checked in an average of 60 passengers per check-in", 
+        "Demonstrating an in-depth knowledge of key health and safety standards used within the industry",
+        "Dispatching flights on time which included overseeing the boarding of the aircraft"]
+    },
+    {
+      "name": "Company Name",
+      "position": "International Travel Consultant",
+      "url": "",
+      "startDate": "2010-04",
+      "endDate": "2013-10",
+      "summary": "Complete Systems training: Galileo Reservations, Universal Desktop, Client Management and accounting, Complete Product training: Customer sales process",
+      "highlights": ["Being a team player by coaching colleagues on the sales process to reach store revenue targets", "Dealing with customer complaints", "Providing business solutions"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Corporate Travel Manager / Staff Developer and Trainer",
+      "url": "",
+      "startDate": "2014-08",
+      "endDate": "Current",
+      "summary": "Assisting with on the job sales, product and systems training for new staff members. Developing staff in core competences to ensure success.",
+      "highlights": ["Building strong relationships with clients", "Negotiating corporate and best rates with hotels", "Complying with all relevant laws and travel business legislation"]
+    }
+  ],
+  "volunteer": [
+  ],
+  "education": [
+    {
+      "institution": "Royal Melbourne Institute of Technology",
+      "url": "",
+      "area": "Aviation Business Management",
+      "studyType": "Bachelor of Applied Science",
+      "startDate": "",
+      "endDate": "",
+      "score": "3.4",
+      "courses": []
+    },
+    {
+      "institution": "University of Westminster",
+      "url": "",
+      "area": "",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "2011",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Parade Secondary College",
+      "url": "",
+      "area": "Physics, Mathematical Methods, English Literature, English Mainstream, Chemistry and Biology",
+      "studyType": "Certificate III in Tourism Retail Sales",
+      "startDate": "",
+      "endDate": "2009",
+      "score": "83.40",
+      "courses": []
+    }
+  ],
+  "awards": [
+  ],
+  "certificates": [
+    {
+      "name": "Diploma",
+      "date": "2012",
+      "issuer": "Management",
+      "url": ""
+    }
+  ],
+  "publications": [
+  ],
+  "skills": [
+    {
+      "name": "Customer service",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Problem solver",
+      "level": "",
+      "keywords": ["Calm under pressure", "CPR certification"]
+    },
+    {
+      "name": "Federal Aviation Administration (FAA) regulations",
+      "level": "",
+      "keywords": ["Multi-line phones", "Cabin technologies", "Passion for travel"]
+    }
+  ],
+  "languages": [
+  ],
+  "interests": [
+  ],
+  "references": [
+  ],
+  "projects": [
+  ]
+}

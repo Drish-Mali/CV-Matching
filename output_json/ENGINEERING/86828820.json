@@ -1,0 +1,108 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Engineering Manager",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Dedicated Engineering Manager with excellent technical, analytical and communication skills demonstrated by years of experience. Results-driven Mechanical Engineer with solid product engineering and QA experience.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "",
+      "region": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Engineering Manager",
+      "url": "",
+      "startDate": "2013-10-01",
+      "endDate": "Current",
+      "summary": "Managed the manufacturing and engineering team. Supported the manufacturing startup in the US, by mentoring and training of production personnel. Supported the sales team during the project quotation process, by providing technical solutions to client request, lead times and cost estimates for requests. Supervised the creation of fixture submission packages for client approval. Designed fixtures for manufacturing.",
+      "highlights": [
+        "Managed the manufacturing and engineering team",
+        "Supported the sales team during the project quotation process",
+        "Supervised the creation of fixture submission packages for client approval"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Senior Design Engineer",
+      "url": "",
+      "startDate": "2005-08-01",
+      "endDate": "2013-10-01",
+      "summary": "Collaborated with Architect and Lighting Designer in providing cost effective and environmentally friendly Lighting Solutions for unique Architectural Condition.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "CAD Designer",
+      "url": "",
+      "startDate": "2004-09-01",
+      "endDate": "2005-08-01",
+      "summary": "Analyzed specifications from customer for initial elevator fixture design that will conform to all relevant ASME and Fire Safety Codes. Revised drawings based on customer corrections and updated information from field surveys.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Design Engineer",
+      "url": "",
+      "startDate": "2000-12-01",
+      "endDate": "2004-09-01",
+      "summary": "Analyzed specifications received from customers for order processing. Designed lighting fixtures that can be easily manufactured at the lowest possible cost based on the interpretation of the given specifications using CAD software.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "New Jersey Institute of Technology",
+      "url": "",
+      "area": "Mechanical Engineering",
+      "studyType": "Master of Science",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "University of Guyana",
+      "url": "",
+      "area": "Mechanical Engineering",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Project Management",
+      "level": "",
+      "keywords": ["Microsoft Office", "Pro/ENGINEER", "Pro/Mechanical", "Solid Edge", "AutoCAD", "Microsoft Navision", "Microsoft Project", "Moldflow"]
+    },
+    {
+      "name": "Accomplishments",
+      "level": "",
+      "keywords": ["Project Management", "Customer Interface", "Project Coordination"]
+    },
+    {
+      "name": "Technical Skills",
+      "level": "",
+      "keywords": ["3D", "ADA", "photo", "Architect", "AutoCAD", "brochures", "CAD", "catalogs", "client", "Edge", "ENGINEER", "ETL", "forms", "functional", "Graphics", "Inspector","interpretation", "lean manufacturing", "Lighting", "Marketing", "materials", "Mechanical", "mentoring", "Microsoft Office", "Microsoft Project","Navision", "personnel", "procurement", "product development", "Product Management", "quality", "Safety Codes", "Sales", "Specification", "surveys", "technical support", "unique"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

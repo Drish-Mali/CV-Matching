@@ -1,0 +1,81 @@
+{
+  "basics": {
+    "name": "Owen B Headman",
+    "label": "Aviation Supply Specialists",
+    "email": "",
+    "phone": "",
+    "summary": "Highly skilled retired United States Army Sergeant with over 20 years of military experience in aviation and ammunitions supply management. Seeking a challenging career opportunity in aviation supply administration where my expertise in acquisitions, distribution, and accountability can be effectively applied towards achieving organizational objectives.",
+    "location": {
+      "city": "",
+      "countryCode": "US",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Aviation Supply Specialists Company",
+      "position": "Aviation Supply Specialist",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Supervised highly technical functions in all areas of aviation supply management...",
+      "highlights": []
+    },
+    {
+      "name": "Hazardous Material and Handling Company",
+      "position": "Hazardous Material and Handling",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Extensive hazardous materials compliance management experience...",
+      "highlights": []
+    },
+    {
+      "name": "",
+      "position": "Ammunition Stock and Control Manager",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Supervised the receipt, storage, issue, and preparation of ammunition components and explosives...",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Hudson High School",
+      "area": "High School",
+      "studyType": "Diploma",
+      "startDate": "",
+      "endDate": "1992",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Park University",
+      "area": "",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "",
+      "score": "81 Semester Hours",
+      "courses": []
+    },
+    {
+      "institution": "University of Maryland University College",
+      "area": "",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Aviation Supply Management",
+      "level": "",
+      "keywords": ["Accounting", "ADR", "Army", "ADX", "Budgeting", "Oral Communication", "Data entry", "Documentation", "Financial", "Government", "Inventory", "Materials", "Office", "ESS", "Monitors", "Natural", "Enterprise", "Organizational", "Processes", "Purchasing Research", "Safety", "Sound", "Stock Control", "Unique", "written", "SalesSoftware", "Salesforce.com","TapScan", "Public Relations Software", "Bacon's Mediasource", "Factiva", "Desktop Publishing Software", "Photoshop", "Illustrator", "HTML"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

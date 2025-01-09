@@ -1,0 +1,96 @@
+{
+  "basics": {
+    "name": "Freelance Designer",
+    "label": "Product Designer",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Engaging presenter and communicator; clearly communicates product features and advantages to management, clients, and vendors. Skilled in the production of concept sketches, 3D computer models, and product prototypes.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Freelance Designer",
+      "url": "",
+      "startDate": "2014-07",
+      "endDate": "Current",
+      "summary": "Completed projects for Dick's Sporting Good, Walmart, Khol's, Cabela's, Magellan, Kryptek, Snap-On, CCA.",
+      "highlights": [
+        "Efficiently lead and coordinated all product development stages.",
+        "Research market needs for development of new products, remain up-to-date on emerging trends and competitors."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Apparel Designer/Developer",
+      "startDate": "2012-09",
+      "endDate": "2013-11",
+      "summary": "Managed designs and development of new apparel lines from initial concept through production confirmation.",
+      "highlights": ["Effectively developed several apparel lines that will be introduced in the marketplace." ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Greece Rotary Youth Interact Club",
+      "position": "Volunteer",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Contributed to building children's playground.",
+      "highlights": [""]
+    }
+  ],
+  "education": [
+    {
+      "institution": "College of Creative Studies Detroit",
+      "url": "",
+      "area": "Industrial Design",
+      "studyType": "Bachelor of Fine Arts",
+      "startDate": "",
+      "endDate": "",
+      "score": "3.36",
+      "courses": [
+      ]
+    },
+    {
+     "institution": "Monroe Community College Rochester",
+     "url": "",
+     "area": "Design",
+     "studyType": "Summer Courses",
+     "startDate": "",
+     "endDate": "",
+     "score": "3.6",
+     "courses": [ ]
+    }
+  ],
+  "awards": [],
+  "certificates": [
+      {
+      "name": "CCA",
+      "date": "",
+      "issuer": "",
+      "url": ""
+      }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Product Design",
+      "level": "",
+      "keywords": [
+        "Marketing", "Prototype", "Prototypes", "Clients", "New Products", "Business Development", "Cases", "Interior Design", "Collections", "Credit", "Pacs", "Product Development", "Project Management", "Testing", "Transmissions", "Voice", "Cca", "Magellan", "Promotional", "Adobe Photoshop", "Engineer", "Excel", "Illustration", "Illustrator", "Ms Office", "Photoshop", "Powerpoint", "Pro Engineer", "Scanning", "Word", "Patroller", "Industrial Design"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

@@ -1,0 +1,101 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Customer Service Representative",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Dedicated and skilled cash administrator who excels at prioritizing, and completing multiple tasks simultaneously. Committed to delivering high quality results within a timely manner, with little to no supervision. Energetic, organized, and professional.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "",
+        "username": "",
+        "url": ""
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Cash Office Administration",
+      "url": "",
+      "startDate": "2016-01-01",
+      "endDate": "2016-08-01",
+      "summary": "Managed cash inventory and office budgeting for supplies. Developed and created effective filing system to accelerate paperwork processing. Developed a strong knowledge of hardware and software.",
+      "highlights": [
+        "Managed cash inventory and office budgeting for supplies for Lowe's Home Improvement",
+        "Developed and created effective filing system to accelerate paperwork processing",
+        "Developed a strong knowledge of hardware and software while keeping abreast of new applications that increased efficiency and productivity for management and customers."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Aviation Electrician",
+      "url": "",
+      "startDate": "2010-08-01",
+      "endDate": "2014-08-01",
+      "summary": "Perform scheduled and unscheduled maintenance on 10 F/A-18C aircraft electrical systems and related equipment. Promoted to Work Center Training Petty Officer April 2012. Maintain training records for over 19 personnel.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Cashier",
+      "url": "",
+      "startDate": "2009-09-01",
+      "endDate": "2010-04-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Customer Service Representative",
+      "url": "",
+      "startDate": "2015-05-01",
+      "endDate": "",
+      "summary": "Worked as a team member performing cashier duties, product assistance and cleaning. Expressed appreciation and invited customers to return to the store. Up-sold additional menu items, beverages and desserts to increase restaurant profits.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Central Piedmont Community College",
+      "url": "",
+      "area": "Paralegal",
+      "studyType": "Associate of Applied Science",
+      "startDate": "",
+      "endDate": "2016",
+      "score": "3.56",
+      "courses": []
+    }
+  ],
+  "awards": [
+  ],
+  "certificates": [
+  ],
+  "publications": [
+  ],
+  "skills": [
+    {
+      "name": "Analytical Skills",
+      "level": "",
+      "keywords": ["Microsoft Office", "Excel", "PowerPoint", "Quick learner", "Computer proficient", "Outstanding interpersonal skills", "Extremely organized", "Issue resolution", "Energetic and organized", "Attention to detail"]
+    }
+  ],
+  "languages": [
+  ],
+  "interests": [
+  ],
+  "references": [
+  ],
+  "projects": [
+  ]
+}

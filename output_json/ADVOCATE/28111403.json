@@ -1,0 +1,129 @@
+{
+  "basics": {
+    "name": "CEO",
+    "label": "President/Chief Executive Officer",
+    "email": "",
+    "phone": "",
+    "summary": "Chief Executive with experience offering outstanding presentation, communication and cross-cultural team management skills. High-energy, results-oriented leader with an entrepreneurial attitude.",
+    "location": {
+      "city": "Columbus",
+      "region": "Ohio"
+    }
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "President/Chief Executive Officer",
+      "startDate": "2010-10",
+      "endDate": "Current",
+      "summary": "Responsible for the administration of all programs of St. Vincent Family Centers in accordance with the stated purposes of St. Vincent Family Centers."
+    },
+    {
+      "name": "Company Name",
+      "position": "Executive Director (Ohio)",
+      "startDate": "2009-01",
+      "endDate": "2010-10",
+      "summary": "Administered and supervised of the National Youth Advocate Program/Ohio."
+    },
+    {
+      "name": "Company Name",
+      "position": "Assistant Director",
+      "startDate": "2002-06",
+      "endDate": "2009-01",
+      "summary": "Managed and directed day-to-day program service delivery within Franklin County."
+    },
+    {
+      "name": "Company Name",
+      "position": "Child Welfare Caseworker",
+      "startDate": "1998-07",
+      "endDate": "2002-05",
+      "summary": "Supervised staff, reviewed and approved documentation; conducted case reviews and coordinated paperwork and evaluated referrals for service and processes."
+    },
+    {
+      "name": "Company Name",
+      "position": "Program Worker",
+      "startDate": "1996-04",
+      "endDate": "1998-08",
+      "summary": "Trained patients to reach maximum independent functioning in daily living skills."
+    },
+    {
+      "name": "Company Name",
+      "position": "Youth Leader",
+      "startDate": "1995-06",
+      "endDate": "1996-04",
+      "summary": " Provided one-on-one and group supervision to children with severe behavioral problems."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Bethany College",
+      "area": "Psychology",
+      "studyType": "B.A.",
+      "startDate": "1990",
+      "endDate": "1995",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Franklin University",
+      "area": "Human Services Management",
+      "studyType": "M.S.",
+      "startDate": "1996",
+      "endDate": "2001",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Executive Level",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Operations",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Proposals",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Coaching",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Teaching",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Quality Control",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Corrective Action",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Human Resources",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Strategic Planning",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Finance",
+      "level": "",
+      "keywords": []
+    }
+  ]
+}

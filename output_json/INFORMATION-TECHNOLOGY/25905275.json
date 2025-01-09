@@ -1,0 +1,117 @@
+{
+  "basics": {
+    "name": "Information Technology Specialist",
+    "label": "Service Representative",
+    "email": "",
+    "phone": "",
+    "summary": "Professional and personable in relating to customer and coworkers, over 10 years' experience in customer relations, excellent verbal and written communication skills. Dependable, responsible contributor committed to excellence and success. Efficient problem solver with excellent decision-making, organizational, and interpersonal skills; able to effectively communicate with customers of all socioeconomic levels.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Windows 7 Support desk Technician",
+      "url": "",
+      "startDate": "2013-02-01",
+      "endDate": "2013-12-01",
+      "summary": "Served as a Windows 7 Customer Support agent for Cigna Health Care. Helped customers solve technical support issues involving installing software and hardware for specific programs.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Information Technology Specialist",
+      "url": "",
+      "startDate": "2010-10-01",
+      "endDate": "2012-08-01",
+      "summary": "Provided customer and network administration services, maintained hardware and software and network.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Maintenance Supervisor",
+      "url": "",
+      "startDate": "2007-05-01",
+      "endDate": "2010-10-01",
+      "summary": "Supervised and performed field and sustainment maintenance on wheeled vehicles and construction equipment.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Team Leader Infantryman",
+      "url": "",
+      "startDate": "1998-04-01",
+      "endDate": "2003-02-01",
+      "summary": "Perform as a member of a fire team during drills and combat, aid in the mobilization of vehicles, troops and weaponry.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "DeVry University",
+      "url": "",
+      "area": "Technical Management",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "2014-10-01",
+      "score": "3.0",
+      "courses": [
+        "Principles of Management",
+        "Project Management"
+      ]
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Microsoft Office",
+      "level": "",
+      "keywords": [
+        "Word", "Excel", "PowerPoint", "& Outlook"
+      ]
+    },
+    {
+      "name": "Operating System knowledge",
+      "level": "",
+      "keywords": [
+        "Windows 7"
+      ]
+    },
+    {
+      "name": "Language",
+      "level": "",
+      "keywords": [
+        "English", "Spanish"
+      ]
+    },
+    {
+      "name": "Leadership",
+      "level": "",
+      "keywords": [
+        "Project Management", "Military Leadership"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

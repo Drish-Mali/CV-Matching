@@ -1,0 +1,58 @@
+{
+  "basics": {
+    "name": "Not provided",
+    "label": "Accountant",
+    "image": "",
+    "email": "Not provided",
+    "phone": "Not provided",
+    "url": "Not provided",
+    "summary": "To utilize my customer relations and management background to obtain a position with a company that places importance on efficiency and success. Employ natural leadership and interpersonal skills to build relationships throughout the organization.",
+    "location": {
+      "address": "Not provided",
+      "postalCode": "Not provided",
+      "city": "Not provided",
+      "countryCode": "Not provided",
+      "region": "Not provided"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Accountant, Director of Finance & Accounts, Operations & TrainingConsultant, Franchisee & General Manager",
+      "url": "Not provided",
+      "startDate": "2004-02",
+      "endDate": "current",
+      "summary": "Accounting for six companies, maintained confidential information, processed payroll, electronic deposits and employee pay adjustments, reconciled all bank and credit card accounts, analyzed cost control and provided timely financial information, cost effective purchasing, reviewed book entries, assisted the CFO, prepared monthly and annual expense forecasts, tracked and verified accurate receipt of purchase orders, verified costs against vendor invoices, processed A/P weekly, worked with 50+ vendors, processed company purchase orders and communicated with customers regarding orders, researched and resolved collections and billing disputes.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Patient Service Representative",
+      "url": "Not provided",
+      "startDate": "2012-06",
+      "endDate": "2016-11",
+      "summary": "Consistently build positive report with patients while accurately and efficiently registering in a timely manner, perform daily administrative duties, insurance processing and communication, patient account resolution and billing assistance, provide Preliminary assessment of patient health, serve as liaison between patients and medical providers, mentor new employees on company policies and practices, develop and implement client service techniques to better serve both the patient and corporate needs, compliance and comprehension of HIPPA regulations, effectively prioritize tasks.",
+      "highlights": []
+    }],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Strayer University",
+      "url": "Not provided",
+      "area": "Accounting",
+      "studyType": "Bachelor of Science",
+      "startDate": "Not provided",
+      "endDate": "Not provided",
+      "score": "Not provided",
+      "courses": []
+    }],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

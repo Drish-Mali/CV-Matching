@@ -1,0 +1,111 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Apparel Sales Associate/Cashier",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Administrative professional offering excellent communication and computer skills. Meets deadlines and works with a high level of multicultural awareness and adaptability. Enthusiastic and well-organized Administrative Assistant with solid background in data entry, schedule management and event planning. Disciplined warehouse professional knowledgeable about material load capabilities, site analysis and general logistics. Friendly and reliable customer service professional skilled in achieving sales targets in high-end merchandise environments.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Apparel Sales Associate/Cashier",
+      "url": "",
+      "startDate": "2017-10-01",
+      "endDate": "2017-12-31",
+      "summary": "Greeted customers in a timely fashion while quickly determining their needs. Recommended merchandise to customers based on their needs and preferences. Maintained knowledge of current sales and promotions, policies regarding payment and exchanges and security practices. Responded to customer questions and requests in a prompt and efficient manner. Engaged with customers in a sincere and friendly manner. Contacted other store locations to determine merchandise availability. Prioritized helping customers over completing other routine tasks in the store. Contributed to team success by exceeding team sales goals by 30%. Completed all cleaning, stocking and organizing tasks in assigned sales area.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Administrative Specialist I",
+      "url": "",
+      "startDate": "2017-08-01",
+      "endDate": "Current",
+      "summary": "Close providers complaints, Re-export Claims, Check eligibility for Medicaid for participants, Claim adjustments, Processing contracts for new In-home care providers, Provider Compliance Submitting new waivers for In-Home care providers, Recoupments for Providers.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Fairfield Central High School",
+      "url": "",
+      "area": "",
+      "studyType": "High School Diploma",
+      "startDate": "",
+      "endDate": "2009-01-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Ashford University Clinton Campus",
+      "url": "",
+      "area": "Applied Behavioral Science Sociology",
+      "studyType": "BA",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Excellent planner and coordinator",
+      "level": "Master",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Excel certified",
+      "level": "Master",
+      "keywords": ["Microsoft Excel"]
+    },
+    {
+      "name": "Invoice processing",
+      "level": "Master",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Word",
+      "level": "Master",
+      "keywords": ["Microsoft Word"]
+    },
+    {
+      "name": "Team building",
+      "level": "Master",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Visio Atlas",
+      "level": "Master",
+      "keywords": ["Microsoft Visio Atlas"]
+    },
+    {
+      "name": "Microsoft PowerPoint",
+      "level": "Master",
+      "keywords": ["Microsoft PowerPoint"]
+    }
+  ],
+  "languages": [],
+  "interests": [
+    {
+      "name": "The Instructural Design at Ashford University and The Psychology club",
+      "keywords": []
+    }
+  ],
+  "references": [],
+  "projects": []
+}

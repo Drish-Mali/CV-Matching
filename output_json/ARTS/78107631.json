@@ -1,0 +1,128 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Executive Director",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Media Enterprise Alliance",
+      "position": "Executive Director",
+      "url": "",
+      "startDate": "2009-01-01",
+      "endDate": "Current",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Head-Royce School Instructor",
+      "url": "",
+      "startDate": "1974-01-01",
+      "endDate": "2010-01-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Fine Arts Dept.",
+      "position": "Chairman",
+      "url": "",
+      "startDate": "2005-01-01",
+      "endDate": "2010-01-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Director Summer",
+      "url": "",
+      "startDate": "2003-01-01",
+      "endDate": "2009-01-01",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of California Berkeley",
+      "url": "",
+      "area": "Communications and Public Policy",
+      "studyType": "B.A",
+      "startDate": "1969",
+      "endDate": "1969",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "University of California Berkeley-Fine Arts",
+      "url": "",
+      "area": "Fine Arts",
+      "studyType": "B.F.A",
+      "startDate": "1970",
+      "endDate": "1970",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "San Francisco Art Institute",
+      "url": "",
+      "area": "M.F.A",
+      "studyType": "M.F.A",
+      "startDate": "1972",
+      "endDate": "1972",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "UC Berkeley-Secondary Teaching Credential program",
+      "url": "",
+      "area": "",
+      "studyType": "",
+      "startDate": "1973",
+      "endDate": "1973",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Academic",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Arts",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Enterprise",
+      "level": "",
+      "keywords": []
+    },
+    {"name": "Teaching",
+     "level": "",
+     "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

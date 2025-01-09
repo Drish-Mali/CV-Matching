@@ -1,0 +1,98 @@
+{
+  "basics": {
+    "name": "Christopher Townes",
+    "label": "Information Technology Specialist",
+    "email": "",
+    "phone": "",
+    "summary": "Knowledgeable Information Technology Specialist capable of setting up and optimizing workstations, training users and assisting with process improvement implementation in diverse areas. Systematic IT professional proficient in network, project and emergency management. Proficient Information Systems Technician successful at troubleshooting technical issues and training end-users. Comfortable working in teams or individually to maintain and expand technology performance.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "",
+      "region": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Information Technology Specialist",
+      "startDate": "2015-02-01",
+      "endDate": "2021-02-01",
+      "summary": "Created new accounts, reset passwords and configured access to servers and file management software for users. Mentored other technologists and support professionals to provide professional development and skill enhancement. Increased overall company performance through improved IT uptime and cost reductions. Maintained and controlled server room, wireless network, and server infrastructure. Led working groups to develop mitigation strategies and prepare standard operating procedures. Provided onsite IT and AV technical support for 4000 staff members. Kept hardware and software systems current with latest patches and current licenses. Directed account management and customer training on company technical software and tools for new accounts and new users.",
+      "highlights": [
+        "Increased overall company performance through improved IT uptime and cost reductions.",
+        "Maintained and controlled server room, wireless network, and server infrastructure.",
+        "Provided onsite IT and AV technical support for 4000 staff members."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Computer Repair Technician",
+      "startDate": "2016-06-01",
+      "endDate": "2017-02-01",
+      "summary": "Checked in computers and performed diagnostics for repair. Updated or installed software for customers to ensure computer efficiency. Identified hardware issues caused by component failures using approved diagnostic tools. Supported employees with advanced troubleshooting on helpdesk tickets. Configured computers to network drivers and connected to printers and other peripheral equipment. Reviewed current hardware and software configurations and recommended modifications to increase system speed. Observed system functioning and entered commands to test different areas of operations. Disassembled computer systems to troubleshoot and resolve hardware issues.",
+      "highlights": [
+        "Identified hardware issues caused by component failures using approved diagnostic tools.",
+        "Supported employees with advanced troubleshooting on helpdesk tickets.",
+        "Reviewed current hardware and software configurations and recommended modifications to increase system speed."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Correctional Officer",
+      "startDate": "2014-03-01",
+      "endDate": "2014-12-01",
+      "summary": "Detected potential threats and quickly defused conflicts. Conducted internal security checks to ascertain inmate safety. Supervised inmates during day-to-day activities. Informed inmates and visitors of rules, safety and security procedures and responsibilities. Employed de-escalation techniques, verbal commands and physical and mechanical restraints to address unruly inmates. Transported inmates to and from personal appointments, including medical and dental appointments, funerals, work details and court hearings. Promoted rehabilitation of offenders and maintained safety of staff and residents. Inspected cells and conducted random searches of common areas.",
+      "highlights": [
+        "Detected potential threats and quickly defused conflicts.",
+        "Conducted internal security checks to ascertain inmate safety.",
+        "Promoted rehabilitation of offenders and maintained safety of staff and residents."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University Of Advancing Technology",
+      "area": "",
+      "studyType": "Some College (No Degree)",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Information Technology",
+      "level": "",
+      "keywords": [
+        "Routers",
+        "Staff Management",
+        "Hardware Troubleshooting",
+        "Network Administration",
+        "Cisco",
+        "Help Desk Support",
+        "Cisco Switching",
+        "Cisco Routers",
+        "Hardware Installations",
+        "Learning Strategies",
+        "Software Updates",
+        "Operation Monitoring",
+        "Problem-Solving Skills"
+      ]
+    },
+    {
+      "name": "Computer Repair",
+      "level": "",
+      "keywords": [
+        "Hardware and Software Issue Diagnosis",
+        "System Testing",
+        "Software Security Protocols",
+        "Security Oversight",
+        "Speaking"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Food Server",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "I have sixteen years of experience in the customer service industry. My experience includes, customer-oriented food server, crew trainer and housekeeper with a deep experience with POS systems and cash handling procedures. I have four years experience with Microsoft Office and Adobe Media Arts Software.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Food Server",
+      "url": "",
+      "startDate": "2000",
+      "endDate": "2003",
+      "summary": "Recorded customer orders and repeated them back in a clear, understandable manner.Up-sold additional menu items, beverages and desserts to increase restaurant profits.Correctly received orders, processed payments and responded appropriately to guest concerns.Served fresh, hot food with a smile in a timely manner.Resolved guest complaints promptly and professionally.Prepared and served beverages such as coffee, tea and fountain drinks.Mastered Point of Sale (POS) computer system for automated order taking.Frequently washed and sanitized hands, food areas and food preparation tools.Maintained a neat, well groomed appearance including impeccable personal hygiene, hair restraint and minimal jewelry that met company standards.Worked well with teammates and openly invited coaching from the management team.Prepared items according to written or verbal orders, working on several different orders simultaneously.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Media Arts Tutor",
+      "url": "",
+      "startDate": "2013",
+      "endDate": "2014",
+      "summary": "Tutored PhotoShop, Aftereffects and Illustrator to students in need of extra help and understanding of class assignments. Supplied one-on-one attention to each student, while maintaining overall focus on the entire group.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "The University of Montana",
+      "url": "",
+      "area": "Computer Media / Media Arts",
+      "studyType": "Associate of Arts",
+      "startDate": "",
+      "endDate": "2014",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "TIPS training",
+      "date": "2000",
+      "awarder": "Lucky Lill's Casino",
+      "summary": "Passed with a perfect score and awarded a certificate and an hourly raise."
+    },
+    {
+      "title": "Promotion",
+      "date": "2003",
+      "awarder": "Denny's Restaurant",
+      "summary": "Recognized by management for going above and beyond normal job functions. Promoted to the title of 'Crew Trainer'. Duties included training all new wait-staff employees on company procedures and proper customer service."
+    }
+  ],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Customer Service",
+      "level": "Expert",
+      "keywords": ["Math and language", "Microsoft Office Excel", "Microsoft Office Access", "Microsoft Office Word", "Microsoft Office PowerPoint", "Adobe PhotoShop", "Adobe Illustrator"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Conversant in Spanish"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

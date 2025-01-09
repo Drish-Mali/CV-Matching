@@ -1,0 +1,108 @@
+{
+  "basics": {
+    "name": "Not provided",
+    "label": "Engineering Team Lead",
+    "image": "",
+    "email": "Not provided",
+    "phone": "Not provided",
+    "url": "Not provided",
+    "summary": "Engineering Team Lead with years of experience working at every level and stage of the software development life-cycle. Independently motivated to discover new techniques through self evaluation and improvement. Qualified in coaching individuals and teams on Agile and Scrum principles. Detail-oriented professional with extensive software development experience using a wide variety of languages. Believes success is defined by highest value delivered in shortest amount of time.",
+    "location": {
+      "address": "Not provided",
+      "postalCode": "Not provided",
+      "city": "Not provided",
+      "countryCode": "Not provided",
+      "region": "Not provided"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Not provided",
+      "position": "Engineering Team Lead",
+      "url": "Not provided",
+      "startDate": "2011-03-01",
+      "endDate": "Current",
+      "summary": "Coordinate the product road-map through facilitating planning meetings and preparing feature-sets. Prepare technical architecture proposals for enhancements and integration of existing third party software systems. Design, document and execute engineering procedures, including customization delivery, escalation and technical modernization enhancements. Coach and mentor individuals on principles of software development.",
+      "highlights": [
+        "Not provided"
+      ]
+    },
+    {
+      "name": "Not provided",
+      "position": "Software Engineer",
+      "url": "Not provided",
+      "startDate": "2008-11-01",
+      "endDate": "2011-04-01",
+      "summary": "Responsible for research, design and development of enhancements to web based applications. Ensure agile software development principles are followed through coaching and mentoring development teams.",
+      "highlights": [
+        "Not provided"
+      ]
+    },
+    {
+      "name": "Not provided",
+      "position": "Web Developer",
+      "url": "Not provided",
+      "startDate": "2006-11-01",
+      "endDate": "2008-12-01",
+      "summary": "Develop and maintain web-based applications.",
+      "highlights": [
+        "Not provided"
+      ]
+    },
+    {
+      "name": "Not provided",
+      "position": "Jr. Software Engineer",
+      "url": "Not provided",
+      "startDate": "2005-12-01",
+      "endDate": "2006-12-01",
+      "summary": "Investigate tier 2 level issues. Perform maintenance level development changes.",
+      "highlights": [
+        "Not provided"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Milwaukee Area Technical College",
+      "url": "Not provided",
+      "area": "Software Engineering",
+      "studyType": "Associate",
+      "startDate": "2015-01-01",
+      "endDate": "Current",
+      "score": "Not provided",
+      "courses": [
+        "Not provided"
+      ]
+    },
+    {
+      "institution": "MRA",
+      "url": "Not provided",
+      "area": "Principles of Management",
+      "studyType": "Course",
+      "startDate": "2011-01-01",
+      "endDate": "2011-12-31",
+      "score": "Not provided",
+      "courses": [
+        "Not provided"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Software Development",
+      "level": "Not provided",
+      "keywords": [
+        "ASP", "C#", "VB.NET", "SOAP", "REST", "JQuery", "Bootstrap", "CSS", "HTML5", "MSSQL", "MYSQL", "DTS", "SSIS", "SSRS", "IIS 5", "IIS 6", "Agile", "Scrum", "Kanban", "Objective C", "PHP", "Perl"
+      ]
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "volunteer": []
+}

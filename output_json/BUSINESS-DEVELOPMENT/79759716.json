@@ -1,0 +1,95 @@
+{
+  "basics": {
+    "name": "",
+    "label": "HEAD OF BUSINESS DEVELOPMENT",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Experienced business development and brand marketing executive with proven track record of success managing innovative and complex marketing partnerships. Skilled problem solver with a unique background and proven ability to thrive in fast-paced work environments. Superior interpersonal and stakeholder management skills.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Head of Business Development",
+      "url": "",
+      "startDate": "2016-07-01",
+      "endDate": "Current",
+      "summary": "Lead planning, development and implementation of business development and marketing initiatives for a venture backed, early stage start-up in the marketplace + technology sector... (and more detailed responsibilities)"
+    },
+    {
+      "name": "Company Name",
+      "position": "Senior Manager",
+      "url": "",
+      "startDate": "2014-12-01",
+      "endDate": "2016-07-01",
+      "summary": "Managed business development and creative marketing opportunities for over 60 NBA professional athlete clients... (and more detailed responsibilities)"
+    },
+    {
+      "name": "Company Name",
+      "position": "Manager",
+      "url": "",
+      "startDate": "2011-11-01",
+      "endDate": "2014-12-01",
+      "summary": "Worked directly with the Chief Marketing Officer to form brand development and digital partnership activation strategies for athlete clients... (and more detailed responsibilities)"
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Arizona",
+      "url": "",
+      "area": "Economics",
+      "studyType": "BA",
+      "startDate": "",
+      "endDate": "2011",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "University of Arizona",
+      "url": "",
+      "area": "Sports Marketing & Management",
+      "studyType": "Minor Degree",
+      "startDate": "",
+      "endDate": "2011",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "HubSpot Content Marketing Certificate",
+      "date": "2017",
+      "issuer": "HubSpot",
+      "url": ""
+    },
+    {
+      "name": "HubSpot Inbound Marketing Certificate",
+      "date": "2017",
+      "issuer": "HubSpot",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Business Development",
+      "level": "Senior",
+      "keywords": ["Microsoft Word", "Excel", "Powerpoint", "Keynote", "SenGrid", "Facebook Advertising", "Instagram", "Twitter", "Facebook Analytics", "Google Suite", "Google Analytics"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

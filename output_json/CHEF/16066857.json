@@ -1,0 +1,138 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Senior Executive Chef",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "To seek employment as a Executive Chef where I can offer my skills and experience",
+    "location": {
+      "address": "City , State",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "US",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Senior Executive Chef",
+      "url": "",
+      "startDate": "May 2015",
+      "endDate": "Current",
+      "summary": "Self-motivated Training and developing of Staff. Launched well-received program of professional development courses for all staff. Mentored and coached employees resulting in a 12% increase in productivity.",
+      "highlights": [
+        "Reduced food costs by 12% percent.",
+        "Consistently produced exceptional menu items.",
+        "Improved sales by 10% during the summer months."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Executive Chef Retail",
+      "url": "",
+      "startDate": "May 2013",
+      "endDate": "May 2015",
+      "summary": "Managed and Oversaw Culinary Team to Include - Patient Food and Nourishments for 11867. Bed Acute Care Facility and 6 Separate Retail Revenues Grossing Over 8 Million in Annual Revenue.",
+      "highlights": [
+        "Reduced food costs by 9% percent.",
+        "Managed volume of 22.7 million."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Executive Chef",
+      "url": "",
+      "startDate": "January 2009",
+      "endDate": "May 2014",
+      "summary": "Responsible for Café at Both Units Also Catering for private functions conferences.",
+      "highlights": [
+        "Reduced food costs by 7% percent."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Restaurant Chef/Retail Chef",
+      "url": "",
+      "startDate": "June 2006",
+      "endDate": "January 2009",
+      "summary": "Managed kitchen operations for high grossing, fast-paced fair concession kitchen.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Staff Restaurant and Retail Chef",
+      "url": "",
+      "startDate": "June 1994",
+      "endDate": "June 2006",
+      "summary": "",
+      "highlights": [
+        "Reduced food costs by 12% percent."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "John Jay",
+      "url": "",
+      "area": "",
+      "studyType": "GED",
+      "startDate": "1984",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Leadership",
+      "level": "Expert",
+      "keywords": []
+    },
+    {
+      "name": "Profit and Loss",
+      "level": "Expert",
+      "keywords": []
+    },
+    {
+      "name": "Retail Sales",
+      "level": "Expert",
+      "keywords": []
+    },
+    {
+      "name": "Self-motivated",
+      "level": "Expert",
+      "keywords": []
+    },
+    {
+      "name": "Staff Development and Motivation",
+      "level": "Expert",
+      "keywords": []
+    },
+    {
+      "name": "Team Leadership and Building",
+      "level": "Expert",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Bilingual"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

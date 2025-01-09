@@ -1,0 +1,98 @@
+{
+  "basics": {
+    "name": "Charge Nurse",
+    "label": "Registered Nurse",
+    "summary": "Seasoned Charge Nurse with more than 10 years of experience on fast paced Dual Diagnosis / Chemical Dependency Unit and 13 years in Med- - Surg. Experience with Holistic multi-disciplinary coordination of care for patients, including collaborating with Case Managers, Physicians, Ancillary providers, Social Workers and other internal and external programs.",
+    "location": {
+      "city": "City",
+      "region": "State"
+    },
+    "profiles": [
+    ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Charge Nurse",
+      "startDate": "2018-07-01",
+      "endDate": "2020-09-01",
+      "summary": "Assigned and delegated responsibilities based on staff competencies and patient needs. Provided intervention medication as ordered and support to patients with acute, chronic and drug-induced mental illness. Ensured that doctor's orders were efficiently carried out, including testing, medical procedures, consultations, and stat orders for psychiatric / medical emergencies. Performed daily nursing assessments on assigned patients, including assessment of mood, suicide, safety risk, and narrative of patient's daily activities."
+    },
+    {
+      "name": "Company Name",
+      "position": "Intake Nurse",
+      "startDate": "2019-09-01",
+      "endDate": "2020-04-01",
+      "summary": "Perused referrals and conducted RN to RN report from other facilities seeking admit to determine if patient was appropriate. Performed admission assessments focusing on patients with acute symptoms of mental illness and polysubstance abuse. Monitored suicidal, psychotic and patients in active withdrawal and maintained safety until transferred to designated unit."
+    },
+    {
+      "name": "Company Name",
+      "position": "Charge Nurse",
+      "startDate": "2006-03-01",
+      "endDate": "2016-10-01",
+      "summary": "Provided care on busy Chemical Detox and Dual Disgnosis unit. Assigning responsibilities based on staff competencies and patient needs. Interacted with patients to assist them in identifying sources of Anxiety and Depression."
+    },
+    {
+      "name": "Company Name",
+      "position": "Staff Nurse",
+      "startDate": "2004-01-01",
+      "endDate": "2006-03-01",
+      "summary": "Provided rehabilitative nursing care involving ADL's and other issues to promote and restore independence in patients. Assessed patient vital signs, any status changes, reviewed lab results."
+    },
+    {
+      "name": "Company Name",
+      "position": "Staff Nurse",
+      "startDate": "2002-03-01",
+      "endDate": "2004-03-01",
+      "summary": "Provided care on busy Med-Surg/ Oncology unit."
+    },
+    {
+      "name": "Company Name",
+      "position": "Staff Nurse",
+      "startDate": "1993-06-01",
+      "endDate": "2001-07-01",
+      "summary": "Provided quality care to patients on busy Med-Surg unit. Prepped patient's for surgery."
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Lincoln Park High School",
+      "area": "General studies.",
+      "studyType": "High School Diploma",
+      "endDate": "1982-05-01"
+    },
+    {
+      "institution": "Olive Harvey College",
+      "area": "Nursing",
+      "studyType": "Associate of Applied Science",
+      "endDate": "1993-05-01"
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Nursing Skills",
+      "level": "",
+      "keywords": [
+        "Process evaluation",
+        "Strong assessment skills",
+        "Patient Care Planning",
+        "Adaptability",
+        "Medical Record Auditing",
+        "Collaboration",
+        "Detail oriented",
+        "CPI trained",
+        "Critical thinking",
+        "CPR",
+        "Strong work ethic"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

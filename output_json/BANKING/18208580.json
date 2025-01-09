@@ -1,0 +1,108 @@
+{
+  "basics": {
+    "name": "Assistant Banking Center Manager",
+    "label": "Management Professional",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Results-focused management professional offering 6 years of progressive leadership experience. Transforms high-potential staff into outstanding leaders who demonstrate the creativity and savvy that is critical to financial and operational success.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Assistant Banking Center Manager",
+      "url": "",
+      "startDate": "2010-01-01",
+      "endDate": "Current",
+      "summary": "Financial reporting, Bank reconciliations, Negotiation skills, Manage Staff, and Compliance throughout Banking Center. Achieving beyond expected quota each quarter.",
+      "highlights": [
+        "Increased annual gross sales by 15%", 
+        "Developed direct mass mailings which resulted in 8% growth of customer base",
+        "Achieved status as one of the top 10 performers in the region.",
+        "Cross-sell banking services and products to clientele."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Sr. Financial Banker",
+      "url": "",
+      "startDate": "2007-07-01",
+      "endDate": "2010-01-01",
+      "summary": "Profile management position accountable for soliciting business accounts and developing strategic alliances with clientele. Fast learner, and excellent training skills. Obtaining Loans: Personal, Home Equity, Vehicle, Commercial, and Small Business.",
+      "highlights": [
+        "Develop and implement innovative marketing principles and promotional sales events for commercial and personal projects to further support financial growth",
+        "Cross-sell banking services and products to clientele",
+        "Achieving beyond expected quota each quarter"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Sr. Financial Service Rep",
+      "url": "",
+      "startDate": "2003-11-01",
+      "endDate": "2007-07-01",
+      "summary": "Directed daily operations for retail banking, including branch sales, business development, customer service, and credit analysis.",
+      "highlights": [
+        "Analyzed financial statements and pertinent information to determine creditworthiness of prospective customers",
+        "Counseled corporate clients and high net-worth individuals with regard to their borrowing needs"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Houston downtown",
+      "url": "",
+      "area": "Business Finance/ HR Management",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Houston Community College",
+      "url": "",
+      "area": "",
+      "studyType": "Associates",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Operations management",
+      "level": "Expert",
+      "keywords": ["Cross-functional team management", "Microsoft Certified", "Staff training", "Skilled negotiator", "Training and development", "Problem solving"]
+    },
+    {
+      "name": "Banking Related Skills",
+      "level": "Expert",
+      "keywords": ["Financial reporting", "Bank reconciliations", "Budget development", "NMLS Certified"]
+    },
+    {
+      "name": "Sales and Marketing",
+      "level": "Expert",
+      "keywords": ["Client relations", "Sales and Promotion", "Profile management"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "affiliations": ["Leadership Development Program-Comerica Bank", "Junior Achievement", "Red Cross", "March Of Dimes", "Breast Cancer Awareness", "Prior Chamber Member"]
+}

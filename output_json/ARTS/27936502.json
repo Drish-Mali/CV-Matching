@@ -1,0 +1,105 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Packaging Buyer/Research and Development Lead",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Seeking a full time position in Operations, Purchasing, Inventory Control, Logistics, and/or Inside Sales Management.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Packaging Buyer/Research and Development Lead",
+      "url": "",
+      "startDate": "2013-01-01",
+      "endDate": "Current",
+      "summary": "Maintains all purchase orders and vendor acknowledgements. Updates vendor weekly Open Order Reports with accurate ETA's in SAP. Assists in planning, timeline development, and launch of new products. Assist in writing marketing and product development plans.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "English Language Arts Teacher",
+      "url": "",
+      "startDate": "2009-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Initiated, facilitated, and moderated classroom discussions. Evaluated and graded students' class work, assignments, and papers. Prepared course materials such as syllabi, homework assignments, and handouts.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Operations/Purchasing Manager",
+      "url": "",
+      "startDate": "2002-01-01",
+      "endDate": "2009-01-01",
+      "summary": "Supervised daily activities relating to operations, receiving, handling and distribution of rigid packaging. Facilitated weekly managers meetings between sales, operations & warehouse teams.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Sam Houston State University",
+      "url": "",
+      "area": "English/Sociology",
+      "studyType": "Bachelor of Arts",
+      "startDate": "",
+      "endDate": "2002",
+      "score": "",
+      "courses": ["Texas Teacher Certification 2009-2013 (4-8 English, EC-6 Generalist, K-12 ESL)"]
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Operations Training and Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Problem Solving",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Customer Service/Team Building",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Human Resources/Eduphoria Supply Chain/Procurement/Planning",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Distribution/Logistics/Shipping",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Purchasing/SAP/Rigid Packaging Inventory Control/Warehouse",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Research and Development/Marketing Ceridian/iEmployee/Paychex Deja/FacetWin AP/AR",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

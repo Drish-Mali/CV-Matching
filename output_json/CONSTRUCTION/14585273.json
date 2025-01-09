@@ -1,0 +1,63 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Construction Services Project Manager",
+    "email": "",
+    "phone": "",
+    "summary": "Dedicated Property/ Facilities Specialist with more than 10 years overseeing a diversified portfolio of commercial properties totaling over 1 million square feet and residential properties with a combined total of over 1,000 units. Skilled in budgeting, planning, leasing, marketing, staffing, financial reviews and budgeting.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    }
+  },
+  "work": [
+    {
+      "name": "",
+      "position": "Construction Services Project Manager",
+      "startDate": "1994-01-01",
+      "endDate": "2008-01-01",
+      "summary": "Provided construction management services, including crisis management, project analysis, build-outs and marketing of nonperforming development projects for financial institutions. Responsible for analysis of project design to identify alternatives, reduce costs and recommend changes for greater savings. Negotiate with bidders, supervise contracting and hiring. Supervision of professionals including legal, real estate, engineering, architectural and trades to insure top performance. Successfully completed development, construction and sales over 2000 residential units and over 1M sq. ft. of commercial and industrial property for principals and institutional owners."
+    },
+    {
+      "name": "",
+      "position": "President and Manager",
+      "startDate": "1988-01-01",
+      "endDate": "1992-01-01",
+       "summary": "Managed a 250 unit townhouse development prior to and after foreclosure and sale of the project. Successful and profitable completion the remaining units and site improvements while positively interacting with residents and local officials. Managed commercial properties. Achieved the highest possible net operating income by implementing cost control and revenue improvement programs."
+    }, 
+    {
+      "name": "",
+      "position": "President and Manager",
+      "startDate": "1981-01-01",
+      "endDate": "1983-01-01",
+      "summary": "Managed a 200 unit townhouse development after a bankruptcy and sale of the project. Successfully completed the remaining units and site improvements while positively interacting with residents and local officials."
+    },
+    {
+      "name": "",
+      "position": "Facilities Manager",
+      "startDate": "1971-01-01",
+      "endDate": "1980-01-01",
+      "summary": "Conducted the planning, budgeting, purchasing, and implementation of all facilities operations and tenant improvements for multiple shopping, office and industrial buildings. Achieved the highest possible net operating income by implementing cost control and revenue improvement programs."
+    }
+  ],
+  "education": [
+      {
+        "institution": "Delaware Valley College",
+        "area": "Science",
+        "studyType": "Bachelor",
+        "startDate": "",
+        "endDate": "",
+        "courses": ["Asset Management and Disposition Seminars", "Professional Appraisal, Finance and Real Estate Courses"]
+      }
+  ],
+
+  "skills": [
+    {
+      "name": "Asset Management, budgeting, Computer literate in MS Office, Word Excel PowerPoint, crisis management, Due Diligence, Finance, New construction, remodeling renovation and remediation, staffing, personnel management, insurance claims, legal, marketing, project design, project analysis, purchasing, Real Estate Valuation",
+      "level": "Master"
+    }
+  ]
+}

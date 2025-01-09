@@ -1,0 +1,106 @@
+{
+  "basics": {
+    "name": "Anonymous",
+    "label": "Technical IT Healthcare Consultant",
+    "summary": "Experience Technical Consultant building enterprise-class IT systems for a range of industries."
+  },
+  "skills": [
+    {
+      "name": "IT and Healthcare",
+      "keywords": [
+        "Project Management",
+        "Cloud Computing Services",
+        "Data Center Migration",
+        "Application Integration & Support",
+        "System Integration",
+        "Account Management",
+        "Medisoft V20 Healthcare Application",
+        "Linux Red Hat",
+        "Puppet Automation Tool",
+        "Apache",
+        "Oracle",
+        "Java",
+        "Unix scripting",
+        "System administration",
+        "Red Hat version 5.6",
+        "Solaris 9.0",
+        "NetScout",
+        "UNIX servers",
+        "HP-UX 9, 10, 11i",
+        "LVM",
+        "Disaster Recovery planning",
+        "DNS",
+        "NIS",
+        "NFS",
+        "Veritas Clustering",
+        "KVM",
+        "PCI Compliance Patching"
+      ]
+    }
+  ],
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Technical IT Healthcare Consultant",
+      "startDate": "2014-04",
+      "endDate": "Current",
+      "summary": "Design,Build, Test, and Deploy base upon technical requirements of vendor."
+    },
+    {
+      "name": "Company Name",
+      "position": "Linux System Administrator",
+      "startDate": "2012-10",
+      "endDate": "2014-01",
+      "summary": "Configuration, installations, administration, and monitoring twenty IBM Blades with fault tolerant, snapshot, LVM, and selinux"
+    },
+    {
+      "name": "Company Name",
+      "position": "UNIX/LINUX System Administrator",
+      "startDate": "2010-04",
+      "endDate": "2012-08",
+      "summary": "Managed, administered, and provided remote troubleshooting and analysis for server/client configuration"
+    },
+    {
+      "name": "Company Name",
+      "position": "HP-System Administrator",
+      "startDate": "2007-02",
+      "endDate": "2010-03",
+      "summary": "Maintenance and support of over 900 servers running HP-UX 9, 10, 11i, and linux servers."
+    },
+    {
+      "name": "Company Name",
+      "position": "HP-UX System Administrator",
+      "startDate": "1995-01",
+      "endDate": "2007-02",
+      "summary": "Maintenance and support of over 1000 HP-UX servers running HP-UX versions 10.20 and 11.X."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Georgia State University",
+      "area": "Accounting and Computer Science",
+      "studyType": "Bachelor of Science",
+      "startDate": "1987",
+      "courses": []
+    },
+    {
+      "institution": "Georgia Tech Institute",
+      "area": "Programming and Computer Science",
+      "studyType": "Technical Certification in IT Technology",
+      "startDate": "1990"
+    },
+    {
+      "institution": "Georgia Tech Institute",
+      "area": "Programming and Technology",
+      "studyType": "Technical IT Certification",
+      "startDate": "1992"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "IBM Corporation Disaster Recover Certification",
+      "date": "unknown",
+      "issuer": "IBM Corporation"
+    }
+  ]
+}

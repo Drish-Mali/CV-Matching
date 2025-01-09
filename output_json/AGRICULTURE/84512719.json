@@ -1,0 +1,87 @@
+{
+  "basics": {
+    "name": "John Doe",
+    "label": "E-commerce Supervisor",
+    "image": "",
+    "email": "john@gmail.com",
+    "phone": "(912) 555-4321",
+    "url": "https://johndoe.com",
+    "summary": "I am seeking a challenging position in management, where I can apply my experience to a company's objective and profits...",
+    "location": {
+      "address": "2712 Broadway St",
+      "postalCode": "CA 94115",
+      "city": "San Francisco",
+      "countryCode": "US",
+      "region": "California"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "john",
+        "url": "https://twitter.com/john"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "E-commerce Supervisor",
+      "url": "https://company.com",
+      "startDate": "2015-02-01",
+      "endDate": "Current",
+      "summary": "Plan and manage daily workload...",
+      "highlights": [
+        "Plan and manage daily workload.",
+        "Lead and develop employees through teamwork.",
+        "Continually looking for ways to improve quality, safety, and productivity."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Co-Owner",
+      "url": "https://company.com",
+      "startDate": "2006-01-01",
+      "endDate": "2010-01-01",
+      "summary": "Develop and manage projects and budgets...",
+      "highlights": [
+        "Experience in Real-estate law and procedures."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Owens Community College",
+      "url": "https://institution.com/",
+      "area": "Electrical/Electronics Engineering Technology",
+      "studyType": "AAS",
+      "startDate": "2011-01-01",
+      "endDate": "2013-01-01",
+      "score": "3.93",
+      "courses": [
+        "5S program",
+        "Photovoltaic Certification",
+        "Training Assistant Position Workshop",
+        "Mentors of America - Online/Phone course",
+        "Best Buy Lean Team"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Logistics",
+      "level": "Master",
+      "keywords": [
+        "attention to detail", 
+        "continuous improvement", 
+        "excel", 
+        "power point", 
+        "word", 
+        "network",
+        "internet research", 
+        "organizational skills", 
+        "safety", 
+        "teamwork"
+      ]
+    }
+  ]
+}

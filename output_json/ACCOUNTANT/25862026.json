@@ -1,0 +1,145 @@
+{
+  "basics": {
+    "name": "Not provided",
+    "label": "Senior Accountant",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "8+ years of accomplished experience in the field of accounting Team and organizational training from a major global public corporation. Exceptionally fast, efficient and organized Knowledge of all accounting functions: GL, PL, and BS. Experience in GAAP and Statutory accounting and monthly and year-end closing processes.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Senior Accountant",
+      "url": "",
+      "startDate": "2015-06-01",
+      "endDate": "Current",
+      "summary": "Prepare, examine, or analyze accounting records, financial statements, or other financial reports to assess accuracy, completeness, and conformance to reporting and procedural standards.",
+      "highlights": [
+        "Prepare communications such as memos, presentation charts, and process documentation",
+        "Maintain Sox controls and departmental documentation",
+        "Train new staff and review the work of less experienced staff Cross training with other team members in other accounting functions."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Accountant II",
+      "url": "",
+      "startDate": "2013-09-01",
+      "endDate": "2014-05-01",
+      "summary": "Completed assigned reconciliations accurately, completely and in the time frame required by corporate policies. Worked with internal Financial Reporting personnel to support timely and accurate completion of monthly, quarterly and annual internal and external reporting.",
+      "highlights": [
+        "Worked with external audit firm to support timely completion of audits or compliance reporting",
+        "Assisted other departments with compiling information and reporting results and variances."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Accountant II",
+      "url": "",
+      "startDate": "2008-12-01",
+      "endDate": "2013-01-01",
+      "summary": "Assisted in the month/year end close and preparation of associated journal entries. Performed detailed analysis of the general ledger in conjunction with the month end close.",
+      "highlights": [
+        "Recognized and investigated unusual results utilizing all available resources and effectively communicated findings to management",
+        "Cash settlements through wire transfers, electronic receipts, check deposits, ach payments, and check requests."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Associate",
+      "url": "",
+      "startDate": "2006-10-01",
+      "endDate": "2008-06-01",
+      "summary": "Developed, coordinated and planned expense budgets, forecasts, headcount monitoring and tracking and consolidated and analyzed trends of the expenses for Compensation and Planning within Agency Division successfully ended the year within +/- 2% variance to forecast.",
+      "highlights": [
+        "Prepared, updated and monitored monthly Financial Analysis Summaries and budget templates for the monthly financial management presentations including actual and projected results",
+        "Coordinated with section managers to prepare budget uploads and monthly Budget versus Actual meetings."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "KEAN UNIVERSITY",
+      "url": "",
+      "area": "Accounting",
+      "studyType": "Masters of Science",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "",
+      "url": "",
+      "area": "Management Science",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Accounting",
+      "level": "Senior",
+      "keywords": [
+        "account reconciliation",
+        "general accounting",
+        "accruals",
+        "ad",
+        "Agency",
+        "balance sheets",
+        "billing",
+        "budgets",
+        "charts",
+        "compliance reporting",
+        "contracts",
+        "documentation",
+        "financial",
+        "Financial Analysis",
+        "financial management",
+        "financial reports",
+        "Financial Reporting",
+        "financial statements",
+        "fixed assets",
+        "foreign exchange",
+        "general ledger",
+        "general ledger accounts",
+        "home office",
+        "Inventory",
+        "invoicing",
+        "ledger",
+        "meetings",
+        "Microsoft Dynamics",
+        "Microsoft Office Suite",
+        "Oracle Financial",
+        "PeopleSoft",
+        "personnel",
+        "policies",
+        "presentations",
+        "reporting",
+        "settlements",
+        "underwriting"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

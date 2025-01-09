@@ -1,0 +1,137 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Buyer/Planner",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Detail-oriented, analytical-thinking, trilingual individual, with exceptional problem-solving skills looking to obtain an internship or full-time position that will allow me to utilize my education and work experience while gaining valuable work experience in a team-oriented work environment.",
+    "location": {
+     
+    },
+    "profiles": [
+      
+    ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Buyer/Planner",
+      "url": "",
+      "startDate": "2016-05-01",
+      "endDate": "Current",
+      "summary": "Plan and execute forecasting strategies for mass production planning. Collaborate with cross-functional groups including Engineering, Shipping/Receiving, Purchasing, and Sales. Negoatiate proposals for potential suppliers, including quantitative and qualitative research. Obtain documents, clearances, certificates, and approvals from local, state and federal agencies. Work closely with Production to convert weekly plan into daily work center schedules that manage constraints of manpower, equipment and optimize costs.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Logistics Analyst",
+      "url": "",
+      "startDate": "2015-02-01",
+      "endDate": "2016-05-01",
+      "summary": "Managed ERP system to monitor the status of incoming materials. Released work orders to the production floor as inventory became available. Coordinated expedited shipping orders request with Production Manager. Interacted with cross-functional teams like sales, production, and the executives. Analyzed incoming requisitions and shortages reports for quality, specification, pricing and delivery requirements. Translated business needs and priorities into actionable logistics strategies.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Warehouse Executive",
+      "url": "",
+      "startDate": "2011-02-01",
+      "endDate": "2015-01-01",
+      "summary": "Represented the Operations Group in receiving all Inventories from Vendor deliveries. Participated in joint receiving and inspection of all Shipyard Spare Parts deliveries and liaise closely with the Procurement Team on scheduled deliveries. Utilized Maximo system to electronically track inventory flow, bin storage, and reconcile inventory. Ensured Warehouse was kept in a safe and efficient manner with Inventory properly labeled and sorted for easy identification and picking. Supervised periodic stock-take and conducted investigation for any discrepancies. Carried out the daily issuance of Tools & Inventory to shipyard personnel base on Inventory requests and Work Orders. Monitored Stock Levels and reordered Inventory when low. Ensured Inventory is stored in accordance with best practices and chemical storage complies with GHS Classification.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Texas A&M University",
+      "url": "",
+      "area": "Petroleum Engineering",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "",
+      "score": "[Number]",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Software Skills",
+      "level": "",
+      "keywords": [
+        "Solid Works",
+        "CAD",
+        "Matlab",
+        "MS Office"
+      ]
+    },
+    {
+      "name": "Delivery",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "European Portuguese",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "English",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "ERP",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Forecasting",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Functional",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Procurement",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Strategy & Planning",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Supply Chain",
+      "level": "",
+      "keywords": []
+    }
+    
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": ""
+    },
+    {
+      "language": "Portuguese",
+      "fluency": ""
+    },
+    {
+      "language": "Spanish",
+      "fluency": ""
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

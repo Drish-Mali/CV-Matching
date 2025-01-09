@@ -1,0 +1,126 @@
+{
+  "basics": {
+    "name": "Anonymous",
+    "label": "Licensed United Healthcare Insurance Sales Agent",
+    "email": "",
+    "phone": "",
+    "summary": "Talent for identifying customers' needs and referring appropriate company products and services while demonstrating the ability to gain customers' trust providing exceptional follow up, leading to increased sales and repeated referral of business. Expertise in resolving escalated customer service issues quickly and effectively solving customers' challenges.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "US",
+      "region": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Licensed United Healthcare Insurance Sales Agent",
+      "startDate": "2014-09-01",
+      "endDate": "2015-10-01",
+      "summary": "Provided services to clients changing or updating healthcare insurance needs by upselling/cross selling a variety of health insurance products. Demonstrates prospecting skills, meets or exceeds sales goals.",
+      "highlights": [""]
+    },
+    {
+      "name": "Company Name",
+      "position": "Account Executive Sales Agent/FedEx Account",
+      "startDate": "2014-03-01",
+      "endDate": "2014-09-01",
+      "summary": "Responsibilities included maintaining and deepening existing customer relations. Made outbound telephone calls to engage customers with new products and services that would develop value propositions to meet their business needs.",
+      "highlights": [""]
+    }
+  ],
+  "education": [
+    {
+      "institution": "DeVry University Charlotte NC",
+      "area": "Business Administration",
+      "studyType": "",
+      "startDate": "2013-01-01",
+      "endDate": "2013-12-31",
+      "score": "",
+      "courses": [""]
+    },
+    {
+      "institution": "Central Piedmont Community College",
+      "area": "Computer Office Information Systems",
+      "studyType": "Certificate",
+      "startDate": "2001-01-01",
+      "endDate": "2001-12-31",
+      "score": "",
+      "courses": [""]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Time Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Effective Communication",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Trouble Shooting",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Problem Solving",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Cloud technology",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Office Suite",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Instant Messaging",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Web Chat",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Negotiating",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Outlook Email",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Lotus Notes",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Quicken",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "QuickBooks",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

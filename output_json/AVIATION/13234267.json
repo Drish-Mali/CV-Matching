@@ -1,0 +1,102 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Director of Aviation and Safety",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Experienced aviation professional with notable expertise in training, maintenance, safety management, and military intelligence. Skilled in leadership, risk management, and labor-management relations with a strong ability in project, budget management and personnel affairs.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Supervisory Aircraft Pilot",
+      "url": "",
+      "startDate": "2010-08",
+      "endDate": "Current",
+      "summary": "Supervise an Army Aviation Support Facility consisting of 63 employees that perform maintenance and flight training for the Montana Army National Guard. My mission is to direct the maintenance for 22 helicopters and train the 140 assigned aircrew members.",
+      "highlights": ["Develop training relationships with federal, tribal, state, and local agencies."]
+    },
+    {
+      "name": "Company Name",
+      "position": "Supervisory Aircraft Flight Instructor",
+      "url": "",
+      "startDate": "1993-05",
+      "endDate": "2010-08",
+      "summary": "Direct and coordinate all flight operations and training for the Army Aviation Support Facility and its supported military units consisting of 22 aircraft and approximately 140 air crew members.",
+      "highlights": ["Plan work assignments and professional development for subordinates","Fund manager for training accounts","Investigate aircraft mishaps in accordance with US Army regulations."]
+    },
+    {
+      "name": "Company Name",
+      "position": "US Army Officer",
+      "url": "",
+      "startDate": "1985-06",
+      "endDate": "1993-01",
+      "summary": "Performed a variety of duties to include rotary wing instructor pilot, assistant operations officer, section leader, platoon leader, executive officer, and detachment commander.",
+      "highlights": ["Served in a general aviation company and an aviation training company while stationed at FT Rucker, AL","Served as a unit Commander and a fixed wing pilot in command in a military intelligence - low intensity battalion forward deployed in Honduras"]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "US Army War College",
+      "url": "",
+      "area": "Strategic Studies",
+      "studyType": "Master's",
+      "startDate": "",
+      "endDate": "2013",
+      "score": "",
+      "courses": []
+    },
+      {
+      "institution": "Embry-Riddle Aeronautical University Daytona Beach",
+      "url": "",
+      "area": "Aeronautical Sciences with a dual emphasis on Management and Safety Systems",
+      "studyType": "Master's",
+      "startDate": "",
+      "endDate": "2011",
+      "score": "4 of a maximum 4",
+      "courses": []
+    },
+    {
+      "institution": "University of Montana",
+      "url": "",
+      "area": "Business Administration",
+      "studyType": "Bachelor's",
+      "startDate": "",
+      "endDate": "1985",
+      "score": "3.1 of a maximum 4",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "CRC",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Aviation",
+      "level": "Expert",
+      "keywords": ["Training", "Operations", "Maintenance", "Aircraft Maintenance", "Safety Management", "Workplace Safety", "Rotary Wing", "Accident Investigation", "Aircrew", "Avionics", "Engine Repair", "Equal Employment Opportunity", "Ground Support Equipment", "Logistics", "Petroleum", "Quality Assurance", "Sheet Metal", "Human Factors", "Personnel Management", "Staff Training", "Transportation Safety"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

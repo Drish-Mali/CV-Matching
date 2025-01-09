@@ -1,0 +1,93 @@
+{
+  "basics": {
+    "name": "Engineering Intern",
+    "label": "Engineering Intern",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Candidate with a fifteen months experience in production supervising and manufacturing seeking opportunity in field of Quality, Supply Chain and Manufacturing",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Engineering Intern",
+      "url": "",
+      "startDate": "May 2014",
+      "endDate": "Aug 2014",
+      "summary": "Research and Development of new product, Rubber Screen Panels used in mining industries Manufacturing and Production of new product using Injection Molding technique Scheduling and Planning operations Implementation of strategic planning and control Application of Lean manufacturing Efficient handling Injection Molding machine Followed ISO 9001",
+      "highlights": ["Implementing quality assurance tools like method of steepest ascent, response surface modelling, statistical process control, process capability analysis to achieve the continuous production of consistent output 9V batteries"]
+    },
+    {
+      "name": "Community Beer Works",
+      "position": "Lean Six Sigma Intern",
+      "url": "",
+      "startDate": "Sep 2013",
+      "endDate": "Dec 2013",
+      "summary": "Applied six sigma tools DMAIC to the transaction process in an organization Reviewed and applied 5S, cause and effect diagram, histogram, Pareto Chart, Value Stream Mapping etc.",
+      "highlights": ["Planned, studied and analyzed the Supply Chain of AMUL Diary"]
+    },
+    {
+      "name": "Orientation: National Organic Chemicals of India Limited (NOCIL) Rubber Chemical Division",
+      "position": "Production Supervisor",
+      "url": "",
+      "startDate": "Jul 2011",
+      "endDate": "Jul 2012",
+      "summary": "Supervised production unit known as CBS (n-cyclohexylamine 2- benzothiozole sulpanamide which produced chemical which is further used as accelerator in production of tires by clients such as MRF ( Madras Rubber Factory), Monsento (company in brazil) Handled distillation columns, pressure vessels and valves controlled by PLC and DCS Efficiently maintained distillation columns without any single event of mishandling Followed hazardous operability process (HAZOP) Implementation of failure mode effective analysis (FMEA).",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University at Buffalo, The State University of New York",
+      "url": "",
+      "area": "Industrial Engineering",
+      "studyType": "Master of Science",
+      "startDate": "",
+      "endDate": "Dec 2014",
+      "gpa": "3.35/4.0",
+      "courses": ["Six Sigma Quality", "Supply Chain Modelling and Optimization", "Production Planning and Control"]
+    },
+    {
+      "institution": "University of Mumbai",
+      "url": "",
+      "area": "Chemical Engineering",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "",
+      "endDate": "Aug 2011",
+      "gpa": "",
+      "courses": ["Instrumentation and Process Control", "Environmental Engineering", "Chemical Engineering Thermodynamics"]
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Engineering Skills",
+      "level": "",
+      "keywords": ["Auto-Cad", "C", "C++", "HAZOP", "ISO 9001", "Logic", "Microsoft office", "Minitab", "PLC", "Pro-E", "Quality Assurance", "Research", "Scheduling", "Six Sigma", "Statistical Process Control", "Supply Chain", "Visual Basics"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": [
+    {
+      "name": "9 Volt battery production",
+      "startDate": "Jan 2014",
+      "endDate": "April 2014",
+      "description": "Manufacturing a 9 Volt battery with minimum process variability and cost of production",
+      "highlights": ["Analyzed the voltage readings", "Used Capability analysis"],
+      "url": ""
+    }
+  ]
+}

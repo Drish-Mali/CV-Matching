@@ -1,0 +1,209 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Senior Executive Chef",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Utilize my extensive experience in the food service industry and to contribute my skills and knowledge in a management position with an industry leader.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "US",
+      "region": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Senior Executive Chef",
+      "url": "",
+      "startDate": "2012-01-01",
+      "endDate": "Present",
+      "summary": "Manage and provide leadership and culinary training to 23 direct reports. Worked under budgeted costs through effective menu planning. Received gold scores in sanitation, safety and compliance audits. Demonstrated hands-on leadership skills in training and staff development. Implemented branded foods marketing program for retail. Introduced the use of sustainable products, local produce and farmers markets. Created special per diem menus for conference center increasing catering sale.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Executive Corporate Chef",
+      "url": "",
+      "startDate": "2008-01-01",
+      "endDate": "2012-01-01",
+      "summary": "Collaborated with Corporate RD/RN in creating and implementing upscale guest dining room and room service menus. Developed workplace safety and sanitation training schedule for culinary associates and dining room servers. Led culinary team in the implementation and support of corporate strategies in the opening of new properties and special events.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Executive Chef / Event Consultant",
+      "url": "",
+      "startDate": "2004-01-01",
+      "endDate": "2008-01-01",
+      "summary": "Liaison to the Chicago Board of Realtors in consulting and planning of special events. Planned private parties and fundraisers for various government organizations and dignitaries. Created catering menus targeting specific lifestyle demographics. Hired, trained and counseled culinary and server staff of 25.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Executive Chef / GM",
+      "url": "",
+      "startDate": "1995-01-01",
+      "endDate": "2003-01-01",
+      "summary": "Managed caf� and conference center with staff of 12 culinary associates. Worked with editors and publishers of various magazines for the food service and hospitality industry. Conducted culinary seminars and product cuttings with vendors.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Executive Chef / Assistant Manager",
+      "url": "",
+      "startDate": "1993-01-01",
+      "endDate": "1995-01-01",
+      "summary": "Managed Chicago style food court, utilizing local vendors. Catered functions and special events for NBC and its affiliates.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Executive Sous Chef / Production Manager",
+      "url": "",
+      "startDate": "1988-01-01",
+      "endDate": "1993-01-01",
+      "summary": "Performed all essential duties as lead chef in the executive dining rooms and conference center. Led culinary team in the opening of new cafeteria food court with varied ethnic theme cuisine concept stations.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Washburne TradeSchool",
+      "url": "",
+      "area": "Culinary Arts",
+      "studyType": "Associate of Arts",
+      "startDate": "1985-01-01",
+      "endDate": "Unknown",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Culinary Institute of America Hyde Park",
+      "area": "",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Illinois Benedictine University",
+      "area": "",
+      "studyType": "Associate of Arts",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Culinary Institute of America Greystone",
+      "area": "",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "compliance audits",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "concept",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "consulting",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "content",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "special events",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "fame",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "government",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "leadership",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "leadership skills",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "marketing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "outside sales",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "retail",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "safety",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "seminars",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "servers",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "staff development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "workshops",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

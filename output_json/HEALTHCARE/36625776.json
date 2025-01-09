@@ -1,0 +1,61 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Healthcare Consultant",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Certified Spinning Instructor and personal trainer with the energy, skills and training necessary to keep clients motivated and moving toward their fitness goals.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Healthcare Consultant",
+      "url": "",
+      "startDate": "October 2014",
+      "endDate": "Current",
+      "summary": "Network development for a new Medicare Advantage I-SNP in the northeast. Identify and contract with providers to establish a network that meets CMS time/distance standards. Subject matter expert for a study on Medicare Advantage best practices for provider engagement.",
+      "highlights": [
+        "Success at building participants from struggling, low participant classes. Most recently built a class that averages 30 participants from a class that started out with around 6 within six months."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Kennesaw State University",
+      "url": "",
+      "area": "Business Administration/Management Health Services",
+      "studyType": "Master",
+      "startDate": "",
+      "endDate": "2000",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Auburn University",
+      "url": "",
+      "area": "Health Services Administration",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "1994",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Career Skills",
+      "level": "",
+      "keywords": ["acquisitions", "CMS", "content", "contract negotiations", "contracts", "Contract Management", "clients", "database", "directing", "documentation", "estimating", "financial", "government", "insurance", "leadership and training", "managing", "market", "negotiation", "Enterprise", "Network", "processes", "coding", "quality", "quality assurance", "reporting", "strategic", "strategic planning"]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Information Technology (Internship)",
+    "email": "",
+    "phone": "",
+    "summary": "MBA graduate specialized at a Business Management of the industries institution which crosses the fields such as healthcare, and IT to compare the optimal practices between the major players.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Information Technology (Internship)",
+      "startDate": "2014-07-01",
+      "endDate": "2014-09-01",
+      "summary": "Examined problems between users and systems.",
+      "highlights": ["Worked at different stations of hospital."]
+    },
+    {
+      "name": "Company Name",
+      "position": "Business Analyst",
+      "startDate": "2013-09-01",
+      "endDate": "2015-12-01",
+      "summary": "Generated 3K followers in Facebook Fan page within 3 months. Built and designed official website.",
+      "highlights": ["Worked with Tourism Bureau."]
+    },
+    {
+      "name": "Company Name",
+      "position": "Chief Executive Officer",
+      "startDate": "2012-05-01",
+      "endDate": "2015-01-01",
+      "summary": "Increased sales by 25% in two quarters.",
+      "highlights": ["Expand five new business sites."]
+    },
+    {
+      "name": "Company Name",
+      "position": "Campus Youth E-Service Volunteer",
+      "startDate": "2011-09-01",
+      "endDate": "2013-06-01",
+      "summary": "Planned summer and winter camps for kids who lack educational resources.",
+      "highlights": ["Team lead and Recorder"]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Metropolitan State University",
+      "area": "Business Administration and Management",
+      "studyType": "MBA",
+      "startDate": "2016-01-01",
+      "endDate": "2016-12-31",
+      "score": "3.7",
+      "courses": ["International Trade", "Organizational Behavior", "Finance and Accounting"]
+    },
+    {
+      "institution": "National Taipei University of Nursing and Health Science",
+      "area": "Information Management",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "2015-01-01",
+      "score": "",
+      "courses": ["Information Technology", "ERP (Enterprise Resource Planning)"]
+    },
+    {
+      "institution": "Global Language Institute",
+      "area": "English",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "2015-01-01",
+      "score": "3.4",
+      "courses": ["English Dialect and Language"]
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Professional Skills",
+      "level": "",
+      "keywords": [
+        "Microsoft Office", "Excel", "Power Point", "Word", "Outlook", "SQL",
+        "Adobe Suit", "Flash", "Photoshop", "Illustrator",
+        "3D Max",
+        "PHP", "Java", "C#", "Visual Basic", "HTML", "Cording", "Programming", "Customer relationship management (CRM)", "ERP System", "RFID", "E-Commerce", "Electronic Product Code (EPC)", "Financial Accounting", "Human Resources", "(HR)", "Business Marketing", "International Trade",
+        "(Import and Export)", "App Development", "SEM", "analysis", "QMS Statistics", "Healthcare"
+        ]
+    },
+    {
+      "name": "Languages",
+      "level": "",
+      "keywords": [
+        "Chinese", "English", "Japanese"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Chinese",
+      "fluency": ""
+    },
+    {
+      "language": "English",
+      "fluency": ""
+    },
+    {
+      "language": "Japanese",
+      "fluency": ""
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

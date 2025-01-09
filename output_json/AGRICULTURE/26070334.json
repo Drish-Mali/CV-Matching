@@ -1,0 +1,208 @@
+{
+  "basics": {
+    "name": "Name Not Provided",
+    "label": "Batch Record Coordinator / Document Control",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Throughout my work experience, I have focused on the quality aspects of business. I am an organized and responsible individual with good communication skills and experience in the regulatory industry.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City Not Provided",
+      "countryCode": "",
+      "region": "Region Not Provided"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Batch Record Coordinator / Document Control",
+      "url": "",
+      "startDate": "2015-02",
+      "endDate": "Current",
+      "summary": "I am responsible for document control involving all aspect of the production batch record and master manufacturing record. Produce a Batch Record for each order received. Creates the Master Manufacturing Record for any new products.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Quality Assurance Specialist",
+      "url": "",
+      "startDate": "2013-09",
+      "endDate": "2015-02",
+      "summary": "I am responsible for systems involving Quality Assurance at Albion facilities. I oversee and improve the facility's current quality manufacturing functions.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Specimen Processor",
+      "url": "",
+      "startDate": "2010-06",
+      "endDate": "2013-09",
+      "summary": "Facilitates laboratory organization and patient care by ordering, preparing and directing testing to appropriate lab / testing.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Claims Processor",
+      "url": "",
+      "startDate": "2001-05",
+      "endDate": "2002-07",
+      "summary": "Processed medical claims and assured proper payment in accordance with the benefit plan.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Rural Carrier - TRC",
+      "url": "",
+      "startDate": "2000-06",
+      "endDate": "2001-07",
+      "summary": "Proficient in all areas of mail delivery.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Owner",
+      "url": "",
+      "startDate": "1999-09",
+      "endDate": "2012-07",
+      "summary": "Extensive experience in Customer Service relating to online sales and marketing.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Chemist",
+      "url": "",
+      "startDate": "1997-06",
+      "endDate": "1999-09",
+      "summary": "Tested environmental samples for pesticides and herbicides.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Customer Service Representative & Claims Processor",
+      "url": "",
+      "startDate": "1996-04",
+      "endDate": "1997-03",
+      "summary": "Extensive training in processing, analyzing and adjudicating claims.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Project Coordinator",
+      "url": "",
+      "startDate": "1992-10",
+      "endDate": "1995-04",
+      "summary": "Maintained accurate records pertaining to productivity and budgeting.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Chemist II",
+      "url": "",
+      "startDate": "1990-05",
+      "endDate": "1992-05",
+      "summary": "Direct work breakdown and scheduling of lab preparation, execution and clean up.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Champlain College",
+      "url": "",
+      "area": "Accounting",
+      "studyType": "Currently Enrolled",
+      "startDate": "2018",
+      "endDate": "Current",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Virginia tech",
+      "url": "",
+      "area": "Chemistry",
+      "studyType": "Bachelor's",
+      "startDate": "",
+      "endDate": "1992-08",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Regulatory Compliance",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Document Control",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Quality Assurance",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Auditor",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "GMP / ISO 9001 / NSF",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Calibration",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Medical Coding",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Customer Service",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Databases & Microsoft Office & Sharepoint",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Process improvement",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Product Testing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Project planning",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Research",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

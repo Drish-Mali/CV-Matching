@@ -1,0 +1,174 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Biomedical Engineering Technician II",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Versatile BMET II highly effective at working independently and as part of a team. Expertise in installation and inspection of medical devices.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Biomedical Engineering Technician II",
+      "url": "",
+      "startDate": "2008-06-01",
+      "endDate": "Current",
+      "summary": "Properly respond to service calls to evaluate, diagnose, perform repair and planned maintenance on hospital's biomedical equipment. Knowledge of application and repair of computers and servers and how they interface medical equipment. Ensure all work orders, vendor service reports, PM activities, purchase orders and other duties are documented in an accurate and timely manner.",
+      "highlights": [
+        "Promoted to one of 3 Lead Techs overseeing Preventive Maintenance (PM) inspections",
+        "Training other techs on PMs",
+        "Evaluate biomedical equipment issues, implement appropriate repairs",
+        "Assist other technicians on basic and complex repairs",
+        "Integration of software for network systems such as Philips, Hillrom, and Hugs Infant Security System"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Nutrition Clerk",
+      "url": "",
+      "startDate": "2006-01-01",
+      "endDate": "2008-07-01",
+      "summary": "Keep a count of patients' carbs intake throughout the day. Assist nurses in monitoring patients' daily meals to ensure they do not eat any foods restricted on their diet plan; prep and serve supplement drinks to the patients while providing excellent customer service.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Manager/Assistant Service Coordinator",
+      "url": "",
+      "startDate": "2006-11-01",
+      "endDate": "2008-06-01",
+      "summary": "Input, update, upload, and maintain master schedule files for DeVry University Kansas City, MO main campus and other DeVry branches. Utilize Oracle database to schedule courses for the upcoming term and review student academic records to compare grade progression.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Receptionist",
+      "url": "",
+      "startDate": "2006-06-01",
+      "endDate": "2006-11-01",
+      "summary": "Answered phone calls and greeted customers, assisted staff with special projects, alphabetized and filed paperwork. Monitored equivalency tests for new students to access knowledge before they enroll and monitored proficiency tests for current students who want to test out of classes.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Microsoft Excel, Project and Visio",
+      "level": "Advanced",
+      "keywords": []
+    },
+    {
+      "name": "Engineering standards",
+      "level": "Advanced",
+      "keywords": []
+    },
+    {
+      "name": "OSHA regulations",
+      "level": "Advanced",
+      "keywords": []
+    },
+    {
+      "name": "MS Office",
+      "level": "Proficient",
+      "keywords": []
+    },
+    {
+      "name": "Competency in procedure development",
+      "level": "Advanced",
+      "keywords": []
+    },
+    {
+      "name": "Advanced anatomy knowledge",
+      "level": "Advanced",
+      "keywords": []
+    },
+    {
+      "name": "Advanced knowledge of embedded systems",
+      "level": "Advanced",
+      "keywords": []
+    },
+    {
+      "name": "Vast technical knowledge",
+      "level": "Advanced",
+      "keywords": []
+    },
+    {
+      "name": "Windows XP/Vista",
+      "level": "Advanced",
+      "keywords": []
+    },
+    {
+      "name": "DHCP/DNS Ethernet and Firewall",
+      "level": "Proficient",
+      "keywords": []
+    },
+    {
+      "name": "Excellent communication techniques",
+      "level": "Advanced",
+      "keywords": []
+    },
+    {
+      "name": "LAN",
+      "level": "Proficient",
+      "keywords": []
+    },
+    {
+      "name": "AVG, Printers, PC Security systems",
+      "level": "Proficient",
+      "keywords": []
+    },
+    {
+      "name": "Knowledge of manufacturing test methodologies",
+      "level": "Advanced",
+      "keywords": []
+    },
+    {
+      "name": "Patient and diligent",
+      "level": "Advanced",
+      "keywords": []
+    },
+    {
+      "name": "Database servers",
+      "level": "Proficient",
+      "keywords": []
+    },
+    {
+      "name": "Local remoter systems support",
+      "level": "Proficient",
+      "keywords": []
+    },
+    {
+      "name": "Proficiency in TCP/IP protocols",
+      "level": "Proficient",
+      "keywords": []
+    },
+    {
+      "name": "Information security",
+      "level": "Proficient",
+      "keywords": []
+    },
+    {
+      "name": "Document management",
+      "level": "Proficient",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

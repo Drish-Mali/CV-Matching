@@ -1,0 +1,126 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Business Development Executive",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Process oriented Data Analyst and Delivery Lead with 5+ years proven track record of analyzing Business Intelligence to increase top line and bottom line of the business vertical. Reduced costs of manufacturing signaling systems by 10% and increased sales by 25% by analyzing operating data. Closely worked with business clients and SMEs to collect, clarify and translate business requirements...",
+    "location": {},
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Business Development Executive",
+      "url": "",
+      "startDate": "2011-11-01",
+      "endDate": "2014-06-01",
+      "summary": "New project, was involved in gathering business requirements from client, creating process documents for the product...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Delivery Lead",
+      "url": "",
+      "startDate": "2009-01-01",
+      "endDate": "2011-02-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Management Trainee",
+      "url": "",
+      "startDate": "2008-09-01",
+      "endDate": "2008-12-01",
+      "summary": "",
+      "highlights": []   
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Georgia State University",
+      "url": "",
+      "area": "Information Systems",
+      "studyType": "Master of Science",
+      "startDate": "",
+      "endDate": "2018-07-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Visweswaraiah Technological University",
+      "url": "",
+      "area": "Information Science",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "",
+      "endDate": "2008-06-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Sun Certified Java Associate",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Python",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Java",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "R",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Excel",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Tableau",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Statistical Analysis",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Multiple Linear Regression",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [
+    {
+      "name": "Community Service",
+      "keywords": ["INTERACT club", "ILLUMINATI committee", "Go Green initiatives"]
+    }
+  ],
+  "references": [],
+  "projects": []
+}

@@ -1,0 +1,72 @@
+{
+  "basics": {
+    "name": "Director of Business Development",
+    "label": "Executive Profile",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "To apply over 22 years of experience as an exceptional Director of Business Development, to manage personnel and resources by utilizing financial and strategic analysis. Ability to forecast future issues through ongoing strategic analysis. Experience in fracking.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Director of Business Development",
+      "url": "",
+      "startDate": "2010-07-01",
+      "endDate": "2015-02-01",
+      "summary": "Plan, direct, and coordinate operational activities at the highest level of management with the help of subordinate executives and staff managers. Excellent communications skills written and orally especially under pressure. Ability to forecast future issues through ongoing strategic analysis. Prospect for new sales and manage current and pending sales in the amount of over $1M...",
+      "highlights": [
+        "Maintained sales of over $5M for the last three years."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Senior Airfield Fire & Emergency Services Officer",
+      "url": "",
+      "startDate": "2009-06-01",
+      "endDate": "2010-07-01",
+      "summary": "Performed hiring, training, scheduling of work, grievances, performance counseling, and recommendations for promotions, demotions and termination of employment of over 40 personnel. As a senior executive set polices, assigns priority for future program objectives...",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Thomas Edison State College",
+      "area": "Fire Science",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "",
+      "score": "3.37",
+      "courses": [
+        "Customer Relations Course", "OSHA Safety Course", "HAZMAT Materials Operations", "Airfield pavement and assessments certifications Course", 
+        "Fire Officer I, II, III", "Fire Instructor I, II, III", "Fire Inspector I, II", "Fire Investigator I"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Business Development",
+      "level": "Expert",
+      "keywords": [
+        "Types 80 WPM", "Microsoft Word", "Excel", "PowerPoint", "Sales Force", "Outlook"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "volunteer": [],
+  "awards": [],
+  "certificates": [],
+  "publications": []
+}

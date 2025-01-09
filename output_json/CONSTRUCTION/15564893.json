@@ -1,0 +1,93 @@
+{
+    "basics": {
+        "name": "",
+        "label": "Construction Helper",
+        "image": "",
+        "email": "",
+        "phone": "",
+        "summary": "Hardworking and Experienced Construction Worker who is dependable, reliable and knowledgeable about the tools, materials and methods used in construction. Motivated to get along well with others and exceed expectations. With three years of experience in the carpentry trade and construction.",
+        "location": {
+            "city": "City",
+            "countryCode": "State"
+        },
+        "profiles": []
+    },
+    "work": [
+        {
+            "name": "Company Name",
+            "position": "Construction helper",
+            "startDate": "2008-07-01",
+            "endDate": "2010-01-01",
+            "summary": "Extensively trained in carpentry, painting, plastering, machine servicing and installation. Cleaned all construction areas to avoid hazards. Removed old roofing materials in an efficient manner. Installed and repaired roofs, flashings and surfaces. Completed indoor and outdoor residential and commercial construction projects."
+        },
+        {
+            "name": "Company Name",
+            "position": "Carpenter Helper",
+            "startDate": "2007-05-01",
+            "endDate": "2007-09-01",
+            "summary": "Installed cabinets, base cabinets and crown molding. Built and stained oak casing and hardwood floors.Constructed custom built-in bookshelves for residential home office areas.Set windows and layouts for stairs and common rafters. Ordered materials and made material stock recommendations."
+        }
+    ],
+    "education": [
+        {
+            "institution": "Leeds University",
+            "area": "General English",
+            "studyType": "",
+            "startDate": "2010-09-01",
+            "endDate": ""
+        },
+        {
+            "institution": "Al-Azhar University",
+            "area": "Computer",
+            "studyType": "",
+            "startDate": "2009-12-01",
+            "endDate": "2010-01-01"
+        },
+        {
+            "institution": "Azhar University",
+            "area": "Religions, Al Dawah and Islamic Culture",
+            "studyType": "B.A",
+            "startDate": "",
+            "endDate": "2011-05-01"
+        },
+        {
+            "institution": "the American University",
+            "area": "English for Islamic purposes",
+            "studyType": "",
+            "startDate": "2013-02-01",
+            "endDate": "2013-12-01"
+        }
+    ],
+    "skills": [
+        {
+            "keywords": [
+                "Academic",
+                "Arabic",
+                "Carpentry",
+                "English",
+                "Presentation Skills",
+                "Spanish"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Good"
+        },
+        {
+            "language": "Spanish",
+            "fluency": "Little"
+        }
+    ],
+    "interests": [
+        {
+            "keywords": [
+                "Doing my masters about Muslims in Midwestern America",
+                "Presenting in conferences",
+                "Giving Friday's Khutbah (in both Arabic and English) in Bilal Islamic center",
+                "Holding Arabic and Quranic classes"
+            ]
+        }
+    ]
+}

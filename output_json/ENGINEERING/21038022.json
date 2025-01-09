@@ -1,0 +1,105 @@
+{
+  "basics": {
+    "name": "Not provided",
+    "label": "CORPORATE PROCESS/SYSTEMS ENGINEERING MANAGER",
+    "image": "",
+    "email": "Not provided",
+    "phone": "Not provided",
+    "url": "Not provided",
+    "summary": "High-energy Engineering Manager driven to cut company costs and boost company revenue through innovative management techniques...",
+    "location": {
+      "address": "Not provided",
+      "postalCode": "Not provided",
+      "city": "Not provided",
+      "countryCode": "Not provided",
+      "region": "Not provided"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Corporate Process/Systems Engineering Manager",
+      "url": "Not provided",
+      "startDate": "July 2013",
+      "endDate": "January 2016",
+      "summary": "Build engineering processes and be the super user for key software utilized by Engineering Services...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "SDI Site Operations Manager",
+      "url": "Not provided",
+      "startDate": "September 2012",
+      "endDate": "July 2013",
+      "summary": "To effectively and efficiently manage client locations for SDI by meeting defined performance goals...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Operations Group Manager",
+      "url": "Not provided",
+      "startDate": "November 1981",
+      "endDate": "October 2011",
+      "summary": "Requirements and Competencies: Solid interpersonal skills and team orientation...",
+      "highlights": []
+    }    
+  ],
+  "volunteer": [
+    {
+      "organization": "Red Cross",
+      "position": "Volunteer",
+      "url": "Not provided",
+      "startDate": "Not provided",
+      "endDate": "Not provided",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "McFord University",
+      "url": "Not provided",
+      "area": "Mechanical Engineering",
+      "studyType": "Bachelor",
+      "startDate": "Not provided",
+      "endDate": "2005",
+      "score": "3.6",
+      "courses": []
+    },
+    {
+      "institution": "McFord University",
+      "url": "Not provided",
+      "area": "Electrical Engineering",
+      "studyType": "Master",
+      "startDate": "Not provided",
+      "endDate": "2010",
+      "score": "3.7",
+      "courses": []
+    },
+    {
+      "institution": "University Of Phoenix College",
+      "url": "Not provided",
+      "area": "Software Engineering",
+      "studyType": "Bachelor",
+      "startDate": "Not provided",
+      "endDate": "2012",
+      "score": "3.7",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Engineering Management",
+      "level": "Not provided",
+      "keywords": ["VB.NET", "ASP.NET", "Apple", "Business Objects", "C++", "Css", "HTML", "Java", "Java Script", "Leadership skills", "Lean Manufacturing", "Microsoft Access", "Microsoft Office", "Microsoft Project", "Microsoft Visio", "SAP", "SQL Server", "Visual Studio"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

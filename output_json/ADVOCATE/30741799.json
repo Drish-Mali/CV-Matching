@@ -1,0 +1,85 @@
+{
+  "basics": {
+    "name": "Not Provided",
+    "label": "Licensed Social Worker",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Highly-motivated Licensed Social Worker with 7 years of experience working with children and adolescents in various environments. seeks to advocate, connect and collaborate with individuals and their families to help them overcome barriers that affect their daily life.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Not Provided",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "company": "Not Provided",
+      "position": "Court appointed special advocate for abused and neglected children",
+      "url": "",
+      "startDate": "2013-09-01",
+      "endDate": "Current",
+      "summary": "Not Provided",
+      "highlights": ["Collaborated with Guardian ad Litem's, Child protective service workers, Mental health professionals, teachers and parents", "Maintained monthly contact with my client and their families.", "Evaluated and addressed individual client needs and concerns.", "Wrote court reports and case plans", "Maintained thorough case history records and wrote detailed reports.", "Managed caseloads and acted as an advocate for client rights.."]
+    },
+    {
+      "company": "Not Provided",
+      "position": "Emergency Medical Technician and Social Worker volunteer",
+      "url": "",
+      "startDate": "2013-02-01",
+      "endDate": "Current",
+      "summary": "Not Provided",
+      "highlights": ["Assist with community public education", "Support prevention efforts", "Assist with local and major disasters","Attend trainings and education seminars"]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "West Chester University",
+      "url": "",
+      "area": "Social Work",
+      "studyType": "Master",
+      "startDate": "2013-01-01",
+      "endDate": "2015-01-01",
+      "score": "",
+      "courses": ["Education in program evaluation and policy analysis", "Recognizing and reporting child abuse", "Cognitive Behavioral Therapy coursework", "Structural Family Therapy seminar", "Cognitive processing Therapy", "Trauma informed education", "Acceptance and Commitment Therapy"]
+    },
+    {
+      "institution": "West Chester University",
+      "url": "",
+      "area": "Psychology",
+      "studyType": "Bachelor",
+      "startDate": "2011-01-01",
+      "endDate": "2013-01-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Delaware County Community College",
+      "url": "",
+      "area": "Psychology",
+      "studyType": "Associates",
+      "startDate": "",
+      "endDate": "2011-01-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Social Work",
+      "level": "Experienced",
+      "keywords": ["Compassionate", "Active listener", "Independent", "Strong communicator", "Knowledge of child development","Self-Awareness","Empathy Boundary Setting","Time-management"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

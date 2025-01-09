@@ -1,0 +1,117 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Summer Camp Counselor",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "I have a Veterinarian Assistant certificate from Middlesex County college, I also have a Pet first aid certificate, I used to volunteer at my local animal shelter. Hardworking, organized, and friendly with a lot of experience in dealing with people from my retail jobs.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "USA",
+      "region": ""
+    }
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Summer camp counselor",
+      "url": "",
+      "startDate": "2012-06-01",
+      "endDate": "2013-08-01",
+      "summary": "Summer camp counselor for kids ages 3 and 4. We do different activities with the kids like arts and crafts and also activities outside.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Sales associate/cashier",
+      "url": "",
+      "startDate": "2012-11-01",
+      "endDate": "2015-10-01",
+      "summary": "Sales associate, helping customers and taking care of shipment.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Usher",
+      "url": "",
+      "startDate": "2014-06-01",
+      "endDate": "2014-09-01",
+      "summary": "Directed people to their seats and scanned tickets.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Sales associate/cashier",
+      "url": "",
+      "startDate": "2013-06-01",
+      "endDate": "Current",
+      "summary": "Cashier and help customers with whatever they need.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Middlesex County College",
+      "url": "",
+      "area": "Veterinary Assistant",
+      "studyType": "Certificate",
+      "startDate": "",
+      "endDate": "2015-05-01",
+      "score": "",
+      "courses": [
+        "Veterinary Medicine",
+        "Nursing",
+        "Pharmacology",
+        "Veterinary Technology"
+      ]
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Veterinarian assistant certificate",
+      "date": "2015-05-01",
+      "issuer": "Middlesex County College",
+      "url": ""
+    },
+    {
+      "name": "Pet first aid certificate",
+      "date": "",
+      "issuer": "Middlesex County College",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Friendliness",
+      "level": "",
+      "keywords": [
+        "Patient",
+        "Animals",
+        "Friendly towards people",
+        "Organized",
+        "Hardworking"
+      ]
+    },
+    {
+      "name": "Pet first aid certified",
+      "level": "Certified",
+      "keywords": []
+    },
+    {
+      "name": "Veterinary Nursing and Pharmacology",
+      "level": "Knowledge",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

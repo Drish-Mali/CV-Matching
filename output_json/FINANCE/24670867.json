@@ -1,0 +1,99 @@
+{
+  "basics": {
+    "name": "",
+    "label": "GLOBAL FINANCE ACCOUNTANT",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Honest, reliable, dependable, hardworking, quick learner, enthusiastic, motivated individual with strong work ethics, who is results driven, detail oriented, and well organized with a fervent desire to learn and be part of a professional team which offers continued opportunities for professional and personal growth.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Global Finance Accountant",
+      "url": "",
+      "startDate": "2016-10",
+      "endDate": "Current",
+      "summary": "Process and Analyze invoices and expense reports to ensure appropriate approvals in accordance with CGE Expenditure Authorization Guidelines...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Financial Analyst / Accounts Payable",
+      "url": "",
+      "startDate": "2013-07",
+      "endDate": "2016-01",
+      "summary": "Process external invoices in R11/ R12 (Oracle) for multiple entities, domestic and foreign, within established service level commitments...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Financial Operations Analyst",
+      "url": "",
+      "startDate": "2011-06",
+      "endDate": "2013-06",
+      "summary": "Team player responsible for processing over 385,000 invoices annually...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "AP Manager / Accountant",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Partner with Controller to monitor weekly cash flow and prioritize payables...",
+      "highlights": []
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "San Antonio Food Bank",
+      "position": "Accounting Volunteer",
+      "url": "",
+      "startDate": "2017-06",
+      "endDate": "Current",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "",
+      "url": "",
+      "area": "Accounting",
+      "studyType": "M.B.A",
+      "startDate": "",
+      "endDate": "2016-12",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Fundamental Skills",
+      "level": "",
+      "keywords": ["account reconciliations", "Accounting", "accounts payable", "accounts receivable", "accrual", "acquisitions", "AS400", "auditing", "Balance Sheet", "budgets", "business operations", "cash flow", "closing", "Oral communication", "Controller", "costing", "Client", "customer service", "documentation", "equity", "expense reports", "Finance", "analyze financial information", "financial audit", "Financial Management", "FP&A", "financial reports", "financial reporting", "Financial Statements"]
+    },
+    {
+      "name": "Software Skills",
+      "level": "",
+      "keywords": ["Windows 98, 2000, 2007, 2010, 2013", "Power Point", "MS Outlook", "MS Word", "Bolt", "MAC", "Millennium", "Internet", "SAP 7.5", "Sabre", "Great Plains", "Lawson HRIS", "CSG", "ProAlpha", "Quick Books", "Centricity", "AS400", "Oracle R11", "Oracle R12", "MAS 90", "Kofax", "Excel"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

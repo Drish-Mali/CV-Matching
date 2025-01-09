@@ -1,0 +1,163 @@
+{
+  "basics": {
+    "name": "",
+    "label": "IT Manager",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "IT Product Manager bringing 13 years in IT project management. Skilled in installation, configuration, migration and implementation of server platforms.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "IT Manager",
+      "url": "",
+      "startDate": "2003-10",
+      "endDate": "Current",
+      "summary": "Administered Windows 2003 Server, Windows 2003 Exchange server, R6000 IBM UNIX Server. Administered Nortel Meridian PBX Phone System add/removing accounts. Provided hardware and software support for internal & remote users. Configured and monitor network security (watch guard firewall) Troubleshooting network and printer connectivity issues, install network cabling, and phone jacks. Purchase company equipment (computers, printer, and telephones). Design training manuals for new user orientation.",
+      "highlights": ["Reduced the incidence of IT issues by 95% globally by leading a testing initiative improvement program."]
+    },
+    {
+      "name": "Company Name",
+      "position": "System Support Technician",
+      "url": "",
+      "startDate": "2000-04",
+      "endDate": "2002-07",
+      "summary": "Troubleshoot connectivity and circuit errors on AT&T Frame Relay / ATM network. Processed customer services order, interacting with field technician, and managing corporate accounts. Build private network connections from AT&T domestic office to remote locations internationally. Providing product support and training for remote field technicians. Test and configured bilateral switches & routers over ATM/Frame Relay Platforms."
+    },
+    {
+      "name": "Company Name",
+      "position": "Network Support Specialist",
+      "url": "",
+      "startDate": "2000-04",
+      "endDate": "2002-02",
+      "summary": "Open and track problem tickets to resolution Provided Second level propriety application/system support to internal and external customers."
+    },
+    {
+      "name": "Company Name",
+      "position": "Network Support Technician",
+      "url": "",
+      "startDate": "1999-06",
+      "endDate": "1999-10",
+      "summary": "Provided system support for Windows NT workstation which included system upgrades, configuration changes, and remote desktop support. Provided user training on software applications Microsoft Office suites 95-2000, and Lotus Suites97. Managed and tested Ghost images to be used as standard loads for all newly deployed platforms."
+    },
+    {
+      "name": "Company Name",
+      "position": "System Support Technician",
+      "url": "",
+      "startDate": "1999-05",
+      "endDate": "1999-06",
+      "summary": "40 Hrs/Week Install, configure, and support for Win 95/98 clients on Novell 5.0 & NT 2000 platforms using ghost software to perform system rebuild on all systems throughout the network Upgraded and installed desktop, laptops, and server with ram, hard drives, network interface cards, video cards and CD ROMs Configure remote access to company LAN by external users, which required the installation and configuration of modems, remote access software, and client Intranet service Novell GroupWise. Provide analysis of network structure and offer suggestion to increase system performance for maximum network efficiency."
+    },
+    {
+      "name": "Company Name",
+      "position": "System Administrator Consultant",
+      "url": "",
+      "startDate": "1996-08",
+      "endDate": "1999-04",
+      "summary": "Provide training and support for various software applications to increase user productivity and network efficiency. Administer domain accounts and resolved network security issues."
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Devry University",
+      "url": "",
+      "area": "",
+      "studyType": "Bachelors of Science",
+      "startDate": "2002-02",
+      "endDate": "2002-02",
+      "score": "3.2",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Overall Skills",
+      "level": "",
+      "keywords": [
+        "10baseT",
+        "ATM",
+        "ATM network",
+        "CD ROMs",
+        "hardware",
+        "client",
+        "clients",
+        "customer services",
+        "documentation",
+        "email",
+        "Ethernet",
+        "network cabling",
+        "firewall",
+        "Frame Relay",
+        "Ghost",
+        "Novell GroupWise",
+        "hard drives",
+        "phone support",
+        "IBM",
+        "LAN",
+        "laptops",
+        "Lotus Suites",
+        "managing",
+        "Meridian",
+        "Microsoft products",
+        "access",
+        "Exchange server",
+        "MS Exchange",
+        "office",
+        "Microsoft Office suites",
+        "97",
+        "Windows",
+        "2000",
+        "Win 95",
+        "98",
+        "Windows NT workstation",
+        "NT",
+        "modems",
+        "network interface cards",
+        "network security",
+        "network servers",
+        "network",
+        "Nortel",
+        "Novell 5.0",
+        "office suites",
+        "PBX",
+        "Phone System",
+        "printer",
+        "ram",
+        "routers",
+        "servers",
+        "switches",
+        "software support",
+        "desktop support",
+        "user training",
+        "technician",
+        "telephones",
+        "phone",
+        "token ring",
+        "training manuals",
+        "Troubleshoot",
+        "Troubleshooting",
+        "UNIX",
+        "upgrades",
+        "video cards"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

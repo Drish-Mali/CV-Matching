@@ -1,0 +1,94 @@
+{
+  "basics": {
+    "name": "Unspecified",
+    "label": "Project Accountant",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Dedicated and focused professional who excels at prioritizing, completing multiple tasks simultaneously and following through to achieve project goals. Seeking a role of increased responsibility and authority.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Unspecified Company",
+      "position": "Project Accountant",
+      "url": "",
+      "startDate": "2003-02-01",
+      "endDate": "Current",
+      "summary": "On-site Project Accountant for the Gulfport High School renovation. Proficient with AS400, SAP and JD Edwards accounting systems and all Microsoft applications as well as Construction Imaging software for invoice coding and Bluebeam.",
+      "highlights": [
+        "Managed the preparation, distribution and tracking of subcontracts, purchase orders, service agreements, change orders, insurance and bonds for multiple projects.",
+        "Assisted multiple Project Managers, Project Engineers and Superintendents with correspondence, files and electronic filing systems, cost coding, RFI's, submittals, submittal log set up, contracts and pay applications and the collection, electronic filing and storage of close out information."        
+      ]
+    },
+    {
+      "name": "Unspecified Company",
+      "position": "Assistant to Vice President",
+      "url": "",
+      "startDate": "1996-04-01",
+      "endDate": "1999-02-01",
+      "summary": "Developed and implemented a procedure manual for subcontractors that included RFI's, Submittals, and Change Order Proposals and also developed a companion manual for Project Management.",
+      "highlights": [
+        "Successfully coordinated and produced a project overview presentation for the Mirage monthly executive meeting.",
+        "Assisted in the development and maintenance of a database to track contracts and change orders in excess of $700 million."
+      ]
+    },
+    {
+      "name": "Unspecified Company",
+      "position": "Owner",
+      "url": "",
+      "startDate": "1994-05-01",
+      "endDate": "1996-01-01",
+      "summary": "Acquired and maintained all necessary licenses, permits and insurances to operate and perform construction work. Managed all insurance, premiums, claims and annual audits.",
+      "highlights": [
+        "Scheduled equipment, ordered materials, verified, coded and paid vendor invoices and prepared AIA requisitions for owner billings.",
+        "Successfully completed MS Law & Business Management Exam for MS Contractor's Certificate of Responsibility for TKG Contractors."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "USM",
+      "url": "",
+      "area": "Graphic Design, Real Estate",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "NVCC",
+      "url": "",
+      "area": "Architectural Drafting",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Project Coordination",
+      "level": "",
+      "keywords": ["Forward-thinking mindset", "Self-directed", "Microsoft Office proficiency", "Strong interpersonal skills", "Business writing", "Organized and detail-oriented", "Project coordination", "Results-oriented"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

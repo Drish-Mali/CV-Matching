@@ -1,0 +1,85 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Training Assistant",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Project Management and special events Training, curriculum development, needs assessments Outside sales, recruitment and marketing Non-profit management and office administration",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Training Assistant",
+      "url": "",
+      "startDate": "2008-01-01",
+      "endDate": "Current",
+      "summary": "Develop and implement projects which create a positive presentation of ProEquities. Analyze and develop solutions for internal processes Coordinate and implement logistics for training events Coordinate the BDU Scholarship program Provide duties such as the maintenance of databases, preparation of PowerPoint presentations, spreadsheets, editing, mail merge and special project reports Field all incoming phone calls for ProEquities; greet guests.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Market Game Coordinator/Office Manager",
+      "url": "",
+      "startDate": "2005-01-01",
+      "endDate": "2007-01-01",
+      "summary": "Organized and maintained Alabama Stock Market Game activities Coordinated teacher recruitment and workshops - Provide technical support and communication to teachers Coordinated stockbroker mentor program...",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "AUBURN UNIVERSITY",
+      "url": "",
+      "area": "Public Relations/Speech Communication Journalism",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "UNIVERSITY OF ALABAMA AT BIRMINGHAM",
+      "url": "",
+      "area": "Project Management",
+      "studyType": "Certificate Program",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Skill Set",
+      "level": "",
+      "keywords": [
+        "accounts receivable", "advertising", "banking", "billing", "bookkeeping", "budget", "hardware", "conferences", "COUNCIL", "credit", "client", "clients", "databases", "delivery", "editing", "financial", "financial reporting", "general ledger", "graphics", "instructor", "inventory", "Leadership", "logistics", "Director", "marketing strategies", "marketing plans", "marketing", "Market", "materials", "mentor", "merchandising", "mail", "office", "PowerPoint presentations", "Page", "presentations", "PR", "processes"
+      ]
+    }
+  ],
+  "interests": [
+    {
+      "name": "Interests",
+      "keywords": [
+        "ZENGER MILLER TRAINING", "Certified Facilitator", "BIRMINGHAM FESTIVAL OF ARTS", "Chair of Volunteer Coordination", "Co-Chair of Educational Event"
+      ]
+    }
+  ],
+  "references": [],
+  "projects": [],
+  "volunteer": [],
+  "awards": [],
+  "publications": [],
+  "languages": [],
+  "certificates": []
+}

@@ -1,0 +1,134 @@
+{
+  "basics": {
+    "name": "",
+    "label": "ENGINEERING MANAGER",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "To design, develop and manage products in the field of consumer electronics devices, networking protocols, internet applications and connected devices. Vision to create personalized experiences based on machine learning.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Engineering Manager",
+      "url": "",
+      "startDate": "2010-11",
+      "endDate": "2016-05",
+      "summary": "Managing multiple work streams and teams related to platform software development for set-top boxes. Interacting with customers, vendors and multiple cross functional groups. Managing product development and supporting deployment of products.",
+      "highlights": 
+      [
+      "\nEvangelized and led development of new middleware solution for OTT and other multimedia playback on set-tops. The middleware is being designed for a very responsive user experience, minimum copy transfer of buffers along playback/record pipelines, high performance playback of multiple contents in several video windows and content security.",
+      "Led a group towards porting of Comcast RDK platform on ST Micro SoCs for set-tops. Led a group towards porting/development of software for RDK platform for RNG150 Comcast platforms."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Engineering Manager, Architect",
+      "url": "",
+      "startDate": "2004-01",
+      "endDate": "2010-11",
+      "summary": "Worked on development of technologies in the field of consumer electronics. Led a team of engineers towards development of BD-J stack for Blu-ray Players. Played critical role in development and architecture of OCAP middleware.",
+      "highlights":
+      [
+      "Played critical role in development and architecture of OCAP middleware.",
+      "Developed Advanced Media Player; it had a Blu-ray player at its core and other network enhanced functionality for video playback."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Senior Software Engineer",
+      "url": "",
+      "startDate": "2000-04",
+      "endDate": "2004-01",
+      "summary": "Worked towards development of various technologies related to interactive TV set-top boxes for different markets.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Indian Institute of Technology",
+      "url": "",
+      "area": "Control Systems",
+      "studyType": "M.Tech",
+      "startDate": "",
+      "endDate": "1988",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Devi Ahilya University",
+      "url": "",
+      "area": "Electrical Engineering",
+      "studyType": "B.E.",
+      "startDate": "",
+      "endDate": "1987",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Coursera - Stanford USA",
+      "url": "",
+      "area": "Machine learning",
+      "studyType": "Course",
+      "startDate": "",
+      "endDate": "2016",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Programming",
+      "level": "",
+      "keywords": ["C", "C++", "JAVA", "JVM", "Embedded Linux", "LXC", "Device Drivers"]
+    },
+    {
+      "name": "Multimedia",
+      "level": "",
+      "keywords": ["DVB", "MPEG", "H.264", "HLS", "MP4"]
+    },
+    {
+      "name": "Web Technologies",
+      "level": "",
+      "keywords": ["JSON", "REST", "SOAP", "XML","SNMP","TR069"]
+    }, 
+    {
+      "name": "Hardware",
+      "level": "",
+      "keywords": ["Microcontrollers", "hardware"]
+    },
+    {
+      "name": "Mathematics",
+      "level": "",
+      "keywords": ["Matlab", "Octave", "Mathematical modeling."]
+    },
+    {
+      "name": "Project Management",
+      "level": "",
+      "keywords": [
+        "Agile Methodologies", 
+        "Scrum", 
+        "SDLC", 
+        "project planning and management", 
+        "leadership"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

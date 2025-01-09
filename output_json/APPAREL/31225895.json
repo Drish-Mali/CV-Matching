@@ -1,0 +1,118 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Passenger Service Agent",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Customer support professional offering versatile communication skills. Proficiency in sales, problem resolution, ticketing experience and strong client management experience. Positive individual, who readily adapts to change, works superbly independently and with others, is experienced overseeing a team and exceeds expectations. Able to juggle multiple priorities and perform in fast settings without compromising quality of service.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Passenger Service Agent",
+      "url": "",
+      "startDate": "04/2010",
+      "endDate": "Current",
+      "summary": "I am a lead agent on departure and arrivals of our flights, I am a highly skilled lead agent in flight monitoring as well as an experienced ticket sales agent.",
+      "highlights": ["Flight monitoring", "Ticket Sales"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Assistant Buyer",
+      "url": "",
+      "startDate": "06/2007",
+      "endDate": "12/2009",
+      "summary": "Handled multifaceted clerical tasks (ex. data entry, filing, records management and billing) as the Assistant to the Apparel Buyer of the chain.",
+      "highlights": ["Assistant Buyer"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Sales Associate Supervisor",
+      "url": "",
+      "startDate": "07/2005",
+      "endDate": "06/2007",
+      "summary": "Trained and directed new personnel to operate the cash reigisters, scanners, and computers, store re-stocking, floor displays and daily procedures in the stores' fast paced, busy environment.",
+      "highlights": ["Store Operations"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Queensborough Community College",
+      "url": "",
+      "area": "Nursing",
+      "studyType": "Associate of Science",
+      "startDate": "2013",
+      "endDate": "2013",
+      "score": "",
+      "courses": [
+        "Nursing Education", "Human Resources", "Psychology & Sociology; Human Behaviors", "Studied Business and Computers"
+      ]
+    },
+    {
+      "institution": "Jonh Bowne High School",
+      "url": "",
+      "area": "Business",
+      "studyType": "High School Diploma",
+      "startDate": "2007",
+      "endDate": "2007",
+      "score": "",
+      "courses": [
+        "Diploma with merits and regents endorsements"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Client Relations",
+      "level": "High",
+      "keywords": [
+        "Communication", "Problem solving", "Product sales"
+      ]
+    },
+    {
+      "name": "Computer and Technology",
+      "level": "High",
+      "keywords": [
+        "Excelent knowledge of Computers and technology"
+      ]
+    },
+    {
+      "name": "Airline Softwares",
+      "level": "Expert",
+      "keywords": [
+        "Amadeus", "Altea", "Gaetan", "Oscar"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "French",
+      "fluency": "Spoken"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "volunteer": [],
+  "awards": [],
+  "publications": [],
+  "certificates": []
+}

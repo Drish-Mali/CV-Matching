@@ -1,0 +1,69 @@
+{
+  "basics": {
+    "name": "Not provided",
+    "label": "Construction Manager",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Energetic Construction Manager consistently involved in all facets of the projects. Extremely knowledgeable in Pipe lines, gas and oil facility's and Mining industry regulations and construction, providing expert direction in all aspects of contract construction. Able to recognize problems and solve them and a full understanding the important of forming a strong relationship with the owners and engineers for the good of the project and future work.",
+    "location": {},
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Construction Manager",
+      "url": "",
+      "startDate": "February 2014",
+      "endDate": "May 2016",
+      "summary": "Managed the construction of the API tanks and facility along with the pipe line from the port to the facility.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Construction Manager",
+      "url": "",
+      "startDate": "March 2008",
+      "endDate": "January 2014",
+      "summary": "Construction manager for shut down installation, tank projects, structural, civil work, building pump stations and revitalizing a retired mine site.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Project manager / Construction Manager",
+      "url": "",
+      "startDate": "January 2003",
+      "endDate": "January 2008",
+      "summary": "Managed the set up and all logistics for a variety of projects, including tank installations, pipe line constructions, setting up pump stations, etc.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Jones High",
+      "url": "",
+      "area": "",
+      "studyType": "High School Diploma",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Construction Management",
+      "level": "",
+      "keywords": ["Project Management", "Budgeting", "Scheduling", "OSHA Certified", "MSHA Certified", "TWIC Certified", "Specifications API 6A; 5L; 15D; 1104; 653 ASTM A36; A350; A694;392; AWS D1.!", "Construction", "Computer Skills", "Verbal Skills", "Organizational Skills", "Leadership"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

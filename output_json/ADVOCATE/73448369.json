@@ -1,0 +1,117 @@
+{
+  "basics": {
+    "name": "Patient Advocate",
+    "label": "Office Manager/Tax Preparation Worker",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Detail-oriented, efficient and organized, with extensive background in community-based organizations seeks to bring strong work ethic and engaging interpersonal communication to a vibrant company. Over seven years of experience as an office manager/tax preparation worker and over three years of experience assisting patients register for government programs.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Patient Advocate",
+      "url": "",
+      "startDate": "2009-09",
+      "endDate": "2014-12",
+      "summary": "Answer applicants' questions about benefits and claim procedures. Interview benefits recipients at specified intervals...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Tax Preparer/Office Manager",
+      "url": "",
+      "startDate": "2005-12",
+      "endDate": "2009-09",
+      "summary": "Would supervise employees engaged in tax preparation services...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Tax Preparer/Office Manager",
+      "url": "",
+      "startDate": "2002-01",
+      "endDate": "2004-12",
+      "summary": "Would supervise employees engaged in tax preparation services...",
+      "highlights": []
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Dental Technician",
+      "date": "2000",
+      "issuer": "Instituto Tecnico Dental 90",
+      "url": ""
+    },
+    {
+      "name": "CPR - IV Medication Administration",
+      "date": "2000",
+      "issuer": "Cruz Roja Colombiana",
+      "url": ""
+    },
+    {
+      "name": "High School Diploma",
+      "date": "1996",
+      "issuer": "Colegio Liceo Colombia",
+      "url": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Office Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Tax Preparation",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Customer Service",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Fast Data Entry",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Spreadsheet Tables Preparation",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Processing Financial Forms",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Making Fast Strategic Decisions in Accordance to Company Rules",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Good"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Excellent"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

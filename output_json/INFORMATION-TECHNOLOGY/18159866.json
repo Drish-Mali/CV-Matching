@@ -1,0 +1,96 @@
+{
+  "basics": {
+    "name": "Anonymous",
+    "label": "Senior Vice President of Global Information Technology",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "High-energy results oriented Chief Information Officer offering global professional experience in managing complex information technology environments and cross-cultural teams while effectively aligning and supporting key company initiatives.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Senior Vice President of Global Information Technology",
+      "url": "",
+      "startDate": "2004-06-01",
+      "endDate": "Current",
+      "summary": "Responsible for all aspects of Information Technology globally with a staff of 70 employees world wide.",
+      "highlights": [
+        "Eliminated high dependency on consulting firm supporting an ERP system globally by developing, hiring and mentoring adequate IT staff resulting in the creation of self-sufficiency and the generation of about of $2.5 million dollars savings per year.",
+        "Planned, and delivered successfully in all of the acquisitions executed by the company, enabling the realization of anticipated benefits through the migration of systems and integration of technology.",
+        "Delivered a single global suite of applications with seamless integration that provided significant efficiency gains, by eliminating duplicity, and streamlining business processes."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Director of Information Technology",
+      "url": "",
+      "startDate": "2002-01-01",
+      "endDate": "2004-06-01",
+      "summary": "Managed a large ERP implementation project and the technical infrastructure operations for a large replicator and distributor of DVD and VHS movies.",
+      "highlights": [
+        "Completed successfully and on-time the implementation of Oracle applications, after taking over a project that was significantly late and full of issues."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Texas at El Paso",
+      "url": "",
+      "area": "Computer Science",
+      "studyType": "B.S",
+      "startDate": "",
+      "endDate": "1983",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Strategic Planning",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Project and Program Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Customer-Oriented",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Time and Resources Optimization",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fully Fluent"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Fully Fluent"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

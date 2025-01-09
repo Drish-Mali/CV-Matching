@@ -1,0 +1,95 @@
+{
+  "basics": {
+    "name": "Mechanical Engineer",
+    "label": "Mechanical Engineer",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "5 years and 9 months experience as Mechanical Engineer in the operation and maintenance of boilers, swimming pools, deep well pumping stations and incinerators. 10 years experience as Mechanical Engineer/ Section Head...",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Mechanical engineer",
+      "url": "",
+      "startDate": "2006-05-01",
+      "endDate": "2012-03-01",
+      "summary": "Supervise in the Operation and Maintenance of 8 units of boilers, 7 swimming pools, 12 deep wells and 2 incinerators.....",
+      "highlights": [
+        "Changed the two sand filters and installed new chlorine dosing system on the New infantry swimming pool"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Mechanical Engineer / Section Head",
+      "url": "",
+      "startDate": "1995-11-01",
+      "endDate": "2006-01-01",
+      "summary": "Over all in-charge in the operation and maintenance of 6 water treatment plants....",
+      "highlights": [
+        "Supervise in the excavation and installation of sewer line from the workers accommodation up to the waste water treatment plant with two lifting stations."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "FEATI UNIVERSITY",
+      "url": "",
+      "area": "Mechanical Engineering",
+      "studyType": "Graduate",
+      "startDate": "1973",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Electro/Mechanical Skill",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Trouble shooting",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "installation of pipes and pumps",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "problem solver",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "design of controls for pumps and motors",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "installation of swimming pool heaters",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "volunteer": []
+}

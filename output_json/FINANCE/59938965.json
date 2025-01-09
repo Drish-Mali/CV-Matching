@@ -1,0 +1,86 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Finance Manager",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Confident and sales-oriented Finance Manager with over three year experience and track record of sales success. Exceptional professional selling skills enhanced by leadership and refined by a formal education and specialized sales-related training. Incomparable customer service and unique interpersonal skills. Excellent team player.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Finance Manager",
+      "url": "",
+      "startDate": "2003-11-01",
+      "endDate": "2004-05-01",
+      "summary": "Demonstrated continuous growth and achievements within the automotive industry. Solid business insight with the ability to ascertain needs for customers to increase profits. Tracked and disbursed all loans in a timely manner, communicated full contract disclosures, and accurately controlled paperwork flow. Maintained a strong working relationship with all lenders for four franchises.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Finance Manager",
+      "url": "",
+      "startDate": "2001-03-01",
+      "endDate": "2002-02-01",
+      "summary": "Efficiently analyzed all personal lines of credit to determine acceptability. Provided and/or coordinated full loan service functions for customers.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Senior Credit Representative",
+      "url": "",
+      "startDate": "2000-04-01",
+      "endDate": "2001-03-01",
+      "summary": "Demonstrated strong project management skills through competent management of 26 sales centers' accounts in the Florida Division. Implemented a process improvement system to assist in reconciliations. Prepared customer billing and developed reports weekly for upper management.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Mercer University",
+      "url": "",
+      "area": "Accounting",
+      "studyType": "Bachelors of Business Administrations",
+      "startDate": "",
+      "endDate": "1999-01-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Sales and Leadership",
+      "level": "Advanced",
+      "keywords": [
+        "automotive",
+        "billing",
+        "closing",
+        "credit",
+        "leadership",
+        "process improvement",
+        "project management",
+        "rapport",
+        "relationship building",
+        "sales"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

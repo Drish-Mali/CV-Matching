@@ -63,4 +63,4 @@ python src/app.py
 │── utils                                               # scripts with utility function 
 │       ├── database                                    # scripts to setup database
 │       └── preprocessing                               # script preprocess and parse resume and get text
-
+│       └── setup.py                                    # script create json and csv 

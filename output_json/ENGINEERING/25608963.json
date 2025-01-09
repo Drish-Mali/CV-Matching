@@ -1,0 +1,89 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Engineering Technician",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "A challenging position in a Manufacturing, Engineering, or Research & Development environment where my overall technical background, along with my leadership and decision making capabilities will be combined to contribute to company goals, enlargement, & productivity.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "",
+        "username": "",
+        "url": ""
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Engineering Technician",
+      "url": "",
+      "startDate": "April 2015",
+      "endDate": "Current",
+      "summary": "Executing protocols for new system integration; Help design & verify test fixtures are reliable for manufacturing sustainability; Mechanically assemble components to specifications outlined by Engineering;  Work on various projects with lab setup, supply ordering, and test execution tasks; Conduct bench testing and analyze data for final report; System Testing verification & analysis Software configuration testing.",
+      "highlights": [
+        "Mastered engineering software programs, including Labview and ERP systems such as Microsoft AX Dynamics",
+        "Trained new and current employees for both operating procedures and manufacturing disciplines",
+        "Used operational knowledge of systems, parts and components to solve problems that arose during assembly.",
+        "Personally managed production activities to guarantee 90 % of orders were shipped on-time.",
+        "Contributed to an increase in productivity through improvements in operations, quality, safety and administration.",
+        "Promoted to Production Supervisor within 8 years of employment."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Sr. Repair Technician",
+      "url": "",
+      "startDate": "February 2015",
+      "endDate": "April 2015",
+      "summary": "Responsible for reworking incoming PCB boards; Troubleshooting component level board testing; Analyze schematics to prepare failure diagnostics; Prepare test for either production or rework boards by setting up test station to specification; Maintained safety by verifying compliance and assuring proper factory testing.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "East Boston High School",
+      "url": "",
+      "area": "",
+      "studyType": "Diploma",
+      "startDate": "",
+      "endDate": "1999",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Data Entry",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "ERP : Microsoft AX Dynamics",
+      "level": "Master",
+      "keywords": []
+    },
+    {
+      "name": "Troubleshooting",
+      "level": "Master",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

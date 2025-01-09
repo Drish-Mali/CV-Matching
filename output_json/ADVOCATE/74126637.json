@@ -1,0 +1,96 @@
+{
+  "basics": {
+    "name": "",
+    "label": "BILINGUAL CLIENT ADVOCATE",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Organized, hardworking, and reliable social worker dedicated to providing effective and empathetic help. Skilled at finding and implementing the best possible solution.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "",
+      "position": "Bilingual Client Advocate",
+      "url": "",
+      "startDate": "2016-02-01",
+      "endDate": "2016-04-01",
+      "summary": "Answer Crisis Hotline, assess caller's needs, determine eligibility for shelter admission, or makes appropriate referral. Provide or arrange emergency transportation for incoming clients.",
+      "highlights": []
+    },
+    {
+      "name": "",
+      "position": "Conservatorship (CVS) Specialist",
+      "url": "",
+      "startDate": "2014-05-01",
+      "endDate": "2015-10-01",
+      "summary": "Determining each child's needs and arranging for additional testing, evaluations, records, or further assessments they need. Assess families and create individualize service plans.",
+      "highlights": []
+    },
+    {
+      "name": "",
+      "position": "Sales Associate",
+      "url": "",
+      "startDate": "2013-01-01",
+      "endDate": "2013-12-01",
+      "summary": "Salesperson. Customer Service. Manage fitting rooms. Work any department. Work as a team member. Train and guide new workers as requested by manager. Fast paced environment. Cashier. Leadership opportunities",
+      "highlights": []
+    },
+    {
+      "name": "",
+      "position": "Salesperson",
+      "url": "",
+      "startDate": "2009-12-01",
+      "endDate": "2012-08-01",
+      "summary": "Customer Service. Clean and organize store. Manager assistant. Open and close store. Cash register and responsible for cash. Train and guide new workers. Make orders & answer telephone",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Texas Woman's University",
+      "url": "",
+      "area": "Social Work",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "2014",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Social Work",
+      "level": "",
+      "keywords": [
+        "Ability to work effectively on my own initiative as well as within a team",
+        "Skilled at individualizing case plans and empathize with clients",
+        "Proficient at managing complex case loads",
+        "More than five years of providing exceptional customer service",
+        "Ability to comply with company policies and procedures",
+        "Experienced using Microsoft Office, Word, Excel, Outlook."
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Bilingual"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

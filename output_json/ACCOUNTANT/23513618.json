@@ -1,0 +1,96 @@
+{
+  "basics": {
+    "name": "Not Specified",
+    "label": "Accountant",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Results-oriented and organized bilingual accounting and finance professional with 10 + years extensive and diverse accounting, auditing, and finance experience. Experience in all aspects of financial reporting, accruals, and managerial cost accounting, reporting systems, operational analysis, and human resources functions.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Not Specified",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Accountant",
+      "url": "",
+      "startDate": "2014-01-01",
+      "endDate": "Current",
+      "summary": "Compile and analyze financial information to prepare financial statements for the formulation of corporate tax returns for private and corporate clients. Maintaining general ledgers, including posting, adjusting, and closing journal entries. Analyze financial transactions to ensure they are recorded to the appropriate general ledger accounts.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Accountant",
+      "url": "",
+      "startDate": "1999-01",
+      "endDate": "Current",
+      "summary": "Oversee all financial accounting functions for a $15 million construction company. Assist with the preparation and coordination of the month/year-end closing. Manages fixed assets. Involved in Inventory analysis and audit for finished goods and raw materials.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Trading Assistant",
+      "url": "",
+      "startDate": "1996-01",
+      "endDate": "1999-01",
+      "summary": "Prepared reports, analyzed, and audited internal billing, while coordinating deliveries with accuracy and great attention to detail.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "LEWIS UNIVERSITY",
+      "url": "",
+      "area": "Accounting",
+      "studyType": "Master of Business Administration",
+      "startDate": "",
+      "endDate": "2013",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "ROBERT MORRIS UNIVERSITY",
+      "url": "",
+      "area": "Accounting",
+      "studyType": "Bachelor of Arts",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Accounting and Finance",
+      "level": "Expert",
+      "keywords": [
+        "Accounting", "Finance", "Auditing", "Managerial Cost Accounting", "Operational Analysis", "Human Resources Functions", "FASB/GAAP", "SOX compliance"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

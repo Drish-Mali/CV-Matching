@@ -1,0 +1,103 @@
+{
+  "basics": {
+    "name": "Unknown",
+    "label": "Program Manager Financial Manager, Facilities Manager",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "18 years of experience for Operations manager Housing and Financial Institutions as well as healthcare sector...",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Program Manager Financial Manager, Facilities Manager",
+      "url": "",
+      "startDate": "2008-03-01",
+      "endDate": "Current",
+      "summary": "Driving operational improvements, maximizing the value of the asset base while ensuring a tight control...",
+      "highlights": [
+        "Managing a team of approximately 20 employees in a busy work environment", "Negotiating contracts, ensuring they balance value and risk"
+      ]
+    }, 
+    {
+      "name": "Company Name",
+      "position": "Clinic Manager",
+      "url": "",
+      "startDate": "2005-04-01",
+      "endDate": "2008-02-01",
+      "summary": "Manager of the Facility activities and care plan development, service level determination, on-site field...",
+      "highlights": []
+    }, 
+    {
+      "name": "Company Name",
+      "position": "Marketing Manager",
+      "url": "",
+      "startDate": "2001-01-01",
+      "endDate": "2005-03-01",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Phoenix",
+      "url": "",
+      "area": "Business and Management",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "2008-06-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "University of Washington",
+      "url": "",
+      "area": "Nurse",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "1999-09-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "University of Phoenix",
+      "url": "",
+      "area": "Healthcare",
+      "studyType": "Master of Business administration",
+      "startDate": "",
+      "endDate": "2014-06-01",
+      "score": "",
+      "courses": []
+    }
+
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Microsoft Word, Excel, and Power Point Software",
+      "level": "",
+      "keywords": ["Microsoft Word", "Excel", "Outlook", "Adobe Photoshop", "outlook", "Databases", "Clarity system", "Boston Post", "HMIS database system"]
+    },
+    {
+      "name": "Management Skills",
+      "level": "",
+      "keywords": ["Negotiating contracts", "Cost control", "Managing a team of approximately 20 employees", "recruitment", "Training"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

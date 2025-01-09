@@ -1,0 +1,116 @@
+{
+  "basics": {
+    "name": "Charles Hundley",
+    "label": "Lead Cook (Cook III)",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Charles Hundley has well over nine years of overall cooking and kitchen experience. Four years of lead cook experience. Three years as a certified trainer. He has gained various amounts of knowledge in the culinary industry and has taken his career to many different levels throughout his cooking career...",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Lead Cook (Cook III)",
+      "url": "",
+      "startDate": "2012-06",
+      "endDate": "Current",
+      "summary": "Prep menu for the day service. Delegate all our breaks throughout the shift...",
+      "highlights": [
+        "Started out as a prep cook and moved to Cook Lead/Cook III within six months."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Assistant Cook",
+      "url": "",
+      "startDate": "2008-09",
+      "endDate": "2009-11",
+      "summary": "Make sure our assigned kitchen has the proper cook-ware each shift...",
+      "highlights": ["Promoted after my second contract with the cruise ship."]
+    },
+    {
+      "name": "Company Name",
+      "position": "Lead Cook/Kitchen Trainer Kitchen Manager",
+      "url": "",
+      "startDate": "2006-07",
+      "endDate": "2008-09",
+      "summary": "Cook and Prepare meals for our guest...",
+      "highlights": ["Started out as a prep cook in the back learning the menu for about two months then moved up to line cook for six months before I became a Lead Cook."]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Lakeland Community College",
+      "url": "",
+      "area": "Business Management",
+      "studyType": "Associate of Arts",
+      "startDate": "2007",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Charles F Brush High School",
+      "url": "",
+      "area": "High school",
+      "studyType": "High School Diploma",
+      "startDate": "2005",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Kitchen Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Knife SKills",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Mother Sauce Knowledgeable",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Ability to Adapt to any situation",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Leadership skills",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Employee Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Fast Pace and efficient",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

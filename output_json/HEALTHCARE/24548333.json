@@ -1,0 +1,156 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Senior Specialty Sales Representative",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Decisive seasoned Bio-pharmaceutical sales representative who drives territory growth through creative and innovative marketing strategies. Skilled at analyzing market trends and customer needs to develop highly-effective and targeted campaigns to drive revenue.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Senior Specialty Sales Representative",
+      "url": "",
+      "startDate": "2006-01-01",
+      "endDate": "2010-01-01",
+      "summary": "Marketing and promoting CVD products to NYC CV, Endocrinology, and Nephrology specialists and hospitals. Business Planning, Sales Forecasting and strong use of Excel. Meeting and exceeding sales goals. Built strong business relationships with healthcare executives and key opinion leaders. Strong collaboration with internal partners.",
+      "highlights": [
+        "Launched aggressive growth plans that helped increase customer base of Flumist from 15 to 94 customers in the geography in 3 years.",
+        "Presented PowerPoint presentation to Executive Leadership Team on customer segmentation strategy and customer returns strategy.",
+        "Resulting program increased volume sales by 1Million in 1 year",
+        "Provided subject matter content to a sales module on successful selling in a hospital environment.",
+        "Created a project to increase sales team's collaboration."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Professional Healthcare Representative",
+      "url": "",
+      "startDate": "2001-01-01",
+      "endDate": "2003-01-01",
+      "summary": "Promotion of key branded products to various specialists and NYC Hospital Teaching Institutions. Guest Regional and National Trainer Appointments",
+      "highlights": ["Circle of Excellence Sales Award Trip Winner", "Rookie of the Year Award","Regional Performance Fund Award"]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "",
+      "url": "",
+      "area": "Business Certificate - Marketing International Marketing Biology",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "2015-01-01",
+      "score": "3.10",
+      "courses": []
+    },
+    {
+      "institution": "",
+      "url": "",
+      "area": "Biology and Chemistry",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "1998-01-01",
+      "score": "Dean's List 1998",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Awards of Excellence",
+      "date": "2007-01-01",
+      "awarder": "Company Name",
+      "summary": ""
+    },
+    {
+      "title": "Director's Award",
+      "date": "2008-01-01",
+      "awarder": "Company Name",
+      "summary": ""
+    }
+  ],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Account Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Customer Service",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Office Suite",
+      "level": "Expert",
+      "keywords": []
+    },
+     {
+      "name": "Quantitative Analysis",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Project management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Adobe Photoshop",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Endocrinology",
+      "level": "",
+      "keywords": []
+    },
+     {
+      "name": "Teaching",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Conversational"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Hockey",
+      "keywords": []
+    },
+    {
+      "name": "Triathlons",
+      "keywords": []
+    },
+    {
+      "name": "Music - Piano and Guitar",
+      "keywords": []
+    },
+    {
+      "name": "Woodworking and Carpentry",
+      "keywords": []
+    }
+  ],
+  "references": [],
+  "projects": []
+}

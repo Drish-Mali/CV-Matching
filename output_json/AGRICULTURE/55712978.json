@@ -1,0 +1,102 @@
+{
+  "basics": {
+    "name": "Not Provided",
+    "label": "Post-doctoral Research Fellow",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Biochemist Expert level, research scientist...",
+    "location": {},
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Not Provided",
+      "position": "Post-doctoral Research Fellow",
+      "url": "",
+      "startDate": "May 2011",
+      "endDate": "January 2015",
+      "summary": "Focused on production...",
+      "highlights": []
+    },
+    {
+      "name": "Not Provided",
+      "position": "Graduate Research Assistant",
+      "startDate": "January 2007",
+      "endDate": "December 2009",
+      "summary": "Recipient of the \"Al-Biruni 2007/2008 outstanding researcher award\"...",
+      "highlights": []
+    },
+    {
+      "name": "Not Provided",
+      "position": "Research Fellow",
+      "startDate": "September 2003",
+      "endDate": "July 2005",
+      "summary": "Conducted research on enzyme biotechnology...",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "University Putra Malaysia",
+      "area": "Enzyme Biotechnology",
+      "studyType": "PhD",
+      "startDate": "Not Provided",
+      "endDate": "August 2010",
+      "score": "",
+      "courses": [],
+      "url": ""
+    },
+    {
+      "institution": "University of Tehran",
+      "area": "Biophysics",
+      "studyType": "MSc",
+      "startDate": "Not Provided",
+      "endDate": "September 1997",
+      "score": "",
+      "courses": [],
+      "url": ""
+    },
+    {
+      "institution": "University of Tehran",
+      "area": "Cell and Molecular Biology",
+      "studyType": "BSc",
+      "startDate": "Not Provided",
+      "endDate": "November 1993",
+      "score": "",
+      "courses": [],
+      "url": ""
+    }
+  ],
+  "awards": [
+  ],
+  "certificates": [
+  ],
+  "publications": [
+    {
+      "name": "",
+      "publisher": "",
+      "releaseDate": "",
+      "url": "http://www.researchgate.net/profile/Afshin_Ebrahimpour",
+      "summary": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Protein/Peptide Chemistry",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Spectroscopic Methods",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+  ],
+  "interests": [
+  ],
+  "references": []
+}

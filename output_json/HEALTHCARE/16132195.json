@@ -1,0 +1,124 @@
+{
+  "basics": {
+    "name": "Not mentioned",
+    "label": "Personal Healthcare Assistant",
+    "image": "",
+    "email": "Not mentioned",
+    "phone": "Not mentioned",
+    "url": "Not mentioned",
+    "summary": "Personal Nursing Assistant with 4+ years work experience.",
+    "location": {
+      "address": "Not mentioned",
+      "postalCode": "Not mentioned",
+      "city": "Not mentioned",
+      "countryCode": "Not mentioned",
+      "region": "Not mentioned"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Personal Healthcare Assistant",
+      "url": "Not mentioned",
+      "startDate": "06/2013",
+      "endDate": "12/2013",
+      "summary": "Assisted patients with activities like feeding, bathing, and medication administration.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Personal Home Health Care Assistant",
+      "url": "Not mentioned",
+      "startDate": "01/2010",
+      "endDate": "08/2012",
+      "summary": "Provided transportation, assistance and companionship to clients.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Personal Healthcare Assistant",
+      "url": "Not mentioned",
+      "startDate": "04/2005",
+      "endDate": "07/2007",
+      "summary": "Assisted with adequate nutrition and fluid intake and recorded vital signs.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Alzheimer's Association Missouri",
+      "url": "Not mentioned",
+      "area": "Adult Behavioral and Diagnosed Mental Health Disorders",
+      "studyType": "Professional Healthcare In-Service",
+      "startDate": "2012",
+      "endDate": "Not mentioned",
+      "score": "Not mentioned",
+      "courses": ["Alzheimer's", "Dementia"]
+    },
+    {
+      "institution": "Burrell Behavioral Health",
+      "url": "Not mentioned",
+      "area": "Early Childhood, Adolescent and Adult Behavioral, Emotional and Diagnosed Mental Health Disorders",
+      "studyType": "Professional Healthcare In-Service",
+      "startDate": "2011",
+      "endDate": "Not mentioned",
+      "score": "Not mentioned",
+      "courses": ["Autism", "Depression", "Anxiety", "Bi-Polar", "ADHD", "Schizophrenia"]
+    },
+    {
+      "institution": "Lebanon High School",
+      "url": "Not mentioned",
+      "area": "General",
+      "studyType": "High School",
+      "startDate": "Not mentioned",
+      "endDate": "2000",
+      "score": "Not mentioned",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "CPR Certification",
+      "date": "Not mentioned",
+      "issuer": "American Heart Association",
+      "url": "Not mentioned"
+    },
+    {
+      "name": "Adult First Aid Certification",
+      "date": "Not mentioned",
+      "issuer": "American Heart Association",
+      "url": "Not mentioned"
+    },
+    {
+      "name": "Other relevant Certifications",
+      "date": "Not mentioned",
+      "issuer": "American Heart Association",
+      "url": "Not mentioned"
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Medical Proficiency",
+      "level": "Expert",
+      "keywords": ["Patient-focused care", "Medical terminology", "Hospice care provider", "Wound care", "Time management"]
+    },
+    {
+      "name": "Physical Assistance",
+      "level": "Expert",
+      "keywords": ["Understands mobility assistance needs", "Able to lift 50+ pounds", "Trained in grooming and bathing assistance", "Respiratory equipment training"]
+    }
+  ],
+  "languages": [],
+  "interests": [
+    {
+      "name": "Personal Interests",
+      "keywords": ["Running", "Reading", "Painting", "Playing the Piano", "Yoga"]
+    }
+  ],
+  "references": [],
+  "projects": []
+}

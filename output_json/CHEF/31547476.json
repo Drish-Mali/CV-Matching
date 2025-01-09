@@ -1,0 +1,89 @@
+{
+  "basics": {
+    "name": "Anonymous",
+    "label": "Administrative Assistant",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "I would like the opportunity to enhance your department with my experience, skills, and knowledge.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Administrative Assistant",
+      "url": "",
+      "startDate": "2012-06-01",
+      "endDate": "2013-06-01",
+      "summary": "Assist with creating all documents and a bookkeeping/accounting system. Payroll and Bookkeeping. Tax preparation for accountants.",
+      "highlights": ["Answer phones in a professional manner and take messages.", "Schedule Meetings.", "Post job openings and screen candidates.", "Completely run the office by myself."]
+    },
+    {
+      "name": "Company Name",
+      "position": "Independent Consultant",
+      "url": "",
+      "startDate": "2012-02-01",
+      "endDate": "Current",
+      "summary": "Market and sell high quality kitchen tools and accessories through in-home demonstrations, booths at trade shows and fundraiser programs.",
+      "highlights": ["Create and publish monthly newsletters for customers and other consultants.", "Help plan, lead, and execute monthly kitchen consultant meetings and potential consultant workshops."]
+    },
+    {
+      "name": "Company Name",
+      "position": "Paraoptometric Technician",
+      "url": "",
+      "startDate": "2008-05-01",
+      "endDate": "2009-10-01",
+      "summary": "Answered phones, greeted patients, and scheduled patients, called in prescriptions to pharmacies, and set up patient referrals to other doctors.",
+      "highlights": ["Gathered and recorded patient history.","Performed pre-examination tests using techniques, procedures and equipment as instructed.","Assisted optometrists conducting and recording patient examinations."]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Cowley County Community College",
+      "url": "",
+      "area": "Medical Billing and Coding",
+      "studyType": "Associates of Applied Science",
+      "startDate": "",
+      "endDate": "2012-12-01",
+      "score": "",
+      "courses": ["Medical Office Support"]
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Certified Paraoptometric",
+      "date": "2012-11-30",
+      "issuer": "Unknown",
+      "url": ""
+    }
+  ],
+ "skills": [
+    {
+      "name": "Administration",
+      "level": "",
+      "keywords": [
+        "Microsoft Office (Access, Excel, Outlook, PowerPoint, Word)",
+        "Quickbooks 2012",
+        "Medisoft",
+        "Electronic Medical Records: Practice Management Software",
+        "Eyefinity",
+        "OfficeMate: Practice Management Software",
+        "Eyefinity",
+        "ExamWRITER: Electronic Health Record Software"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

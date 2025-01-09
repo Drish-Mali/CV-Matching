@@ -1,0 +1,168 @@
+{
+  "basics": {
+    "name": "Sr. Network Engineer",
+    "label": "Network Engineer",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Bilingual Network Engineer offering in-depth understanding of IT infrastructure areas, particularly IT Network Design, Implementation & Optimization of Wired & Wireless Network. Detail-oriented self-starter with demonstrated success in initiating, tracking, reporting and closing projects.",
+    "location": {
+      "address": "Birmingham, AL",
+      "postalCode": "",
+      "city": "Birmingham",
+      "countryCode": "US",
+      "region": "AL"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Sr. Network Engineer",
+      "url": "",
+      "startDate": "2014-09-01",
+      "endDate": "2017-07-31",
+      "summary": "Implementation of VLANs with InterVLAN communication, Implementation of HSRP, VRRP and GLBP redundant routing protocols, Configuration of MPLS, BGP and EIGRP, Installation and configuration of Layer 3 Switching infrastructure",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Sr. Network Engineer",
+      "url": "",
+      "startDate": "2011-11-01",
+      "endDate": "2014-08-31",
+      "summary": "Responsible for maintaining network with over 5000 users, Experienced with troubleshooting of network issues in layers 1, 2, and 3",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Network Engineer",
+      "url": "",
+      "startDate": "2003-02-01",
+      "endDate": "2009-08-31",
+      "summary": "Connected switches using trunk links and Ether Channel, Responsible for maintenance and utilization of VLANs",
+      "highlights": []
+    }
+   ],
+  "volunteer": [],
+
+  "education": [
+    {
+      "institution": "London School of Accountancy & Management",
+      "url": "",
+      "area": "IT",
+      "studyType": "MBA",
+      "startDate": "2010-01-01",
+      "endDate": "2011-01-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "London School of Accountancy & Management",
+      "url": "",
+      "area": "Management",
+      "studyType": "PGDMS",
+      "startDate": "2009-01-01",
+      "endDate": "2010-01-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Rizvi College of Arts, Science & Commerce",
+      "url": "",
+      "area": "Science",
+      "studyType": "Associate of Science",
+      "startDate": "2000-01-01",
+      "endDate": "2001-01-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "CCT Data Center",
+      "date": "",
+      "issuer": "Cisco",
+      "url": ""
+    },
+    {
+      "name": "CCNP",
+      "date": "",
+      "issuer": "Cisco",
+      "url": ""
+    },
+    {
+      "name": "CCNA",
+      "date": "",
+      "issuer": "Cisco",
+      "url": ""
+    },
+    {
+      "name": "MCSE",
+      "date": "",
+      "issuer": "Microsoft",
+      "url": ""
+    },
+    {
+      "name": "Security +",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "Network +",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "A+",
+      "date": "",
+      "issuer": "CompTIA",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Networking",
+      "level": "Master",
+      "keywords": [
+        "Routers",
+        "Switches",
+        "Load Balancer",
+        "WAN Optimization",
+        "Routing",
+        "Switching",
+        "LAN",
+        "WAN",
+        "Various Features & Services",
+        "IP Telephony",
+        "AAA Architecture",
+        "Security / Firewalls",
+        "Juniper",
+        "VPN",
+        "Wireless Site assessment",
+        "Palo Alto Firewalls"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [
+    {
+      "name": "Personal",
+      "keywords": [
+        "International Travel",
+        "Driving",
+        "Cooking",
+        "Movies",
+        "Music",
+        "Dinning Out"
+      ]
+    }
+  ],
+  "references": [],
+  "projects": []
+}

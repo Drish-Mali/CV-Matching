@@ -1,0 +1,131 @@
+{
+  "basics": {
+    "name": "",
+    "label": "LEAD ENGINEER - FLUID SYSTEMS AND THERMAL ACCESSORIES",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Forward thinking Mechanical Engineer with several years of experience in product design and development, process improvement, project management, and quality assurance, comprehensive understanding of design processes, manufacturing methods and sound engineering principles.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    }
+  },
+  "work": [
+    {
+      "name": "",
+      "position": "LEAD ENGINEER - Fluid Systems and Thermal Accessories",
+      "url": "",
+      "startDate": "September 2016",
+      "endDate": "Current",
+      "summary": "Designs a variety of systems for GE gas turbines, analyses new products, works with suppliers and more.",
+      "highlights": [
+        "Designed a variety of systems for GE turbines.", 
+        "Conducted FMEA analysis of new products.", 
+        "Worked with supplier design control valves and mixing valves for various fluid system."
+      ]
+    },
+    {
+      "name": "",
+      "position": "DESIGN ENGINEER - Military & Commercial Engine Fluid Systems",
+      "url": "",
+      "startDate": "June 2015",
+      "endDate": "September 2016",
+      "summary": "Provided design requirements for fluid system test hardware, investigated field-related failures, made design specifications for a variety of components and more.",
+      "highlights": [
+        "Investigated field related component failures.", 
+        "Lead cost reduction and product improvement projects.", 
+        "Supported and approved vendor design changes."
+      ]
+    },
+    {
+      "name": "",
+      "position": "DESIGN ENGINEER - New Product Definition",
+      "url": "",
+      "startDate": "February 2012",
+      "endDate": "January 2015",
+      "summary": "Designed engine hardware, performed FEA Analyses, ensured technical requirements of components were met, signed off on engineering drawings and more.",
+      "highlights": [
+        "Performed preliminary and detail design of engine hardware.", 
+        "Assigned ITAR/Export license for both technical data and hardware.", 
+        "Collaborated with other GE partners to identify and resolve assembly issues."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Dayton",
+      "url": "",
+      "area": "Mechanical Engineering",
+      "studyType": "Master of Science",
+      "startDate": "",
+      "endDate": "2016",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Miami University",
+      "url": "",
+      "area": "Mechanical Engineering",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "2012",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Kwame Nkrumah University of Science and Technology",
+      "url": "",
+      "area": "Agricultural Engineering",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "2002",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Engineering",
+      "level": "",
+      "keywords": [
+        "Solid Edge",
+        "UG NX6 -NX10",
+        "Teamcenter",
+        "Digital Engine Visualization",
+        "GD&T",
+        "FEA/ ANSYS",
+        "Modifying designs",
+        "Lean Six Sigma",
+        "Adobe Photoshop",
+        "AUTOCAD Solid Works",
+        "Microsoft Projects",
+        "Microsoft Visio",
+        "Microsoft Office",
+        "FEA/ Abacus",
+        "LabVIEW",
+        "Visual Basic",
+        "C++",
+        "Matlab",
+        "Data Acquisition"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": [
+    {
+      "name": "",
+      "startDate": "",
+      "endDate": "",
+      "description": "Designed FADEC Cooling system for GE LEAP 1A and 1C Engines.",
+      "highlights": [],
+      "url": ""
+    }
+  ]
+}

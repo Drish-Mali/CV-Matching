@@ -1,0 +1,157 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Communicable Disease Specialist",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Bachelors of Health Science with 7+ years experience in social services and medical health settings, working with diverse populations in the military, and public health care fields. Creative and resourceful social service professional talented at quickly mastering new skills and processing new information.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Communicable Disease Specialist",
+      "url": "",
+      "startDate": "2014-01",
+      "endDate": "2015-12",
+      "summary": "Assists in the implementation of timely disease intervention strategies to decrease the prevalence of communicable diseases. Performs investigations, data collection, analysis, and interpretation.",
+      "highlights": [
+        "Experience with Electronic Medical Record"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Placement Specialist",
+      "url": "",
+      "startDate": "2013-02",
+      "endDate": "2013-12",
+      "summary": "Assessed the level of risk to children by conducting face-to-face interviews with the alleged child victims and their caretakers.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Sexual Assault Response Coordinator",
+      "url": "",
+      "startDate": "2010-08",
+      "endDate": "2011-05",
+      "summary": "Ensured that victims of sexual assault received appropriate and responsive care. Tracked the services provided from the initial report through the final disposition.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Administrative Assistant",
+      "url": "",
+      "startDate": "2009-11",
+      "endDate": "2010-08",
+      "summary": "Performed administrative support including word processing, mail preparation, copying, distribution, telephone calls, and travel orders for child youth personnel.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Healthcare Finder",
+      "url": "",
+      "startDate": "2007-10",
+      "endDate": "2008-08",
+      "summary": "Triaged all incoming specialty health care referrals/authorizations in order of priority for processing.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Columbus State University",
+      "url": "",
+      "area": "Health Science",
+      "studyType": "Bachelor's",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Management and Strategy Institute LLC",
+      "url": "",
+      "area": "Six Sigma Lean Professional",
+      "studyType": "Certification",
+      "startDate": "2014",
+      "endDate": "2014",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Management and Strategy Institute LLC",
+      "url": "",
+      "area": "HIPAA Certified Professional",
+      "studyType": "Certification",
+      "startDate": "2013",
+      "endDate": "2013",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Communication",
+      "level": "Excellent",
+      "keywords": [
+        "Written",
+        "Oral"
+      ]
+    },
+    {
+      "name": "Multi-Tasking",
+      "level": "Excellent",
+      "keywords": []
+    },
+    {
+      "name": "Problem Solving",
+      "level": "Excellent",
+      "keywords": [
+        "Creativity",
+        "Forethought"
+      ]
+    },
+    {
+      "name": "Flexibility",
+      "level": "Excellent",
+      "keywords": [
+        "Adaptable"
+      ]
+    },
+    {
+      "name": "Judgment",
+      "level": "Excellent",
+      "keywords": [
+        "Decision making"
+      ]
+    },
+    {
+      "name": "Team Work",
+      "level": "Excellent",
+      "keywords": []
+    },
+    {
+      "name": "Confidentiality",
+      "level": "Excellent",
+      "keywords": [
+        "Security of sensitive information"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

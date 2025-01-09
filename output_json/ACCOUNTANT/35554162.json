@@ -1,0 +1,89 @@
+{
+  "basics": {
+    "name": "Accountant III",
+    "label": "Senior Accountant",
+    "summary": "Results oriented accounting professional with 17+ years of progressive experience in a board range of accounting functions. Successful at managing multiple projects while consistently exceeding deadlines. Proven self-starter with strong managerial relationship and team building skills. Proactive strategic thinker with strong analytical, organizational and communication skills.",
+    "location": {},
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Accountant III",
+      "startDate": "2008-07",
+      "endDate": "Current",
+      "summary": "Team Lead for three Accounting Specialist. Oversees accounts payable functionality while managing daily workflow duties.",
+      "highlights": [
+        "Project lead for the automation and implementation of employee expense and vendor self service modules.",
+        "Authored and established departmental check printing and ACH standard operating procedures.",
+        "Streamlined operations and eliminated one full day from month-end closing by condensing and automating vendor project retention funds.",
+        "Automated Positive Pay and ACH notifications for faster and more reliable response time.",
+        "Project Co-lead for Oracle Payroll implementation.",
+        "Created and Implemented an employee morale initiative 'Where Everybody Counts' for the Office of Accounting.", 
+        "Managed employee benevolent fund for 13 years as Secretary for the MARTA Employees Club."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Credit / Collections Analyst",
+      "startDate": "1999-04",
+      "endDate": "2007-08",
+      "summary": "Co-managed the Authority's short-term operational investment portfolios and intermediate-term reserve investment portfolios, totaling $300 million.",
+      "highlights": [
+        "Completed daily cash management activities such as setting the daily cash position, funds movement and the investment of excess funds.",
+        "Initiated all wire fund transfers and manages transfer database."
+      ]
+    },{
+      "name": "Company Name",
+      "position": "Accounting Coordinator",
+      "startDate": "1996-12",
+      "endDate": "1999-04",
+      "summary": "Reconciled monthly bank statements to Spectrum Accounting and manual checkbook.",
+      "highlights": [
+        "Handled all accounts receivables, posted cash to appropriate accounts, prepared deposits and recorded transactions into the general journal."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Kennesaw State University",
+      "area": "MBA",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Tennessee State University",
+      "area": "Accounting",
+      "studyType": "BBA",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Oracle Accounting",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Dun and Bradstreet Financial Reporting",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Office",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Bank Of America CashPro",
+      "level": "",
+      "keywords": []
+    }
+  ]
+}

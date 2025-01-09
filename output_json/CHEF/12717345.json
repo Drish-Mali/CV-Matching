@@ -1,0 +1,113 @@
+{
+  "basics": {
+    "name": "",
+    "label": "EXECUTIVE CHEF",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Dedicated, hardworking restaurant management professional with extensive daily planning and operations experience. Skilled in staff training and development. Previously managed more than 20 employees and organized small and large scaled events, including weddings and banquets. Highly dedicated in career growth.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Saint Joseph's College",
+      "position": "Executive Chef",
+      "url": "",
+      "startDate": "2007-09-01",
+      "endDate": "2015-02-01",
+      "summary": "Created a farm to table culture in the café, utilizing the college's farms produce and livestock as well as creating business relationships with local farms, artisans, and other family owned companies. Supervised the daily conduct of the Chefs and Sous Chefs. Prices all menu and catering items.",
+      "highlights": [
+        "Developed popular daily specials with locally sourced ingredients.",
+        "Planned and prepared food for parties, holiday meals, luncheons, special functions, and other events.",
+        "Guest Chef at the Northern New England Home and Garden Show Meet the Chef Series",
+        "Taught Cooking Matters Classes",
+        "Featured in Plate Magazine"
+      ]
+    },
+    {
+      "name": "Company",
+      "position": "Line Chef",
+      "url": "",
+      "startDate": "2008-06-01",
+      "endDate": "2008-01-01",
+      "summary": "Prepped food for the kitchen, created specials for the dinner and lunch menu, cooked food for large banquets. In charge of training new cooks.",
+      "highlights": []
+    },
+    {
+      "name": "Company",
+      "position": "Line Cook",
+      "url": "",
+      "startDate": "2006-07-01",
+      "endDate": "2006-10-01",
+      "summary": "Prepped food for the line, cooked everything from appetizers to fried food, to the main dishes. Developed strong multi-tasking skills by working alone in a busy kitchen.",
+      "highlights": []
+    },
+    {
+      "name": "Company",
+      "position": "Line Cook",
+      "url": "",
+      "startDate": "2004-10-01",
+      "endDate": "2005-04-01",
+      "summary": "Prepped food for line, cooked appetizers, soups, sandwiches, and all fried foods. Developed strong communication skills by working in a high pace kitchen environment.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Southern Maine Community College",
+      "url": "",
+      "area": "Culinary Arts",
+      "studyType": "Associate of Arts",
+      "startDate": "",
+      "endDate": "2004",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "",
+      "level": "",
+      "keywords": [
+        "ServSafe certified",
+        "High level of aesthetic and culinary execution",
+        "Quick problem solver",
+        "Honest, trustworthy and punctual",
+        "Strong work ethic",
+        "Knowledge of assigned diets",
+        "Results oriented",
+        "Knowledge of inventory practices",
+        "Skillful menu development",
+        "Management and leadership experience",
+        "Kitchen management",
+        "Strong client-interaction skills",
+        "Food Standards enforcement",
+        "Strong time management skills",
+        "Experience with catering and events",
+        "Works well as a part of a team",
+        "General knowledge of computer software",
+        "Energetic, friendly and enthusiastic",
+        "Strong communication skills",
+        "Devoted to sustainability",
+        "Multi-ethnic cuisines",
+        "Allergen awareness"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

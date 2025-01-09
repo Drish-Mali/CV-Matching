@@ -1,0 +1,197 @@
+{
+  "basics": {
+    "name": "Database Programmer/Analyst (.NET Developer)",
+    "label": "Software Engineer",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Software Engineer with 2 years in Web Developer specializing in front end development. Proficient in Software Development Life Cycle (SDLC) and SCRUM AGILE methodologies of development process to produce software solutions by team.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "",
+      "region": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "University of Missouri System",
+      "position": "Database Programmer/Analyst (.NET Developer)",
+      "url": "",
+      "startDate": "2014-06",
+      "endDate": "2016-02",
+      "summary": "Worked as Graduate Research Assistant performing the duties of Database Programmer/Analyst at Application Development Network (ADN), DoIT which supports University of Missouri System faculty and students through agile and rapid creation of new applications.",
+      "highlights": [
+        "Worked on .NET security features such as Form-Based Authentication and Role-Based Authorization.",
+        "Involved in bug fixes and production support.",
+        "Worked closely with Scrum Master for backlog catalogs, feature catalogs and prioritized the tasks"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Missouri",
+      "url": "",
+      "area": "Computer Engineering",
+      "studyType": "Master of Science",
+      "startDate": "",
+      "endDate": "Present",
+      "score": "3.7",
+      "courses": []
+    },
+    {
+      "institution": "Jawaharlal Nehru Technological University India",
+      "url": "",
+      "area": "Electrical and Electronics Engineering",
+      "studyType": "Bachelor of Technology",
+      "startDate": "",
+      "endDate": "2013-05",
+      "score": "3.65",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Programming",
+      "level": "",
+      "keywords": [
+        "ASP.Net",
+        "C#",
+        "JavaScript",
+        "jQuery",
+        "VB.Net",
+        "C",
+        "C++",
+        "Java"
+      ]
+    },
+    {
+      "name": "Net Technologies",
+      "level": "",
+      "keywords": [
+        ".Net Framework 4.0/4.5",
+        "ASP.Net",
+        "ASP.NET MVC",
+        "VB.Net",
+        "ADO.Net",
+        "Entity Framework",
+        "AJAX",
+        "Web Service",
+        "LINQ",
+        "Entity Framework",
+        "LINQ queries",
+        "ASP.Net",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "JQuery",
+        "Bootstrap CSS"
+      ]
+    },
+    {
+      "name": "IDE",
+      "level": "",
+      "keywords": [
+        "Visual Studio",
+        "Eclipse",
+        "NetBeans",
+        "Dreamweaver"
+      ]
+    },
+    {
+      "name": "Database skills",
+      "level": "",
+      "keywords": [
+        "SQL",
+        "MySql"
+      ]
+    },
+    {
+      "name": "Operating System",
+      "level": "",
+      "keywords": [
+        "Windows"
+      ]
+    },
+    {
+      "name": "Version Controls",
+      "level": "",
+      "keywords": [
+        "Tortoise SVN",
+        "GitHub"
+      ]
+    },
+    {
+      "name": "Others",
+      "level": "",
+      "keywords": [
+        "Microsoft Word",
+        "Excel",
+        "Access",
+        "Power point"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": [
+    {
+      "name": "Atlas",
+      "startDate": "",
+      "endDate": "",
+      "description": "This project is all about requesting, scheduling the tutoring sessions. There are three roles tied to application they are Tutee, Tutor, and Scheduler.",
+      "highlights": [
+        "Created a Availability Calendar Grid.",
+        "Automatically populated the course schedule which comes from different database.",
+        "Developed C# Console Application for Scheduled email task."
+      ],
+      "url": ""
+    },
+    {
+      "name": "AppInventory",
+      "startDate": "",
+      "endDate": "",
+      "description": "The goal of the project to allow the admins, managers, scrum masters of the organization to keep track various applications which includes their developed, ongoing and future projects.",
+      "highlights": [
+        "Entity Framework was used using Database first approach.",
+        "Console Application to import the data from CSV files to populate them into the system."
+      ],
+      "url": ""
+    },
+    {
+      "name": "GoAdmin",
+      "startDate": "",
+      "endDate": "",
+      "description": "GoMizzou is the University of Missouri flagship mobile application, designed to provide services to all possible users of the university.",
+      "highlights": [
+        "Developed Application using AJAX controls like modal popup, ASP.Net server controls",
+        "Created dynamic queries, stored procedures, Views and triggers in SQL server for the database manipulation."
+      ],
+      "url": "https://appsprod.missouri.edu/GoAdmin"
+    },
+    {
+      "name": "Mizzou Checkout",
+      "startDate": "",
+      "endDate": "",
+      "description": "The goal of the project is to develop a web application for Checkout process similar to shopping cart for various departments who met the certain rules.",
+      "highlights": [],
+      "url": ""
+    },
+    {
+      "name": "Personalized Email for Outlook",
+      "startDate": "",
+      "endDate": "",
+      "description": "The goal of the project to give students to customize their outlook email.",
+      "highlights": [],
+      "url": ""
+    }
+  ]
+}

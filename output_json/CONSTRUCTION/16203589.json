@@ -1,0 +1,129 @@
+{
+  "basics": {
+    "name": "Not provided",
+    "label": "Project & Construction Manager",
+    "image": "",
+    "email": "Not provided",
+    "phone": "Not provided",
+    "url": "Not provided",
+    "summary": "Experienced Project Manager with Auto CAD background, executing luxury custom residential projects from bidding to completion, maintaining industry-leading Quality standards, and implementing CAD technologies for major capability gains.",
+    "location": {
+      "address": "Not provided",
+      "postalCode": "Not provided",
+      "city": "Not provided",
+      "countryCode": "Not provided",
+      "region": "Not provided"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Not provided",
+      "position": "Project & Construction Manager",
+      "url": "Not provided",
+      "startDate": "August 2014",
+      "endDate": "April 2016",
+      "summary": "Assisted skilled workers with construction projects in all phases of rough and finish carpentry.",
+      "highlights": [
+        "Completed indoor and outdoor residential construction projects",
+        "Handle all new-start announcements, do the intake for bids",
+        "Review building plans and contracts to obtain permits and licensing",
+        "Oversee all on-site and off-site construction to monitor compliance with building code"
+      ]
+    },
+    {
+      "name": "Not provided",
+      "position": "Interior Designer",
+      "url": "Not provided",
+      "startDate": "January 2012",
+      "endDate": "January 2014",
+      "summary": "As an Interior Designer for the largest furniture retailer in the U.S., I designed, developed, and oversaw implementation of floor plans, electrical, merchandise, paint, and signage",
+      "highlights": ["I adapted plans to maintain the Ashley brand inside and out while accommodating municipality requirements"]
+    },
+    {
+      "name": "Not provided",
+      "position": "Bartender",
+      "url": "Not provided",
+      "startDate": "January 2004",
+      "endDate": "January 2011",
+      "summary": "While going to school fulltime (2008-2011) I supported myself as a bartender where I strengthened my customer relations skills.",
+      "highlights": []
+    },
+    {
+      "name": "Not provided",
+      "position": "Permit Coordinator",
+      "url": "Not provided",
+      "startDate": "January 2004",
+      "endDate": "January 2008",
+      "summary": "As a Permit Coordinator for this regional permitting service, I served more than 70 municipalities, helping builders cut through red tape and expedite the permitting process.",
+      "highlights": ["Building trusting relationships with builders and municipalities, I was able to help builders save time, and often money, in the permitting process"]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "International Academy of Design and Technology",
+      "url": "Not provided",
+      "area": "Interior Design",
+      "studyType": "B.A",
+      "startDate": "Not provided",
+      "endDate": "Not provided",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "WARRIOR LEADER COURSE (WLC) 2003",
+      "url": "Not provided",
+      "area": "Leadership",
+      "studyType": "",
+      "startDate": "Not provided",
+      "endDate": "Not provided",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Ohio State University",
+      "url": "Not provided",
+      "area": "Sports and Fitness Management",
+      "studyType": "Not provided",
+      "startDate": "Not provided",
+      "endDate": "Not provided",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Auto CAD",
+      "level": "Not provided",
+      "keywords": []
+    },
+    {
+      "name": "Great Leadership Skills",
+      "level": "Not provided",
+      "keywords": []
+    },
+    {
+      "name": "Operation Monitoring",
+      "level": "Not provided",
+      "keywords": []
+    },
+    {
+      "name": "Management of Material Resources",
+      "level": "Not provided",
+      "keywords": []
+    },
+    {
+      "name": "Judgment and Decision Making",
+      "level": "Not provided",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

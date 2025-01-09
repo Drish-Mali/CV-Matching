@@ -1,0 +1,165 @@
+{
+  "basics": {
+    "name": "Anonymous",
+    "label": "Program Manager & Logistics Specialist",
+    "email": "",
+    "phone": "",
+    "summary": "Accomplished veteran of the United States Navy with an extensive background in leadership training, as well as a track record of success in program development, logistics, aviation repair, and operational management. Outstanding performance in all capacities across many years of service, highlighted by numerous awards and commendations.",
+    "location": {
+      "address": "",
+      "city": "",
+      "countryCode": "US"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Postal Support Employee",
+      "startDate": "2016-01-01",
+      "endDate": "Current",
+      "summary": "Provide analysis & reporting on key safety and quality assurance based measures as well as performance metrics. Responsible for tracking inventory and procurement reports for management while using the data to create customer and vendor specific action plans. Point of contact to make sure the company abides by all regulatory state and federal compliance."
+    },
+    {
+      "name": "Company Name",
+      "position": "Weatherization Technician Trainee",
+      "startDate": "2015-01-01",
+      "endDate": "2015-01-01",
+      "summary": "Assisted in use and care of weatherization equipment, creating value, maximizing growth and improving business performance, which required extensive use of business knowledge to provide objective advice and expertise. Gathered and consolidated technical reports for management."
+    },
+    {
+      "name": "Company Name",
+      "position": "Aviation Mechanic",
+      "startDate": "2005-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Operated and maintained sophisticated equipment designed for tactical operations. Reviewed and updated testing procedures to ensure safe and successful convoy operations. Supported aviation program operations through performing routine maintenance of multi-million dollar valued equipment."
+    },
+    {
+      "name": "Company Name",
+      "position": "Aviation Repair Supervisor",
+      "startDate": "1999-01-01",
+      "endDate": "2005-01-01",
+      "summary": "Oversaw aviation repair program. Identified environmental training needs and developed training budget requirements. Led mishap investigations and performed daily safety inspections. Provided safety indoctrination and education for civilian and military personnel."
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Tinker Air Force Base",
+      "area": "System Organizational Maintenance Technician",
+      "studyType": "",
+      "startDate": "2004-01-01",
+      "endDate": "2004-01-01"
+    },
+    {
+      "institution": "Naval Training Command, IL",
+      "area": "Aviation Apprenticeship Training",
+      "studyType": "",
+      "startDate": "1999-01-01",
+      "endDate": "1999-01-01"
+    },
+    {
+      "institution": "Edmondson High School",
+      "area": "High School",
+      "studyType": "Diploma",
+      "startDate": "",
+      "endDate": "1998-01-01"
+    }
+  ],
+  "awards": [
+    {
+      "title": "DynCorp 5 Year Achievement Award",
+      "date": "",
+      "awarder": "DynCorp",
+      "summary": ""
+    },
+    {
+      "title": "Navy Unit Commendation",
+      "date": "",
+      "awarder": "Navy",
+      "summary": ""
+    },
+    {
+      "title": "Navy Meritorious Unit Commendation",
+      "date": "",
+      "awarder": "Navy",
+      "summary": ""
+    },
+    {
+      "title": "Navy Battle 'E' Award",
+      "date": "",
+      "awarder": "Navy",
+      "summary": ""
+    },
+    {
+      "title": "Iraqi Freedom Medal",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    },
+    {
+      "title": "Sea Service Medal (3)",
+      "date": "",
+      "awarder": "Navy",
+      "summary": ""
+    },
+    {
+      "title": "NATO Medal",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    },
+    {
+      "title": "Global War on Terrorism Medal",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    },
+    {
+      "title": "Kosovo Campaign Medal",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    },
+    {
+      "title": "Enlisted Aviation Warfare Specialist",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Program Management",
+      "level": "",
+      "keywords": [
+        ""
+      ]
+    },
+    {
+      "name": "Logistics",
+      "level": "",
+      "keywords": [
+        ""
+      ]
+    },
+    {
+      "name": "Aviation Repair",
+      "level": "",
+      "keywords": [
+        ""
+      ]
+    },
+    {
+      "name": "Operational Management",
+      "level": "",
+      "keywords": [
+        ""
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

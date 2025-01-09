@@ -1,0 +1,122 @@
+{
+  "basics": {
+    "name": "SUPERVISOR ACCOUNTANT",
+    "label": "Accountant",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Ability to work in a fast paced, deadline driven environment, independently or as a team.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Supervisor Accountant",
+      "url": "",
+      "startDate": "July 2015",
+      "endDate": "Current",
+      "summary": "Performed financial reporting activities for the Ichthys Project...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Lead Accountant",
+      "url": "",
+      "startDate": "July 2008",
+      "endDate": "July 2015",
+      "summary": "Performed financial reporting activities within the Government...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Senior Accountant",
+      "url": "",
+      "startDate": "December 2007",
+      "endDate": "June 2008",
+      "summary": "Review the SSC general ledger accounts and make correcting entries....",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Senior Financial Analyst",
+      "url": "",
+      "startDate": "October 2005",
+      "endDate": "October 2007",
+      "summary": "20th Century Fox Home Entertainment one of the world's most recognized...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "General Accountant",
+      "url": "",
+      "startDate": "June 2005",
+      "endDate": "August 2005",
+      "summary": "Supervised over a 120 different accounts within the United States...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Accountant",
+      "url": "",
+      "startDate": "September 2004",
+      "endDate": "January 2005",
+      "summary": "Oversaw accounts receivables operating and approval process...",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Pepperdine University, Graziadio School of Business and Management",
+      "area": "Business Development Strategy, Management",
+      "studyType": "Master of Business Administration",
+      "startDate": "",
+      "endDate": "May 2008",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "University of New Orleans",
+      "area": "Finance Spanish",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "May 2004",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Accounting",
+      "level": "Master",
+      "keywords": [
+        "Account reconciliations", "Microsoft Office", "advanced Excel", "PowerPoint", "MS Access", "Atlas", "Windows 95 - XP", "Harvard Graphics", "QuickBooks", "NGS Systems",
+        "People Soft", "SAP", "Quicken", "Nanovision", "2-Tier", "Phoenix (E1)", "Business Objects"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Proficient"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "volunteer": [],
+  "awards": [],
+  "certificates": [],
+  "publications": []
+}

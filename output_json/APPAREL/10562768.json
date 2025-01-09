@@ -1,0 +1,111 @@
+{
+  "basics": {
+    "name": "Assistant Banking Center Manager I",
+    "label": "Banking",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Experienced in Signals analysis, Geo-Spatial analysis, Electronic Warfare analysis, Networks and Threat analysis, and DNR. Limited knowledge of performing DNI analysis. Basic knowledge of computer network applications from the World Wide Web, printers, email, and instant messaging. Knowledge in Local Area Networks as well as Wide Area Networks.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "",
+      "region": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Assistant Banking Center Manager I",
+      "url": "",
+      "startDate": "2016-03-01",
+      "endDate": "Current",
+      "summary": "Knowledgeable in all aspects of running Retail Banking Center Building Operations; Audit policies and procedures, general management, TEAM building, Comerica Securities, and all Retail Financial Products. Preparation of internal instructions, operating policies, Standard Operating Procedures (SOPs), and guidelines. Skilled in assessing Fraudulent Issues; plans and conducts investigations designed to achieve casualty resolution. Analyzed inspections, or investigations to identify problem area's within retail financial programs. Mathematical abilities to perform calculations including application of discounts, interest, proportions, mortgage terms, and percentages",
+      "highlights": ["Proficient in the following systems: CISCO, HOGAN, Trio, Elan, Mortgage Referral Tool, Bloomberg, PayPoint, Check Vision, Account Analysis (AAS), and CoStar."]
+    },
+    {
+      "name": "Company Name",
+      "position": "Member and Provider Services",
+      "url": "",
+      "startDate": "2015-10-01",
+      "endDate": "2016-03-01",
+      "summary": "Certified in the 8 step Ulysses Service Mentor program. Used sales and customer service skills to build and maintain exceptional relationships with Subscribers, Providers, Small Groups, Large Groups, and Governmental programs. Knowledge of MDCH, NCQA, and MTM/NMIS. Experienced with the following: Department of Human Services, Center for Medicare and Medicaid Services, and the Health Insurance Marketplace.",
+      "highlights": ["Proficient in the following systems: MACESS, FACETS, CITRIX, MEDCo, CareAdvance, Health Maintenance Organization, Continuum, MarX, Med Informatics, CISCO, and Verint."]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Oakland University",
+      "url": "",
+      "area": "Science",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "2008-01-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Cochise College",
+      "url": "",
+      "area": "",
+      "studyType": "Masters of Business Administration",
+      "startDate": "",
+      "endDate": "2016-01-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "General Management",
+      "level": "Intermediate",
+      "keywords": ["CISCO", "HOGAN", "Trio", "Elan", "Mortgage Referral Tool", "Bloomberg", "PayPoint", "Check Vision", "Account Analysis (AAS)", "CoStar"]
+    },
+    {
+      "name": "Service Mentorship",
+      "level": "Intermediate",
+      "keywords": ["MACESS", "FACETS", "CITRIX", "MEDCo", "CareAdvance", "Health Maintenance Organization", "Continuum", "MarX", "Med Informatics", "CISCO", "Verint"]
+    }
+  ],
+ "certificates": [
+    {
+      "name": "YMCA Certification",
+      "date": "",
+      "issuer": "YMCA",
+      "url": ""
+    },
+    {
+      "name": "Red Cross/Ellis Lifeguard Certification",
+      "date": "",
+      "issuer": "Red Cross/Ellis",
+      "url": ""
+    },
+    {
+      "name": "Water Aerobics Certification",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "CPR/First Aid/AED Certification",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "USA Swim Coach Certification",
+      "date": "",
+      "issuer": "USA",
+      "url": ""
+    }
+  ],
+  "volunteer": [],
+  "awards": [],
+  "publications": [],
+  "interests": [],
+  "references": [],
+  "languages": [],
+  "projects": []
+}

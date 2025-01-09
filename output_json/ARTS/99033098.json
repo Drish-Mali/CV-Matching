@@ -1,0 +1,75 @@
+{
+  "basics": {
+    "name": "Unnamed",
+    "label": "Customer Service Associate/Cashier, Receptionist, Chiropractor Assistant",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Highly motivated professional seeking a Receptionist position. Possesses excellent communication skills, a strong intuitive analytical thinking. Goal-oriented, Customer-focused with a team player attitude and drive to succeed.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Unknown Company",
+      "position": "Customer Service Associate/Cashier",
+      "url": "",
+      "startDate": "2008-10-01",
+      "endDate": "2009-04-01",
+      "summary": "Greeted and assisted customers in a friendly courteous manner. Processed customers' transactions accurately and efficiently along with bagging customer purchases",
+      "highlights": ["Greeted and assisted customers in a friendly courteous manner", "Processed customers' transactions accurately and efficiently along with bagging customer purchases", "Maintained the proper funds in register and called for change or cash pick-ups as needed.", "Utilized and adhered to the merchandise presentation standards in regards to the 5 Basics: replenishment, signing, sizing, clearance and clean store"]
+    },
+    {
+      "name": "Unknown Company",
+      "position": "Chiropractor Assistant",
+      "url": "",
+      "startDate": "2007-10-01",
+      "endDate": "2013-09-30",
+      "summary": "Greet and register arriving patients. Confirm insurance status. Record medical histories and any other relevant medical information. Room patients. Assist Chiropractors with certain procedures. Educate patients. Patient scheduling. Checking out departing patients. Call and confirm appointments. Managing patients files. Managerial tasks. Bookkeeping, billing, employee payroll, bank deposits. Maintain and kept track of office supplies.",
+      "highlights": []
+    },
+    {
+      "name": "Unknown Company",
+      "position": "Commercial and Private party house cleaning",
+      "url": "",
+      "startDate": "2005-01-01",
+      "endDate": "Present",
+      "summary": "Maintain lists of vacant apartment's that require housekeeping attention before the arrival of their next occupants. Responsible for cleaning commercial buildings, offices, restrooms and common areas. Restocking all toiletries, vacuum room carpets, and sweep, scrub, wax and polish floors using brooms, mops and powered scrubbing and waxing machines. Preparing surfaces with primer, apply layers of paint and hang wallpaper. Tidy up after finishing a job",
+      "highlights": ["Commercial and Private party house cleaning"]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Marshfield High School",
+      "url": "",
+      "area": "General",
+      "studyType": "High School Diploma",
+      "startDate": "1987-01-01",
+      "endDate": "1987-12-31",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "General Skills",
+      "level": "Unspecified",
+      "keywords": ["Receptionist", "10-Key", "Account Management", "Active Learning", "Calendaring", "Client Relations", "Computer Proficiency", "Coordination", "Creative Problem Solving", "Customer Needs Assessment", "Customer Service", "Data Collection", "Data Entry", "Documentation", "Email", "Executive Management Support", "Filing", "Internet Research", "Scheduling", "Spreadsheets", "Telephone Skills", "Time Management", "Vendor Management", "Letters and Memos", "Microsoft Excel", "Microsoft Office Suite", "Microsoft Outlook", "Microsoft Word", "Multi-Task Management", "Organizational Skills and Prioritization"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

@@ -1,0 +1,69 @@
+{
+  "basics": {
+    "name": "Clara Newsom",
+    "label": "Assistant Project Manager/Design Build Construction Coordinator",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Highly motivated Civil Engineer with 16 years of experience working for one of North America's largest and most respected construction and engineering organizations. Proven ability to successfully plan and execute projects while promoting safety, quality, schedule, and cost performance.",
+    "location": {
+      "address": "N/A",
+      "postalCode": "N/A",
+      "city": "N/A",
+      "countryCode": "N/A",
+      "region": "N/A"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Assistant Project Manager/Design Build Construction Coordinator",
+      "url": "N/A",
+      "startDate": "2013-09-01",
+      "endDate": "Current",
+      "summary": "Managing approximately 1,000 WBS activities on a P6 schedule. Coordinating on a daily basis, incoming and outgoing correspondence, a cost loaded CPM, RFIs, modifications, change orders, and unforeseen field conditions that required redesign and schedule modifications to adhere to a hard completion date.",
+      "highlights": [
+	"Sixteen years of experience working for one of North America's largest and most respected construction and engineering organizations.",
+	"Responsible for the successful strategy, development and execution of time related impact analysis resulting in a $2.6 million net change to the contract.",
+	"Responsible for the development and execution of a dirt flow impact analysis resulting in a $2 million net change to the contract.",
+	"Developed a successful plan to rephase the bridge construction on a highly traveled weather-damaged interstate so that the traffic could be shifted onto the new construction prior to the winter season.",
+	"Project controls Manager for all document control and as-built deliverables for over 200 miles of Fiber Optic Network Installation."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Kentucky ",
+      "url": "N/A",
+      "area": "Civil Engineering",
+      "studyType": "B.S",
+      "startDate": "N/A",
+      "endDate": "1999",
+      "score": "N/A",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Project Management",
+      "level": "Expert",
+      "keywords": [
+        "Project Planning",
+        "Construction",
+        "Budgeting",
+	        "Quality Control",
+	        "Contract Administration"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

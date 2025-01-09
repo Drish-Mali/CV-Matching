@@ -1,0 +1,77 @@
+{
+  "basics": {
+    "name": "",
+    "label": "CORPORATE REGIONAL RECRUITER",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Highly driven Recruiter who maintains a positive attitude under pressure and welcomes the challenge and responsibility of producing results quickly for clients.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Corporate Regional Recruiter",
+      "url": "",
+      "startDate": "06/2015",
+      "endDate": "Current",
+      "summary": "Responsible for screening, interviewing and referring the most qualified applicants to hiring managers.",
+      "highlights": [
+        "iCIMS Applicant Tracking software",
+        "Recruiting and selection techniques",
+        "Talent assessments",
+        "Proficient communicator",
+        "Hiring recommendations",
+        "Fluent in Spanish",
+        "Practiced in HRIS technologies"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Portland State University",
+      "url": "",
+      "area": "Sociology",
+      "studyType": "Bachelor",
+      "startDate": "08/1998",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Recruitment",
+      "level": "",
+      "keywords": [
+        "Corporate Communications",
+        "Recruiting",
+        "Sales Planning",
+        "Territory Management",
+        "Public Relations",
+        "Marketing Strategies"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Bilingual"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

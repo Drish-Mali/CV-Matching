@@ -1,0 +1,122 @@
+{
+  "basics": {
+    "name": "Anonymous",
+    "label": "Software Engineering Manager",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "http://www.imaginecommunications.com/products/playout/video-servers",
+    "summary": "20+ years of software product development experience in broadcast media...",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Hercules Web Service",
+      "position": "Software Development",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Development and team management, Nexio servers' applications...",
+      "highlights": [
+        "Released deliverables for Nexio Software Suite 6.0, 7.0, 8.0, Global Proxy Suite 2.5, 3.0, 3.5",
+        "Certified ScrumMaster, Scrum Alliance, Dec 2014 - Dec 2016"
+      ]
+    },
+    {
+      "name": "Imagine communications",
+      "position": "Software Engineering Manager",
+      "url": "http://www.imaginecommunications.com/products/playout/video-servers",
+      "startDate": "September 2009",
+      "endDate": "Current",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Star Media - Leitch - Harris Corporation",
+      "position": "Software Engineering Manager - Principal Software Engineer - Software Engineer",
+      "url": "",
+      "startDate": "August 1994",
+      "endDate": "August 2009",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Illinois Institute of Technology",
+      "url": "",
+      "area": "Computer Science",
+      "studyType": "M.S",
+      "startDate": "",
+      "endDate": "",
+      "score": "3.9",
+      "courses": []
+    },
+    {
+      "institution": "National Institute of Technology",
+      "url": "",
+      "area": "Electronics and Communication Engineering",
+      "studyType": "B.E",
+      "startDate": "",
+      "endDate": "",
+      "score": "First Class with Distinction",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Reuse Innovation",
+      "date": "",
+      "awarder": "Harris Corporation",
+      "summary": "core IP from NLE product suite in Nexio server product suite"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "ScrumMaster",
+      "date": "Dec 2014 - Dec 2016",
+      "issuer": "Scrum Alliance",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Software Development",
+      "level": "Master",
+      "keywords": [
+        "Visual C++",
+        "Windows",
+        "STL",
+        "OOP",
+        "MFC",
+        "COM",
+        "ATL",
+        "IPC",
+        "FTP",
+        "TCP",
+        "HTTP",
+        "XML",
+        "JSON",
+        "REST API",
+        "SOA",
+        "C#",
+        "HTML5",
+        "CSS",
+        "JavaScript"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

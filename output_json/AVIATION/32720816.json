@@ -1,0 +1,106 @@
+{
+  "basics": {
+    "name": "Not Provided",
+    "label": "Aviation Parts Salesman",
+    "image": "",
+    "email": "Not Provided",
+    "phone": "Not Provided",
+    "url": "Not Provided",
+    "summary": "Earned a Private Pilot's License in August 2008,..." ,
+    "location": {
+      "address": "Not Provided",
+      "postalCode": "Not Provided",
+      "city": "Not Provided",
+      "countryCode": "US",
+      "region": "Not Provided"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Aviation Parts Salesman",
+      "url": "",
+      "startDate": "2013-05-01",
+      "endDate": "2014-01-01",
+      "summary": "Responsible for sales and customer service, providing information....",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Package/Front Counter Attendant",
+      "url": "",
+      "startDate": "2012-10-01",
+      "endDate": "2013-05-01",
+      "summary": "Performed standing, walking, bending, stooping,...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Lead Autonomous Ground Vehicle Installer",
+      "url": "",
+      "startDate": "2011-08-01",
+      "endDate": "2011-12-01",
+      "summary": "Lifted and moved heavy boxes containing Pronto 4 autonomous vehicle..",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Embry Riddle Aeronautical University",
+      "url": "",
+      "area": "Professional Aeronautics Management and Aviation Safety",
+      "studyType": "Bachelor's Degree",
+      "startDate": "Not Provided",
+      "endDate": "2014",
+      "score": "3.8",
+      "courses": []
+    },
+    {
+      "institution": "Silver Valley High School",
+      "area": "",
+      "studyType": "High School",
+      "startDate": "Not Known",
+      "endDate": "2009",
+      "score": "3.5",
+      "courses": []
+    },
+    {
+      "institution": "Embry Riddle Aeronautical University",
+      "area": "Professional Aeronautics Management, Safety, Aeronautical Science, and Information Systems",
+      "studyType": "Associate's Degree",
+      "startDate": "Not Provided",
+      "endDate": "2012",
+      "score": "3.8",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Varied",
+      "level": "Proficient",
+      "keywords": [
+        "cash handling", "customer service", "databases", 
+        "driving", "email", "inventory", "materials", 
+        "Navy", "next", "packaging", "payroll",
+        "pricing", "quality control", "Safety", "sales", 
+        "scheduling", "shipping", "Supervisor", "tables", "phone"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [
+    {
+      "name":"Hobbies",
+      "keywords": [
+        "R/C aircraft", "gaming", "Windows computers"
+      ]
+    }
+  ],
+  "references": [],
+  "projects": []
+}

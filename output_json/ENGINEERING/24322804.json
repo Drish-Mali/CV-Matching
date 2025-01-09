@@ -1,0 +1,81 @@
+{
+  "basics": {
+    "name": "Aaron Lovely",
+    "label": "Engineering Business Unit Leader",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Engineering Maintenance manager, who is a self-motivated, passionate individual with excellent decision-making skills, is seeking a technical position within an engineering team. Courses for an Engineering Technology degree require the ability to learn electrical and mechanical systems. Successfully put my education to use and expanded my learning in the electrical and mechanical field with my profession at ArcelorMittal and PepsiCo Frito Lay Division. Strengths include communication, team work, problem solving skills, and leadership.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Engineering Business Unit Leader",
+      "url": "",
+      "startDate": "2015-01-01",
+      "endDate": "Current",
+      "summary": "Increased OEE performance from 13th rank to 4th in company by developing crewing models and using best practices with computer management maintenance system. Managed yearly labor budget of $3.1Million and parts budget of $2.4Million successfully achieved a goal of $1 better to plan. Executed $1.2Million of productivity projects through automation, efficiency improvements & headcount reductions.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Project Engineer",
+      "url": "",
+      "startDate": "2013-01-01",
+      "endDate": "2015-01-01",
+      "summary": "Managed yearly site capital budget of $825 Thousand in site projects of asset improvements. Awarded Productivity award for successfully installing five robot cells. Developed teamwork so that projects are completed on schedule.",
+      "highlights": []
+    },
+    {
+      "name": "",
+      "position": "Operations Technician",
+      "url": "",
+      "startDate": "2011-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Contributed to a consistent line OEE of 85%. Made safety solutions that supported the plant to 'Zero time off due to injury YTD'. Awarded 86% of possible bonus due to meeting yearly KPIs.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Middle Tennessee State University",
+      "url": "",
+      "area": "Engineering Technology Computer Engineering Computer Science",
+      "studyType": "Bachelor of Sciences",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": [
+        "AutoCAD, Electrical Circuit Analysis, Programmable Logic Controllers, Electrical Mechanical Systems, Instrumentation and Controls, Industrial Electricity, Engineering Economy, Visual Basics, C++, Technical Grammar"
+      ]
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Technical Skills",
+      "level": "",
+      "keywords": [
+        "AutoCAD",
+        "C++",
+        "Visual Basics"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

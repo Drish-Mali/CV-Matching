@@ -1,0 +1,175 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Manager - Information Technology and Building Automation Systems",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Versatile Building Automation System engineer and IT professional with vast knowledge of Enterprise Project Lifecycle methodology and experience to deliver insightful network infrastructure and building automation solutions.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Manager - Information Technology and Building Automation Systems",
+      "url": "",
+      "startDate": "2014-10",
+      "endDate": "Current",
+      "summary": "Led a cross-functional team of engineers, QAs and UX designers to develop features and fix product defects. Delivered detailed feature roadmaps that included action items and project targets.",
+      "highlights": [
+          "Awarded the Navy and Marine Corps Achievement Medal in 2010, 2011, 2012, and 2013",
+          "Awarded Sailor of the Year designation for the Pacific Naval Fleet in 2013", 
+          "Successfully managed the network infrastructure and server environment for 150+ users and 300+ PC and network systems",
+          "Responsible for the training and development of 8 technicians and project coordinators within my team"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Information Systems Technician",
+      "url": "",
+      "startDate": "2008-07",
+      "endDate": "2014-07",
+      "summary": "Utilized IT expertise to support communications efforts in Operation Iraqi Freedom and Operation New Dawn, focusing on network security, Microsoft-based programs, and the installation and maintenance of affiliated hardware."
+    }
+  ],
+ 
+  "education": [
+    {
+      "institution": "University of Houston",
+      "url": "",
+      "area": "Computer & Information Science",
+      "studyType": "Masters",
+      "startDate": "",
+      "endDate": "2015",
+      "score": "",
+      "courses": [
+        "Coursework in Operating Systems and System Programming",
+        "Coursework in Computer Networking and Information Technology"
+      ]
+    },
+    {
+      "institution": "University of Maryland University College",
+      "url": "",
+      "area": "Management of Information Systems",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "2011",
+      "score": "4.0",
+      "courses": [
+        "Coursework in Computer Networking and Information Technology"
+      ]
+    }
+  ],
+  
+  "skills": [
+    {
+      "name": "IT skills",
+      "level": "",
+      "keywords": [
+        "System administration",
+        "Windows Server 2003",
+        "Windows Server 2008",
+        "VMware",
+        "Active Directory",
+        "Microsoft Exchange 2013",
+        "Large computer networks",
+        "Linux",
+        "Mac OS",
+        "Microsoft Dynamics",
+        "Access Control Security"
+      ]
+    }
+  ],
+
+  "languages": [],
+
+  "certificates": [
+    {
+        "name": "Certified Naval Information Systems Technician – First Class Petty Officer (E6)",
+        "date": "",
+        "issuer": "",
+        "url": ""
+    },
+    {
+        "name": "Information Systems Security Professional (CISSP)",
+        "date": "",
+        "issuer": "",
+        "url": ""
+    },
+    {
+        "name": "Microsoft Certified Systems Administrator (MCSA)",
+        "date": "",
+        "issuer": "",
+        "url": ""
+    },
+    {
+        "name": "PMI - Project Management Professional (PMP)",
+        "date": "",
+        "issuer": "",
+        "url": ""
+    },
+    {
+        "name": "ISA - Certified Automation Professional",
+        "date": "",
+        "issuer": "",
+        "url": ""
+    },
+    {
+        "name": "Cisco Certified Network Associate (CCNA)",
+        "date": "",
+        "issuer": "",
+        "url": ""
+    },
+    {
+        "name": "Certified Network Professional (CCNP)",
+        "date": "",
+        "issuer": "",
+        "url": ""
+    },
+    {
+        "name": "Certified Security Professional (CCSP)",
+        "date": "",
+        "issuer": "",
+        "url": ""
+    },
+    {
+        "name": "Video Teleconference Certified Expert",
+        "date": "",
+        "issuer": "",
+        "url": ""
+    },
+    {
+        "name": "CompTIA Security+",
+        "date": "",
+        "issuer": "",
+        "url": ""
+    },
+    {
+        "name": "Network+",
+        "date": "",
+        "issuer": "",
+        "url": ""
+    },
+    {
+        "name": "A+",
+        "date": "",
+        "issuer": "",
+        "url": ""
+    }
+  ],
+
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "volunteer": [],
+  "awards": [],
+  "publications": []
+}

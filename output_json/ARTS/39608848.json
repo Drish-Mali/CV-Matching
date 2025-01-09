@@ -1,0 +1,150 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Marketing Manager",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "To use my skills, knowledge and enthusiasm to advance the public image and credibility of a business-driven company, in a manner consistent with its existing core values. Almost twenty years of experience in providing top-quality customer service, office management, Marketing, and public relations both for private corporations and non-profit organizations. This includes the ability to execute a successful event or project from vision to completion.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Marketing Manager",
+      "url": "",
+      "startDate": "2011-11",
+      "endDate": "2016-10",
+      "summary": "Drive strategic marketing planning as well as tactical execution for the 6 regions. Work with Executive, Sales, and Engineer teams. Managed Marketing Department staffing and Market Development Funds.",
+      "highlights": [
+        "Managed marketing communications",
+        "Built relationships with regional marketing, sales, and technology vendors",
+        "Pursued and coordinated sponsorship, speaking, tradeshow and event opportunities",
+        "Utilized CRM to execute effective marketing programs",
+        "Provided input and insight into large, complex sales pursuits and written proposals"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Special Events Coordinator",
+      "url": "",
+      "startDate": "2005-02",
+      "endDate": "2011-06",
+      "summary": "Managed seven successful special events, increased community involvement and support, managed activities of 90 volunteers, reported directly of 2 administrative assistants, managed bank transactions and special event software, public relations and event contact for organizations.",
+      "highlights": [
+        "Interacted with FHS administrators and lead community volunteers",
+        "Solicited corporate sponsorships and gifts",
+        "Managed event ticket sales, reservations, and registration",
+        "Research and cultivated prospective event sponsors"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Ticket Office Manager",
+      "url": "",
+      "startDate": "1998-11",
+      "endDate": "2005-02",
+      "summary": "Managed 200 performances a year in 3 different theaters, managed a team, provided financial and statistical reports, managed database using ArtSoft and initiated website and online ticket sales.",
+      "highlights": [
+        "Managed ticket sales and donations",
+        "Member of supervisory team",
+        "Assisted with the creation of promotional advertising"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Pierce Community College",
+      "url": "",
+      "area": "General",
+      "studyType": "Associate of Arts",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Woodrow Wilson High School",
+      "url": "",
+      "area": "",
+      "studyType": "High School",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Franciscan Foundation Scholarship",
+      "date": "2009",
+      "awarder": "Franciscan Foundation",
+      "summary": ""
+    }
+  ],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Microsoft Office Suite",
+      "level": "Expert",
+      "keywords": []
+    },
+    {
+      "name": "Customer service",
+      "level": "Expert",
+      "keywords": []
+    },
+    {
+      "name": "Multi-media marketing",
+      "level": "Expert",
+      "keywords": []
+    },
+    {
+      "name": "Self-directed",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Deadline-driven",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Multi-tasker",
+      "level": "Exceptional",
+      "keywords": []
+    },
+    {
+      "name": "Verbal communicator",
+      "level": "Excellent",
+      "keywords": []
+    },
+    {
+      "name": "Written communicator",
+      "level": "Excellent",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "certificates": [
+    {
+      "name": "One of 4 Marketing Managers chosen in 2015 for a National 9 Month Training",
+      "date": "2015",
+      "issuer": "Company",
+      "url": ""
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "basics": {
+    "name": "Not provided",
+    "label": "Information Technology Director",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "A leader of change for the largest law firm in the Central Pennsylvania area with over 275 in-office users at 6 locations and over 200 work from home users. A visionary in regards to technical business operations, responsible for providing professional staff at various locations with efficient, up-to-date, secure and stable voice and data communications on a daily basis within budget.",
+    "location": {},
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Information Technology Director",
+      "url": "",
+      "startDate": "1999-04",
+      "endDate": "2015-01",
+      "summary": "Directly managed a staff of seven information technical professionals as well as participating in many project implementation teams and initiatives.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "HARRISBURG AREA COMMUNITY COLLEGE",
+      "url": "",
+      "area": "Computer Information Systems",
+      "studyType": "Associate's Degree",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Not provided",
+      "url": "",
+      "area": "Business Administration",
+      "studyType": "Associate's Degree",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "ELIZABETHTOWN COLLEGE",
+      "url": "",
+      "area": "Leadership Program",
+      "studyType": "Master of Business Administration",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Leadership",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Project Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Technical Proficiency",
+      "level": "",
+      "keywords": ["VOIP", "VPN", "Microsoft Office Suite", "Internet Protocols", "Disaster Recovery", "Upgrade Systems", "IT Security"]
+    },
+    {
+      "name": "Vendor Negotiation",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

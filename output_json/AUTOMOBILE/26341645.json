@@ -1,0 +1,135 @@
+{
+  "basics": {
+    "name": "",
+    "label": "SR BUSINESS SYSTEMS ANALYST",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Motivated and customer-oriented Systems Analyst with strong Analytical and technical skills.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "SR BUSINESS SYSTEMS ANALYST",
+      "url": "",
+      "startDate": "2004-12-01",
+      "endDate": "current",
+      "summary": "Working with several large applications ...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "BUSINESS SYSTEMS ANALYST I/II",
+      "url": "",
+      "startDate": "2003-01-01",
+      "endDate": "2004-12-01",
+      "summary": "Lead BA for the ADP, Kronos and Nextrak applications...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "HRIS CUSTOMER SERVICE SPECIALIST/ HRIS SPECIALIST",
+      "url": "",
+      "startDate": "2001-01-01",
+      "endDate": "2003-01-01",
+      "summary": "Responsible for the delivery of technical...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "EDI COORDINATOR",
+      "url": "",
+      "startDate": "1999-09-01",
+      "endDate": "2001-01-01",
+      "summary": "Established and furthered Trading...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "CUSTOMER SERVICE REPRESENTATIVE",
+      "url": "",
+      "startDate": "1998-11-01",
+      "endDate": "1999-09-01",
+      "summary": "Interfaced with customers, company sales...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "CALL RECEIVER/CUSTOMER SERVICE",
+      "url": "",
+      "startDate": "1998-01-01",
+      "endDate": "1998-11-01",
+      "summary": "Handled emergency road service requests...",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Northeastern University",
+      "url": "",
+      "area": "Management Information Systems",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "2000",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Quincy College",
+      "url": "",
+      "area": "Computer Scientific",
+      "studyType": "Associate of Science",
+      "startDate": "",
+      "endDate": "1998",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Technical Skills",
+      "level": "",
+      "keywords": [
+        "PeopleSoft HCM & Portal, PeopleTools, PeopleSoft Query",
+        "SQL, Oracle, Microsoft SQL Server",
+        "SharePoint, Windows NT, Windows 2003, Terminal Server",
+        "MS Office - Excel, Word, PowerPoint, Project, Publisher, Visio and Access",
+        "Rational Tool (SDT, RQM, Clear Case) , Document Management Systems(PDM & Documentum)",
+        "Kronos Workforce Central (WFC), Kronos Connect, ADP"
+      ]
+    },
+    {
+      "name": "Qualifications",
+      "level": "",
+      "keywords": [
+        "Strong analytical skills",
+        "Test planning and execution",
+        "Project management",
+        "Requirements gathering",
+        "Strong collaborative skills",
+        "Systems development",
+        "Document management",
+        "Systems implementation",
+        "Problem analysis and resolution",
+        "Systems integration"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

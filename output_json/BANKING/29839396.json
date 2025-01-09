@@ -1,0 +1,79 @@
+{
+  "basics": {
+    "name": "not provided",
+    "label": "Investment Banking Summer Analyst",
+    "image": "",
+    "email": "not provided",
+    "phone": "not provided",
+    "url": "not provided",
+    "summary": "not provided",
+    "location": {
+      "address": "not provided",
+      "postalCode": "not provided",
+      "city": "not provided",
+      "countryCode": "not provided",
+      "region": "not provided"
+    },
+    "profiles": [
+      {
+        "network": "not provided",
+        "username": "not provided",
+        "url": "not provided"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Investment Banking Summer Analyst",
+      "url": "not provided",
+      "startDate": "2013-05-01",
+      "endDate": "2013-08-01",
+      "summary": "Advised on $1.2B sell-side M&A deal, completed buy-side M&A screen, and contributed to 11 total project teams ...",
+      "highlights": ["Increased sales earnings by 20% in the Junior's Department for the period of June to August"]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Cadet For A Day, Inc.",
+      "position": "Founder/President",
+      "url": "not provided",
+      "startDate": "2011-11-01",
+      "endDate": "not provided",
+      "summary": "Founded and direct national 501 (c)3 non-profit spanning 3 states ...",
+      "highlights": ["Raised $56K for annual budget"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Undergraduate School",
+      "url": "not provided",
+      "area": "Aeronautical Engineer",
+      "studyType": "Bachelor",
+      "startDate": "not provided",
+      "endDate": "2015-05-01",
+      "score": "4.0",
+      "courses": ["Introduction to Finance Theory", "Probability & Statistics", "Multivariable Calculus", "Thermodynamics I & II"]
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Java, C+, Python, App development",
+      "level": "not provided",
+      "keywords": ["Java", "C+", "Python", "App development"]
+    }
+  ],
+  "languages": [
+    ],
+  "interests": [
+    {
+      "name": "Volleyball, CrossFit, World Cup",
+      "keywords": [ "Volleyball", "CrossFit", "World Cup"]
+    }
+  ],
+  "references": [],
+  "projects": []
+}

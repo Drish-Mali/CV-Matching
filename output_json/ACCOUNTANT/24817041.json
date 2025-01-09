@@ -1,0 +1,105 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Accountant",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Accountant",
+      "url": "",
+      "startDate": "2016-03",
+      "endDate": "2018-03",
+      "summary": "Reconcile bank accounts daily Process accounts payable Maintain general ledgers Create and modify existing Excel documents Maintain and process payroll Maintain accounting system Perform month-end procedures and account reconciliations Create and modify existing journal entries Perform accounting data reconciliations and verifications Prepare and file 1099s, 941s, 940s, W-2s, and C-3s Pay payroll taxes every pay period using the Electronic Federal Tax Payment System (EFTPS) Roll over tax and fiscal years at year-end and perform all closing procedures Organize and prepare files for yearly audit.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Office Assistant",
+      "url": "",
+      "startDate": "2015-06",
+      "endDate": "2015-08",
+      "summary": "Answer phone. Deliver mail. Help professors maintain Excel documents. Organize papers for professors.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Assistant",
+      "url": "",
+      "startDate": "2014-05",
+      "endDate": "2014-08",
+      "summary": "Maintain Excel spreadsheets.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Texas A&M Commerce",
+      "url": "",
+      "area": "Accounting",
+      "studyType": "Masters of Science",
+      "startDate": "",
+      "endDate": "2017-12",
+      "score": "3.58",
+      "courses": []
+    },
+    {
+      "institution": "Baylor University",
+      "url": "",
+      "area": "Accounting",
+      "studyType": "Bachelor of Business Administration",
+      "startDate": "",
+      "endDate": "2015-08",
+      "score": "3.0",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "President's Gold Scholarship",
+      "date": "",
+      "awarder": "",
+      "summary": "Awarded 7,500/year for exemplary academic performance in high school and maintaining 3.0 cumulative GPA in undergrad."
+    }
+  ],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Accounting",
+      "level": "",
+      "keywords": [
+        "account reconciliations",
+        "accounting system",
+        "accounts payable",
+        "process payroll",
+        "spreadsheets"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [
+    {
+      "name": "Golf Club Maintenance",
+      "keywords": [
+        "Maintain golf carts and driving range"
+      ]
+    }
+  ],
+  "references": [],
+  "projects": []
+}

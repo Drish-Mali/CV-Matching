@@ -1,0 +1,122 @@
+{
+  "basics": {
+    "name": "Jennifer Bodek",
+    "label": "Administrative Assistant",
+    "email": "",
+    "phone": "",
+    "summary": "Experienced Administrative Assistant with extensive background providing support to college Dean of Student Success, Associate Vice President of Student Affairs and Vice President of Student Affairs. Technically proficient, with experience in using wide range of computer software and systems. Provided support and counsel on projects requiring confidentiality, independent thinking, and competence. Processed budgetary issues, employee records. Triaged and managed student needs. Assisted in college wide committees and projects.",
+    "location": {
+      "city": "",
+      "countryCode": "US",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Administrative Assistant",
+      "url": "",
+      "startDate": "2013-07-01",
+      "endDate": "Current",
+      "summary": "Responsible for administrative support functions for division Dean. Maintain schedule and coordinate plans for meetings, including logistical, catering and technical needs. Provide support services for department faculty. Supervision/Management Provide oversight for the federal student worker. Process and approve payroll for staff and student worker. Budgetary Support Maintain budget for School of Education Undergraduate and Graduate programs. Process requisitions and purchase orders for all School of Education budget lines. Maintain accurate accounting records. Track and manage travel plans and budget.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Administrative Assistant",
+      "url": "",
+      "startDate": "2005-01-01",
+      "endDate": "2011-01-01",
+      "summary": "Provide administrative support to the Dean of Student Success and Vice President of Student Affairs. Coordinate and prepare all files for discipline and judiciary level actions for both the student and the Judicial Hearing Board. Maintain schedule and coordinate plans for meetings, including logistical, catering and technical needs. Develop metrics on student servicing levels. Provide support services for a professional staff of forty.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Administrative Assistant",
+      "url": "",
+      "startDate": "1999-01-01",
+      "endDate": "2004-01-01",
+      "summary": "Assisted with all daily functions of a small family-owned sign shop. Learned use of CASmate and CASwin software to perform basic sign design. Assisted with converting all customer information in paper files to business software. Maintained office and sign production supplies. Researched vendors to ensure getting lowest possible costs to maintain competitive pricing.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Administrative Assistant",
+      "url": "",
+      "startDate": "1998-01-01",
+      "endDate": "1999-01-01",
+      "summary": "Performed all front desk receptionist operations, including answering phones and scheduling appointments. Organized small office filing system to better match newer insurance reimbursement procedures. Submitted insurance reimbursement forms for office as well as patients. Provided customers with reminder calls for routine check up scheduling.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Albright College",
+      "area": "Business Administration",
+      "studyType": "Bachelor of Science",
+      "startDate": "2013-01-01",
+      "endDate": "2013-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "",
+      "area": "",
+      "studyType": "Master of Science",
+      "startDate": "2016-01-01",
+      "endDate": "2016-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Montgomery County Community College",
+      "area": "Liberal Studies",
+      "studyType": "Associate",
+      "startDate": "2006-01-01",
+      "endDate": "2006-12-31",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Microsoft Office Suite",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Datatel",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Power Campus",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "BlackBoard",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Student Affairs Record System (SARS)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "ImageNow",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Siemens (Call Center Software)",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": []
+}

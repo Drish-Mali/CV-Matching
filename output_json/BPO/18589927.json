@@ -1,0 +1,101 @@
+{
+  "basics": {
+    "name": "YENI MALDONADO",
+    "label": "Customer Services",
+    "email": "",
+    "phone": "",
+    "summary": "Professional in Economics with 7+ years of experience in the financial sector, as administrative assistant, manager, analyst and customer services.",
+    "location": {
+      "city": "City",
+      "countryCode": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Customer Services",
+      "startDate": "2016-07",
+      "endDate": "2016-11",
+      "summary": "Support english and spanish incoming call flow. Provide information to new and existing customers. Navigate computer systems to properly conduct the objective of the campaign."
+    },
+    {
+      "name": "Company Name",
+      "position": "Manager - BPO Analyst",
+      "startDate": "2013-06",
+      "endDate": "2015-05",
+      "summary": "Lead Team of 15 professionals. Risk management for Citibank International. Record national and international ACH transactions. Create monthly reports. Define strategy and business plan."
+    },
+    {
+      "name": "Company Name",
+      "position": "Financial Assistant - Trader",
+      "startDate": "2008-10",
+      "endDate": "2013-05",
+      "summary": "Support the financial investment area in buying and selling financial assets. Advise the customer with their investments. Find solutions to customer's necessities through e-mail and phone calls."
+    }
+  ],
+  "education": [
+    {
+      "institution": "City Colombia Economics",
+      "area": "Economics",
+      "studyType": "Bachelor of Science",
+      "startDate": "2014",
+      "endDate": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Attention to detail",
+      "level": ""
+    },
+    {
+      "name": "Billing",
+      "level": ""
+    },
+    {
+      "name": "Customer Services",
+      "level": ""
+    },
+    {
+      "name": "data Analysis",
+      "level": ""
+    },
+    {
+      "name": "Documentation",
+      "level": ""
+    },
+    {
+      "name": "e-mail",
+      "level": ""
+    },
+    {
+      "name": "English",
+      "level": ""
+    },
+    {
+      "name": "organize files",
+      "level": ""
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Portuguese",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "volunteer": [],
+  "awards": [],
+  "publications": [],
+  "projects": [],
+  "certificates": []
+}

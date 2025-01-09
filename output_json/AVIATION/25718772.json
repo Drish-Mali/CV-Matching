@@ -1,0 +1,85 @@
+{
+  "basics": {
+    "name": "TSO/FLOATER",
+    "label": "IT specialist",
+    "summary": "IT specialist versed in software administration and data communications. Highly skilled Personal Computer Support Technician offering vast knowledge of network security at desktop, server and internet levels.",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "TSO/Floater, Customer Service Representative, Aviation Mechanic/Military Police Officer",
+      "url": "",
+      "startDate": "2008-08",
+      "endDate": "2015-01",
+      "summary": "Worked various positions including security, customer service, and military police.",
+      "highlights": ["Developed and communicated Web site usage, security policies and standards to all users.",
+                     "Successfully trained 25 employees to use new operating system.",
+                     "Managed all clients network LAN/WAN hardware including routers, switches, load balancers and wireless networking equipment."
+                    ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Lincoln Technical Institute",
+      "url": "",
+      "area": "Personal Computer Support Technician",
+      "studyType": "Diploma",
+      "startDate": "2004",
+      "endDate": "",
+      "score": "3.2",
+      "courses": ["Emphasis in Mous Training"]
+    },
+    {
+      "institution": "Job Corps",
+      "url": "",
+      "area": "Electronic Systems Technician",
+      "studyType": "Certificate",
+      "startDate": "2003",
+      "endDate": "",
+      "score": "",
+      "courses": ["Coursework in Industrial Manufacturing", "Safety Engineering", "Tooling Technology Manufacturing and Process Technology"]
+    },
+    {
+      "institution": "Fairmont Heights High School",
+      "url": "",
+      "area": "General Education",
+      "studyType": "Diploma",
+      "startDate": "1998",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Java Developer",
+      "level": "",
+      "keywords": ["Sun Certified", "Web content management", "Technical help desk experience", "Proficiency in MCP/IP protocols",
+                   "CISCO Certified Network Associate (CCNA)",
+                   "Document management", "Strong analytical skills", "Optimizing and performance tuning",
+                   "GUI and tools", "Testing", "UNIX/LINUX", "Excellent problem solving skills",
+                   "Strong collaborative skills", "Knowledge of streaming video platforms"
+                  ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

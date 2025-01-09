@@ -1,0 +1,141 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Staffing Coordinator",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "An energetic staffing professional seeking challenging experiences in Talent Acquisition and Talent Management. Solid communication, interpersonal, and organizational skills. Experience in working with upper management and executives to coordinate meetings, travel arrangements and onboarding of new employees.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": [
+      {
+        
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Staffing Coordinator",
+      "url": "",
+      "startDate": "07/2015",
+      "endDate": "Current",
+      "summary": "Partnering with US Staffing Representatives by scheduling interviews. Coordinating travel arrangements for domestic candidates while maintaining HR data through Taleo systems. Responsible for processing reports on a weekly basis within Taleo. Formed relationships with hiring managers, administrative assistants, and staffing agencies.",
+      "highlights": [
+        "Event Coordination",
+        "Microsoft Word, Excel, PowerPoint, Outlook, SharePoint",
+        "Training and experience in Infovision II, Retail Link, and Spectra databases",
+        "BrassRing and Taleo candidate tracking systems"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Staffing Coordinator",
+      "url": "",
+      "startDate": "04/2013",
+      "endDate": "06/2015",
+      "summary": "Partnered with US Medical Products and BioScience Staffing Representatives by scheduling interviews. Coordinated travel arrangements for domestic candidates while maintaining HR data through BrassRing and Taleo systems. Processed invoices and special payment requests for traveling candidates and tracked the progress to completion.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Staffing Coordinator Contractor",
+      "url": "",
+      "startDate": "06/2012",
+      "endDate": "03/2013",
+      "summary": "Partner with US Medical Products and BioScience recruiters by scheduling interviews for candidates located in the US and abroad and travel arrangements for domestic candidates while maintaining HR data through BrassRing.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Department Supervisor",
+      "url": "",
+      "startDate": "08/2007",
+      "endDate": "04/2012",
+      "summary": "Supervisor of various departments with different responsibilities.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Junior Achievement Company Program",
+      "position": "Volunteer",
+      "url": "",
+      "startDate": "11/2013",
+      "endDate": "05/2014",
+      "summary": "Volunteered to help mentor students at Round Lake High School in the Company program. Helped to answer questions as students created a business that they launched to sell products to their school and their community.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "John Brown University",
+      "url": "",
+      "area": "International Business",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "5/2007",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Staffing",
+      "level": "Professional",
+      "keywords": [
+        "Administrative",
+        "Customer Service",
+        "Data Entry",
+        "Event Coordination",
+        "Merchandising",
+        "Networking",
+        "Reporting",
+        "Scheduling",
+        "Travel Arrangements"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Intermediate"
+    },
+    {
+      "language": "Japanese",
+      "fluency": "Beginner"
+    },
+    {
+      "language": "French",
+      "fluency": "Beginner"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Outdoor Activities",
+      "keywords": [
+        "Kayaking",
+        "Swimming"
+      ]
+    },
+    {
+      "name": "Singing",
+      "keywords": [
+        "Choirs at Church",
+        "Community Choir"
+      ]
+    }
+  ],
+  "references": [],
+  "projects": []
+}

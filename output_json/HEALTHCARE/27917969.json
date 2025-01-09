@@ -1,0 +1,109 @@
+{
+  "basics": {
+    "name": "",
+    "label": "EXECUTIVE DIRECTOR",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Forward-thinking Executive with proven record of accomplishment in Healthcare industry. Driven and ambitious change leader dedicated to continuous business improvement focused on enhancing revenue, streamlining business operations, and improving the user experience. Passionate about developing teams and individuals while providing mentorship and coaching.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "State",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "EXECUTIVE DIRECTOR",
+      "url": "",
+      "startDate": "10/2017",
+      "endDate": "09/2019",
+      "summary": "Developed strategy and led implementation of an end-to-end employer service model focused on Employer Groups and Brokers resolving and avoiding escalated issues. Fostered a culture focused on achieving high customer satisfaction and streamlined operations. Formalized and delivered new service model strategy focused on customer-centric issue resolution and increased first-touch resolution.",
+      "highlights": [
+        "Launched new employer service teams on advanced service model to include organizational redesign.",
+        "Setting of team strategic vision, and inspiring service-oriented culture within 6 months.",
+        "Initiated new data reporting and analytics to drive data-driven process improvements with issue resolution timelines averaging less than 48 hrs.",
+        "Achieved employer, broker, and sales & account management satisfaction to contribute to employer and broker retention."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "EXECUTIVE DIRECTOR",
+      "url": "",
+      "startDate": "03/2004",
+      "endDate": "10/2017",
+      "summary": "Directed and mentored cross-functional teams focused on health plan product development process to attract and retain new members. Developed and implemented key organizational strategies and new products to empower health care members to navigate and utilize healthcare services.",
+      "highlights": [
+        "Steered efforts towards the creation and mobilization of multi-year national product investment portfolio achieving over $500 million in revenue driven from digital enhancements, operational improvements and new product offerings.",
+        "Produced and directed $50 million market-driven product investment portfolio resulting in detailed business cases, product roadmap, product and timeline requirements.",
+        "Led development of new capabilities with demonstrated revenue performance on integrated healthcare delivery system."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "UNIVERSITY OF CENTRAL FLORIDA",
+      "url": "",
+      "area": "Healthcare Administration",
+      "studyType": "Master of Science",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "UNIVERSITY OF CENTRAL FLORIDA",
+      "url": "",
+      "area": "Biology",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Product Development",
+      "level": "Expert",
+      "keywords": []
+    },
+    {
+      "name": "Product Management",
+      "level": "Expert",
+      "keywords": []
+    },
+    {
+      "name": "Revenue Growth",
+      "level": "Expert",
+      "keywords": []
+    },
+    {
+      "name": "Healthcare User Experience Design",
+      "level": "Expert",
+      "keywords": []
+    },
+    {
+      "name": "Change Management",
+      "level": "Master",
+      "keywords": []
+    },
+    {
+      "name": "Teaming and Relationship Building",
+      "level": "Master",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

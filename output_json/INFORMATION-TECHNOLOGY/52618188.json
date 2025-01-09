@@ -1,0 +1,94 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Information Technology Help Desk Specialist",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Information Technology professional with expertise in help desk support, quality assurance, business operations, and customer service.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "USA",
+      "region": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Information Technology Help Desk Specialist",
+      "url": "",
+      "startDate": "2014-08-01",
+      "endDate": "Current",
+      "summary": "Diagnose and resolve technical hardware and software issues for incoming phone calls and emails while ensuring detailed documentation on all activity and communication with customers.",
+      "highlights": ["Business process improvement", "Cost-benefit analysis", "Forecasting and planning", "Advanced Excel modeling"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Quality Assurance IT Analyst",
+      "url": "",
+      "startDate": "2011-09-01",
+      "endDate": "2014-01-01",
+      "summary": "Organize and follow complex and detailed technical procedures.",
+      "highlights": ["Project management", "Advanced problem solving abilities", "Critical thinking", "Decisive"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Business Operations Analyst",
+      "url": "",
+      "startDate": "2008-09-01",
+      "endDate": "2011-01-01",
+      "summary": "Provided accurate and detailed reporting to executive management daily monthly and quarterly metrics and reporting.",
+      "highlights": ["Superb communication skills", "Supply Chain Assistant"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Customer Service Professional",
+      "url": "",
+      "startDate": "2007-03-01",
+      "endDate": "2008-08-01",
+      "summary": "Responsible for entering orders and resolving customer issues for many different products using the SAP/CRM and Remedy tool.",
+      "highlights": ["Timely and courteous manner", "Effective support delivery and resolutions"]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Sam Houston State University",
+      "url": "",
+      "area": "Business Administration",
+      "studyType": "BBA",
+      "startDate": "",
+      "endDate": "2015",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Information Technology",
+      "level": "",
+      "keywords": ["Active Directory", "Avaya", "Cognos", "CRM", "EDI", "ERP", "Great Plains", "JD Edwards", "Microsoft Excel", "Microsoft Outlook", "Novell", "Oracle", "PeopleSoft", "SAP"]
+    },
+    {
+      "name": "Business Skills",
+      "level": "",
+      "keywords": ["Business process", "Cost-benefit analysis", "Forecasting and planning", "Supply Chain Assistance"]
+    },
+    {
+      "name": "Problem Solving",
+      "level": "Advanced",
+      "keywords": ["Business requirements matrixes", "Project management", "Advanced problem solving abilities", "Critical thinking"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

@@ -1,0 +1,167 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Online Learning Coordinator - Program Training and Support",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "To effectively and innovatively influence student and staff knowledge and skills with learning technologies and learning management systems through support and online education.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Online Learning Coordinator - Program Training and Support",
+      "url": "",
+      "startDate": "2013-10",
+      "endDate": "",
+      "summary": "Online Learning Coordinator duties",
+      "highlights": [
+        "Created and presented district staff development sessions for district purchased online software programs for RtI and General Education settings",
+        "Designed implementation plans and strategies for all learning technologies in the district"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Certified Classroom Teacher",
+      "url": "",
+      "startDate": "2007-08",
+      "endDate": "2013-10",
+      "summary": "Certified Classroom Teacher duties",
+      "highlights": [
+        "Presented district staff development sessions for district purchased online software programs for RtI and General Education settings"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Language Arts Teacher",
+      "url": "",
+      "startDate": "2005-08",
+      "endDate": "2007-06",
+      "summary": "Language Arts Teacher duties",
+      "highlights": ["Implement district purchased online software programs within daily curriculum"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Language Arts Teacher",
+      "url": "",
+      "startDate": "2003-08",
+      "endDate": "2005-06",
+      "summary": "Language Arts Teacher duties",
+      "highlights": ["Implement district purchased online software programs within daily curriculum"]
+    }
+  ],
+
+  "education": [
+    {
+      "institution": "Southwest Texas State University",
+      "url": "",
+      "area": "Criminal Justice",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "1998-12",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Lone Star College",
+      "url": "",
+      "area": "Educator Certification",
+      "studyType": "Teacher Certification",
+      "startDate": "",
+      "endDate": "2013-10",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "University of Phoenix",
+      "url": "",
+      "area": "Information Technology",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Lamar University",
+      "url": "",
+      "area": "Educational Leadership and Technology Integration",
+      "studyType": "Master of Arts",
+      "startDate": "",
+      "endDate": "2016",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Learning Management System",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Learning Technologies",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Technology Integration",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Online Programs",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "awards": [
+    {
+      "title": "ESL Teacher of the Year",
+      "date": "2006-2007",
+      "awarder": "Plummer Middle School",
+      "summary": ""
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certified Trainer of Trainers (ToT) for SIOP implementation in the classroom",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "Abydos Learning International (New Jersey Writing Project in Texas) Certified Trainer",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "TEA Certified English, Language Arts, and Reading",
+      "date": "",
+      "issuer": "4-8 TEA Certified English as a Second Language (Supplementary)� K-12",
+      "url": ""
+    },
+    {
+      "name": "TEA Certified Social Studies",
+      "date": "",
+      "issuer": "4-8 Harris County Department of Education Certified Virtual School Teacher (9-12)",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "volunteer": []
+}

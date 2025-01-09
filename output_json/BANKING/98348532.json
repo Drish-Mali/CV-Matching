@@ -1,0 +1,121 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Teradata Senior Associate Consultant",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Highly dependable Teradata Database Engineer successful at troubleshooting and debugging. Supportive and enthusiastic team player dedicated to streamlining processes and efficiently resolving project issues.",
+    "location": {},
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Teradata Senior Associate Consultant",
+      "url": "",
+      "startDate": "2014-12-01",
+      "endDate": "Current",
+      "summary": "iOS Mobile Application for Business Analytics Reporting project. Implementing and coordinating all the offshore development from on site from assigning the job till code delivery and signoff with the support of Teradata14, Oracle PL/SQL, BTEQ, Basic Unix as working environment.",
+      "highlights": ["Developed custom database designs which is used for strong and fast analytical report for wider audience across the organization."]
+    },
+    {
+      "name": "Company Name",
+      "position": "Senior Associate Consultant",
+      "url": "",
+      "startDate": "2012-03-01",
+      "endDate": "2014-12-01",
+      "summary": "Development and maintenance of semantic/downstream layer in a data warehouse for Business user reporting project. Involved in complete software development life cycle including requirements gathering, analysis, design, development, testing, implementation and deployment with the support of Teradata14, BTEQ, Basic Unix, Oracle as working environment.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Software Engineer",
+      "url": "",
+      "startDate": "2009-01-01",
+      "endDate": "2012-03-01",
+      "summary": "Data Warehousing Services where all processes from end-to-end change to service lifecycle including build, schedule and infrastructure support, service desk, risk and compliance and service and finance management has been managed. Prepared high level design document for developers and involved in complete software development life cycle.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "JNTU",
+      "url": "",
+      "area": "Computer and Science Engineering",
+      "studyType": "Bachelor of Technology",
+      "startDate": "",
+      "endDate": "",
+      "score": "71.68",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Database Engineering",
+      "level": "",
+      "keywords": [
+        "Data Warehouse knowledge",
+        "Database design",
+        "Oracle SQL",
+        "SDLC",
+        "Teradata",
+        "SQL Testing",
+        "Unit Testing",
+        "Business Requirements Gathering",
+        "Change Management planning",
+        "Configuration Management planning",
+        "Data Analysis",
+        "Data Mart Development",
+        "Code Deployment",
+        "Feasibility Analysis",
+        "Integration Testing",
+        "Application Maintenance",
+        "Meta data Analysis",
+        "Teradata PL/SQL",
+        "Teradata BTEQ",
+        "Teradata Fastload",
+        "Requirements Gathering",
+        "Semantic database design",
+        "Technical Design",
+        "Technical Specifications documents",
+        "UAT",
+        "Basic UNIX"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": [
+    {
+      "name": "iOS Mobile Application for Business Analytics Reporting",
+      "startDate": "",
+      "endDate": "",
+      "description": "Developing Oracle and Teradata layers for pushing data to iOS Mobile Application",
+      "highlights": [],
+      "url": ""
+    },
+    {
+      "name": "Development and maintenance of semantic/downstream layer in a data warehouse for Business user reporting",
+      "startDate": "",
+      "endDate": "",
+      "description": "Aiming on building and maintaining a data mart on Enterprise Data warehouse, increase the efficiency of the reporting, support business users in performing, more robust analytical reporting and decision making capability.",
+      "highlights": [],
+      "url": ""
+    },
+    {
+      "name": "Data Warehousing Services",
+      "startDate": "",
+      "endDate": "",
+      "description": "Managing the platform infrastructure hosting data from the Group's operational systems providing the capability for users or operational systems to query and extract the information as required",
+      "highlights": [],
+      "url": ""
+    }
+  ]
+}

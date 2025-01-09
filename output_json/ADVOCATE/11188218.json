@@ -1,0 +1,94 @@
+{
+  "basics": {
+    "name": "Customer Advocate",
+    "label": "Administrative Specialist/Office Manager",
+    "email": "",
+    "phone": "",
+    "summary": "An administrative specialist with outstanding customer service skills and technological proficiency. Proficient in various softwares including Microsoft Office Suite, Quatro Pro, Peachtree Accounting, Timeslips 2007, Dictation, ITI Banking Software.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Customer Advocate",
+      "startDate": "2007-09-01",
+      "endDate": "2015-03-01",
+      "summary": "Answered a high volume of incoming calls in a national call center from current and prospective customers as well as sales associates. Administered device-related troubleshooting, kept records of customer interactions, and maintained knowledge on changing services and products.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Legal Secretary",
+      "startDate": "2006-01-01",
+      "endDate": "2007-05-01",
+      "summary": "Prepared legal documents and performed accounting duties. Greeted clients and scheduled appointments.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Administrative Assistant/Customer Service Rep",
+      "startDate": "2005-08-01",
+      "endDate": "2006-01-01",
+      "summary": "Worked directly with the President and the Chief Financial Officer to schedule, plan meetings and events, and booked travel arrangements.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Retail Banking Representative II",
+      "startDate": "2002-06-01",
+      "endDate": "2003-08-01",
+      "summary": "Provided customer service, assisting customers with account inquiries. Handled account opening, problem-solving and financial product cross-selling.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Doane College",
+      "area": "Fine Art and Biology",
+      "studyType": "Bachelor of Arts",
+      "startDate": "",
+      "endDate": "1985",
+      "score": "3.44",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Presidents Scholarship",
+      "date": "",
+      "awarder": "Doane College",
+      "summary": "4 years"
+    }
+  ],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Office and accounting",
+      "level": "",
+      "keywords": ["accounts payable", "accounts receivable", "payroll", "billing", "taxes"]
+    },
+    {
+      "name": "Customer service excellence",
+      "level": "",
+      "keywords": ["personal banker", "national call center representative for major wireless company", "secretary for President of a college", "secretary for a lawyers office"]
+    },
+    {
+      "name": "Problem solving and critical thinking",
+      "level": "",
+      "keywords": ["billing", "service", "sales", "wireless network troubleshooting", "wireless device troubleshooting"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

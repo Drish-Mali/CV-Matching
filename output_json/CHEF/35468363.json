@@ -1,0 +1,69 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Sushi Chef",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "14 years experience in high-end restaurants with a background in French, Japanese and Peruvian Cuisine. Expertise in all facets of kitchen management, including Food cost Percentage, labor cost budgeting, scheduling, menu developing and strategic planning.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "US",
+      "region": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Sushi Chef",
+      "url": "",
+      "startDate": "2005-05-1",
+      "endDate": "2011-11-1",
+      "summary": "In charge of daily operation in the sushi bar, quality control, monthly inventory, menu developing, scheduling for 10 employees.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Executive Sous Chef",
+      "url": "",
+      "startDate": "2011-11-1",
+      "endDate": "2015-01-1",
+      "summary": "In charge of daily operations, menu developing, Monthly inventory, scheduling for 50 people.",
+      "highlights": []
+    }, 
+    {
+      "name": "Company Name",
+      "position": "Corporate Chef",
+      "url": "",
+      "startDate": "2016-01-1",
+      "endDate": "Current",
+      "summary": "In charge of daily operations of all restaurants, Menu developing, Scheduling for 90 people, Food Cost Percentage, Labor Cost control, Hiring, Monthly Inventory.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Le Cordon Bleu",
+      "url": "",
+      "area": "culinary arts",
+      "studyType": "Associate of Arts",
+      "startDate": "2006",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

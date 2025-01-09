@@ -1,0 +1,80 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Proposal Coordinator",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "State",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Proposal Coordinator",
+      "url": "",
+      "startDate": "2013-03",
+      "endDate": "2014-07",
+      "summary": "Prepare, coordinate, manage and revise maintenance and modification proposals for the Regional Sales Managers for the domestic and international network of Bombardier Aircraft Services facilities. Coordinate scheduling with Bombardier Aircraft Services facility planning and Special Programs out of Montreal. Solicit requests for quote for paint and interior repairs and modifications with internal BAS departments and external vendors.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Regional Sales Manager",
+      "url": "",
+      "startDate": "2007-10",
+      "endDate": "2013-03",
+      "summary": "Manage, assist and maintain Bombardier wide-body and narrow-body aircraft operators in Texas and surrounding states. Operator management includes maintenance scheduling; maintenance proposals; presentation and negotiations of proposals, schedule and terms & conditions. Assist operators with AOG; Scheduled and unscheduled maintenance events; Invoicing, parts and warranty issues; Airframe and avionic modifications; Interiors and Paint and AD/Service Bulletin compliance. Maintain and build operator relationships through Amazing Customer Experience program, face-to-face visits and exceptional customer service and support. In 2012, I was the Top Regional Sales Manager in Sales, Customer Satisfaction and Proposal Satisfaction categories.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Senior MRO Sales Manager",
+      "url": "",
+      "startDate": "2005-10",
+      "endDate": "2007-06",
+      "summary": "Perform sales and marketing of aircraft heavy maintenance, modifications, structural & composite component repair, and line maintenance to the Cargo, Charter, Commercial and Regional Aviation industries in the domestic and international markets. Prepared, proposed and negotiated aircraft heavy maintenance, structural & composite component repair and line maintenance proposals and contracts.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Lewis University",
+      "url": "",
+      "area": "Aviation Maintenance and Management",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "account management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "accounting",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

@@ -1,0 +1,158 @@
+{
+  "basics": {
+    "name": "N/A",
+    "label": "Director of Marketing, Communications and IT",
+    "image": "",
+    "email": "N/A",
+    "phone": "N/A",
+    "url": "N/A",
+    "summary": "Core Accomplishments Initiated a student leadership development program resulting in graduates in position of decision-making responsibility.",
+    "location": {
+      "address": "N/A",
+      "postalCode": "N/A",
+      "city": "N/A",
+      "countryCode": "N/A",
+      "region": "N/A"
+    },
+    "profiles": [
+      {
+        "network": "N/A",
+        "username": "N/A",
+        "url": "N/A"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Director of Marketing, Communications and IT",
+      "url": "N/A",
+      "startDate": "2013-02-01",
+      "endDate": "Current",
+      "summary": "Develop strategies based on knowledge of policy, nature of market and trend projections to facilitate growth as well as aid in resiliency planning for the College.",
+      "highlights": [
+        "Developed creative and specialized curriculum"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Web Developer",
+      "url": "N/A",
+      "startDate": "2003-01-01",
+      "endDate": "2012-01-31",
+      "summary": "Consulted with customers to perform needs analysis, determine project scope and define problem solutions that focus on increasing client revenue and ROI.",
+      "highlights": [
+        "Designed various types of e-media"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "The University of Georgia",
+      "url": "N/A",
+      "area": "Executive Leadership Program",
+      "studyType": "LEAD21",
+      "startDate": "2015-01-01",
+      "endDate": "2015-12-31",
+      "score": "N/A",
+      "courses": []
+    },
+    {
+      "institution": "University of Phoenix",
+      "url": "N/A",
+      "area": "Marketing",
+      "studyType": "MBA",
+      "startDate": "2008-01-01",
+      "endDate": "2008-12-31",
+      "score": "N/A",
+      "courses": []
+    },
+    {
+      "institution": "Southern Methodist University",
+      "url": "N/A",
+      "area": "Software Applications",
+      "studyType": "Microsoft Certified Systems Engineer (MCSE)",
+      "startDate": "1998-01-01",
+      "endDate": "1998-12-31",
+      "score": "N/A",
+      "courses": []
+    },
+    {
+      "institution": "Prairie View A&M University",
+      "url": "N/A",
+      "area": "Mechanical Engineering, Computer-Aided Design",
+      "studyType": "Bachelor of Science",
+      "startDate": "1994-01-01",
+      "endDate": "1994-12-31",
+      "score": "N/A",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Gold Level Award for Print Publication",
+      "date": "2016-01-01",
+      "awarder": "N/A",
+      "summary": ""
+    },
+    {
+      "title": "Bronze Level Award for Electronic Audio Media Production",
+      "date": "2016-01-01",
+      "awarder": "N/A",
+      "summary": ""
+    },
+    {
+      "title": "ADDY Award for Advertising Creative Excellence",
+      "date": "2014-01-01",
+      "awarder": "N/A",
+      "summary": ""
+    },
+    {
+      "title": "Multi-media Storyteller Award",
+      "date": "2013-01-01",
+      "awarder": "N/A",
+      "summary": ""
+    },
+    {
+      "title": "Distinguished Service Early Career Award",
+      "date": "2012-01-01",
+      "awarder": "N/A",
+      "summary": ""
+    },
+    {
+      "title": "Multi-media Storyteller Award",
+      "date": "2011-01-01",
+      "awarder": "N/A",
+      "summary": ""
+    }
+  ],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Adobe Creative Suite",
+      "level": "Advanced",
+      "keywords": ["Acrobat", "After Effects", "Dreamweaver", "Photoshop", "Premiere"]
+    },
+    {
+      "name": "AutoCAD",
+      "level": "Advanced",
+      "keywords": ["CAD"]
+    },
+    {
+      "name": "Business operations and strategies",
+      "level": "Advanced",
+      "keywords": []
+    },
+    {
+      "name": "Marketing Communications",
+      "level": "Advanced",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

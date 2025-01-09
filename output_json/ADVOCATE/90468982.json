@@ -1,0 +1,77 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Customer Advocate",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Customer care professional pursuing a position in an organization seeking an ardent problem solver, demonstrating immense levels of initiative whilst providing compassionate customer service, with over 4 years of customer relations experience. Eagerly ready to submerge into gaining new skills, while utilizing the skills I have acquired throughout my career to help propel this company to new heights. Recently earned 'Recognizing You!' award for device upgrade sales incentive for customer service. Exceeded corporate target for customer satisfaction for 6 months in a row. Excelled in surpassing daily Target brand Debit and Credit card sales and product protection/replacement plans goals.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Customer Advocate",
+      "url": "",
+      "startDate": "2015-03-01",
+      "endDate": "Current",
+      "summary": "Achieved customer satisfaction rating of 9.80 two months after training, exceeding corporate target of 9.20. Collected customer feedback and made process changes to exceed customer satisfaction goals. Made reasonable procedure exceptions to accommodate unusual customer requests. Addressed customer service inquiries in a timely and accurate fashion. Developed effective relationships with all call center departments through clear communication. Built customer loyalty by placing follow-up calls for customers who reported product issues.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Teller I",
+      "url": "",
+      "startDate": "2014-12-01",
+      "endDate": "2015-03-01",
+      "summary": "Helped customers select products that best fit their personal needs. Processed and issued money orders for customers. Delivered prompt, accurate and excellent customer service. Maintained adequate cash supply in cash drawers in multiple checkout stations. Maintained confidentiality of bank records and client information. Processed cash withdrawals. Examined checks for identification and endorsement.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Night Shift Leader",
+      "url": "",
+      "startDate": "2012-03-01",
+      "endDate": "2014-11-01",
+      "summary": "Balanced daily bank vault inventory and ATM with a zero error rate, while supervising FSA's. Cross-sold promotional products and services while negotiating fees for check cashing. Provided genuine customer service to help grow branch revenue by exceeding customer expectations. Processed 5-7 SAR's per month and about 2 CTR's a month during busy tax season.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Howard W. Blake",
+      "url": "",
+      "area": "",
+      "studyType": "High School",
+      "startDate": "",
+      "endDate": "2009",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Customer Servivce",
+      "level": "",
+      "keywords": [
+        "ATM", "auditing", "call center", "cash handling", "cash register", "credit", "client", "customer satisfaction", "excellent customer service", "customer service", "debit", "fashion", "FSA", "inventory", "money", "negotiating", "policies", "research", "safety", "selling", "sales", "supervising", "tax"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

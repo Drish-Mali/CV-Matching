@@ -1,0 +1,148 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Nurse Practitioner",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Nurse Practitioner focused on providing quality care and maintaining direct lines of communication with patients and the entire health-care team. Superb interpersonal and leadership skills and enjoys challenges and learning new concepts and skill sets.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Registered Nurse Clinician II",
+      "url": "",
+      "startDate": "2010-12-01",
+      "endDate": "current",
+      "summary": "Apply critical thinking skills by caring for patients with an array of morbidities including endocrine, oncology, hematology, psychological, cardiac, neurological, musculoskeletal, and immune disorders at any given time.",
+      "highlights": [
+        "Enhanced physical assessment skills to identify normal, normal variant, and pathologic findings",
+        "Engaged in patient assessment, diagnosis, and treatment in a family practice setting",
+        "Educated patients on healthy lifestyle changes, medication management and appropriate health screening",
+        "Aided in conducting the plan of care including medication changes, physician referrals, and treatment programs."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Staff Nurse",
+      "url": "",
+      "startDate": "2008-11-01",
+      "endDate": "2010-05-01",
+      "summary": "Led a unit of skilled care for approximately 40 geriatric patients through delegating staff and holding them accountable as to ensure the unit to run smoothly.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Staff Nurse",
+      "url": "",
+      "startDate": "2007-05-01",
+      "endDate": "2008-06-01",
+      "summary": "Medical/Surgical.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of St. Francis",
+      "url": "",
+      "area": "Nursing",
+      "studyType": "Master of Science",
+      "startDate": "2015-01-01",
+      "endDate": "2017-01-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "University of St Francis",
+      "url": "",
+      "area": "Nursing",
+      "studyType": "Bachelor of Science",
+      "startDate": "2012-01-01",
+      "endDate": "2014-01-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Richland Community College",
+      "url": "",
+      "area": "Nursing",
+      "studyType": "Associate of Applied Science",
+      "startDate": "2008-01-01",
+      "endDate": "2010-01-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Richland Community College",
+      "url": "",
+      "area": "Nursing",
+      "studyType": "Practical Nurse",
+      "startDate": "2005-01-01",
+      "endDate": "2007-01-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Registered Nurse",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "Certified Emergency Nurse",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Medical Knowledge",
+      "level": "Expert",
+      "keywords": [
+        "Physical assessment",
+        "Patient assessment",
+        "Treatment",
+        "Education",
+        "Care plan conduct"
+      ]
+    },
+    {
+      "name": "Interpersonal Skills",
+      "level": "Expert",
+      "keywords": [
+        "Communication",
+        "Teamwork",
+        "Relationship building",
+        "Listening",
+        "Clarity"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "affiliations": [
+    {
+      "name": "Sigma Theta Tau International"
+    },
+    {
+      "name": "American Association of Nurse Practitioners"
+    }
+  ]
+}

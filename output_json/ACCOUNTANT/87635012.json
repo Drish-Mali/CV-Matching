@@ -1,0 +1,113 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Principal Accountant",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Capable Accountant successful at managing multiple projects and consistently meeting deadlines under pressure. Extensive knowledge of accounting software and processes.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": [
+    ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Principal Accountant",
+      "url": "",
+      "startDate": "2014-03-01",
+      "endDate": "Current",
+      "summary": "Compile reports and supporting schedules for inclusion in OPC's monthly financial/statistical operating reports and SEC filings as well as RUS (Rural Utilities Services) filings. Collaborated extensively with auditors during preliminary and year-end audit processes.",
+      "highlights": ["Financial statement analysis", "Lawson Financial knowledge", "General ledger accounting", "PeopleSoft knowledge", "Advanced computer proficiency (PC and Mac)"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Corporate Accounting Consultant",
+      "url": "",
+      "startDate": "2005-04-01",
+      "endDate": "2006-06-01",
+      "summary": "Participated in the largest Restatement in US history of financials in accordance with GAAP for accounting periods 1999-2004 as directed by Securities Exchange Commission (SEC).",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Financial Reporting Consultant",
+      "url": "",
+      "startDate": "2003-07-01",
+      "endDate": "2005-03-01",
+      "summary": "Reviewed and prepared consolidated Financial Statements, as well as footnotes to the financial statements and Management's Discussion and Analysis in Coke's 10-K and 10-Q.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Controller",
+      "url": "",
+      "startDate": "1999-04-01",
+      "endDate": "2003-07-01",
+      "summary": "Assisted in the preparation of consolidated reporting for internal & external agencies",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Senior Financial Analyst",
+      "url": "",
+      "startDate": "1998-01-01",
+      "endDate": "1999-04-01",
+      "summary": "Compiled and reconciled annual sales on a monthly basis and review of corporate agreements",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Revenue Analyst",
+      "url": "",
+      "startDate": "1996-05-01",
+      "endDate": "1997-12-01",
+      "summary": "Responsible for monthly reporting of subscriber billing of regional cable service to affiliates, payment tracking, allocations, reversals, forecasts, actual, and journal entries",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Rutgers University",
+      "url": "",
+      "area": "Finance",
+      "studyType": "Master of Business Administration",
+      "startDate": "",
+      "endDate": "2002-01-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Pace University",
+      "url": "",
+      "area": "Accounting",
+      "studyType": "Bachelor of Business Administration",
+      "startDate": "",
+      "endDate": "1991-01-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Accounting",
+      "level": "",
+      "keywords": ["Microsoft Excel", "Peachtree", "PeopleSoft", "SAP", "Sarbanes-Oxley", "SQL"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

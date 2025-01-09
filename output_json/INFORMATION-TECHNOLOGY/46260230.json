@@ -1,0 +1,86 @@
+{
+  "basics": {
+    "name": "Information Technology Specialist",
+    "label": "Discountpcfix",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "summary": "Accomplished with over 10 years of information technology support experience. Passionate and driven professional with remarkable analytical and problem solving skills. Highly articulate Capable experienced installing and updating hardware and software systems for users. Known for effectively optimizing systems to meet changing demands, enhancing collaboration and improving security.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Discountpcfix",
+      "position": "Information Technology Specialist",
+      "startDate": "2011-11-01",
+      "endDate": "Current",
+      "summary": "Provided excellent IT Support, including bug fixes, upgrades, and software installation.",
+      "highlights": ["Software testing", "Hardware repair", "Network Administration", "Project management"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Quality Control Inspector Contractor",
+      "startDate": "2019-04-01",
+      "endDate": "Current",
+      "summary": "Developed and implemented best practices for defect prevention and continuous improvement.",
+      "highlights": ["Troubleshooting", "Repairs"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Network Analyst",
+      "startDate": "2016-06-01",
+      "endDate": "2018-05-01",
+      "summary": "Identified operational and performance issues and worked with managers to resolve concerns.",
+      "highlights": ["System Administration", "Network configuration"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Quality Control Manager",
+      "startDate": "2013-07-01",
+      "endDate": "2015-08-01",
+      "summary": "Observed customer specifications by monitoring the quality control of finished products.",
+      "highlights": ["Quality control", "Management"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "The Federal Polytechnic, Ado-Ekiti",
+      "area": "Science Technology",
+      "studyType": "Associate of Science",
+      "startDate": "",
+      "endDate": "2003",
+      "courses": []
+    },
+    {
+      "institution": "Phoenix East Aviation",
+      "area": "Aviation",
+      "studyType": "F.A.A Aircraft Dispatcher License",
+      "startDate": "",
+      "endDate": "2014",
+      "courses": []
+    },
+    {
+      "institution": "University Of Colorado At Boulder",
+      "area": "Cybersecurity Policy For Aviation And Internet",
+      "studyType": "Certificate",
+      "startDate": "",
+      "endDate": "2020",
+      "courses": []
+    },
+    {
+      "institution": "GOOGLE I.T SUPPORT",
+      "area": "",
+      "studyType": "Certificate",
+      "startDate": "",
+      "endDate": "2021",
+      "courses": ["IT Security: Defense against the digital dark arts", "Operating System and You: Becoming a power user", "The Bits and Bytes of Computer Networking", "System Administration and IT Infrastructure Service", "Technical Support Fundamentals"]
+    }
+  ]
+}

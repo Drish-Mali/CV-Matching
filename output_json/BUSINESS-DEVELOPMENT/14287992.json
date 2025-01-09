@@ -1,0 +1,104 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Business Development Analyst",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Seeking career as Product Control Analyst in a diverse and multinational company that values integrity, courage, good leadership disposition, enthusiastic leaning, teamwork, and performance. Extensive academic experience in finance, accounting, investment and management.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Business Development Analyst",
+      "url": "",
+      "startDate": "2012-08-01",
+      "endDate": "current",
+      "summary": "Managed budget forecasting, goal setting and performance reporting for all accounts. Analyzed legal documents, including wills, insurance policies and corporate contracts. Designed and created weekly and monthly spending reports. Coordinated with underwriters, lenders, loan managers and securitization teams to manage portfolios. Oversaw investment portfolio analysis, file maintenance and broker verification. Delivered performance updates, quarterly business reviews and planning meetings. Optimized current revenue streams by networking for additional business prospects with established clients. Planned strategic brand-building events to expand the product portfolio. Contacted new and existing customers to discuss how specific products could meet their needs. Identified, coordinated and participated in client relationship-building activities and meetings. Answered customer questions regarding products, prices and availability. Generated new accounts by implementing effective networking and content marketing strategies. Developed strategies and processes that increased patronage and customer base of the company.",
+      "highlights": ["Led the development of two financial reporting methods to measure productivity and efficiency of two giant Oil and gas companies."]
+    },
+    {
+      "name": "Company Name",
+      "position": "Correction and Family Liaison Officer (Part Time)",
+      "url": "",
+      "startDate": "2009-07-01",
+      "endDate": "current",
+      "summary": "Routinely reviewed housing assignments and reassigned inmates when needed. Informed inmates and visitors of rules, safety and security procedures and responsibilities. Maintained daily logs of shift activity. Diligently implement visitation, safety, security rules, procedures, and precautionary measures. Received and inspected mail, property and supplies from visitors on behalf of designated inmates. Directed the activities of inmate working on maintenance, operations, and other projects. Completed new intakes paperwork.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Customer Service Associate",
+      "url": "",
+      "startDate": "2009-07-01",
+      "endDate": "2012-07-01",
+      "summary": "Performed registers audit, assisted in preparing and maintaining inventory records. Supervised front end cashiers and organized the store, including the checkout desk and displays. Operated cash registers and processed gift cards, coupons, and all payment modes with accuracy. Performed sale opening and closing procedures, including counting of cash register.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Account & Finance Officer",
+      "url": "",
+      "startDate": "2007-01-01",
+      "endDate": "2009-02-01",
+      "summary": "Managed accounting operations, accounting close, account reporting and reconciliations. Received, recorded, and banked cash, checks, and vouchers as well as reconciled records of bank transactions. Prepared monthly and annual expense forecasts, including any necessary recommended action required to manage costs to achieve budget. Performed general accounting and finance functions. Built and maintained databases for forecasting future financial performance. Presented reports on economic trends of business that enhanced process improvements.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Houston",
+      "url": "",
+      "area": "Finance & Management",
+      "studyType": "MBA",
+      "startDate": "",
+      "endDate": "2014",
+      "score": "3.80/4.00",
+      "courses": []
+    },
+    {
+      "institution": "Ambrose Alli University",
+      "url": "",
+      "area": "Accounting",
+      "studyType": "BBA",
+      "startDate": "",
+      "endDate": "2007",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "General financial accounting and control",
+      "level": "Master",
+      "keywords": ["Financial accounting", "Strategic planning", "Forecasting", "SAP (FICO)", "MS Office", "QuickBooks"]
+    },
+    {
+      "name": "Analytical and problem solving abilities",
+      "level": "Master",
+      "keywords": ["Analytical", "Problem solving", "Financial analysis"]
+    },
+    {
+      "name": "Advanced computer proficiency",
+      "level": "Master",
+      "keywords": ["MS Office", "SAP (FICO)", "QuickBooks"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

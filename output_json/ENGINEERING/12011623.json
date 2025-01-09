@@ -1,0 +1,117 @@
+{
+  "basics": {
+    "name": "Engineering and Quality Technician",
+    "label": "Graduated with Analytics degree",
+    "email": "",
+    "phone": "",
+    "summary": "A highly experienced skilled graduate with Analytics degree with a very good experience in SAS, Web scraping, SQL, Predictive modelling, and data visualization. Excellent ability in identifying data requirements for analysis, data cleaning, munging and model building.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Engineering and Quality Technician",
+      "startDate": "2013-01-01",
+      "endDate": "2016-01-01",
+      "summary": "Planned, performed and conducted semiconductor production process development and engineering designs as well as managed small projects and prepared statements and monitored project schedules."
+    },
+    {
+      "name": "Company Name",
+      "position": "Lecturer in Environmental Science and Technology",
+      "startDate": "2007-01-01",
+      "endDate": "2012-01-01",
+      "summary": "Effectively engaged in course curriculum development, taught courses and engaged in research projects and community services on the areas of Statistics, GIS and natural resource management."
+    },
+    {
+      "name": "Company Name",
+      "position": "Assistant Lecturer in Natural resource management",
+      "startDate": "2004-01-01",
+      "endDate": "2006-01-01",
+      "summary": "Assisted in teaching, researching and developing methods which helps in improving both the university and students' performance."
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of New Hampshire USA",
+      "area": "Analytics",
+      "studyType": "Master",
+      "startDate": "",
+      "endDate": "2017-05-01",
+      "score": "4.0/4.0",
+      "courses": []
+    },
+    {
+      "institution": "UNESCO-IHE",
+      "area": "Environmental Science and Technology",
+      "studyType": "Master",
+      "startDate": "",
+      "endDate": "2010-04-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Debub University Ethiopia",
+      "area": "Resource Management",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "2004-07-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Database Management",
+      "level": "",
+      "keywords": [
+        "R",
+        "SAS",
+        "Python",
+        "Oracle",
+        "Microsoft SQL",
+        "ASP.NET 4.5",
+        "C#",
+        "HTML",
+        "Random Forests",
+        "Decision Trees",
+        "Boosted Trees",
+        "PCA",
+        "Linear Regression",
+        "Clustering techniques",
+        "logistic regression",
+        "Web scraping"
+      ]
+    }
+  ],
+  "languages": [
+  ],
+  "interests": [
+  ],
+  "references": [
+  ],
+  "projects": [
+    {
+      "name": "Mapping and clustering of student success using clustering",
+      "startDate": "",
+      "endDate": "",
+      "description": "The objective of this project is identifying factors which will help students become successful in their academic achievements and finding ways to improve students' retention rates.",
+      "highlights": [],
+      "url": ""
+    },
+    {
+      "name": "UNH hockey team project",
+      "startDate": "",
+      "endDate": "",
+      "description": "predicting players' performance.",
+      "highlights": [],
+      "url": ""
+    }
+  ]
+}

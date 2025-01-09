@@ -1,0 +1,112 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Pastry Sous Chef",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Service oriented professional looking for opportunities in pastry arts. Seeking to advance development of skills and learn more aspects of pastry arts and confections. Diploma from the Le Cordon Bleu program and vast experience utilizing business degree in a corporate environment.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "State",
+      "region": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Pastry Sous Chef",
+      "url": "",
+      "startDate": "2014-11-01",
+      "endDate": "Current",
+      "summary": "Organize and run all aspects of the pastry kitchen...",
+      "highlights": ["Microsoft Office products", "Key competencies include customer relations, organization, product knowledge, Project, Power Point and Outlook.", "Attention to detail, team building and positive attitude."]
+    },
+    {
+      "name": "Company Name",
+      "position": "Pastry Cook II",
+      "url": "",
+      "startDate": "2012-08-01",
+      "endDate": "2014-11-01",
+      "summary": "Prepare all aspects of pastry production for restaurant...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Pastry Cook II/Chocolatier",
+      "url": "",
+      "startDate": "2010-07-01",
+      "endDate": "2012-08-01",
+      "summary": "Chocolatier for all resort nightly turn down chocolates, miscellaneous bonbons...",
+      "highlights": ["Attended bonbon class at Valrhona Chocolate institute in Tain l'Hermitage, France."]
+    },
+    {
+      "name": "Company Name",
+      "position": "Pastry Cook III",
+      "url": "",
+      "startDate": "2009-06-01",
+      "endDate": "2010-07-01",
+      "summary": "Prepare all aspects of the production of desserts, confections, ice creams, sorbets...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Last Chance/One Warm Night",
+      "url": "",
+      "startDate": "2002-01-01",
+      "endDate": "2011-05-01",
+      "summary": "Daily meals and Green Room support for a series of on-line webisodes for a cast of 75.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Senior Business Analyst",
+      "url": "",
+      "startDate": "1996-02-01",
+      "endDate": "2009-02-01",
+      "summary": "Responsible for improving the quality of internally developed and third party applications used by Retirement Customer Services associates for mutual fund investment systems.",
+      "highlights": ["Provided leadership in the development of utilizing an application for work distribution that resulted in an increased efficiency in account processing.", "Liaison role between IT department and Customer Service."]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "California School of Culinary Arts",
+      "url": "",
+      "area": "Patisserie and Baking Program",
+      "studyType": "Diploma",
+      "startDate": "2005-01-01",
+      "endDate": "2005-12-31",
+      "score": "President's List",
+      "courses": []
+    },
+    {
+      "institution": "Wheaton College",
+      "url": "",
+      "area": "Economics",
+      "studyType": "Bachelor of Arts",
+      "startDate": "",
+      "endDate": "1993-01-01",
+      "score": "Cum Laude- Dean's List",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Baking",
+      "level": "",
+      "keywords": ["Microsoft Office", "Excel", "Word", "Power Point", "Outlook", "Customer Relations", "Organization", "Product Knowledge", "Attention to Detail", "Team Building", "Positive Attitude"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

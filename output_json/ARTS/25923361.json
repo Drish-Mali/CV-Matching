@@ -1,0 +1,97 @@
+{
+  "basics": {
+    "name": "Unavailable",
+    "label": "Instructional Coach",
+    "image": "",
+    "email": "Unavailable",
+    "phone": "Unavailable",
+    "url": "Unavailable",
+    "summary": "A passionate, hard-working educator with over 30 years of experience in curriculum, instruction, and professional development.",
+    "location": {
+      "address": "Unavailable",
+      "postalCode": "Unavailable",
+      "city": "Unavailable",
+      "countryCode": "US",
+      "region": "California"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Instructional Coach",
+      "url": "Unavailable",
+      "startDate": "2011-11-01",
+      "endDate": "2015-01-01",
+      "summary": "Conducted research-based professional development trainings for teachers...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Curriculum Specialist, English Language Arts",
+      "url": "Unavailable",
+      "startDate": "2012-01-01",
+      "endDate": "2015-01-01",
+      "summary": "Served as Coordinator...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Classroom Teacher",
+      "url": "Unavailable",
+      "startDate": "1981-08-01",
+      "endDate": "1997-06-01",
+      "summary": "Provided instruction in multiple content areas...",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "CSU Sacramento",
+      "url": "Unavailable",
+      "area": "Specialist Credential, Mild/Moderate, Coursework",
+      "studyType": "Unavailable",
+      "startDate": "1991-01-01",
+      "endDate": "1995-01-01",
+      "score": "Unavailable",
+      "courses": []
+    },
+    {
+      "institution": "CSU Sacramento",
+      "url": "Unavailable",
+      "area": "Multiple Subjects Credential",
+      "studyType": "Unavailable",
+      "startDate": "1981-01-01",
+      "endDate": "1981-12-31",
+      "score": "Unavailable",
+      "courses": []
+    },
+    {
+      "institution": "University of California",
+      "url": "Unavailable",
+      "area": "Anthropology",
+      "studyType": "Bachelor of Science",
+      "startDate": "Unavailable",
+      "endDate": "1976-01-01",
+      "score": "Unavailable",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Art",
+      "level": "Not specified",
+      "keywords": [
+        "coaching", "English", "Reading", "Research"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

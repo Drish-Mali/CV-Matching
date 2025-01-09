@@ -1,0 +1,164 @@
+{
+  "basics": {
+    "name": "Anonymous",
+    "label": "Field Project Supervisor",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Administrative aviation logistics professional with 26 years' experience working in the military sector including 20 years' operating in a supervisory position.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Field Project Supervisor",
+      "url": "",
+      "startDate": "2015-01-01",
+      "endDate": "Current",
+      "summary": "Managed U.S. Naval Aviation Logistics Command Management Information System, Optimized-Organizational Maintenance Activity (NALCOMIS OOMA) implementations.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Aviation Implementation Manager Master Sergeant",
+      "url": "",
+      "startDate": "2012-01-01",
+      "endDate": "2015-01-01",
+      "summary": "Managed project logistics for Naval aviation and ship software system assets.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Aviation Administration Manager Staff Sergeant Gunnery Sergeant",
+      "url": "",
+      "startDate": "2002-01-01",
+      "endDate": "2012-01-01",
+      "summary": "Maintained Government Aviation Logistics Information Systems and databases.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Aviation Administration Program Manager/Data Analyst Sergeant Staff Sergeant Gunnery Sergeant",
+      "url": "",
+      "startDate": "1987-01-01",
+      "endDate": "2012-01-01",
+      "summary": "Maintained Government Aviation Logistics Information Systems and databases.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Ashford University",
+      "url": "",
+      "area": "Human Resources Management",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "2015",
+      "score": "3.8",
+      "courses": [
+        "Human Resources Management Business Administration"
+      ]
+    },
+    {
+      "institution": "Defense Acquisition University",
+      "url": "",
+      "area": "Ethics Training for Acquisition Technology",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "2013",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Defense Acquisition University West Regional Campus",
+      "url": "",
+      "area": "Contracting Officers Representative",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "2012",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "US Department of the Navy",
+      "url": "",
+      "area": "Lean Six Sigma Green Belt Course",
+      "studyType": "Course",
+      "startDate": "",
+      "endDate": "2011",
+      "score": "",
+      "courses": [
+        "Lean Six Sigma Yellow Belt Course",
+        "Lean Six Sigma White Belt Course"
+      ]
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "E-commerce",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Supply Chain Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Logistics Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Office Suite",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "NTCSS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SAP",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Technical Publications",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Technical Writing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Six Sigma Green Belt",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Maintenance Administration",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

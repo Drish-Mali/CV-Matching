@@ -1,0 +1,124 @@
+{
+"basics": {
+  "name": "Unspecified",
+  "label": "Electrical Engineer",
+  "image": "",
+  "email": "",
+  "phone": "",
+  "url": "",
+  "summary": "Seasoned Electrical Engineer successful at coordinating diverse projects, improving departmental processes and increasing revenue. Electrical Engineer proficient in power and control engineering. Designs power grids as well as control systems for oil and gas industry. Seasoned Electrical Engineer offering 5 years experience developing HMI controlled equipment for testing and production. Strong project management background.",
+  "location": {
+    "address": "Unspecified",
+    "postalCode": "Unspecified",
+    "city": "Unspecified",
+    "countryCode": "Unspecified",
+    "region": "Unspecified"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Electrical Engineer",
+      "url": "",
+      "startDate": "2014-04",
+      "endDate": "2016-02",
+      "summary": "Implementing electrical engineering principles to troubleshoot and solve complex problems. Managed various projects resulting in high efficiency and cost savings.",
+      "highlights": [
+        "Managed Chemical 6 (C6) Unit Project",
+        "Managed Hydration Unit Project",
+        "Managed Dual Fluid Pumper (DFP) Unit Project",
+        "Managed the R&D Frac Pump Testing facility project"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Manufacturing Engineer",
+      "url": "",
+      "startDate": "2011-06",
+      "endDate": "2014-04",
+      "summary": "Implemented pump test design changes and new tooling for Autofrettage, Pump Assembly and Pump Test that was more ergonomically efficient for operators and mechanics.",
+      "highlights": [
+        "Implemented pump test design changes that eliminated downtown by 80%",
+        "Designed power distribution and control for medium and high voltage motors and vfd's for hydraulic lube circuits",
+        "Designed tooling fixtures and had ergonomically efficient equipment installed to LEAN Pump Assembly"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Maintenance Mechanic MPE-9",
+      "url": "",
+      "startDate": "2005-08",
+      "endDate": "2013-09",
+      "summary": "Troubleshot and repaired mail processing equipment.",
+      "highlights": [
+        "Troubleshot and repaired mail processing equipment that consisted of vfd's, SLC500 PLC's, Baldor motors, Eaton gearboxes and MCC panels"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Aviation Electrician Petty Officer 3rd Class",
+      "url": "",
+      "startDate": "1996-06",
+      "endDate": "1999-08",
+      "summary": "Aircraft handler duties and troubleshooting and repairs of electrical components of aircraft.",
+      "highlights": [
+        "Navy Pistol Marksmanship Ribbon, Armed Forces Expeditionary Medal, Navy Sea Service Deployment Ribbon, Navy Good Conduct Medal Ribbon."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Texas at Arlington",
+      "url": "",
+      "area": "Electrical Engineering",
+      "studyType": "Bachelor",
+      "startDate": "N/A",
+      "endDate": "2010",
+      "score": "3.0",
+      "courses": [
+        "Coursework in Electro-technology, Thermodynamics and Electronics"
+      ]
+    },
+    {
+      "institution": "Officer Candidate School (BOOST)",
+      "url": "",
+      "area": "Officer Training/College Prep",
+      "studyType": "Certificate of Completion",
+      "startDate": "N/A",
+      "endDate": "1999",
+      "score": "3.0",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Skill",
+      "level": "Master",
+      "keywords": [
+        "Complex problem solver",
+        "Project management",
+        "Engineering Software: AutoCAD, Eagle, MATlab, Solidworks Standard, Solidworks",
+        "Operational analysis expert",
+        "Enterprise PDM, Solidworks Electrical",
+        "Technical writing",
+        "Microsoft Office 2016: Word, Visio, PowerPoint, Excel, OneNote, Outlook",
+        "Data collection",
+        "Microsoft Dynamics GP, Team Gantt, Allen Bradley RSLogix Software",
+        "Strong decision maker",
+        "Computer Language: Microsoft Visual C and C++",
+        "Analog and digital hardware and firmware design",
+        "FEA and failure analysis",
+        "3D design and simulation software"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

@@ -1,0 +1,128 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Business Development Representative",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Position in sales, sales management, or account executive roles",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": [
+    ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Business Development Representative",
+      "url": "",
+      "startDate": "2017-01-01",
+      "endDate": "Current",
+      "summary": "Directly supports the outside sales team. Responsibilities: generating meetings with potential clients, running discovery calls, and moving deals through sales stages. Specific focus on penetrating companies with $100 million annual revenue or more. Directly reports to VP of Global Strategic Sales.",
+      "highlights": [
+        "4 time Stars Trip recipient (highest percentage to quota)",
+        "Named End of Quarter Super Star (Q1 2015)",
+        "One of two members in the 200 club (200% to quota)",
+        "Member of Team of the Month (Dell)",
+        "Dell record for most calls in a day (115)",
+        "Voted most outstanding graduate in the department by faculty (Colorado State University)",
+        "Emerging Leaders Program certified",
+        "Employee of the Month (July 2017)",
+        "Have secured 2 meetings with CEOs"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Senior Sale Representative and Team Lead",
+      "url": "",
+      "startDate": "2013-07-01",
+      "endDate": "2017-01-01",
+      "summary": "Senior Sales Rep for Dell -- 3+ years. APOS Large Institution segment. Responsible for New England, Northeast, and Southern sales territories.",
+      "highlights": [
+        "Trained teams in the Philippines on sales process tactics",
+        "Introduced a new categorized email system that is now being implemented on several teams",
+        "I have taken on an extra work load starting in January 2016 as a sales manager in training",
+        "Helped revolutionize warranty renewals for the Dell LI segments by utilizing our Flexible Billing Program to drive higher revenue totals and margins"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Social Media Coordinator",
+      "url": "",
+      "startDate": "2013-06-01",
+      "endDate": "2013-06-01",
+      "summary": "Social media coordinator for Country Jam 2013 in Grand Junction. In charge of the festival's social media efforts (Facebook, Instagram, Twitter)",
+      "highlights": ["In charge of the festival's social media efforts (Facebook, Instagram, Twitter)"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Server",
+      "url": "",
+      "startDate": "2011-05-01",
+      "endDate": "2012-06-01",
+      "summary": "Went straight into server position without prior experience Held position for over a year",
+      "highlights": ["Was chosen as server of the month"]
+    }
+  ],
+  "volunteer": [
+  ],
+  "education": [
+    {
+      "institution": "Colorado State University",
+      "url": "",
+      "area": "Journalism and Technical Communication",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "2012-12-01",
+      "score": "",
+      "courses": [
+        "Minor in Business Management"
+      ]
+    }
+  ],
+  "awards": [
+  ],
+  "certificates": [
+  ],
+  "publications": [
+  ],
+  "skills": [
+    {
+      "name": "Customer communications",
+      "level": "",
+      "keywords": [
+        "Account management",
+        "Prospecting and cold calling",
+        "Delivering Value Proposition",
+        "Upselling and consultative selling",
+        "Proven sales track record"
+      ]
+    }
+  ],
+  "languages": [
+  ],
+  "interests": [
+    {
+      "name": "Personal",
+      "keywords": [
+        "avid golfer",
+        "sports fan",
+        "music collector",
+        "DJ/producer",
+        "skier",
+        "fitness enthusiast",
+        "proud Coloradoan"
+      ]
+    }
+  ],
+  "references": [
+  ],
+  "projects": [
+  ]
+}

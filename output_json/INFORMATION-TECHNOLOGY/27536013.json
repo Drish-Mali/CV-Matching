@@ -1,0 +1,148 @@
+{
+  "basics": {
+    "name": "Experienced Information Technology Manager",
+    "label": "Information Technology Manager",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Highly accomplished professional with over 10 years of experience in a variety of management areas. Skilled in all phases of project management, managing resources and personnel, and leadership.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "State",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Applications Team Leader",
+      "url": "",
+      "startDate": "2012-05-01",
+      "endDate": "Current",
+      "summary": "Manager of various departments and responsible for strategic planning, overall systems architecture, and personnel. Also managed personnel including both onshore and offshore consultants.",
+      "highlights": [
+        "Redesign and implementation of entire BI structure resulting in cost savings and better user experience.",
+        "Implementation of revamped external website using SharePoint.",
+        "Redeployment of architecture of Business Objects to SAP BO with BW."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Business Intelligence Manager",
+      "url": "",
+      "startDate": "2005-12-01",
+      "endDate": "2012-05-01",
+      "summary": "Worked on strategic planning and overall systems architecture.",
+      "highlights": [
+        "Upgrade of the Business Objects architecture",
+        "Upgrade of databases from MS SQL to Oracle",
+        "Managed technical projects on time and within budget"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Information Systems Software Administrator",
+      "url": "",
+      "startDate": "1997-11-01",
+      "endDate": "2005-10-01",
+      "summary": "Managed and maintained all software packages for the entire organization.",
+      "highlights": [
+        "Implementation of new ERP system",
+        "Implementation of CRM system"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Girl Scouts of America",
+      "position": "Troop Leader/Volunteer",
+      "url": "",
+      "startDate": "2011-01-01",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "organization": "Women in Technology Wisconsin, Inc.",
+      "position": "Brand Ambassador",
+      "url": "",
+      "startDate": "2015-05-01",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "organization": "Allouez Traffic and Safety Committee",
+      "position": "",
+      "url": "",
+      "startDate": "2009-01-01",
+      "endDate": "2012-01-01",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Western Governor's University",
+      "url": "",
+      "area": "Management",
+      "studyType": "BA",
+      "startDate": "",
+      "endDate": "2012-01-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "University of Phoenix",
+      "url": "",
+      "area": "General Studies, Business Management Focus",
+      "studyType": "General Studies",
+      "startDate": "",
+      "endDate": "2007-01-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Denmark High School",
+      "url": "",
+      "area": "General Studies",
+      "studyType": "Diploma",
+      "startDate": "",
+      "endDate": "1993-01-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Business Intelligence",
+      "level": "Master",
+      "keywords": [
+        "Business Analysis", 
+        "Project Management", 
+        "Business Intelligence", 
+        "Data Analysis", 
+        "Report Development/Analysis", 
+        "Microsoft Office", 
+        "SharePoint", 
+        "Oracle", 
+        "Personnel Management", 
+        "Strategic Planning", 
+        "Systems Architecture", 
+        "Technical Assistance", 
+        "Professional User Training"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

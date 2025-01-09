@@ -1,0 +1,86 @@
+{
+  "basics": {
+    "name": "Professional Healthcare Representative",
+    "label": "Experienced Healthcare Representative seeking Pharmaceutical Sales opportunity",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "An experienced Sales Representative with a unique compliment of Business to Business sales experience and customer development with a proven ability to drive revenues. Innovative thinker with excellent communication and interpersonal skills, a demonstrated leader with a record of overcoming challenges to positively impact revenues in a competitive marketplace.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "State",
+      "region": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Professional Healthcare Representative",
+      "url": "",
+      "startDate": "2007-01-01",
+      "endDate": "Current",
+      "summary": "Worked with multiple products and maintained knowledge of current trends in the industry to achieve sales targets. Utilizing strong technical and scientific knowledge to pull key brands and maximize resource utilization. Recipient of state and region awards for commitment to excellence.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Vice President",
+      "url": "",
+      "startDate": "1999-01-01",
+      "endDate": "2007-01-01",
+      "summary": "Core focus was analyzing customer needs to effectively establish and develop customer base leading to an increase in revenues over the years. Experience in full sales cycle management, client management, and launching a competitive online order system.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Webster University",
+      "url": "",
+      "area": "Human Resource Development and Management",
+      "studyType": "Master of Business Administration",
+      "startDate": "2006-01-01",
+      "endDate": "2006-12-31",
+      "score": "3.6",
+      "courses": ["Recipient of the Anthony and Kim Thompson Outstanding Student Award"]
+    },
+    {
+      "institution": "Southwest Missouri State University",
+      "url": "",
+      "area": "Psychology Communications",
+      "studyType": "Bachelor of Science",
+      "startDate": "1999-01-01",
+      "endDate": "1999-12-31",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Sales and Marketing",
+      "level": "Master",
+      "keywords": ["client management", "closing sales", "competitive pricing", "promotion", "selling"]
+    },
+    {
+      "name": "Leadership",
+      "level": "Master",
+      "keywords": ["troubleshooting", "concept development", "HR functions", "strategic planning", "leadership"]
+    },
+    {
+      "name": "Technical and Scientific Knowledge",
+      "level": "Master",
+      "keywords": ["scientific presentations", "technical selling"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

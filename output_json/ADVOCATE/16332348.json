@@ -1,0 +1,172 @@
+{
+  "basics": {
+    "name": "Victim Advocate",
+    "label": "",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Highly motivating, detail-oriented, and adaptable social services professional skilled in intakes and assessments, crisis management and comprehensive case management. Possessing a strong background in the criminal justice field, excellent organizational and analytical skills, extensive experience managing heavy case loads, working closely with social services and criminal justice agencies and program management. Well-rounded professional experienced in applying principles of psychology to personnel handling, administration, management and marketing problems. Extensive knowledge of human and industry behavior and performance, mental processes and assessment methods.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Victim Advocate",
+      "startDate": "2014-03-01",
+      "endDate": "Current",
+      "summary": "Created, organized and maintained files, daily case notes and electronic databases. Organized office schedules and maintained relationships with necessary agency contacts. Completed statistical analysis by developing, updating and maintaining statistical and related records and reports.",
+      "highlights": [
+        "Improved office organization by compiling quarterly budget reports"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Residential Advocate",
+      "startDate": "2012-06-01",
+      "endDate": "2013-05-01",
+      "summary": "Accompanied victims to local area hospitals, police departments, prosecutor's office and courts to provide crisis intervention and advocacy services. Oversaw a 24-hour hotline for victims of domestic violence and sexual assault.",
+      "highlights": [
+        "Guided victims by providing case-related medical and legal information."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Deli Clerk",
+      "startDate": "2010-05-01",
+      "endDate": "2012-05-01",
+      "summary": "Frequently switched between positions as Deli Clerk and Cold Food prep to support changing needs of large retailer.",
+      "highlights": [
+        "Ensured minimal product shrink and coordinated secondary usage of product"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Volunteer Kennel Attendant",
+      "startDate": "2008-03-01",
+      "endDate": "2008-08-01",
+      "summary": "Adhered to high standards of safety, cleanliness and professionalism. Monitored animals' recovering from surgery and notified veterinarians of any changes.",
+      "highlights": [
+        "Promoted skin and coat health through regular grooming."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Support Analyst",
+      "startDate": "2015-03-01",
+      "endDate": "Current",
+      "summary": "Provided accurate and appropriate information in response to customer inquiries. Addressed customer service inquiries in a timely and accurate fashion. Maintained up-to-date records at all times.",
+      "highlights": [
+        "Worked with upper management to ensure appropriate changes were made to improve customer satisfaction."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Saint Josephs University",
+      "area": "Criminal Justice",
+      "studyType": "Masters of Science",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "score": "3.85"
+    },
+    {
+      "institution": "Rowan University",
+      "area": "Law and Justice",
+      "studyType": "Bachelor of Arts",
+      "startDate": "2010-01-01",
+      "endDate": "2012-01-01",
+      "score": "3.3"
+    },
+    {
+      "institution": "Cumberland County College",
+      "area": "Technology and Homeland Security, Forensic",
+      "studyType": "",
+      "startDate": "2008-01-01",
+      "endDate": "2010-01-01",
+      "score": "3.8"
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "MS Office proficiency",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Case planning",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Excellent relationship building skills",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Interpersonal, oral, and written communication skills",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Trauma-informed therapy",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Detail-oriented",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Strategic planner",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Self-starter",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Meticulous attention to detail",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Results-oriented",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Self-directed",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Data collection and analysis",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Exceptional organizational skills",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

@@ -1,0 +1,96 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Management and Program Analysis",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "https://www.usajobs.gov/ Applicant/Resume/ListResurnes",
+    "summary": "Human services degree, ARCOM award for successful works as a budget and Administration works in the Oklahoma National Guard training department, successfully completed and passed two administration and budget related inspections, Volunteered with the Oklahoma National Guard family programs, Proficient in Microsoft Office to include, Excel, Power-point Word/ Typing 45 Words per minute.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "US",
+      "region": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Management and Program Analysis",
+      "url": "https://www.usajobs.gov/",
+      "startDate": "2011-08-01",
+      "endDate": "2015-12-31",
+      "summary": "Maintain detailed record of budgetary transaction for annual operation of the SAO(State Aviation Office) budget",
+      "highlights": [
+        "Managed accounting operations, accounting close, account reporting and reconciliations."
+      ]
+    },
+    {
+      "name": "",
+      "position": "Budget technician",
+      "url": "",
+      "startDate": "2011-01-01",
+      "endDate": "2011-08-01",
+      "summary": "Analyzes funding for Oklahoma National Guard Aviation Flying Hour Program",
+      "highlights": [
+        "Reviews, evaluates and analyzes obligations and expenditures."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Budget assistant",
+      "url": "",
+      "startDate": "2007-10-01",
+      "endDate": "2011-01-01",
+      "summary": "Objective as a Budget assistant was developing procedures and administrative processes concerning the preparation and execution of the Oklahoma National Guard Mobilization and Training budgets",
+      "highlights": [
+        "Monitoring budget account balances, Monitor outstanding obligations, validate obligations."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of phoenix",
+      "url": "",
+      "area": "Human Services",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "2010-01-01",
+      "score": "3.4",
+      "courses": []
+    },
+    {
+      "institution": "GFEBS (SAP) Courses",
+      "url": "",
+      "area": "Aviation Operation Specialist",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "2013-06-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "analytical reasoning",
+      "level": "Superior",
+      "keywords": ["accounting", "administrative duties", "budgeting", "cost analysis", "Microsoft office", "excel", "statistics"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

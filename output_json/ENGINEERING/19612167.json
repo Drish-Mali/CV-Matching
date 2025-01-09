@@ -1,0 +1,105 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Engineering Supervisor",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Dedicated engineer with excellent technical, analytical and communication skills demonstrated by 9 years of experience. Team-oriented Electrical Engineer with over four years experience designing, developing and testing electronic products.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Engineering Supervisor",
+      "url": "",
+      "startDate": "2014-11-01",
+      "endDate": "current",
+      "summary": "Assist management indirect oversight of department daily operation. Ensures effective communication between the Facilities Director and all other supervisors of the Engineering Department. Performs all other duties as assigned by the Facilities Director.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Engineering Assistance Supervisor",
+      "url": "",
+      "startDate": "2005-06-01",
+      "endDate": "2014-05-01",
+      "summary": "Managed team of 21 of professionals. Utilize reporting tools to analyze and monitor status of project and individual work efforts. Collaborate with all departments and engineering teams to continuously manage.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Sky Cap",
+      "url": "",
+      "startDate": "2001-09-01",
+      "endDate": "2005-05-01",
+      "summary": "Confirmed that appropriate changes were made to resolve customers' problems.Exercises sound judgment in issuing credits and making exceptions to customer policies to maintain high levels of customer satisfaction.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "El Dorado High School",
+      "url": "",
+      "area": "",
+      "studyType": "High School Diploma",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Training program implementation",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Project management Interpersonal communication skills",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Drilling engineering Demonstrated organizational/planning skills",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Building commissioning experience Adaptability",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Ability to translate technical specifications",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Ability to take initiative and exhibit flexibility.",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Excellent customer service skills",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

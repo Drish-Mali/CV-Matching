@@ -1,0 +1,120 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Information Technology Specialist",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Over twelve years of experience providing high quality consulting and technical assistance to home and business end users. As a field service technician since late 2004, I am able to install, repair and maintain many types of Point of Sale register equipment as well as servers, networking and related peripherals. With an ability to integrate computer skills, customer support experience and related education I thrive to exceed technical, business, and customer expectations.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": [
+    ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Information Technology Specialist",
+      "url": "",
+      "startDate": "2012-02",
+      "endDate": "Current",
+      "summary": "Service and maintain numerous makes, models and types of equipment, including client servers, workstations, laptops and peripherals. Install and maintain CCTV-DVR Camera systems, Servers, network racks/patch panels, VoIP, BDR data recovery systems. Offer business assessments ranging from DLP best practices to Wired / Wireless Network Infrastructure Audits to FINRA/HIPPA/PCI Compliance audit and testing.",
+      "highlights": [
+        "Consistently received a 100% rate of customer satisfaction.",
+        "Oversaw a decrease in average daily Help Desk tickets by almost 100%"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "IT Systems Administrator",
+      "url": "",
+      "startDate": "2008-09",
+      "endDate": "2012-05",
+      "summary": "Responsible for all maintenance on 55 Windows variant based workstations, Dell Precision server, IBM xSeries Blade server, the telephony/VOIP/POTS systems, T1/network troubleshooting in a multi-building environment as well as providing end user assistance and training to sales, service and management teams.",
+      "highlights": ["Managed Windows Server 2003 with Active Directory and policies."]
+    },
+    {
+      "name": "Company Name",
+      "position": "Field Service Technician II",
+      "url": "",
+      "startDate": "2009-12",
+      "endDate": "2011-10",
+      "summary": "Perform field service work on IBM servers, IBM/Lenovo desktops and IBM Point-of-Sale POS) equipment as well as repair Lexmark monochrome and color laser printers.",
+      "highlights": ["Responsible for company vehicle, maintenance scheduling, RMA returns, numerous SLA contracts and full van inventory."]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Ashworth College",
+      "url": "",
+      "area": "Energy Management and Systems Technology/Technician",
+      "studyType": "GE - Residential Energy Auditor",
+      "startDate": "",
+      "endDate": "2014",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Ashworth College",
+      "url": "",
+      "area": "Computer Technology/Computer Systems Technology",
+      "studyType": "Undergraduate Certificate in Computer Information Management",
+      "startDate": "",
+      "endDate": "2010",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "SUNY Orange",
+      "url": "",
+      "area": "Business Administration, Management and Operations",
+      "studyType": "A.A.S",
+      "startDate": "",
+      "endDate": "2009",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Sales Software",
+      "level": "",
+      "keywords": ["Salesforce.com", "TapScan"]
+    },
+    {
+      "name": "CMS",
+      "level": "",
+      "keywords": ["Joomla", "WordPress"]
+    },
+    {
+      "name": "Desktop Publishing Software",
+      "level": "",
+      "keywords": ["Photoshop", "Illustrator"]
+    },
+    {
+      "name": "Hardware Repair and Diagnostic Skills",
+      "level": "Advanced",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "awards": [
+    {
+      "title": "Multiple Technical Awards",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "certificates": [],
+  "publications": []
+}

@@ -1,0 +1,118 @@
+{
+  "basics": {
+    "name": "",
+    "label": "General Accountant",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Energetic and motivated student dedicated to providing top-quality patient care. 10 years of administrative support service, 5 of them in a senior position. Good at working in a team environment and demonstrating excellent interpersonal skills. Detailed and multi-task oriented. Believes in efficiently accomplishing any task.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "",
+        "username": "",
+        "url": ""
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "General Accountant",
+      "url": "",
+      "startDate": "2010-04",
+      "endDate": "2011-04",
+      "summary": "Maintained general ledgers, did bookkeeping, generated reports from Dun and Bradstreet, established credit limits for new customers, balanced books for end of month closing.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Medical Biller/Collector",
+      "url": "",
+      "startDate": "2009-12",
+      "endDate": "2010-04",
+      "summary": "Posted charges/payments, maintained patient charts and confidential files, prepared progress reports for workers compensation cases, processed liens for liability cases, managed M.D.'s calendars, prepared subpoenas, answered high-volume phones, checked-in at front desk and made schedules.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Lead of Clerical Services",
+      "url": "",
+      "startDate": "2000-08",
+      "endDate": "2009-12",
+      "summary": "Provided administrative support for senior management, presented education/training, maintained patient charts and confidential files, prepared statistical reports, transcribed diagnostic reports, prepared weekly staffing assignments, coordinated calendars and meetings, organized general staff meetings, prepared performance evaluations for all clerical staff, and prepared invoices from outside facilities. Prepared for HIPAA and JCAHO reviews.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "California State University, Northridge",
+      "url": "",
+      "area": "Nursing",
+      "studyType": "Bachelor",
+      "startDate": "2014",
+      "endDate": "2016",
+      "score": "3.56",
+      "courses": []
+    },
+    {
+      "institution": "College of the Canyons",
+      "url": "",
+      "area": "Nursing",
+      "studyType": "Associate",
+      "startDate": "2008-07",
+      "endDate": "2015",
+      "score": "3.77",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Basic Life Support (BLS) Certification",
+      "date": "2013-01-01",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Physical Assessment",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Post-operative Care",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Typing",
+      "level": "72 WPM",
+      "keywords": []
+    },
+    {
+      "name": "Computer",
+      "level": "MS Word/Excel/PowerPoint/Outlook, RIS, Health Connect, Symposium, Mainframe, Abraxas, SAP",
+      "keywords": []
+    },
+    {
+      "name": "Pediatric Nursing",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

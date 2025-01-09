@@ -1,0 +1,127 @@
+{
+  "basics": {
+    "name": "Information Technology Specialist",
+    "label": "Information Technology Specialist",
+    "summary": "An accomplished Chemical Engineer and IT Professional, with 10+ years of International work experience in Chemical Engineer Development. Skilled in research and data analysis and experienced in solving complex problems.",
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Information Technology Specialist",
+      "startDate": "2015-08",
+      "endDate": "2020-05",
+      "summary": "Build, implement or support electronic health records and other systems that store patient's data. Assisted in network management and software development. Took periodic review of set standards and database.",
+      "highlights": []
+    },
+    {
+      "name": "National Board for Technology Incubation, Abuja Nigeria (Federal Ministry of Science and Technology)",
+      "position": "Principal Chemical Engineer / Information Technology Specialist",
+      "startDate": "2005-10",
+      "endDate": "2015-06",
+      "summary": "Monitored, implemented, and maintained IT systems. Produced technical reports, analyzed data, and built databases. Facilitated discussions to resolve a safety concern with a key process monitoring instrument. Planned and designed technology related activities aimed at nurturing the growth of innovative businesses. Provided technical support and capacity building in science and technology. Collaborated with market development on new IT technologies for industrial and consumer groups.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Facility Engineer Intern",
+      "startDate": "2002-10",
+      "endDate": "2003-09",
+      "summary": "Analyzed process data from newly revamped furnace to improve efficiency of long-term performance monitoring plan by over 50%. Developed and maintained of engineering/operating standards through periodic review. Improved 40% Reliability/uptime performance and cost reduction efforts for the production units. Managed materials through preventive/corrective maintenance of products.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Engineer Intern",
+      "startDate": "2000-08",
+      "endDate": "2001-01",
+      "summary": "Produce a piping and instrumentation diagram of the pumphouse, cooling tower and condensate lines. Led weekly group meetings with interns and management for future improvements. Monitored, troubleshoot, and observed operations and processes for quality, damages and /or defects.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Lagos",
+      "area": "Chemical Engineering",
+      "studyType": "Master of Science",
+      "startDate": "",
+      "endDate": "2005-11",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "University of the District of Columbia",
+      "area": "Computer Science and Information Technology",
+      "studyType": "Master of Science Degree",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Federal University of Technology",
+      "area": "Chemical Engineering",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "",
+      "endDate": "2001-09",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "University of the District of Columbia",
+      "area": "Data Communication Network",
+      "studyType": "Course",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": ["Ample view towards 5g mobile network"]
+    },
+    {
+      "institution": "University of the District of Columbia",
+      "area": "Information Security",
+      "studyType": "Course",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": ["An overview of cloud software-as- a service (SaaS) computing model."]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Information Technology",
+      "level": "",
+      "keywords": [
+        "Administrative",
+        "Excellent Interpersonal Skills",
+        "Excellent Communication",
+        "cost reduction",
+        "databases",
+        "database",
+        "electronic health records",
+        "Information Security",
+        "market development",
+        "materials",
+        "meetings",
+        "Microsoft Products",
+        "network management",
+        "Network",
+        "organizational skills",
+        "Problem Solving Skills",
+        "processes",
+        "quality",
+        "Research",
+        "Risk analysis",
+        "safety",
+        "Security analysis",
+        "software development",
+        "technical support",
+        "troubleshoot",
+        "view"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

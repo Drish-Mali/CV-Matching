@@ -1,0 +1,158 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Admin Operating Room Administrative Coordinator",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Self-motivated individual with over 10 years' experience in prioritizing and completing tasks in a timely manner, yet flexible to multitask when necessary. Customer focused with diverse industry experience including insurance, non-profit and retail.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Admin Operating Room Administrative Coordinator",
+      "url": "",
+      "startDate": "2007-11-01",
+      "endDate": "Current",
+      "summary": "Comfortable in interacting with all levels of the organization and public.",
+      "highlights": [
+        "Scheduled and maintained the main operating room and surgical day care schedules for physician.",
+        "Supported all customers courteously and professionally.",
+        "Trained new hires to perform tasks independently.",
+        "Successfully adjusted to stressful conditions.",
+        "Maintained high levels of all departmental policies."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Mental Health Counselor - Intern",
+      "url": "",
+      "startDate": "2015-09-01",
+      "endDate": "2016-05-01",
+      "summary": "Assisted clients with severe mental illnesses and their families in accessing community services and maintaining independent lifestyles.",
+      "highlights": [
+        "Managed 10-15 clients from diverse backgrounds.",
+        "Maintained 90% productivity of billable services daily."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Healthcare Worker Assistant - Intern",
+      "url": "",
+      "startDate": "2013-01-01",
+      "endDate": "2013-05-01",
+      "summary": "Provided direct care services to families and helped them towards self-sufficiency.",
+      "highlights": [
+        "Conducted intake and assessments to determine needed services."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Operating Room Surgical Scheduler",
+      "url": "",
+      "startDate": "2010-05-01",
+      "endDate": "2015-04-01",
+      "summary": "Reviewed insurance and financial information with patients.",
+      "highlights": [
+        "Scheduled surgical appointments and maintained up-to-date confidential patient files.",
+        "Maintained high levels of departmental policies."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Dietary Assistant",
+      "url": "",
+      "startDate": "2002-07-01",
+      "endDate": "2010-07-01",
+      "summary": "Maintained sanitation, safety, and food preparation standards.",
+      "highlights": [
+        "Supervised a staff of 7."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Suffolk University",
+      "area": "Mental Health Counseling & Crime Justice",
+      "studyType": "Master of Science",
+      "startDate": "",
+      "endDate": "2016-12-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Suffolk University",
+      "area": "Psychology",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "2013-05-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Suffolk University",
+      "area": "Sociology Health Medicine and Body",
+      "studyType": "Bachelor of Arts",
+      "startDate": "",
+      "endDate": "2013-05-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Bunker Hill Community College",
+      "area": "Criminal Justice & Psychology",
+      "studyType": "Associate of Arts and Science",
+      "startDate": "",
+      "endDate": "2009-05-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "certificates": [],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Microsoft Office Suite",
+      "level": "",
+      "keywords": ["Word", "PowerPoint", "Excel"]
+    },
+    {
+      "name": "Multitasking",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "PeopleSoft",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "ADP Payroll",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "French",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Creole",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

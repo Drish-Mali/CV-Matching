@@ -1,0 +1,96 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Business Development Consultant",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Experienced Life Science Sales and Marketing specialist with track record in growing customer base and maximizing sales. Motivated and ambitious with ability to increase business opportunities through dynamic marketing strategies and effective communication. Able to use analytical skills and industry knowledge to develop innovative strategies for success.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": [
+    ]
+  },
+  "work": [
+    {
+      "name": "SGW Pharma Marketing",
+      "position": "Business Development Consultant",
+      "url": "",
+      "startDate": "Mar 2018",
+      "endDate": "Current",
+      "summary": "A B2B life science marketing agency focused on connecting drug development companies with target audiences (development partners, investors, service providers etc.) by developing and managing integrated, full circle marketing programs.",
+      "highlights": [
+        "Oversaw business, client and vendor negotiations.",
+        "Effectively directed internal marketing, communications and sales support staff.",
+        "Improved marketing plans, sales strategies and customer relations to maximize business development."
+      ]
+    },
+    {
+      "name": "American Laboratory Trading",
+      "position": "Account Executive",
+      "url": "",
+      "startDate": "Oct 2017",
+      "endDate": "Feb 2018",
+      "summary": "Provides asset management services and high-quality refurbished laboratory equipment to clients in the life science academia and industry.",
+      "highlights": [
+        "Promoted business growth in NC by maximizing existing client relationships and identifying new business opportunities through cold calling, networking, marketing and prospective database leads.",
+        "Completed daily outbound calls, up to 50 calls per day.",
+        "Successfully increased monthly sales revenue by 75% each month."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of North Carolina Wilmington",
+      "url": "",
+      "area": "Chemistry",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "2009",
+      "score": "3.45",
+      "courses": [
+        
+      ]
+    }
+  ],
+  "awards": [
+  ],
+  "certificates": [
+  ],
+  "publications": [
+  ],
+  "skills": [
+    {
+      "name": "Business Development",
+      "level": "Proficient",
+      "keywords": [
+        "Market Research and Analysis",
+        "Account Management",
+        "Marketing Management",
+        "Prospecting/Cold Calling",
+        "Knowledge of Drug Development Cycle",
+        "RFP/RFI/Bid Preparation",
+        "Sales and Marketing Strategizing",
+        "Public relations"
+      ]
+    }
+  ],
+  "languages": [
+    
+  ],
+  "interests": [
+    
+  ],
+  "references": [
+    
+  ],
+  "projects": [
+    
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Information Technology Specialist",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Seeking to obtain a career in Information Assurance with a focus on Cyber Network Defense. Has vast experience with Information Technology Specialist roles and is skilled in various IT related tasks like installing, deleting and adding user accounts with active directory, TCP/IP configuration, and more",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company",
+      "position": "Information Technology Specialist",
+      "url": "",
+      "startDate": "2018-02",
+      "endDate": "CURRENT",
+      "summary": "Defines scope, plans and deliverables for assigned projects. Coordinates and collaborates with others in analyzing collected requirements to ensure plans and identified solutions meet customer needs and expectations. Performs maintenance and troubleshoots network connectivity, printer, and other hardware issues for both uses on site and those that are remote. Assists users with deployment and maintenance of desktop workstations.",
+      "highlights": []
+    },
+    {
+      "name": "Department of State",
+      "position": "Diplomatic Security Service",
+      "url": "",
+      "startDate": "2016-06",
+      "endDate": "2018-01",
+      "summary": "Protected U.S. diplomats while visiting foreign dignitaries for diplomatic missions. Maintained security awareness in a federal environment. Assisted in employee management. Interacted with VIP personnel such as members of the Senate, foreign and domestic diplomats, and the Secretary of State.",
+      "highlights": []
+    },
+    {
+      "name": "Company",
+      "position": "Information Technology Interpreter",
+      "url": "",
+      "startDate": "2010-08",
+      "endDate": "2016-03",
+      "summary": "Assisted United States military in training foreign nationals on information technology such as basic troubleshooting and basic system set up. Diagnosed computer errors and provided technical support. Installed, configured and upgraded PC software and operating systems. Provided customer support for email, hosted applications, desktop, system and network problems within defined Service Level Agreements.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "ITSM",
+      "level": "Proficient",
+      "keywords": [
+        "Desktops",
+        "Ethernet cables",
+        "Cisco routers",
+        "Video & Sound Cards",
+        "CD-ROM Drives",
+        "Multiplexors",
+        "Scanners",
+        "Monitors",
+        "Switches",
+        "TCP/IP Configuration",
+        "Installing, adding and deleting user accounts with Active Directory",
+        "Microsoft Office",
+        "Remedy"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Dari",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Dutch", 
+      "fluency": "Fluent"
+    }, 
+    {
+      "language": "Russian", 
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

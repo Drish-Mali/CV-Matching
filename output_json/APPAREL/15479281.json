@@ -1,0 +1,107 @@
+{
+  "basics": {
+    "name": "",
+    "label": "PR & Event Manager",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Experienced creative marketing professional who consistently delivers high-quality and results-focused marketing content. In-depth knowledge of social media and PR management with expertise in identifying emerging market trends.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "State",
+      "region": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "PR & Event Manager",
+      "url": "",
+      "startDate": "2015-01-01",
+      "endDate": "Current",
+      "summary": "Coordinate all public relations activities. Manage social media platforms to engage audiences across traditional and new media...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Social Media Consultant",
+      "url": "",
+      "startDate": "2017-04-01",
+      "endDate": "Current",
+      "summary": "Build and execute social media strategy through competitive research...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "PR & Social Media Manager",
+      "url": "",
+      "startDate": "2013-01-01",
+      "endDate": "2017-01-01",
+      "summary": "Develop a follow growth strategy for social media...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Media Specialist",
+      "url": "",
+      "startDate": "2017-03-01",
+      "endDate": "2017-10-01",
+      "summary": "Develop weekly social & influencer programming across accounts...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Media Manager",
+      "url": "",
+      "startDate": "2017-10-01",
+      "endDate": "Current",
+      "summary": "Manage media inquiries and interview requests...",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Queen's University",
+      "url": "",
+      "area": "International Studies",
+      "studyType": "Bachelor of Arts",
+      "startDate": "2013-01-01",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Skills",
+      "level": "",
+      "keywords": [
+        "Adobe",
+        "Advertising",
+        "benchmarking",
+        "competitive research",
+        "forecasting",
+        "Google Analytics",
+        "Marketing research",
+        "marketing communications",
+        "Photography",
+        "press releases",
+        "Product marketing",
+        "sales",
+        "Social Media platforms"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

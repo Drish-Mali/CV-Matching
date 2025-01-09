@@ -1,0 +1,85 @@
+{
+  "basics": {
+    "name": "Anonymous",
+    "label": "Language Arts Teacher",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "To continue working with children, as well as youth where I will be able to utilize all skills in my expertise area (elementary/middle school.)",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "USA",
+      "region": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Language Arts Teacher",
+      "url": "",
+      "startDate": "2007-08-01",
+      "endDate": "Current",
+      "summary": "Co-Advisor Team Leader and teach Language Arts daily to sixth grade students...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Certified Teacher",
+      "url": "",
+      "startDate": "1988-08-01",
+      "endDate": "1995-05-01",
+      "summary": "Played an important role in fostering the intellectual and social development of children during their formative years...",
+      "highlights": []  
+    },
+    {
+      "name": "Company Name",
+      "position": "Co-Advisor Team Leader",
+      "url": "",
+      "startDate": "1995-08-01",
+      "endDate": "2007-05-01",
+      "summary": "Tutor Sixth & Seventh grade students that tested basic or below basic in Language Arts...",
+      "highlights": []  
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Arkansas at Pine Bluff",
+      "url": "",
+      "area": "Elementary Education",
+      "studyType": "M.A",
+      "startDate": "",
+      "endDate": "2005-05-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "University of Arkansas at Pine Bluff",
+      "url": "",
+      "area": "Elementary Education",
+      "studyType": "B.A",
+      "startDate": "",
+      "endDate": "1995-05-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Teaching",
+      "level": "Expert",
+      "keywords": ["Leadership", "Mathematics", "PowerPoint", "Microsoft Word", "Organizational Skills", "Art", "Reading", "Research"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

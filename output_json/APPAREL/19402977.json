@@ -1,0 +1,136 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Assistant Manager",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": [
+      
+    ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Assistant Manager",
+      "url": "",
+      "startDate": "2012-04-01",
+      "endDate": "Current",
+      "summary": "Manage an $8.4 million volume luxury shoe sales floor...",
+      "highlights": [
+        "Microsoft Office Suite"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Sales Associate- Designer & Salon Shoes",
+      "url": "",
+      "startDate": "2011-06-01",
+      "endDate": "2012-04-01",
+      "summary": "Competitive drive to succeed in a commission based environment...",
+      "highlights": [
+        "Microsoft Office Suite"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Sales Associate & Key",
+      "url": "",
+      "startDate": "2010-12-01",
+      "endDate": "2011-07-01",
+      "summary": "Responsibility of shipping and receiving in all areas ...",
+      "highlights": [
+        "Microsoft Office Suite"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Assistant VP",
+      "url": "",
+      "startDate": "2008-05-01",
+      "endDate": "2009-06-01",
+      "summary": "Managed details of conference calls, travel arrangements and meetings...",
+      "highlights": [
+        "Microsoft Office Suite"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Fashion Institute of Design and Merchandising",
+      "url": "",
+      "area": "",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "2009",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "San Diego Mesa College",
+      "url": "",
+      "area": "",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "2011",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Various",
+      "level": "",
+      "keywords": [
+        "closing",
+        "Competitive",
+        "client",
+        "customer service",
+        "delivery",
+        "direct sales",
+        "English",
+        "expense reports",
+        "inventory control",
+        "market trends",
+        "market",
+        "meetings",
+        "merchandising",
+        "Microsoft Office Suite",
+        "office",
+        "policies",
+        "pricing",
+        "receiving",
+        "Sales",
+        "sales reports",
+        "shipping",
+        "Spanish",
+        "travel arrangements"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Bilingual"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Bilingual"
+    }
+  ],
+  "interests": [
+
+  ],
+  "references": [
+
+  ]
+}

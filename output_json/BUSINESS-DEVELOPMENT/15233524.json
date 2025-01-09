@@ -1,0 +1,78 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Director of Business Development",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Experienced in establishing sales, marketing and outreach within the workers' compensation, law, health care and vocational rehabilitation industries. Skilled in Microsoft Word, Excel, Power Point and Access along with the internet usage for information and research.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Director of Business Development",
+      "url": "",
+      "startDate": "2009-01-01",
+      "endDate": "Current",
+      "summary": "Establish sales, marketing and outreach within the workers' compensation, law, health care and vocational rehabilitation industries. Created business-to-business sales strategy and marketing function for the business. Interact with providers, third party administrators, insurance companies, attorneys and other referral sources. Make personal on-site visits and educate and train clients on all services. Promote the business throughout the Central Pennsylvania and Philadelphia region. Develop and maintain business relationships with current and prospective clients.",
+      "highlights": ["Established a gift basket business specializing in corporate design"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Director",
+      "url": "",
+      "startDate": "1997-01-01",
+      "endDate": "2008-01-01",
+      "summary": "Business Retention and Expansion Program Directed the Business Retention and Expansion Program in this newly created position. Visited senior management of 175 businesses each year to market the EDC and assess business needs in the local economy and the workforce.",
+      "highlights": ["Directed all aspects of government relations including organizing volunteers and maintaining an active presence in Harrisburg."]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Lebanon Valley College",
+      "url": "",
+      "area": "International Studies",
+      "studyType": "MBA",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Central Atlantic Intermediate School of Banking Dickinson College Indiana University of Pennsylvania International",
+      "url": "",
+      "area": "International Studies",
+      "studyType": "B.A.",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Business Development",
+      "level": "Director",
+      "keywords": [
+        "Marketing", "Sales", "Business-To-Business Sales Strategy", "Client Relationship", "Microsoft Office Suite"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

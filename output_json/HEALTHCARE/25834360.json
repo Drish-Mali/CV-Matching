@@ -1,0 +1,95 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Field Nurse",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "California-licensed Vocational Nurse with 25+ years of experience. Maintain strong reputation for achieving high levels of patient satisfaction. Works effectively as a team member and interact a positive manner with patients, including difficult individuals.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": "California"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Field Nurse",
+      "url": "",
+      "startDate": "2011-01-01",
+      "endDate": "Current",
+      "summary": "Helped physicians examine and treat patients by assisting with instruments, injections and suture removal. Supported patients with customized patient teaching tools.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Staff Nurse/Detox Specialist",
+      "url": "",
+      "startDate": "2012-12-01",
+      "endDate": "2013-10-01",
+      "summary": "Recorded patients' medical history, vital statistics and test results in medical records. Provided education to patients on detox and withdrawal, medications, addiction, recovery, coping skills and community resources.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "California State University",
+      "url": "",
+      "area": "Business Administration",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "1999",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Franklin Pierce College",
+      "url": "",
+      "area": "American History",
+      "studyType": "Associate of Arts",
+      "startDate": "",
+      "endDate": "",
+      "score": "3.66",
+      "courses": []
+    },
+    {
+      "institution": "San Francisco Community College",
+      "url": "",
+      "area": "Nursing",
+      "studyType": "Licensed Vocational Nurse",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Nursing",
+      "level": "",
+      "keywords": [
+        "clarify",
+        "focus",
+        "law",
+        "Nursing",
+        "processes",
+        "scheduling",
+        "statistics",
+        "teaching"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

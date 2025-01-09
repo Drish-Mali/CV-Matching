@@ -1,0 +1,123 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Project Assistant",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "I aspire for a challenging position in a professional organization where I can enhance my skills and strengthen them in conjunction with the organization's goals. I am a multi-talented, respectful, assertive and willing-to-learn young lady whose primary vision is to improve and positively impact the world in its social, economic and political environments.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "ZW",
+      "region": "Zimbabwe"
+    },
+    "profiles": [
+      {
+        "network": "",
+        "username": "",
+        "url": ""
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Netherlands Development Organisation (SNV)",
+      "position": "Project Assistant",
+      "url": "",
+      "startDate": "2014-12-01",
+      "endDate": "2015-12-01",
+      "summary": "Project Assistant for Rural Agriculture Revitalisation Programme - Commercialisation of Smallholder Farming",
+      "highlights": [ "Implemented project with the assistance of the Senior Advisor which increased the agriculture sector productivity" ]
+    },
+    {
+      "name": "",
+      "position": "Agriculture Sector Intern",
+      "url": "",
+      "startDate": "2014-06-01",
+      "endDate": "2014-08-01", 
+      "summary": "3 months contract assisting a FAO Funded Project", 
+      "highlights": []
+    },
+    {
+      "name": "",
+      "position": "Attache",
+      "url": "",
+      "startDate": "2013-05-01",
+      "endDate": "2014-02-01", 
+      "summary": "I was an attach� under the RARP- CSF programme in the Agriculture sector", 
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Midlands State University",
+      "url": "",
+      "area": "Development Studies",
+      "studyType": "Bachelor of Arts",
+      "startDate": "",
+      "endDate": "2014",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "University of Zimbabwe",
+      "url": "",
+      "area": "Monitoring & Evaluation",
+      "studyType": "High School Diploma",
+      "startDate": "",
+      "endDate": "2015",
+      "score": "",
+      "courses": [ "Executive Certificate in Project Management, Monitoring & Evaluation" ]
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Certificate in Post-Harvest Management and Grading of Cereals, Pulses and Oil Seeds",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "Certificate in Fish Farming as a Business",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Active Listening",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Adminstrative management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Critical thinking",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Shona",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

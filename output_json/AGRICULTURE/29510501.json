@@ -1,0 +1,106 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Lead Teacher",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Seeking an Education Coordinator position with a company that will allow me to fully manage curriculum development, coordinate on the job training opportunities, utilize my communication, organizational, and problem solving skills.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Lead Teacher",
+      "url": "",
+      "startDate": "2014-01-01",
+      "endDate": "2015-07-01",
+      "summary": "Managed classes of up to 9 students. Designed 200 weekly lesson plans focused on age and level-appropriate material.",
+      "highlights": [
+        "Consistently received positive feedback from parents",
+        "Solved severe child behavioural issues in positive and constructive ways"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Teacher",
+      "url": "",
+      "startDate": "2008-01-01",
+      "endDate": "2014-01-01",
+      "summary": "Plan and conduct activities for a balanced program of instruction, demonstration, and work time that provides students with opportunities to observe, question, and investigate.",
+      "highlights": [
+        "Spearheaded Better Together Partnership Program",
+        "Spearheaded Bright Horizons Foundation"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Security and Property Clerk",
+      "url": "",
+      "startDate": "2007-06-01",
+      "endDate": "2007-08-01",
+      "summary": "Drafted meeting agendas, supplied advance materials and executed follow-up for meetings and team conferences.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Office Automation Clerk",
+      "url": "",
+      "startDate": "2006-06-01",
+      "endDate": "2006-08-01",
+      "summary": "Managed the receptionist area, including greeting visitors and responding to telephone and in-person requests for information.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Concordia University",
+      "url": "",
+      "area": "Educational Leadership",
+      "studyType": "Masters",
+      "startDate": "",
+      "endDate": "2016-01-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "University of Maryland Eastern Shore Princess",
+      "url": "",
+      "area": "Sociology",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "2011-01-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Teaching Skills",
+      "level": "",
+      "keywords": [
+        "Microsoft Office",
+        "Teaching Strategies GOLD: Creative Curriculum",
+        "CDA-Infants & Toddlers Teaching skills",
+        "Maryland Child Care Credential Certified Daycare Provider",
+        "Classroom management Basic clerical knowledge"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

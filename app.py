@@ -1,4 +1,4 @@
-from fastapi import FastAPI, Query
+from fastapi import FastAPI, File, UploadFile
 import os
 import json
 import pdfplumber
@@ -17,6 +17,7 @@ from pipelines.langauge_translator import LanguageTranslator
 import asyncio
 from pydantic import BaseModel
 from typing import Optional
+import shutil
 
 class JobRequest(BaseModel):
     pdf_path:str 
@@ -291,22 +292,48 @@ async def extract_top_k(pdf_path,top_k):
     results=query_top_k_similar_job_description(work_paragraph, education_paragraph, skills_projects_paragraph, db_config,k=top_k)
     return results
 
+# @app.post("/extract_top_k_job/")
+# async def extract_top_k_job_endpoint(request: JobRequest):
+#     """
+#     Endpoint to extract the top-k jobs from a PDF.
+
+#     Args:
+#         request (JobRequest): Request body containing 'pdf_path' and 'top_k'.
+
+#     Returns:
+#         dict: Dictionary containing the extracted top-k job recommendations for the given CV.
+#     """
+#     pdf_path = request.pdf_path
+#     top_k = request.top_k
+#     pdf_path="C:\\Users\\deepa\\Downloads\\cv matching\\data\\data\\INFORMATION-TECHNOLOGY\\10089434.pdf"
+#     top_k_results = await extract_top_k(pdf_path,top_k)
+#     return {"results": top_k_results}
+
 @app.post("/extract_top_k_job/")
-async def extract_top_k_job_endpoint(request: JobRequest):
+async def extract_top_k_job_endpoint(top_k: Optional[int] = None, file: UploadFile = File(...)):
     """
-    Endpoint to extract the top-k jobs from a PDF.
+    Endpoint to extract the top-k jobs from an uploaded PDF.
 
     Args:
-        request (JobRequest): Request body containing 'pdf_path' and 'top_k'.
+        top_k (Optional[int]): The number of top job recommendations to extract (default is None).
+        file (UploadFile): The uploaded PDF file containing the CV.
 
     Returns:
-        dict: Dictionary containing the extracted top-k job recommendations for the given CV.
+        dict: Dictionary containing the extracted top-k job recommendations for the uploaded CV.
     """
-    pdf_path = request.pdf_path
-    top_k = request.top_k
-    #pdf_path="C:\\Users\\deepa\\Downloads\\cv matching\\data\\data\\INFORMATION-TECHNOLOGY\\10089434.pdf"
-    top_k_results = await extract_top_k(pdf_path,top_k)
+    # Save the uploaded PDF file temporarily
+    pdf_path = f"temp_{file.filename}"
+    with open(pdf_path, "wb") as buffer:
+        shutil.copyfileobj(file.file, buffer)
+
+    # Call the extract_top_k function with the uploaded file
+    top_k_results = await extract_top_k(pdf_path, top_k)
+
+    # Optionally, remove the temporary file after processing
+    os.remove(pdf_path)
+
     return {"results": top_k_results}
+
 
 
 
@@ -382,10 +409,12 @@ async def process_with_chatgpt_jd(text):
 
 async def extract_top_k_cv(job_description,top_k):
     result = await process_with_chatgpt_jd(job_description)
+    print(result)
     parsed_result = json.loads(result) 
-    df=pd.Series(parsed_result)
+    df=pd.Series(result)
+    print(df)
     df.fillna('',inplace=True)
-    results=query_top_k_similar_cv(df['work_experience'], df['education'], df['skills'], db_config,top_k)
+    results=query_top_k_similar_cv(parsed_result.get("work_experience", {}), parsed_result.get("education", {}), parsed_result.get("skills", {}), db_config,top_k)
     formatted_results = [
         {"id": result[0], "cv_id": result[1], "distance": result[2]} for result in results
     ]
@@ -411,7 +440,31 @@ async def extract_top_k_cv_endpoint(request:CVRequest):
     job_description=request.job_description
     top_k=request.top_k
     #job_description="bachelors degree or equivalent practical experience years of experience in saas or productivity tools businessexperience managing enterprise accounts with sales cycles"
-    
+#     job_description = """
+# Web designers looking to expand your professional reach, welcome to Robert Half Marketing & Creative. Start the process with Robert Half today.
+
+# We are searching for highly skilled web designers with experience working within corporate brand standards and guidelines. The ideal candidates would have advanced skills in creating wireframes, designing mobile applications, landing pages, interactive sites, QA testing, experience working with various interfaces, and familiarity with UX/UI design principles. Candidates are expected to have strong skills in Adobe Photoshop, Illustrator, and InDesign. Any experience in HTML, CSS, and JavaScript is a major plus. Familiarity with content management systems is highly preferred.
+
+# There is nothing more satisfying when looking for freelance and full-time creative opportunities than working with someone who knows your area of expertise. As industry professionals, Robert Half Marketing & Creative is a team that puts your needs first and effectively represents you as a creative talent. That's the kind of service you'll receive from our team at Robert Half.
+
+# We have marketing, advertising, and creative backgrounds just like yours—so we’re on your side right from the start. Could you ask for a better support team?
+
+# Requirements:
+# - 2+ years of experience in a web design role.
+# - Experience working within a client's brand standards or guidelines.
+# - Advanced skill in the Adobe Creative Cloud.
+
+# Innovation starts with people.
+
+# Robert Half is the world’s first and largest specialized talent solutions firm that connects highly qualified job seekers to opportunities at great companies. We offer contract, temporary, and permanent placement solutions for finance and accounting, technology, marketing and creative, legal, and administrative and customer support roles.
+
+# Robert Half puts you in the best position to succeed by advocating on your behalf and promoting you to employers. We provide access to top jobs, competitive compensation and benefits, and free online training. Stay on top of every opportunity—even on the go.
+
+# Questions? Call your local office at [number]. Robert Half will consider qualified applicants with criminal histories in a manner consistent with the requirements of the San Francisco Fair Chance Ordinance. All applicants applying for U.S. job openings must be legally authorized to work in the United States. Benefits are available to temporary professionals. Visit [website] for more information.
+
+# Robert Half is an Equal Opportunity Employer M/F/Disability/Veterans. By clicking "Apply Now," you’re agreeing to our terms.
+# """
+
     top_k_results = await extract_top_k_cv(job_description=job_description,top_k=top_k)
     return {"results": top_k_results}
 

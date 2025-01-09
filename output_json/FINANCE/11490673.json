@@ -1,0 +1,113 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Finance Manager",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Financial Lead with company oversight, committed to strategic management and quality performance.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Finance Manager",
+      "url": "",
+      "startDate": "2013-09-01",
+      "endDate": "Current",
+      "summary": "Financial and accounting lead for the division responsible for P&L performance, achieving EBTIA and working capital targets.",
+      "highlights": [
+        "Partner with executive team driving strategic growth and initiatives",
+        "Customer MDA negotiations, margin schedules and profit models",
+        "Monitors divisional SOX compliance, month end procedures and gap closure performance",
+        "Manages and supports the inventory control team, accounting clerk staff, contract coordinators, and IT"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Senior Administrator",
+      "url": "",
+      "startDate": "2011-10-01",
+      "endDate": "2013-09-01",
+      "summary": "Responsible for internal accounting and human resource functions.",
+      "highlights": [
+        "In Charge of G/L and distribute P&L reports for USA headquarters and South East Asia (SEA) distribution center",
+        "Implemented control procedures; training decision makers on key ratios and operating activities",
+        "Implemented necessary policies, ensuring company compliance with state and federal regulations."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Director of Accounting",
+      "url": "",
+      "startDate": "2007-02-01",
+      "endDate": "2011-06-01",
+      "summary": "Primary role is to monitor control systems and management reporting, ensuring accurate and timely preparation of financial statements.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Accounting & Benefits Manager",
+      "url": "",
+      "startDate": "2006-06-01",
+      "endDate": "2007-02-01",
+      "summary": "Performed accounting support for three company locations.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Western International University",
+      "url": "",
+      "area": "Business Administration Human Resource Management",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "",
+      "score": "Cum Laude",
+      "courses": []
+    },
+    {
+      "institution": "George Mason University",
+      "url": "",
+      "area": "Accounting",
+      "studyType": "Certificate",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Accounting",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Business Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Finance",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

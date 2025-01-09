@@ -1,0 +1,73 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Manager, Information Technology Project Management Office",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Highly motivated and driven Manager of the Project Management Office (PMO) with over 17 years of experience. Passionate about PMO engagement in health care.",
+    "location": {},
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Manager, Information Technology Project Management Office",
+      "url": "",
+      "startDate": "2008-06",
+      "endDate": "Current",
+      "summary": "Manage portfolio of all PMO projects related to Corporate Services, Infrastructure related projects and manage two teams of Project managers",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Project Manager /Application Systems Analyst III",
+      "url": "",
+      "startDate": "2004-06",
+      "endDate": "2008-06",
+      "summary": "Project manager for multiple new information technology systems per year, ranging from $500k to $4M budgets",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "VPI & SU (Virginia Tech)",
+      "url": "",
+      "area": "Foreign Languages and Literatures",
+      "studyType": "B.A",
+      "startDate": "1997",
+      "endDate": "",
+      "score": "",
+      "courses": [
+         "Project Management Certification"
+      ]
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Project Management Professional",
+      "date": "2012-2015",
+      "issuer": "Project Management Institute",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "PMO Management",
+      "level": "",
+      "keywords": [
+        "Conflict resolution",
+        "Communication",
+        "Leadership"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

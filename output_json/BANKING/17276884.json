@@ -1,0 +1,119 @@
+{
+  "basics": {
+    "name": "Vera Perry",
+    "label": "Mortgage Banking Executive Analyst",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Focused Operations Manager successful in contract negotiation and process improvement. Remains calm and poised even in high-pressure   situations. Leverages in-depth knowledge of industry trends and shifts to offer valuable insights on opportunities for new growth and expansion.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Mortgage Banking Executive Analyst",
+      "url": "",
+      "startDate": "2009-01",
+      "endDate": "Current",
+      "summary": "Responsible for escalated issues and problem solving providing support by answering inquiries for Internal and External Partners, Senior Management and Third Party Customers relating delinquent mortgage accounts with the intent to bring delinquent accounts current...",
+      "highlights": [
+        "Sound judgment",
+        "Skilled negotiator",
+        "Calm under pressure",
+        "Complex problem solving"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Business Manager - Analyst",
+      "url": "",
+      "startDate": "2003-01",
+      "endDate": "2015-02",
+      "summary": "Research accounts when needed to resolve delinquency & payment issue that has been applied incorrectly and issue credits when needed...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Deposit Recovery Collector",
+      "url": "",
+      "startDate": "2006-01",
+      "endDate": "2009-01",
+      "summary": "Was responsible for customer communications to make to scheduled payment arrangements to bring past due accounts current...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Senior Tax Preparer Manager",
+      "url": "",
+      "startDate": "2003-01",
+      "endDate": "2007-01",
+      "summary": "Managed a staff of ten (10) plus tax preparers...",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "San Francisco State University",
+      "url": "",
+      "area": "Management",
+      "studyType": "Bachelors of Science",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "CAL State Hayward",
+      "url": "",
+      "area": "Accounting",
+      "studyType": "Bachelor of Business Administration",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Operations management",
+      "level": "Master",
+      "keywords": []
+    },
+    {
+      "name": "Staff training",
+      "level": "Master",
+      "keywords": []
+    },
+    {
+      "name": "Supervision and training",
+      "level": "Master",
+      "keywords": []
+    },
+    {
+      "name": "Change management",
+      "level": "Master",
+      "keywords": []
+    },
+    {
+      "name": "Cross-functional team management",
+      "level": "Master",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

@@ -1,0 +1,140 @@
+{
+  "basics": {
+    "name": "Not provided",
+    "label": "IT Support Officer",
+    "image": "",
+    "email": "Not provided",
+    "phone": "Not provided",
+    "url": "Not provided",
+    "summary": "Cisco certified Network Associates with nearly 6 year & 3 months of experience in Site & Networking Operations, Installation, Configuration, Technical Support/Troubleshooting, Incident Management as well as Client Servicing.",
+    "location": {
+      "address": "Village:- Jhinna, Post:- Abhana, Disit:- Damoh, (M.P.) Pin Code - 470662",
+      "postalCode": "470662",
+      "city": "Damoh",
+      "countryCode": "IN",
+      "region": "Not provided"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "IT Support Officer",
+      "url": "",
+      "startDate": "2011-03-01",
+      "endDate": "2015-08-01",
+      "summary": "Manage the data server and data security. Successfully performed configuration of NAS Server, AD Server, Child Domain, Cisco Router, Firewalls, Network Printers etc.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "System Administrator",
+      "url": "",
+      "startDate": "2010-04-01",
+      "endDate": "2011-01-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Lab Technician Technical Support",
+      "url": "",
+      "startDate": "2009-04-01",
+      "endDate": "2010-03-01",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "EIILM University",
+      "url": "",
+      "area": "Not provided",
+      "studyType": "B.A",
+      "startDate": "Not provided",
+      "endDate": "Not provided",
+      "score": "Not provided",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "MCP - Microsoft Certified Professional",
+      "date": "2013-06-01",
+      "issuer": "Microsoft",
+      "url": "Not provided"
+    },
+    {
+      "name": "CCNA - Cisco Certified Network Associates",
+      "date": "2009-12-01",
+      "issuer": "Cisco",
+      "url": "Not provided"
+    },
+    {
+      "name": "JCHNP - Jetking Certified Hardware Networking Professional",
+      "date": "2010-01-01",
+      "issuer": "Jetking Infotrain Limited",
+      "url": "Not provided"
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Networking",
+      "level": "Professional",
+      "keywords": [
+        "Active Directory",
+        "Backup",
+        "CCNA",
+        "CISCO",
+        "Cisco Certified",
+        "Computer Hardware",
+        "DHCP",
+        "DNS",
+        "EIGRP",
+        "ERPs",
+        "FTP",
+        "GUI",
+        "IP",
+        "LAN",
+        "Microsoft Certified Professional",
+        "Microsoft Office",
+        "Migration",
+        "Network Printers",
+        "Networking",
+        "OSPF",
+        "RIP",
+        "Routers",
+        "Routing",
+        "SAP Basis",
+        "Servers",
+        "Switches",
+        "TELNET",
+        "Technical Support",
+        "Troubleshooting",
+        "WAN",
+        "Windows Server"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Not provided"
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Not provided"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Playing Cricket",
+      "keywords": []
+    }
+  ],
+  "references": [],
+  "projects": []
+}

@@ -1,0 +1,90 @@
+{
+  "basics": {
+    "name": "Kristy Bishop",
+    "label": "General Business Management",
+    "email": "",
+    "phone": "",
+    "summary": "Entrepreneurial indirect sales executive passionate about building productive relationships with clients, partners and team members. New customer acquisition expert who emphasizes mix of online and in person marketing strategies.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company",
+      "position": "General business management",
+      "startDate": "2007-05-01",
+      "endDate": "2014-12-01",
+      "summary": "Providing first person of contact for customers as well as employees.",
+      "highlights": [
+        "Training and mentoring new hires, ensuring all regulations were met and company policy was being used",
+        "Analyzed ratings and business features of competitors to evaluate the effectiveness of marketing strategies",
+        "Proficient in SQL, ordering, product management, inventory, organization, product knowledge staffing opportunities, products and services"
+      ]
+    },
+    {
+      "name": "Company",
+      "position": "NW Florida Regional Commercial Sales Manager",
+      "startDate": "2007-03-01",
+      "endDate": "2009-01-01",
+      "summary": "I was the sole commercial sales manager for the NE region from South Georgia through Deland Fl.",
+      "highlights": ["Increased sales in my territory with both new clients, and follow ups with clients we had worked with before"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "St. Johns River State College",
+      "area": "General Studies / Psychology & Business",
+      "studyType": "High School Diploma",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": [
+        "General Studies",
+        "Psychology & Business"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Communication skills",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Account management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Data entry",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Directing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Active listener",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Creative problem solver",
+      "level": "",
+      "keywords": []
+    }
+  ]
+}

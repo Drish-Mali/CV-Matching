@@ -1,0 +1,110 @@
+{
+  "basics": {
+    "name": "Unavailable",
+    "label": "Senior Product Development Manager",
+    "image": "",
+    "email": "Unavailable",
+    "phone": "Unavailable",
+    "url": "Unavailable",
+    "summary": "Respected Retail Professional who leverages expertise in production, negotiation, supplier management, and relationship building skills, to drive and deliver solid business results. Highly adept with working with cross-functional teams and key stakeholders to maximize business opportunities.",
+    "location": {
+      "address": "Unavailable",
+      "postalCode": "Unavailable",
+      "city": "Unavailable",
+      "countryCode": "Unavailable",
+      "region": "Unavailable"
+    },
+    "profiles": [
+      {
+        "network": "Unavailable",
+        "username": "Unavailable",
+        "url": "Unavailable"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Senior Product Development Manager",
+      "url": "Unavailable",
+      "startDate": "2015-07-01",
+      "endDate": "Current",
+      "summary": "Created a robust Product Development Team that interacts with Design and Sales in partnership with the parent company TAL, the world's leading manufacturer of Men's high quality dress shirts. Created structure and organization to build a Product Development team that executes to strict time & action guidelines.",
+      "highlights": [
+        "Created a robust Product Development Team",
+        "Developed Processes and Systems to improve workload efficiencies and improve timing of deliverables"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Sourcing Senior Manager",
+      "url": "Unavailable",
+      "startDate": "2007-01-01",
+      "endDate": "2015-01-01",
+      "summary": "Served as a key member of JCPenney's private label sourcing team. Leveraged extensive knowledge of cotton rich products, fabric construction, and garment production, and drove the execution of strategic global sourcing activities.",
+      "highlights": [
+        "Managed key vendor relationships",
+        "Produced cost savings of millions of dollars over multiple programs"
+      ]
+    }
+  ],
+  
+  "volunteer": [
+    {
+      "organization": "Samaritan Inn of McKinney",
+      "position": "Volunteer",
+      "url": "Unavailable",
+      "startDate": "Unavailable",
+      "endDate": "Unavailable",
+      "summary": "Volunteered at Texas Collin County's largest Homeless Shelter.",
+      "highlights": [
+        "Volunteered at a homeless shelter"
+      ]
+    }
+  ],
+  
+  "education": [
+    {
+      "institution": "Unavailable",
+      "url": "Unavailable",
+      "area": "Merchandising and Marketing",
+      "studyType": "Bachelor of Science",
+      "startDate": "Unavailable",
+      "endDate": "Unavailable",
+      "score": "Unavailable",
+      "courses": [ "Unavailable" ]
+    }
+  ],
+
+  "awards": [],
+
+  "certificates": [],
+
+  "publications": [],
+
+  "skills": [
+    {
+      "name": "Team Leadership",
+      "level": "Master",
+      "keywords": [
+        "Project Management",
+        "Process Improvement",
+        "Product Launch",
+        "Global Experience",
+        "Innovation",
+        "Problem Solving",
+        "Client Relations",
+        "Budget Management",
+        "Contract negotiation"
+      ]
+    }
+  ],
+
+  "languages": [],
+
+  "interests": [],
+
+  "references": [],
+
+  "projects": []
+}

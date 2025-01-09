@@ -1,0 +1,120 @@
+{
+  "basics": {
+    "name": "Engineering Tech",
+    "image": "",
+    "summary": "Dedicated team player with extensive knowledge of electrical engineering concepts and a creative aptitude for new product development.",
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Engineering Tech",
+      "startDate": "2008-09-01",
+      "endDate": "Current",
+      "summary": "Worked in engineering team running, compiling, developing, and analyzing factory experiments aimed to improve Intel's Far Back End Lithography process. Used computer and speaking skills to successfully complete and report multiple individual/group tasks related to equipments' performance.",
+      "highlights": ["developed automated reports using SQL that displayed factory performance", "Developed procedures for advanced maintenance on semiconductor equipment that would transfer worldwide."]
+    },
+    {
+      "name": "Company Name",
+      "position": "Manufacturing Technicican",
+      "startDate": "2000-08-01",
+      "endDate": "2008-09-01",
+      "summary": "Performed advanced maintenance on high voltage equipment. Work environment included hazardous chemical / gas exposure and mitigation techniques for these exposures. Responded and communicated with senior engineers on daily positions"
+    },
+    {
+      "name": "Company Name",
+      "position": "Senior Capstone Project",
+      "startDate": "2007-09-01",
+      "endDate": "2008-06-01",
+      "summary": "Specified, selected, and implemented a Supervisory Control and Data Acquisition System to gather data from wind generators and a weather station. The final system used a crossbow mote that acquired generator speed, current output, voltage, wind speed, wind direction, temperature, and sunlight."
+    },
+    {
+      "name": "Company Name",
+      "position": "Research and Development Associate",
+      "startDate": "2000-05-01",
+      "endDate": "2000-09-01",
+      "summary": "Worked in wood products development, team-designing and testing pre-market materials. Assisted in all phases of product characterization and utilized project documentation defining standards, specifications, plans, prints, schematics and/or other necessary documentation required to achieve defined project goals."
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Company Name",
+      "position": "Head Freshmen Basketball Coach",
+      "startDate": "1999-09-01",
+      "endDate": "2000-03-01",
+      "summary": "Guided a team of high school boys in developing athletic and social skills. Responsibilities included planning and organizing team meetings, practices and events, and had full social accountability of youths during away trips."
+    },
+    {
+      "organization": "Company Name",
+      "position": "Research Assistant",
+      "startDate": "1999-05-01",
+      "endDate": "1999-10-01",
+      "summary": "Participated in the implementation of a project to regulate nuisance vegetation using natural biological controls (grass carp). Responsibilities included preparing reagents and other media required for daily vegetation study, analyzing and logging vegetative samples in orderly fashion, and recovery of biological controls."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Portland State University",
+      "area": "Electrical Engineering",
+      "studyType": "B.S.",
+      "startDate": "",
+      "endDate": "2009-06-01"
+    },
+    {
+      "institution": "Southern Oregon University",
+      "area": "Biology Chemistry",
+      "studyType": "B.S.",
+      "startDate": "",
+      "endDate": "2000-06-01"
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "First Aid Certified",
+      "date": "2008-01-01",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "Blood Borne Pathogen Certified",
+      "date": "2008-01-01",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "Automated Electric Defibrillator Certified",
+      "date": "2008-01-01",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "CPR certified",
+      "date": "2008-01-01",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Lab Expertise",
+      "level": "Master",
+      "keywords": ["SEM","EDX","DIB", "X-Ray Analysis", "Gas Chromatography", "High Purity Liquid Chromatography", "Stress/Strain collection", "MicroPolisher", "MicroCleaver", "Goniometer"]
+    },
+    {
+      "name": "Software Knowledge",
+      "level": "Master",
+      "keywords": ["C++", "SQL", "Verilog", "VHDL", "MatLab", "PSpice", "LTSpice", "PowerWorld", "LabView", "Windows 2000/XP", "Web Design", "MS Office", "HTML programming"]
+    }
+  ],
+  "languages": [],
+  "interests": [
+    {
+      "name": "Interests",
+      "keywords": ["Intercollegiate Basketball Participant", "Southern Oregon Men's Basketball Team Member", "Chartered American Cancer Society's Hillsboro Relay for Life", "Family", "fishing", "basketball", "hiking", "computers"]
+    }
+  ],
+  "references": [],
+  "projects": []
+}

@@ -1,0 +1,113 @@
+{
+  "basics": {
+    "name": "Not provided",
+    "label": "Kindergarten Teacher",
+    "image": "",
+    "email": "Not provided",
+    "phone": "Not provided",
+    "url": "Not provided",
+    "summary": "Energetic, results-oriented team-player eager to bring strong administrative skills to a growing company in need of top-level support.",
+    "location": {
+      "address": "Not provided",
+      "postalCode": "Not provided",
+      "city": "Not provided",
+      "countryCode": "Not provided",
+      "region": "Not provided"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Not provided",
+      "position": "Kindergarten Teacher",
+      "url": "Not provided",
+      "startDate": "2013-09-01",
+      "endDate": "Current",
+      "summary": "Create engaging and inquiry based lesson plans in accordance with District-wide curriculum units following Common Core standards for Kindergarten. Differentiate instruction according to students' ability and skill level.",
+      "highlights": [
+        "Received an Award from the Boys & Girls Club of Nashua; 2014-2015 Teacher of the Year Award for Kindergarten"
+      ]
+    },
+    {
+      "name": "Not provided",
+      "position": "K-5 Literacy & Math Interventionist",
+      "url": "Not provided",
+      "startDate": "2008-09-01",
+      "endDate": "2013-09-01",
+      "summary": "Provided daily small group literacy and math intervention services using researched based programs for students, K-5, who are at risk of failing to meet district and state standards.",
+      "highlights": []
+    }
+   ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Rivier University",
+      "url": "Not provided",
+      "area": "Elementary Education",
+      "studyType": "Masters",
+      "startDate": "Not provided",
+      "endDate": "2008",
+      "score": "Not provided",
+      "courses": []
+    },
+    {
+        "institution": "Rivier University",
+        "url": "Not provided",
+        "area": "Business Management",
+        "studyType": "Bachelor",
+        "startDate": "Not provided",
+        "endDate": "1987",
+        "score": "Not provided",
+        "courses": []
+    },
+    {
+        "institution": "Nashua Community College",
+        "url": "Not provided",
+        "area": "Administrative Secretarial Management",
+        "studyType": "Associate",
+        "startDate": "Not provided",
+        "endDate": "1982",
+        "score": "Not provided",
+        "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Teacher of the Year Award for Kindergarten",
+      "date": "2014",
+      "awarder": "Boys & Girls Club of Nashua",
+      "summary": "Not provided"
+    }
+  ],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Administrative",
+      "level": "Not provided",
+      "keywords": [
+        "Microsoft Office: Word",
+        "PowerPoint",
+        "Excel",
+        "Outlook",
+        "Resourceful & adaptable",
+        "Inspiration Software",
+        "Professional and mature",
+        "Publisher Software",
+        "Self-starter/self-directed",
+        "Quick learner/Adaptable",
+        "Results-oriented",
+        "Strong Typing Skills",
+        "Flexible & adaptable",
+        "Lifelong learner",
+        "Time management",
+        "Proofreading/Grammar",
+        "Meticulous attention to detail"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

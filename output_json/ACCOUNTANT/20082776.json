@@ -1,0 +1,144 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Senior Accountant",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "11+ years of experience in the accounting profession. Bachelors Degree in Accounting and studying for CPA license. Managed tax preparation and filing for 25 diverse companies in many different industries for 10 different states. Results-oriented Accountant skilled in regulatory reporting, tax accounting operations with an extensive knowledge of accounting software and processes.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Senior Accountant",
+      "url": "",
+      "startDate": "2011-01-01",
+      "endDate": "Current",
+      "summary": "Successfully negotiated settlement with the NC State Revenue Dept to keep restaurant owner from losing business. Reconciled 6 years of tax returns for Performance Motorcycle shop in three months bring client current with all tax filings. Managed 10 business accounts and 30 individual clients payroll and tax needs.",
+      "highlights": [
+        "Conducted detailed technical review of tax returns.",
+        "Maintained accurate accounts.",
+        "Streamlined accounting and billing activities.",
+        "Saved over $20,000 as a result of an audit."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Accountants Payable/Receivable & Purchasing Administrator",
+      "url": "",
+      "startDate": "2012-01-01",
+      "endDate": "Current",
+      "summary": "Audit credit card bills and transactions, process check requests, & cash receipts. Prepared, calculated and filed monthly multi-state sales and use tax returns. Reconcile vendor statements, resolve customer & vendor inquiries. Maintain consignment accounts, assist with purchasing & inventory management. Obtain credit references, set-up new customer accounts.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Accountant",
+      "url": "",
+      "startDate": "2011-01-01",
+      "endDate": "2012-01-01",
+      "summary": "Prepare payroll, sales and use tax, employment taxes, employer taxes, annual reports. Manage two separate entities (corporation and proprietorship). Transformed company into a positive financial standing. Implemented modern tax & accounting software increasing office productivity.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Accounts Receivable & Collection Manager",
+      "url": "",
+      "startDate": "2010-01-01",
+      "endDate": "2011-01-01",
+      "summary": "Successfully collected and deposit of $1,200,000.00 of outstanding debt from General Contractors on current and past projects. Amended incorrect corporate, multi-state sales and use tax returns for 3 different entities. Filed bond claims with Surety Company on defaulted contracts.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Accountant",
+      "url": "",
+      "startDate": "2002-01-01",
+      "endDate": "2011-01-01",
+      "summary": "Prepared/Filed Individual & Corporate Income Taxes. Liaison with various government departments. Managed and implemented the installation of accounting and tax software programs.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Colorado Technical University",
+      "url": "",
+      "area": "Accounting",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "2010",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Rowan Cabarrus Community College",
+      "url": "",
+      "area": "Accounting",
+      "studyType": "Associate of Arts and Applied Science",
+      "startDate": "",
+      "endDate": "2007",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Basics in Accounting",
+      "date": "2010-02",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "Financial Statement Analysis",
+      "date": "2010-05",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Accounting",
+      "level": "Senior",
+      "keywords": [
+        "Payroll",
+        "Tax filing",
+        "General ledger accounting",
+        "Financial statement analysis",
+        "Accounts Payable & Receivable",
+        "Regulatory reporting",
+        "Multi-State Sales Tax Filing",
+        "Analytical reasoning",
+        "Account reconciliation"
+      ]
+    },
+    {
+      "name": "Software",
+      "level": "Advanced",
+      "keywords": [
+        "Lotus I",
+        "Quick Books",
+        "Sage",
+        "PeachTree",
+        "Adobe",
+        "MS Office",
+        "Payroll Mate"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

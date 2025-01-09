@@ -1,0 +1,191 @@
+{
+  "basics": {
+    "name": "",
+    "label": "ASP.NET Web Developer",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Accomplished ASP.NET Web Developer with a history of awards related to work performance.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": [
+      {
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "ASP.Net Web Developer",
+      "url": "",
+      "startDate": "2015-04-01",
+      "endDate": "Current",
+      "summary": "Managed migration of IU Print website from ColdFusion to ASP.Net using MVC Framework. Created a prototype dashboard for IU Print Analytics module using High Charts.",
+      "highlights": [
+        "IU Print Website Migration and Prototype Dashboard Creation"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Software Engineer",
+      "url": "",
+      "startDate": "2011-07-01",
+      "endDate": "2014-07-01",
+      "summary": "Designed and developed an application to migrate legacy data to ASP.Net application by providing the ability to validate the data to meet business rules for the new application. Designed the story board using HTML and CSS and designed database for applications by analyzing the customer requirements. Performed code reviews of the modules developed by other team members and participated in pair programming to improve the coding standards of the overall application.",
+      "highlights": [
+        "Application development for Data Migration",
+        "Participation in Improving Coding Standards"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "",
+      "position": "",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Indiana University",
+      "url": "",
+      "area": "Computer Science",
+      "studyType": "Masters",
+      "startDate": "2014-08-01",
+      "endDate": "2015-12-01",
+      "score": "3.55",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Jawaharlal Nehru Technological University",
+      "url": "",
+      "area": "Computer Science and Engineering",
+      "studyType": "Bachelor of Technology",
+      "startDate": "2007-09-01",
+      "endDate": "2011-05-01",
+      "score": "",
+      "courses": [
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Associate of the Month award at CYIENT",
+      "date": "",
+      "awarder": "CYIENT",
+      "summary": ""
+    },
+    {
+      "title": "Team of the Month award for projects such as DEBTS and eRFA",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    },
+    {
+      "title": "3rd in SIASAT's national level talent search examination during high school",
+      "date": "",
+      "awarder": "SIASAT",
+      "summary": ""
+    }
+  ],
+  "certificates": [
+    {
+      "name": "RFA Professional Affiliations",
+      "date": "",
+      "issuer": "RFA Professional Affiliations",
+      "url": ""
+    }
+  ],
+  "publications": [
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Advanced",
+      "keywords": [
+        "ASP",
+        "ASP.NET", 
+        "Model View Controller", 
+        "Model-view-controller", 
+        "MS ASP", 
+        "MVC", 
+        ".NET", 
+        "ADP Application Software", 
+        "ASP.NET 4.0", 
+        "Bootstrap",
+        "C#", 
+        "CSS", 
+        "HTML", 
+        "Integration", 
+        "Invoices",
+        "JavaScript", 
+        "JQuery",
+        "Microsoft SharePoint",
+        "MS SQL Server", 
+        "MySQL",
+        "Oracle", 
+        "R2", 
+        "SAP", 
+        "Secure File Transfer Protocol", 
+        "Security", 
+        "Sharepoint", 
+        "SQL", 
+        "SQL Server", 
+        "SQL Server 2005", 
+        "SQL Server 2012",
+        "UI", 
+        "User Interface",
+        "Visual Studio",
+        "Web Based", 
+        "ColdFusion", 
+        "Prototype"
+      ]
+    }
+  ],
+  "languages": [
+    {
+    }
+  ],
+  "interests": [
+    {
+    }
+  ],
+  "references": [
+    {
+    }
+  ],
+  "projects": [
+    {
+      "name": "IU Print Website Migration and Prototype Dashboard Creation",
+      "startDate": "",
+      "endDate": "",
+      "description": "Migration of IU Print website (print.iu.edu) from ColdFusion to ASP.Net using MVC Framework. Created a prototype dashboard for IU Print Analytics module using High Charts.",
+      "highlights": [
+        "Software Development, MVC Framework use, Dashboard Creation"
+      ],
+      "url": "https://"
+    },
+    {
+      "name": "Software Development for Data Migration Application",
+      "startDate": "",
+      "endDate": "",
+      "description": "Designed and developed an application to migrate legacy data to ASP.Net application by providing the ability to validate the data to meet business rules for the new application. Designed the story board using HTML and CSS and designed database for applications by analyzing the customer requirements. Performed code reviews of the modules developed by other team members and participated in pair programming to improve the coding standards of the overall application.",
+      "highlights": [
+        "Software Development, Data Migration, Story Board Design, Database Design, Code Reviewing and Pair Programming"
+      ],
+      "url": "https://"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Executive Chef",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "To obtain a challenging position where experience as an Executive Chef and a food handlers license will be utilized. And experience working for multiple James Beard Award winners Alfred Portale and Paul Bartolotta. Core Qualifications Executive Chef Menu Developing Chef de Cuisine Schedule, Food & Labor Executive Sous Chef Inventory & Ordering Sous Chef Microsoft Excel & Word",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": [
+    ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Executive Chef",
+      "url": "",
+      "startDate": "2016-08-01",
+      "endDate": "2017-02-01",
+      "summary": "Developed brunch, lunch, dinner and event menus Supervised, coordinated and participated in cooking activities and prep Instructed cooking personnel in fine points of following recipes Structured and maintained accurate payroll, scheduling, food costing, inventory and ordering.",
+      "highlights": [ ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Executive Chef",
+      "url": "",
+      "startDate": "2015-09-01",
+      "endDate": "2016-08-01",
+      "summary": "Developed brunch, dinner and event menus Supervised, coordinated and participated in cooking activities and prep Instructed cooking personnel in fine points of following recipes Structured and maintained accurate payroll, scheduling, food costing, inventory and ordering.",
+      "highlights": [ ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Head line cook",
+      "url": "",
+      "startDate": "2013-05-01",
+      "endDate": "2015-08-01",
+      "summary": "Carved and cooked meats, poultry, game and meats Cleaned, cut and ground meats, poultry, game and seafood Particapated in cooking and prep with CDC and line cooks Maintained a clean and safe work environment.",
+      "highlights": [ ]
+    }
+  ],
+  "volunteer": [ ],
+  "education": [
+    {
+      "institution": "Gibraltar High School",
+      "url": "",
+      "area": "Liberal Arts",
+      "studyType": "High School Diploma",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": [ "math", "reading", "science", "art", "social science" ]
+    },
+    {
+      "institution": "Loyola University of Chicago",
+      "url": "",
+      "area": "Art, civilization and language",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": [ ]
+    },
+    {
+      "institution": "Alliance Francaise Paris, France",
+      "url": "",
+      "area": "",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": [ ]
+    }
+  ],
+  "awards": [ ],
+  "certificates": [ ],
+  "publications": [ ],
+  "skills": [
+    {
+      "name": "Cooking",
+      "level": "",
+      "keywords": [ "inventory", "math", "payroll", "personnel", "reading", "scheduling", "structured" ]
+    }
+  ],
+  "languages": [ ],
+  "interests": [ ],
+  "references": [ ],
+  "projects": [ ]
+}

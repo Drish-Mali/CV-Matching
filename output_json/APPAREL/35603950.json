@@ -1,0 +1,106 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Assistant Store Manager of Operations and Human Resources",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Excellent communicator, motivator, and decision maker with strong analytical and problem solving skills. Ability to handle multiple tasks and lead them to completion. Strong public speaker",
+    "location": {},
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Assistant Store Manager of Operations and Human Resources",
+      "url": "",
+      "startDate": "2014-05-01",
+      "endDate": "Present",
+      "summary": "Oversee various operations, including payroll projections, productivity, controllable expenses, schedules, merchandising, human resources and more in relation to sales trend.",
+      "highlights": [
+        "Wall Street Journal Award in Economics and Finance 2010",
+        "Kohl's Territory Finalist for Manager in Training competition 2012",
+        "Civic Club Scholarship 2008"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Assistant Store Manager of Apparel and Accessories",
+      "url": "",
+      "startDate": "2012-04-01",
+      "endDate": "2014-04-30",
+      "summary": "Analyze business summary reports daily to determine growth opportunities. Partner with HR/OPS ASM to address inventory issues and implement plans to outperform LY figures. Lead store in associate development, supervision of merchandise sales, business operations, and expense management.",
+      "highlights": []
+    },
+    {
+      "name": "Delta Sigma Pi",
+      "position": "Vice-President of Community Service",
+      "url": "",
+      "startDate": "2009-08-01",
+      "endDate": "2010-05-31",
+      "summary": "Educate students on budgeting, managing credit and debt, controlling credit. Coordinate community service activities with the Provincial Community Service Committee. Organized campus-wide blood drive.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Georgia Southern University",
+      "url": "",
+      "area": "Economics",
+      "studyType": "BBA",
+      "startDate": "",
+      "endDate": "2010-01-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Wall Street Journal Award in Economics and Finance",
+      "date": "2010-01-01",
+      "awarder": "",
+      "summary": ""
+    },
+    {
+      "title": "Civic Club Scholarship",
+      "date": "2008-01-01",
+      "awarder": "",
+      "summary": ""
+    },
+    {
+      "title": "Kohl's Territory Finalist for Manager in Training competition",
+      "date": "2012-01-01",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Skills",
+      "level": "",
+      "keywords": [
+        "Computer",
+        "Peoplesoft",
+        "Kronos payroll management system",
+        "Microsoft Word",
+        "Excel",
+        "Access",
+        "PowerPoint",
+        "entry level HTML",
+        "Professional",
+        "Excellent communicator",
+        "motivator",
+        "decision maker",
+        "Strong analytical and problem solving skills"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

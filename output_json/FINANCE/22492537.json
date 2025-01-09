@@ -1,0 +1,101 @@
+{
+  "basics": {
+    "name": "not specified",
+    "label": "Finance and Operations Manager",
+    "email": "not specified",
+    "phone": "not specified",
+    "url": "not specified",
+    "summary": "Dedicated to accurate, automated and systematized flow of information Analytical accounting and bookkeeping professional with 12 years of bookkeeping experience in preparation, analysis, and reporting of financial performance. Proven professional focused on enhanced productivity, automation and financial control.",
+    "location": {
+      "address": "not specified",
+      "postalCode": "not specified",
+      "city": "not specified",
+      "countryCode": "not specified",
+      "region": "not specified"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Finance and Operations Manager",
+      "startDate": "2010-05-01",
+      "endDate": "2014-12-01",
+      "summary": "Managed a $1.2-1.7 million budget for a non-profit organization specializing in early literacy for underserved children."
+    },
+    {
+      "name": "Company Name",
+      "position": "Full Charge Bookkeeper",
+      "startDate": "2003-01-01",
+      "endDate": "current",
+      "summary": "Managed accounting operations, accounting close, account reporting and reconciliations."
+    },
+    {
+      "name": "Company Name",
+      "position": "Senior Buyer / Accounting Assistant",
+      "startDate": "1987-01-01",
+      "endDate": "2003-01-01",
+      "summary": "Served as high-level support to General Manager/Production Manager of manufacturer of packaging products and corrugated displays with over $12 million in annual revenue."
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Phoenix",
+      "area": "Business Administration",
+      "studyType": "Bachelor",
+      "startDate": "not specified",
+      "endDate": "1994",
+      "score": "not specified",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Financial Management",
+      "level": "Master",
+      "keywords": [
+        "Accounts Payable",
+        "Accounts Receivable",
+        "ADP",
+        "Bookkeeping",
+        "Budgets",
+        "Clientele",
+        "Documentation",
+        "Filing",
+        "Financials",
+        "Financial Statements",
+        "Forecasting",
+        "Funds",
+        "Grants",
+        "Inventory",
+        "ISO 9000",
+        "Managing",
+        "Microsoft Office",
+        "Microsoft Windows",
+        "Negotiations",
+        "Operating System",
+        "Packaging",
+        "Payroll",
+        "Presentations",
+        "Pricing",
+        "Production Manager",
+        "Profit",
+        "Purchasing",
+        "Quality Improvement",
+        "QuickBooks",
+        "Research",
+        "Sales",
+        "Spreadsheets",
+        "Tax",
+        "Vendor Relations"
+      ]
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

@@ -1,0 +1,75 @@
+{
+  "basics": {
+    "name": "Not Provided",
+    "label": "Internal Audit Manager",
+    "email": "Not Provided",
+    "phone": "Not Provided",
+    "summary": "Dedicated auditing professional with the accomplished ability to work independently and as a team member to successfully achieve project goals and objectives.",
+    "location": {
+      "city": "City", 
+      "state": "State"
+    }
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Internal Audit Manager",
+      "startDate": "2012-08-01",
+      "endDate": "current",
+      "summary": "Effectively executed complex post-acquisition audits for Software as a Service (SaaS) acquisitions including planning, developing targeted audit scope and delivering impactful and timely audit reports. Responsible for assessing the audit universe, auditable entities and risk environment for internal clients to align with the annual audit plan. Liaised with senior leadership to help identify upcoming market trends and manage emerging risk.",
+      "highlights": [
+        "Revamped the legacy internal audit report and scope document template to include qualitative and quantitative content."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Pepperdine University",
+      "area": "Management",
+      "studyType": "Bachelor of Science",
+      "startDate": "1990",
+      "endDate": "1994"
+    },
+    {
+      "institution": "Pepperdine University",
+      "area": "Business Administration",
+      "studyType": "Master",
+      "startDate": "1998",
+      "endDate": "2000"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Accounts Payable",
+      "level": "Expert"
+    },
+    {
+      "name": "Accounts Receivable",
+      "level": "Expert"
+    },
+    {
+      "name": "Risk Management",
+      "level": "Expert"
+    },
+    {
+      "name": "Audit & Control",
+      "level": "Expert"
+    },
+    {
+      "name": "Project Risk & Controls",
+      "level": "Expert"
+    },
+    {
+      "name": "Business Process Review",
+      "level": "Expert"
+    },
+    {
+      "name": "Sarbanes-Oxley Compliance",
+      "level": "Expert"
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

@@ -1,0 +1,110 @@
+{
+  "basics": {
+    "name": "Not Provided",
+    "label": "Aviation Mechanic",
+    "image": "",
+    "email": "Not Provided",
+    "phone": "Not Provided",
+    "url": "Not Provided",
+    "summary": "A highly reliable aviation professional with five years of experience in key aircraft systems and quality assurance processes.",
+    "location": {
+      "address": "Not Provided",
+      "postalCode": "Not Provided",
+      "city": "Not Provided",
+      "countryCode": "Not Provided",
+      "region": "Not Provided"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Not Provided",
+      "position": "Aviation Mechanic",
+      "url": "Not Provided",
+      "startDate": "2011-06",
+      "endDate": "Current",
+      "summary": "Performing line maintenance functions under the supervision of the Chief Mechanic including post flight inspections & routine servicing. Performing troubleshooting functions on electrical, hydraulic, engine and airframe systems and components as required to support the aircraft's maintenance needs. Performing heavy maintenance including the annual inspection, engine changes, gearbox changes, prop changes as required to support the aircraft's maintenance needs.",
+      "highlights": [
+        "Trusted, highly reliable aviation professional responsible for maintaining state-of-the-art aircraft",
+        "Management of large maintenance crews",
+        "Navigation of FAA regulated publications",
+        "Experience in supply chain",
+        "4859.3 logged maintenance hours",
+        "1890.1 logged supervising hours",
+        "Assistant Phase Coordinator 2015-2016"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Hagerty High School",
+      "url": "Not Provided",
+      "area": "Not Provided",
+      "studyType": "High School",
+      "startDate": "Not Provided",
+      "endDate": "2011",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Center Naval Aviation Technical Training",
+      "url": "Not Provided",
+      "area": "H-1 Powertrain",
+      "studyType": "",
+      "startDate": "2011",
+      "endDate": "2011",
+      "score": "",
+      "courses": [
+        "H-1 Powertrain"
+      ]
+    },
+    {
+      "institution": "Bakers School of Aeronautics",
+      "url": "Not Provided",
+      "area": "A&P License",
+      "studyType": "",
+      "startDate": "2016",
+      "endDate": "2016",
+      "score": "",
+      "courses": [
+        "A&P License"
+      ]
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Aircraft Maintenance",
+      "level": "Not Provided",
+      "keywords": [
+        "Licensed FAA rated Airframe and Powerplant (A&P) Technician",
+        "Yellow Belt Lean 6 Sigma Certified",
+        "Proficiency with mechanical and pneumatic tools",
+        "Supply chain management",
+        "Mechanical aptitude",
+        "Military leadership experience",
+        "Job status reports",
+        "Knowledgeable of applicable local codes"
+      ]
+    },
+    {
+      "name": "Troubleshooting",
+      "level": "Not Provided",
+      "keywords": [
+        "Aircraft structure",
+        "Drivetrain",
+        "Power plant",
+        "Fuel systems",
+        "Flight controls",
+        "Hydraulic systems",
+        "Vibration analysis"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

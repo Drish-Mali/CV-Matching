@@ -1,0 +1,117 @@
+{
+  "basics": {
+    "name": "Fayaz Ahmad Sardar",
+    "label": "Agriculture Advisor and Language Officer",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "A qualified Agriculture Advisor and Language Officer with a vast experience in Community Development, Capacity Building, Agriculture, Marketing and Business. Fluent in Pashto, Dari, English, and Urdu.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "U.S.A",
+      "region": ""
+    }
+  },
+  "work": [
+    {
+      "name": "Laghman PRT/ADT",
+      "position": "Agriculture Advisor and Language Officer",
+      "url": "",
+      "startDate": "2016-01-01",
+      "endDate": "2016-12-31",
+      "summary": "Established and maintained coordination with governmental and non-government organizations, strategic planning with DAIL Office, preparing module need assessment based and training plans and materials for Agriculture students."
+    },
+    {
+      "name": "IPCB-S International police coordination board Kabul Afghanistan",
+      "position": "Language Officer",
+      "url": "",
+      "startDate": "2016-01-01",
+      "endDate": "2016-12-31",
+      "summary": "Performed translations from English to Pashto/Dari of various documents, simultaneous translations in IPCB-S meetings."
+    },
+    {
+      "name": "BRAC Education Program for Afghanistan",
+      "position": "Provincial Manager",
+      "url": "",
+      "startDate": "2013-01-01",
+      "endDate": "2016-12-31",
+      "summary": "Prepared and implemented plans for concerned areas, supervised staff and schooling activities."
+    },
+    {
+      "name": "",
+      "position": "Plant Protection Manager",
+      "url": "",
+      "startDate": "2002-01-01",
+      "endDate": "2004-12-31",
+      "summary": "Provided improved seed to farmers, worked on the field to control plant disease, gave refresh courses to farmers."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Nangarhar University Agriculture",
+      "url": "",
+      "area": "Agriculture",
+      "studyType": "B.Sc. (Hons) degree",
+      "startDate": "",
+      "endDate": "2002-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Nangarhar High School",
+      "url": "",
+      "area": "",
+      "studyType": "Baccalaureate",
+      "startDate": "",
+      "endDate": "1997-12-31",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Agriculture Advisory",
+      "level": "Master",
+      "keywords": ["Irrigation", "Plant Protection", "Agriculture New Technology"]
+    },
+    {
+      "name": "Language",
+      "level": "Fluent",
+      "keywords": ["English", "Pashto", "Dari", "Urdu"]
+    },
+    {
+      "name": "Administrative Skills",
+      "level": "Advanced",
+      "keywords": ["Microsoft package (Word, Excel, Power Point)", "Installation", "Internet related tasks"]
+    },
+    {
+      "name": "Translation and Coordination",
+      "level": "Master",
+      "keywords": ["Simultaneous translations", "Managerial", "Strategic Planning"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Pashto",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Dari",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Urdu",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

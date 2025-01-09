@@ -1,0 +1,82 @@
+{
+  "basics": {
+    "name": "Anonymous",
+    "label": "Staff Accountant",
+    "email": "",
+    "phone": "",
+    "summary": "Experienced accountant with more than 15 years of accounting and financial analysis experience. Expertise in budgeting and economic analysis, financial reporting and resource optimization.",
+    "location": {
+      "city": "",
+      "countryCode": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Staff Accountant",
+      "startDate": "2001-01-01",
+      "endDate": "2011-02-01",
+      "summary": "Analyzed financial reports and programs to resolve problems. Monitored and researched significant revenue and budget variances, including actual costs versus budgeted costs. Advised senior management on finance-related issues. Recommended process improvements and prepared clear, concise presentations and reports.",
+      "highlights": [
+        "Implemented a computerized capital budget review system in Lotus Notes email system.",
+        "Worked on a continuous Xerox copier project on a monthly basis for two years which successfully identified over 200 cost centers.",
+        "Worked closely with various departments such as design and construction, Biomed, and finance to close out work in progress accounts."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Accounts Payable Representative",
+      "startDate": "2000-01-01",
+      "endDate": "2001-01-01",
+      "summary": "Managed financial functions and coordinated daily accounting functions. Formulated and implemented processes for reviewing recurring payments and processing invoices, vouchers, reimbursements and check requests."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Strayer University",
+      "area": "Accounting",
+      "studyType": "Master of Business Administration",
+      "startDate": "",
+      "endDate": "2012-06-01"
+    },
+    {
+      "institution": "Southern University at New Orleans",
+      "area": "",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "1986"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Financial Analysis",
+      "level": "",
+      "keywords": [
+        "Accounting", 
+        "Financial Controls"
+      ]
+    },
+    {
+      "name": "Accounting Software",
+      "level": "",
+      "keywords": [
+        "Lawson",
+        "Meditech",
+        "QuickBooks",
+        "MS Word",
+        "Excel",
+        "PowerPoint",
+        "Lotus Notes"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "volunteer": []
+}

@@ -1,0 +1,100 @@
+{
+  "basics": {
+    "name": "Scott Kachelek",
+    "label": "Director, Global Business Development",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "A sales and business development executive with more than 15 years experience in large commercial and government digital LED lighting projects, immersive cinema technologies, and commercial printing control systems.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "",
+      "position": "Director, Global Business Development",
+      "url": "",
+      "startDate": "2015-06-01",
+      "endDate": "Current",
+      "summary": "Built a go to market sales strategy from the ground up focusing on OEM partners, sales agents, industry associations, academic institutions, national end user accounts, and independent cinemas.",
+      "highlights": [
+        "Developed bank financing program for purchases and leases."
+      ]  
+    },
+    {
+      "name": "",
+      "position": "Director, International Sales",
+      "url": "",
+      "startDate": "2007-09-01",
+      "endDate": "2015-06-01",
+      "summary": "Created global sales plan per international market (33 total) to focus resources on new product introductions, first of their kind lighting applications, accurate project forecasting, and sales analytics reviews (margin trends, currency fluctuations, and cost of non quality).",
+      "highlights": ["Worked closely with supply chain teams to plan production to meet current project timelines, forecast future demand, and reduce product costs to improve product margins."] 
+    },
+    {
+      "name": "",
+      "position": "Manager, International Inside Sales",
+      "url": "",
+      "startDate": "2002-09-01",
+      "endDate": "2007-09-01",
+      "summary": "Recommended pricing strategies to win business.",
+      "highlights": ["Advised partners on product selection for specific projects to meet budget and project design goals."] 
+    },
+    {
+      "name": "",
+      "position": "Sales Coordinator",
+      "url": "",
+      "startDate": "1997-01-01",
+      "endDate": "2002-03-01",
+      "summary": "Acted as a liaison between head office in U.S. and branch office in Japan to highlight staff and customer concerns.",
+      "highlights": ["Produced general marketing materials including videos, presentations, brochures."] 
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Minnesota, Carlson School of Management",
+      "url": "",
+      "area": "International business",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "1994",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Business Development",
+      "level": "Expert",
+      "keywords": [
+        "Sales strategy",
+        "Partner relationships",
+        "Business process improvement",
+        "Public presentations"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Functional"
+    },
+    {
+      "language": "Japanese",
+      "fluency": "Functional"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

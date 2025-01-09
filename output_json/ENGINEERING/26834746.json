@@ -1,0 +1,138 @@
+{
+  "basics": {
+    "name": "Anonymous",
+    "label": "Facilities Engineering Manager",
+    "email": "",
+    "phone": "",
+    "summary": "Provide leadership to developing engineering standards and ensure projects executed meet safety, functional, reliability, budget and schedule goals for capital projects. Liaise with upper level management and engineering daily to resolve technical and/or operational issues.",
+    "location": {
+      "city": "City",
+      "region": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Facilities Engineering Manager",
+      "startDate": "2008-01-01",
+      "endDate": "Current",
+      "summary": "Provide engineering and Facility management supervision to the Facilities Organization to ensure continuous operations of facilities related systems including HVAC, Electrical systems, Security Systems, Data Center, Vacuum and others as needed.",
+      "highlights": [
+        "Manage and operate within a 20 million annual budget.",
+        "Working within the corporate organization and several depts., such as legal, real estate, and procurement, on the development and execution of contracts to ensure 100% compliance within MSA's for ownership and clients.",
+        "Highly computer literate in various database software programs."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Field Engineering Supervisor",
+      "startDate": "2007-07-01",
+      "endDate": "2007-12-01",
+      "summary": "Responsible for the overall installation and commissioning of plant production/process machinery and systems. Duties include installing, troubleshooting, repairing, electrical and PLC, CPU's on monorail systems for the laundry/linen industry.",
+      "highlights": [
+        "Experienced with PLC programming and a wide variety of controls and equipment automation."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Chief Plant Engineer",
+      "startDate": "2001-10-01",
+      "endDate": "2007-05-01",
+      "summary": "Chief Plant Maintenance Manager in charge of maintenance, overseeing all plant processes, building, and production equipment. Responsible for the operation and maintenance of a high pressure steam plant and all auxiliary equipment.",
+      "highlights": [
+        "Project manager during a vital system upgrade that led to an annual savings of over $350,000 per year."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Nuclear Inspector",
+      "startDate": "1999-11-01",
+      "endDate": "2001-08-01",
+      "summary": "Worked in a fabrication and machine shop as a Nuclear Quality Assurance Inspector.",
+      "highlights": [
+        "A team leader responsible for the completion of over 30 nuclear waste storage containers currently in use in most power plants."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Submariner",
+      "startDate": "1996-01-01",
+      "endDate": "1999-10-01",
+      "summary": "Machinists mate onboard the USS Philadelphia. Trained as an EMT and firefighter. Duties included the overall operation and maintenance of various ships systems, such as the Nuclear Power Propulsion system.",
+      "highlights": [
+        "The first, in the 30 year history of the ship, to be awarded the Navy Achievement medal as a Jr. ranking Fireman; medal was awarded for outstanding leadership and knowledge of all the ship's systems."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Professional Certified Energy Manager Leed Green associate",
+      "area": "",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Technical Skills",
+      "level": "",
+      "keywords": [
+        "automation",
+        "interpersonal",
+        "computer literate",
+        "contracts",
+        "cost reduction",
+        "clients",
+        "database software",
+        "Documentation",
+        "Electrical systems",
+        "Energy Manager",
+        "Facility management",
+        "HVAC",
+        "hydraulics",
+        "inspection",
+        "Inspector",
+        "leadership",
+        "team leader",
+        "legal",
+        "machinery",
+        "mechanical",
+        "meetings",
+        "MSA",
+        "Navy",
+        "NEC",
+        "optimization",
+        "PLC programming",
+        "PLC",
+        "Plumbing",
+        "processes",
+        "procurement",
+        "project management",
+        "quality",
+        "Quality Assurance",
+        "radiography",
+        "real estate",
+        "repairs",
+        "repairing",
+        "Safety",
+        "strategic",
+        "strategic plans",
+        "supervision",
+        "technical support",
+        "troubleshooting",
+        "upgrade",
+        "weld",
+        "welding",
+        "written communication skills"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

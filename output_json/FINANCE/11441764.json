@@ -1,0 +1,118 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Finance Manager",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Pro-active, results-oriented, deadline-driven with broad experience in all aspects of accounting and financial management. Solid planning and organizational skills in coordinating all aspects of each project from inception through completion.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Finance Manager",
+      "url": "",
+      "startDate": "2011-12",
+      "endDate": "2014-05",
+      "summary": "Provide financial reports for three plants in the region. Manage day to day operations to include overseeing all accounting functions, procurement, annual budget forecast, payroll and complying with SOX.",
+      "highlights": [
+        "Worked with corporate HR in regards to plant personnel and suggest personnel changes in the plant along with other necessary changes to create a corporate environment from the prior family owned company feel.",
+        "Introduced Lean Manufacturing practices"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Accounting Manager",
+      "url": "",
+      "startDate": "2008-12",
+      "endDate": "2011-07",
+      "summary": "Overall authority for the global intercompany operations of the organization, budget preparation and administration, audit, accounting, monthly closing of books, account reconciliation, and journal entry adjustments.",
+      "highlights": [
+        "Developed trend and balance sheet analysis; accounts receivable and aging reports.",
+        "Created new global policies to help streamline the inter-company reconciliation process."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Phoenix",
+      "url": "",
+      "area": "Accounting",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "2006",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "University of Phoenix",
+      "url": "",
+      "area": "Business",
+      "studyType": "Master of Business Administration",
+      "startDate": "",
+      "endDate": "2010",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Accounting",
+      "level": "",
+      "keywords": [
+        "account reconciliation",
+        "accounts receivable",
+        "streamline",
+        "ADP",
+        "AS400",
+        "BA",
+        "balance sheet",
+        "budget preparation",
+        "budget",
+        "contracts",
+        "controller",
+        "credit",
+        "financials",
+        "financial reporting",
+        "forecasting",
+        "Great Plains",
+        "HR",
+        "JD Edwards",
+        "logistics",
+        "MAS90",
+        "meetings",
+        "Access",
+        "Excel",
+        "payroll",
+        "personnel",
+        "policies",
+        "procurement",
+        "Quickbooks",
+        "sales",
+        "SAP",
+        "Sarbanes Oxley",
+        "SAS",
+        "SBT", 
+        "SQL",
+        "Supply Chain"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "volunteer": [],
+  "awards": [],
+  "publications": [],
+  "projects": [],
+  "certificates": []
+}

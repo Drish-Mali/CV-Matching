@@ -1,0 +1,120 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Director of Business Development",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Dedicated and driven sales and marketing strategist with 8+ years' experience in cloud software industry. Proven ability to research, develop, and implement technical sales and marketing plans. Expert in the technical content development of sales collateral that effectively reinforces the solution benefits. Skilled writer, trainer and presenter. Fast learner, works well under pressure, committed to team success.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Privacy Data Systems, LLC",
+      "position": "Director of Business Development",
+      "url": "",
+      "startDate": "2007-07-01",
+      "endDate": "2015-09-01",
+      "summary": "SenditCertified provides encrypted messaging and large file transfer, eSignatures, cloud-based encrypted storage, and biometric authentication - and is delivered via web, desktop and mobile apps, MS Outlook integration, and customized API/web services. Contribute to the development and refinement of the company's vision and strategy. Support the overall process of company management and growth of new business channels.",
+      "highlights": []
+    },
+    {
+      "name": "Help-U-Sell Real Estate",
+      "position": "Director of Franchise Sales",
+      "url": "",
+      "startDate": "2003-01-01",
+      "endDate": "2007-12-01",
+      "summary": "Assisted Regional Director in management of large 9-state region. Oversaw and executed marketing to potential franchisee candidates. Managed consultative sales process from initial inquiry to close. Utilized technology to increase efficiency during sales process.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Allen Sports Association",
+      "position": "Youth Rec. Cheerleading Coach",
+      "url": "",
+      "startDate": "2007-01-01",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "organization": "Allen Sports Association Board",
+      "position": "League Director",
+      "url": "",
+      "startDate": "2010-01-01",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Texas A&M University",
+      "url": "",
+      "area": "Science",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "1996-05-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Business Development",
+      "level": "",
+      "keywords": [
+        "Presales and Implementation Support",
+        "Development of Marketing Strategies",
+        "Competitive Analysis",
+        "Market Research",
+        "Development of Training Materials",
+        "Product Positioning & Branding",
+        "Product Demonstrations",
+        "Development of Sales Collateral"
+      ]
+    },
+    {
+      "name": "Adobe Creative Suite",
+      "level": "",
+      "keywords": [
+        "Photoshop",
+        "Illustrator",
+        "InDesign",
+        "Adobe Acrobat"
+      ]
+    },
+    {
+      "name": "CRM",
+      "level": "",
+      "keywords": [
+        "Salesforce",
+        "Microsoft Dynamics CRM"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [
+    {
+      "name": "Youth Rec. Cheerleading Coach",
+      "keywords": []
+    },
+    {
+      "name": "League Director",
+      "keywords": []
+    }
+  ],
+  "references": [],
+  "projects": []
+}

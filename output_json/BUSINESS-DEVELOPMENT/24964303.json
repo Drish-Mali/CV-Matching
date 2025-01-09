@@ -1,0 +1,155 @@
+{
+  "basics": {
+    "name": "",
+    "label": "DIRECTOR OF BUSINESS DEVELOPMENT",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Self-starting business development expert with 20+ years as a top sales performer in various markets. Highly motivated and comfortable with new ideas, innovative products, corporate sales and start-up environments.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Director of Business Development",
+      "url": "",
+      "startDate": "2014-06-01",
+      "endDate": "Current",
+      "summary": "Increased sales revenue for software products in the blood banking industry. Managed budget forecasting, goal setting and performance reporting for all accounts. Identified strategic partnerships and gathered market information to gain a competitive advantage.",
+      "highlights": [
+        "Established track record of exceptional sales results",
+        "Self-starter",
+        "Excellent communication skills",
+        "Exceptional multi-tasker",
+        "Compelling leadership skills",
+        "In depth knowledge of sales process",
+        "Results-oriented",
+        "Process-driven"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Director of Sales Operations and Business Development",
+      "url": "",
+      "startDate": "2011-08-01",
+      "endDate": "2014-06-01",
+      "summary": "Implemented processes and procedures for sales, project management, and marketing for UI/UX service company. Developed strategic partnerships with key corporations for distribution and referral networks.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Sales Director",
+      "url": "",
+      "startDate": "2009-06-01",
+      "endDate": "2011-08-01",
+      "summary": "Achieved 172% of quota within the first year as Sales Manager of website development company.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Regional Publishing Consultant",
+      "url": "",
+      "startDate": "2007-12-01",
+      "endDate": "2009-08-01",
+      "summary": "Implemented strategic plan to launch CA branch of Nashville based publishing company.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Senior Sales Representative",
+      "url": "",
+      "startDate": "2004-01-01",
+      "endDate": "2007-11-01",
+      "summary": "Most new customers company-wide 05 for real estate enterprise software company.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Owner",
+      "url": "",
+      "startDate": "1999-03-01",
+      "endDate": "2004-02-01",
+      "summary": "Grew company from home office and one truck to 3 regional offices and 9 trucks for food distribution business.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Branch Manager",
+      "url": "",
+      "startDate": "1996-04-01",
+      "endDate": "1999-03-01",
+      "summary": "Increased monthly sales by 230% by implementing strategies to develop and expand existing customer base.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Western Governors University",
+      "url": "",
+      "area": "Business Strategy",
+      "studyType": "Masters of Business Administration",
+      "startDate": "",
+      "endDate": "2013-01-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "University of Phoenix",
+      "url": "",
+      "area": "Business Management",
+      "studyType": "Bachelors of Science",
+      "startDate": "",
+      "endDate": "2011-01-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Oklahoma Baptist University",
+      "url": "",
+      "area": "Biology/Pre-Medicine",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "New Business Development",
+      "level": "Expert",
+      "keywords": []
+    },
+    {
+      "name": "Sales Management",
+      "level": "Expert",
+      "keywords": []
+    },
+    {
+      "name": "MS Office Suite",
+      "level": "Expert",
+      "keywords": []
+    },
+    {
+      "name": "Salesforce / CRM",
+      "level": "Expert",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

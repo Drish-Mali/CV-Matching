@@ -1,0 +1,102 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Business Development Intern",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Obtain a position in analytics or data science in which I can enable data-driven decision-making to help leaders solve problems.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Business Development Intern",
+      "url": "",
+      "startDate": "2013-05-01",
+      "endDate": "Current",
+      "summary": "Enabled precision micro-targeting and bid optimization with Search Engine Marketing (SEM) at the zip-code level for AutoTrader's clients. Used SAS and R to produce an interactive choropleth Google map that tracks page views, Sales, and Market Share of page views per client, which identifies potential areas of opportunity for SEM marketing. Haystak Digital Marketing, an AutoTrader company, estimates that the project will increase their revenues by $3.5 million annually.",
+      "highlights": ["Proficient using Statistical Analysis Software (SAS), R, SAS Data Miner, SQL, Relational Databases, and Microsoft Office programs.", "Experienced in statistical analyses, sampling techniques, research design, C-level presentations, and professional writing skills."]
+    },
+    {
+      "name": "Company Name",
+      "position": "Statistical Consultant",
+      "startDate": "2012-10-01",
+      "endDate": "2012-12-01",
+      "summary": "Used the correlation procedure in SAS to analyze Zillow.com data and housing attributes of 141 homes in the Virginia Highland community to determine that Dekalb County's appraisals were faulty and not statistically sound, which led the residents to winning a case against the county in court."
+    },
+    {
+      "name": "Company Name",
+      "position": "Statistical Consultant",
+      "startDate": "2012-05-01",
+      "endDate": "2013-01-01",
+      "summary": "Performed statistical analysis on survey research concerning the educational preferences of students born post 1982 in comparison with students of other age groups. Found statistically significant differences in chosen majors of millennials to non-millennials and by race using the ANOVA and T-test procedures in SAS."
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Kennesaw State University",
+      "url": "",
+      "area": "Sociology Statistics",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "2013-05-01",
+      "score": "3.45",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "SQL",
+      "level": "Proficient",
+      "keywords": []
+    },
+    {
+      "name": "Statistical Analysis Software (SAS)",
+      "level": "Proficient",
+      "keywords": []
+    },
+    {
+      "name": "R",
+      "level": "Proficient",
+      "keywords": []
+    },
+    {
+      "name": "SAM Data Miner",
+      "level": "Proficient",
+      "keywords": []
+    },
+    {
+      "name": "Relational Databases",
+      "level": "Proficient",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Office",
+      "level": "Proficient",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "additionalInfo": {
+    "honorsAndActivities": ["Eagle Scout, Boy Scouts of America", "President's List: Fall 2011, Fall 2012, Spring 2013", "President, Alpha Kappa Delta - Honor Society of Sociology, Spring 2013", "Study Abroad Program to Paris and Romania, Summer 2011"]
+  }
+}

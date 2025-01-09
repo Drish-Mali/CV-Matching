@@ -1,0 +1,110 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Staff Pharmacist",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Patient and professional excellence oriented Pharmacist with Doctor of Pharmacy and Master in Science degrees...",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "US",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Staff Pharmacist",
+      "url": "",
+      "startDate": "2002-12-01",
+      "endDate": "2009-04-01",
+      "summary": "Manage ancillary staff in fulfilling more than 1,500 prescriptions weekly...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Pharmacy Intern",
+      "url": "",
+      "startDate": "1998-01-01",
+      "endDate": "2002-11-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Pharmacy technician",
+      "url": "",
+      "startDate": "1995-12-01",
+      "endDate": "1998-09-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Electronics Technician",
+      "url": "",
+      "startDate": "1990-01-01",
+      "endDate": "1993-11-01",
+      "summary": "Worked closely with team of engineers and technician...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Teaching Assistant/ Laboratory Supervisor",
+      "url": "",
+      "startDate": "1990-01-01",
+      "endDate": "1991-04-01",
+      "summary": "Supervised and helped students during laboratory experiments...",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Massachusetts College of Pharmacy and Health Science",
+      "url": "",
+      "area": "Pharmaceutics",
+      "studyType": "Doctor of Pharmacy",
+      "startDate": "",
+      "endDate": "2002",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "University of Information Technology, Mechanics and Optics",
+      "url": "",
+      "area": "Hardware Engineering",
+      "studyType": "Master of Science",
+      "startDate": "",
+      "endDate": "1992",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Pharmacy",
+      "date": "",
+      "issuer": "the Massachusetts Board of Pharmacy",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Pharmacy",
+      "level": "",
+      "keywords": ["Prescription Dispensing and Compounding", "Pharmaceutical Research and Data Analysis", "Drug Interaction Assessment"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

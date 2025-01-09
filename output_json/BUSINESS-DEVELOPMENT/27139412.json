@@ -1,0 +1,104 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Business Development Executive",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "An achievement driven professional highly skilled in sales, product development, strategic marketing and Salesforce lead management. Creative with an extensive knowledge of industry sales points, both in and out of consumer markets. Dynamic communicator who consistently exceeds goals and expectations.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Business Development Executive",
+      "url": "",
+      "startDate": "2017-01-01",
+      "endDate": "Current",
+      "summary": "Responsible for growing Ceridian's business throughout the Canadian Enterprise Market. Collaborates with internal stakeholders to develop strategic GTM. Works with internal marketing team to develop campaigns for the targeted market. Manages the introduction of new programs and features within Ceridian to consumer base. Conducts market research, profiles customers, makes presentations and participates in sales calls and marketing events.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Solutions Analyst",
+      "url": "",
+      "startDate": "2015-11-01",
+      "endDate": "2017-01-01",
+      "summary": "Reviewed new customer orders and manually enter data into SAP. Processed transactions pertaining to designated vendor. Provided information and guidance on vendor products and programs.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Product Marketing Specialist",
+      "url": "",
+      "startDate": "2012-10-01",
+      "endDate": "2015-10-01",
+      "summary": "Owned the communication of Vendor Partner business strategy to internal partners (Sales, Purchasing, and Marketing Services). Consumer and sales rep marketing at 5LINX convention seminars. Met and interacted regularly with Vendor Partner reps, management, and executives.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Project Coordinator/ Sales",
+      "url": "",
+      "startDate": "2011-12-01",
+      "endDate": "2012-07-01",
+      "summary": "Created publications focused on key business sectors reaching corporate executives worldwide. Developed and maintained long-term relationships with vendors and clients. Consistently hit and exceeded sales goals.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Miami Dade College",
+      "url": "",
+      "area": "Marketing Management Real Estate",
+      "studyType": "",
+      "startDate": "2013-01-01",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Brand development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Analyzing market trends",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Account Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SalesForce lead management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Strong interpersonal skills",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

@@ -1,0 +1,127 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Aircraft Sales",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "I expect to associate myself with a professionally driven, well-respected organization by pursuing a challenging, responsible, dynamic and rewarding career and applying my academic knowledge, expertise, skills and enthusiasm; which will assist my career development and contribute effectively to the progress of the organization and our society as well. Areas of expertise include investigative policy research and Statistical Analysis, proven ability to interact effectively with employees and the public in a professional manner. Great team leader with strong organizational skills and formidable work ethic.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Aircraft Sales",
+      "position": "",
+      "url": "",
+      "startDate": "2013-02-01",
+      "endDate": "Current",
+      "summary": "Research aircraft in various advertisement media. Investigate currency of aircraft within the FAA aircraft data registry. Help create an appraisal for each aircraft. Photo each aircraft and their respective log books for the use of advertisement and to make sure the records are current with proper maintenance and proper weight and balance.",
+      "highlights": []
+    },
+    {
+      "name": "Internship",
+      "position": "",
+      "url": "",
+      "startDate": "2012-01-01",
+      "endDate": "2012-05-01",
+      "summary": "Airport Safety Inspections (Daily, Weekly and Monthly) � Investigate, research and analysis of loss of customer retention and fuel purchase income.",
+      "highlights": []
+    },
+    {
+      "name": "Owner - Operator Company",
+      "position": "Owner - Operator",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Supervised and directed crews from four to twenty� seven ironworkers. Certified Commercial Welder Completed OSHA Safety Training Course.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Arizona State University (ASU)",
+      "url": "",
+      "area": "Science Technology Aviation Management - Human Factors",
+      "studyType": "Master",
+      "startDate": "",
+      "endDate": "",
+      "score": "3.5",
+      "courses": ["Aviation Law","Aviation Labor Relations","International Aviation","Aviation Safety and Human Factor","Law and Ethics",
+      "Intermed Statistics","Airport Planning and Design","Research Techniques and Applications"]
+    },
+    {
+      "institution": "Utah Valley University (UVU)",
+      "url": "",
+      "area": "Aviation Science",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "2010-04-01",
+      "score": "3.67",
+      "courses": ["Air Transportation Management","Aviation Law","Crew Resource Management/Human Factors","Safety and Professional Seminars","Introduction to Aviation Security",
+      "Aviation Insurance/Risk Management","Corporate Aviation Management","Airport Management","Ground Training: Private, Instrument, Commercial, Ground Instructor",
+      "Flight Training: Private, Instrument, Commercial, Flight Instructor","Theory of Instruction"]
+    },
+    {
+      "institution": "Columbia College",
+      "url": "",
+      "area": "General Education",
+      "studyType": "Certified InstructorAir Traffic Control",
+      "startDate": "",
+      "endDate": "",
+      "score": "3.52",
+      "courses": []
+    },
+    {
+      "institution": "American River College",
+      "url": "",
+      "area": "General Education",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "1982-12-01",
+      "score": "3.2",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Leadership",
+      "level": "Advanced",
+      "keywords": []
+    },
+    {
+      "name": "Research and Statistical Analysis",
+      "level": "Advanced",
+      "keywords": []
+    },
+    {
+      "name": "Welding",
+      "level": "Certified Commercial Welder",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [
+    {
+      "name": "Outdoors",
+      "keywords": ["Scuba Diving", "Flying General Aviation Airplanes", "Restore Antique Cars", "Motorcycle Rider"]
+    },
+    {
+      "name": "Sports",
+      "keywords": ["Tae Kwon Do", "Coaching Soccer", "Baseball", "Football", "Basketball"]
+    }
+  ],
+  "references": [],
+  "projects": []
+}

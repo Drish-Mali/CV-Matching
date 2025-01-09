@@ -1,0 +1,112 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Training Manager",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Qualified Training Manager offering a record of successful job performance with proven problem solving ability and experience developing and implementing innovative solutions.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Training Manager",
+      "url": "",
+      "startDate": "2011-08",
+      "endDate": "2015-09",
+      "summary": "Creating and implementing training programs and overseeing the development of careers. Set performance metrics, evaluate productivity, and help workers create long-term career plans within an organization.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Owner/Partner Defense Contractor",
+      "url": "",
+      "startDate": "2006-10",
+      "endDate": "2011-07",
+      "summary": "Supervised, and trained employees for high level security Military Intelligence operations, recruited quality personnel for special assignments, conducted high level briefings and debriefing for various security level investigations at Federal locations...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Program Administrator II, Project Manager. Training Specialist II: US Army (CISAC)",
+      "url": "",
+      "startDate": "2004-01",
+      "endDate": "2006-09",
+      "summary": "Consultant and liaison to the Department of Interior (DOI) and Department of Defense (DOD) to effectively modernize inventory/ cataloging processes...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Role Player",
+      "url": "",
+      "startDate": "2003-01",
+      "endDate": "2004-01",
+      "summary": "Provided services as a role player in support of CISAC for US Army Intelligence Center. Research & Development: Created new scenarios...",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of the South",
+      "url": "",
+      "area": "Theology",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "2007",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Coleman University",
+      "url": "",
+      "area": "Office Automation/Computer Specialist",
+      "studyType": "Associates",
+      "startDate": "",
+      "endDate": "1989",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Training and Development Military & Civilian Training",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Supervision and training Master Black Belt Instructor",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [
+    {
+      "name": "Saint Stephen's Episcopal Church",
+      "keywords": ["Vestry Member", "Youth Minister"]
+    },
+    {
+      "name": "Coaching and Playing softball",
+      "keywords": ["Umpire for Little League"]
+    },
+    {
+      "name": "Volunteer for Special Olympics",
+      "keywords": []
+    }
+  ],
+  "references": [],
+  "projects": []
+}

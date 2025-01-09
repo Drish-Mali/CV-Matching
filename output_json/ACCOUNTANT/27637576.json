@@ -1,0 +1,145 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Corporate Accountant",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Strategic and analytical finance professional with 23 + years of success in financial reporting, analysis and project management. Highly motivated professional who thrives in high-pressure environments. Excellent financial reporting, budget forecasting, management and team-building skills. Highly skilled at increasing productivity through detailed cost analysis.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Corporate Accountant",
+      "url": "",
+      "startDate": "2015-05",
+      "endDate": "2016-03",
+      "summary": "Relocated to corporate offices and continued to handle all financial aspects of Biologics Development Services, along with 7 additional entities that were start up companies.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "VP of Finance/Operations",
+      "url": "",
+      "startDate": "2013-09",
+      "endDate": "Current",
+      "summary": "Responsible for the site management of the BDS facility (laboratory, storage, archive, server room, office areas etc.), equipment, utilities, supplies, security, general maintenance, and human resources.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Controller/Office Manager",
+      "url": "",
+      "startDate": "2012-09",
+      "endDate": "Current",
+      "summary": "Responsible for all financial aspects, which includes reporting directly to the CEO.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "IT Administrator",
+      "url": "",
+      "startDate": "2012-09",
+      "endDate": "2015-05",
+      "summary": "Responsible for the oversight, management, security, availability and operations of the IT infrastructure, network applications and software systems at BDS.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Assistant Controller",
+      "url": "",
+      "startDate": "2009-02",
+      "endDate": "2013-01",
+      "summary": "Assistant Controller in completion & review of over 30 entities.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Property Accountant",
+      "url": "",
+      "startDate": "2001-08",
+      "endDate": "2008-08",
+      "summary": "Assisted GM in monthly financial forecasts; annual budgeting; Integrated with tenants on billing issues, which included: reconciliations, collections of checks, deposits and making sure all tenants accounts were at zero by the end of the month.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Controller/Accounting Manager",
+      "url": "",
+      "startDate": "1994-01",
+      "endDate": "2002-08",
+      "summary": "Full Responsibility and managing all functions of 5 separate companies over my tenure.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Charge Accountant",
+      "url": "",
+      "startDate": "1993-08",
+      "endDate": "1994-01",
+      "summary": "Full Responsibility for A/P, A/R, Inventory, Cost Accounting, Purchasing, Assisted with all Sales Proposals, generating and reconciling all month end reports.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Production Manager/Accounting Supervisor",
+      "url": "",
+      "startDate": "1988-05",
+      "endDate": "1993-08",
+      "summary": "Full Responsibility for managing entire manufacturing/production control departments (totaling 31 employees).",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Zephyrhills High School",
+      "url": "",
+      "area": "Business Management/Accounting",
+      "studyType": "High School Diploma",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": "Increased cost-effectiveness by 28 % through compliance enforcement and implementation of a new quality control system. Led the development of multiple�financial reporting methods to measure productivity and efficiency. Increased efficiency of discrepancy investigations by designing a more accurate cash-forecasting system."
+    }
+  ],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Financial modeling",
+      "level": "",
+      "keywords": [
+        ""
+      ]
+    },
+    {
+      "name": "Variance analysis",
+      "level": "",
+      "keywords": [
+        ""
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

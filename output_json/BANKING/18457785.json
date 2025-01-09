@@ -1,0 +1,99 @@
+{
+  "basics": {
+    "name": "Not provided",
+    "label": "Project Manager and Technical Implementation",
+    "image": "",
+    "email": "Not provided",
+    "phone": "Not provided",
+    "url": "Not provided",
+    "summary": "Systems architect with expertise in requirement gathering and analysis, architectural, component and interface design and development for AS/400 applications in multiples domains. Willing to learn new skills and take on new challenges.",
+    "location": {
+      "address": "Not provided",
+      "postalCode": "Not provided",
+      "city": "Not provided",
+      "countryCode": "Not provided",
+      "region": "Not provided"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Project Manager and Technical Implementation",
+      "url": "Not provided",
+      "startDate": "2003-04",
+      "endDate": "2015-03",
+      "summary": "Managed AS/400 CORE BANKING, established compatibility with third-party software products, developed & implemented complex internet and intranet applications, coordinated with systems partners, provided maintenance and development of bug fixes and patch sets for existing web apps, troubleshoot UNIX and Windows processing problems, managed documentation on start-up, shut down and first-level troubleshooting, design strategic plan for component development practices."
+    },
+    {
+      "name": "Company Name",
+      "position": "Technical Project Manager",
+      "url": "Not provided",
+      "startDate": "2015-06",
+      "endDate": "2016-02",
+      "summary": "Managed development of bug fixes and patch sets for existing Web applications, established compatibility with third-party software products, coordinated with systems partners, provided ongoing maintenance, and development of applications, provided documentation on start-up, shut down and first-level troubleshooting, designed SharePoint master page and page layout, designed strategic plan for component development practices."
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Juan Pablo Duarte",
+      "url": "Not provided",
+      "area": "No specific area mentioned",
+      "studyType": "High School Diploma",
+      "startDate": "Not provided, concluded in 2003",
+      "endDate": "2003",
+      "score": "Not provided"
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "IT Project Manager Analyst & AS/400 Administrator",
+      "level": "Proficient",
+      "keywords": [
+        "IT Project Management",
+        "AS/400 Administration",
+        "Analyst"
+      ]
+    },
+    {
+      "name": "Various Technical Skills",
+      "level": "Proficient",
+      "keywords": [
+        "AS/400 Administrator",
+        "Project Manager",
+        "Web Application",
+        "Security AS/400",
+        "Setting goals and objectives",
+        "QA Tools",
+        "Enterprise Technologies",
+        "System Upgrade/Migration/Back up",
+        "Management and Teamwork"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": [
+	{
+	"name": "Implementation Core banking (AS/400)",
+	"startDate": "Not provided",
+	"endDate": "",
+	"description": "Implemented Core banking systems using AS/400 for FISERV",
+	"highlights": [],
+	"url": ""
+	},
+	{
+	"name": "Upgrade Core Banking",
+	"startDate": "Not provided",
+	"endDate": "",
+	"description": "Performed upgrade for Core banking systems",
+	"highlights": [],
+	"url": ""
+	}
+  ]
+}

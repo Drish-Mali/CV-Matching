@@ -1,0 +1,120 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Engineer",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Work Ethic, Personal Ownership, Responsibility, Adaptability, ability to learn quickly and accurately, Positive attitude, Timeliness, Positive appearance and customer interactions.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "US",
+      "region": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Engineer",
+      "url": "",
+      "startDate": "2015-03-01",
+      "endDate": "Current",
+      "summary": "Assisted customers with complaints, performed routine maintenance, troubleshot electronic parts of the building, prepared sheetrock, metal and wood surfaces for painting, completed basic plumbing, electrical, carpentry and HVAC duties.",
+      "highlights": ["Microsoft Office Suite expert","Conceptual thinker","Self-motivated professional"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Handyman",
+      "url": "",
+      "startDate": "2012-01-01",
+      "endDate": "Current",
+      "summary": "Transfer tools, parts, equipment, and supplies to and from work stations and other areas. Install or replace machinery, equipment, and new or replacement parts and instruments. Order new parts to maintain inventory.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Healthcare Provider",
+      "url": "",
+      "startDate": "2004-01-01",
+      "endDate": "2013-09-01",
+      "summary": "Provided Healthcare for at Home Patient.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Arcade Repairman / Technician",
+      "url": "",
+      "startDate": "2000-01-01",
+      "endDate": "2004-01-01",
+      "summary": "Fill machines with products, ingredients, money, and other supplies. Maintain records of machine maintenance and repair. Replace malfunctioning parts.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [
+    
+  ],
+  "education": [
+    {
+      "institution": "Traverse City West High School",
+      "url": "",
+      "area": "High School",
+      "studyType": "High School Diploma",
+      "startDate": "2000-08-01",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Valencia College",
+      "url": "",
+      "area": "Graphic Art and Design",
+      "studyType": "Associate of Arts",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    
+  ],
+  "certificates": [
+    
+  ],
+  "publications": [
+    
+  ],
+  "skills": [
+    {
+      "name": "Typing",
+      "level": "Greater than 40 words a minute",
+      "keywords": []
+    },
+    {
+      "name": "Networking (Computer)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Computer Management",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    
+  ],
+  "interests": [
+    
+  ],
+  "references": [
+    
+  ],
+  "projects": [
+    
+  ]
+}

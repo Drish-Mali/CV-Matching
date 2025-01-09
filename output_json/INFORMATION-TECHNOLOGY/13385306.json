@@ -1,0 +1,99 @@
+{
+  "basics": {
+    "name": "Director of Information Technology",
+    "label": "Director of Information Technology",
+    "summary": "Applying technology and workflow solutions to business challenges is exciting for me because I love to learn and apply new lessons and approaches to support and enhance the organization to achieve its goals and mission.",
+    "skills": [
+      {
+        "name": "Core Skills",
+        "level": "Master",
+        "keywords": [
+          "C#", 
+          "Oracle SQL", 
+          "Information Management", 
+          "SQL Server", 
+          "TFS", 
+          "SharePoint", 
+          "Database Design",
+          "Database Administration",
+          "Data Management",
+          ".NET", 
+          "asp.net", 
+          "VB.NET", 
+          "Adabas", 
+          "ADO", 
+          "Agile", 
+          "Application Development", 
+          "ASP", 
+          "XML", 
+          "banyan", 
+          "Business Intelligence", 
+          "cardiology", 
+          "client server", 
+          "hardware", 
+          "Data Management", 
+          "Database Administration", 
+          "Network Administrator", 
+          "Oracle DBA", 
+          "PL/SQL"
+        ]
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Director of Information Technology",
+      "startDate": "2012-11-01",
+      "endDate": "2015-08-01",
+      "summary": "Provided application and network support services for the MSBA."
+    },
+    {
+      "name": "Company Name",
+      "position": "Team Leader",
+      "startDate": "2005-05-01",
+      "endDate": "2012-11-01",
+      "summary": "Lead clinical and research programming development and application support for applications developed by my group for the Cardiovascular Program."
+    },
+    {
+      "name": "Company Name",
+      "position": "Chief Information Officer",
+      "startDate": "2000-07-01",
+      "endDate": "2005-02-01",
+      "summary": "Provide network, application and help desk support for the largest agency in the Commonwealth of Massachusetts, The Department of Mental Retardation."
+    },
+    {
+      "name": "Company Name",
+      "position": "Director of Applications Development",
+      "startDate": "1996-02-01",
+      "endDate": "2000-06-01",
+      "summary": "Provided application development and support services to the Department of Youth Services."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Suffolk University - Sawyer School of Management",
+      "area": "Management Information Systems, General",
+      "studyType": "Master of Business Administration (MBA)",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Unknown",
+      "area": "Economics",
+      "studyType": "Bachelor of Arts (BA)",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

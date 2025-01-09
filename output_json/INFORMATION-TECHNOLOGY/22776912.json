@@ -1,0 +1,68 @@
+{
+  "basics": {
+    "name": "Director of Information Technology / Chief Technology Officer",
+    "label": "Executive",
+    "summary": "Proficient leader excelling in dynamic-demanding environments while maintaining clarity and focus. Skilled in development and implementation of digital business technologies including Telecom. Strength in creating outstanding customer satisfaction, positive team building and delivering high quality services.",
+    "location": {
+      "region": "Oregon"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Director of Information Technology /Chief Technology Officer",
+      "startDate": "2007-01",
+      "endDate": "2015-01",
+      "summary": "Provided expertise, vision and leadership for developing, implementing and executing strategic and tactical information technology initiatives that aligned with the mission. Identified opportunities/risk and applied best practice in alignment with company strategic plan, goals and objectives.",
+      "highlights": [
+        "Moved from fully outsourced IT support to in-house IT.",
+        "Recruited, trained, and mentored team members.",
+        "Migration of physical servers to virtual and cloud-based technologies.",
+        "Deployed security risk monitoring and management systems",
+        "Deployed user support ticketing system with inventory/asset tracking and remote user management."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Manager/Director",
+      "startDate": "2000-01",
+      "endDate": "2006-01",
+      "summary": "Ensured full delivery of all IT initiatives for an international spa manufacture including retail markets. Responsible for IT directives in alignment with company strategic plan.",
+      "highlights": [
+        "Implemented Nortel PBX System with VoIP Switching.",
+        "Implemented MAS200-500 accounting with customized features including ERP.",
+        "Implemented high level data security and provided international data interaction using ISO guidelines.",
+        "Implemented Supply Chain Security Management Systems.",
+        "Designed and implemented several high-end Web sites.",
+        "Implemented desktop internet faxing providing efficient time usage to end-users, reduced printer support, paper & copper analog lines"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Western Oregon University",
+      "area": "Information Technology",
+      "studyType": "Bachelor's"
+    },
+    {
+      "institution": "Belford University",
+      "area": "Technology",
+      "studyType": "Bachelor's"
+    },
+    {
+      "institution": "Portland Community College",
+      "area": "Limited Energy Journeyman",
+      "studyType": "Degree"
+    }
+  ],
+  "skills": [
+    {
+      "name": "IT Management",
+      "level": "Master",
+      "keywords": [
+        "Contract Negotiation", "Cloud Technology", "Digital PBX", "Cellular", "Smart Devices", "VoIP Technology", "ERP deployment", "SWOT analysis", "Enterprise Data Warehouses", "SQL Repositories", "Enterprise Backup", "Recovery and Storage Methodologies", "Compliance and Regulatory Solutions", "Security Analysis", "Wireless Networks", "Client/Servers", "Specialty servers", "Point to Point Wireless Antenna Systems", "WiFi deployment", "Mobile App deployment", "Business Analysis", "Process Modeling", "Lean technology", "Zero Based budgeting", "EBIDTA", "Policies & Procedures (ITIL)", "Project, Network, Asset, Change and Security and Governance Management", "IT Consulting"
+      ]
+    }
+  ]
+}

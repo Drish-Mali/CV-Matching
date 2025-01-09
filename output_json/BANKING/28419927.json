@@ -1,0 +1,153 @@
+{
+  "basics": {
+    "name": "Karla Lee",
+    "label": "",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Results-focused people advocate with vast experience in Wealth Management and Deposit Financial Services. Targets growth through nurturing exemplary teams and focusing on a format of listening to our clients for best outcomes. Proactive leader experienced in deep internal and external partnerships for best client outcome.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Regional Director of Banking and Wealth",
+      "url": "",
+      "startDate": "2018-03",
+      "endDate": "2020-12",
+      "summary": "Responsible for overall growth performance of strategic marketplace.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Northern CA Operations Executive",
+      "url": "",
+      "startDate": "2016-11",
+      "endDate": "2018-03",
+      "summary": "Responsible for profitability of the most elite marketplace in the Bank of America franchise; 350 Financial Centers with close to 3000 Associates.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Sales and Service Executive-West Coast",
+      "url": "",
+      "startDate": "2011-11",
+      "endDate": "2016-11",
+      "summary": "Responsible for the revenue growth of 40% of the consumer franchise.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of San Francisco",
+      "url": "",
+      "area": "School of Management",
+      "studyType": "MBA",
+      "startDate": "",
+      "endDate": "2023-05",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "University of Washington",
+      "url": "",
+      "area": "Finance",
+      "studyType": "Pacific Coast Banking School",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Toulouse Lautrec School of Art",
+      "url": "",
+      "area": "Art History",
+      "studyType": "Bachelor of Arts",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Series 7, 9, 10 and 66 Licenses",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "CA Life & Health Insurance License",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Industry partnership development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Executive leadership",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Team building",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Problem resolution",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Recruiting and hiring",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Relationship building",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Process improvement",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Data management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Operations oversight",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

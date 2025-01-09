@@ -1,0 +1,85 @@
+{
+  "basics": {
+    "name": "Anonymous",
+    "label": "Engineering Assistant",
+    "email": "",
+    "phone": "",
+    "summary": "Retired Engineering Assistant with 25 years of telecommunications experience, excellent CAD drafting skills and quality clerical abilities.",
+    "skills": {
+      "name": "Engineering Skills",
+      "level": "Expert",
+      "keywords": ["CAD", "TIRKS", "Switch", "LFACs", "Microstation", "ICGS / IDDS", "Word", "Excel", "RequestNet", "AARDWOLF", "ADTRAN", "Microsoft Outlook", "CCP", "WSAM Image", "Lotus Sametime", "Fiber Brains", "Ringbuilder", "Plat Indexes", "VENUe", "WSAM-DC Fiber", "Traffic Control", "State Highway database", "ASSIST", "Workforce Management systems", "office switchphone", "Self-taught skills in office party and event planning and decorating"]
+    },
+    "location": {}
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Engineering Assistant",
+      "startDate": "2006-08-01",
+      "endDate": "2014-12-01",
+      "summary": "Utilized company computers and records to obtain information for the design. Used engineering methods to prepare designs. Tracked and monitored construction. Utilized computer drafting tools. Completed site visits on foot. Wore appropriate Engineering safety equipment, when required. Performed daily clerical office work and additional duties as required."
+    },
+    {
+      "name": "Company Name",
+      "position": "Facilities Administrator",
+      "startDate": "2000-09-01",
+      "endDate": "2006-08-01",
+      "summary": "Prepared diagrams, schematics, work orders, and maintained records. Updated and maintained maps, logs, drawings, graphs, charts. Utilized CADD (Computer Assisted Drafting Design). Acted as point of contact for engineering handoffs, facility checks, inquiries, information requests and etc. Corrected and updated NTAS database. Occasionally assisted the engineers on field site surveys."
+    },
+    {
+      "name": "Company Name",
+      "position": "Special Clerk",
+      "startDate": "1995-10-01",
+      "endDate": "2000-09-01",
+      "summary": "Performed clerical office duties. Assisted Planners in updating and tracking cable facility records."
+    },
+    {
+      "name": "Company Name",
+      "position": "Maintenance Administrator",
+      "startDate": "1992-08-01",
+      "endDate": "1995-10-01",
+      "summary": "Answered customer complaint calls regarding telephone service issues. Volunteered to setup and decorate for office functions and events."
+    },
+    {
+      "name": "Company Name",
+      "position": "General Clerk",
+      "startDate": "1989-11-01",
+      "endDate": "1992-08-01",
+      "summary": "Handled all office and clerical responsibilities."
+    }
+  ],
+  "volunteer": [
+
+  ],
+  "education": [
+    {
+      "institution": "Keystone Job Corps",
+      "area": "Food Services",
+      "studyType": "Certificate",
+      "startDate": "1981-01-01",
+      "endDate": "1981-12-01"
+    },
+    {
+      "institution": "Chopticon High",
+      "area": "High School",
+      "studyType": "Diploma",
+      "startDate": "1980-01-01",
+      "endDate": "1980-12-01"
+    },
+    {
+      "institution": "West Virginia Institute of Technology",
+      "area": "Health Education & Language Arts",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "1983-12-01"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Food Handler Certificate",
+      "date": "1981-01-01",
+      "issuer": "Keystone Job Corps"
+    }
+  ]
+}

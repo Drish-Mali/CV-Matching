@@ -1,0 +1,113 @@
+{
+  "basics": {
+    "name": "Unspecified",
+    "label": "General Construction Intern",
+    "image": "",
+    "email": "unspecified",
+    "phone": "unspecified",
+    "url": "unspecified",
+    "summary": "Dedicated student with excellent technical, analytical and communication skills, in search of an organization that gives me a platform to develop new skills. While also utilizing my present knowledge as a Science Construction Management student.",
+    "location": {
+      "address": "unspecified",
+      "postalCode": "unspecified",
+      "city": "unspecified",
+      "countryCode": "unspecified",
+      "region": "unspecified"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "General Construction Intern",
+      "url": "unspecified",
+      "startDate": "2015-06-01",
+      "endDate": "2015-08-01",
+      "summary": "Managed site information, processed demolition of roof, constructed room and bathroom, framed doors and windows, handled power tools.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Bartender/Server",
+      "url": "unspecified",
+      "startDate": "2015-02-01",
+      "endDate": "2015-07-01",
+      "summary": "Delivered quality service, ensured product quality assurance, showcased problem solving abilities by pleasing customers.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Voluntary Business Manager",
+      "url": "unspecified",
+      "startDate": "2013-06-01",
+      "endDate": "2015-07-01",
+      "summary": "Managed required documentation, assured safety protocols, maintained onsite equipment, developed floorplan, generated spreadsheet showcasing business expenses and revenue.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Eastern Washington University",
+      "url": "unspecified",
+      "area": "Construction Management",
+      "studyType": "Bachelor of Science",
+      "startDate": "unspecified",
+      "endDate": "unspecified",
+      "score": "unspecified",
+      "courses": []
+    },
+    {
+      "institution": "Colegio Delibes",
+      "url": "unspecified",
+      "area": "Study Abroad",
+      "studyType": "unspecified",
+      "startDate": "2015",
+      "endDate": "2015",
+      "score": "unspecified",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Technical skills",
+      "level": "Proficient",
+      "keywords": [
+        "AutoCAD", "Microsoft Word", "PowerPoint", "Excel"
+      ]
+    },
+    {
+      "name": "Quality control & Safety",
+      "level": "Proficient",
+      "keywords": [
+        "On Project Work Field"
+      ]
+    },
+    {
+      "name": "Management skills",
+      "level": "Proficient",
+      "keywords": [
+        "Ability to perform communicative tasks under pressure"
+      ]
+    },
+    {
+      "name": "Customer Service",
+      "level": "Proficient",
+      "keywords": [
+        "Quickly understand the customer's needs and expectations"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Bilingual and Biliterate"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

@@ -1,0 +1,108 @@
+{
+  "basics": {
+    "name": "Not provided",
+    "label": "Customer Service Rep",
+    "summary": "I'm currently seeking a full-time position, in an environment that will be a greater challenge for me. I'm aiming to learn new skills or use my current ones to better myself in the real world and allow opportunities for advancement. An accomplished and motivated individual with a solid background in AutoCAD design, layout, design for products and over 8 years of experience in a fast-paced, team-based, deadline-driven environment.",
+    "skills": [
+      {
+        "name": "Decision-making strength",
+        "level": "Proficient"
+      },
+      {
+        "name": "AutoCAD",
+        "level": "Proficient"
+      },
+      {
+        "name": "Deadline-oriented",
+        "level": "Proficient"
+      },
+      {
+        "name": "Customer service",
+        "level": "Expert"
+      },
+      {
+        "name": "Critical thinking",
+        "level": "Proficient"
+      },
+      {
+        "name": "MS Windows proficient",
+        "level": "Proficient"
+      },
+      {
+        "name": "Creative problem solver",
+        "level": "Expert"
+      },
+      {
+        "name": "Quick learner",
+        "level": "Proficient"
+      },
+      {
+        "name": "Strategic sales knowledge",
+        "level": "Proficient"
+      },
+      {
+        "name": "Multi-line phone talent",
+        "level": "Proficient"
+      },
+      {
+        "name": "Self-motivated",
+        "level": "Expert"
+      },
+      {
+        "name": "Strong verbal communication",
+        "level": "Expert"
+      },
+      {
+        "name": "Risk management processes and analysis",
+        "level": "Proficient"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Customer Service Rep",
+      "startDate": "2016-08",
+      "endDate": "2018-02",
+      "summary": "Supported management in assuring floor agents completed tasks correctly, described product and pricings, answered product questions and complaints. Maintained cleanliness and presentation of stock room and production floor. Maintained a high-volume of inbound and outbound customer calls."
+    },
+    {
+        "name": "Company Name",
+        "position": "Crew Member",
+        "startDate": "2014-02",
+        "endDate": "2016-08",
+        "summary": "Provided excellent customer service, excellent time management skills, worked in high pressure situations. Followed food safety procedures and sanitation standards."
+    },
+    {
+        "name": "Company Name",
+        "position": "Billing, Office Assistant",
+        "startDate": "2012-09",
+        "endDate": "2012-11",
+        "summary": "Checked patient data including insurance, demographic and health history. Maintained accurate records of patient care, condition, progress and concerns."
+    },
+    {
+        "name": "Company Name",
+        "position": "Customer Services, Billing and Server",
+        "startDate": "2006-01",
+        "endDate": "2010-06",
+        "summary": "Provided professional, friendly and engaging service, assisted the chef in preparing food, maintained cleanliness of the kitchen and materials. Followed all safety and sanitation policies."
+    }
+  ],
+  "education": [
+    {
+      "institution": "ITT-TECHNICAL INSTITUTE",
+      "area": "Computer Drafting and Design",
+      "studyType": "Associate Degree",
+      "endDate": "2015-03"
+    },
+    {
+      "institution": "RANDOLPH-MACON COLLEGE",
+      "area": "Pre-Medicine"
+    },
+    {
+      "institution": "LEE-DAVIS HIGH SCHOOL",
+      "studyType": "Advance Diploma",
+      "endDate": "2010-06"
+    }
+  ]
+}

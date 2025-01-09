@@ -1,0 +1,93 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Marketing and Corporate Communications / Merchant Services Transition Communications Project Manager",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "A results-oriented professional who cultivates strong and effective working relationships with internal and external partners to establish and achieve mutual communications objectives for advancement of company's business strategy.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Marketing and Corporate Communications/Merchant Services Transition - Communications Project Manager - Contractor",
+      "url": "",
+      "startDate": "2012-05-01",
+      "endDate": "Current",
+      "summary": "Manage, write, and edit external client communications and content to meet transactional needs of multiple business merchants.",
+      "highlights": [
+        "Managed project risk through comprehensive mitigation assessment and planning techniques.",
+        "Initiated, defined and managed marketing campaigns across business channels for direct mail programs within a matrixed environment.",
+        "Lead matrix process for cross-functional teams to develop and execute client communications.",
+        "Developed documentation; monitored and reported project status; assessed the effectiveness and accuracy of documentation.",
+        "Managed project risk through comprehensive assessment and planning techniques.",
+        "Managed work efforts through the project plan for basic scope control procedures using multiple functional resources."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Project Manager",
+      "url": "",
+      "startDate": "2007-01-01",
+      "endDate": "2011-01-01",
+      "summary": "Institutional Client Services, Marketing Project management for product implementations, asset consolidations and email campaign project requests.",
+      "highlights": [
+        "Status reporting of project work related to implementation of tactical product, segment and institution-specific marketing programs."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Villanova University",
+      "url": "",
+      "area": "",
+      "studyType": "Six Sigma Green Belt Certification",
+      "startDate": "2010-01-01",
+      "endDate": "2010-01-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "King's College",
+      "url": "",
+      "area": "Secretarial Science",
+      "studyType": "Diploma",
+      "startDate": "1983-01-01",
+      "endDate": "1983-01-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Professional Skills",
+      "level": "",
+      "keywords": [
+        "Visio",
+        "MS Project",
+        "PowerPoint",
+        "Adobe Creative Suite",
+        "SharePoint",
+        "Citrix",
+        "Live Meeting",
+        "WebEx",
+        "Vendor and Relationship Management",
+        "Communications",
+        "Negotiation",
+        "Project Management",
+        "Implementation",
+        "Written",
+        "Verbal and Interpersonal Skills"
+      ]
+    }
+  ]
+}

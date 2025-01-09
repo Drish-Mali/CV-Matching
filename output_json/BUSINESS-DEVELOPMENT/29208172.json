@@ -1,0 +1,147 @@
+{
+  "basics": {
+    "name": "Not Specified",
+    "label": "Business Development Analyst",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Business Analyst and Project Manager with specialization in IT Systems well versed in data mapping and user acceptance testing, as well as solving complex problems in high-pressure environments. Excels at cultivating, managing and leveraging client relationships.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Business Development Analyst",
+      "url": "",
+      "startDate": "2006-01-01",
+      "endDate": "2016-06-30",
+      "summary": "Executive director of the explansion of current prospects database within specified business sectors to develop and improve a current or new infrastructure system. Developed organizational change management strategies.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Business Enterprise Risk Manager",
+      "url": "",
+      "startDate": "1998-01-01",
+      "endDate": "2005-01-01",
+      "summary": "Supervise underwriting and business-to-business enterprise risk management by ensuring that policies contribute to protecting the organization from potential risks.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Business Client Relationship Manager",
+      "url": "",
+      "startDate": "1996-01-01",
+      "endDate": "1998-01-01",
+      "summary": "Developed business solutions and leadership for clients that productively develop and implement new improved business systems and processes both internally and externally.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Project Manager",
+      "url": "",
+      "startDate": "1990-01-01",
+      "endDate": "1996-01-01",
+      "summary": "Formulated client service, operations, editorial and implementation teams to demonstrate trade-doubler expertise at new business sales pitch.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Phoenix",
+      "url": "",
+      "area": "Information Systems-Business Analytic",
+      "studyType": "Master",
+      "startDate": "",
+      "endDate": "2017-01-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Tiffin University",
+      "url": "",
+      "area": "Criminal Justice",
+      "studyType": "Master",
+      "startDate": "",
+      "endDate": "2003-01-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Myers University",
+      "url": "",
+      "area": "Public Administration",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "1997-01-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Business Development",
+      "level": "Expert",
+      "keywords": [
+        "Business Analysis",
+        "Account management",
+        "Accounting",
+        "Big Data",
+        "Business Administration",
+        "Business Consulting",
+        "Business Solutions",
+        "Business Systems",
+        "Customer Relationship Management",
+        "Client Relations Development",
+        "Database",
+        "Direct Marketing",
+        "Finance",
+        "Information Technology",
+        "Law",
+        "Leadership",
+        "Director",
+        "Marketing",
+        "Market Evaluation",
+        "Messaging",
+        "Enterprise",
+        "Network",
+        "Organizational",
+        "Performance Reviews",
+        "performance management",
+        "policies",
+        "processes",
+        "Proposals",
+        "proposal Writing",
+        "Speaking",
+        "Professor",
+        "Quality",
+        "Recruitment",
+        "Relationship Building",
+        "Risk Management",
+        "Selling",
+        "Sales",
+        "Scheme",
+        "Strategic Plans",
+        "Supply Chain Management",
+        "Tables",
+        "Underwriting"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "volunteer": [],
+  "awards": [],
+  "publications": [],
+  "certificates": []
+}

@@ -1,0 +1,127 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Sexual Assault Crisis Counselor / Victim Advocate",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Skilled in active listening, curriculum development, group facilitation, crisis counseling.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Sexual Assault Crisis Counselor / Victim Advocate",
+      "url": "",
+      "startDate": "2013-02-01",
+      "endDate": "Current",
+      "summary": "One on one trauma-informed crisis counseling to clients with an emphasis on empowerment. Provided advocacy and accompaniment for clients at the hospital, police, and court level. Facilitated support groups to men and women at various community agencies. Legislative Advocacy Committee Liaison.",
+      "highlights": ["Community Outreach"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Clinical Social Work Intern",
+      "url": "",
+      "startDate": "2010-01-01",
+      "endDate": "2012-01-01",
+      "summary": "Visit clients in their homes, nursing facilities, and hospital setting. Maintained a caseload of 20 - 30 clients. Provided Psych-Social initials and updated assessments. Coordinated community services for clients and their families.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Community Educator Intern",
+      "url": "",
+      "startDate": "2008-01-01",
+      "endDate": "2008-01-01",
+      "summary": "Facilitated educational training in the community on domestic violence and sexual assault.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Supervisor",
+      "url": "",
+      "startDate": "2005-02-01",
+      "endDate": "2016-06-01",
+      "summary": "Train and Supervise 153 employees and new supervisors.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Social Work Intern",
+      "url": "",
+      "startDate": "2001-01-01",
+      "endDate": "2001-01-01",
+      "summary": "Developed and implemented curriculum on issues of domestic violence, sexual assault, and self-esteem for male and female support groups.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Fordham University",
+      "url": "",
+      "area": "Social Work",
+      "studyType": "Master",
+      "startDate": "2012-08-01",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Quinnipiac University",
+      "url": "",
+      "area": "Social Services",
+      "studyType": "Bachelor of Arts",
+      "startDate": "2009-05-01",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Naugatuck Valley CC",
+      "url": "",
+      "area": "Human Services",
+      "studyType": "Associate of Science",
+      "startDate": "2006-05-01",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Active Listening",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Curriculum Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Group Facilitation",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Crisis Counseling",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

@@ -1,0 +1,82 @@
+{
+  "basics": {
+    "name": "Not Available",
+    "label": "Chef",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Quality-focused and efficient Cook adept at preparing and plating food in high energy, fast-paced kitchens. Line Cook with 2 years of experience in high-pressure culinary environments. Skilled in preparing large volumes of food quickly and efficiently. Seeking to use culinary skills and expertise to prepare a special variety of dishes in a professional, rewarding environment.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Chef",
+      "url": "",
+      "startDate": "2014-02",
+      "endDate": "2014-10",
+      "summary": "Reduced food costs by fifteen percent by expertly estimating purchasing needs and buying through approved suppliers. Provided courteous and informative customer service in an open kitchen format. Systematically tasted and smelled all prepared dishes, and observed color, texture and garnishes...",
+      "highlights": [
+        "Successfully managed a kitchen staff of 7 employees during high volume dinner services for more than 350 diners each night."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Prep Cook",
+      "url": "",
+      "startDate": "2013-08",
+      "endDate": "2013-12",
+      "summary": "Consistently kept a clean and safe environment by adhering to all federal, state and local sanitation and safety requirements..."
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Hudson County Community College",
+      "url": "",
+      "area": "Culinary Arts",
+      "studyType": "Associate of Applied Science",
+      "startDate": "Not Available",
+      "endDate": "2013",
+      "score": "",
+      "courses": [
+        "Learned basic and advanced cooking techniques.",
+        "Classes in Restaurant and Facility Operations",
+        "Courses in: Food Preparation, Kitchen Management, Patisserie and Confectionery, International Cuisine",
+        "Nutrition courses"
+      ]
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "",
+      "level": "",
+      "keywords": [
+        "Exceptional knife skills",
+        "Excellent communication skills",
+        "Working well as a team member",
+        "ServSafe certified",
+        "Focus on portion and cost control",
+        "Focused and disciplined",
+        "Bilingual (English/Spanish)",
+        "High volume production capability",
+        "Well-tuned palette"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

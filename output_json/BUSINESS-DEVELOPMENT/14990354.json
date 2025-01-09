@@ -1,0 +1,84 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Business Development Director",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Global Business Development offering outstanding presentation, communication and cross-cultural team management skills. High-energy, results-oriented leader with an entrepreneurial attitude.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Business Development Director",
+      "url": "",
+      "startDate": "2014-02",
+      "endDate": "2016-01",
+      "summary": "Created new revenue streams through clearly understanding client goals and objectives. Generated new business through positioning Staples wide disciplines to outperform expectations.",
+      "highlights": [
+        "Increased profit Margins by 50% in one year",
+        "Implement National furniture standards program reducing rogue vendor spend by 50%",
+        "20 million dollar book of new business"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Regional Sales Director",
+      "url": "",
+      "startDate": "2007-02",
+      "endDate": "2014-02",
+      "summary": "Development of sales team professionals with annual revenues $35,000,000 annually. Extensive P/L responsibilities, margin growth, and regional strategy deployment.",
+      "highlights": [
+        "Achieve 375% increase in sales",
+        "Supervised regional division of 42 staff members with direct growth responsibilities of 14 furniture sellers"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of California",
+      "url": "",
+      "area": "Interior Design & Industrial Technology",
+      "studyType": "Bachelor of Applied Arts",
+      "startDate": "",
+      "endDate": "1988",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Business Development",
+      "level": "Expert",
+      "keywords": [
+        "Strong Leadership communication skills",
+        "Cross-functional team management",
+        "Strategic account development",
+        "Negotiations expert",
+        "Fortune 500 partner experience",
+        "Goal-oriented",
+        "National account management",
+        "Team building expertise",
+        "Exceeds sales goals",
+        "Staff Development"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

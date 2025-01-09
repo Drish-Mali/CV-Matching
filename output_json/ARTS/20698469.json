@@ -1,0 +1,122 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Combat Marksmanship Trainer/ Primary Marksmanship Instructor",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Weapons and Tactics Instructor",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "US",
+      "region": "South Carolina"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Combat Marksmanship Trainer/ Primary Marksmanship Instructor",
+      "url": "",
+      "startDate": "2015-06",
+      "endDate": "2016-08",
+      "summary": "Instructed over 2,000 Marines in all phases of the Marine Corps Marksmanship Program on the qualification and re qualification on small arms ranges. Additionally, assisted in the operation of 35 firing ranges.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Assistant Martial Arts Instructor",
+      "url": "",
+      "startDate": "2015-06",
+      "endDate": "2016-07",
+      "summary": "Assisted four Martial Arts Instructors with the training of over 200 Marines and Sailors in the Marine Corps Martial Arts Program by planning and executing Combat Conditioning (Physical Fitness Training). Conducted remediation training with students who required extra attention until they met the requirements to successfully obtain their next belt. Teaching the Marine Corps Martial Arts Program in the absence of the Instructor.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Combat Marksmanship Coach",
+      "url": "",
+      "startDate": "2014-09",
+      "endDate": "2015-06",
+      "summary": "Analyzed difficulties of over 3,000 shooters during dry and live fire exercises in all phases of the Marine Corps Marksmanship Program during qualification. Additionally, assisted in the operation of 56 firing ranges.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Response Cell Non-Commissioned Officer",
+      "url": "",
+      "startDate": "2015-10",
+      "endDate": "2015-10",
+      "summary": "Organized the set-up of a large scale amphibious assault landing training exercise/ simulation involving several adjacent Marine Crops units. Trained 50 Marines to use combat simulation programs and to effectively support adjacent units involved in the exercise. Supervised and assisted Marines with daily tasks and execution of the amphibious landing followed on by a ground assault. Greater details of duties and training evolution are classified.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Marine Corps University; Distance Learning",
+      "url": "",
+      "area": "Terrorism Awareness - Leading Marines - Pistol Marksmanship - Infantry Squad Leader: Weapons and Fire Support - Inspection and Repair of the M9 Pistol- The Marine Rifleman: Combat Skills",
+      "studyType": "",
+      "startDate": "2016",
+      "endDate": "2016",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Global War on Terrorism Service Medal",
+      "date": "",
+      "awarder": "Inspector General",
+      "summary": ""
+    },
+    {
+      "title": "Marine Corps Association & Foundation Award",
+      "date": "",
+      "awarder": "Marine Corps Association & Foundation",
+      "summary": "Formally commended for superior accomplishments while enrolled in Combat Marksmanship Trainers Course."
+    },
+    {
+      "title": "Commanding Officer of Marine Corps Tactics & Operations Group Commendation",
+      "date": "",
+      "awarder": "Commanding Officer of Marine Corps Tactics & Operations Group",
+      "summary": "Formally commended for outstanding performance while serving as Response Cell Non-Commissioned Officer in Charge."
+    }
+  ],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Weapons and Tactics",
+      "level": "Expert",
+      "keywords": []
+    },
+    {
+      "name": "Martial Arts Instruction",
+      "level": "Expert",
+      "keywords": []
+    },
+    {
+      "name": "Marksmanship Coaching",
+      "level": "Expert",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [
+    {
+      "name": "Interests",
+      "keywords": [
+        "Lacrosse",
+        "Rugby",
+        "Educating People on Firearms"
+      ]
+    }
+  ],
+  "references": [],
+  "projects": []
+}

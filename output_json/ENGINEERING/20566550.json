@@ -1,0 +1,134 @@
+{
+  "basics": {
+    "name": "Unnamed",
+    "label": "Engineering Intern",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Currently living in Sydney, Australia. Knowledgeable in C/Python, R, STK, CATIA, ANSYS, LaTeX, SolidWorks, Microsoft Office, and Microsoft Project.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Sydney",
+      "countryCode": "AU",
+      "region": "N/A"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Engineering Intern",
+      "url": "",
+      "startDate": "2017-02",
+      "endDate": "2017-04",
+      "summary": "Engineering Internship Experience...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Sales Representative",
+      "url": "",
+      "startDate": "2016-05",
+      "endDate": "2017-01",
+      "summary": "Sales Representative Experience...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Tutor",
+      "url": "",
+      "startDate": "2016-02",
+      "endDate": "2016-05",
+      "summary": "Tutor Experience...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Mechanical Design Engineer",
+      "url": "",
+      "startDate": "2015-08",
+      "endDate": "2017-07",
+      "summary": "Mechanical Design Engineer Experience...",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "NORTMEAD HIGH SCHOOL",
+      "url": "",
+      "area": "MATHEMATICS,PHYSICS,CHEMISTRY,ENGINEERING",
+      "studyType": "High School Diploma",
+      "startDate": "2012",
+      "endDate": "2012",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "UNIVERSITY OF NEW SOUTH WALES (UNSW)",
+      "url": "",
+      "area": "BE Bachelor of Engineering (Honours) (Aerospace)",
+      "studyType": "Bachelor of Science",
+      "startDate": "2017",
+      "endDate": "2017",
+      "score": "79.42",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Scrum Fundamentals",
+      "date": "N/A",
+      "issuer": "N/A",
+      "url": ""
+    },
+    {
+      "name": "Data Science Fundamentals",
+      "date": "N/A",
+      "issuer": "N/A",
+      "url": ""
+    },
+    {
+      "name": "Oracle SQL Developer",
+      "date": "N/A",
+      "issuer": "N/A",
+      "url": ""
+    },
+    {
+      "name": "Advanced SQL: SQL Expert",
+      "date": "N/A",
+      "issuer": "N/A",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Engineering",
+      "level": "Intermediate",
+      "keywords": ["C/Python", "R", "STK", "CATIA", "ANSYS", "LaTeX", "SolidWorks", "Microsoft Office", "Microsoft Project"]
+    }
+  ],
+  "languages": [],
+  "interests": [
+    {
+      "name": "Hobbies",
+      "keywords": ["Traveling", "Tennis", "Hiking", "Statistics", "CAD & 3D drawing", "Aircraft", "Spacecraft", "Astronomy"]
+    }
+  ],
+  "references": [],
+  "projects": [],
+  "volunteer": [
+    {
+      "organization": "Karabi community & Development Services, Wentworthville ,Sydney AUSTRALIA",
+      "position": "Social Support and Youth Services Volunteer",
+      "url": "",
+      "startDate": "2016-10",
+      "endDate": "N/A",
+      "summary": "Providing social support to various demographics, assistance in administration and office work, supervision of school holiday programs.",
+      "highlights": []
+    }
+  ]
+}

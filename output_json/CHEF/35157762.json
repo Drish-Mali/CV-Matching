@@ -1,0 +1,109 @@
+{
+  "basics": {
+    "name": "Not provided",
+    "label": "Food Preparation Workers/Grill Chef",
+    "email": "Not provided",
+    "phone": "Not provided",
+    "summary": "Outgoing Gourmet Chef with extensive knowledge of hospitality etiquette, food preparation, superior customer service and 21 years in FOH and BOH operations. Skilled at memorizing menu items and orders. Certifications include Safe-Serv Food and Beverage Specialist and Serv-Safe Food safety understanding.",
+    "location": {
+      "address": "Not provided",
+      "postalCode": "Not provided",
+      "city": "Not  provided",
+      "countryCode": "Not provided",
+      "region": "Not provided"
+    },
+    "profiles": [
+      {
+        "network": "BeKnown",
+        "username": "Not provided",
+        "url": "Not provided"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Not provided",
+      "position": "Food Preparation Workers/Grill Chef",
+      "startDate": "2013-08",
+      "endDate": "2014-08",
+      "summary": "Prepared All Line Foods & Desserts In A Timely Fashion Per Customer Request",
+      "highlights": [
+        "GOURMET CHEF OF THE YEAR-2008",
+        "Awarded 'Outstanding Employee' in 2010"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Johnson & Wales University",
+      "area": "Culinary Arts, Hospitality Administration and Management",
+      "studyType": "Associate of Arts",
+      "startDate": "Not provided",
+      "endDate": "2010",
+      "score": "Not provided",
+      "courses": [
+        "Not provided"
+      ]
+    },
+    {
+      "institution": "Le Cordon Blue Culinary College",
+      "area": "Hospitality Administration and Management, Culinary Arts, Restaurant and Food Services Management",
+      "studyType": "Associate Degree",
+      "startDate": "Not provided",
+      "endDate": "2007",
+      "score": "Not provided",
+      "courses": [
+        "Not provided"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "GOURMET CHEF OF THE YEAR",
+      "date": "2008",
+      "awarder": "Not provided",
+      "summary": "Not provided"
+    },
+    {
+      "title": "Outstanding Employee",
+      "date": "2010",
+      "awarder": "Not provided",
+      "summary": "Not provided"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Safe-Serv Food and beverage specialist",
+      "date": "Not provided",
+      "issuer": "Not provided",
+      "url": "Not provided"
+    },
+    {
+      "name": "Serv-Safe Food safety understanding",
+      "date": "Not provided",
+      "issuer": "Not provided",
+      "url": "Not provided"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Food Preparation",
+      "level": "Expert",
+      "keywords": [
+        "tip management",
+        "Cross Functional Team Leadership",
+        "Food Service",
+        "Sous Chef",
+        "Pastry Chef",
+        "Line Cook",
+        "Prep",
+        "Executive Chef",
+        "Grill Cook",
+        "Deep Fryer",
+        "Beverage Designer"
+      ]
+    }
+  ],
+  "references": [],
+  "projects": []
+}

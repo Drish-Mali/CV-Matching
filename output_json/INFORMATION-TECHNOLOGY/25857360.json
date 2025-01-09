@@ -1,0 +1,95 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Staff Assistant",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Highly organized and detail-oriented Staff Assistant with more than 14 years experience supplying thorough, organized administrative support to10+ senior executives.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Staff Assistant",
+      "url": "",
+      "startDate": "2007-08-01",
+      "endDate": "Current",
+      "summary": "Currently working at the Office of Information Technology. Responsible for providing support to Richard Biever, CISO and his staff. Various duties including: calendaring and scheduling responsibilities, telephone screening/triage, preparing meetings and travel arrangements, clearing procurement cards receipts, serving as liaison with external vendors and OIT constituents; supporting with A/V electronics operation.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Receptionist",
+      "url": "",
+      "startDate": "2006-09",
+      "endDate": "2007-08",
+      "summary": "Responsible for answering and directing incoming calls, disbursing parking passes and visitor's badges, greeting visitors, accepting and disbursing incoming packages, leave tracking, maintaining telephone directory, and providing support to Staff Assistants.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Deputy Clerk",
+      "url": "",
+      "startDate": "2003",
+      "endDate": "2006",
+      "summary": "Responsible for the filing, preparation and maintenance of court files. Completing and filing Warrant in Debts (300+ per month), completing and filing Garnishments (150+ per month), collecting court fines and costs, data Entry (70+ wpm) and court room support to the Judge.",
+      "highlights": []
+    }, 
+    {
+      "name": "Company Name",
+      "position": "Legal Secretary",
+      "url": "",
+      "startDate": "2000-01",
+      "endDate": "2003-01",
+      "summary": "Responsible for preparation of court motions and orders, customer service, billing /accounting and extensive communications with the courts and other law offices.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Southwest Virginia Community College",
+      "url": "",
+      "area": "General Studies",
+      "studyType": "Associate of Arts",
+      "startDate": "2000",
+      "endDate": "",
+      "score": "",
+      "courses": [
+        "Course work in Finance",
+        "Course work in Administration"
+      ]
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Administrative Skills",
+      "level": "",
+      "keywords": [
+        "75 WPM typing speed",
+        "Advanced clerical knowledge",
+        "Excellent communication skills",
+        "HIPAA compliance",
+        "Articulate and well-spoken",
+        "Accurate and detailed",
+        "Works well under pressure"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

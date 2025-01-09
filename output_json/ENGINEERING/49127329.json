@@ -1,0 +1,85 @@
+{
+  "basics": {
+    "name": "737 Industrial Engineering Manager",
+    "label": "Industrial Engineer, Project Manager and Team Leader",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Self-motivated, innovative and goal-oriented Industrial Engineer, Project Manager and Team Leader dedicated to boosting company revenue through exceptional leadership and rigorous cost and schedule control techniques. Desires the opportunity to revamp processes and procedures and increase efficiency and product quality.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "State",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "737 Industrial Engineering Manager",
+      "url": "",
+      "startDate": "2014-01-01",
+      "endDate": "Current",
+      "summary": "Manage and lead an Industrial Engineering team in support of the 737 Wing Seal, Test, Paint and Systems Installation build processes. Lead my team in their daily activities such as production scheduling / cycling, managing the shop operating rhythm, and process improvement implementation resulting in over $1.5M in cost savings.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Industrial Engineer / Project Manager",
+      "url": "",
+      "startDate": "2008-09-01",
+      "endDate": "2009-12-01",
+      "summary": "Responsible for managing complete Sine Wave Fab-Cell statement of work (including M&PT developmental SOW) and work break-down structure (MS Project) for Fabrication Division Floor Beam developmental project for 787-9 implementation.",
+      "highlights": []
+    }],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Seattle University",
+      "url": "",
+      "area": "",
+      "studyType": "MBA",
+      "startDate": "",
+      "endDate": "2008",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "University of Washington",
+      "url": "",
+      "area": "Industrial Engineering",
+      "studyType": "Bachelors of Science",
+      "startDate": "",
+      "endDate": "2014",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Project Management Certification",
+      "date": "",
+      "issuer": "Stevens Institute",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Project planning and development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Strategic planning Dedicated team player",
+      "level": "",
+      "keywords": []
+    }],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

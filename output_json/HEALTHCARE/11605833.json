@@ -1,0 +1,63 @@
+{
+  "basics": {
+    "name": "NC AIR GUARD HEALTH SERVICES MANAGER",
+    "label": "Health Services Management",
+    "email": "",
+    "phone": "",
+    "summary": "A Highly Skilled and Attentive individual seeking a position that provides opportunities for professional growth and development."
+  },
+  "work": [
+    {
+      "name": "NC Air Guard",
+      "position": "Health Services Manager",
+      "startDate": "2013-03-01",
+      "endDate": "Current",
+      "summary": "Performs and directs patient management functions. Performs functions to admit, discharge, and transfer patients. Prepares financial statements and subsistence stock records."
+    },
+    {
+      "name": "NC Air Guard",
+      "position": "Computer Technician",
+      "startDate": "2013-02-01",
+      "endDate": "2013-08-01",
+      "summary": "Performs client-level information technology support functions. Manages hardware and software. Performs configuration, management, and troubleshooting."
+    },
+    {
+      "name": "HealthCare",
+      "position": "Supply Specialist",
+      "startDate": "2009-06-01",
+      "endDate": "2012-05-01",
+      "summary": "Operates and supervises the base medical equipment management office and non-medical material support. Provides and monitors non-medical supply and equipment support."
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Mount Olive",
+      "area": "Health Care Management",
+      "studyType": "Bachelor of Science and Business",
+      "startDate": "",
+      "endDate": "2014-01-01"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Accounting",
+      "level": ""
+    },
+    {
+      "name": "Business-Case",
+      "level": ""  
+    },
+    {
+      "name": "Charts",
+      "level": ""   
+    },
+    {
+      "name": "Hardware",
+      "level": ""   
+    },
+    {
+      "name": "Configuration Management",
+      "level": ""   
+    }
+  ]
+}

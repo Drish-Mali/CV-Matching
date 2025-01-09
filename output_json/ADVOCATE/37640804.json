@@ -1,0 +1,94 @@
+{
+  "basics": {
+    "name": "Nurse Clinician II",
+    "label": "Registered Nurse",
+    "email": "",
+    "phone": "",
+    "summary": "Registered Nurse with strengths in high-quality collaborative interdisciplinary patient care, technical procedures, and strong patient-family communication. Aiming to receive exceptional training and invaluable learning experiences from your institution's School of Anesthesia. Seeking an opportunity to be well-trained to become an exceptional Nurse Anesthetist from a top-ranked institution.",
+    "location": {
+      "city": "Chicago",
+      "countryCode": "US"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Advocate Lutheran General Hospital",
+      "position": "Nurse Clinician II on Medical/Cardiac Intensive Care Units and Interventional Unit",
+      "url": "",
+      "startDate": "2013-09-01",
+      "endDate": "",
+      "summary": "Provide compassionate care to critically-ill patients suffering from injuries or debilitating medical conditions. Observe behavior and symptoms and report changes to on-call physicians."
+    },
+    {
+      "name": "Chicago Luvabulls",
+      "position": "Dancer",
+      "url": "",
+      "startDate": "2014-08-01",
+      "endDate": ""
+    }
+  ],
+  "education": [
+    {
+      "institution": "Loyola University Chicago",
+      "url": "",
+      "area": "Nursing",
+      "studyType": "BSN (Bachelor's of Science in Nursing)",
+      "startDate": "",
+      "endDate": "2013",
+      "score": "3.59"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Multiple Advocate Lutheran General Hospital Spirit Awards",
+      "date": "2013",
+      "summary": "Awarded to employees who demonstrate Behaviors of Excellence and provide excellent patient care"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Registered Nurse",
+      "date": "2013-08-01",
+      "issuer": "State of Illinois"
+    },
+    {
+      "name": "Advance Cardiac Life Support (ACLS) Certification",
+      "date": "2014-01-01",
+      "issuer": ""
+    }
+  ],
+   "skills": [
+    {
+      "name": "Life support",
+      "keywords": []
+    },
+    {
+      "name": "HIPPA compliance",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Conversational"
+    },
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "volunteer": [
+    {
+      "organization": "Honduras Global Public Health Brigade",
+      "position": "Volunteer",
+      "url": "",
+      "startDate": "2013-05-01",
+      "endDate": "2013-05-01",
+      "summary": "Service trip to the Honduran community of El Jute for one week. The trip objective is to empower rural Honduran communities to prevent common illnesses through in-home infrastructural development, community leader training, and health education."
+    }
+  ]
+}

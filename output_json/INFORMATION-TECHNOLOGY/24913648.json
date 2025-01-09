@@ -1,0 +1,102 @@
+{
+  "basics": {
+    "name": "Information Technology Specialist",
+    "label": "Network Professional",
+    "email": "",
+    "phone": "",
+    "summary": "Experienced network professional with outstanding success rate at installing and supporting critical, multi-site networks.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Information Technology Specialist",
+      "url": "",
+      "startDate": "2012-08",
+      "endDate": "Current",
+      "summary": "Provides outstanding support to mission partners and other customers...",
+      "highlights": [
+        "Implemented and coordinated a complete technology refresh of DECC ADPE.",
+        "Spearheaded the DECC's migration from the Admin Enclave network over to the DISANet network."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Computer Systems Administrator",
+      "url": "",
+      "startDate": "2007-12",
+      "endDate": "2012-08",
+      "summary": "Deploys computer systems and other hardware throughout the base....",
+      "highlights": [
+        "Team lead on deployment of over 150 SIPRNET workstations.",
+        "Performed security scans on classified systems and collaborated with the Information Assurance team to mitigate vulnerabilities and breaches."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Information Assurance/Network Security",
+      "url": "",
+      "startDate": "2006-01",
+      "endDate": "2007-12",
+      "summary": "In-depth experience in multiple environments developing, implementing, and maintaining secure networks...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Helpdesk Technician",
+      "url": "",
+      "startDate": "2004-05",
+      "endDate": "2006-01",
+      "summary": "Responsibilities included working with end users to resolve issues...",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Jacksonville University",
+      "url": "",
+      "area": "Computer Information Systems",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "2002",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "IT",
+      "level": "",
+      "keywords": [
+        "Remote access support", "Systems analysis", "Superb interpersonal skills", "...", "Vista"
+      ]
+    }
+  ],
+  "certificates": [
+    {
+      "name": "CompTIA A+",
+      "date": "",
+      "issuer": "CompTIA",
+      "url": ""
+    },
+    {
+      "name": "CompTIA Security+",
+      "date": "",
+      "issuer": "CompTIA",
+      "url": ""
+    },
+    {
+      "name": "STI Certified Help Desk Professional",
+      "date": "",
+      "issuer": "STI",
+      "url": ""
+    }
+  ]
+}

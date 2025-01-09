@@ -1,0 +1,123 @@
+    {
+  "basics": {
+    "name": "",
+    "label": "School Counselor",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Seeking a full-time counseling/psychology instructor position to help students become successful in life and to design healthy learning and social environments in assisting them to develop an educational plan while promoting multiculturalism in school activities; help with testing situations/environments.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "School Counselor",
+      "url": "",
+      "startDate": "2013-09-01",
+      "endDate": "",
+      "summary": "Conduct individual counseling sessions, taught classroom guidance lessons related to character traits and bullying, consulted with parents regarding strategies to help their children with certain issues, helped with documentation of records and transfer/incoming student information, and also helped with documenting strategies for Response to Intervention process, consulted with staff/teachers concerning strategies to help students with exceptional needs.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "School Counselor",
+      "url": "",
+      "startDate": "2010-08-01",
+      "endDate": "2013-09-01",
+      "summary": "Conduct individual counseling sessions, taught classroom guidance lessons related to character traits and bullying, consulted with parents regarding strategies to help their children with certain issues, helped with documentation of records and transfer/incoming student information, and also helped with documenting strategies for Response to Intervention process, consulted with staff/teachers concerning strategies to help students with exceptional needs.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Language Arts Teacher",
+      "url": "",
+      "startDate": "2009-01-01",
+      "endDate": "2010-01-01",
+      "summary": "Worked with students on various reading/ writing skills to increase benchmark/ state scores to meet state standards, noted ,consulted with parents on strategies to improve students' overall behavioral skills.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "UNC Pembroke",
+      "url": "",
+      "area": "Education",
+      "studyType": "Master",
+      "startDate": "",
+      "endDate": "2010",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "UNC",
+      "url": "",
+      "area": "English",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "1998",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Middle Grades Language Arts",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Counseling",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Building Rapport",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Writing Skills",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [
+    {
+      "name": "Writing",
+      "keywords": []
+    },
+    {
+      "name": "Editing for church magazine",
+      "keywords": []
+    },
+    {
+      "name": "Reading",
+      "keywords": []
+    },
+    {
+      "name": "Computers",
+      "keywords": ["PowerPoint", "Microsoft Word", "Excel", "Access"]
+    },
+    {
+      "name": "Advocating for Literacy",
+      "keywords": []
+    }
+  ],
+  "references": [],
+  "projects": []
+}

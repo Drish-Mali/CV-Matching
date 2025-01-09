@@ -1,0 +1,138 @@
+{
+  "basics": {
+    "name": "N/A",
+    "label": "Staff Accountant",
+    "image": "",
+    "email": "N/A",
+    "phone": "N/A",
+    "url": "N/A",
+    "summary": "Professional Accountant and Bookkeeper with 12 years of experience with accounts receivable and payable. Detail-oriented bookkeeping professional with 3+ years experience applying financial and managerial accounting practices.",
+    "location": {
+      "address": "N/A",
+      "postalCode": "N/A",
+      "city": "City",
+      "countryCode": "State",
+      "region": "N/A"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Staff Accountant",
+      "url": "N/A",
+      "startDate": "2015-09",
+      "endDate": "2017-09",
+      "summary": "Supported Regional Finance Manager with special projects and other responsibilities as assigned. Handled monthly accrual process for 22 expense accounts. Full responsibility for all fixed assets; maintained detailed depreciation schedules. Conducted monthly reconciliations of all balance sheet accounts to ensure their accuracy.",
+      "highlights": ["Monthly analysis of AP process led to an improved aging schedule and 20% increased cash flow.", "Streamlined accounting processes and maintained appropriate documentation to improve procedures in accordance with company policies and SOX compliance."]
+    },
+    {
+      "name": "Company Name",
+      "position": "Staff Accountant",
+      "url": "N/A",
+      "startDate": "2012-09",
+      "endDate": "2014-12",
+      "summary": "Worked closely under the supervision of the Controller and Director of Accounting. Experience in GAAP accounting and monthly closing processes. Reconciliation of 40 bank accounts on a monthly basis.",
+      "highlights": ["Paid approximately 100,000K in funds via wire transfers to suppliers on a weekly basis."]
+    },
+    {
+      "name": "Company Name",
+      "position": "Treasurer",
+      "url": "N/A",
+      "startDate": "2011-01",
+      "endDate": "Current",
+      "summary": "Implemented the accounting process, policies and procedures in accordance with US GAAP. Bank account maintenance and financial transactions oversight.",
+      "highlights": ["Developed the annual budget and analyzed actual revenue and expenses against the budget."]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Nova Southeastern University",
+      "url": "https://www.nova.edu/",
+      "area": "Accounting",
+      "studyType": "Masters",
+      "startDate": "N/A",
+      "endDate": "2016-05",
+      "score": "N/A",
+      "courses": []
+    },
+    {
+      "institution": "Florida Atlantic University",
+      "url": "https://www.fau.edu/",
+      "area": "Accounting",
+      "studyType": "Bachelors",
+      "startDate": "N/A",
+      "endDate": "2012-08",
+      "score": "N/A",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Accounting",
+      "level": "Expert",
+      "keywords": [
+        "Accounting",
+        "accounts payable",
+        "accrual",
+        "AP",
+        "AR",
+        "balance sheet",
+        "banking",
+        "Bonds",
+        "budget",
+        "cash flow",
+        "closing",
+        "Controller",
+        "Customer Satisfaction",
+        "documentation",
+        "executive management",
+        "Finance",
+        "financial",
+        "financial reports",
+        "financial statement preparation",
+        "fixed assets",
+        "funds",
+        "general ledger",
+        "Great Plains Dynamics",
+        "internal audit",
+        "inventory",
+        "ledger",
+        "Microsoft Word",
+        "Excel",
+        "PowerPoint",
+        "Access",
+        "order entry",
+        "Pivot tables",
+        "policies",
+        "processes",
+        "QuickBooks Pro",
+        "reporting",
+        "Sage50",
+        "SAP",
+        "SOX compliance",
+        "spreadsheets",
+        "supervision",
+        "tax"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": [
+    {
+      "name": "N/A",
+      "startDate": "N/A",
+      "endDate": "N/A",
+      "description": "N/A",
+      "highlights": [
+        "N/A"
+      ],
+      "url": "N/A"
+    }
+  ]
+}

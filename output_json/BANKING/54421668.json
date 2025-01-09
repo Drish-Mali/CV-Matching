@@ -1,0 +1,105 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Branch Manager",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "As an experienced banking officer professional, I would like to utilize my experience and knowledge in banking by contributing to the improvement in profitability and growth to your bank. I will be putting my best efforts in terms of time and learning new banking techniques and methods that would implement in my tenure as a leader with your financial institution.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Branch Manager",
+      "url": "",
+      "startDate": "2016-06",
+      "endDate": "Current",
+      "summary": "Manages the overall operation of the branch to include the Personal Bankers and Teller staff primarily focused on creating a positive work environment, community development, driving sales, increasing growth & profitability, and providing accurate and superior customer service",
+      "highlights": []
+    }, 
+    {
+      "name": "Company Name",
+      "position": "Financial Service Associate/ Licensed Banker",
+      "url": "",
+      "startDate": "2014-11",
+      "endDate": "2016-06",
+      "summary": "Builds relationships with customers while performing financial transactions including paying, receiving, and cash control duties; opening and servicing accounts, seeks to uncover financial needs, minimize loss, reduce risk, and deliver accurate and superior customer service and lending requests handling more complex situations and deeper profiling over time.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Branch Operations Manager",
+      "url": "",
+      "startDate": "2013-10",
+      "endDate": "2014-02",
+      "summary": "Functions as the Customer Service Manager ensuring a solid operational foundation; builds relationships with customers while performing financial transactions including paying, receiving, and cash control duties; seeks to uncover financial needs, minimize loss, reduce risk, and deliver accurate and superior services",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Mississippi Gulf Coast Community College",
+      "url": "",
+      "area": "Education",
+      "studyType": "Associate of Arts",
+      "startDate": "",
+      "endDate": "2007",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Goal-oriented",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "TRID Expert",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Self-sufficient",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Proficient in MS Office and Excel",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Strong team-builder",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Flexible",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Team Player",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

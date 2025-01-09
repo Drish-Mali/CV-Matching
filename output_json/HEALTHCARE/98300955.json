@@ -1,0 +1,75 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Platform Architect, Healthcare Incubation Lab (HIL)",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "A driven technology professional with software architecture and development background and a passion for Agile methodologies. I enjoy designing and developing platforms consisting of web applications and services that help businesses innovate and stay competitive.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Healthcare Incubation Lab (HIL)",
+      "position": "Platform Architect",
+      "url": "",
+      "startDate": "2015-01-01",
+      "endDate": "Current",
+      "summary": "Premera Blue Cross is a not-for-profit healthcare insurance provider in the state of Washington, USA. The Healthcare Incubation Lab is an internal startup backed and funded by Premera Blue Cross.",
+      "highlights": ["Led and collaborated with enterprise solution delivery teams in all phases","Collaborated in design and development of an API platform", "Architected, integrated and managed Okta IDaaS"]
+    },
+    {
+      "name": "Enterprise Architecture & IT Strategy",
+      "position": "Solution Architect",
+      "url": "",
+      "startDate": "2014-04-01",
+      "endDate": "2015-01-01",
+      "summary": "The Enterprise Architecture and IT Strategy team at Premera designs the systems and solutions built and used at Premera Blue Cross and all of its subsidiaries.",
+      "highlights": ["Collaborated in the design and development of a telephony and analytics solution built using a complex orchestration of web services", "Assisted various delivery teams with adopting Agile Scrum & Kanban practices"]
+    },
+    {
+      "name": "Research & Development",
+      "position": "Application Architect",
+      "url": "",
+      "startDate": "2013-01-01",
+      "endDate": "2014-04-01",
+      "summary": "PriceMetrix is a SaaS startup based in the financial district of Toronto, Ontario, Canada. PriceMetrix processes vast amounts of transaction-level data and provides business intelligence solutions to retail brokerages, commercial and investment banks in US & Canada.",
+      "highlights": ["Led development of a new flagship SaaS platform", "Developed a highly available, mission critical web application", "Designed and implemented SSO"]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Guelph",
+      "url": "",
+      "area": "Systems & Computer Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2009-06-01",
+      "endDate": "",
+      "score": "",
+      "courses": ["Information Technology Infrastructure Library (ITIL) v3 Training", "The Open Group Architecture Framework - TOGAF 9 Level 1 Training"]
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Software Development",
+      "level": "Master",
+      "keywords": [".NET", "ASP.NET", "Active Directory", "Agile", "AJAX", "API", "Architect", "automate", "BI", "business intelligence", "Cascading Style Sheets", "excellent communication", "Data Warehouse", "Database Management", "designing", "Eclipse", "Electronic Medical Records", "email", "financial", "focus"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

@@ -1,0 +1,84 @@
+{
+  "basics": {
+    "name": "Account Executive",
+    "label": "Senior Account Executive",
+    "email": "",
+    "phone": "",
+    "summary": "Innovative senior account executive with thirteen years of experience in managing and coordinating client relations seeking a position that will leverage my education and experience to build a successful business partnership.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": [
+    ]
+  },
+  "work": [
+    {
+      "name": "",
+      "position": "Account Executive",
+      "startDate": "2010-01-01",
+      "endDate": "Current",
+      "summary": "Initiated, built and developed relationships with clients to be the primary source for hardware and software in a defined territory."
+    },
+    {
+      "name": "",
+      "position": "Banking Sales Representative",
+      "startDate": "2006-01-01",
+      "endDate": "2009-01-01",
+      "summary": "Managed and built client relationships with high net worth clients."
+    },
+    {
+      "name": "",
+      "position": "Senior Account Executive",
+      "startDate": "2005-01-01",
+      "endDate": "2006-01-01",
+      "summary": "Directed and oversaw a team of 10 Account Executives."
+    },
+    {
+      "name": "",
+      "position": "Territory Manager",
+      "startDate": "2002-01-01",
+      "endDate": "2005-01-01",
+      "summary": "Effectively managed a sales territory by identifying competitive market opportunities and building strategic relationship."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Eastern New Mexico University",
+      "area": "Sociology and Psychology",
+      "studyType": "Bachelor's Degree",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": [
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Account Executive Skills",
+      "level": "",
+      "keywords": [
+        "banking", "budget",  "hardware", "consultant", "credit", "client", "delivery", "electronic commerce", "Financial",  "HP", "IBM", "Lotus Notes", "market", "all Microsoft", "Office Suite", "Outlook", "negotiating", "new business development", "outside sales", "pricing", "real estate", "Sales", "strategic", "supervision", "Symantec"]
+    }
+  ],
+  "interests": [
+    {
+      "name": "Interests",
+      "keywords": [
+        "Humane Society", "Phi Kappa Psi Fraternity"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Woodrow Wilson Leadership Award",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    }
+  ]
+}

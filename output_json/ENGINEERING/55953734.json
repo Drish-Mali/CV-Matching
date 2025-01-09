@@ -1,0 +1,99 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Engineering Manager",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Versatile bilingual Electronics and Instrumentation Engineer with multi industry experience of + 9 years demonstrated ability to lead an engineering team, and handle multiple projects from conceptualization through fabrication with high accuracy and in a timely manner.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Engineering Manager",
+      "url": "",
+      "startDate": "2014-05-01",
+      "endDate": "2016-07-01",
+      "summary": "Lead and assigned the activities of the product engineering multidisciplinary team consisting in 5 people, during the EPC project of gas treatment plant Cardon IV and other projects.",
+      "highlights": [
+        "Served as Project Manager during proposal and beginning of fabrication of skid mounted pressure vessels for Parnaiba Brazil",
+        "Supported other departments with estimation of materials for proposals and creation/codification of a material database in SAP.",
+        "Reviewed, and approved P&IDs, Isometrics, fabrication drawings and other engineering documents to be used by in-house manufacturing shop.",
+        "Technical support for the manufacturing shop.",
+        "Implemented department procedures and forms."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Instrumentation Engineer",
+      "url": "",
+      "startDate": "2012-03-01",
+      "endDate": "2014-05-01",
+      "summary": "Served as Project Engineer in the proposal and fabrication of pressure vessels being outsourced and the skid mounted in-house delivered on time and within the budget.",
+      "highlights": [
+        "Used AUTOCAD to modify P&ID and to create one-line connection diagrams for junction boxes.",
+        "Developed datasheet formats for instruments."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Instituto Tecnológico de Monterrey campus Monterrey (ITESM)",
+      "url": "",
+      "area": "Electronics Engineering",
+      "studyType": "Master of Science",
+      "startDate": "2003-01-01",
+      "endDate": "2005-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Instituto Tecnologico de Chihuahua",
+      "url": "",
+      "area": "Electronics Engineering in Instrumentation and Control",
+      "studyType": "Bachelor of Science",
+      "startDate": "1999-01-01",
+      "endDate": "2003-12-31",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Engineering",
+      "level": "Master",
+      "keywords": [
+        "Autocad",
+        "SAP",
+        "Python",
+        "Labview",
+        "ASME",
+        "OSHA",
+        "Project Management",
+        "Material Estimation"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

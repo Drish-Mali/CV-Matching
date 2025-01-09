@@ -1,0 +1,107 @@
+{
+  "basics": {
+    "name": "Director Of Information Technology",
+    "email": "",
+    "phone": "",
+    "summary": "A solutions-oriented professional with solid experience in various IT environments including but not limited to Leadership, Communication, and Expertise.",    
+    "location": {
+      "city": "",
+      "region": ""
+    }
+  },
+  "work": [
+    {
+      "name": "Adsystech",
+      "position": "Director of Information Technology",
+      "startDate": "Sep 2005",
+      "summary": "Hired to design, and deploy the first data center the company owned in order to deploy a new offering, an enterprise Software as a Service (SaaS) product.",
+      "highlights": [
+        "Designed data center from the ground up",
+        "Created cyber security policies and controls",
+        "Put together a team to support the data center",
+        "Provided technical support for the new product offering"
+      ]
+    },
+    {
+      "name": "County Human Service Programs",
+      "position": "Information technology Manager",
+      "startDate": "Sep 2003",
+      "endDate": "Sep 2005",
+      "summary": "Responsible for managing +120 Million dollars for support of County Wide Human Service programs. ",
+      "highlights": [
+        "Identified, evaluated and lead a bi-County steering committee in all technical aspect",
+        "RFP release and selection process",
+        "Managed a project support team including administrators, help desk staff and trainers",
+        "Evaluated the security risks, ensuring HITECH/HIPAA protocol were followed"
+      ]
+    },
+    {
+      "name": "Relax the Back",
+      "position": "Information technology Manager",
+      "startDate": "Sep 1998",
+      "endDate": "Mar 2003",
+      "summary": "Responsible for the overall management of the National point of sale network at 100+ retail locations and 5 distribution centers.",
+      "highlights": [
+        "Responsible for infrastructure and strategic planning",
+        "Liaison between vendors, operation staff and the CFO for all major projects on time and on budget",
+        "Managed the ERP solution at the manufacturing plant",
+        "Managed the accounting and HR systems at the corporate office"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Fullerton Masters of Science Degree , Information Technology Mihaylo College of Business and Economics",
+      "area": "IT CSUF IT",
+      "studyType": "M.S",
+      "startDate": "",
+      "endDate": "",
+      "score": "3.4",
+      "courses": [ ]
+    },
+    {
+      "institution": "Bachelors of Science Degree , Information Technology University of Phoenix ",
+      "area": "IT UOP IT",
+      "studyType": "B.S",
+      "startDate": "",
+      "endDate": "",
+      "score": "3.7",
+      "courses": [ ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Communication",
+      "level": "",
+      "keywords": [
+        "Collaboration",
+        "conveying information",
+        "writing documents",
+        "project status reports and briefs",
+        "communication"
+      ]
+    },
+     {
+      "name": "Expertise",
+      "level": "",
+      "keywords": [
+        "Strategic Judgement",
+        "Cloud Environments Design & Implementation",
+        "Network Design & Implementation VOIP",
+        "Cyber Security (NIST HITRUST/HIPAA)",
+        "Project Management",
+        "Technical Support Management",
+        "Budget Management",
+        "Developing and responding to Request for Proposals",
+        "Current with Emerging Technologies"
+      ]
+    },
+     {
+      "name": "IT",
+      "level": "",
+      "keywords": [
+        "accounting, Budget Management, budget, bi, Cisco Routers, concise, clients, designing, ERP, financial, Firewalls, help desk, HR, Information Technology, insurance, managing, market, office, 2000, enterprise, network design and architecture, Network Design, Network Design & Implementation, network, policies, processes, Producing, Project Management, promotion I, Proposals, proposal, retail, RFP, selling, software development, strategic, strategic planning, technical support, Desktop Support, VOIP, Windows Server, written, written communication skills"
+      ]
+    }
+  ]
+}

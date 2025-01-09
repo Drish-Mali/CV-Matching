@@ -1,0 +1,103 @@
+{
+  "basics": {
+    "name": "Advocate",
+    "label": "Human Resource Generalist",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Seeking a part time or prn generalist position in Human Resource. Conflict Resolution Team Building Mentoring and Coaching New-Hire Orientation Disc Personality Assessments Training and Development Leadership Development Performance Appraisals Technical Skills",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Advocate",
+      "url": "",
+      "startDate": "2012-01",
+      "endDate": "current",
+      "summary": "NF/SG Healthcare for Homeless Veterans Program. Coach, mentor, develop 100 clients with resume assistance, career counseling, complaints, and problems.",
+      "highlights": [
+        "Develop, manage and evaluate training and organizational effectiveness strategies",
+        "Develop career plans that fit clients' aptitudes, education levels, physical abilities, and career goals.",
+        "Serve as internal consultant to resolve issues such as: employee retention, skill development, professional growth, succession planning, and performance improvement.",
+        "Provide recommendations for change.",
+        "Evaluate, motivate, coach, and counsel 25 peers in the performance of their duties."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Veteran Affairs Specialist",
+      "url": "",
+      "startDate": "2011-01",
+      "endDate": "2012-01",
+      "summary": "Participated in group orientation for clients to promote the development of entry-level and career job opportunities.",
+      "highlights": [
+        "Administered career scope assessment tests for 100 clients to identify skill building needs.",
+        "Attended meetings to obtain information for use in training programs"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Phoenix",
+      "area": "Human Resource Management",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "2013",
+      "score": "3.3",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "10 years of dedicated Federal Government Service Award",
+      "date": "2013",
+      "awarder": "",
+      "summary": ""
+    },
+    {
+      "title": "Friend of Social Work Award",
+      "date": "2013",
+      "awarder": "",
+      "summary": "Awarded for outstanding performance"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Writing Advantage Certificate",
+      "date": "2013",
+      "issuer": "North Florida/South Georgia Veterans Health Administration Workshops",
+      "url": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Human Resources Management",
+      "level": "",
+      "keywords": [
+        "Conflict Resolution",
+        "Team Building",
+        "Mentoring",
+        "Coaching",
+        "Training",
+        "Development",
+        "Leadership Development",
+        "Performance Appraisals",
+        "Technical Skills"
+      ]
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "languages": [],
+  "publications": [],
+  "volunteer": []
+}

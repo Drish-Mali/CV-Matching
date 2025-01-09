@@ -1,0 +1,120 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Production Assistant Intern",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Energetic and dedicated film student currently completing degree in media management and production. Strong interests in creative development, character writing and acting.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "",
+      "region": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Production Assistant Intern",
+      "url": "",
+      "startDate": "2015-10-01",
+      "endDate": "2016-01-01",
+      "summary": "Assist casting directors, producers and actors with audition process. Organize schedules, video and audio files. Handle cameras and various production equipment. Assisting with setup for printer and profiling. Assist with locked computer account.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Social Media Relations Intern/ Teacher Assistant",
+      "url": "",
+      "startDate": "2015-07-01",
+      "endDate": "2015-12-01",
+      "summary": "Collect and retrieve Data. Research and aggregate content for Media Literacy Week event. Social Media Community Engager. Manage Press Release and social media post schedules. Social media creative distributor. Teacher assistant to professor at CSUN in mass communications research. Maintain blog tracking and social media calendars. Software troubleshooting (Outlook, Email support). Hardware troubleshooting (Printers, Desktop units, Laptop units, cell phones and tablets). Calling business clients (Schedule meetings, document information, data collection).",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Martial Arts Instructor",
+      "url": "",
+      "startDate": "2011-06-01",
+      "endDate": "2014-01-01",
+      "summary": "Provide self defense training to students of various ages ranging from K-12 to adults. Answer incoming and outgoing phone calls. Provide customer support. Attend weekly marketing and business instructor meetings. Attend and assist with community marketing events.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "California State University Northridge",
+      "url": "",
+      "area": "Cinema and Television Arts",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "2016",
+      "score": "",
+      "courses": [
+        "Coursework in Pre and Post production",
+        "Coursework in Network Program Development",
+        "Coursework in Creative Script Writing"
+      ]
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Microsoft Office",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Social media tools and management",
+      "level": "",
+      "keywords": ["Facebook", "Twitter", "Hootsuite", "Medium.com"]
+    },
+    {
+      "name": "Publicity, Marketing, Customer relations",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Video and Audio Production",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Tech Savy",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [
+    {
+      "name": "Voice Acting",
+      "keywords": ["Various professional coaches"]
+    },
+    {
+      "name": "Improvisation Acting",
+      "keywords": ["Second City"]
+    },
+    {
+      "name": "Plot and Story Building",
+      "keywords": ["Books", "TV", "Movies", "Video games"]
+    },
+    {
+      "name": "Computer Hardware and Software",
+      "keywords": []
+    },
+    {
+      "name": "Music Theory",
+      "keywords": []
+    }
+  ],
+  "references": [],
+  "projects": []
+}

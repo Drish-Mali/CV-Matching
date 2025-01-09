@@ -1,0 +1,106 @@
+{
+  "basics": {
+    "name": "Name not stated",
+    "label": "BPO Team Leader",
+    "image": "",
+    "email": "Email not stated",
+    "phone": "Phone not stated",
+    "url": "Website not stated",
+    "summary": "Seeking to provide top-quality support to ensure a competitive advantage in the global marketplace.",
+    "location": {
+      "address": "Address not stated",
+      "postalCode": "Postal code not stated",
+      "city": "City not stated",
+      "countryCode": "Country not stated",
+      "region": "Region not stated"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "BPO Team Leader",
+      "url": "Company URL not stated",
+      "startDate": "2015-02-01",
+      "endDate": "2017-02-01",
+      "summary": "Managed and motivate BPO Onboarding Team to meet team goals",
+      "highlights": [ "Auditor of documentation and group implementation.", "Interact with PPO Network management, clients, agents and sales", "Executed and met project deadlines", "Developed and executed implementation workflow/processes.", "Manage over 3000 clients and brokers."]
+    },
+    {
+      "position": "BPO Implementation Specialist",
+      "startDate": "2013-05-01",
+      "endDate": "2015-02-01",
+      "highlights": ["Infrastructure for O drive and folders.", "Developed a more efficient system for emails/BPO Workflow and manual", "Enhanced and improved maintenance of agent/group information with DW (Data Warehouse program)","Assistant to Account management team and VP of Administration."]
+    },
+    {
+      "position": "Re-pricing Coordinator",
+      "startDate": "2009-06-01",
+      "endDate": "2013-06-01",
+      "highlights": ["Re-pricing of HCFA and UB's claims.", "Developed relationships with PPO network management vendors: Select Health Partners, Encore, Multiplan, Medicare, DHS and Aetna claims.","Solely responsible for all Aetna claims, 30,000 lives. Implemented workflow and first manual of Aetna process.","Improved and decreased errors with auditing process", "Verification of Provider/Facility PPO status."]
+    },
+    {
+      "position": "Administrative Assistant/HR Assistant",
+      "startDate": "2004-04-01",
+      "endDate": "2009-04-01",
+      "highlights": ["EZ-Movers - Long Distance Dispatcher Assistant.","Long Distance scheduling of drivers/trucks.","Administrative paperwork for pickup and delivery.","Data entry of information of customers.","Spreadsheet upkeep of scheduled deliveries.","Interact with customers and drivers in regards to pickups/deliveries and/or payments.","Rainbow Hospice - Receptionist.","Front desk duties.","Incoming and outgoing faxes.","Assist PCM, Clinical secretary, RN, Social workers.","Handle all incoming calls, to both main office and ARK location.","Process all faxes accordingly.","Keep accurate track of overnight calls, and team faxes.","General Administrative duties.","Answering phones.","Processing invoices.","Data entry of all purchase orders, using scanning system, batch invoices and close file.","AS400 used."]
+    },
+    {
+      "position": "Administrative Assistant II/HR Coordinator",
+      "startDate": "2002-08-01",
+      "endDate": "2004-01-01",
+      "highlights": ["Assist management in coordination of organizational administration activities (performance review, cost center updates, customer issues) and within scope of authority, resolve problems and issues independently and proactively.","Responsible for the daily operations of the field office, assuring employees were up to date with pertinent information; work closely with the Office of Building in any issues.","Prepare and process, submit reports, timekeeping and other payroll and business operations processes; train staff or management on timekeeping and other administrative processes. Expense reports submission.","Review; approve all invoices/billing for process.","Submission of checks for payments.","Utilize SAP program.","Assist management in special projects.","Attend meetings, seminars and record notes or provide information when needed.","Schedule and coordinate meetings, conferences, travel arrangements and maintain group or manager's business calendar.","Manage the process of on-board additions/transfers to staff to assist the manger in ensuring a smooth transition.","Responsible for the day to day coordination and routine administration with LAN activities for field office.","Interface with internal and external contacts regarding business unit administration issues and concerns.","Demonstrate the ability to organize and balance the responsibilities of budget control (travel, supplies, invoice processing).","Excellent interpersonal skills, with the ability to interact with internal/external business partners and staff at all levels.","Excellent organizational skills to prioritize and coordinate multiple tasks."]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Kaplan",
+      "url": "Institution url not stated",
+      "area": "Life and Health",
+      "studyType": "Producer's License",
+      "startDate": "2013-01-01",
+      "endDate": "2013-12-31"
+    },
+    {
+      "institution": "Kaplan University",
+      "area": "Business Administration",
+      "studyType": "B.A",
+      "startDate": "2018-01-01",
+      "endDate": "2018-12-31"
+    },
+    {
+      "institution": "Northwestern Business College",
+      "area": "Business Administration",
+      "studyType": "Associate of Science",
+      "startDate": "1992-01-01",
+      "endDate": "1992-12-31"
+    },
+    {
+      "institution": "New Hope Counseling School",
+      "area": "Pastoral Counseling",
+      "studyType": "N/A",
+      "startDate": "2014-01-01",
+      "endDate": "2014-12-31"
+    },
+    {
+      "institution": "International School of Ministry",
+      "area": "Ministry and Biblical Studies",
+      "studyType": "B.A. (Non-accredited)",
+      "startDate": "2014-01-01",
+      "endDate": "2014-12-31"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Administrative Duties Skill",
+      "keywords": ["Active Learning", "Calendaring", "Client Relations", "Computer Proficiency", "Coordination", "Creative Problem Solving","Critical Thinking", "Customer Needs Assessment", "Customer Service","Data Entry", "Documentation", "Email", "Executive Management Support", "Filing", "Grammar", "Internet Research", "Letters and Memos", "Multi-Task Management", "Organizational Skills", "Prioritization", "Scheduling", "Service Orientation", "Telephone Skills", "Time Management", "Travel Arrangements", "Type 85 WPM", "Typing", "Vendor Management", "Documentation auditor", "Hospice Assistant", "Human Resources assistant","Invoice processing","Order entry", "Re-pricing of claims", "Receptionist","Recruiting and trainer"]
+    },
+    {
+    "name": "People Skills",
+    "keywords": ["great enthusiastic people person", "advanced problem-solving","great organizational skills"]
+    },
+    {
+    "name": "Computer Skills",
+    "keywords": ["MS Office", "Data entry", "RIMS", "SAP", "Outlook", "Data Warehouse Maintenance", "Provider Maintenance", "Microsoft Excel", "Microsoft Office Suite", "Microsoft Outlook", "Microsoft PowerPoint", "Microsoft Word"]
+    }
+  ]
+}

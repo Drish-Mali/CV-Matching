@@ -1,0 +1,76 @@
+{
+  "basics": {
+    "name": "I",
+    "label": "Healthcare Marketing Specialist",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "An innovative, customer-oriented Healthcare Administrator with a background in primary care and experience supporting a team of physicians in a busy medical office. Expertise includes verifying insurance coverage, records reviews, marketing and schedule maintenance. Searching for a leadership role in a team oriented company.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "State",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Healthcare Marketing Specialist",
+      "url": "",
+      "startDate": "Aug 2017",
+      "endDate": "Current",
+      "summary": "Analyzed performance of marketing program to identify the best opportunities for optimization. Established production schedules and communicated project to stakeholders. Increased patient traffic by 5%. Managed all social media forums, including the company website, social networking applications and message boards.",
+      "highlights": ["Analyzing performance", "Establishing production schedules", "Increasing patient traffic", "Managing social media"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Healthcare Admin Intern",
+      "url": "",
+      "startDate": "Mar 2017",
+      "endDate": "Jul 2017",
+      "summary": "Scheduled appointments and registered patients. Recorded and filed patient data and medical records. Demonstrated analytical and problem-solving ability to addressing barriers. Directed patient flow during practice hours, minimizing patient wait time.",
+      "highlights": ["Scheduling appointments", "Filing patient data", "Problem-solving", "Directed patient flow"]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Pennsylvania College of Health Sciences",
+      "url": "",
+      "area": "Healthcare Administration",
+      "studyType": "",
+      "startDate": "2017",
+      "endDate": "2017",
+      "score": "",
+      "courses": ["Coursework in Epidemiology", "Coursework in Statistics", "Coursework in Health Care Policy & Planning", "Coursework in Ethical Issues in Health Care"]
+    },
+    {
+      "institution": "Northeastern High School",
+      "url": "",
+      "area": "",
+      "studyType": "High School Diploma",
+      "startDate": "2010",
+      "endDate": "2010",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Job Skills",
+      "level": "Advanced",
+      "keywords": ["Superb communication skills", "Excellent interpersonal skills", "Knowledge of Medicare, Medicaid, EEOC, HIPPA, FMLA & ADA", "Conflict resolution skills", "Management & Marketing experience"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

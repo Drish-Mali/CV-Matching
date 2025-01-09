@@ -1,0 +1,112 @@
+{
+  "basics": {
+    "name": "",
+    "label": "ENGINEERING SUPERVISOR",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Engineering Supervisor with extensive experience in managing and supervising engineering staff members. Has worked on various projects in different companies serving multiple roles.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "",
+      "region": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Engineering Supervisor",
+      "url": "",
+      "startDate": "2014-12",
+      "endDate": "Current",
+      "summary": "Leading and supervising...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Electrical Design Engineer",
+      "url": "",
+      "startDate": "2011-05",
+      "endDate": "2014-12",
+      "summary": "Identifying products within ...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Project Engineer",
+      "url": "",
+      "startDate": "2008-10",
+      "endDate": "2011-05",
+      "summary": "Designing generator...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Facility Engineer",
+      "url": "",
+      "startDate": "2006-08",
+      "endDate": "2008-10",
+      "summary": "Power distribution General Responsibilities: Composing proposals...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Automation engineer, Intern",
+      "url": "",
+      "startDate": "2005-01",
+      "endDate": "2006-08",
+      "summary": "Design and implementation of microprocessor...",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Oklahoma",
+      "url": "",
+      "area": "Electrical and Computer Engineering",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "2006-08",
+      "score": "3.73 / 3.78",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Engineering",
+      "level": "",
+      "keywords": [
+        "PLC: IEC 61131",
+        "Java", 
+        "C", 
+        "Visual Basic", 
+        "VHDL", 
+        "PSpice", 
+        "Assembly (Intel, Motorola, TI)", 
+        "Labview", 
+        "AutoCAD", 
+        "Inventor", 
+        "Matlab", 
+        "Microsoft Office", 
+        "PSIM", 
+        "Easy Power", 
+        "Xilinx ISE", 
+        "Siemens Step 7",
+        "Wago CoDeSys",
+        "Allen Bradley RSLogix",
+        "ERP (Alliance, Global Shop, XA, SAP)"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

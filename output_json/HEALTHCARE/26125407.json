@@ -1,0 +1,158 @@
+{
+  "basics": {
+    "name": "",
+    "label": "HEALTHCARE ADMINISTRATION INTERN",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "To find a position that will utilize my knowledge while working in tandem with in a highly-regarded setting. Skilled at communicating, organizing and solving problems to raise the stature and rankings of health care facilities.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": [
+    ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Healthcare Administration Intern",
+      "url": "",
+      "startDate": "2014-01-01",
+      "endDate": "2014-04-01",
+      "summary": "Conducted a feasibility study on 12, 10 and eight hour shifts by compiling statistics. Handled detail work including make and maintaining a work schedule for 16 employees. Proposed new ideas for the holiday and schedule guidelines...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Pulmonary Lab Technician",
+      "url": "",
+      "startDate": "2011-04-01",
+      "endDate": "Current",
+      "summary": "Performed 12-lead EKGs on patients throughout the health system using the GE MAC 5000 EKG Machine...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Laboratory Assistant",
+      "url": "",
+      "startDate": "2008-11-01",
+      "endDate": "2011-04-01",
+      "summary": "Performed standardized laboratory tests to verify chemical characteristics or composition of specimen...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Patient Educator",
+      "url": "",
+      "startDate": "2005-08-01",
+      "endDate": "Current",
+      "summary": "Conducted training for clients and their appointed caretakers on how to use complex PT-INR blood monitoring instruments...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Patient Care Technician",
+      "url": "",
+      "startDate": "2003-01-01",
+      "endDate": "2008-01-01",
+      "summary": "Functioned as a Phlebotomist that specialized in pediatric, geriatric and dermal venipuncture...",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Eastern Michigan University",
+      "url": "",
+      "area": "Health Administration",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "Current",
+      "score": "",
+      "courses": [
+        "Coursework in Health Services Administration",
+        "Coursework in Business Management",
+        "Coursework in Healthcare Administration",
+        "Coursework in Health Services Administration and Business",
+        "Coursework in Human Resources Management and Accounting"
+      ]
+    },
+    {
+      "institution": "Schoolcraft College",
+      "url": "",
+      "area": "Art",
+      "studyType": "Associate",
+      "startDate": "",
+      "endDate": "2014",
+      "score": "",
+      "courses": [
+        "Coursework in Health Services Administration",
+        "Coursework in Health Services Administration and Business",
+        "Coursework in Human Resources Management and Accounting"
+      ]
+    },
+    {
+      "institution": "Schoolcraft College",
+      "url": "",
+      "area": "Health Science",
+      "studyType": "Associate",
+      "startDate": "",
+      "endDate": "2006",
+      "score": "",
+      "courses": [
+        "Coursework in Community Health",
+        "Coursework in Health Services Administration",
+        "Coursework in Healthcare Administration",
+        "Coursework in Health Services Administration and Business",
+        "Coursework in Human Resources Management and Accounting"
+      ]
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Healthcare Administration",
+      "level": "",
+      "keywords": [
+        "Strong presentation skills",
+        "Analytical thinker",
+        "Effective staff coach",
+        "Supervisory training",
+        "Strategic planning capability",
+        "Quality improvement competency",
+        "Planning and development",
+        "Independent judgment and decision making"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "certificates": [
+    {
+      "name": "Basic Life Support (BLS)",
+      "date": "2011-11-01",
+      "issuer": "American Heart Association",
+      "url": ""
+    },
+    {
+      "name": "Certified Anticoagulation Patient Self-Testing",
+      "date": "2009-04-01",
+      "issuer": "University of Southern Indiana",
+      "url": ""
+    },
+    {
+      "name": "Certified Phlebotomist",
+      "date": "2001-11-01",
+      "issuer": "American Society of Clinical Pathology",
+      "url": ""
+    }
+  ]
+}

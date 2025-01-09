@@ -1,0 +1,121 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Business Process Analyst",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Business Process Analyst highly effective at incorporating creative leadership skills to achieve business objectives. Directs projects that improve efficiency while meeting deadlines and budget requirements.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Business Process Analyst",
+      "url": "",
+      "startDate": "2017-03",
+      "endDate": "Current",
+      "summary": "Design and implement internal audit practices to identify, mitigate and resolve HR exposure. Manage testing internal audit controls and tracking the status of gaps and corrective actions. Maintain audit schedule, and partner with HR Risk Manager and Corporate Internal Auditors to ensure on-time completion of audits. Provide objective, risk-based evaluations of the effectiveness of company policies and procedures. Oversee annual reporting, including AAP, EEO-1 and Vets 100. Prepare and present quarterly executive reports to the CPO.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "People Infrastructure Operations Coordinator",
+      "url": "",
+      "startDate": "2015-10",
+      "endDate": "2017-03",
+      "summary": "Acted as primary point of contact for all North American new hires. Administered the applicant tracking system to update, audit and maintain candidate data. Managed the onboarding process for new hires in the North and Latin America regions. Created and sent offer packets to new hires. Partnered with other members of the People Team to ensure a smooth integration of new hires into the company. Worked with HRIS and Payroll teams to create new hire accounts. Supported Talent Acquisition team projects on a global basis by identifying and documenting existing team processes, researching and reporting on industry best practices, and carrying out project tasks.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "East Carolina University",
+      "url": "",
+      "area": "Education",
+      "studyType": "Master of Arts",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "The University of North Carolina at Greensboro",
+      "url": "",
+      "area": "Education",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "project management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "project coordination",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "administrative functions",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "content creation",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "employee relations",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "systems administration",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "internal audit",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "risk management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "curriculum development and facilitation",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "operations support",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

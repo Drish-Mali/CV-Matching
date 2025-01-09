@@ -1,0 +1,100 @@
+{
+  "basics": {
+    "name": "Staff Accountant",
+    "label": "Accountant",
+    "summary": "Professional accountant with outstanding work ethic and integrity seeking to make a valuable contribution utilizing strong analytical, organizational, communication, and computer skills. Summa Cum Laude graduate with BBA in Accounting. Eight years of accounting experience, with three years of public accounting experience in governmental auditing and five years of private industry accounting and tax experience.",
+    "skills": [
+            {
+                "name": "Accounting",
+                "keywords": [
+                    "Analytical reasoning",
+                    "Strong organizational skills",
+                    "Compliance testing knowledge",
+                    "General ledger accounting",
+                    "Effective time management",
+                    "Superior research skills",
+                    "Public and private accounting"
+                ]
+            }
+        ],
+    "email": "Not Provided",
+    "phone": "Not Provided",
+    "url": "Not Provided",
+    "location": {
+      "address": "Not Provided",
+      "postalCode": "Not Provided",
+      "city": "Not Provided",
+      "countryCode": "Not Provided",
+      "region": "Not Provided"
+    },
+    "profiles": [],
+    "image": "Not Provided"
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Staff Accountant",
+      "startDate": "2016-01-01",
+      "endDate": "Current",
+      "summary": "Handled collections from customers, oversaw customer accounts, generated weekly financial reports, assisted with month-end closing, and resolved customer queries among other tasks."
+    },
+    {
+      "name": "Company Name",
+      "position": "Senior Accountant",
+      "startDate": "2016-01-01",
+      "endDate": "2016-01-01",
+      "summary": "Responsibilities included preparation of financial statements, reconciliation of financial discrepancies, and maintaining accounting controls among other tasks."
+    },
+    {
+      "name": "Company Name",
+      "position": "Tax Analyst",
+      "startDate": "2012-01-01",
+      "endDate": "2015-01-01",
+      "summary": "Prepared various tax-related filings including business licenses, annual reports, and business registrations, and managed other projects as required."
+    },
+    {
+      "name": "Company Name",
+      "position": "Staff Accountant II",
+      "startDate": "2009-01-01",
+      "endDate": "2011-01-01",
+      "summary": "Analysis of financial information and preparation of financial reports among other tasks."
+    },
+    {
+      "name": "Company Name",
+      "position": "Staff Auditor II",
+      "startDate": "2006-01-01",
+      "endDate": "2009-01-01",
+      "summary": "Performed audits of public offices and assisted manager level auditor among other tasks."
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Kent State University",
+      "area": "Accounting",
+      "studyType": "Bachelor of Business Administration",
+      "startDate": "Unknown",
+      "endDate": "Unknown",
+      "score": "3.84",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [],
+  "languages": [],
+  "interests": [
+    {
+      "name": "Activities and Honors",
+      "keywords": [
+        "Ohio Society of CPAs",
+        "Beta Alpha Psi",
+        "Golden Key International Honour Society",
+        "Beta Gamma Sigma"
+      ]
+    }
+  ],
+  "references": [],
+  "projects": []
+}

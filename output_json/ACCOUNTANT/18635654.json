@@ -1,0 +1,90 @@
+{
+  "basics": {
+    "name": "Hassan Aly Aboulela",
+    "label": "General Accountant",
+    "email": "Hassan_aly1014@yahoo.com",
+    "phone": "(+2) 01207673477",
+    "summary": "I have around 6 years experiences in the field of Accounting & banking works, with Egyptians and foreign companies...",
+    "location": {
+      "city": "Alexandria",
+      "countryCode": "EG"
+    }
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Account Opening",
+      "startDate": "2014-06-01",
+      "endDate": "2016-10-01",
+      "summary": "Completion of opening customer account using National bank of Egypt system...",
+      "highlights": [
+        "Serving 50 branches per day and complete nearly 500 accounts per day"
+      ]
+    },
+    {
+      "name": "Green Towers Egypt",
+      "position": "Customer Service",
+      "startDate": "2013-03-01",
+      "endDate": "2014-05-01",
+      "summary": "Dealing directly with customers either by telephone, electronically or face to face...",
+      "highlights": [
+        "Set up new customer accounts",
+        "Organize workflow to meet customer timeframes",
+        "Manage customers' accounts"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "General Accountant",
+      "startDate": "2011-10-01",
+      "endDate": "2013-02-01",
+      "summary": "Preparation of Financial and accounting reports and their presentation to the Financial Manager...",
+      "highlights": [
+        "Prepare journal entries",
+        "Account/bank reconciliations"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "General Accountant",
+      "startDate": "2010-08-01",
+      "endDate": "2011-09-01",
+      "summary": "Preparation of Financial and accounting reports and their presentation to the Financial Manager...",
+      "highlights": [
+        "Prepare journal entries",
+        "Complete general ledger operations"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Alexandria University",
+      "area": "Accounting",
+      "studyType": "Training",
+      "startDate": "2010-01-01",
+      "endDate": "2010-05-01"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Accounting",
+      "level": "Master",
+      "keywords": [
+        "Financial and accounting reports",
+        "QuickBooks",
+        "excel",
+        "general ledger operations"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Arabic",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Good"
+    }
+  ]
+}

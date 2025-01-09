@@ -1,0 +1,109 @@
+{
+  "basics": {
+    "name": "John Doe",
+    "label": "Healthcare Consultant",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Proven leader with solid performance seeking new challenges to bring a comprehensive set of skills to your company. Former military leader, certified instructor, designated a Subject Matter Expert in 2 fields of medicine, experienced public speaker.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "US",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "John Doe",
+        "url": "https://www.linkedin.com/profile/view?id=318596417"
+      }
+    ]
+  },
+  
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Healthcare Consultant",
+      "url": "",
+      "startDate": "2016-05-01",
+      "endDate": "2016-10-01",
+      "summary": "Introduce patients to the training program, how the EEG monitoring will assist their recovery, and how the weekly training works in conjunction with other parts of their treatment plan. Set up the computer, software, Brainmaster Discovery 24E, Pocket Neurobics U-Wiz, and electrodes. Ensure Bioera PNwiz is tracking appropriately and that all parameters load properly. Troubleshoot equipment and software if necessary. Explain the cognitive testing procedures and coach individuals through initial and follow up brain mapping. Coach individuals through their training sessions and monitor their progress."
+    },
+    {
+      "name": "Best Learning English",
+      "position": "English Teacher",
+      "url": "",
+      "startDate": "2015-10-01",
+      "endDate": "2016-01-01",
+      "summary": "Teach children (age 2+) English language skills according to US academic standards for grades Pre-K1 to G6 (6th Grade) using McGraw Hill curriculum. Write lesson plans from grades Pre-K1 to G6 (6th Grade) using McGraw Hill curriculum supplemented by employer developed training materials. Review, edit, and republish outdated, incomplete, unsatisfactory and insufficient training plans and guides. Simultaneously accommodate all learning styles into lessons. Perform demonstration lessons and marketing event planning. Improve public relations with local clients and the overall image of the Best Learning English brand."
+    }
+  ],
+  
+  "education": [
+    {
+      "institution": "Winter Park High School",
+      "url": "",
+      "area": "",
+      "studyType": "High School Diploma",
+      "startDate": "2002-01-01",
+      "endDate": "2004-01-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  
+  "volunteer": [
+    {
+      "organization": "",
+      "position": "",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  
+  "references": [],
+  
+  "skills": [
+    {
+      "name": "Teaching",
+      "level": "Experienced",
+      "keywords": ["Public Speaking", "Public Relations", "Training", "Microsoft Office", "Smarttech SMART Board"]
+    }
+  ],
+  
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  
+  "interests": [],
+  
+  "certificates": [],
+  
+  "awards": [
+     {
+      "title": "Army Achievement Medal",
+      "date": "2015-10-01",
+      "awarder": "US Army",
+      "summary": "Awarded for outstanding service and achievement."
+    },
+    {
+      "title": "Good Conduct Medal",
+      "date": "2015-10-01",
+      "awarder": "US Army",
+      "summary": "Awarded for exemplary behavior, efficiency, and fidelity in active Federal Military service."
+    }
+  ],
+  
+  "publications": [],
+  
+  "projects": []
+}

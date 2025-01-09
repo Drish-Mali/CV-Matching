@@ -1,0 +1,111 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Business Development Manager",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Hard working and energetic management professional focused on customer satisfaction throughout all stages of the sales life cycle.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Business Development Manager",
+      "url": "",
+      "startDate": "2012-09-01",
+      "endDate": "2015-03-01",
+      "summary": "Resolve customer complaints regarding sales and service. Determine price schedules and discount rates...",
+      "highlights": [
+        "Excellent communication skills",
+        "Energetic",
+        "Compelling leadership skills",
+        "Resolution-oriented Exceptional multi-tasker",
+        "Effective Retail Sales Manager"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Administrative Assistant",
+      "url": "",
+      "startDate": "2008-04-01",
+      "endDate": "2012-06-01",
+      "summary": "Direct or coordinate the supportive services department of a business, agency, or organization...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Office Coordinator",
+      "url": "",
+      "startDate": "1998-04-01",
+      "endDate": "2008-04-01",
+      "summary": "Confer with customers by telephone or in person to provide information about products or services...",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Purdue University",
+      "url": "",
+      "area": "Retail Management",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Bluffton High School",
+      "url": "",
+      "area": "College Preparation",
+      "studyType": "High School",
+      "startDate": "",
+      "endDate": "1986-05-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Accounting software",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Billing/Bookkeeping",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Clerical/Secretarial Skills",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Office Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Retail Management",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

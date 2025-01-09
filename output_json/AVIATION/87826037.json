@@ -1,0 +1,71 @@
+{
+  "basics": {
+    "name": "Not Provided",
+    "label": "Aviation Camp Assistant",
+    "image": "",
+    "email": "Not Provided",
+    "phone": "Not Provided",
+    "url": "Not Provided",
+    "summary": "Highly motivated and results-oriented individual seeking an internship as an Aerospace Engineer. Special interests include Unmanned Aerial Vehicles, Aeronautical Development and Design, Structural Analysis, and in related areas inside a competitive environment where my experience will be used to best serve the needs of the company.",
+    "location": {
+      "address": "Not Provided",
+      "postalCode": "Not Provided",
+      "city": "Not Provided",
+      "countryCode": "Not Provided",
+      "region": "Not Provided"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Various Positions",
+      "url": "Not Provided",
+      "startDate": "May 2013",
+      "endDate": "Current",
+      "summary": "Various responsibilities depending on the position including: working in Unmanned Aerial Vehicle Simulations Team, participating in SAE Aero Design West, team leader for F-22 Project, aid children in aviation camp, and serving as a guest experience specialist.",
+      "highlights": ["Worked with UAVs", "F-22 Project Team Leader", "Aid in Aviation Camp"]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "California State Polytechnic University",
+      "url": "Not Provided",
+      "area": "Aerospace Engineering ",
+      "studyType": "Bachelor of Science",
+      "startDate": "Not Provided",
+      "endDate": "June 2016",
+      "score": "GPA: 3.1",
+      "courses": ["Aerospace Structural Mechanics I", "Aerospace Feedback Control Systems", "Fluid Dynamics", "Gas Dynamics", "Low-Speed Aerodynamics", "Orbital Mechanics", "Vector Dynamics", "Thermodynamics"]
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Technical Skills",
+      "level": "Not Provided",
+      "keywords": ["MATLAB", "AVL", "C Programming", "Microsoft Word", "Microsoft Excel", "Microsoft PowerPoint"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Conversational"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Professional Interests",
+      "keywords": ["Aeronautics", "Astronautics", "Engineering"]
+    }
+  ],
+  "references": [],
+  "projects": []
+}

@@ -1,0 +1,144 @@
+{
+  "basics": {
+    "name": "Anonymous",
+    "label": "Banking Professional",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Knowledgeable of banking procedures and finance, sales and risk management whose success is based on integrity, exceptional customer service, efficiency and ambition. Self-motivated professional, highly proficient in developing creative solutions and implementing objective decision making. Skilled for managing multiple projects at one time. Ability to work equally in both team-oriented and self directed environments.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Branch Manager",
+      "url": "",
+      "startDate": "2004-01-01",
+      "endDate": "2008-12-31",
+      "summary": "Received region performance recognition for increased sales and customer service. Motivated, trained and increased employee productivity by 45%. Maintained and built strong relationships while assisting and advising in financial decisions...",
+      "highlights": [
+        "Motivated, trained and increased employee productivity by 45%",
+        "Implemented a new up-selling program of banking products to exceed goals & expectations",
+        "Executed branch objectives, improved product profitability and service performance"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Business Banking Officer",
+      "url": "",
+      "startDate": "2009-01-01",
+      "endDate": "2012-11-30",
+      "summary": "2010 Annual Pinnacle Winner for Outstanding Performance. Source, develop, expand, service and retain profitable business banking relationships. Provide the highest level of professionalism and outstanding customer service...",
+      "highlights": [
+        "2010 Annual Pinnacle Winner for Outstanding Performance",
+        "Perform complex financial analysis in the area of credit, cash flow and collateral",
+        "Proactively partner with customers to better understand their business goals and strategies"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Director of Business Operations/Finance Officer",
+      "url": "",
+      "startDate": "2005-01-01",
+      "endDate": "2009-01-31",
+      "summary": "Designed, developed and presented project sales models to increase business. Developed sales campaigns and marketing projects...",
+      "highlights": [
+        "Developed a new business plan that oversaw all new business sectors",
+        "Monitored the progress of open funds budget, fiscal reports, revenues contracts, acct payables and receivables"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Business and Consumer Banking Specialist",
+      "url": "",
+      "startDate": "2002-01-01",
+      "endDate": "2004-01-01",
+      "summary": "2003 Annual Star of Excellence. Achieved great success in sales and customer service...",
+      "highlights": [
+        "2003 Annual Star of Excellence",
+        "Regularly visit business customers to better understand banking needs and maximize results"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Keller Graduate School of Management",
+      "url": "",
+      "area": "Business Administation",
+      "studyType": "Masters",
+      "startDate": "",
+      "endDate": "2011",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Central Connecticut State University",
+      "url": "",
+      "area": "Business Administration/Finance",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "2009",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Gold Star Award recipient",
+      "date": "2014-01-01",
+      "awarder": "Wells Fargo Bank",
+      "summary": "2 times Gold Star Award recipient Wells Fargo Bank 2014"
+    },
+    {
+      "title": "Gold Star Award recipient",
+      "date": "2015-01-01",
+      "awarder": "Wells Fargo Bank",
+      "summary": "1 time Gold Star Award recipient Wells Fargo Bank 2015"
+    },
+    {
+      "title": "Annual Pinnacle Award",
+      "date": "2010-01-01",
+      "awarder": "US Bank",
+      "summary": "Annual Pinnacle Award Recipient for top 20% producer"
+    },
+    {
+      "title": "Star of Excellent recipient",
+      "date": "2009-01-01",
+      "awarder": "US Bank",
+      "summary": "Star of Excellent recipient for highest scores customer service, US Bank 2009, 2010, 2011"
+    }
+  ],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Banking",
+      "level": "Expert",
+      "keywords": [
+        "Credit & financial analysis",
+        "Risk management",
+        "Analytical problem solver",
+        "Strategic thinking",
+        "Excellent communicator",
+        "Deadline efficient",
+        "Action planning",
+        "Detailed oriented",
+        "Relationship management",
+        "Excellent time management"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

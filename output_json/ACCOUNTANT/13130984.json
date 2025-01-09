@@ -1,0 +1,87 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Accountant",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Innovative Accountant proficient in extracting financial data from various reporting systems and suggesting key operational changes.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "",
+      "region": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Accountant",
+      "url": "",
+      "startDate": "2016-04-01",
+      "endDate": "Current",
+      "summary": "Performed debit, credit and total accounts on computer spreadsheets/databases, using specialized accounting software. Received, recorded, and banked cash, checks, and vouchers as well as reconciled records of bank transactions. Assisted the CFO with the production of the monthly financials, management reports and board packages. Researched and resolved billing and invoice problems.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Accounting Clerk",
+      "url": "",
+      "startDate": "2010-04-01",
+      "endDate": "2016-04-01",
+      "summary": "Assisted in the creation of vendor contracts for outside vendors. Revised and streamlined inefficient work procedures with automation software. Suggested process improvements to secure prompt and regular receipts for the organization. Managed accounting operations, accounting close, account reporting and reconciliations.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Church Administrator",
+      "url": "",
+      "startDate": "2006-04-01",
+      "endDate": "Current",
+      "summary": "Plans and implements appropriate $140,000 annual budget (average) and accounting systems. Balance checking account and investment accounts and submit reconciliation monthly for Pastor's review and approval. Developed and implemented a Microsoft Excel Financial Database system for streamlining all financial and charitable contributions record system for the Church.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Troy University",
+      "url": "",
+      "area": "Business Administration",
+      "studyType": "Master's",
+      "startDate": "2014-01-01",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Columbus State University",
+      "url": "",
+      "area": "Accounting Management",
+      "studyType": "BBA",
+      "startDate": "",
+      "endDate": "2009-12-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Accounting",
+      "level": "",
+      "keywords": [
+        "Budget forecasting", "General ledger accounting", "Analytical reasoning", "Account reconciliation", "Customer relations", "Strong organizational skills", "Advanced computer proficiency"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

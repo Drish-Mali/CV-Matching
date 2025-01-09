@@ -1,0 +1,103 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Community Advocate",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Compassionate social services professional and active listener dedicated to working tirelessly with clients to help them resolve mental health issues and thrive on their own terms. Eager to learn.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Community Advocate",
+      "url": "",
+      "startDate": "2015-02-01",
+      "endDate": "2016-02-01",
+      "summary": "Developed and maintained resources for walk-in clients with emergent needs. Participated in additional training requirements in an effort to stay abreast for the ever changing rules and regulations associated with the various governmental programs",
+      "highlights": [
+        "Developed a 10 member supported partnership that helped victims of domestic violence get housed, gain skills, employment, and ongoing support that resulted in sustainability."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Volunteer Coordinator / Assistant Treasurer",
+      "url": "",
+      "startDate": "2013-09-01",
+      "endDate": "2015-06-01",
+      "summary": "Recruited volunteers and publicized volunteer opportunities appropriately matching positions to volunteers. Created and Managed a database for volunteers",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Administrative Assistant",
+      "url": "",
+      "startDate": "2011-01-01",
+      "endDate": "2014-01-01",
+      "summary": "Answered multi-lined phones, Filed documents, Updated database, Created documents and dispersed them to various departments and churches.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Retention Specialist",
+      "url": "",
+      "startDate": "2008-01-01",
+      "endDate": "2009-01-01",
+      "summary": "Answered and received calls in a timely manner, Deescalated customer grievances, Data Entry and processed payments",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Phoenix",
+      "url": "",
+      "area": "Human Services Management",
+      "studyType": "Bachelor's Degree",
+      "startDate": "",
+      "endDate": "2017-01-01",
+      "score": "",
+      "courses": [
+        "Training at YWCA Domestic Violence agency"
+      ]
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Professional Skills",
+      "level": "",
+      "keywords": [
+        "Mental Health Facilitator",
+        "30 hour Domestic Violence Training",
+        "Skilled DV Facilitator",
+        "Customer services training",
+        "Skilled Advocate",
+        "Proficient in Microsoft Office: Excel/Word/PowerPoint/Publisher/Outlook",
+        "Violence prevention",
+        "Type 50 WPM",
+        "Attentive listener",
+        "Leadership Training",
+        "Sensitive",
+        "Empathetic",
+        "Detail-oriented",
+        "Excellent interpersonal skills"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

@@ -1,0 +1,73 @@
+{
+  "basics": {
+    "name": "Name not provided",
+    "label": "Executive Chef",
+    "email": "Not Provided",
+    "phone": "Not Provided",
+    "summary": "Motivated Executive Chef with 22 years of culinary expertise. Recognized for assessing operational needs and developing solutions to save costs, improve revenues, and drive customer satisfaction. Resourceful and well-organized with excellent leadership and team building record. Last 4 years were spent actively participating and designing kitchens and restaurants in a 167 million dollars hotel expansion, while still managing and maintaining a fiscally responsible operation. The Waterfront Beach resort is recognized by guests and peers as a premier culinary location in Orange County."
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Executive Chef",
+      "startDate": "12/2003",
+      "endDate": "Current",
+      "summary": "Managed kitchen and stewarding staff team of 67 and assigned various stages of food production and event management. Designed, managed and created menus for 3 restaurants, 2 pool pantries and 1 market."
+    },
+    {
+      "name": "Company Name",
+      "position": "Restaurant Chef / Executive Sous-Chef",
+      "startDate": "08/2008",
+      "endDate": "08/2013",
+      "summary": "Modified standard recipes to account for ingredient issues or customer requests, including allergen concerns. Created exceptional menu items executed with precision to regularly garner diner praise. Supervised staff of 30, providing direction in preparing specialty items, including banquets, restaurant and employee dining room."
+    },
+    {
+      "name": "Company Name",
+      "position": "Lead Cook / Chef de Cuisine",
+      "startDate": "12/2003",
+      "endDate": "08/2008",
+      "summary": "Managed budget, labor and direct operating expenses for restaurant, banquet and a market operation. Tracked kitchen's inventory and ordered new food and supplies when needed. Considered seasonal product pricing and availability in development of promotional dishes and menu selections."
+    },
+    {
+      "name": "Company Name",
+      "position": "Line Prep Cook",
+      "startDate": "12/1999",
+      "endDate": "12/2003",
+      "summary": "Kept stations stocked and ready for use to maximize productivity. Arranged sauces and supplementary garnishes to place in allocated stations."
+    }
+  ],
+  "education": [
+    {
+      "institution": "ITHQ, Institue d'hotelerie du Quebec",
+      "area": "culinary arts",
+      "studyType": "Bachelor of Arts",
+      "startDate": "Not Provided",
+      "endDate": "1996"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Culinary",
+      "level": "Not Provided",
+      "keywords": [
+      "Customer service oriented",
+      "Food inspection",
+      "Banquets and catering",
+      "Time management",
+      "Resource Management",
+      "Strong communication skills",
+      "Food and beverage pairing",
+      "High-volume dining",
+      "Budgeting and cost control",
+      "Outstanding cleanliness",
+      "Dish preparation",
+      "Detail-oriented",
+      "Trained in food safety guidelines",
+      "Purchasing",
+      "Problem solving",
+      "Inventory control",
+      "Flexible schedule",
+      "Portion and cost control"]
+    }
+  ]
+}

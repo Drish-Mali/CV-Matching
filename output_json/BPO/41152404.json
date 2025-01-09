@@ -1,0 +1,122 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Test Analyst-Intern/Contractor",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "3+ years of professional experience in Software Testing with a strong passion for delivering quality software. Strong analytical and problem solving skills with expertise in Manual and Automation testing of various web and mobile-based applications. Worked in E-commerce, Banking and Insurance domains. Experienced in User Acceptance Testing, System Integration Testing, Performance Testing, Decision Table Testing and Regression Testing. Proven ability to multi-task and prioritize effectively with excellent Risk Management skills and ability to meet tight deadlines. ISTQB certified tester.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "",
+        "url": ""
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Test Analyst-Intern/Contractor",
+      "url": "",
+      "startDate": "2014-08-01",
+      "endDate": "2015-02-01",
+      "summary": "Performed system testing and functional testing on E-commerce websites.",
+      "highlights": ["Conducting cross browser and cross platform testing"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Quality Analyst",
+      "startDate": "2011-10-01",
+      "endDate": "2014-02-01",
+      "summary": "Responsible for testing Google Play Store and Google Maps Mobile and Desktop application.",
+      "highlights": ["Functional Testing and Integration Testing of various mobile apps on Google Play Store."]
+    },
+    {
+      "name": "Company Name",
+      "position": "Test Engineer",
+      "startDate": "2010-09-01",
+      "endDate": "2011-07-01",
+      "summary": "Understanding of the Business requirement specifications and System requirement specifications.",
+      "highlights": ["Responsible for preparing test data, writing Test Cases and executing them."]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Auckland",
+      "url": "",
+      "area": "Software Engineering",
+      "studyType": "Master",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": [
+        "High Performance Computing",
+        "System Security",
+        "Project Management",
+        "Risk Management"
+      ]
+    },
+    {
+      "institution": "Jawaharlal Nehru Technological University",
+      "url": "",
+      "area": "Information Technology",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "ISTQB certified tester",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Software Testing",
+      "level": "Advanced",
+      "keywords": [
+        "C",
+        "C++",
+        "C#",
+        "Java",
+        "JavaScript",
+        "Windows PowerShell",
+        "HTML",
+        "XML",
+        "Selenium IDE & Web driver",
+        "GoogleUIAutomator",
+        "Jira",
+        "Buganizer",
+        "Microsoft office",
+        "Microsoft Project",
+        "Open Office",
+        "My SQL",
+        "SQL server",
+        "Windows 8,8.1, Linux and OS X",
+        "iOS",
+        "Android"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

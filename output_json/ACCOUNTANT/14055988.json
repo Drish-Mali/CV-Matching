@@ -1,0 +1,119 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Accountant III",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Talented Accountant � employing creative teaching strategies to engage students fully in the learning process. A highly motivated Accounting professional with a verifiable record of accomplishment spanning over thirteen years. Highly creative, recognized as a results-oriented and solution- focused individual.�",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Accountant III",
+      "url": "",
+      "startDate": "2014-01-01",
+      "endDate": "Current",
+      "summary": "Responsible for grant management including preparing corrections, cost transfers, budget transfers, invoices and final reports. Request cash drawdowns and complete monthly reconciliations for grants and contracts. Correspond with outside granting agencies and University Grants and Contracts department to verify billing details. Monitor accounts receivable balances.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Assistant Accountant",
+      "url": "",
+      "startDate": "2007-01-01",
+      "endDate": "2014-01-01",
+      "summary": "Full charge processing of all functions related to accounts receivable, accounts payable & purchasing, assists in year-end close out. Independently research records and prepare journal entries as necessary. Reconcile records and documents; record general ledger entries. Analyze accounting records for compliance with DCCCD procedures.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Prairie View A & M University",
+      "url": "",
+      "area": "Accounting",
+      "studyType": "BBA",
+      "startDate": "",
+      "endDate": "2003",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "University of North Texas",
+      "url": "",
+      "area": "Finance",
+      "studyType": "BBA",
+      "startDate": "",
+      "endDate": "2013",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "University of North Texas",
+      "url": "",
+      "area": "Strategic Management",
+      "studyType": "MBA",
+      "startDate": "",
+      "endDate": "2015",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Accounting",
+      "level": "",
+      "keywords": [
+        "Account Reconciliation",
+        "Accounting",
+        "Accounts Payable",
+        "Accounts Receivable",
+        "AR",
+        "Billing",
+        "Budget",
+        "Cash Handling",
+        "Closing",
+        "Coaching",
+        "Communication Skills",
+        "Contracts",
+        "Credit",
+        "Customer Service",
+        "Financial",
+        "Forms",
+        "General Ledger",
+        "Grants",
+        "Groupwise",
+        "Instructing",
+        "Mentoring",
+        "Microsoft Office",
+        "Outlook",
+        "Organizational Skills",
+        "Policies",
+        "Public Speaking",
+        "Purchasing",
+        "Receiving",
+        "Reconciling",
+        "Research",
+        "Spreadsheets",
+        "Team Player",
+        "Time Management"
+      ]
+    }
+  ],
+  "interests": [],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "languages": [],
+  "references": [],
+  "projects": []
+}

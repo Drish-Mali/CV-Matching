@@ -1,0 +1,101 @@
+{
+  "basics": {
+    "name": "Not provided in the resume text",
+    "label": "Director, Business Development",
+    "image": "",
+    "email": "Not provided in the resume text",
+    "phone": "Not provided in the resume text",
+    "url": "Not provided in the resume text",
+    "summary": "Results-driven and highly skilled business development director with in-depth state and federal government. Expertise in identifying, developing, and executing strategic pursuits of new government opportunities. Excellent healthcare and business process solutions experience leveraging new industry trends, as well as game-changing legislation and its impact to federal and state governments. Open and clear communicator with demonstrated strategic vision and disciplined execution. Capable in bringing immediate federal government healthcare-related opportunities.",
+    "location": {
+      "address": "Not provided in the resume text",
+      "postalCode": "Not provided in the resume text",
+      "city": "Not provided in the resume text",
+      "countryCode": "Not provided in the resume text",
+      "region": "Not provided in the resume text"
+    },
+    "profiles": [
+      {
+        "network": "Not provided in the resume text",
+        "username": "Not provided in the resume text",
+        "url": "Not provided in the resume text"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Not provided in the resume text",
+      "position": "Director, Business Development",
+      "url": "Not provided in the resume text",
+      "startDate": "Feb 2007",
+      "endDate": "Current",
+      "summary": "Business Development in the pursuit of healthcare applications, transactional processing, data acquisition, data aggregation/mining, SaaS and Repository Services, data storage, IT support services, interoperability, ePresentation, payment integrity, and advanced data analytics for FWA. Led and participated several large-scale federal and state government acquisition teams.",
+      "highlights": [
+        "Over the 8 years generated $556M TCV.",
+        "President's Club 5 of the 8 years."
+      ]
+    },
+    {
+      "name": "Not provided in the resume text",
+      "position": "CEO and President",
+      "url": "Not provided in the resume text",
+      "startDate": "Sep 2003",
+      "endDate": "Jan 2007",
+      "summary": "Start-Up company within the State Government Markets providing IT Support Services and innovative software solutions in Provider Healthcare and land-related records.",
+      "highlights": [
+        "First Year growth to $2.1M, by December 2006 revenue growth to $7.3M."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Rochester Institute of Technology",
+      "url": "Not provided in the resume text",
+      "area": "Mechanical-Industrial Engineering",
+      "studyType": "College of Continued Accreditation",
+      "startDate": "Not provided in the resume text",
+      "endDate": "1983",
+      "score": "Not provided in the resume text",
+      "courses": []
+    },
+    {
+      "institution": "Columbia University",
+      "url": "Not provided in the resume text",
+      "area": "Executive Management",
+      "studyType": "Accelerated Management Program",
+      "startDate": "Not provided in the resume text",
+      "endDate": "1990",
+      "score": "Not provided in the resume text",
+      "courses": []
+    },
+    {
+      "institution": "Revenue Storm",
+      "url": "Not provided in the resume text",
+      "area": "Business Development",
+      "studyType": "Revenue Storm",
+      "startDate": "Not provided in the resume text",
+      "endDate": "2011",
+      "score": "Not provided in the resume text",
+      "courses": []
+    },
+    {
+      "institution": "HIPAA Academy",
+      "url": "Not provided in the resume text",
+      "area": "HIPAA",
+      "studyType": "Professional",
+      "startDate": "Not provided in the resume text",
+      "endDate": "2002",
+      "score": "Not provided in the resume text",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

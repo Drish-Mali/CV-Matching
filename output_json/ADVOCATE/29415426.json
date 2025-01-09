@@ -1,0 +1,123 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Client Advocate / Escalation Specialist",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Experienced with over 10 years in high-level executive support roles. Organized, professional, and committed to delivering high quality results with little supervision. Jack of all trades and wearer of many hats.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Client Advocate / Escalation Specialist",
+      "url": "",
+      "startDate": "2015-11-01",
+      "endDate": "2016-05-01",
+      "summary": "Takeover of escalated calls from customer service. Coached customer service representatives to improve skills.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Business Manager, HR Coordinator, Training Coordinator, Receptionist",
+      "url": "",
+      "startDate": "2008-06-01",
+      "endDate": "2015-10-01",
+      "summary": "Managed administrative, accounting, financial, and purchasing functions for the office and the individuals supported. Assisted with recruiting and orientating new employees. Performed bi-weekly payroll, reconciled payroll, created payroll reports used for budgeting and to adjust staffing. Managed and audited employee personnel and training files. Maintained employee training database and ensured employees were current in training. Purchased office and janitorial supplies. Acted as receptionist and managed a multi-line telephone system",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Records Management / Document Management System Implementer",
+      "url": "",
+      "startDate": "2007-01-01",
+      "endDate": "2007-11-01",
+      "summary": "Assisted in building a DMS library that fit the global model for the site. Assisted with department and site-wide document audits.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Telerecruiter",
+      "url": "",
+      "startDate": "2005-02-01",
+      "endDate": "2005-06-01",
+      "summary": "Contacted blood donors, scheduled future appointments, and updated contact information. Trained new telerecruiters.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Student Administrative Assistant Vice Chancellor",
+      "url": "",
+      "startDate": "2001-09-01",
+      "endDate": "2004-09-01",
+      "summary": "Independently created database and audited university resident alien files in university's HR department during free time, which saved the university a minimum of $200,000 in potential fines. Managed the university's utilities, legal bills, and contract database. Created and maintained database for university's Business Travel Account.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of New Orleans",
+      "url": "",
+      "area": "Political Science Pre-Law",
+      "studyType": "Bachelor of Arts",
+      "startDate": "",
+      "endDate": "2017",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "East Tennessee University",
+      "url": "",
+      "area": "",
+      "studyType": "Paralegal",
+      "startDate": "",
+      "endDate": "2016",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Clerical",
+      "level": "Strong",
+      "keywords": []
+    },
+    {
+      "name": "Management",
+      "level": "Strong",
+      "keywords": []
+    },
+    {
+      "name": "Administrative",
+      "level": "Strong",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Office",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Customer Service",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

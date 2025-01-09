@@ -1,0 +1,89 @@
+{
+  "basics": {
+    "name": "Impact",
+    "label": "Multidisciplinary Professional",
+    "email": "",
+    "phone": "",
+    "image": "",
+    "summary": "Multidisciplinary professional skilled in various areas, known for level-headedness under pressure and proficiency in Microsoft Office.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "",
+      "region": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Store Staff",
+      "url": "",
+      "startDate": "October 2014",
+      "endDate": "February 2015",
+      "summary": "Worked in a retail setting assisting with various tasks including cashier duties, product assistance, cleaning, maintaining store policies, and managing customer complaints. Also tasked with ensuring proper merchandise rotation and stocking, maintaining store displays and aiding with customer needs.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Healthcare Specialist/Combat Medic",
+      "url": "",
+      "startDate": "March 2013",
+      "endDate": "December 2015",
+      "summary": "Provided life support services during medical emergencies on scene and en route to the hospital. Maintained a state of readiness and alertness for all assignments. Actively maintained up-to-date knowledge of applicable state and Federal laws and regulations.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Crew Member",
+      "url": "",
+      "startDate": "February 2015",
+      "endDate": "April 2015",
+      "summary": "Performed various roles including greeting customers, taking orders, cleaning work areas and restrooms, uncasing new merchandise, and handling customer complaints.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Hostess",
+      "url": "",
+      "startDate": "January 2016",
+      "endDate": "January 2016",
+      "summary": "Assisted in serving customers, maintained cleanliness of the bar and work areas, greeted guests, and resolved customer complaints. Regularly communicated with customers regarding orders, and provided information about menu selections and establishment specialties.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Jonesboro High School",
+      "url": "",
+      "area": "",
+      "studyType": "High School Diploma",
+      "startDate": "",
+      "endDate": "May 2013",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "CPR Certified",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "General Skills",
+      "level": "",
+      "keywords": ["Administrative", "Ambulance", "Basic", "CPR Certified", "First Aid", "Inventory", "Life Support", "Logistics", "Microsoft Office", "Office", "Personnel", "Fast Learner", "Sales", "Statistics", "Tables"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

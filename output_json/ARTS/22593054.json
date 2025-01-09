@@ -1,0 +1,78 @@
+{
+  "basics": {
+    "name": "Independent Consultant",
+    "label": "Customer Service or PR Representative",
+    "summary": "Energetic Customer Service or PR Representative motivated to maintain customer satisfaction and contribute to company success. Enthusiastic to connect with people and offer them the best customer service they've experienced to date, all while capitalizing on my strengths. I will be an asset to ANY company and will assist in helping to grow & expand their business.",
+    "location": {
+      "city": "City",
+      "region": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Independent Consultant",
+      "startDate": "2013-07",
+      "summary": "Generate sales from existing clients & focused on new client acquisition. Provide excellent customer service to all clients including prompt responsiveness and delivery of product. Troubleshoot and coach consultants on my team. Create invitations and flyers for advertising purposes."
+    },
+    {
+      "name": "Company Name",
+      "position": "Creative Worship Arts Director",
+      "startDate": "2011-12",
+      "endDate": "2016-05",
+      "summary": "Responsible for organization of weekly church services, including leading the worship team & band, song selection, creating & designing Keynote slides (songs and announcements), and overall presentation of church facility."
+    },
+    {
+      "name": "Company Name",
+      "position": "Office Manager",
+      "startDate": "2011-05",
+      "summary": "Responsible for running district office that assists and oversees 72 churches across LA & Orange County. Single handedly coordinate annual convention for over 600 pastors & delegates."
+    },
+    {
+      "name": "Company Name",
+      "position": "Executive Assistant",
+      "startDate": "1992-01",
+      "endDate": "2009-11",
+      "summary": "5 years as company receptionist and expert customer service provider. Promoted to Executive Assistant to the Vice President."
+    }
+  ],
+  "education": [],
+  "awards": [],
+  "skills": [
+    {
+      "name": "Microsoft Word, Excel & PowerPoint Leadership",
+      "level": "master"
+    },
+    {
+      "name": "Keynote Telephone skills",
+      "level": "master"
+    },
+    {
+      "name": "10-Key Multi-tasking Notary (20 years) Proofreading",
+      "level": "master"
+    },
+    {
+      "name": "Proficient in Spanish",
+      "level": "master"
+    },
+    {
+      "name": "Strengths Finders results",
+      "level": "master",
+      "keywords": ["Includer", "Achiever", "Responsible", "Disciplined & Consistent"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Proficient"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

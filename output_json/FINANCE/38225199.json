@@ -1,0 +1,152 @@
+{
+  "basics": {
+    "name": "Anonymous",
+    "label": "Finance Operations/ Supervisor Manager",
+    "summary": "Looking for a position as Manager in a company that provides an open environment with many opportunities for continuous growth. I am a highly motivated achiever who is recognized for combining program excellence, integrity, and innovation with best practices and disciplined attention to achieving immediate and long-term goals and objectives.",
+    "skills": [
+      {
+        "name": "Leadership",
+        "level": "Strong"
+      },
+      {
+        "name": "Problem solving",
+        "level": "Exceptional"
+      },
+      {
+        "name": "Communication",
+        "level": "Excellent"
+      },
+      {
+        "name": "Presentation",
+        "level": "Good"
+      },
+      {
+        "name": "Interpersonal skills",
+        "level": "Great"
+      },
+      {
+        "name": "Customer service",
+        "level": "Excellent"
+      },
+      {
+        "name": "Time management",
+        "level": "Excellent"
+      },
+      {
+        "name": "Multi-tasking",
+        "level": "Excellent"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Finance Operations/ Supervisor Manager",
+      "startDate": "1999-09",
+      "endDate": "2012-02",
+      "summary": "Managed the daily operations of employees. Led key projects resulting in employee of the month. Ensured goals and objectives were met, and that quality control techniques were used by all employees. Responsible for customer satisfaction and the implementation of performance and service standards."
+    },
+    {
+      "name": "Company Name",
+      "position": "Customer Relations Manager",
+      "startDate": "2012-03",
+      "endDate": "Current",
+      "summary": "Supervise and manage the daily operations of employees. Successfully led key projects which resulted in the employee of the month. Monitor employee performance to ensure goals and objectives are met and/or exceed and that quality control techniques are utilized by each employee. Responsible for customer satisfaction and the implementation performance and service standards related to Sprint Nextel Direct Service."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Community College of Denver",
+      "area": "Early Childhood Education",
+      "studyType": "Certificate",
+      "endDate": "1995"
+    },
+    {
+      "institution": "Emily Griffith Opportunity School",
+      "area": "Early Childhood Education",
+      "studyType": "Certificate",
+      "endDate": "1996"
+    },
+    {
+      "institution": "George Washington High School",
+      "area": "General Studies",
+      "studyType": "Diploma",
+      "endDate": "1993"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Rewards and recognition",
+      "date": "2004-01-01",
+      "awarder": "Unknown",
+      "summary": "N/A"
+    },
+    {
+      "title": "Circle of Excellence Recipient",
+      "date": "2012-01-01",
+      "awarder": "Unknown",
+      "summary": "N/A"
+    },
+    {
+      "title": "Crown Perks winner",
+      "date": "2013-01-01",
+      "awarder": "Unknown",
+      "summary": "N/A"
+    },
+    {
+      "title": "Pinnacle Perks winner",
+      "date": "2014-01-01",
+      "awarder": "Unknown",
+      "summary": "N/A"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "N/A",
+      "date": "N/A",
+      "issuer": "N/A",
+      "url": "N/A"
+    }
+  ],
+  "publications": [
+    {
+      "name": "N/A",
+      "publisher": "N/A",
+      "releaseDate": "N/A",
+      "url": "N/A",
+      "summary": "N/A"
+    }
+  ],
+  "languages": [
+    {
+      "language": "N/A",
+      "fluency": "N/A"
+    }
+  ],
+  "interests": [
+    {
+      "name": "N/A",
+      "keywords": [
+        "N/A"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "N/A",
+      "reference": "N/A"
+    }
+  ],
+  "projects": [
+    {
+      "name": "N/A",
+      "startDate": "N/A",
+      "endDate": "N/A",
+      "description": "N/A",
+      "highlights": [
+        "N/A"
+      ],
+      "url": "N/A"
+    }
+  ]
+}

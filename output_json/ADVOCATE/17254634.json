@@ -1,0 +1,137 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Overnight Pharmacy Technician",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Highly motivated and skilled individual with extensive background experience in customer service, administration, retail; long-term care; and hospital pharmacy.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Overnight Pharmacy Technician",
+      "url": "",
+      "startDate": "2014-10-01",
+      "endDate": "present",
+      "summary": "Fill various filled scheduled and stat patient orders, manage inventory, answer calls to assist Pharmacists, compound IVs and chemotherapy orders.",
+      "highlights": []
+    },
+    {
+        "name": "Company Name",
+        "position": "Pharmacy Technician Registry",
+        "url": "",
+        "startDate": "2014-08-01",
+        "endDate": "2015-04-01",
+        "summary": "Filled unit dose medications, prepared and refilled various trays for carts, managed Pyxis machine, sterile compounded IV fluids.",
+        "highlights": []
+    },
+    {
+        "name": "Company Name",
+        "position": "IV Technician",
+        "url": "",
+        "startDate": "2014-01-01",
+        "endDate": "2015-04-01",
+        "summary": "Compound all intravenous admixtures, correctly label all IV compounds, scan all orders to designated totes, restock all supplies.",
+        "highlights": []
+    },
+    {
+        "name": "Company Name",
+        "position": "Various Technician roles",
+        "url": "",
+        "startDate": "2013-04-01",
+        "endDate": "2014-01-01",
+        "summary": "Managed various technician duties including filling, inventory, compounding, and more.",
+        "highlights": []
+    },
+    {
+        "name": "Company Name",
+        "position": "Certified Pharmacy Technician",
+        "url": "",
+        "startDate": "2012-07-01",
+        "endDate": "2013-05-01",
+        "summary": "Verified prescriptions, managed medication orders, troubleshooting insurance issues, and handled patient information.",
+        "highlights": []
+    },
+    {
+        "name": "Company Name",
+        "position": "Administrative Assistant",
+        "url": "",
+        "startDate": "2012-04-01",
+        "endDate": "2012-10-01",
+        "summary": "Successfully led and coordinated administrative tasks and school functions.",
+        "highlights": []
+    },
+    {
+        "name": "Company Name",
+        "position": "Cashier / Server",
+        "url": "",
+        "startDate": "2008-05-01",
+        "endDate": "2012-01-01",
+        "summary": "Cross trained as cashier and wait staff in fast-paced restaurant. Handled large cash amounts and assisted in new employee training.",
+        "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Rasmussen College",
+      "url": "",
+      "area": "Pharmacy",
+      "studyType": "Associate of Applied Science",
+      "startDate": "",
+      "endDate": "2013-12-01",
+      "score": "3.58",
+      "courses": ["Intro to Pharmacy", "Anatomy & Physiology", "Medical Terminology", "Pharmacology & Pharmaceutical Calculations"]
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Certified and Licensed Pharmacy Technician",
+      "date": "",
+      "issuer": "State of Illinois",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Pharmacy Skills",
+      "level": "Advanced",
+      "keywords": [
+        "Trained in compounding all intravenous and chemotherapy admixtures.",
+        "Extensive training in calculating and compounding pediatric admixtures and chemotherapy.",
+        "Knowledge of the processes involved in maintaining a sterile environment for compounding IVs.",
+        "Strong organizational skills",
+        "Strong decision-making ability",
+        "Active listening skills",
+        "Efficient and accurate",
+        "Sharp problem solver",
+        "Strong clinical background",
+        "Inventory management",
+        "Medication compounding expert",
+        "Pharmaceutical storage awareness",
+        "HIPAA trained",
+        "Exceptional patient care and interaction",
+        "Meticulous attention to detail",
+        "Excellent multi-tasker",
+        "Ability to handle fast-paced environment",
+        "Strong leader"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

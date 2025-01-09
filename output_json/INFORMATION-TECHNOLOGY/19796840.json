@@ -1,0 +1,97 @@
+{
+  "basics": {
+    "name": "Not Available",
+    "label": "Information Technology Auditor",
+    "image": "",
+    "email": "Not Available",
+    "phone": "Not Available",
+    "url": "Not Available",
+    "summary": "Not Available",
+    "location": {
+      "address": "Not Available",
+      "postalCode": "Not Available",
+      "city": "Not Available",
+      "countryCode": "Not Available",
+      "region": "Not Available"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Information Technology Auditor",
+      "url": "Not Available",
+      "startDate": "2016-10",
+      "endDate": "Current",
+      "summary": "Participate in the annual risk assessment and audit planning process covering IT, financial, operational, and contract areas. Assist with IT audits and reviews including user access, database and service configurations, security, and policy and procedural compliance.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "PeopleSoft Security Administrator III",
+      "url": "Not Available",
+      "startDate": "2015-04",
+      "endDate": "2016-10",
+      "summary": "Work closely with the internal and external audit department to provide reports and documentation for compliance. Perform user access recertification, operational audits, quarterly performance assessments for Segregation of Duty /SOX controls by compiling and distributing monthly and quarterly user access reports.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Sr. Application Systems Analyst",
+      "url": "Not Available",
+      "startDate": "2014-07",
+      "endDate": "2015-04",
+      "summary": "Worked with business owner to gather and document business requirements and business processes. Created and configured Work centers, Dashboards, and Interaction Hubs for HCM,and Financials using PeopleSoft 9.2 PeopleTools framework.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Houston",
+      "url": "Not Available",
+      "area": "Management Information Systems",
+      "studyType": "B.B.A",
+      "startDate": "Not Available",
+      "endDate": "Not Available",
+      "score": "Not Available",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Certified Information Systems Auditor (CISA) Certification",
+      "date": "2010",
+      "issuer": "Not Available",
+      "url": "Not Available"
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Information Technology",
+      "level": "Master",
+      "keywords": [
+        "PeopleSoft HCM 8.8/9.x",
+        "PeopleSoft Financials 8.8/9.x",
+        "PeopleTools 8.51/ 8.54",
+        "SQL Developer",
+        "MS Office",
+        "Visio",
+        "MS Project",
+        "Dell Stat 5.6/5.7",
+        "SQL Developer",
+        "Application Designer",
+        "Putty",
+        "SharePoint",
+        "HP Application Lifecycle Management",
+        "Oracle Enterprise Manager",
+        "STAT Admin, TOAD, Service Now, Remedy, Heat, Oracle E-Business, Asset Suite 8."
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

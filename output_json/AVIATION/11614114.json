@@ -1,0 +1,92 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Material Control Specialist",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Accomplished professional with 12 years of experience within the field of Logistics and 9 years of experience in Organizational Leadership. Expert at managing supply support, transportation, inventory control, purchasing, and distribution. Effective in customer service, cost reduction, and property management. Proficient in NALCOMIS/RSUPPLY, Big Safari Inventory (BSI), Cost Point, and FEDLOG Database. Versatile and proactive problem solver with excellent interpersonal skills. Highly adaptable to ever changing circumstances when engaging any project business plans within a fast-paced and demanding environment.",
+    "location": {
+      "address": "Camp Pendleton",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "US",
+      "region": "CA"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Material Control Specialist",
+      "url": "",
+      "startDate": "2012-12-01",
+      "endDate": "2015-03-01",
+      "summary": "Coordinate material movement between storage, production areas, and designated locations...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Logistics Supply Specialist",
+      "url": "",
+      "startDate": "2012-01-01",
+      "endDate": "2012-10-01",
+      "summary": "Maintained inventory records/documentation for government assets management...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Aviation Supply Specialist",
+      "url": "",
+      "startDate": "2002-01-01",
+      "endDate": "2011-01-01",
+      "summary": "Supervised 30 Marines to maximize efficiency and satisfy valid customer requirements...",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Villanova University",
+      "url": "",
+      "area": "Six Sigma",
+      "studyType": "Certificate",
+      "startDate": "2014-01-01",
+      "endDate": "2014-01-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Boys Ranch High School",
+      "url": "",
+      "area": "General Studies",
+      "studyType": "High School Diploma",
+      "startDate": "2000-01-01",
+      "endDate": "2000-12-31",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "HazMat Certified",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Inventory Management",
+      "level": "",
+      "keywords": ["Inventory", "Aviation", "Staffing", "Documentation", "Asset Management", "Buying/procurement", "Class", "Comprehensive Large Array Data Stewardship System", "Invoicing", "Material Control", "Procurement", "Purchasing", "Scheduling", "Shipping", "Bsi", "Cost Point", "Inventory Records", "Logistics", "Million", "Pricing", "Proposal Preparation", "Provisioning", "Training", "Training Initiatives", "Hazmat", "Ms Office", "Six Sigma", "Six-sigma"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

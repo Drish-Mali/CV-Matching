@@ -1,0 +1,129 @@
+{
+  "basics": {
+    "name": "Professional Profile",
+    "label": "Director of Programming Arts",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Tech-savvy Performing Arts Director well-versed in all aspects of event management from inception to completion. Excels in marketing and talent programming, as well as process rethinking and improvement.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "DSU",
+      "position": "Director of Programming Arts",
+      "url": "",
+      "startDate": "03/2014",
+      "endDate": "Current",
+      "summary": "Managed all aspects of multiple cultural arts activities at several venues. Oversaw improvement strategies for several shows and venues. Successfully increased ticket sales and created a scholarship program for DSU students.",
+      "highlights": [
+        "Increased 30% in season ticket memberships to the Celebrity Concert Series in only one year",
+        "Successfully managed CCS and Tanner Amphitheater",
+        "Revamped Tanner Amphitheater by adding visual design elements and improved programming"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Board of Directors Member",
+      "url": "",
+      "startDate": "01/2010",
+      "endDate": "Current",
+      "summary": "Had significant involvement in planning and implementing multiple concert series each year in St George, Utah.",
+      "highlights": []
+    },
+    {
+      "name": "Spiral Studios",
+      "position": "Operations Manager/Owner",
+      "url": "",
+      "startDate": "01/1994",
+      "endDate": "03/2015",
+      "summary": "Managed a commercial recording studio, created production music and managed festival-style shows and staff.",
+      "highlights": [
+        "Established many industry relationships with both entertainers and management"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Musician",
+      "url": "",
+      "startDate": "01/1994",
+      "endDate": "Current",
+      "summary": "Experience as a performing musician provides a unique understanding of the industry from multiple perspectives.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Brigham Young University",
+      "url": "",
+      "area": "Psychology",
+      "studyType": "Bachelor of Science",
+      "startDate": "1994",
+      "endDate": "1994",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "volunteer": [],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Management",
+      "level": "Expert",
+      "keywords": [
+        "Productivity improvement",
+        "Multi-unit operations management",
+        "Detail-oriented",
+        "Natural leader",
+        "Superb time management skills",
+        "Unsurpassed work ethic",
+        "Process improvement",
+        "Results-oriented"
+      ]
+    },
+    {
+      "name": "Sales Software",
+      "level": "Expert",
+      "keywords": [
+        "Showare"
+      ]
+    },
+    {
+      "name": "Audio/Video Software",
+      "level": "Expert",
+      "keywords": [
+        "Pro Tools",
+        "Qlab",
+        "Adobe Premiere"
+      ]
+    },
+    {
+      "name": "Desktop Publishing Software",
+      "level": "Expert",
+      "keywords": [
+        "Photoshop",
+        "Illustrator",
+        "Indesign",
+        "Wordpress"
+      ]
+    },
+    {
+      "name": "Microsoft Office Suite",
+      "level": "Expert",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "certificates": []
+}

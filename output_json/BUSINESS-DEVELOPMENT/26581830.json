@@ -1,0 +1,126 @@
+{
+  "basics": {
+    "label": "Business Development",
+    "summary": "Committed and motivated professional with exceptional customer service and decision making skills. Extensive experience working with a diverse client base and delivering results. High-achieving professional possessing excellent communication, organizational and analytical capabilities. Background in business development, customer service and project management."
+  },
+  "skills": [
+    {
+      "name": "Problem resolution",
+      "level": "Expert"
+    },
+    {
+      "name": "Microsoft Office proficiency",
+      "level": "Expert"
+    },
+    {
+      "name": "Managing multiple priorities",
+      "level": "Expert"
+    },
+    {
+      "name": "Customer relations specialist",
+      "level": "Expert"
+    },
+    {
+      "name": "Employee training and development",
+      "level": "Expert"
+    },
+    {
+      "name": "Active Learning",
+      "level": "Expert"
+    },
+    {
+      "name": "Creative Problem Solving",
+      "level": "Expert"
+    },
+    {
+      "name": "Critical Thinking",
+      "level": "Expert"
+    },
+    {
+      "name": "Data Collection",
+      "level": "Expert"
+    },
+    {
+      "name": "Data Entry",
+      "level": "Expert"
+    },
+    {
+      "name": "Executive Management Support",
+      "level": "Expert"
+    },
+    {
+      "name": "Filing",
+      "level": "Expert"
+    },
+    {
+      "name": "Scheduling",
+      "level": "Expert"
+    },
+    {
+      "name": "Service Orientation",
+      "level": "Expert"
+    },
+    {
+      "name": "Speaking",
+      "level": "Expert"
+    },
+    {
+      "name": "Spreadsheets",
+      "level": "Expert"
+    },
+    {
+      "name": "Travel Arrangements",
+      "level": "Expert"
+    }
+  ],
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Business Development",
+      "startDate": "2015-02-01",
+      "endDate": "2015-09-01"
+    },
+    {
+      "name": "Company Name",
+      "position": "Service Manager",
+      "startDate": "2014-11-01",
+      "endDate": "2015-02-01"
+    },
+    {
+      "name": "Company Name",
+      "position": "System Technology Specialist",
+      "startDate": "2012-11-01",
+      "endDate": "2014-01-01"
+    },
+    {
+      "name": "Company Name",
+      "position": "Project Manager",
+      "startDate": "2012-04-01",
+      "endDate": "2012-11-01"
+    },
+    {
+      "name": "Company Name",
+      "position": "Support Manager",
+      "startDate": "2011-04-01",
+      "endDate": "2011-12-01"
+    },
+    {
+      "name": "Company Name",
+      "position": "Project Administrator",
+      "startDate": "2006-09-01",
+      "endDate": "2011-12-01"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Denver High School",
+      "area": "General Studies",
+      "studyType": "High School Diploma",
+      "endDate": "1996-01-01"
+    },
+    {
+      "institution": "Front Range Community College",
+      "area": "General Studies"
+    }
+  ]
+}

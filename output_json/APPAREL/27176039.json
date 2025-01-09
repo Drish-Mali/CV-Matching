@@ -1,0 +1,142 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Route Manager",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Goal oriented, self-motivated with twenty years of experience as a Supervisor/Manager of personnel, products, and budgets. Driven to tackle projects that advance the organization and build collaboration/teamwork among peers and subordinates.",
+    "location": {},
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Route Manager",
+      "url": "",
+      "startDate": "January 2002",
+      "endDate": "",
+      "summary": "Built a steady repeat customer base by providing a quality product and exceptional customer service. Maintained inventory levels along with current product knowledge daily.",
+      "highlights": [
+        "Completed daily reconciliations, recorded and made deposits of up to $1500."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Site Manager",
+      "url": "",
+      "startDate": "January 2007",
+      "endDate": "Current",
+      "summary": "Analyze reporting data to identify areas of opportunity and provide solutions to maximize performance potential and profitability. Coach, mentor, and direct team members of varying levels of experience in support of departmental objectives.",
+      "highlights": [
+        "Ensure adherence to company safety guidelines through education, training, and monitoring of daily in-field performance."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Technician Supervisor",
+      "url": "",
+      "startDate": "January 2005",
+      "endDate": "January 2007",
+      "summary": "Monitor and manage technician productivity to ensure compliance with MasTec and DirectTV policies and procedures.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Lead Technician",
+      "url": "",
+      "startDate": "January 2002",
+      "endDate": "January 2005",
+      "summary": "Provide satellite installations and service work for DirecTV customers. Conduct quality control inspections on installations and service work done by all technicians.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Production Manager",
+      "url": "",
+      "startDate": "January 2000",
+      "endDate": "January 2002",
+      "summary": "Maintained a $1.5 million dollar budget and managed plant operations of 35 employees in seven departments through hiring, firing, payroll, training and developing job skills.",
+      "highlights": [
+        "Coordinated contracting issues with vendors daily."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Assistant Operations Engineer",
+      "url": "",
+      "startDate": "January 1998",
+      "endDate": "January 2000",
+      "summary": "Specialized in company wide inventory management and control through the design of computerized stockrooms and assisting in software design upgrades.",
+      "highlights": [
+        "Managed monthly projects averaging $150,000 to include building stockrooms, hiring and monitoring contractors and negotiating with vendors."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Assistant Plant Manager",
+      "url": "",
+      "startDate": "January 1994",
+      "endDate": "January 1998",
+      "summary": "Managed $5 million plant operations and supervised 40 employees. Served as Safety Committee Chairman, insuring OSHA compliance.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Del Mar College",
+      "url": "",
+      "area": "Applied Science Industrial Management",
+      "studyType": "Associate",
+      "startDate": "",
+      "endDate": "1998",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Leadership and Management",
+      "level": "",
+      "keywords": [
+        "budget",
+        "Business Intelligence",
+        "Coach",
+        "cost control",
+        "customer satisfaction",
+        "customer service",
+        "firing",
+        "hiring",
+        "inventory",
+        "inventory management and control",
+        "inventory control",
+        "leadership",
+        "materials",
+        "mentor",
+        "negotiating",
+        "payroll",
+        "personnel",
+        "policies",
+        "quality",
+        "quality control",
+        "RDO",
+        "reporting",
+        "routing",
+        "Safety",
+        "software design",
+        "teamwork",
+        "technician",
+        "upgrades"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

@@ -1,0 +1,91 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Finance Director",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Finance Director",
+      "url": "",
+      "startDate": "2014-04-01",
+      "endDate": "Current",
+      "summary": "Merck Global Capital Investment Planning & Reporting. Responsible for the forecasting, planning and reporting of Merck Capital Investments (2014 Budget = $1.7B) in support of all divisional areas. Harmonize and streamline capital project tracking and approval procedures. Led a total team of 12 professionals, having both Finance and Engineering backgrounds.",
+      "highlights": [
+        "Led a team of 12 professionals",
+        "Streamlined capital project tracking and approval procedures"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Finance Director",
+      "url": "",
+      "startDate": "2013-01-01",
+      "endDate": "2014-03-01",
+      "summary": "Americas & Merck Consumer Care Mfg Operations Responsible for the development of budgets, forecasts, long range plans, inventory & capital reporting for all manufacturing plants in North America (gross spend of ~$1B), and for my first 3 months, Latin America. Led a total team of 18 professionals, spanning the US, Puerto Rico and Canada.",
+      "highlights": [
+        "Led a team of 18 professionals",
+        "Developed budgets, forecasts, long range plans, inventory & capital reporting"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "UNIVERSITY OF MARYLAND - COLLEGE PARK Robert H. Smith School of Business",
+      "url": "",
+      "area": "Finance",
+      "studyType": "Master of Business Administration",
+      "startDate": "",
+      "endDate": "2002-05-01",
+      "score": "GPA: 3.73",
+      "courses": []
+    },
+    {
+      "institution": "NEW YORK UNIVERSITY",
+      "url": "",
+      "area": "Chemistry Mathematics and Chinese",
+      "studyType": "Bachelor of Arts",
+      "startDate": "",
+      "endDate": "1998-05-01",
+      "score": "GPA: 3.93",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Financial Management",
+      "level": "",
+      "keywords": [
+        "streamline",
+        "ad",
+        "analysis",
+        "balance sheet",
+        "budget",
+        "business processes",
+        "capital expenditures",
+        "contracts"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "volunteer": [],
+  "awards": [],
+  "certificates": [],
+  "publications": []
+}

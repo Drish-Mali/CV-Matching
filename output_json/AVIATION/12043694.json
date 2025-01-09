@@ -1,0 +1,103 @@
+{
+  "basics": {
+    "name": "Advanced Level Wheeled Vehicle Mechanic",
+    "label": "Information System Security",
+    "email": "",
+    "phone": "",
+    "summary": "To obtain a challenging, rewarding position in a professional and structured environment, where I can utilize my vast military experience, work ethic and training to become an integral contributor to a growing and productive organization.",
+    "location": {
+      "city": "City",
+      "region": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Advanced Level Wheeled Vehicle Mechanic and Organizational Apprentice Maintenance Technician",
+      "startDate": "04/2008",
+      "endDate": "06/2012",
+      "summary": "Successfully provided training and schedules, supervised, and guided my team through all aspects of recovery operations.",
+      "highlights": [
+        "Researched and provided Military Intelligence to mission going Soldiers during the 12-month deployment of Operation Iraqi Freedom Campaign."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Organizational Apprentice Maintenance Technician",
+      "startDate": "01/2000",
+      "endDate": "01/2000",
+      "summary": "Maintained and serviced aircraft engine, fuel, and lubrication systems.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Aviation Mechanic",
+      "startDate": "11/1994",
+      "endDate": "05/2002",
+      "summary": "Maintained and serviced aircraft engine, fuel, and lubrication systems handled and serviced aircraft ashore, or aboard a ship",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Colorado Technical University",
+      "area": "Information System Security",
+      "studyType": "Bachelor of Science",
+      "startDate": "2016",
+      "endDate": ""
+    },
+    {
+      "institution": "Centriq Training",
+      "area": "Network Administrator",
+      "studyType": "Certificate of Completion",
+      "startDate": "2012",
+      "endDate": ""
+    },
+    {
+      "institution": "Columbia Southern University",
+      "area": "Information Security",
+      "studyType": "Bachelor of Science",
+      "startDate": "2011",
+      "endDate": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Technical Skills",
+      "level": "Advanced",
+      "keywords": [
+        "Installation, Configuring, and Management of Windows 7",
+        "Network Components of Windows Server 2008 R2",
+        "Windows Server 2008 AD Group Policy",
+        "Installing, configuring, managing, and maintaining hardware",
+        "Network protocols and devices, TCP/IP including Sub netting and CIDR notation."
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "awards": [
+    {
+      "title": "Commendations",
+      "date": "",
+      "awarder": "USN",
+      "summary": "Meritorious Unity Commendation Medal, National Defense Service Medal X2, Armed Forces Expeditionary Medal, Global War On Terrorism Service Medal, Iraq Campaign Med W Campaign Star, Army Service Ribbon Overseas Service Ribbon Mechanic Driver Badge Good Conduct Medal X2"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Military Basic Military Training",
+      "date": "",
+      "issuer": "Military",
+      "url": ""
+    },
+    {
+      "name": "CompTIA A+ Certified",
+      "date": "",
+      "issuer": "CompTIA",
+      "url": ""
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "basics": {
+    "name": "Enrolled Agent / Tax Accountant / Office Manager",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "summary": "Dedicated professional with the accomplished ability to work independently and as a team member to successfully achieve project goals and objectives.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "",
+      "region": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Enrolled Agent / Tax Accountant / Office Manager",
+      "startDate": "2006-05-01",
+      "endDate": "2015-05-01",
+      "summary": "Playing a main role in preparing tax resolution settlement actions for the firm. Reviewing office files to make sure that all the documentation provided are accurate.",
+      "highlights": [
+        "Employee Management",
+        "Accounting Reviews"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Compliance Officer/Processing Manager/HR Manager",
+      "startDate": "2005-01-01",
+      "endDate": "2006-05-01",
+      "summary": "Compliance files to close out, Closing dept., Process loans and supervise other processors, A/P, A/R, Payroll, and Accounting",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Ocean Lakes High School",
+      "area": "Business and Marketing",
+      "studyType": "High School Diploma",
+      "startDate": "",
+      "endDate": "1997-01-01",
+      "courses": ["Professional Marketing and Management Seminars"]
+    },
+    {
+      "institution": "University of Phoenix",
+      "area": "Accounting and Business",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "2004-01-01",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Accountant Management",
+      "level": "Master",
+      "keywords": ["Client Relations", "Computer Proficiency", "Organizational Skills"]
+    }
+  ],
+  "volunteer": [],
+  "awards": [
+    {
+      "title": "2nd Place Winner of the DECCA State Marketing Conference Award",
+      "date": "1997-01-01",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "certificates": []
+}

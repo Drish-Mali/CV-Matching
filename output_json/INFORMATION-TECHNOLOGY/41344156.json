@@ -1,0 +1,125 @@
+{
+  "basics": {
+    "name": "John Doe",
+    "label": "VP OF INFORMATION TECHNOLOGY",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "A results oriented technology leader with over 18 years of IT experience, 8 years of supervisory experience. Passionate about collaborating with key stakeholders to develop information technology vision and strategy by effectively building organization, processes, infrastructure and services in support of short and long-term business needs.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "US",
+      "region": "California"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "",
+        "url": ""
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "VP of Information Technology",
+      "url": "",
+      "startDate": "2014-07-01",
+      "endDate": "2017-03-01",
+      "summary": "Hired to transform the IT department, which was successful within the first few months. Developed an IT strategy designed to increase sales and business process efficiency, and lower costs and company risk. Built and managed a highly effective team of employees, vendors, and service providers.",
+      "highlights": ["Implemented a new phone system", "Managed IT Projects", "Enhanced communications", "Converted VMWare to Hyper-V"]
+    },
+    {
+      "name": "Company Name",
+      "position": "VP of Information and Security Technology",
+      "url": "",
+      "startDate": "2009-02-01",
+      "endDate": "2014-05-01",
+      "summary": "Lead all IT operations, including purchasing, budget and structure. Conduct performance reviews and record results.",
+      "highlights": ["Managed employees in connection with IT functions", "Served as the HIPAA compliance officer"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Park University",
+      "url": "",
+      "area": "Information Systems",
+      "studyType": "Bachelor",
+      "startDate": "2003-01-01",
+      "endDate": "2014-01-01",
+      "score": "3.5",
+      "courses": []
+    },
+    {
+      "institution": "Park University",
+      "url": "",
+      "area": "Management",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "2007-01-01",
+      "score": "3.82",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming",
+      "level": "",
+      "keywords": [
+        "ASP.Net 4.5",
+        "ASP.Net",
+        "VB.NET",
+        "Active Directory",
+        "Backup",
+        "Budget",
+        "Contract negotiation",
+        "CRM",
+        "Data Analysis",
+        "Data Processing",
+        "Databases",
+        "Disaster Recovery",
+        "ETL",
+        "EDI",
+        "ITIL",
+        "Training",
+        "Executive Management",
+        "Senior Management",
+        "GoldMine",
+        "Information Security",
+        "HealthCare IT",
+        "IT support",
+        "Leadership",
+        "Marketing",
+        "Network analysis",
+        "Performance reviews",
+        "VoIP",
+        "Presentations",
+        "Process Enhancement",
+        "Product Development",
+        "Servers",
+        "SQL",
+        "SQL Server",
+        "Strategy",
+        "Desktop support",
+        "Visual Studio",
+        "Workflow"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "certificates": [],
+  "awards": [],
+  "volunteer": [],
+  "publications": []
+}

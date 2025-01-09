@@ -1,0 +1,131 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Finance Specialist",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Highly motivated and results-oriented professional with two years of experience in high-pressure finance and accounting environments. Innovative and adaptive thinker who constantly seeks to improve efficiencies and profitability.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "US",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Finance Specialist",
+      "url": "",
+      "startDate": "2014-09-01",
+      "endDate": "Current",
+      "summary": "Added detail-oriented, results-driven, and efficient mindset to Finance team of five. Accounts payable, prepaid expenses, and fixed assets. Acquisition of Riverside Bank in December 2014 that increased total assets from $550 million to $850 million. Purchase Loan Accounting - M&A process that generated an additional 40% of monthly income.",
+      "highlights": [
+        "Reduced cost of processing payments in accounts payables by 95% from approximately $1.00 per check to $0.05 per payment.",
+        "Team leader for new development process, Purchase Loan Accounting, and implementation of supporting SaaS, Evolv. Added $300,000 to monthly income, or approximately 43% of EBT."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Deposit Operations Associate",
+      "url": "",
+      "startDate": "2014-04-01",
+      "endDate": "2014-08-01",
+      "summary": "Four month bid with Deposit Operations department to gain an introduction to banking. Daily activities: Items processing, ACH file verification, and incoming/outgoing wire operations. General ledger reconciliations.",
+      "highlights": ["Wrote and updated procedures."]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Company Name",
+      "position": "Community Consultant",
+      "url": "",
+      "startDate": "2012-07-01",
+      "endDate": "2012-08-01",
+      "summary": "Performed marketing and sales campaigns with local entrepreneurs in rural communities. Empowered individuals by providing access to vital and affordable products. Managed team of eight to conduct sales and market research for solar products in urban and rural areas.",
+      "highlights": [
+        "Volunteered in Guatemala to help a Microfinance organization improve community outreach."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Bentley University",
+      "url": "",
+      "area": "Finance",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "2012-05-01",
+      "score": "3.33",
+      "courses": []
+    },
+    {
+      "institution": "Universidad de Navarra",
+      "url": "",
+      "area": "International Business",
+      "studyType": "Study Abroad Program",
+      "startDate": "2010-08-01",
+      "endDate": "2011-06-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Finance Skills",
+      "level": "",
+      "keywords": [
+        "Variance analysis",
+        "Advanced Excel",
+        "Financial modeling",
+        "Salesforce",
+        "Superior time management",
+        "Board Report preparation",
+        "Account reconciliation",
+        "10-Q and 10-K",
+        "accounting software",
+        "accounts payable",
+        "banking",
+        "databases",
+        "fixed assets",
+        "prepaid expenses",
+        "marketing and sales",
+        "Access",
+        "Excel",
+        "Microsoft Office Suite",
+        "PowerPoint",
+        "ORACLE",
+        "Peachtree"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Advanced"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Interests",
+      "keywords": [
+        "Carpentry",
+        "globalization",
+        "international economics",
+        "sailing",
+        "social and economic development",
+        "sports",
+        "technology"
+      ]
+    }
+  ],
+  "references": [],
+  "projects": []
+}

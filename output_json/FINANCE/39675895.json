@@ -1,0 +1,108 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Senior Director of Finance",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "summary": "High-performing Senior Director of Finance with management experience, and exceptional people skills. Versed in strategic planning, financial analysis and project management.",
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Senior Director of Finance",
+      "startDate": "2012-05-01",
+      "endDate": "2016-02-01",
+      "summary": "Managing a team responsible for timely and accurate reporting for Commercial Accounts ($3.5BN) and Middle Market ($7BN) monthly and quarterly production results, including preparing Sr. Leadership for Investor Days, Earnings Releases, and Shareholder Meetings."
+    },
+    {
+      "name": "Company Name",
+      "position": "Director of Strategic Initiatives",
+      "startDate": "2009-06-01",
+      "endDate": "2012-05-01",
+      "summary": "Developed strategy, identified priorities, and established business cases across and within the businesses to enable the successful delivery of strategic activities and investments."
+    },
+    {
+      "name": "Company Name",
+      "position": "Process Improvement Engineer",
+      "startDate": "2006-07-01",
+      "endDate": "2009-06-01",
+      "summary": "Completed a Liquid Petroleum Gas market study for National Programs, conducted an Account Manager job-assessment for Northland Insurance and managed different process improvement projects."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Bentley College",
+      "area": "Economics and Finance",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "2006-05-01",
+      "score": "3.7",
+      "courses": []
+    },
+    {
+      "institution": "University of Connecticut Graduate School",
+      "area": "",
+      "studyType": "MBA",
+      "startDate": "",
+      "endDate": "2012",
+      "score": "3.8",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Software",
+      "level": "Master",
+      "keywords": [
+        "Excel", 
+        "Power Point", 
+        "Access", 
+        "VisioTM1", 
+        "SNL", 
+        "AM Best"
+      ]
+    },
+    {
+      "name": "Business and Management",
+      "level": "Master",
+      "keywords": [
+        "Premier", 
+        "streamline", 
+        "book", 
+        "business plan", 
+        "communication skills", 
+        "concise", 
+        "data analysis", 
+        "data collection", 
+        "decision support", 
+        "delivery", 
+        "designing", 
+        "documentation", 
+        "Employee Relations", 
+        "senior management", 
+        "Finance", 
+        "Financial", 
+        "Home Office", 
+        "Insurance", 
+        "investments", 
+        "Leadership", 
+        "Market", 
+        "Meetings", 
+        "messaging", 
+        "office", 
+        "presentations", 
+        "pricing", 
+        "process engineering", 
+        "process improvement", 
+        "project planning", 
+        "reporting", 
+        "strategy", 
+        "strategic planning", 
+        "Underwriting", 
+        "workflow"
+      ]
+    }
+  ]
+}

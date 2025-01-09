@@ -1,0 +1,133 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Management Consultant",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "",
+    "location": {
+        "address": "",
+        "postalCode": "",
+        "city": "",
+        "countryCode": "",
+        "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+        "name": "Company Name",
+        "position": "Management Consultant",
+        "url": "",
+        "startDate": "2013-07-01",
+        "endDate": "2014-12-01",
+        "summary": "Utilized management abilities and knowledge of coding to oversee a team...",
+        "highlights": []
+    },
+    {
+        "name": "Company Name",
+        "position": "Investment Banking Analyst",
+        "url": "",
+        "startDate": "2010-11-01",
+        "endDate": "2011-02-01",
+        "summary": "Assisted lead associate and vice president...",
+        "highlights": []
+    },
+    {
+        "name": "Company Name",
+        "position": "Financial Advisor",
+        "url": "",
+        "startDate": "2008-11-01",
+        "endDate": "2010-11-01",
+        "summary": "Evaluated the financial plans of current and prospective clients...",
+        "highlights": []
+    },
+    {
+        "name": "Company Name",
+        "position": "Institutional Equity Sales",
+        "url": "",
+        "startDate": "2014-12-01",
+        "endDate": "",
+        "summary": "Utilized strong written and verbal communication skills...",
+        "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+        "institution": "Carnegie Mellon University, Tepper School of Business",
+        "url": "",
+        "area": "Investment Strategy",
+        "studyType": "MBA",
+        "startDate": "",
+        "endDate": "2013-05-01",
+        "score": "",
+        "courses": []
+    },
+    {
+        "institution": "University of South Florida",
+        "url": "",
+        "area": "Finance",
+        "studyType": "B.S",
+        "startDate": "",
+        "endDate": "2009-12-01",
+        "score": "",
+        "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Chartered Financial Analyst",
+      "date": "",
+      "issuer": "CFA Institute",
+      "url": ""
+    },
+    {
+      "name": "Series 7",
+      "date": "",
+      "issuer": "FINRA",
+      "url": ""
+    },
+    {
+      "name": "Series 63",
+      "date": "",
+      "issuer": "NASAA",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+        "name": "Management",
+        "level": "",
+        "keywords": [
+            "Microsoft Office Suite",
+            "Factset",
+            "Ipreo",
+            "strategy",
+            "finance",
+            "investment",
+            "analysis",
+            "sales",
+            "customer relations",
+            "research",
+            "project management",
+            "Leadership"
+        ]
+    }
+  ],
+  "languages": [],
+  "interests": [
+    {
+      "name": "Personal Interests",
+      "keywords": [
+        "Languages", "History", "Football", "Markets", "Golf"
+      ]
+    }
+  ],
+  "references": [],
+  "projects": []
+}

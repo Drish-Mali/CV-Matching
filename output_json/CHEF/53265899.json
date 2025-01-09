@@ -1,0 +1,104 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Chef Instructor Professor",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Dynamic, resourceful and skilled Teacher Instructor, Business Owner and Chef with years of experience.Problem Solver, Strategic Planning, Risk Management, Service Quality Improvement, Staff Training, Staff-Retention Programs, Team Building, Team Leadership, and many more skills.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Superior",
+      "countryCode": "US",
+      "region": "Pennsylvania"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Chef Instructor Professor",
+      "url": "",
+      "startDate": "2006-10-01",
+      "endDate": "2015-08-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Pastry Chef/Manager",
+      "url": "",
+      "startDate": "1995-01-01",
+      "endDate": "1997-01-01",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "The Art Institute of Pittsburgh",
+      "url": "",
+      "area": "Business Management",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "2012-01-01",
+      "score": "3.8",
+      "courses": []
+    },
+    {
+      "institution": "The Art Institute of Phoenix",
+      "url": "",
+      "area": "Culinary Arts",
+      "studyType": "Associate",
+      "startDate": "",
+      "endDate": "1998-01-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Teaching",
+      "level": "",
+      "keywords": [
+        "Strategic Planning",
+        "Risk Management",
+        "Service Quality Improvement",
+        "Staff Training",
+        "Staff-Retention Programs",
+        "Team Building",
+        "Team Leadership"
+      ]
+    },
+    {
+      "name": "Management",
+      "level": "",
+      "keywords": [
+        "Event Management and Promotion",
+        "Expense Control",
+        "High level of work Standards",
+        "Understands and motivates employees and customers"
+      ]
+    },
+    {
+      "name": "Culinary",
+      "level": "",
+      "keywords": [
+        "Quality control of all foods and beverage",
+        "Direction and facilitation of safety",
+        "Sanitation and Maintenance programs",
+        "Hiring and training of personnel for F.O.H. and B.O.H."
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

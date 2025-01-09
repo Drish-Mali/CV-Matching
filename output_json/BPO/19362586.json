@@ -1,0 +1,105 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Risk Specialist",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Sales and operations professional with experience in the wholesale, retail, servicing and loss mitigation in the mortgage banking industry. Expertise includes cold calling, mortgage processing operations, underwriting quality assurance and developing a refinance and liquidation program for a mortgage servicing company.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "",
+      "region": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Risk Specialist",
+      "url": "",
+      "startDate": "2014-03",
+      "endDate": "2014-11",
+      "summary": "Perform duties as integrated partner with Home Loans business leaders to ensure appropriate awareness and execution of risk management process. Assist with identifying, designing, and executing the appropriate risk management processes and practices for establishing a well-managed business. Responsible for standard risk reporting management, including input/updates for various reports.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Loan Modification Underwriter",
+      "url": "",
+      "startDate": "2010-08",
+      "endDate": "2014-02",
+      "summary": "Review and analyze borrower documentation to determine income and repayment ability, assess borrower hardship, analyze housing expenses, and determine proper loan resolution. Work as a loan modification underwriter for Chase, BAU, HAMP, Freddie Mac, Fannie Mae and FHA loans. Analyze delinquency, perform escrow analysis, analyze modification scenarios and proposals and recommend appropriate loan workout.",
+      "highlights": [
+        "Received 3 awards for outstanding quality and production."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Account Manager",
+      "url": "",
+      "startDate": "2008-04",
+      "endDate": "2009-01",
+      "summary": "Recruited physicians through cold and warm sourcing and matched them to open permanent physician opportunities. Coordinated activities for the physician and client during the interview process until closing.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Loan Processor/Wholesale Account Executive",
+      "url": "",
+      "startDate": "2004-07",
+      "endDate": "2007-04",
+      "summary": "Worked as an inside sales associate managing a production team for an outside Michigan sales representative helping to increase monthly production volume from five million to eight million dollars over a nine month period. Worked as a mortgage processor on the largest team in the division as a loan processor where monthly production volume increased from 75 million to 110 million dollars over a nine month period.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Retail Loan Officer",
+      "url": "",
+      "startDate": "2002-11",
+      "endDate": "2003-06",
+      "summary": "Worked in a sub-prime lending retail office originating purchase, refinance and home equity mortgage loans. Highest producer in the office for February 2003.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Phoenix (Dallas Campus)",
+      "url": "",
+      "area": "Business Administration",
+      "studyType": "Master",
+      "startDate": "",
+      "endDate": "2004",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Texas Tech University",
+      "url": "",
+      "area": "Telecommunications & Marketing",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "1998",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Risk Management",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

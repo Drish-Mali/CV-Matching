@@ -1,0 +1,102 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Housekeeper",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Dependable and trustworthy Housekeeper who works well with others and believes in working hard to satisfy each customer. Dedicated and energetic housekeeping professional who works well in fast-paced, high-pressure environments. Reliable and responsible with a positive attitude.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Lake Worth",
+      "countryCode": "US",
+      "region": "Florida"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Housekeeper",
+      "url": "",
+      "startDate": "January 2014",
+      "endDate": "Current",
+      "summary": "General housekeeping responsibilities: kitchen, bathroom cleaning, hand dust office furniture, vacuum, mop floors, trash removal, patio cleaning, recycling. I am able to clean and maintain this home every two weeks. Have always had a great communicating relationship, flexible schedule for Sajeda. I believe working hard, achieving the tasks at hand, and being kind and friendly have resulted in a great relationship. 816-500-2786.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Housekeeper/Caregiver",
+      "url": "",
+      "startDate": "April 2012",
+      "endDate": "Current",
+      "summary": "General Housekeeping responsibilities: kitchen, bathroom cleaning, vacuum, mop floors, changing linens, make bed, wash,dry,fold, put away laundry, polish furniture, empty trash bins., pet clean up, organize. Other responsibilities are drive to appointments, run errands, grocery shopping. With the dedication I have given to Ms. Saft, she has the ability to rely on me to meet her needs. 561-266-3238",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Owner/Chef",
+      "url": "",
+      "startDate": "December 1996",
+      "endDate": "September 2009",
+      "summary": "Owned and operated a small breakfast/lunch diner in Maine. My responsibilities were purchasing, preparing and cooking food to order. Oversaw all staff to be friendly and polite to customers. Created and explored new menu items and specialty items. Maintained all equipment to be in safe and functional working order. Ensured consistent high quality of plate presentation. Also handled all management duties, purchases, payroll, scheduling, paying bills, hiring, firing.",
+      "highlights": [
+        "Ensured consistent high quality of plate presentation",
+        "Increased breakfast shifts sales by 25% in the first season I worked there"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Wiscasset High",
+      "url": "",
+      "area": "Business",
+      "studyType": "High School Diploma",
+      "startDate": "",
+      "endDate": "1985",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Housekeeping",
+      "level": "Expert",
+      "keywords": [
+        "Cleaning",
+        "Organizing",
+        "Time Management",
+        "Hardworking"
+      ]
+    },
+    {
+      "name": "Culinary",
+      "level": "Proficient",
+      "keywords": [
+        "Cooking",
+        "Creating Menu",
+        "Kitchen Equipment Maintenance"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [
+    {
+      "name": "Personal Interests",
+      "keywords": [
+        "Travel",
+        "Beach",
+        "Exercise",
+        "Movies"
+      ]
+    }
+  ],
+  "references": [],
+  "projects": []
+}

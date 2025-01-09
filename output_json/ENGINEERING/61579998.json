@@ -1,0 +1,154 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Systems Engineering Manager",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Multifaceted Technical Manager with a broad spectrum of experience and knowledge excelling at being a conduit between the technical domain and financial processes. Proficient in numerous areas from hardware engineering, software engineering and subcontracts management.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Systems Engineering Manager",
+      "url": "",
+      "startDate": "February 2010",
+      "endDate": "Current",
+      "summary": "Technical Program Manager for LCS Game Based Learning dealing with 63 Systems Engineers, Software Engineers, Test Engineers, Technical Artists and Game Developers. Responsible for $55M worth of training software development and managing subcontractors including budget, scope and schedule.",
+      "highlights": [
+        "Led setup of cross-functional team development, resulting in $12M+ cost savings.",
+        "Engineered an enterprise architecture that included a game development tool suite used enterprise-wide.",
+        "Technical contact point for the US Navy on product design, schedule, and budget reviews.",
+        "Managed Game Based Learning for Emirates Airlines Cabin Crews, working with 7 engineering teams.",
+        "Evolved a mobile training platform serving over 20,000 trainees on multiple mobile platforms.",
+        "Participated in the design of over $20M worth of heavy equipment for the LCS Mission Bay Trainer(MBT) Proposal.",
+        "Led architectural development for training courseware for the LCS ships, inclusive of $300M software development.",
+        "Worked on the System Design and Requirements for the M134a Dillon Minigun Simulator.",
+        "Mechanical Engineer for design and production of the Bradley Fighting Vehicle Simulator - performance award recipient for opto-mechanical design.",
+        "Developed a physics system for damage assessment on a MIG-29A fighter aircraft.",
+        "Six degree of freedom physics model for a C-17 aircraft",
+        "Worked as a Physics Consultant - Developed a physics model of water flow and pressure against human muscle."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Central Florida",
+      "url": "",
+      "area": "Mechanical Engineering",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "2010",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "University of California, San Diego",
+      "url": "",
+      "area": "Enterprise System Architecture",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "2015",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Technical Management",
+      "level": "",
+      "keywords": [
+        "MS Project",
+        "Agile Software Development",
+        "Jira",
+        "Handsoft",
+        "ePDM",
+        "Data Analysis",
+        "Customer Management"
+      ]
+    },
+    {
+      "name": "Systems",
+      "level": "",
+      "keywords": [
+        "Hardware-Software Integration",
+        "Rational Requisite Pro",
+        "ClearQuest",
+        "Visio",
+        "DOORS",
+        "LEAN/Six Sigma",
+        "Safety Engineering",
+        "Requirements Engineering Creation",
+        "System Architecture"
+      ]
+    },
+    {
+      "name": "Design",
+      "level": "",
+      "keywords": [
+        "Creo",
+        "Solidworks",
+        "ANSYS 14",
+        "DFMA",
+        "DFA/DFM",
+        "AutoCAD",
+        "Zemax",
+        "Unigraphics",
+        "I-deas",
+        "Intralink",
+        "Windchill"
+      ]
+    },
+    {
+      "name": "Drafting",
+      "level": "",
+      "keywords": [
+        "Engineering Drawings",
+        "GD&T",
+        "Tolerances",
+        "Bill of Materials",
+        "Cage Codes",
+        "ASME Standards",
+        "Weld and Material Callouts"
+      ]
+    },
+    {
+      "name": "Development",
+      "level": "",
+      "keywords": [
+        "C++",
+        "JAVA",
+        "MathCAD",
+        "Matlab",
+        "Simulink",
+        "Microsoft Visual Studio"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Bilingual"
+    },
+    {
+      "language": "Arabic",
+      "fluency": "Bilingual"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

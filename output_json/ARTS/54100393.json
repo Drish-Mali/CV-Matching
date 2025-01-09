@@ -1,0 +1,115 @@
+{
+  "basics": {
+    "name": "",
+    "label": "English Language Arts Teacher",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "I am passionate about teaching and caring for students holistically. I believe it is crucial for students to develop critical thinking skills as they develop their sense of self and their worldview.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "US",
+      "region": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "English Language Arts Teacher",
+      "url": "",
+      "startDate": "2013-10-01",
+      "endDate": "2017-06-30",
+      "summary": "Taught 9th grade, 11th grade and 12th grade English as well as AP Literature and AP Language. Developed curriculum to suit the needs of students at various ages.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Head Of English Department",
+      "url": "",
+      "startDate": "2016-06-01",
+      "endDate": "2017-06-30",
+      "summary": "Managed the English Department, including planning and scheduling of monthly departmental meetings, allocation of department funds, participation in the District Literacy Committee and disseminating information from administration to English teachers.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "ASB Advisor",
+      "url": "",
+      "startDate": "2016-07-01",
+      "endDate": "2017-06-30",
+      "summary": "Managed the Leadership Program with primary focus on student-leadership development and facilitation.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Washington",
+      "url": "",
+      "area": "Secondary Education",
+      "studyType": "Master",
+      "startDate": "2011-01-01",
+      "endDate": "2012-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "University of Washington",
+      "url": "",
+      "area": "English",
+      "studyType": "Bachelor",
+      "startDate": "2009-01-01",
+      "endDate": "2011-12-31",
+      "score": "",
+      "courses": ["Minor in Education, Learning and Society"]
+    },
+    {
+      "institution": "Tacoma Community College",
+      "url": "",
+      "area": "",
+      "studyType": "Associate of Arts",
+      "startDate": "",
+      "endDate": "2009-12-31",
+      "score": "",
+      "courses": ["Running Start Program"]
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+ "skills": [
+    {
+      "name": "Educational Leadership",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Classroom Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Variety of Teaching Strategies",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Multimedia Teaching and Learning",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Inquiry-Based Learning",
+      "level": "",
+      "keywords": []
+    }
+  ],
+ "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

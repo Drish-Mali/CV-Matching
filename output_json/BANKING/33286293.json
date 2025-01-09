@@ -1,0 +1,114 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Investment Banking Summer Analyst",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Investment Banking Summer Analyst",
+      "url": "",
+      "startDate": "2015-07-01",
+      "endDate": "",
+      "summary": "Built discounted cash flow and leveraged buyout financial models to obtain implied valuations of TMT companies Presented a case study on Evertec, a payments processing company, including potential M&A opportunities to senior members of TMT group Select Transaction Experience Sale of Ascensus, Inc. to Genstar Capital and Aquiline Capital Partners Aided in creation of Investor Presentation materials and due diligence Potential sale of large media company to sponsors groups for ~$3 billion Assisted in financial modeling for levered transaction Prepared comparable company analysis examining precedent transactions and similar opportunities Potential global expansion of private, U.S. based sports entertainment company Created pitch presentation for client meetings Compiled extensive market research and provided broad analysis on emerging trends in global sports and media industries.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Intern",
+      "url": "",
+      "startDate": "2014-07-01",
+      "endDate": "2013-07-01",
+      "summary": "Evaluated prospective equity investments for the team. Analyzed potential asset allocation scenarios for high net worth clients. Generated leads of potential high net worth clients on both a corporate and private level. Aided in evaluating financial reports and constructing portfolio changes.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Sigma Nu Fraternity",
+      "position": "Philanthropy Chair and Inaugural Honor Board Member",
+      "url": "",
+      "startDate": "2013",
+      "endDate": "2016",
+      "summary": "Oversaw over 1,000 total service hours volunteering and over $5,500 donated to local charities Spearheaded inaugural Cameron Classic Tournament, cultivating long-term relationships with Duke University Hospital and The Monday Life Implemented internal accountability mechanism into chapter operations",
+      "highlights": []
+    },
+    {
+      "organization": "Face Your Challenges",
+      "position": "President",
+      "url": "",
+      "startDate": "2012",
+      "endDate": "2016",
+      "summary": "Encouraged college students to speak openly and fostered positive mental health Organized fundraising events and mental health workshops Raised over $2,000 to organizations combating depression",
+      "highlights": []
+    },
+    {
+      "organization": "Autism Speaks",
+      "position": "Volunteer",
+      "url": "",
+      "startDate": "2006",
+      "endDate": "Present",
+      "summary": "Assisted autistic children to better communication skills and functional independence Team leader for annual NY-Presbyterian Autism Walk",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Duke University",
+      "url": "",
+      "area": "Psychology Economics Markets and Management",
+      "studyType": "",
+      "startDate": "2013",
+      "endDate": "2016",
+      "score": "3.8",
+      "courses": ["Financial Accounting", "Microeconomics", "Macroeconomics", "Inside Hedge Funds", "Urban Economics", "Multivariable Calculus", "Creative Entrepreneurship"]
+    },
+    {
+      "institution": "Universitat Aut�noma de Barcelona",
+      "url": "",
+      "area": "",
+      "studyType": "",
+      "startDate": "2014",
+      "endDate": "2015",
+      "score": "",
+      "courses": ["Strategic Behavior in Business", "Cross Cultural Management", "Business Ethics", "Intercultural Interactions"]
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "",
+      "level": "",
+      "keywords": ["Microsoft Office", "public speaking", "proficient in Spanish", "Calculus", "cash flow", "client", "clients", "due diligence", "Economics", "equity", "financial", "Financial Accounting", "financial modeling", "financial reports", "Funds", "investments", "market research", "materials", "Math", "meetings", "Reading", "SAT", "Strategic"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Proficient"
+    }
+  ],
+  "interests": [
+    {
+      "name": "",
+      "keywords": ["NFL Draft", "Golf", "Airbnb", "reading"]
+    }
+  ],
+  "references": [],
+  "projects": []
+}

@@ -1,0 +1,68 @@
+{
+  "basics": {
+    "name": "Mr. Ginder",
+    "label": "REGIONAL SCHEDULE MANAGER",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "summary": "Mr. Ginder has been working in the heavy civil construction industry for nearly 20 years. He has been working primarily as a Primavera scheduler since 2006. The range of the projects vary between less than $5 million railroad projects to over $1.3 billion light rail projects. The type of projects range from railroads, mass transit light rail systems, interstate highway projects, and marine bridge projects.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Regional Schedule Manager",
+      "startDate": "2013-02-01",
+      "summary": "Prepares proposal and bid schedules for railroads, pump stations, DOT hard bid, DOT design build, and DOT CMGC projects. Prepares baseline schedules and updates for the CPM on multiple MnDOT projects including the Dresbach I-90 Bridge Project, MnPASS design build on I-35E in St. Paul, and the Winona Bridge CMGC project in Winona, MN. Interfaces with the project management and estimating teams to prepare, build, and maintain project schedules. Provided technical assistance with other Ames projects outside the Midwest Region including a Potash mine in Saskatchewan, Canada. Provided assistance with the construction cost estimating and takeoff for multiple bids and proposals.",
+      "highlights": ["Prepared a proposal schedule for a design build project with MnDOT that was key for Ames successful proposal. Instrumental in developing the schedules for various design phases and work packages for the first Contract Manager General Contractor (CMGC) project with MnDOT. Prepared numerous schedules with cost loaded resource data to support the Full Funding Grant Agreement for a $1.3 billion light rail project."]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Colorado School of Mines Civil Engineering",
+      "area": "Civil Engineering",
+      "studyType": "B.S.E",
+      "startDate": "",
+      "endDate": "1991-01-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Certified Professional Engineer",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Software",
+      "level": "",
+      "keywords": [
+        "Primavera 6 up to version 8.2",
+        "Tilos Linear Schedule Enterprise One JD Edwards Cost Software",
+        "Sure Track Resource and Cost Loaded Schedules",
+        "MS Project Primavera Contract Manager / Expedition",
+        "Excel / Word / Powerpoint",
+        "AutoCAD version 13",
+        "Estimating Software - HCSS",
+        "Training in Advanced Project Management in Primavera P6"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

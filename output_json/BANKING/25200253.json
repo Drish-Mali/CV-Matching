@@ -1,0 +1,140 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Bank Operations Analyst",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "To utilize the skills that I possess in a challenging diverse working environment.",
+    "location": {
+      "address": "City",
+      "postalCode": "",
+      "city": "State",
+      "countryCode": "US",
+      "region": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Bank Operations Analyst",
+      "url": "",
+      "startDate": "2010-01-01",
+      "endDate": "Current",
+      "summary": "Responsible for reviewing and processing Returned Deposited Items, Returned Cash Items and Non Post Items. Complete operational functions including approving G/L tickets and Key Master reports prior to forwarding to Data Entry for processing. Assist teammates in monitoring department mailbox, researching items and phone support. Worked with Special Services in Atlanta during the transition of the functions our department inherited. Assist in developing and updating department procedures.",
+      "highlights": [
+        "Work closely with Management and SunTrust Liaison to stream line the North Carolina Treasurer process.",
+        "PBOL program 2013 graduate"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Bellevue University",
+      "url": "",
+      "area": "Business",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "2013",
+      "score": "",
+      "courses": ""
+    },
+    {
+      "institution": "Valencia Community College",
+      "url": "",
+      "area": "Business Management",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "1997",
+      "score": "",
+      "courses": ""
+    },
+    {
+      "institution": "Seminole Community College",
+      "url": "",
+      "area": "Business Management",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "1990",
+      "score": "",
+      "courses": ""
+    },
+    {
+      "institution": "Bethune Cookman College",
+      "url": "",
+      "area": "Medicine/Nursing",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "1989",
+      "score": "",
+      "courses": ""
+    },
+    {
+      "institution": "Lake Brantley High School",
+      "url": "",
+      "area": "",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "1988",
+      "score": "",
+      "courses": ""
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Bank Operations",
+      "level": "",
+      "keywords": [
+        "analytical",
+        "customer service",
+        "communication skills",
+        "Account reconciliation",
+        "ATM",
+        "balance",
+        "Banking",
+        "bi",
+        "Cash management",
+        "clerical",
+        "coaching",
+        "Customer Service",
+        "Data Entry",
+        "documentation",
+        "Editing",
+        "Forms",
+        "Help Desk",
+        "hiring",
+        "letters",
+        "Cash Management",
+        "Problem solving",
+        "Sales Experience",
+        "phone support",
+        "Sales",
+        "scheduling",
+        "spreadsheets",
+        "SQL"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": [
+    {
+      "name": "Project",
+      "startDate": "",
+      "endDate": "",
+      "description": "Responsible for staff daily operations of processing the W8/W9 forms and the processing of 1099 correction requests for year end tax statements. Assist Operational Manager in hiring, disciplinary actions as well staff annual reviews.",
+      "highlights": [
+        "Assist in the development and design of the SQL database for department.",
+        "Supervise 5-7 employees."
+      ],
+      "url": ""
+    }
+  ]
+}

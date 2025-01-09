@@ -1,0 +1,77 @@
+{
+  "basics": {
+    "name": "Premium Club Chef",
+    "label": "Executive Chef",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Creative, desire for perfection, dedication to the profession and the art while at the same time effectively balance profitability. Twenty three years professional experience as a dynamic, resourceful and skilled Chef with a proven success record in many dynamic venues and assignments.",
+    "location": {
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "countryCode": "",
+    "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Premium Club Chef",
+      "url": "",
+      "startDate": "2014-01-01",
+      "endDate": "Current",
+      "summary": "Directly responsible for food and labor costs, menu development, recipe creation and standardization...",
+      "highlights": ["Consistently stayed under monthly controllable expense budget.","Adjusted monthly menus to maximize use of seasonal local ingredients and delicacies.","Drove food costs down by 23%."]
+    },
+    {
+      "name": "Company Name",
+      "position": "Pastry Chef",
+      "url": "",
+      "startDate": "2013-03-01",
+      "endDate": "2014-01-01",
+      "summary": "Ensure brand quality, consistency and adherence to standards...",
+      "highlights": ["Designed kitchen and set up pastry department operations.","Developed menu and implemented new items for home stands.","Monitored food distribution."]
+    },
+    {
+      "name": "Company Name",
+      "position": "Pastry Chef",
+      "url": "",
+      "startDate": "2012-06-01",
+      "endDate": "2013-03-01",
+      "summary": "Ordered and controlled inventory...",
+      "highlights": ["Developed menu and implemented daily specials.","Responsible for all pastry and savory baked goods food costing.","Consistently adhered to quality expectations and standards."]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "The Culinary Institute of America",
+      "url": "",
+      "area": "Culinary Arts",
+      "studyType": "Associate of Occupational Studies",
+      "startDate": "",
+      "endDate": "1991",
+      "score": "",
+      "courses": [""]
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Culinary Expertise",
+      "level": "Master",
+      "keywords": [
+        "Food cost control specialist", "Skillful kitchen staff trainer","Special dietary needs expert", "International culinary skills", "Proven leadership skills", "Strong customer relationship builder"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

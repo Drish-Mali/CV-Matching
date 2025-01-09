@@ -1,0 +1,80 @@
+{
+  "basics": {
+    "name": "Not Provided",
+    "label": "Supervisor",
+    "email": "Not Provided",
+    "phone": "Not Provided",
+    "summary": "Results-oriented, strategic sales professional with thirty years in the Retail� industry.",
+    "location": {
+      "address": "Not Provided",
+      "city": "Not Provided",
+      "countryCode": "Not Provided"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Not Provided",
+      "position": "Supervisor",
+      "startDate": "April 2013",
+      "endDate": "Current",
+      "summary": "Provide Training and Direct Supervision for all clients. Maintain appropriate work standards to the highest degree within the community. Train all the new hires for Enclave Supervisor position. Complete the weekly schedule for all Enclave Supervisor's and Enclave clients. Train all new Staff in the workshop area to prepare our clients for community jobs."
+    },
+    {
+      "name": "Not Provided",
+      "position": "Store Manager",
+      "startDate": "November 2007",
+      "endDate": "March 2013",
+      "summary": "Oversee the entire store for Merchandising and Company Standards. Develop creative plans to increase store sales and decrease loss. Maintain communication with District/Regional Management. District winner achieved 110% over last year Credit Goals. Decreased store shrink of 1.44% to .90%."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Philo High School",
+      "area": "Not Provided",
+      "studyType": "High School Diploma",
+      "startDate": "Not Provided",
+      "endDate": "1979"
+    },
+    {
+      "institution": "Muskingum Vocational School",
+      "area": "Not Provided",
+      "studyType": "Nurses Aide Certification",
+      "startDate": "Not Provided",
+      "endDate": "1980"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Various",
+      "level": "Not Provided",
+      "keywords": [
+        "Assistant Manager", 
+        "CPR", 
+        "Credit",
+        "Editing Sku's",
+        "Financial",
+        "P&L",
+        "First Aid",
+        "Inforem",
+        "Inventory Control",
+        "Lotus Notes",
+        "Mainframe",
+        "Managerial",
+        "Market",
+        "Merchandising",
+        "Organization",
+        "EXCEL",
+        "WORD",
+        "Payroll",
+        "Personnel",
+        "Sales",
+        "Supervisor",
+        "Supervision",
+        "Teaching",
+        "Training and Coaching",
+        "Customer Service"
+      ]
+    }
+  ]
+}

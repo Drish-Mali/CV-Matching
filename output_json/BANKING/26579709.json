@@ -1,0 +1,86 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Mortgage Banking Research Specialist",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "My goal is to obtain a career associated with a company where I can utilize my skills and gain further experience while enhancing the company's brand and reputation.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Mortgage Banking Research Specialist",
+      "url": "",
+      "startDate": "2010-02",
+      "endDate": "Current",
+      "summary": "I currently provide feedback, guidance, and direction to 30+ agents in Texas and Arizona offices on a daily basis. I review and research Executive Office complaint responses for compliance and regulatory checks.",
+      "highlights": ["Created the EMS Audit Training Guide", "Assisted in the Implementation of the QC review process", "Maintained a rating of Exceeds in all monthly and annually departmental goals and measurements"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Sr. Loss Prevention Lead",
+      "url": "",
+      "startDate": "2005-06",
+      "endDate": "2009-12",
+      "summary": "Advanced to increasingly responsible positions, culminating in a management assistance role with oversight for a 12+ member team.",
+      "highlights": ["Handled supervisor talk offs and monitor calls for quality assurance", "Analyzed and team and department reports to develop ideas for production and quality enhancement."]
+    },
+    {
+      "name": "Company Name",
+      "position": "Loss Prevention Supervisor - Floater",
+      "url": "",
+      "startDate": "2001-01",
+      "endDate": "2005-06",
+      "summary": "Led a team of 12+ Loss Prevention Representatives with a portfolio of 100 to 160 accounts each and days of delinquency ranging from 60 - 150 days.",
+      "highlights": ["Handled supervisor talk offs and monitor calls for quality assurance", "Effectively trained and coached new hires in the department to excel in their current position"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Assistant Facilities Manager",
+      "url": "",
+      "startDate": "1998-05",
+      "endDate": "2000-12",
+      "summary": "Managed and organized maintenance employees and contractors on the premises daily to meet the goals of the business.",
+      "highlights": ["Implemented employee schedules and organized shifts according to business needs", "Managed projects including facilitating departmental moves from beginning to the end"]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Ashworth College",
+      "url": "",
+      "area": "Business Administration Finance",
+      "studyType": "Bachelor's",
+      "startDate": "",
+      "endDate": "current",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "General Skills",
+      "level": "",
+      "keywords": ["Bankruptcy", "FDCPA", "FCRA", "SSA", "Fannie Mae/Freddie Mac/USDA guidelines", "DWS", "MSP", "Lenderlive", "LPS", "BART", "Infosource", "Agent Desktop", "Early Resolution", "TAS", "Fortracs", "Ivault", "CMS", "VLS", "ICAT", "CAT",
+      "CCW", "SPO Tool", "Vendorscape", "Control Link", "MS Word", "MS Excel", "Powerpoint", "Oracle applications", "escalation complaint handling", "audit processes", "modification", "shortsale", "collections", "recovery", "bankruptcy", "escrow", "property preservation",
+      "REO", "Executive Office", "strong leadership", "analytical", "critical / logical thinking", "problem solving", "organizational", "negotiation skills", "effective written and verbal communication/presentation skills", "team player", "goal driven", "results oriented"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

@@ -1,0 +1,128 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Lead Maintenance Mechanic",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Lead Maintenance Mechanic with 7+ years experience specializing conveyor equipment, sortation systems.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "US",
+      "region": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Lead Maintenance Mechanic",
+      "url": "",
+      "startDate": "2016-06",
+      "endDate": "Current",
+      "summary": "Supervised a team of four Mechanics. Provided onsite technical guidance, and skill development to maintenance team...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Maintenance Mechanic",
+      "url": "",
+      "startDate": "2014-06",
+      "endDate": "2016-06",
+      "summary": "Performed preventative maintenance on mechanical systems, primarily conveyors...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Maintenance Technician",
+      "url": "",
+      "startDate": "2013-06",
+      "endDate": "2014-06",
+      "summary": "Maintained various mechanical systems, primarily conveyors...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Maintenance Helper",
+      "url": "",
+      "startDate": "2011-06",
+      "endDate": "2013-06",
+      "summary": "Assisted mechanics with preventative maintenance on conveyor systems...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Warehouse Associate",
+      "url": "",
+      "startDate": "2010-01",
+      "endDate": "2011-06",
+      "summary": "Perform general warehouse duties pertaining to open stock. Use of RF handheld scanner...",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "West Deptford High",
+      "url": "",
+      "area": "",
+      "studyType": "H.S",
+      "startDate": "2004",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Lock Out/ Tag Out",
+      "date": "2016-12-19",
+      "issuer": "J. J. Keller & Associates, Inc.",
+      "url": ""
+    },
+    {
+      "name": "Personal Protective Equipment",
+      "date": "2016-09-26",
+      "issuer": "J. J. Keller & Associates, Inc.",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Electrical Maintenance",
+      "level": "",
+      "keywords": [
+        "AC Motors",
+        "sensors",
+        "controls"
+      ]
+    },
+    {
+      "name": "Facilities Maintenance",
+      "level": "Basic",
+      "keywords": []
+    },
+    {
+      "name": "Mechanical Maintenance",
+      "level": "",
+      "keywords": [
+        "conveyor",
+        "sortation systems"
+      ]
+    },
+    {
+      "name": "Ethernet networks and TCP/IP protocol stack",
+      "level": "Basic",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

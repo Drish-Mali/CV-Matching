@@ -1,0 +1,186 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Partner Account Manager",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Over 6 years of customer facing management experience in managing Healthcare IT and Banking industry. Managed teams of 15 to 20 members and projects involving cross functional teams to achieve organizational goals.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Partner Account Manager",
+      "url": "",
+      "startDate": "2014-04-01",
+      "endDate": "2014-08-01",
+      "summary": "Managed project with regard to the Customers product deployment in SaaS Platform.",
+      "highlights": [
+        "Partner portfolio and revenue management.",
+        "Resolving In-service request through Jira and registering nodes and adding servers on SaaS Plaza platform.",
+        "Monitoring the Invoice and Billing on product renewals.",
+        "Setting up the Product demo environment for the Partners and their customers.",
+        "Assisted Partners with online training and educate them about the product usage in the cloud platform."
+      ]
+    },
+    {
+      "name": "City",
+      "position": "Client Account Manager",
+      "url": "",
+      "startDate": "2011-07-01",
+      "endDate": "2013-12-01",
+      "summary": "Drive sales through Partners and Distributors.",
+      "highlights": [
+        "Managed existing partners and generate revenues from them",
+        "Conducting promotional activities and events for partners and Distributors",
+        "Planning and implementing marketing and partner relations programs to increase partnership growth and retention"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Relationship Manager",
+      "url": "",
+      "startDate": "2010-01-01",
+      "endDate": "2011-05-01",
+      "summary": "Customers' acquisition in order to increase transaction book size.",
+      "highlights": [
+        "Managed Trade and Asset Services",
+        "Used Oracle SQL to analyses the financial data related to the customer borrowings of funds.",
+        "Lead Management System"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Health Advisory Manager",
+      "url": "",
+      "startDate": "2006-05-01",
+      "endDate": "2009-12-01",
+      "summary": "Receive Service Request(SR) from the HealthCare clients (Customers).",
+      "highlights": [
+        "Analyze and study the SR thoroughly to ensure Compliance as per HIPAA and HCPC",
+        "Generate financial customized reports using SQL and EXCEL for customers.",
+        "Managed customer centric operations pre and post implementation."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Coleman University",
+      "url": "",
+      "area": "Information System Management",
+      "studyType": "M.S",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Symbiosis International University",
+      "url": "",
+      "area": "Business Administration (Marketing)",
+      "studyType": "Master",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Best performer for two consecutive Months(HSBC)",
+      "date": "",
+      "awarder": "HSBC",
+      "summary": ""
+    },
+    {
+      "title": "Thanks award for the third quarter for closing the biggest deal across HSBC",
+      "date": "",
+      "awarder": "HSBC",
+      "summary": ""
+    }
+  ],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Management",
+      "level": "",
+      "keywords": [
+        "MS Excel",
+        "Project",
+        "Word",
+        "PowerPoint",
+        "SAP R/3",
+        "SPSS",
+        "Oracle SQL (TOAD)",
+        "SalesForce CRM",
+        "VISIO"
+      ]
+    },
+    {
+      "name": "Banking",
+      "level": "",
+      "keywords": [
+        "Premier",
+        "Benefits",
+        "Billing",
+        "Business Administration",
+        "CRM",
+        "Clients",
+        "Customer Support",
+        "Financial",
+        "Focus",
+        "Functional",
+        "Funds",
+        "Latin",
+        "Managing",
+        "Marketing",
+        "Market",
+        "MS Excel",
+        "EXCEL",
+        "Office",
+        "PowerPoint",
+        "Word",
+        "Enterprise",
+        "Oracle SQL",
+        "Policies",
+        "Proposals",
+        "Sales",
+        "SAP R/3",
+        "Scheduling",
+        "Servers",
+        "Spanish",
+        "SPSS",
+        "SQL",
+        "TOAD",
+        "Treasury",
+        "Validation",
+        "View",
+        "VISIO"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": ""
+    },
+    {
+      "language": "Spanish",
+      "fluency": ""
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

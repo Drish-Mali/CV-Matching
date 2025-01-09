@@ -1,0 +1,160 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Level 2 Critical Platform Support Engineer",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Over 7+ years of IT experience specializing in CLOUD/Aix/LINUX/Solaris and WINDOWS Administration in Production Support. Strong background knowledge of Networking concepts and experience in Network Administration & Troubleshooting on AIX based systems.",
+    "location": {
+        "address": "",
+        "postalCode": "",
+        "city": "",
+        "countryCode": "",
+        "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Level 2 Critical Platform Support Engineer",
+      "url": "",
+      "startDate": "2014-02-01",
+      "endDate": "Current",
+      "summary": "System Administration and Monitoring in an environment of 1800+ servers that includes CLOUD, WINDOWS and UNIX/LINUX envirionments. Hands on experience on Amazon EC2 web services. Experience on Hybrid cloud operations and management.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Terradata Multi System Manager",
+      "url": "",
+      "startDate": "2013-02-01",
+      "endDate": "2014-01-01",
+      "summary": "Providing Production Support Engineer for over 45000 SERVERS of AIX/LINUX/SOLARIS. Working on wide range of softwares, utilities, applications and protocols.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "AIX/HP-UX Administrator",
+      "url": "",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Practical experience with installation, configuration, upgrade and administration of IBM pSeries and Power5 servers on various levels of AIX 5.2, 5.3, 6.1, 7.1 and HP-UX 11.3.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "AIX/Linux Administrator",
+      "url": "",
+      "startDate": "2011-01-01",
+      "endDate": "2011-12-01",
+      "summary": "Responsible for maintaining and administering 100 production IBM pSeries AIX 5.3/6.1 servers. Supporting a major initiative to migrate SAN storage utilized by HP-UX and AIX servers.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "AIX/Linux Administrator",
+      "url": "",
+      "startDate": "2009-01-01",
+      "endDate": "2010-11-01",
+      "summary": "Working in 100+ IBM servers Environment. Setup and configured TCP/IP network on LINUX and AIX.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "UNIX/AIX Linux System Engineer",
+      "url": "",
+      "startDate": "2007-09-01",
+      "endDate": "2008-11-01",
+      "summary": "Data center support for AIX (5.3/6.1)/Linux (red-hat enterprise (4/5) ) platforms. Monitoring TIBCO, Java and Oracle application running on UNIX server.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "",
+      "url": "",
+      "area": "Computer Science",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "CFS RAC FSs",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Operating Systems",
+      "level": "",
+      "keywords": [
+        "IBM AIX (v5.3, v6.1, v7.1)",
+        "Redhat Linux (v6.2,7.2,Enterprise Linux)",
+        "Oracle-Solaris 10"
+      ]
+    },
+    {
+      "name": "Hardware",
+      "level": "",
+      "keywords": [
+        "IBM Blade server",
+        "HMC",
+        "HP ILO",
+        "DELL IDRAC",
+        "Vsphere 5.0"
+      ]
+    },
+    {
+      "name": "Application Server",
+      "level": "",
+      "keywords": [
+        "AWS EC2",
+        "NIM",
+        "Apache",
+        "HACMP clustering",
+        "DNS",
+        "NIS",
+        "NFS",
+        "Websphere Application Server 6.x/5.x",
+        "Websphere Portal server",
+        "Windows 2000/2003 Active Directory",
+        "Microsoft IIS Server4/5",
+        "SSL",
+        "Distribution Server"
+      ]
+    },
+    {
+      "name": "Tools",
+      "level": "",
+      "keywords": [
+          "Nagios",
+          "Tivoli",
+          "Teradata MSM",
+          "HUBEQ",
+          "ITSM",
+          "Peregrine",
+          "SSO",
+          "EURC",
+          "MQ",
+          "EMS Tibco",
+          "Sharepoint"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

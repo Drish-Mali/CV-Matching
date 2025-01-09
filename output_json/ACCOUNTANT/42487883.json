@@ -1,0 +1,132 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Accountant",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "A detail oriented, efficient accountant that excels in managing multiple tasks in fast paced environments. A proven track record in meeting deadlines, streamlining processes and promoting a positive work environment. Articulate communicator known for delivering excellent customer service both internally and externally. Self-motivated team player who demonstrates a high level of quality work and professionalism",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Accountant",
+      "url": "",
+      "startDate": "2012-12-01",
+      "endDate": "",
+      "summary": "Compile and analyze financial information to prepare financial statements to be distributed internally and externally",
+      "highlights": [
+        "Account reconciliation expert",
+        "Analytical reasoning",
+        "Financial modeling",
+        "Effective time management",
+        "Variance Analysis",
+        "Superior research skills",
+        "Corporate G&A and COGS Accounting",
+        "Intermediate Excel Skills including Pivot Tables and V-Lookups",
+        "Cash Forecasting",
+        "Inventory Accounting",
+        "Capitalization and Fixed Assets"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Staff Accountant",
+      "url": "",
+      "startDate": "2008-09-01",
+      "endDate": "2012-12-01",
+      "summary": "Handled various accounting tasks",
+      "highlights": [
+        "Tracked capital improvement projects",
+        "Managed fixed assets", 
+        "Resolved discrepancies in monthly bank accounts", 
+        "Ensured accuracy of year-end audit schedules", 
+        "Recorded state and federal seizure and forfeiture funds"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Staff Accountant",
+      "url": "",
+      "startDate": "2006-12-01",
+      "endDate": "2008-05-01",
+      "summary": "Handled various accounting tasks",
+      "highlights": [
+        "Maintained capital expenditures", 
+        "Reconciled branch sales reports", 
+        "Audited Accounts Payable and Receivable"
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Accounting Assistant",
+      "url": "",
+      "startDate": "2005-03-01",
+      "endDate": "2006-12-01",
+      "summary": "Handled various accounting tasks",
+      "highlights": [
+        "Prepared and input daily and monthly journal entries", 
+        "Analyzed and reviewed expense reports", 
+        "Performed monthly balance sheet reconciliations"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Texas at Dallas",
+      "url": "",
+      "area": "Accounting and Information Management",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "University of Texas at Dallas",
+      "url": "",
+      "area": "Psychology",
+      "studyType": "Bachelor of Arts",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Accounting",
+      "level": "",
+      "keywords": [
+        "Account reconciliation", 
+        "Analytical reasoning", 
+        "Financial modeling", 
+        "Time management", 
+        "Variance Analysis", 
+        "Research skills", 
+        "Corporate G&A and COGS Accounting", 
+        "Excel", 
+        "Cash Forecasting", 
+        "Inventory Accounting", 
+        "Capitalization and Fixed Assets"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

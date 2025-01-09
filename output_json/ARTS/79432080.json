@@ -1,0 +1,89 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Creative Assistant",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Self-motivated individual with the ability to create and maintain a positive and unique relationship with coworkers and clients. Exhibits excellent time management skills, consistent, quality work and a drive to innovate and benefit the workplace. Looking to demonstrate my creative nature and passion for all genres of music.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Creative Assistant",
+      "url": "",
+      "startDate": "2013-07-01",
+      "endDate": "Current",
+      "summary": "Act as West Coast Representative of the CMI team for internal and external affairs. Attend showcases, concerts, events on behalf of VH1 CMI team. Maintained relations with label and publishing representatives on the West Coast. Successfully pitched new independent music from all genres to CMI Music team and various production companies for in show placements.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Licensing Assistant",
+      "url": "",
+      "startDate": "2012-06-01",
+      "endDate": "2013-06-01",
+      "summary": "Assist in administration of various high client�le catalogs. Help in negotiations regarding use of client's works in movies, television shows, ad campaigns, and other uses. Draft licenses for finalized deals. Manage all invoices and renewals.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Administrative Assistant",
+      "url": "",
+      "startDate": "2011-10-01",
+      "endDate": "2012-06-01",
+      "summary": "Acted as the initial point of contact for external affairs and high client�le. Managed data entry and review of confidential historical files. Edited and reviewed company emails and documents. Served as a liaison between client managers and external interested parties.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of California",
+      "url": "",
+      "area": "Human Development",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "2011",
+      "score": "",
+      "courses": [
+        "Research Methods",
+        "Statistics",
+        "Perception",
+        "The Media Industry",
+        "Scientific Reasoning"
+      ]
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Administrative Skills",
+      "level": "",
+      "keywords": [
+        "Microsoft Office",
+        "Experience in well-organized and aesthetic presentation",
+        "Strong leadership and ability to multitask alone or with a team",
+        "Ability to communicate effectively and positively",
+        "In-depth internet research skills",
+        "File/records maintenance",
+        "Contract negotiation/review/drafting",
+        "Results-oriented"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

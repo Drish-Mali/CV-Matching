@@ -1,0 +1,97 @@
+{
+  "basics": {
+    "name": "Joseph Mueller",
+    "label": "Adjunct Instructor",
+    "email": "",
+    "phone": "",
+    "url": "http://www.linkedin.com/in/josephmueller201",
+    "summary": "",
+    "location": {},
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Adjunct Instructor",
+      "url": "",
+      "startDate": "1999-01",
+      "endDate": "2014-11",
+      "summary": "Oversaw and facilitated development, QA and production of monthly metric dashboard packages across AIT that illustrates the organization's collective value and overall contribution for senior level reporting and review. Worked on other notable projects including designing and implementing a resource capacity management tool, founding the QA testing infrastructure and assuming the role of vendor management lead for procurement of HP's Requirement Management Tool (RMT) and APPTIO (Financial SAAS application).",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Software Developer/QA Project Lead, PRODIGY",
+      "url": "",
+      "startDate": "1988-01",
+      "endDate": "1996-01",
+      "summary": "Collaborated in the establishment of the QA Automation infrastructure through proof of concepts, benefits and impact analysis with Pramerica offshore team. Established the 1st automation infrastructure using Rational Software and base line regression test bed for Prudential's Annuities Technology line of business.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Software Developer",
+      "url": "",
+      "startDate": "1996-01",
+      "endDate": "1998-01",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of New Haven",
+      "url": "",
+      "area": "Computer Science",
+      "studyType": "MS",
+      "startDate": "",
+      "endDate": "1992",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Fairleigh Dickinson University",
+      "url": "",
+      "area": "Computer Science",
+      "studyType": "BS",
+      "startDate": "",
+      "endDate": "1985",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+      {
+      "name": "AIT",
+      "date": "",
+      "issuer": "",
+      "url": ""
+      }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Quality Engineering",
+      "level": "Professional",
+      "keywords": [
+        "QA",
+        "Offshore",
+        "Database",
+        "SDLC",
+        "Metrics",
+        "Project Planning",
+        "Excel",
+        "Rational",
+        "UAT",
+        "Vendor Management",
+        "Business Intelligence"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

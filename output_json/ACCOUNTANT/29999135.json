@@ -1,0 +1,103 @@
+{
+  "basics": {
+    "name": "Tam Bui",
+    "label": "Staff Accountant",
+    "email": "",
+    "phone": "",
+    "summary": "To pursue a challenging and reward career, which will allow me to utilize my background in accounting and business environment Ability to multi-task in a high paced deadline driven environment. Excellent in Microsoft Word, Microsoft Excel, and Microsoft Outlook. Skilled accountant with experience in the manufacture industry. Familiar with many accounting software such as DBA, Imaginary, Mainframe (AS400). Areas of expertise include AR, AP, accounts reconciliations, GL accounts, accrual accounts, month end closing procedures.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Staff Accountant",
+      "url": "",
+      "startDate": "2005-01-01",
+      "endDate": "Current",
+      "summary": "Maintain general ledger to include the preparation of journal entries, coding of invoices, accounts analysis and reconciliation, closing books monthly, balance sheet and income statement reconciliations. Responsible for the AR and AP processes and the timely collection of receivables and resolution of issues/discrepancies. File 1096 and 1099's forms and reports with government agencies annually. Perform bank reconciliation monthly, verify all deposits, address questions and problems from banking institutions. Prepare timecards for company payroll and other temporary agencies. Maintain and set up new customers/vendors accounts.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Sr. Accountant",
+      "url": "",
+      "startDate": "2017-06-01",
+      "endDate": "Current",
+      "summary": "Validate and process Warranty/Royalty claim accounts for payment requests. Update and maintain inventory standard cost for all divisions. Reconcile travel expense reports and prepare check request for reimbursement. Prepare shipments cutoff tests for month end closing. Reconcile commercial & military customer accounts. Reconcile account receivables/inter-company sales and prepare journal entries for month end closing. Contact customers to collect overdue accounts. Report the reasons for late payments and escalate within the organization to help achieve a timely resolution.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Controller Assistant",
+      "url": "",
+      "startDate": "1999-01-01",
+      "endDate": "2004-01-01",
+      "summary": "Worked directly with controller in preparation for monthly and yearly financial statements. Assisted all the accounting fields such as Accounts Payable, Accounts Receivable, Prepaid accounts. Bank Reconciliation for monthly, quarterly, and year-end. Assisted on cash collection.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Western Michigan University",
+      "url": "",
+      "area": "Accounting Business Administrative",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "1999",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Accounting",
+      "level": "",
+      "keywords": ["Accounts Payable", "Bank Reconciliation", "Financial Reports", "Financial Statements", "General Ledger"]
+    },
+    {
+      "name": "Self-motivation",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Communication",
+      "level": "Strong verbal",
+      "keywords": []
+    },
+    {
+      "name": "Negotiation",
+      "level": "Powerful",
+      "keywords": []
+    },
+    {
+      "name": "Finance",
+      "level": "Budgeting",
+      "keywords": []
+    },
+    {
+      "name": "Organization",
+      "level": "Extremely",
+      "keywords": []
+    },
+    {
+      "name": "Conflict Resolution",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "volunteer": [],
+  "awards": [],
+  "certificates": [],
+  "publications": []
+}

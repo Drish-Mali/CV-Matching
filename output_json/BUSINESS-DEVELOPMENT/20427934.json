@@ -1,0 +1,98 @@
+{
+  "basics": {
+    "name": "Not Provided",
+    "label": "Director of Business Development",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Director of Business Development",
+      "url": "",
+      "startDate": "May 2014",
+      "endDate": "Current",
+      "summary": "Work along side with the management team in an advisory capacity to investigate the needs and propose routes for the business to achieve its goals.",
+      "highlights": ["Implement agreed actions & achieve specific business objectives", "Managed the sales strategies/plans to keep it consistent with the company's long range strategic objectives", "Customer Experience transformation, leading the diagnostic and design phases."]
+    },
+    {
+      "name": "Company Name",
+      "position": "Fundraisor Director",
+      "url": "",
+      "startDate": "September 2012",
+      "endDate": "March 2014",
+      "summary": "Providing collaborative leadership and coordinates submission of interdisciplinary proposals to support capital and needs to advances the needs interests by researching and identifying sources of support or revenue generation.",
+      "highlights": ["Take the lead in developing new fundraising sources.", "Work closely with the Executive Director to increase profile and enhance our reputation within the donor community."]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "MIAMI DADE COLLEGE",
+      "url": "",
+      "area": "",
+      "studyType": "Associate of Arts",
+      "startDate": "",
+      "endDate": "May 2011",
+      "score": "4.0",
+      "courses": []
+    },
+    {
+      "institution": "ZAGREB SCHOOL OF ECONOMICS & MANAGEMENT",
+      "url": "",
+      "area": "",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "January 2001",
+      "score": "4.0",
+      "courses": []
+    },
+    {
+      "institution": "FLORIDA INTERNATIONAL UNIVERSITY",
+      "url": "",
+      "area": "Hospitality and Tourism Menagment Finance",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "December 2012",
+      "score": "3.9",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "CFA (CHARTERED FINANCIAL ANALYST, level 1",
+      "date": "December 2013",
+      "issuer": "FLORIDA INTERNATIONAL UNIVERSITY",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Software Development",
+      "level": "",
+      "keywords": ["Word", "Excel", "PowerPoint", "Adobe", "Java", "Oracle JD Edwards Enterprise", "Data Collection", "Internet", "Social Media"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English, Croatian, Cyrillic",
+      "fluency": "Multilingual"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

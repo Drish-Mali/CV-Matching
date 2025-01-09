@@ -1,0 +1,67 @@
+{
+  "basics": {
+    "name": "OWNER",
+    "label": "Manager and Customer Service Specialist",
+    "email": "",
+    "phone": "",
+    "summary": "Results-oriented individual with diverse background in management and customer service. Dedicated to providing excellent customer service and strong work ethic. Professional demeanor and great initiative.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Owner",
+      "startDate": "2014-04-01",
+      "endDate": "Current",
+      "summary": "Non-medical senior care, event and party planning, shopping for all occasions (wedding, showers, groceries, etc.) Pet/house sitting.",
+      "highlights": ["Handle customers effectively by identifying needs, quickly gaining trust, and resolving problems to maximize efficiency."]
+    },
+    {
+      "name": "Company Name",
+      "position": "Administrative Assistant/Clerk Intermediate Healthcare",
+      "startDate": "2010-10-01",
+      "endDate": "2014-05-01",
+      "summary": "Responsible for tracking all resident evaluations and compiling results for monthly Evaluation Committee Meeting. Ensuring all residents have completed all required components throughout their four year residency. Supervising various resident events. Registering residents for required courses and workshops throughout their four year residency. Working with faculty and staff to market and promote the residency program.",
+      "highlights": ["Aided in planning of various events including graduation, recruitment and orientation."]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Eastern Michigan University",
+      "area": "Language, Literature, Communication and Theater Arts Social Science",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": ["Early Childhood Education/Elementary Education"]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Organizational Skills",
+      "level": "Master",
+      "keywords": ["Microsoft Office proficiency", "Customer-oriented", "Bilingual", "Event planning", "Marketing and sales specialist", "Excellent interpersonal and coaching skills", "Staff development/training", "Internet savvy", "Curriculum development", "Clear public speaking skills", "Excellent classroom management", "Excellent reading comprehension"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "[Language]",
+      "fluency": "Bilingual"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Community Events",
+      "keywords": ["Planning", "Marketing", "Fundraising", "Contributing time to church and community activities", "Working with the elderly."]
+    }
+  ],
+  "references": [],
+  "projects": []
+}

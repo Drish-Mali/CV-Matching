@@ -1,0 +1,104 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Business Development Marketing Representative",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Motivated Marketing Manager specializing in budgeting, project management and staff training and development. Thoroughly understands client preferences and needs, and effectively manages sales teams to optimize customer satisfaction and boost sales.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Business Development Marketing Representative",
+      "url": "",
+      "startDate": "2000-01-01",
+      "endDate": "Current",
+      "summary": "Identified, developed and evaluated marketing strategies based on knowledge of company objectives and market trends. Incoming and out calls to Dealers and Consumers Maintain a healthy and reputable relationship with Dealers and Management. Negotiated favorable contract structures, fees and criteria exceptions.",
+      "highlights": [
+        "Created strategies to develop and expand existing customer sales",
+        "Managed a portfolio of [Number] accounts totaling $[Amount] in sales",
+        "Hired, trained and managed a team of [Number] successful product managers",
+        "Launched aggressive growth plans that helped increase customer base from [Number] to [Number] customers."
+      ]
+    },
+    {
+      "name": "Company Name",
+      "position": "Junior Accounting Clerk / Case Analyst / Skip Tracer",
+      "url": "",
+      "startDate": "1991-01-01",
+      "endDate": "2000-01-01",
+      "summary": "Collected data to prepare and draft settlement packages for clients.Drafted various court documents, invoices and enclosures at attorneys' request, reconciling over 1,300 payments, 2,000 invoices daily.",
+      "highlights": ["Managed communication with courts regarding status of petitions and granted orders"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Loan Processor",
+      "url": "",
+      "startDate": "1989-01-01",
+      "endDate": "1990-12-01",
+      "summary": "Adhered to all federal and state compliance guidelines relative to retail mortgage lending. Interviewed an average of [number] mortgage loan applicants per month.",
+      "highlights": ["Analyzed applicants' financial status, credit and property evaluation to determine feasibility of granting loan"]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Cypress Community College",
+      "url": "",
+      "area": "Accounting",
+      "studyType": "Certificate",
+      "startDate": "",
+      "endDate": "1995-01-01",
+      "score": "",
+      "courses": ["Accounting", "Finance", "Business Administration"]
+    },
+    {
+      "institution": "XXXX Seminar",
+      "url": "",
+      "area": "Management",
+      "studyType": "Certificate",
+      "startDate": "",
+      "endDate": "1111-01-01",
+      "score": "",
+      "courses": ["Completed Mortgage Underwriter training", "Legal Marketing and Management seminar"]
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Sales Account Management",
+      "level": "",
+      "keywords": ["Business Development", "Team Building", "Marketing Plans", "Territory Management", "Staff Management and training"]
+    },
+    {
+      "name": "Banking",
+      "level": "",
+      "keywords": ["Credit Decisions", "Credit Evaluation", "Advertising", "Business Development", "Buyer", "Buying/procurement", "Sales Calls", "Exceptions", "Internet Advertising", "Leads", "Marketing", "Problem Solving", "Filing", "Incoming Calls", "Accounting", "Billing", "Clerk", "Invoices", "Payments", "Skip Tracer", "Bankruptcy", "Mortgage Loans"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

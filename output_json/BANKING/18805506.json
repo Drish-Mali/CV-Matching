@@ -1,0 +1,94 @@
+{
+  "basics": {
+    "name": "Not Provided",
+    "label": "Senior Associate",
+    "email": "Not Provided",
+    "phone": "Not Provided",
+    "summary": "Seasoned Financial Markets professional with over 12 years of experience in Global Financial Markets Sales & Trading across the Corporate and Institutional space in India."
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Senior Associate",
+      "startDate": "2012-12",
+      "endDate": "2016-06",
+      "summary": "Primary responsibilities included providing Advisory & Execution to Corporate & Institutional clients across Foreign Exchange, Interest Rates & Commodities products in line with their Credit & Risk profile."
+    },
+    {
+      "name": "Company Name",
+      "position": "FX Dealer",
+      "startDate": "2009-05",
+      "endDate": "2012-12",
+      "summary": "Trading responsibilities included market making & proprietary trading in spot (USD/INR) & G7 currencies in the inter-bank market and also internal sales team."
+    },
+    {
+      "name": "Company Name",
+      "position": "Associate",
+      "startDate": "2004-05",
+      "endDate": "2009-03",
+      "summary": "Provide Advisory & Execution capabilities to manage Foreign Exchange & Interest Rate hedging flows for clients across the Corporate Coverage Group."
+    }
+  ],
+  "education": [
+    {
+      "institution": "S.I.E.S College of Management Studies",
+      "area": "Finance & Marketing",
+      "studyType": "Post Graduate Diploma in Business Administration",
+      "startDate": "Not Provided",
+      "endDate": "2004-05"
+    },
+    {
+      "institution": "Mumbai University",
+      "area": "Accounting and Finance",
+      "studyType": "Bachelor of Commerce",
+      "startDate": "Not Provided",
+      "endDate": "2001-03"
+    },
+    {
+      "institution": "Indian Merchant Chambers",
+      "area": "Export- Import Management",
+      "studyType": "Post Graduate Diploma",
+      "startDate": "Not Provided",
+      "endDate": "2001-12"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Client Relationship",
+      "level": "Not Provided"
+    },
+    {
+      "name": "Project Management",
+      "level": "Not Provided"
+    },  
+    {
+      "name": "Product Development",
+      "level": "Not Provided"
+    },  
+    {
+      "name": "Analytical Skills",
+      "level": "Not Provided"
+    },  
+    {
+      "name": "Risk Management",
+      "level": "Not Provided"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Not Provided"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Traveling and Photography"
+    }
+  ],
+  "references": [],
+  "projects": [],
+  "volunteer": [],
+  "awards": [],
+  "publications": [],
+  "certificates": []
+}

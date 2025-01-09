@@ -1,0 +1,95 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Business Development Specialist",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Results-oriented Sales and Business Development leader with Technical Background",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Business Development Specialist",
+      "url": "",
+      "startDate": "2015-03-01",
+      "endDate": "2016-09-01",
+      "summary": "Develop new business opportunities across the SAP Northeast Large Enterprise territory",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Sales Optimization Specialist (contracted)",
+      "url": "",
+      "startDate": "2014-01-01",
+      "endDate": "2015-03-01",
+      "summary": "Support Channel, Enterprise and Mid-Market Sales Teams with all sales processes",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Marketing Specialist",
+      "url": "",
+      "startDate": "2012-06-01",
+      "endDate": "2014-04-10",
+      "summary": "Microsoft Team Lead - Lead caller and liaison between Microsoft Client Success Associate and team of 23 Calling Agents.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Rio Salado",
+      "url": "",
+      "area": "General Studies",
+      "studyType": "A.A.",
+      "startDate": "",
+      "endDate": "2017-01-01",
+      "score": "",
+      "courses": ["Computer Technology Skills", "Technical Sales", "SAP", "Social Selling", "Business Development", "SPIN Selling", "Network Security", "Relationship Building", "Channel Partners", "Cold Calling"]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Microsoft M.V.P.",
+      "date": "2013-01-01",
+      "awarder": "Microsoft",
+      "summary": "Awarded six consecutive quarters for consistent top performer"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Business Development",
+      "level": "",
+      "keywords": ["SAP CRM", "MS Office", "SPIN Selling", "BANT sales approach"]
+    },
+    {
+      "name": "Communication",
+      "level": "",
+      "keywords": ["Excellent written, oral, and interpersonal communication skills"]
+    },
+    {
+      "name": "Problem-solving",
+      "level": "",
+      "keywords": ["Strong analytical, problem-solving, and conceptual skills"]
+    },
+    {
+      "name": "Leadership",
+      "level": "",
+      "keywords": ["Works well in a team environment and independent assignments"]
+    },
+    {
+      "name": "Planning & Organizing",
+      "level": "",
+      "keywords": ["Ability to plan, schedule and prioritize daily activities"]
+    }
+  ]
+}

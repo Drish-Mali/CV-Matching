@@ -1,0 +1,100 @@
+{"basics": {
+    "name": "Not Provided",
+    "label": "Engineering Manager",
+    "image": "",
+    "email": "Not Provided",
+    "phone": "Not Provided",
+    "url": "Not Provided",
+    "summary": "Experienced product development Engineer and manager able to collaborate with cross functional team as well as customers and sales to bring brand new offerings to new markets. Skilled at managing cross functional team for continuous improvements and meeting project deadlines. Offering 6 years of experience in the field.",
+    "location": {
+      "address": "City",
+      "postalCode": "State",
+      "city": "City",
+      "countryCode": "Not Provided",
+      "region": "State"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Not Provided",
+      "position": "Engineering Manager",
+      "url": "Not Provided",
+      "startDate": "03/2018",
+      "endDate": "Current",
+      "summary": "Create and maintain Technical Files per MDR requirements as well as attaining 510k on legacy products. Assess testing gaps of legacy products and design creep. Experienced in working with multiple departments. Experienced in training and leading engineers in order to investigate field complaints, Gap analysis and building Technical files/DHF.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Project Engineer II",
+      "url": "Not Provided",
+      "startDate": "03/2017",
+      "endDate": "03/2018",
+      "summary": "Working with product management, Clinical Analyst, sales, and regulatory to determine optimal design inputs for new products. Completed design transfer and attained 510k on Class IIb device in under year. Lead cross functional team including consulting agency in order to Develop drug device combination product and research optimal process using DOE in order for mass production.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Engineer I",
+      "url": "Not Provided",
+      "startDate": "06/2013",
+      "endDate": "03/2017",
+      "summary": "Worked to bring Drug Device Combination product to mass production. Completed new Class IIa product and completed project in 10 months. Completing CAPAs and resolving field failures by research and testing.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Temple University",
+      "url": "Not Provided",
+      "area": "Mechanical Engineering",
+      "studyType": "Bachelor of Science",
+      "startDate": "Not Provided",
+      "endDate": "05/2013",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+  ],
+  "certificates": [
+    {
+      "name": "Management Leadership Certification and Six Sigma Greenbelt certification",
+      "date": "Not Provided",
+      "issuer": "Not Provided",
+      "url": "Not Provided"
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Engineering",
+      "level": "Manager",
+      "keywords": [
+        "Microsoft Office",
+        "Microsoft Project",
+        "Product development",
+        "Quality",
+        "Research",
+        "Six Sigma Green Belt",
+        "Solid Works",
+        "Visio",
+        "Prioritization",
+        "Personnel management",
+        "Critical thinking skills",
+        "Team management",
+        "Develop drug",
+        "Functional IIa",
+        "ISO",
+        "Leadership",
+        "Market and development"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

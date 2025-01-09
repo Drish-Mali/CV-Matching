@@ -1,0 +1,133 @@
+{
+  "basics": {
+    "name": "Not Provided",
+    "label": "Sr. Project Management Associate",
+    "email": "Not Provided",
+    "phone": "Not Provided",
+    "summary": "Results-oriented Project Administrator with 14+ years' experience in the toy manufacturing industry. Meticulous and collaborative professional with unsurpassed skill at managing diverse needs in deadline-driven environments.",
+    "location": {
+      "address": "Not Provided",
+      "postalCode": "Not Provided",
+      "city": "Not Provided",
+      "countryCode": "Not Provided",
+      "region": "Not Provided"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Sr. Project Management Associate",
+      "startDate": "November 2010",
+      "endDate": "Current",
+      "summary": "Barbie Product Development Manage...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Administrative Assistant",
+      "startDate": "April 2008",
+      "endDate": "November 2010",
+      "summary": "Design Assist VP of Design...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Administrative Assistant",
+      "startDate": "May 2007",
+      "endDate": "August 2007",
+      "summary": "Assist one Executive...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Intern, Office Manager Assistant",
+      "startDate": "September 2006",
+      "endDate": "January 2007",
+      "summary": "Maintain and manage our high end fashion showroom...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Sales Associate",
+      "startDate": "March 2006",
+      "endDate": "September 2006",
+      "summary": "Ensure that customers have a rewarding experience...",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Project Administrator",
+      "startDate": "October 1999",
+      "endDate": "February 2006",
+      "summary": "Barbie Product Development/Samples Administrator Manage...",
+      "highlights": [
+        "Received awards for Best New Product launch for the 2004 Product Line",
+        "Received award for Excellent Customer Service"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Phoenix",
+      "area": "Business Management",
+      "studyType": "Bachelor of Science Degree",
+      "startDate": "Not Provided",
+      "endDate": "05/2010",
+      "courses": []
+    },
+    {
+      "institution": "American Intercontinental University",
+      "area": "Merchandising and Design",
+      "studyType": "Not Provided",
+      "startDate": "Not Provided",
+      "endDate": "9/2007",
+      "courses": []
+    },
+    {
+      "institution": "California State University",
+      "area": "Business Administration Marketing",
+      "studyType": "Not Provided",
+      "startDate": "Not Provided",
+      "endDate": "5/1998",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Time management ability",
+      "level": "Not Provided",
+      "keywords": []
+    },
+    {
+      "name": "Professional demeanor",
+      "level": "Not Provided",
+      "keywords": []
+    },
+    {
+      "name": "Schedule management",
+      "level": "Not Provided",
+      "keywords": []
+    },
+    {
+      "name": "Problem resolution",
+      "level": "Not Provided",
+      "keywords": []
+    },
+    {
+      "name": "Deadline-oriented",
+      "level": "Not Provided",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Office",
+      "level": "Not Provided",
+      "keywords": []
+    },
+    {
+      "name": "Agile",
+      "level": "Not Provided",
+      "keywords": []
+    }
+  ]
+}

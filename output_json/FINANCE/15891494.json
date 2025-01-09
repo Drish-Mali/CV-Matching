@@ -1,0 +1,80 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Finance Officer",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "An experience Accountant and data base worker who has developed a strong accounting background working with Data Base and Accounting packages for over four years. Team oriented individual with good interpersonal skill and a demonstrated ability to accurately evaluate customer requirement and complete related tasks / project which satisfy or exceed customer requirement on time.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "City",
+      "countryCode": "SL",
+      "region": "Sierra Leone"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Finance Officer",
+      "startDate": "2014-04-01",
+      "endDate": "2016-01-01",
+      "summary": "Develop internal control policies, guidelines, and procedures for activities such as budget administration, cash and credit management, and accounting. Coordinate and direct the financial planning, budgeting, procurement, or investment activities of all or part of an organization."
+    },
+    {
+      "name": "Company Name",
+      "position": "Administrative/Finance Officer",
+      "startDate": "2013-04-01",
+      "endDate": "2013-10-01",
+      "summary": "Supervising and monitoring the sheet from haulage work at London Mining. Perform payroll functions, such as maintaining timekeeping information and processing and submitting payroll."
+    },
+    {
+      "name": "Company Name",
+      "position": "Data Entry Supervisor",
+      "startDate": "2013-04-01",
+      "endDate": "2013-10-01",
+      "summary": "Reporting to the Senior Supervisor on the Data Collected during surveys. Supervising the output of colleagues to ensure the work is done orderly and on time."
+    },
+    {
+      "name": "Company Name",
+      "position": "Compliance and Internal Controls Officer",
+      "startDate": "2012-09-01",
+      "endDate": "2013-04-01",
+      "summary": "Daily reconciliation for four(4) Banks international bank accounts. Weekly report on all activities in the bank."
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Fourah Bay College",
+      "area": "Accounting and Finance",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "2013",
+      "score": "Graduated with honors",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Financial Analysis",
+      "level": "Expert",
+      "keywords": ["Financial Analysis", "Account Reconciliation", "Compliance Testing", "Financial Planner", "Financial Statement Analysis", "Effective Time Management"]
+    }
+  ],
+  "languages": [],
+  "interests": [
+    {
+      "name": "Volunteering",
+      "keywords": ["Lunch Box", "Student Government", "Student Sports Club"]
+    }
+  ],
+  "references": [],
+  "projects": []
+}

@@ -1,0 +1,129 @@
+{
+  "basics": {
+    "name": "N/A",
+    "label": "ENGINEERING SERVICES MANAGER",
+    "image": "",
+    "email": "N/A",
+    "phone": "N/A",
+    "url": "N/A",
+    "summary": "A results driven Controls Engineer and Project Manager with over 20 years of experience in manufacturing. Skilled in Industrial Automation and Process Engineering with a strong mechanical design background. Proven ability to lead and motivate high performance teams. History of building systems with improved functionality and productivity, consistently meeting critical requirements.",
+    "location": {
+      "address": "N/A",
+      "postalCode": "N/A",
+      "city": "N/A",
+      "countryCode": "N/A",
+      "region": "N/A"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Engineering Services Manager",
+      "url": "N/A",
+      "startDate": "2013-02-01",
+      "endDate": "2015-08-01",
+      "summary": "Accountable for maintaining the efficiency and effectiveness of all production manufacturing processes required to manufacture a high quality product in a repeatable and cost effective manner and provide overall customer satisfaction. Managed all engineering services with provision of all energy sources. Accountable for all mechanical repairs, design and construction within all departments and the resources engaged in the provision of these services both internal and external.",
+      "highlights": ["Developed asset management software to track cost, asset history and work order tracking", "Performed advanced troubleshooting and PLC support for all plant equipment."]
+    },
+    {
+      "name": "Company Name",
+      "position": "Electrical Superintendent",
+      "url": "N/A",
+      "startDate": "2008-05-01",
+      "endDate": "2013-02-01",
+      "summary": "Primary responsibilities include supervising and coordinating all electrical and instrumentation activities. Accountable for the proper operation of all automation and controls on production equipment, power distribution systems, plant communications (phones, networks) and security systems.",
+      "highlights": ["Managed projects for installation of new equipment, from design concept to installation and start up."]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Yuba Community College",
+      "url": "N/A",
+      "area": "Business Management",
+      "studyType": "Select One",
+      "startDate": "N/A",
+      "endDate": "2004",
+      "score": "N/A",
+      "courses": []
+    },
+    {
+      "institution": "Butte College",
+      "url": "N/A",
+      "area": "Basic Electronics, Drafting",
+      "studyType": "NEEC Building Operator Certification",
+      "startDate": "N/A",
+      "endDate": "2003",
+      "score": "N/A",
+      "courses": []
+    },
+    {
+      "institution": "Elk Creek High School",
+      "url": "N/A",
+      "area": "N/A",
+      "studyType": "High School Diploma",
+      "startDate": "N/A",
+      "endDate": "1985",
+      "score": "N/A",
+      "courses": []
+    },
+    {
+      "institution": "Better Process Control School",
+      "url": "N/A",
+      "area": "N/A",
+      "studyType": "Select One",
+      "startDate": "N/A",
+      "endDate": "N/A",
+      "score": "N/A",
+      "courses": []
+    },
+    {
+      "institution": "NEEC Building Operator",
+      "url": "N/A",
+      "area": "N/A",
+      "studyType": "Level 1",
+      "startDate": "N/A",
+      "endDate": "N/A",
+      "score": "N/A",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "AIB - HACCP Online Course - Haccp/Food Safety",
+      "date": "2015",
+      "issuer": "N/A",
+      "url": "N/A"
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Process engineering",
+      "level": "Proficient",
+      "keywords": []
+    },
+    {
+      "name": "Industrial automation",
+      "level": "Proficient",
+      "keywords": []
+    },
+    {
+      "name": "Troubleshooting PLC",
+      "level": "Proficient",
+      "keywords": []
+    },
+    {
+      "name": "Electrical systems management",
+      "level": "Proficient",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": [
+  ]
+}

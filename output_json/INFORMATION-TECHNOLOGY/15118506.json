@@ -1,0 +1,130 @@
+{
+  "basics": {
+    "name": "Unknown",
+    "label": "Director of Information Technology",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "www.linkedin.com/in/RobertRJordan",
+    "summary": "Innovative executive and technology professional with strong work ethic and excellent communication skills, experienced in high-volume, multi-unit, retail and business operations. Desires a high-level position in a professional business environment.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "RobertRJordan",
+        "url": "www.linkedin.com/in/RobertRJordan"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Director of Information Technology",
+      "url": "",
+      "startDate": "2012-11",
+      "endDate": "Current",
+      "summary": "Developed and implemented the IT strategy for the organization including software, support and infrastructure. Hired, developed, and managed IT staff. Negotiated terms and products from external vendors, including changes needed as business needs changed. Met and exceeded goals set by executive leadership accomplishing both time and financial gains. Set annual budgets for organizational technology needs.",
+      "highlights": []
+    },  
+    {
+      "name": "Company Name",
+      "position": "IT Administrator",
+      "url": "",
+      "startDate": "2008-03",
+      "endDate": "2012-11",
+      "summary": "Planned, installed and managed several technologies and systems. Managed help desk, utilizing ITIL framework for 260 end users. Executed break/fix for a variety of systems. Successfully migrated 120 users from physical computers to zero clients utilizing the VDI environment.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "New Car Sales",
+      "url": "",
+      "startDate": "2005-08",
+      "endDate": "2008-02",
+      "summary": "Recognized by Toyota as one of the top salespeople in the Chicago Region.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "IT Consultant",
+      "url": "",
+      "startDate": "2000-01",
+      "endDate": "2005-08",
+      "summary": "Provided IT consultation and implementation of retail cash register networks. Managed staff of more than 10 independent IT contractors in implementation of contract projects. Acted as project manager for new equipment and software roll outs for some of the largest retail chains in the US including Wal-Mart, Mar-Maxx, and Toys 'R Us.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Cardinal Stritch University",
+      "url": "",
+      "area": "Management Information Systems",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "VMware Certified Professional 5 - Data Center Virtualization",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "VMware Certified Professional 5 - Desktop Virtualization",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "ITIL Foundation Certified",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "Microsoft Certified Professional - Server 2012",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "IT",
+      "level": "Expert",
+      "keywords": [
+        "Microsoft Server 2003, 2008, 2012",
+        "Exchange Server 2007, 2010",
+        "VMware ESXi",
+        "VMware vCenter",
+        "VMware Horizon View 5.x, 6.x, and 7.x",
+        "Microsoft Hyper-V",
+        "Cisco UCM and Unity",
+        "Help Desk",
+        "ITIL Service Catalog",
+        "Vendor Management",
+        "Budgeting",
+        "Project Management",
+        "SLA Management",
+        "Asset Management"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

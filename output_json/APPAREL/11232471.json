@@ -1,0 +1,89 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Softlines Manager",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Experienced Retail Sales Manager, known for hiring and training solid, long-term staff, adept at problem solving, who posses a strong background in Visual Merchandising.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Softlines Manager",
+      "url": "",
+      "startDate": "2011-03",
+      "endDate": "Current",
+      "summary": "Managed the Sales performance of the Footwear and Apparel associates to meet sales and margin goals. Implemented game plans in the Apparel and Footwear Departments to maximize sales. Interviewed, hired, and trained essential staff. Granted title of 'Store Human Resource Adviser' to issue appropriate counceling to all store associates.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Apparel Sales Leader",
+      "startDate": "2006-12",
+      "endDate": "2011-03",
+      "summary": "Assisted the store management team with general supervision in the store in accordance with company policies and procedures. Implemented merchandise presentation standards and signage of the apparel department to meet company standards. Maximized profits by supporting company standards of selling and customer service. Educated new staff on merchandising and selling standards of Dick's Sporting Goods.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Nike Brand Coordinator",
+      "startDate": "2005-10",
+      "endDate": "2006-12",
+      "summary": "Encompassed the Nike brand image, ensuring the highest standards of visual presentation at all times. Introduced new product lines by highlighting features and benefits. Coached and inspired store associates to maintain the Nike retail presence. Increased profitability of sales on an average of 4% yearly.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Mount Everett Regional High School",
+      "url": "",
+      "area": "General Studies",
+      "studyType": "High School Diploma",
+      "startDate": "2000",
+      "endDate": "2000",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Shrink Defender of the Month",
+      "date": "2008-08, 2009-07, 2010-12, 2011-02, 2014-04",
+      "awarder": "",
+      "summary": "Enforcing company policies and procedures to ensure the protection of company assets."
+    }
+  ],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Game-plan Execution and Enhancement",
+      "level": "Master",
+      "keywords": []
+    },
+    {
+      "name": "Store Procedures",
+      "level": "Proficient",
+      "keywords": [
+        "Opening procedures",
+        "Closing procedures",
+        "Cash office execution"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

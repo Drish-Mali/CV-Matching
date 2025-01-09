@@ -1,0 +1,123 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Customer Service Agent",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Customer Service Agent with 10 years of experience in helping people with their everyday needs and concerns over the phone and in person. Experience with handling complex inquires and situations with discretion and efficacy at all times.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Customer Service Agent",
+      "url": "",
+      "startDate": "2020-11-01",
+      "endDate": "Current",
+      "summary": "Assessed passenger documentation to determine destinations and to assign boarding passes. Confer with customers to determine their service requirements and travel preferences. Replied to inquiries regarding schedules, accommodations, procedures, and policies. Provide clients with assistance in preparing required travel documents and forms. Responded politely to passenger complaints regarding ticketing and baggage handling.",
+      "highlights": []
+    },
+    {
+      "name": "G2 Secure Staff",
+      "position": "Customer Service Agent",
+      "url": "",
+      "startDate": "2016-12-01",
+      "endDate": "2020-11-01",
+      "summary": "Examine passenger documentation to determine destinations and to assign boarding passes. Provide boarding or disembarking assistance to passengers needing special assistance. Confer with customers to determine their service requirements and travel preferences. Replied to inquiries regarding schedules, accommodations, procedures, and policies. Provide clients with assistance in preparing required travel documents and forms. Responded to passenger complaints regarding ticketing and baggage handling.",
+      "highlights": []
+    },
+    {
+      "name": "N/A",
+      "position": "Customer Service Representative",
+      "url": "",
+      "startDate": "2010-01-01",
+      "endDate": "2020-12-01",
+      "summary": "Consulted with customers by telephone or in person to provide information about products or services. Operate office machines such as, photocopiers and scanners, facsimile machines, voice mail systems, and personal computers.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Recreation Assistant",
+      "url": "",
+      "startDate": "2016-10-01",
+      "endDate": "2016-12-01",
+      "summary": "Enforce rules and regulations of recreational facilities to maintain discipline and ensure safety. Organize, lead, and promote interest in art, crafts, sports, games, camping, and hobbies. Meet with staff to discuss rules, regulations and work-related problems.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Library Assistant",
+      "url": "",
+      "startDate": "2013-10-01",
+      "endDate": "2013-12-01",
+      "summary": "Maintain photocopiers, scanners, computers, and instruct patrons in proper use of such equipment. Oversaw check-in and check-out process of library books and materials at circulation desk. Replied to patrons' questions and assisted in finding materials requested.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Los Angeles Southwest College",
+      "url": "",
+      "area": "Interdisciplinary Studies/Social and Behavioral Sciences",
+      "studyType": "AA",
+      "startDate": "",
+      "endDate": "2016",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Junipero Serra High School",
+      "url": "",
+      "area": "General Studies",
+      "studyType": "High School Diploma",
+      "startDate": "",
+      "endDate": "2011",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Customer Service",
+      "level": "",
+      "keywords": [
+        "Microsoft Office",
+        "Art",
+        "Clients",
+        "Documentation",
+        "Facsimile",
+        "Forms",
+        "Materials",
+        "Mediation",
+        "Office machines",
+        "Photocopiers",
+        "Policies",
+        "Quality",
+        "Safety",
+        "Scanners",
+        "Supervision",
+        "Telephone",
+        "Troubleshooting",
+        "Voice mail",
+        "Well organized"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

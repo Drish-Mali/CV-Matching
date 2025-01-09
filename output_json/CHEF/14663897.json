@@ -1,0 +1,103 @@
+{
+  "basics": {
+    "name": "CChHecEkF",
+    "label": "Chef",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Passionate Chef with broad background in various culinary styles and positions. A natural leader with excellent interpersonal communication skills and the ability to get things done overcoming any obstacles.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Chef",
+      "url": "",
+      "startDate": "Oct 2016",
+      "endDate": "Current",
+      "summary": "All aspects of an independently operated Hospital kitchen including staffing, payroll, menus, inventory/ordering, P&L, employee training and discipline, cleaning and equipment maintenance.",
+      "highlights": ["Reduced food costs by expertly estimating purchasing needs and buying through approved suppliers."]
+    },
+    {
+      "name": "Company Name",
+      "position": "Chef Supervisor",
+      "url": "",
+      "startDate": "Aug 2015",
+      "endDate": "Oct 2016",
+      "summary": "Monitor sanitation practices to ensure that employees follow standards and regulations. Preparing specialized menus for children with dietary needs and requirements. Direct activities of one or more workers who assist in preparing and serving meals.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Executive Chef/Owner/GM",
+      "url": "",
+      "startDate": "Aug 2012",
+      "endDate": "Aug 2015",
+      "summary": "Monitor compliance with health and fire regulations regarding food preparation and serving, and building maintenance in lodging and dining facilities. Count money and make bank deposits. ",
+      "highlights": ["Recruit and hire staff, such as cooks and other kitchen workers."]
+    },
+    {
+      "name": "Company Name",
+      "position": "Restaurant / Kitchen & Bar Manager",
+      "url": "",
+      "startDate": "Aug 2009",
+      "endDate": "Aug 2012",
+      "summary": "",
+      "highlights":[]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Newington High School",
+      "url": "",
+      "area": "",
+      "studyType": "High School Diploma",
+      "startDate": "",
+      "endDate": "Jun 1991",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Voted Best Restaurant",
+      "date": "2013",
+      "awarder": "",
+      "summary": ""
+    },
+    {
+      "title": "Multiple 'Best Of' accolades",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "certificates": [
+     {
+      "name": "National Registry of Food Safety Professionals Certified Food Safety Manager",
+      "date": "",
+      "issuer": "National Registry of Food Safety Professionals",
+      "url": ""
+    },
+    {
+      "name": "National Registry of Food Safety Professionals Test Administrator/Proctor",
+      "date": "",
+      "issuer": "National Registry of Food Safety Professionals",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

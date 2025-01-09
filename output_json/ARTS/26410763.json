@@ -1,0 +1,120 @@
+{
+  "basics": {
+    "name": "",
+    "label": "Game Design Intern",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "I am an aspiring programming professional with experience in concessions management, customer service, and team leadership",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "US",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Game Design Intern",
+      "url": "",
+      "startDate": "2016-11-01",
+      "endDate": "Current",
+      "summary": "Oversight of documentation and file organization. Level Designer, including enemy, items, and basic layout. Co-Designer for general game mechanics.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Concessions Supervisor",
+      "url": "",
+      "startDate": "2016-06-01",
+      "endDate": "Current",
+      "summary": "Served as mentor to junior team members. Filled out daily paperwork; inventory logs, staff time logs, etc. Oversight of multiple concession stands serving a variety of items.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Food Service Clerk",
+      "url": "",
+      "startDate": "2014-09-01",
+      "endDate": "2015-07-01",
+      "summary": "Prepared food items and cooked on a grill or in fryers. Carefully maintained sanitation, health and safety standards in all work areas. Performed general maintenance duties. Took necessary steps to meet customer needs and effectively resolve food or service issues.",
+      "highlights": []
+    },
+    {
+      "name": "Company Name",
+      "position": "Customer Service Representative / Cook",
+      "url": "",
+      "startDate": "2013-01-01",
+      "endDate": "2014-08-01",
+      "summary": "Prepared items according to written or verbal orders while performing extensive multitasking. Cleaned food preparation areas, cooking surfaces, and utensils. Closely followed standard protocols for safe food preparation, assembly, and presentation to ensure customer satisfaction. Assisted manager in ensuring smooth operation of store in all aspects.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Alpha Phi Omega",
+      "position": "Member",
+      "url": "",
+      "startDate": "2015-09-01",
+      "endDate": "2016-05-01",
+      "summary": "100+ hours of various volunteer services.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "New Tech High @ Coppell",
+      "url": "",
+      "area": "",
+      "studyType": "High School Diploma",
+      "startDate": "",
+      "endDate": "2015-01-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Texas A&M University",
+      "url": "",
+      "area": "Computer Science",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "2019-01-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Team Member of the Month",
+      "date": "",
+      "awarder": "Market Street grocery store",
+      "summary": ""
+    }
+  ],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Programming and Mathematics",
+      "level": "",
+      "keywords": [
+        "C++", "Java", "Ruby", "MatLab", "Linux/Unix Command Line", "LaTex", "Microsoft Office Package", "Basic Data-Structure Construction and Management", "Advanced Calculus", "Discrete Mathematics", "Linear Algebra"
+      ]
+    },
+    {
+      "name": "Food Service",
+      "level": "",
+      "keywords": [
+        "Working in a fast paced environment", "Managing a large volume of orders", "Working in a changing environment with diverse team members", "Maintaining sanitation and complying with food safety regulations", "Oversight of daily business income"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

@@ -1,0 +1,66 @@
+{
+  "basics": {
+    "name": "Staff Accountant",
+    "label": "Accountant",
+    "summary": "Flexible Accountant who adapts seamlessly to constantly evolving accounting processes and technologies.",
+    "highlights": ["10 years of practical accounting experience", "Full lifecycle implementation", "Prior Management experience", "Prior experience using MS Excel, JD Edwards, QuickBooks, AX, and RFMS on an expert level"],
+    "location": {},
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Company Name",
+      "position": "Staff Accountant",
+      "startDate": "January 2016",
+      "summary": "Involvement with month-end closing process...",
+      "highlights": ["Prepare and reconcile full cycle monthly financial statements", "Review financial projections versus actual results", "Support all financial audits and examinations", "Assist in preparation of the balance sheet"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Accounting Manager/ JDE Business Analyst",
+      "startDate": "February 2012",
+      "endDate": "August 2015",
+      "summary": "Oversee entire receivable functions to include job costing, billing...",
+      "highlights": ["Supervise and manage the workflow of assigned staff", "Provide analysis and interpretation of accounting issues", "Develop and implement policies, procedures, and systems", "Act as key facilitator of ERP selection and implementation"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Administrative Accountant",
+      "startDate": "August 2011",
+      "endDate": "January 2012",
+      "summary": "Public Accounting Work with QuickBooks...",
+      "highlights": ["Creating work papers for multiple clients", "Work with Microsoft office on a daily basis", "Payroll experience"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Executive Assistant",
+      "startDate": "September 2007",
+      "endDate": "April 2008",
+      "summary": "Worked with QuickBooks and Fishbowl...",
+      "highlights": ["Worked between 20 - 25 hours per week while a sophomore at USF", "Handled customer and vendor reports and information"]
+    },
+    {
+      "name": "Company Name",
+      "position": "Accounting Assistant",
+      "startDate": "August 2006",
+      "endDate": "September 2011",
+      "summary": "Worked with QuickBooks...",
+      "highlights": ["Work 15 - 20 hours while in high school to save for college", "File all customer and vendor reports and information"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of South Florida",
+      "area": "Accounting",
+      "studyType": "Bachelor of Science",
+      "endDate": "December 2010"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Accounting",
+      "level": "Master",
+      "keywords": ["A/P", "auditing", "balance sheet", "Bank Reconciliations", "billing", "budget", "business operations", "business processes", "contracts", "clients", "decision making", "ERP", "financial", "financial audits", "financial statements", "forms", "JD Edwards", "job costing", "materials", "MS Excel", "Microsoft office", "month-end closing", "Payroll", "policies", "pricing", "Public Accounting", "QuickBooks", "receiving", "reporting", "risk management", "staffing", "supervisory"]
+    }
+  ]
+}
