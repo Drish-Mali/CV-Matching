@@ -160,8 +160,12 @@ db_config = {
     "port": os.getenv("PORT")
 }
 
-# Function to generate embeddings
 def generate_query_embeddings(work_experience, education, skills):
+    # Handle None values by replacing them with an empty string
+    work_experience = work_experience or ""
+    education = education or ""
+    skills = skills or ""
+
     model = SentenceTransformer('all-MiniLM-L6-v2')
     return {
         "work_experience_embedding": model.encode(work_experience),
@@ -401,7 +405,9 @@ async def process_with_chatgpt_jd(text):
         messages=[
             {"role": "system", "content": "You are a helpful assistant."},
             {"role": "user", "content": prompt}
-        ]
+        ],
+        temperature=0
+
     )
     result = response.choices[0].message.content
     return result
@@ -414,7 +420,7 @@ async def extract_top_k_cv(job_description,top_k):
     df=pd.Series(result)
     print(df)
     df.fillna('',inplace=True)
-    results=query_top_k_similar_cv(parsed_result.get("work_experience", {}), parsed_result.get("education", {}), parsed_result.get("skills", {}), db_config,top_k)
+    results=query_top_k_similar_cv(parsed_result.get("work_experience", {""}), parsed_result.get("education", {""}), parsed_result.get("skills", {""}), db_config,top_k)
     formatted_results = [
         {"id": result[0], "cv_id": result[1], "distance": result[2]} for result in results
     ]
@@ -439,32 +445,6 @@ async def extract_top_k_cv_endpoint(request:CVRequest):
     """
     job_description=request.job_description
     top_k=request.top_k
-    #job_description="bachelors degree or equivalent practical experience years of experience in saas or productivity tools businessexperience managing enterprise accounts with sales cycles"
-#     job_description = """
-# Web designers looking to expand your professional reach, welcome to Robert Half Marketing & Creative. Start the process with Robert Half today.
-
-# We are searching for highly skilled web designers with experience working within corporate brand standards and guidelines. The ideal candidates would have advanced skills in creating wireframes, designing mobile applications, landing pages, interactive sites, QA testing, experience working with various interfaces, and familiarity with UX/UI design principles. Candidates are expected to have strong skills in Adobe Photoshop, Illustrator, and InDesign. Any experience in HTML, CSS, and JavaScript is a major plus. Familiarity with content management systems is highly preferred.
-
-# There is nothing more satisfying when looking for freelance and full-time creative opportunities than working with someone who knows your area of expertise. As industry professionals, Robert Half Marketing & Creative is a team that puts your needs first and effectively represents you as a creative talent. That's the kind of service you'll receive from our team at Robert Half.
-
-# We have marketing, advertising, and creative backgrounds just like yours—so we’re on your side right from the start. Could you ask for a better support team?
-
-# Requirements:
-# - 2+ years of experience in a web design role.
-# - Experience working within a client's brand standards or guidelines.
-# - Advanced skill in the Adobe Creative Cloud.
-
-# Innovation starts with people.
-
-# Robert Half is the world’s first and largest specialized talent solutions firm that connects highly qualified job seekers to opportunities at great companies. We offer contract, temporary, and permanent placement solutions for finance and accounting, technology, marketing and creative, legal, and administrative and customer support roles.
-
-# Robert Half puts you in the best position to succeed by advocating on your behalf and promoting you to employers. We provide access to top jobs, competitive compensation and benefits, and free online training. Stay on top of every opportunity—even on the go.
-
-# Questions? Call your local office at [number]. Robert Half will consider qualified applicants with criminal histories in a manner consistent with the requirements of the San Francisco Fair Chance Ordinance. All applicants applying for U.S. job openings must be legally authorized to work in the United States. Benefits are available to temporary professionals. Visit [website] for more information.
-
-# Robert Half is an Equal Opportunity Employer M/F/Disability/Veterans. By clicking "Apply Now," you’re agreeing to our terms.
-# """
-
     top_k_results = await extract_top_k_cv(job_description=job_description,top_k=top_k)
     return {"results": top_k_results}
 

@@ -1,37 +1,28 @@
 
 
 ## Introduction
-This project aims to a)parse given resume with multi-language support b) provide job recoomendation given a CV ( top K jobs reccomendation in JSON fromat c) provide top k candidates CV reccomendation given a job description.
+This project aims to a) parse given resume with multi-language support, b) provide job recoomendation given a CV ( top K jobs reccomendation in JSON fromat  and c) provide top k candidates CV reccomendation given a job description.
 
 The project genrates reccomendations based on work experince, education and skills which is extracted from both the resume and job description.
 
 ## Installation and Run API end point
 To install the required dependencies and run FastAPI, run the following command:
-1. Install dependencies:
-```
-python -m pip install -r requirements.txt
 
+1. Setup .env appropriately with the following fields:
 ```
-2. Setup the pgvector:
+OPENAI_API_KEY=' YOUR_OPEN_API_KEY'
+DBNAME=vector_db
+USER=postgres
+PASSWORD=pass123
+PORT=5432
+HOST=db
 ```
-docker pull ankane/pgvector
-docker run --name pgvector-demo -e POSTGRES_PASSWORD=yourpassword -p 5432:5432 -d ankane/pgvector
-```
-4. Setup .venv and .secerts.toml appropriately
 
-5. Create tables in postgres:
+2. Run the docker compose command:
 ```
-python utils/setup_tables.py
+docker-compose up --build
 ```
-6. Setup cv and job embeddings tables:
-```
-python utils/setup_cv.py
-python utils/setup_job_descriptions.py
-```
-7. Run the FastAPI application:
-```
-python src/app.py
-```
+3. To Access the API endpoint please have a look at API_documentation.md file.
 ## Structure 
 ```
 ├── README.md                                           # Project overview and instructions

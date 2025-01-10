@@ -113,6 +113,25 @@ This API uses FastAPI to provide a top candidate CV reccomendation for a given j
     "top_k": 3
 }
 ```
+#### Code example
+```
+import requests
+
+url = "http://127.0.0.1:8000/extract_top_k_job/"
+file_path = r"C:\\path\\to\\your\\cv.pdf"
+
+with open(file_path, "rb") as file:
+    response = requests.post(
+        url,
+        files={"file": file},
+        data={"top_k": 3}
+    )
+
+print(response.json())
+
+
+```
+
 
 #### Response:
 
@@ -250,14 +269,13 @@ The provided Dockerfile creates a slim Python environment to run the FastAPI app
    ```
   - 2. extract_top_k_job
   ```bash
-   curl -X 'POST' \
-  'http://localhost:8000/extract_top_k_job' \
+    curl -X 'POST' \
+  'http://127.0.0.1:8000/extract_top_k_job/' \
   -H 'accept: application/json' \
-  -H 'Content-Type: application/json' \
-  -d '{
-    "pdf_path": "abc.pdf",
-    "top_k": 3
-   }'
+  -H 'Content-Type: multipart/form-data' \
+  -F 'file=@C:\\Users\\abc\\Downloads\\cv matching\\data\\data\\ACCOUNTANT\\10554236.pdf' \
+  -F 'top_k=1'
+
    ```
 
 

@@ -3,13 +3,15 @@ from langchain.llms.base import LLM
 from config.config import settings
 from pydantic import ValidationError
 from schemas.llm import PostData, Message
-
+import os
+from dotenv import load_dotenv
+load_dotenv()
 class LLMService(LLM):
     API_BASE_URL = "https://api.openai.com/v1"
 
     headers = {
         "Content-Type": "application/json",
-        "Authorization": f"Bearer {settings.OPENAI_API_KEY}",
+        "Authorization": f"Bearer {os.getenv('OPENAI_API_KEY')}",
     }
 
     max_tokens_to_generate = settings.model_parameters.max_tokens_to_generate
