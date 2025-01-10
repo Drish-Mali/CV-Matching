@@ -23,6 +23,10 @@ HOST=db
 docker-compose up --build
 ```
 3. To Access the API endpoint please have a look at API_documentation.md file.
+
+#### Note :
+Please note that setting up all the tables and data might take some time. Kindly be patient until the app.py is running and uvicorn is started at http://0.0.0.0:8000/.
+
 ## Structure 
 ```
 ├── README.md                                           # Project overview and instructions
